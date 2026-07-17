@@ -1,0 +1,21 @@
+{:actor "hirameki",
+ :adr "2606212200",
+ :published_at "2026-06-21T00:00:00Z",
+ :scope
+ "PUBLIC patent reference only — bibliographic metadata; aggregate-first; no person-level inventor data (G6); a RELEASE map, never an FTO/infringement verdict (G1)",
+ :artifacts
+ {:corpus
+  {:file "hirameki-patents.corpus.kotoba.edn",
+   :bytes 2055,
+   :cid "bafkreiacmpjkhjncxlfjtfhfia7ikjyfjq42u7yi3x56ajppu374t3j4gi"},
+  :datoms
+  {:file "hirameki-patents.datoms.kotoba.edn",
+   :bytes 6255,
+   :cid
+   "bafkreif7ricl4x24y5pnquryjf4gakmwm36uqijtsao3rw2cuxuwflw4be"}},
+ :single_block {:corpus true, :datoms true},
+ :gateways
+ ["https://ipfs.io/ipfs/"
+  "https://dweb.link/ipfs/"
+  "https://cloudflare-ipfs.com/ipfs/"],
+ :verify "bb verify"}

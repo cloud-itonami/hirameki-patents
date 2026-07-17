@@ -1,0 +1,12 @@
+# DataLad / git-annex (ADR-2605241500): the bounded R0 EDN snapshot is git-tracked
+# directly (small, single raw block). The full-world bulk corpus (PatentsView TSV /
+# EPO / WIPO, the operator G9 ingest) is annexed → IPFS, not committed to git.
+* annex.largefiles=(largerthan=256kb)
+*.kotoba.edn -filter -text annex.largefiles=nothing
+*.edn -filter annex.largefiles=nothing
+README.md -filter annex.largefiles=nothing
+PUBLISH.md -filter annex.largefiles=nothing
+# bulk pulls (annexed → IPFS, never inline in git)
+*.tsv filter=annex
+*.tsv.zip filter=annex
+*.raw.edn filter=annex

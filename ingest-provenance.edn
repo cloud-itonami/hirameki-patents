@@ -1,0 +1,32 @@
+{:counts
+ {:fields 11,
+  :patents 7,
+  :cpc_sections_covered ["A" "B" "C" "G" "H" "Y"]},
+ :ingest_id "hirameki-public-r0",
+ :sources
+ [{:id "patentsview",
+   :url "https://patentsview.org/download/",
+   :license "CC0",
+   :scope
+   "granted-patent bibliographic bulk (g_patent / g_assignee / g_cpc_at_issue / g_us_patent_citation)",
+   :individual_level false}
+  {:id "epo_ops",
+   :url "https://ops.epo.org/",
+   :license "free tier (4GB/week)",
+   :scope "citation / family / INPADOC cross-link",
+   :individual_level false}
+  {:id "wipo_patentscope",
+   :url "https://patentscope.wipo.int/",
+   :license "free API",
+   :scope "PCT international applications",
+   :individual_level false}],
+ :adr "2606212200",
+ :note
+ "R0 bounded representative slice. Live primary-source bulk ingest (USPTO PatentsView CC0 / EPO OPS free / WIPO PATENTSCOPE) is the operator G9 step via DataLad→IPFS; the loop never queries the API (snapshot = SoT). No person-level inventor data (G6).",
+ :supersedes "2604251024",
+ :sourcing "representative",
+ :fetched_at "2026-06-21T00:00:00Z",
+ :artifacts
+ {:corpus "hirameki-patents.corpus.kotoba.edn",
+  :datoms "hirameki-patents.datoms.kotoba.edn",
+  :single_block true}}
