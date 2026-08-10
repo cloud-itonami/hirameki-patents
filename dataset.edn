@@ -47,12 +47,31 @@
 
  ;; 保管の実態。**耐久コピーは 1 つ**で、これがこの dataset の最大の穴。
  :dataset/custody
- {:durable-copies 1
-  :github "cloud-itonami/hirameki-patents（git、EDN。実在する唯一の耐久コピー）"
+ {:durable-copies 2
+  :github "cloud-itonami/hirameki-patents（git、EDN）"
+  :b2 {:bucket "gftdcojp-m365-annex"
+       :prefix "hirameki-patents/"
+       :form :git-bundle
+       :schedule "com.gftd.hirameki-mirror（日次 03:53）"
+       :generations 8
+       :pointer "latest.edn"
+       :note "annex ではなく bundle。780 KB の EDN は git が得意な領域で、annex 化すると
+正本に対する git diff / git blame を失って何も得ない。足りないのは content-addressed
+store ではなく 2 人目の custodian。**bundle は annex より強い性質を 1 つ持つ** ——
+GitHub が消えても bundle 1 つから repo 全体が復元できる（annex は実体を持つが履歴を持たない）。"}
   :local-checkouts 2
   :ipfs {:cids-computed true :pinned false
-         :note "CID は検証できるが取得できない。gateway は何も返さない（実測）"}
-  :radicle {:rid "rad:z3yMT2MUPS4PwTekwt3wboCAyRxm1" :replica-on-this-node false}
-  :numcopies :unmet
+         :note "CID は検証できるが取得できない。gateway は何も返さない（実測 2026-08-10）"}
+  :radicle {:rid "rad:z3yMT2MUPS4PwTekwt3wboCAyRxm1" :replica-on-this-node false
+            :note "west には 3,615 repo が rid を持つがローカル storage は 17 件、
+node は inbound を待ち受けない設定。第 2 の custodian にするには Radicle 運用の立ち上げが要る。"}
+  :numcopies 2
   :fsck-schedule :none
-  :recovery-drill :never-run}}
+  ;; **毎回のミラーが復元ドリルを兼ねる。** 置いたあと B2 から取り直し →
+  ;; sha256 一致 → clone → HEAD 一致 → verify.clj 通過、まで確かめて初めて成功と呼ぶ。
+  ;; 復元したことのないバックアップはバックアップではなく、バックアップの主張である。
+  :recovery-drill {:runs-every-mirror true
+                   :first-verified "2026-08-10"
+                   :checks [:sha256 :git-clone :head-match :corpus-verify]
+                   :note "`git bundle verify` は末尾に 1 バイト足した bundle を**通した**（実測）。
+sha256 比較と clone が捕まえている。単独の検査に頼らないこと。"}}}

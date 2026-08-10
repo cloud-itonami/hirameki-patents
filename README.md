@@ -84,16 +84,37 @@ exits 1, and so does introducing an inventor attribute.
 
 ## Custody — where this actually lives, measured
 
-**One durable copy.** That is the honest state, and it is the largest gap in
-this dataset.
+**Two durable copies**, the second added 2026-08-10 after the first version of
+this section reported one.
 
-| store | state (measured 2026-08-10) |
+| store | state |
 |---|---|
-| GitHub `cloud-itonami/hirameki-patents` | **the corpus, in git, as EDN** — real, and the only durable copy |
+| GitHub `cloud-itonami/hirameki-patents` | the corpus, in git, as EDN |
+| B2 `gftdcojp-m365-annex/hirameki-patents/` | **git bundle**, daily, 8 generations, `latest.edn` pointer |
 | local checkouts | 2, both on one operator machine |
 | git-annex | **not initialized in this repo.** 0 files annexed, no content remote |
 | IPFS | CIDs computed; **nothing pinned.** No gateway can serve them |
 | Radicle (`rad:z3yMT2MUPS4PwTekwt3wboCAyRxm1`) | id registered; **no replica on this node** |
+
+### Why a bundle and not annex
+
+A `git bundle` holds the whole history in one file, so **if GitHub disappears the
+repository comes back from that one file**. Annex holds content but not history.
+At 780 KB of EDN, git is exactly the right store and annexing would cost `git
+diff` and `git blame` on the authoritative record for nothing; what was missing
+was never a content-addressed store, it was a second custodian.
+
+### The restore drill runs every time
+
+Putting a file somewhere is not a backup. `com.gftd.hirameki-mirror` uploads,
+then **downloads it back, compares sha256, clones from it, checks HEAD matches,
+and runs `verify.clj` inside the restored clone** — and only then records
+success. A run that uploads but cannot restore is written to the ledger as
+`:mirror/restored false`, which is the honest name for it.
+
+Measured while building this: **`git bundle verify` accepted a bundle with a
+byte appended to it.** sha256 comparison and `git clone` both rejected it. No
+single check is enough.
 
 ### About the DataLad claim
 
