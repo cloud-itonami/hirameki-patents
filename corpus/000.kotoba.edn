@@ -35,6 +35,16 @@
   :assignee :cetus,
   :term-years 20,
   :open-license :none}
+ {:jurisdiction :be,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/BE622556A/en",
+  :title "",
+  :status :pending,
+  :id "BE622556A",
+  :sourcing :authoritative,
+  :assignee :unassigned,
+  :term-years 20,
+  :open-license :none}
  {:assignees [:raytheon-manufacturing],
   :jurisdiction :ca,
   :field "UNKNOWN",
@@ -3399,6 +3409,19 @@
   :grant-year 1931,
   :term-years 20,
   :open-license :none}
+ {:assignees [:firm-silfree],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US1840529/en",
+  :title "Method of treating photo-sensitive bodies",
+  :status :granted,
+  :id "US1840529",
+  :sourcing :authoritative,
+  :filing-year 1929,
+  :assignee :firm-silfree,
+  :grant-year 1932,
+  :term-years 20,
+  :open-license :none}
  {:jurisdiction :us,
   :field "UNKNOWN",
   :source "https://patents.google.com/patent/US1887691/en",
@@ -3679,6 +3702,19 @@
   :sourcing :authoritative,
   :filing-year 1942,
   :assignee :internat-plastic,
+  :grant-year 1944,
+  :term-years 20,
+  :open-license :none}
+ {:jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2349979/en",
+  :title
+  "Polymerization or polycondensation product and the method for producing the same",
+  :status :granted,
+  :id "US2349979",
+  :sourcing :authoritative,
+  :filing-year 1941,
+  :assignee :unassigned,
   :grant-year 1944,
   :term-years 20,
   :open-license :none}
@@ -4251,6 +4287,21 @@
   :cites ["CA500178A" "US2698240"],
   :term-years 20,
   :open-license :none}
+ {:assignees [:us-philips],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2827391/en",
+  :title
+  "Method of coating the inside of a curved tube with fluorescent material",
+  :status :granted,
+  :id "US2827391",
+  :sourcing :authoritative,
+  :filing-year 1955,
+  :assignee :us-philips,
+  :grant-year 1958,
+  :cites ["US2634510" "US2643956"],
+  :term-years 20,
+  :open-license :none}
  {:assignees [:commw-mental-health-res-founda],
   :jurisdiction :us,
   :field "UNKNOWN",
@@ -4285,6 +4336,20 @@
   :assignee :ei-du-pont-de-nemours-and,
   :grant-year 1958,
   :cites ["US2162616" "US2178523" "US2519550" "US2551365" "US2734889"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:monsanto-chemicals],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2870123/en",
+  :title "Polymeric aminonitriles",
+  :status :granted,
+  :id "US2870123",
+  :sourcing :authoritative,
+  :filing-year 1954,
+  :assignee :monsanto-chemicals,
+  :grant-year 1959,
+  :cites ["DE638071C" "US2228271" "US2387735" "US2653143"],
   :term-years 20,
   :open-license :none}
  {:assignees [:firestone-tire-and-rubber],
@@ -4454,6 +4519,20 @@
   :cites ["US2846625" "US2858356" "US2887629"],
   :term-years 20,
   :open-license :none}
+ {:assignees [:eastman-kodak],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3011890/en",
+  :title "Photographic emulsions",
+  :status :granted,
+  :id "US3011890",
+  :sourcing :authoritative,
+  :filing-year 1958,
+  :assignee :eastman-kodak,
+  :grant-year 1961,
+  :cites ["US2652345" "US2691582" "US2788336" "US2865753"],
+  :term-years 20,
+  :open-license :none}
  {:assignees [:us-philips],
   :jurisdiction :us,
   :field "UNKNOWN",
@@ -4491,6 +4570,27 @@
   :assignee :north-american-aviation,
   :grant-year 1962,
   :cites ["US2774747" "US2808352" "US2851380"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:kalle-and-kg],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3041165/en",
+  :title "Electrophotographic material",
+  :status :granted,
+  :id "US3041165",
+  :sourcing :authoritative,
+  :filing-year 1957,
+  :assignee :kalle-and-kg,
+  :grant-year 1962,
+  :cites
+  ["US2418747"
+   "US2426766"
+   "US2513996"
+   "US2663636"
+   "US2692178"
+   "US2800559"
+   "US2901348"],
   :term-years 20,
   :open-license :none}
  {:assignees [:champion-papers],
@@ -4568,6 +4668,27 @@
   :assignee :swift-and,
   :grant-year 1963,
   :cites ["US1694807" "US2710810" "US2919194"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:deutsche-itt-industries],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3081203/en",
+  :title
+  "Method of removing hardened photoresist material from printed circuit conductors",
+  :status :granted,
+  :id "US3081203",
+  :sourcing :authoritative,
+  :filing-year 1960,
+  :assignee :deutsche-itt-industries,
+  :grant-year 1963,
+  :cites
+  ["US2338673"
+   "US2417468"
+   "US2435239"
+   "US2709666"
+   "US2737465"
+   "US2925332"],
   :term-years 20,
   :open-license :none}
  {:assignees [:mead],
@@ -4648,6 +4769,28 @@
    "US2971429"],
   :term-years 20,
   :open-license :none}
+ {:assignees [:azoplate],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3163531/en",
+  :title "Photoconductive layers for electrophotographic purposes",
+  :status :granted,
+  :id "US3163531",
+  :sourcing :authoritative,
+  :filing-year 1960,
+  :assignee :azoplate,
+  :grant-year 1964,
+  :cites
+  ["BE562336A"
+   "US2377868"
+   "US2477462"
+   "US2495890"
+   "US2935493"
+   "US2953546"
+   "US2954291"
+   "US2962376"],
+  :term-years 20,
+  :open-license :none}
  {:jurisdiction :us,
   :field "UNKNOWN",
   :source "https://patents.google.com/patent/US3163968/en",
@@ -4698,6 +4841,20 @@
   :cites ["US2848437"],
   :term-years 20,
   :open-license :none}
+ {:assignees [:talb-ind],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3175907/en",
+  :title "Stripping resists from printing plates",
+  :status :granted,
+  :id "US3175907",
+  :sourcing :authoritative,
+  :filing-year 1963,
+  :assignee :talb-ind,
+  :grant-year 1965,
+  :cites ["US3051603"],
+  :term-years 20,
+  :open-license :none}
  {:assignees [:zellsloff-fabrik-waldhof],
   :jurisdiction :us,
   :field "UNKNOWN",
@@ -4735,6 +4892,20 @@
   :assignee :johns-manville,
   :grant-year 1965,
   :cites ["US2568658" "US2595852" "US2792871" "US2990388" "US3002869"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:american-cyanamid],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3198767/en",
+  :title "Conjugated organic polymers",
+  :status :granted,
+  :id "US3198767",
+  :sourcing :authoritative,
+  :filing-year 1961,
+  :assignee :american-cyanamid,
+  :grant-year 1965,
+  :cites ["GB774794A" "US2089302" "US2509183" "US2845400" "US2895944"],
   :term-years 20,
   :open-license :none}
  {:assignees [:th-goldschmidt],
@@ -4786,6 +4957,27 @@
   :cites ["US2497852" "US329724"],
   :term-years 20,
   :open-license :none}
+ {:assignees [:harris-intertype],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3230088/en",
+  :title
+  "Process for preparing printing plates from photosensitized polyvinyl alcohol compositions",
+  :status :granted,
+  :id "US3230088",
+  :sourcing :authoritative,
+  :filing-year 1961,
+  :assignee :harris-intertype,
+  :grant-year 1966,
+  :cites
+  ["US1751909"
+   "US2249514"
+   "US2393821"
+   "US2604388"
+   "US2827390"
+   "US2830899"],
+  :term-years 20,
+  :open-license :none}
  {:assignees [:combined-locks-paper],
   :jurisdiction :us,
   :field "UNKNOWN",
@@ -4809,6 +5001,31 @@
    "US2772604"
    "US2946307"
    "US3146159"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:azoplate],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3244517/en",
+  :title "Electrophotographic process",
+  :status :granted,
+  :id "US3244517",
+  :sourcing :authoritative,
+  :filing-year 1961,
+  :assignee :azoplate,
+  :grant-year 1966,
+  :cites
+  ["BE562336A"
+   "US1587269"
+   "US1587272"
+   "US1587273"
+   "US1587274"
+   "US1777140"
+   "US1939691"
+   "US2997387"
+   "US3041165"
+   "US3081165"
+   "US3163531"],
   :term-years 20,
   :open-license :none}
  {:assignees [:boehringer-mannheim],
@@ -4848,6 +5065,31 @@
    "US3070574"
    "US3140278"
    "US3149182"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:tung-sol-electric],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3255005/en",
+  :title "Masking process for semiconductor elements",
+  :status :granted,
+  :id "US3255005",
+  :sourcing :authoritative,
+  :filing-year 1962,
+  :assignee :tung-sol-electric,
+  :grant-year 1966,
+  :cites
+  ["US2515940"
+   "US2802760"
+   "US2935781"
+   "US2937353"
+   "US2981877"
+   "US3025589"
+   "US3036006"
+   "US3055776"
+   "US3066052"
+   "US3104991"
+   "US3122817"],
   :term-years 20,
   :open-license :none}
  {:assignees [:energy-conversion-devices],
@@ -5149,6 +5391,21 @@
   :assignee :monsanto,
   :grant-year 1968,
   :cites ["US2734047" "US2887473" "US2924589" "US2972607"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:general-electric],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3373141/en",
+  :title
+  "Photoconductive copolymers of styrene and acrolein derivatized with aryl amines",
+  :status :granted,
+  :id "US3373141",
+  :sourcing :authoritative,
+  :filing-year 1964,
+  :assignee :general-electric,
+  :grant-year 1968,
+  :cites ["US3163531"],
   :term-years 20,
   :open-license :none}
  {:assignees [:inventor-s-group],
@@ -5831,6 +6088,19 @@
   :cites ["US3340156"],
   :term-years 20,
   :open-license :none}
+ {:assignees [:zenith-radio],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3672893/en",
+  :title "Process of manufacturing screens for shadow-mask tubes",
+  :status :granted,
+  :id "US3672893",
+  :sourcing :authoritative,
+  :filing-year 1970,
+  :assignee :zenith-radio,
+  :grant-year 1972,
+  :term-years 20,
+  :open-license :none}
  {:assignees [:medstar-research-institute],
   :jurisdiction :us,
   :field "UNKNOWN",
@@ -6081,6 +6351,20 @@
   :cites ["US3597318"],
   :term-years 20,
   :open-license :none}
+ {:assignees [:international-business-machines],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3767490/en",
+  :title "Process for etching organic coating layers",
+  :status :granted,
+  :id "US3767490",
+  :sourcing :authoritative,
+  :filing-year 1971,
+  :assignee :international-business-machines,
+  :grant-year 1973,
+  :cites ["US2443373" "US3705055"],
+  :term-years 20,
+  :open-license :none}
  {:assignees [:united-states-department-of-the-army],
   :jurisdiction :us,
   :field "UNKNOWN",
@@ -6115,6 +6399,29 @@
    "US3697227"],
   :term-years 20,
   :open-license :none}
+ {:assignees [:rca],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3770434/en",
+  :title
+  "Method for making an image screen structure for an apertured-mask cathode-ray tube using a mask having temporary apertures",
+  :status :granted,
+  :id "US3770434",
+  :sourcing :authoritative,
+  :filing-year 1971,
+  :assignee :rca,
+  :grant-year 1973,
+  :cites
+  ["US2750524"
+   "US2961314"
+   "US2971117"
+   "US3070441"
+   "US3231380"
+   "US3574013"
+   "US3600213"
+   "US3653901"],
+  :term-years 20,
+  :open-license :none}
  {:assignees [:akzona],
   :jurisdiction :us,
   :field "UNKNOWN",
@@ -6140,6 +6447,20 @@
   :sourcing :authoritative,
   :filing-year 1971,
   :assignee :miles-laboratories,
+  :grant-year 1974,
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:howson-algraphy],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3796603/en",
+  :title
+  "Method of removing insolubilized light sensitized poly(vinyl alcohol) from a surface utilizing periodate ions",
+  :status :granted,
+  :id "US3796603",
+  :sourcing :authoritative,
+  :filing-year 1972,
+  :assignee :howson-algraphy,
   :grant-year 1974,
   :term-years 20,
   :open-license :none}
@@ -6509,6 +6830,20 @@
    "US3450693"
    "US3454559"
    "US3712885"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:rca],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3929532/en",
+  :title "Method for etching apertured work piece",
+  :status :granted,
+  :id "US3929532",
+  :sourcing :authoritative,
+  :filing-year 1974,
+  :assignee :rca,
+  :grant-year 1975,
+  :cites ["US2437228" "US2750524" "US3329541" "US3609033" "US3679500"],
   :term-years 20,
   :open-license :none}
  {:assignees [:university-of-michigan-system],
@@ -8720,354 +9055,5 @@
    "US4395397"
    "US4513438"
    "WO1980000188A1"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:gte-products],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US4646127/en",
-  :title "Scrap-less taping system for IC lead-frames",
-  :status :granted,
-  :id "US4646127",
-  :sourcing :authoritative,
-  :filing-year 1986,
-  :assignee :gte-products,
-  :grant-year 1987,
-  :cites ["US4480150"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:amersham-international],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US4656127/en",
-  :title "Method of detecting mutations in DNA and RNA",
-  :status :granted,
-  :id "US4656127",
-  :sourcing :authoritative,
-  :filing-year 1984,
-  :assignee :amersham-international,
-  :grant-year 1987,
-  :cites ["US4351901" "US4358535" "US4521509"],
-  :term-years 20,
-  :open-license :none}
- {:jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US4656252/en",
-  :title
-  "Amidobiotin compounds useful in a avidin-biotin multiple layering process",
-  :status :granted,
-  :id "US4656252",
-  :sourcing :authoritative,
-  :filing-year 1984,
-  :assignee :unassigned,
-  :grant-year 1987,
-  :cites ["US4228237" "US4230797" "US4298685"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:university-of-massachusetts-system],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US4663446/en",
-  :title
-  "N2 (phenyl substituted) deoxy guanosine containing compounds",
-  :status :granted,
-  :id "US4663446",
-  :sourcing :authoritative,
-  :filing-year 1983,
-  :assignee :university-of-massachusetts-system,
-  :grant-year 1987,
-  :cites ["US3480613" "US3936439" "US4267171"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:advanced-magnetics],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US4672040/en",
-  :title "Magnetic particles for use in separations",
-  :status :granted,
-  :id "US4672040",
-  :sourcing :authoritative,
-  :filing-year 1985,
-  :assignee :advanced-magnetics,
-  :grant-year 1987,
-  :cites
-  ["EP0113452A2"
-   "GB2011424A"
-   "GB2014727A"
-   "US30360"
-   "US3470067"
-   "US3650698"
-   "US3652761"
-   "US3700555"
-   "US3796660"
-   "US3806449"
-   "US3933997"
-   "US3970518"
-   "US3985649"
-   "US4018886"
-   "US4115534"
-   "US4115535"
-   "US4123396"
-   "US4138383"
-   "US4141687"
-   "US4152210"
-   "US4157323"
-   "US4169804"
-   "US4177253"
-   "US4193866"
-   "US4197220"
-   "US4206094"
-   "US4219411"
-   "US4230685"
-   "US4241176"
-   "US4267234"
-   "US4267235"
-   "US4297337"
-   "US4343901"
-   "US4358535"
-   "US4369226"
-   "US4452773"
-   "US4454234"
-   "WO1983002669A1"
-   "WO1983003426A1"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:cetus],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US4683194/en",
-  :title
-  "Method for detection of polymorphic restriction sites and nucleic acid sequences",
-  :status :granted,
-  :id "US4683194",
-  :sourcing :authoritative,
-  :filing-year 1985,
-  :assignee :cetus,
-  :grant-year 1987,
-  :cites ["EP0142299A2" "US4395486" "US4477577" "US4535058"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:cetus],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US4683195/en",
-  :title
-  "Process for amplifying, detecting, and/or-cloning nucleic acid sequences",
-  :status :granted,
-  :id "US4683195",
-  :sourcing :authoritative,
-  :filing-year 1986,
-  :assignee :cetus,
-  :grant-year 1987,
-  :cites ["US4395486"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:cetus],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US4683202/en",
-  :title "Process for amplifying nucleic acid sequences",
-  :status :granted,
-  :id "US4683202",
-  :sourcing :authoritative,
-  :filing-year 1985,
-  :assignee :cetus,
-  :grant-year 1987,
-  :term-years 20,
-  :open-license :none}
- {:assignees [:biospecific-technologies],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US4687808/en",
-  :title
-  "Activation of biocompatible polymers with biologicals whose binding complements are pathological effectors",
-  :status :granted,
-  :id "US4687808",
-  :sourcing :authoritative,
-  :filing-year 1983,
-  :assignee :biospecific-technologies,
-  :grant-year 1987,
-  :cites
-  ["CA1104110A"
-   "EP0082345A1"
-   "US3826678"
-   "US4059685"
-   "US4061141"
-   "US4182750"
-   "US4192748"
-   "US4222907"
-   "US4239743"
-   "US4272549"
-   "US4292296"
-   "US4305926"
-   "US4357311"
-   "US4362155"
-   "US4430229"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:integrated-genetics],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US4689295/en",
-  :title "Test for Salmonella",
-  :status :granted,
-  :id "US4689295",
-  :sourcing :authoritative,
-  :filing-year 1983,
-  :assignee :integrated-genetics,
-  :grant-year 1987,
-  :cites ["US4139346" "US4302204" "US4358535" "US4359535" "US4486539"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:helmholtz-zentrum-fuer-infektionsforschung-hzi],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US4689405/en",
-  :title
-  "Process for the simultaneous synthesis of several oligonucleotides on a solid phase",
-  :status :granted,
-  :id "US4689405",
-  :sourcing :authoritative,
-  :filing-year 1984,
-  :assignee :helmholtz-zentrum-fuer-infektionsforschung-hzi,
-  :grant-year 1987,
-  :cites
-  ["US3280104"
-   "US4373071"
-   "US4401796"
-   "US4404368"
-   "US4458066"
-   "US4500707"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:university-of-california-san-diego-ucsd],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US4699877/en",
-  :title "Methods and compositions for detecting human tumors",
-  :status :granted,
-  :id "US4699877",
-  :sourcing :authoritative,
-  :filing-year 1984,
-  :assignee :university-of-california-san-diego-ucsd,
-  :grant-year 1987,
-  :cites
-  ["GB2034323A"
-   "US4331647"
-   "US4348376"
-   "US4358535"
-   "US4361544"
-   "US4535058"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:pfizer],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US4709044/en",
-  :title "Biotin intermediates",
-  :status :granted,
-  :id "US4709044",
-  :sourcing :authoritative,
-  :filing-year 1984,
-  :assignee :pfizer,
-  :grant-year 1987,
-  :cites ["GB1419927A" "US3960884"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:yale-university],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US4710465/en",
-  :title "Junction-fragment DNA probes and probe clusters",
-  :status :granted,
-  :id "US4710465",
-  :sourcing :authoritative,
-  :filing-year 1984,
-  :assignee :yale-university,
-  :grant-year 1987,
-  :cites ["US4394443" "US4395486" "US4528266" "US4530901"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:yale-university],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US4711955/en",
-  :title
-  "Modified nucleotides and methods of preparing and using same",
-  :status :granted,
-  :id "US4711955",
-  :sourcing :authoritative,
-  :filing-year 1983,
-  :assignee :yale-university,
-  :grant-year 1987,
-  :cites
-  ["DE2618419A1"
-   "DE2618511A1"
-   "DE3045375A1"
-   "EP0070685A2"
-   "EP0070687B1"
-   "GB1548741A"
-   "GB1552607A"
-   "GB2019408A"
-   "GB2026690A"
-   "GB2034323A"
-   "GB2041922A"
-   "GB2045239A"
-   "GB2125964A"
-   "US3328389"
-   "US3337530"
-   "US3338882"
-   "US3804826"
-   "US3893998"
-   "US3915958"
-   "US3917583"
-   "US3960840"
-   "US3968101"
-   "US4008363"
-   "US4038480"
-   "US4048307"
-   "US4086417"
-   "US4088639"
-   "US4096324"
-   "US4134792"
-   "US4151349"
-   "US4171432"
-   "US4213893"
-   "US4228237"
-   "US4230698"
-   "US4230797"
-   "US4247544"
-   "US4261893"
-   "US4267171"
-   "US4302204"
-   "US4318980"
-   "US4318981"
-   "US4318982"
-   "US4355165"
-   "US4358535"
-   "US4363759"
-   "US4374925"
-   "US4380580"
-   "US4383031"
-   "US4446231"
-   "US4469863"
-   "WO1983002276A1"
-   "WO1983002277A1"
-   "WO1983002286A1"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:molecular-diagnostics],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US4713326/en",
-  :title
-  "Coupling of nucleic acids to solid support by photochemical methods",
-  :status :granted,
-  :id "US4713326",
-  :sourcing :authoritative,
-  :filing-year 1984,
-  :assignee :molecular-diagnostics,
-  :grant-year 1987,
-  :cites ["EP0131830A1" "US4542102" "US4582789" "US4592998"],
   :term-years 20,
   :open-license :none}]

@@ -121,6 +121,40 @@
   "hirameki-patent:AU7015287A"
   ":hirameki/source"
   "https://patents.google.com/patent/AU7015287A/en"]
+ [":db/add" "hirameki-patent:BE622556A" ":hirameki.patent/title" ""]
+ [":db/add"
+  "hirameki-patent:BE622556A"
+  ":hirameki.patent/jurisdiction"
+  ":be"]
+ [":db/add"
+  "hirameki-patent:BE622556A"
+  ":hirameki.patent/field"
+  "UNKNOWN"]
+ [":db/add"
+  "hirameki-patent:BE622556A"
+  ":hirameki.patent/assignee"
+  ":unassigned"]
+ [":db/add"
+  "hirameki-patent:BE622556A"
+  ":hirameki.patent/status"
+  ":pending"]
+ [":db/add"
+  "hirameki-patent:BE622556A"
+  ":hirameki.patent/open-license"
+  ":none"]
+ [":db/add"
+  "hirameki-patent:BE622556A"
+  ":hirameki.obs/release-status"
+  ":pending"]
+ [":db/add"
+  "hirameki-patent:BE622556A"
+  ":hirameki/sourcing"
+  ":authoritative"]
+ [":db/add" "hirameki-patent:BE622556A" ":hirameki/derived" true]
+ [":db/add"
+  "hirameki-patent:BE622556A"
+  ":hirameki/source"
+  "https://patents.google.com/patent/BE622556A/en"]
  [":db/add"
   "hirameki-patent:CA479968A"
   ":hirameki.patent/title"
@@ -9874,37 +9908,4 @@
  [":db/add"
   "hirameki-patent:JP2013213151A"
   ":hirameki.patent/status"
-  ":pending"]
- [":db/add"
-  "hirameki-patent:JP2013213151A"
-  ":hirameki.patent/open-license"
-  ":none"]
- [":db/add"
-  "hirameki-patent:JP2013213151A"
-  ":hirameki.obs/release-status"
-  ":pending"]
- [":db/add"
-  "hirameki-patent:JP2013213151A"
-  ":hirameki/sourcing"
-  ":authoritative"]
- [":db/add" "hirameki-patent:JP2013213151A" ":hirameki/derived" true]
- [":db/add"
-  "hirameki-patent:JP2013213151A"
-  ":hirameki.obs/years-to-expiry"
-  6]
- [":db/add"
-  "hirameki-patent:JP2013213151A"
-  ":hirameki/source"
-  "https://patents.google.com/patent/JP2013213151A/en"]
- [":db/add"
-  "hirameki-patent:JP3062483B2"
-  ":hirameki.patent/title"
-  "Water-based emulsion, production method thereof, and water-based paint using the same"]
- [":db/add"
-  "hirameki-patent:JP3062483B2"
-  ":hirameki.patent/jurisdiction"
-  ":jp"]
- [":db/add"
-  "hirameki-patent:JP3062483B2"
-  ":hirameki.patent/field"
-  "UNKNOWN"]]
+  ":pending"]]
