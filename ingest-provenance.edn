@@ -1,32 +1,62 @@
-{:counts
- {:fields 11,
-  :patents 7,
-  :cpc_sections_covered ["A" "B" "C" "G" "H" "Y"]},
- :ingest_id "hirameki-public-r0",
+{:ingest_id "hirameki-google-patents-citation-walk"
+ :adr "2607251552"
+ :supersedes "hirameki-public-r0"
+ :fetched_at "2026-07-25T07:02:20Z/2026-07-28T00:00:00Z"
+ :sourcing :authoritative
+
+ :counts {:patents 625
+          :harvested 618
+          :curated 7
+          :citation_edges 2448
+          :distinct_cited 1945
+          :cited_already_harvested 614
+          :frontier 1331
+          :distinct_named_assignees 287
+          :unassigned 39
+          :jurisdictions 20}
+
+ ;; Honest coverage. ~200M public patents exist worldwide (ADR-2604251024
+ ;; framing); 618 of them is 0.0003%. This is a citation-graph neighbourhood
+ ;; around four seed patents, NOT a sample of the patent system, and no
+ ;; aggregate computed from it should be read as a world statistic.
+ :coverage {:world_public_patents_est 200000000
+            :corpus_coverage_pct 0.0003
+            :shape "citation-graph neighbourhood around 4 seeds (CRISPR ×2, aqueous coating, mRNA-LNP)"
+            :cpc_classification :absent
+            :cpc_note "Google Patents pages carry no CPC symbol, so field-level concentration is NOT computable from this corpus. Rows carry :field \"UNKNOWN\" rather than a guess."}
+
  :sources
- [{:id "patentsview",
-   :url "https://patentsview.org/download/",
-   :license "CC0",
-   :scope
-   "granted-patent bibliographic bulk (g_patent / g_assignee / g_cpc_at_issue / g_us_patent_citation)",
+ [{:id "google-patents"
+   :status :running
+   :url "https://patents.google.com/patent/<id>/en"
+   :auth :none
+   :scope "worldwide bibliographic metadata: title, number, jurisdiction, filing/grant date, applicants, cited patents"
+   :individual_level false
+   :note "harvested by cloud-itonami/hirameki via the kotoba-lang/toshokan-patents parser; one lookup per tick, identifying User-Agent, metadata only"}
+  {:id "uspto-odp"
+   :status :operator-step-not-yet-run
+   :url "https://api.uspto.gov/api/v1/patent/applications/search"
+   :auth "USPTO_ODP_API_KEY (free; the operator's, never committed)"
+   :scope "granted-patent bibliographic + cpcClassificationBag"
+   :individual_level false
+   :note "the leg that would supply CPC. Implemented and unit-tested against a fixture; never run against the live API."}
+  {:id "epo-ops"
+   :status :not-implemented
+   :url "https://ops.epo.org/"
+   :auth "OAuth registration"
+   :scope "citation / family / INPADOC cross-link"
    :individual_level false}
-  {:id "epo_ops",
-   :url "https://ops.epo.org/",
-   :license "free tier (4GB/week)",
-   :scope "citation / family / INPADOC cross-link",
-   :individual_level false}
-  {:id "wipo_patentscope",
-   :url "https://patentscope.wipo.int/",
-   :license "free API",
-   :scope "PCT international applications",
-   :individual_level false}],
- :adr "2606212200",
- :note
- "R0 bounded representative slice. Live primary-source bulk ingest (USPTO PatentsView CC0 / EPO OPS free / WIPO PATENTSCOPE) is the operator G9 step via DataLad→IPFS; the loop never queries the API (snapshot = SoT). No person-level inventor data (G6).",
- :supersedes "2604251024",
- :sourcing "representative",
- :fetched_at "2026-06-21T00:00:00Z",
- :artifacts
- {:corpus "hirameki-patents.corpus.kotoba.edn",
-  :datoms "hirameki-patents.datoms.kotoba.edn",
-  :single_block true}}
+  {:id "wipo-patentscope"
+   :status :not-implemented
+   :url "https://patentscope.wipo.int/"
+   :auth :none
+   :scope "PCT international applications"
+   :individual_level false}]
+
+ :gates {:G1 "a RELEASE map, never an FTO/infringement/patentability verdict or equity signal"
+         :G2 "a patent is the gated OBJECT, never a holder"
+         :G3 "status and shares are disclosed facts, never re-judged"
+         :G6 "no person-level inventor data — the journal records what the page published; the corpus boundary drops it"
+         :G8 "no server-held key; this source needs none"}
+
+ :note "The journal (80-data/public/google-patents.journal.edn) is the input and the git-authoritative record. corpus/ and datoms/ are derived and rebuildable."}

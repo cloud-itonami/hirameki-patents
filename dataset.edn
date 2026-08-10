@@ -1,13 +1,46 @@
 {:dataset/id "hirameki-patents"
  :dataset/category :public-patent-bibliographic-corpus
- :dataset/owner "https://github.com/etzhayyim/com-etzhayyim-hirameki"
+ :dataset/owner "https://github.com/cloud-itonami/hirameki"
  :dataset/format :kotoba-edn
- :dataset/substrate :git-annex-ipfs-ready
- :dataset/adr ["2606212200" "2605241500"]
- :dataset/sourcing :representative
+ :dataset/substrate :datalad-git-annex
+ :dataset/adr ["2606212200" "2605241500" "2607251552"]
+ :dataset/sourcing :authoritative
  :dataset/person-level-data false
+
+ ;; Where the rows come from. The citation-graph harvest is the one that
+ ;; actually runs; the bulk legs remain operator steps and are marked as such
+ ;; rather than described as if they had run.
+ :dataset/sources
+ [{:id :google-patents
+   :status :running
+   :auth :none
+   :via "cloud-itonami/hirameki (harvest leg) using kotoba-lang/toshokan-patents"
+   :note "citation-graph walk; bibliographic metadata only, no CPC"}
+  {:id :uspto-odp
+   :status :operator-step-not-yet-run
+   :auth "USPTO_ODP_API_KEY (free, the operator's — never committed)"
+   :note "adds CPC classification, which is what field-level analytics need"}
+  {:id :epo-ops    :status :not-implemented :auth "OAuth registration"}
+  {:id :wipo-patentscope :status :not-implemented :auth :none}]
+
  :dataset/artifacts
- {:corpus "hirameki-patents.corpus.kotoba.edn"
-  :datoms "hirameki-patents.datoms.kotoba.edn"
+ {:journal "80-data/public/google-patents.journal.edn"
+  :corpus "corpus/*.kotoba.edn"
+  :datoms "datoms/*.kotoba.edn"
   :provenance "ingest-provenance.edn"
-  :publication "publish-manifest.edn"}}
+  :publication "publish-manifest.edn"}
+
+ ;; Every published shard stays under the 256 KiB IPFS chunker limit, so a
+ ;; CIDv1/raw CID is exactly what `ipfs add --cid-version=1 --raw-leaves`
+ ;; produces and `clojure -M verify.clj` can check it with no daemon.
+ :dataset/shard-limit-bytes 262144
+
+ ;; git-annex is initialized, but `.gitattributes` routes every *.edn to plain
+ ;; git: at this size annex would cost diffability and buy nothing. The annex is
+ ;; here for the bulk pulls (*.tsv, *.raw.edn) that the operator legs produce.
+ ;; No content is annexed yet, so no content remote is configured yet either —
+ ;; GitHub cannot serve annexed content in any case.
+ :dataset/annex {:initialized true
+                 :annexed-files 0
+                 :routing "*.edn → git; *.tsv, *.tsv.zip, *.raw.edn → annex"
+                 :content-remote :none-yet}}

@@ -1,30 +1,76 @@
 # hirameki 閃き — published public-patent corpus
 
 > PUBLIC patent bibliographic data only — aggregate-first, no person-level inventor (G6) ·
-> ADR-2606212200 (supersedes 2604251024) · a RELEASE map, never an FTO/infringement verdict (G1)
+> ADR-2606212200 · a RELEASE map, never an FTO/infringement verdict (G1)
 
-The patent corpus, content-addressed to kotoba IPFS (CIDv1, raw, sha2-256). The CID is
-byte-identical to `ipfs add --cid-version=1 --raw-leaves` and verifiable with
-`bb verify` — no daemon required.
+The corpus, content-addressed to IPFS CIDv1 (raw, sha2-256, base32). Every shard's
+CID is byte-identical to `ipfs add --cid-version=1 --raw-leaves` and checkable
+with **no daemon and no network**.
 
-## Artifacts
+## The CIDs live in `publish-manifest.edn`, not here
 
-| artifact | file | bytes | CID |
-|---|---|---:|---|
-| corpus (EDN) | `hirameki-patents.corpus.kotoba.edn` | 2055 | `bafkreiacmpjkhjncxlfjtfhfia7ikjyfjq42u7yi3x56ajppu374t3j4gi` |
-| datoms (EAVT) | `hirameki-patents.datoms.kotoba.edn` | 6255 | `bafkreif7ricl4x24y5pnquryjf4gakmwm36uqijtsao3rw2cuxuwflw4be` |
-
-(Both verified byte-identical against `ipfs add --cid-version=1 --raw-leaves` 2026-06-21.)
-
-## Fetch + verify (trustless, no daemon trust)
+They are not repeated in this file on purpose. A table of hashes in prose goes
+stale the first time the corpus grows, and a stale hash beside a live file is
+worse than no hash at all. Read the manifest:
 
 ```bash
-curl -sSL https://ipfs.io/ipfs/bafkreiacmpjkhjncxlfjtfhfia7ikjyfjq42u7yi3x56ajppu374t3j4gi -o corpus.edn
-ipfs add -Q --cid-version=1 --raw-leaves --only-hash corpus.edn   # compare to the CID above
+clojure -M verify.clj        # re-derives every CID from the bytes on disk
 ```
 
-Gateways: https://ipfs.io/ipfs/, https://dweb.link/ipfs/, https://cloudflare-ipfs.com/ipfs/
+It checks four things, and fails with exit 1 on any of them:
+
+1. each shard's byte count matches the manifest
+2. each shard's CIDv1/raw matches the manifest
+3. **no shard is at or past 256 KiB** (see below)
+4. **the item counts add up** — every shard can be internally perfect while the
+   set of shards is short one
+
+## Why the corpus is sharded
+
+`bafkrei…` is the hash of ONE raw block. It equals what `ipfs add` produces only
+while a file stays under the 256 KiB chunker limit; past that IPFS builds a
+UnixFS DAG whose root is a `bafybei…` dag-pb CID. Measured 2026-08-10, when the
+corpus went from 7 rows to 625:
+
+```
+corpus 280,078 bytes
+  raw-block CID  bafkreibo345qp6u5zkpf3zrbp4hbwtl6u5ov53gsixb43azzgnw7svk3va
+  ipfs add       bafybeicpvod7rmqy2l74m32tjf3gtaez6q2axx5pznwofi4aaeedlcy3pm
+```
+
+The published CID had quietly become unverifiable. Rather than take on a UnixFS
+DAG builder — which would make publishing depend on an IPFS implementation and
+defeat the "verify without a daemon" promise — rows are packed into shards that
+stay inside one block. `write!` refuses to publish an over-limit shard.
+
+## Fetch + verify (trustless)
+
+```bash
+# any shard, from any gateway, checked against the hash you already have
+curl -sSL https://ipfs.io/ipfs/<cid> -o shard.edn
+ipfs add -Q --cid-version=1 --raw-leaves --only-hash shard.edn   # must equal <cid>
+```
+
+Gateways: `https://ipfs.io/ipfs/`, `https://dweb.link/ipfs/`, `https://cloudflare-ipfs.com/ipfs/`
+
+## Layout
+
+| path | what |
+|---|---|
+| `80-data/public/google-patents.journal.edn` | the raw harvest journal — append-only `[e a v tx op]` quads, git-authoritative (ADR-2607072300) |
+| `corpus/NNN.kotoba.edn` | normalized patent rows, sorted by id, sharded |
+| `datoms/NNN.kotoba.edn` | the same corpus as kotoba EAVT, sharded |
+| `publish-manifest.edn` | per-shard bytes + CID + item counts |
+| `ingest-provenance.edn` | where the rows came from, and which sources have not run |
+
+The journal is the input; `corpus/` and `datoms/` are derived from it and can be
+rebuilt at any time:
+
+```bash
+clojure -M -m hirameki.methods.dataset --dataset <this repo> --as-of <date>   # in cloud-itonami/hirameki
+```
 
 ---
-_Published by the hirameki actor under G9. The full-world ~200M-patent corpus goes via DataLad→IPFS (git-annex);
-this bounded R0 snapshot is git-tracked directly (no git-lfs, G8)._
+_Published by the [hirameki](https://github.com/cloud-itonami/hirameki) actor.
+The bulk legs (USPTO ODP / EPO OPS / WIPO) are operator steps and have not run;
+`ingest-provenance.edn` says so per source rather than implying coverage._
