@@ -13,17 +13,20 @@ without the code that produced it.
 
 | | |
 |---|---:|
-| patents | **625** (618 harvested + 7 curated) |
+| patents | **633** (626 harvested + 7 curated) |
 | citation edges | 2,448 |
-| distinct cited ids | 1,945 — of which **1,331 are still unharvested frontier** |
-| jurisdictions | 20 (US 347, JP 145, EP 49, WO 39, GB 24, …) |
-| named assignees | 287 · named-HHI **0.013** |
+| distinct cited ids | 1,945 — of which **1,323 are still unharvested frontier** |
+| jurisdictions | 10 (US 350, JP 145, EP 49, WO 39, GB 28, DE 7, …) |
+| named assignees | 292 · named-HHI **0.013** |
 | CPC classification | **absent** — see below |
+
+<sub>An earlier version of this table said 20 jurisdictions. It was wrong — the
+number had been read off the head of a list rather than counted. It is 10.</sub>
 
 **This is a citation-graph neighbourhood, not a sample.** It was grown by walking
 outward from four seed patents (CRISPR-Cas9 ×2, an aqueous coating composition,
 mRNA-LNP), so its shape reflects those seeds: Kansai Paint is the top assignee at
-7.4% because one seed was a paint patent, not because coatings dominate the
+7.3% because one seed was a paint patent, not because coatings dominate the
 patent system. Against ~200M public patents worldwide that is 0.0003% coverage.
 `ingest-provenance.edn` states this per source; no aggregate here should be read
 as a world statistic.
@@ -41,7 +44,7 @@ operator key. That is recorded as `:operator-step-not-yet-run`, not as coverage.
 
 | path | what |
 |---|---|
-| `80-data/public/google-patents.journal.edn` | the harvest journal — append-only `[e a v tx op]` quads. **The input, and the authoritative record** (ADR-2607072300) |
+| `80-data/public/google-patents.NNNN.journal.edn` | the harvest journal — append-only `[e a v tx op]` quads, one per line, sealed at 1 MiB per shard. **The input, and the authoritative record** (ADR-2607072300) |
 | `corpus/NNN.kotoba.edn` | normalized patent rows, sorted by id |
 | `datoms/NNN.kotoba.edn` | the same corpus as kotoba EAVT |
 | `publish-manifest.edn` | per-shard bytes + CIDv1 + item counts |
