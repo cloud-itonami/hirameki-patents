@@ -99,6 +99,36 @@
   :assignee :dr-karl-thomae,
   :term-years 20,
   :open-license :none}
+ {:assignees [:green-cross-korea],
+  :jurisdiction :de,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/DE2930604A1/en",
+  :title
+  "DOUBLE STRAND RIBONUCLEIC ACID, METHOD FOR THE PRODUCTION THEREOF, AND INTERFERON INDUCTORS CONTAINING THE SAME",
+  :status :pending,
+  :id "DE2930604A1",
+  :sourcing :authoritative,
+  :filing-year 1979,
+  :assignee :green-cross-korea,
+  :term-years 20,
+  :open-license :none}
+ {:assignees
+  [:institut-national-de-la-sante-et-de-la-recherche-medicale-inserm
+   :institut-pasteur],
+  :jurisdiction :de,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/DE2950995A1/en",
+  :title
+  "METHOD FOR PRODUCING A DNA CONTAINING THE HEPATITIS B VIRUS GENOME AND THE VECTOR CONTAINING THIS GENOME",
+  :status :pending,
+  :id "DE2950995A1",
+  :sourcing :authoritative,
+  :filing-year 1979,
+  :assignee
+  :institut-national-de-la-sante-et-de-la-recherche-medicale-inserm,
+  :cites ["DE2535554A1"],
+  :term-years 20,
+  :open-license :none}
  {:assignees [:bethesda-research-laboratories],
   :jurisdiction :de,
   :field "UNKNOWN",
@@ -136,6 +166,19 @@
   :filing-year 1985,
   :assignee :california-institute-of-technology,
   :cites ["EP0068875A2" "WO1983002277A1"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:biogen],
+  :jurisdiction :ep,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/EP0013828A1/en",
+  :title
+  "Recombinant DNA, hosts transformed with it and processes for the preparation of polypeptides",
+  :status :pending,
+  :id "EP0013828A1",
+  :sourcing :authoritative,
+  :filing-year 1979,
+  :assignee :biogen,
   :term-years 20,
   :open-license :none}
  {:assignees [:institut-pasteur],
@@ -1004,6 +1047,19 @@
   :term-years 20,
   :open-license :none}
  {:assignees
+  [:university-of-california :university-of-california-berkeley],
+  :jurisdiction :gb,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/GB2031434A/en",
+  :title "Synthesis of a eucaryotic protein by amicroorganism",
+  :status :pending,
+  :id "GB2031434A",
+  :sourcing :authoritative,
+  :filing-year 1979,
+  :assignee :university-of-california,
+  :term-years 20,
+  :open-license :none}
+ {:assignees
   [:institut-national-de-la-sante-et-de-la-recherche-medicale-inserm
    :institut-pasteur],
   :jurisdiction :gb,
@@ -1207,6 +1263,18 @@
   :sourcing :authoritative,
   :filing-year 1932,
   :assignee :unassigned,
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:wingfoot],
+  :jurisdiction :gb,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/GB602677A/en",
+  :title "Electrically conductive rubber",
+  :status :pending,
+  :id "GB602677A",
+  :sourcing :authoritative,
+  :filing-year 1945,
+  :assignee :wingfoot,
   :term-years 20,
   :open-license :none}
  {:assignees [:warren-sd],
@@ -3617,6 +3685,19 @@
   :grant-year 1944,
   :term-years 20,
   :open-license :none}
+ {:assignees [:callenders-cable-and-construction],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2377153/en",
+  :title "Electric cable",
+  :status :granted,
+  :id "US2377153",
+  :sourcing :authoritative,
+  :filing-year 1942,
+  :assignee :callenders-cable-and-construction,
+  :grant-year 1945,
+  :term-years 20,
+  :open-license :none}
  {:jurisdiction :us,
   :field "UNKNOWN",
   :source "https://patents.google.com/patent/US2391767/en",
@@ -3670,6 +3751,35 @@
   :assignee :paper-patents,
   :grant-year 1948,
   :cites ["US2118549" "US2343740"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:ei-du-pont-de-nemours-and],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2455910/en",
+  :title "Method for curing ethylene polymers",
+  :status :granted,
+  :id "US2455910",
+  :sourcing :authoritative,
+  :filing-year 1945,
+  :assignee :ei-du-pont-de-nemours-and,
+  :grant-year 1948,
+  :cites ["US2334996" "US2360673"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:rateau],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2458600/en",
+  :title
+  "Aerodynamic propelling means operating through direct reaction jet and scavenging",
+  :status :granted,
+  :id "US2458600",
+  :sourcing :authoritative,
+  :filing-year 1945,
+  :assignee :rateau,
+  :grant-year 1949,
+  :cites ["US2385366" "US2396911"],
   :term-years 20,
   :open-license :none}
  {:assignees [:armstrong-cork],
@@ -3868,6 +3978,28 @@
   :cites ["US2541167" "US2633434"],
   :term-years 20,
   :open-license :none}
+ {:jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2761854/en",
+  :title "Manufacture of conductive plastics",
+  :status :granted,
+  :id "US2761854",
+  :sourcing :authoritative,
+  :filing-year 1952,
+  :assignee :unassigned,
+  :grant-year 1956,
+  :cites
+  ["GB519298A"
+   "US1922221"
+   "US2044608"
+   "US2280135"
+   "US2403657"
+   "US2416480"
+   "US2421154"
+   "US2434190"
+   "US2683669"],
+  :term-years 20,
+  :open-license :none}
  {:assignees [:ei-du-pont-de-nemours-and],
   :jurisdiction :us,
   :field "UNKNOWN",
@@ -3999,6 +4131,26 @@
   :cites ["US2319267" "US2343740" "US2497712" "US2656296" "US2666726"],
   :term-years 20,
   :open-license :none}
+ {:assignees [:phillips-petroleum],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2813809/en",
+  :title "Wire covered with a hydrogenated rubbery butadiene polymer",
+  :status :granted,
+  :id "US2813809",
+  :sourcing :authoritative,
+  :filing-year 1954,
+  :assignee :phillips-petroleum,
+  :grant-year 1957,
+  :cites
+  ["US2046160"
+   "US2046257"
+   "US2109495"
+   "US2312024"
+   "US2693461"
+   "US2743233"],
+  :term-years 20,
+  :open-license :none}
  {:assignees [:ei-du-pont-de-nemours-and],
   :jurisdiction :us,
   :field "UNKNOWN",
@@ -4121,6 +4273,20 @@
    "US2653566"
    "US2679231"
    "US2688306"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:north-american-aviation],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3030237/en",
+  :title "Conductive coating",
+  :status :granted,
+  :id "US3030237",
+  :sourcing :authoritative,
+  :filing-year 1959,
+  :assignee :north-american-aviation,
+  :grant-year 1962,
+  :cites ["US2774747" "US2808352" "US2851380"],
   :term-years 20,
   :open-license :none}
  {:assignees [:champion-papers],
@@ -4387,6 +4553,30 @@
    "US3146159"],
   :term-years 20,
   :open-license :none}
+ {:assignees [:phillips-petroleum],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3251905/en",
+  :title
+  "Method of preparing block copolymers of conjugated dienes and vinyl-substituted aromatic compounds using dilithio catalysts and diluent mixture of hydrocarbon and ether",
+  :status :granted,
+  :id "US3251905",
+  :sourcing :authoritative,
+  :filing-year 1963,
+  :assignee :phillips-petroleum,
+  :grant-year 1966,
+  :cites
+  ["BE553720A"
+   "US2181771"
+   "US2338741"
+   "US2694692"
+   "US2913444"
+   "US3069380"
+   "US3070574"
+   "US3140278"
+   "US3149182"],
+  :term-years 20,
+  :open-license :none}
  {:assignees [:scientific-industries],
   :jurisdiction :us,
   :field "UNKNOWN",
@@ -4521,6 +4711,21 @@
   :cites ["US3208997"],
   :term-years 20,
   :open-license :none}
+ {:assignees [:shell-oil],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3333024/en",
+  :title
+  "Block polymers, compositions containing them and process of their preparation",
+  :status :granted,
+  :id "US3333024",
+  :sourcing :authoritative,
+  :filing-year 1963,
+  :assignee :shell-oil,
+  :grant-year 1967,
+  :cites ["US3030346" "US3239478"],
+  :term-years 20,
+  :open-license :none}
  {:assignees [:upjohn],
   :jurisdiction :us,
   :field "UNKNOWN",
@@ -4592,6 +4797,28 @@
   :assignee :notraco-internat,
   :grant-year 1968,
   :cites ["US2223240" "US2555380" "US2970736"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:monsanto],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3401213/en",
+  :title
+  "Graft copolymers of diene rubber substrate and hydroxylic polymer superstrate",
+  :status :granted,
+  :id "US3401213",
+  :sourcing :authoritative,
+  :filing-year 1963,
+  :assignee :monsanto,
+  :grant-year 1968,
+  :cites
+  ["US2695834"
+   "US2802808"
+   "US3038890"
+   "US3085074"
+   "US3119785"
+   "US3223655"
+   "US3255276"],
   :term-years 20,
   :open-license :none}
  {:assignees [:albemarle-paper-manufacturing],
@@ -4729,6 +4956,30 @@
   :assignee :billingsfors-langed,
   :grant-year 1970,
   :cites ["FR1308186A" "US1484705" "US2051403" "US2855895"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:appleton-coated-paper],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3493369/en",
+  :title
+  "Low electrical resistance varnish coatings on an insulating base",
+  :status :granted,
+  :id "US3493369",
+  :sourcing :authoritative,
+  :filing-year 1964,
+  :assignee :appleton-coated-paper,
+  :grant-year 1970,
+  :cites
+  ["US2374214"
+   "US2880181"
+   "US3030237"
+   "US3057749"
+   "US3113022"
+   "US3137666"
+   "US3245833"
+   "US3265497"
+   "US3295967"],
   :term-years 20,
   :open-license :none}
  {:assignees [:scott-paper],
@@ -5359,6 +5610,18 @@
   :cites ["US2974227" "US3152251" "US3449571"],
   :term-years 20,
   :open-license :none}
+ {:jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3816263/en",
+  :title "Biological test",
+  :status :granted,
+  :id "US3816263",
+  :sourcing :authoritative,
+  :filing-year 1972,
+  :assignee :unassigned,
+  :grant-year 1974,
+  :term-years 20,
+  :open-license :none}
  {:assignees [:ei-du-pont-de-nemours-and],
   :jurisdiction :us,
   :field "UNKNOWN",
@@ -5439,6 +5702,20 @@
   :assignee :basf-se,
   :grant-year 1974,
   :cites ["US3615629"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:yeda-research-and-development],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3850749/en",
+  :title "Preparation of oligoribonucleotides",
+  :status :granted,
+  :id "US3850749",
+  :sourcing :authoritative,
+  :filing-year 1972,
+  :assignee :yeda-research-and-development,
+  :grant-year 1974,
+  :cites ["US3594278"],
   :term-years 20,
   :open-license :none}
  {:assignees [:syva],
@@ -5897,6 +6174,43 @@
   :assignee :monsanto,
   :grant-year 1977,
   :cites ["US3646346" "US3790663"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:corning-glass-works],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US4034072/en",
+  :title "Serum hepatitis test",
+  :status :granted,
+  :id "US4034072",
+  :sourcing :authoritative,
+  :filing-year 1975,
+  :assignee :corning-glass-works,
+  :grant-year 1977,
+  :cites ["US3555143" "US3652761" "US3867517"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:replacement-products-ind],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US4037378/en",
+  :title "Window frame",
+  :status :granted,
+  :id "US4037378",
+  :sourcing :authoritative,
+  :filing-year 1976,
+  :assignee :replacement-products-ind,
+  :grant-year 1977,
+  :cites
+  ["US2965935"
+   "US3205630"
+   "US3295283"
+   "US3335524"
+   "US3411247"
+   "US3436884"
+   "US3462884"
+   "US3866380"
+   "US3910254"],
   :term-years 20,
   :open-license :none}
  {:assignees [:university-of-michigan-system],
@@ -6545,6 +6859,27 @@
   :cites ["US3935074" "US3996345" "US3998943" "US4104029"],
   :term-years 20,
   :open-license :none}
+ {:assignees [:medical-college-of-wisconsin],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US4235960/en",
+  :title "Competitive enzyme-linked immunoassay",
+  :status :granted,
+  :id "US4235960",
+  :sourcing :authoritative,
+  :filing-year 1977,
+  :assignee :medical-college-of-wisconsin,
+  :grant-year 1980,
+  :cites
+  ["US3773625"
+   "US3879262"
+   "US4002532"
+   "US4021534"
+   "US4024235"
+   "US4034074"
+   "US4048298"],
+  :term-years 20,
+  :open-license :none}
  {:assignees [:minnesota-mining-and-manufacturing],
   :jurisdiction :us,
   :field "UNKNOWN",
@@ -6640,6 +6975,19 @@
   :cites ["US4002899" "US4078172"],
   :term-years 20,
   :open-license :none}
+ {:assignees [:university-of-california-san-diego-ucsd],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US4264731/en",
+  :title "DNA Joining method",
+  :status :granted,
+  :id "US4264731",
+  :sourcing :authoritative,
+  :filing-year 1978,
+  :assignee :university-of-california-san-diego-ucsd,
+  :grant-year 1981,
+  :term-years 20,
+  :open-license :none}
  {:assignees [:mount-sinai-school-of-medicine],
   :jurisdiction :us,
   :field "UNKNOWN",
@@ -6700,6 +7048,19 @@
   :assignee :olympus-optical,
   :grant-year 1981,
   :cites ["US3657537" "US3950649" "US4058732" "US4172227"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:cetus],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US4293652/en",
+  :title "Method for synthesizing DNA sequentially",
+  :status :granted,
+  :id "US4293652",
+  :sourcing :authoritative,
+  :filing-year 1979,
+  :assignee :cetus,
+  :grant-year 1981,
   :term-years 20,
   :open-license :none}
  {:assignees [:nippon-kogaku],
@@ -8775,392 +9136,5 @@
    "US4617261"
    "US4737454"
    "WO1985002628A1"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:mitsubishi-rayon],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US5064695/en",
-  :title "Method for forming coating film",
-  :status :granted,
-  :id "US5064695",
-  :sourcing :authoritative,
-  :filing-year 1990,
-  :assignee :mitsubishi-rayon,
-  :grant-year 1991,
-  :term-years 20,
-  :open-license :none}
- {:assignees [:cetus],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US5075216/en",
-  :title
-  "Methods for dna sequencing with thermus aquaticus dna polymerase",
-  :status :granted,
-  :id "US5075216",
-  :sourcing :authoritative,
-  :filing-year 1988,
-  :assignee :cetus,
-  :grant-year 1991,
-  :cites
-  ["EP0258017A2"
-   "EP0351138A2"
-   "US4683202"
-   "US4795699"
-   "US4921794"
-   "US5001050"
-   "WO1990008839A1"],
-  :term-years 20,
-  :open-license :none}
- {:jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US5079600/en",
-  :title "High resolution patterning on solid substrates",
-  :status :granted,
-  :id "US5079600",
-  :sourcing :authoritative,
-  :filing-year 1988,
-  :assignee :unassigned,
-  :grant-year 1992,
-  :cites
-  ["GB2144653A"
-   "US3884704"
-   "US4199649"
-   "US4539061"
-   "US4587203"
-   "US4661372"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:affymax-technologies],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US5143854/en",
-  :title
-  "Large scale photolithographic solid phase synthesis of polypeptides and receptor binding screening thereof",
-  :status :granted,
-  :id "US5143854",
-  :sourcing :authoritative,
-  :filing-year 1990,
-  :assignee :affymax-technologies,
-  :grant-year 1992,
-  :cites
-  ["DE2242394A1"
-   "DE3440141A1"
-   "EP0088636A2"
-   "EP0127438A1"
-   "EP0245662A1"
-   "EP0288310A2"
-   "EP0319012A2"
-   "EP0328256A1"
-   "US3849137"
-   "US3862056"
-   "US4072576"
-   "US4238757"
-   "US4314821"
-   "US4339528"
-   "US4405771"
-   "US4444878"
-   "US4444892"
-   "US4517338"
-   "US4542102"
-   "US4555490"
-   "US4562157"
-   "US4569967"
-   "US4631211"
-   "US4637861"
-   "US4681859"
-   "US4704353"
-   "US4713326"
-   "US4713347"
-   "US4719615"
-   "US4722906"
-   "US4762881"
-   "US4777019"
-   "US4786684"
-   "US4794150"
-   "US4808508"
-   "US4822566"
-   "US4833092"
-   "US4865990"
-   "US4946942"
-   "US4973493"
-   "US4979959"
-   "US5026840"
-   "WO1984003564A1"
-   "WO1986000991A1"
-   "WO1986006487A1"
-   "WO1989005616A1"
-   "WO1989010977A1"
-   "WO1989011548A1"
-   "WO1989012819A1"
-   "WO1990000887A1"
-   "WO1990003382A1"
-   "WO1990004652A1"
-   "WO1991004266A1"],
-  :term-years 20,
-  :open-license :none}
- {:jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US5202231/en",
-  :title
-  "Method of sequencing of genomes by hybridization of oligonucleotide probes",
-  :status :granted,
-  :id "US5202231",
-  :sourcing :authoritative,
-  :filing-year 1991,
-  :assignee :unassigned,
-  :grant-year 1993,
-  :cites ["US4562159" "US4613566" "US4683202" "US4849334"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:basf-lacke-und-farben],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US5210154/en",
-  :title
-  "Water-thinnable baking paints and use thereof as filler material and intermediate stone chip resistant coat, as well as process for painting motor vehicle bodies",
-  :status :granted,
-  :id "US5210154",
-  :sourcing :authoritative,
-  :filing-year 1989,
-  :assignee :basf-lacke-und-farben,
-  :grant-year 1993,
-  :cites
-  ["US3954899"
-   "US4115472"
-   "US4423179"
-   "US4423185"
-   "US4476261"
-   "US4546153"
-   "US5049599"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:isis-pharmaceuticals],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US5212295/en",
-  :title
-  "Monomers for preparation of oligonucleotides having chiral phosphorus linkages",
-  :status :granted,
-  :id "US5212295",
-  :sourcing :authoritative,
-  :filing-year 1991,
-  :assignee :isis-pharmaceuticals,
-  :grant-year 1993,
-  :cites
-  ["EP0506242A1"
-   "US3336289"
-   "US3687808"
-   "US3792039"
-   "US3846402"
-   "US4310662"
-   "US4500707"
-   "US4591614"
-   "US4663446"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:ortho-diagnostic-systems],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US5215882/en",
-  :title
-  "Method of immobilizing nucleic acid on a solid surface for use in nucleic acid hybridization assays",
-  :status :granted,
-  :id "US5215882",
-  :sourcing :authoritative,
-  :filing-year 1989,
-  :assignee :ortho-diagnostic-systems,
-  :grant-year 1993,
-  :cites
-  ["EP0131546A2"
-   "EP0136153A2"
-   "EP0174879A1"
-   "EP0209996A2"
-   "EP0308206A2"
-   "GB2197720A"
-   "US4423208"
-   "US4687808"
-   "WO1985004674A1"
-   "WO1988001302A1"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:beckman-instruments],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US5302509/en",
-  :title "Method for sequencing polynucleotides",
-  :status :granted,
-  :id "US5302509",
-  :sourcing :authoritative,
-  :filing-year 1991,
-  :assignee :beckman-instruments,
-  :grant-year 1994,
-  :cites ["US5001051" "WO1989009282A1"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:rohm-and-haas],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US5308890/en",
-  :title
-  "Emulsion polymer blend of a multi-stage latex and a non-film forming latex",
-  :status :granted,
-  :id "US5308890",
-  :sourcing :authoritative,
-  :filing-year 1993,
-  :assignee :rohm-and-haas,
-  :grant-year 1994,
-  :cites ["EP0466409A1" "US4385152" "US4567099"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:eastman-kodak],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US5324788/en",
-  :title "Thermosetting coating compositions",
-  :status :granted,
-  :id "US5324788",
-  :sourcing :authoritative,
-  :filing-year 1993,
-  :assignee :eastman-kodak,
-  :grant-year 1994,
-  :cites
-  ["EP0419088A1"
-   "EP0466359A2"
-   "US4137279"
-   "US4678843"
-   "US4857601"
-   "US4898916"
-   "US5106651"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:ei-du-pont-de-nemours-and],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US5376704/en",
-  :title
-  "Water-borne coating compositions comprising half esters of anhydride polymers crosslinked by epoxies",
-  :status :granted,
-  :id "US5376704",
-  :sourcing :authoritative,
-  :filing-year 1992,
-  :assignee :ei-du-pont-de-nemours-and,
-  :grant-year 1994,
-  :cites
-  ["EP0353734A2"
-   "EP0450963A1"
-   "US4247439"
-   "US4600737"
-   "US4871806"
-   "US4906677"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:nippon-paint],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US5397603/en",
-  :title
-  "Resin composition and coating composition containing the same",
-  :status :granted,
-  :id "US5397603",
-  :sourcing :authoritative,
-  :filing-year 1994,
-  :assignee :nippon-paint,
-  :grant-year 1995,
-  :cites ["US5166265" "US5229461" "US5270392"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:affymax-technologies],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US5445934/en",
-  :title "Array of oligonucleotides on a solid substrate",
-  :status :granted,
-  :id "US5445934",
-  :sourcing :authoritative,
-  :filing-year 1992,
-  :assignee :affymax-technologies,
-  :grant-year 1995,
-  :cites
-  ["EP0328256A1"
-   "US4562157"
-   "US4689405"
-   "US4728591"
-   "US4886741"
-   "US4888278"
-   "US4923901"
-   "US4973493"
-   "US5079600"
-   "US5143854"
-   "US5202231"
-   "WO1989010977A1"
-   "WO1990003382A1"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:ciba-geigy],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US5486452/en",
-  :title "Devices and kits for immunological analysis",
-  :status :granted,
-  :id "US5486452",
-  :sourcing :authoritative,
-  :filing-year 1987,
-  :assignee :ciba-geigy,
-  :grant-year 1996,
-  :cites
-  ["EP0027008A1"
-   "EP0050424A1"
-   "FR2074061A5"
-   "FR2257259A1"
-   "GB1235685A"
-   "GB1235686A"
-   "GB1486826A"
-   "GB1526708A"
-   "GB1553083A"
-   "GB1597345A"
-   "GB1601283A"
-   "US3654090"
-   "US3979509"
-   "US4020151"
-   "US4048298"
-   "US4071315"
-   "US4119589"
-   "US4139346"
-   "US4168146"
-   "US4176174"
-   "US4189464"
-   "US4200690"
-   "US4216245"
-   "US4267270"
-   "US4275053"
-   "US4302204"
-   "US4305720"
-   "US4305721"
-   "US4332283"
-   "US4358535"
-   "US4378344"
-   "US4407943"
-   "US4414324"
-   "US4436824"
-   "US4452901"
-   "US4459360"
-   "US4591570"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:hyseq],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US5492806/en",
-  :title
-  "Method of determining an ordered sequence of subfragments of a nucleic acid fragment by hybridization of oligonucleotide probes",
-  :status :granted,
-  :id "US5492806",
-  :sourcing :authoritative,
-  :filing-year 1993,
-  :assignee :hyseq,
-  :grant-year 1996,
-  :cites
-  ["EP0197266A2" "US4562159" "US4613566" "US4683202" "US4849334"],
   :term-years 20,
   :open-license :none}]
