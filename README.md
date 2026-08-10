@@ -63,8 +63,8 @@ clojure -M -m hirameki.methods.dataset --dataset ../hirameki-patents --as-of 202
 Two gates, because they check different claims.
 
 ```bash
-clojure -M verify.clj          # the bytes are what the manifest says
-clojure -M:query query-check.clj   # the corpus actually answers questions
+clojure -M:query verify.clj          # the bytes are what the manifest says
+clojure -M:query query-check.clj  # the corpus actually answers questions
 ```
 
 `verify.clj` re-derives every shard's CIDv1/raw/sha2-256 from the bytes on disk.
@@ -81,6 +81,14 @@ being queryable are different claims; this checks the second.
 
 Confirmed both directions: renaming the assignee attribute across all shards
 exits 1, and so does introducing an inventor attribute.
+
+**Both checks also run on the murakumo fleet** as a `:jvm-test` gate
+(`clojure -M:test`, registered in `scripts/fleet-ci/gates.edn`). That matters
+for a reason beyond redundancy: until now the machine that WROTE the corpus was
+also the only thing that ever checked it. A fleet node has the git tree and
+nothing else, so the writer and the verifier are finally different. Confirmed
+the gate fails on three distinct corruptions — a byte changed in a corpus shard,
+a datoms shard deleted, and an inventor attribute introduced.
 
 ## Custody — where this actually lives, measured
 
@@ -133,7 +141,7 @@ remote, and no special remote is configured.
 
 ### About the CIDs
 
-They are **verifiable, not fetchable**. `clojure -M verify.clj` re-derives every
+They are **verifiable, not fetchable**. `clojure -M:query verify.clj` re-derives every
 shard's CIDv1 from bytes you already hold, with no daemon and no network — that
 works and is checked. But nothing has been `ipfs add`ed for real, so fetching
 `https://ipfs.io/ipfs/<cid>` returns nothing. Measured: ipfs.io timed out,
