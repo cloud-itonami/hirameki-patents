@@ -14,7 +14,7 @@ stale the first time the corpus grows, and a stale hash beside a live file is
 worse than no hash at all. Read the manifest:
 
 ```bash
-clojure -M verify.clj        # re-derives every CID from the bytes on disk
+clojure -M:query verify.clj        # re-derives every CID from the bytes on disk
 ```
 
 It checks four things, and fails with exit 1 on any of them:
@@ -46,7 +46,7 @@ stay inside one block. `write!` refuses to publish an over-limit shard.
 ## The CIDs are verifiable, not fetchable
 
 ```bash
-clojure -M verify.clj    # re-derives every CID from the bytes on disk
+clojure -M:query verify.clj    # re-derives every CID from the bytes on disk
 ```
 
 That works, needs no daemon and no network, and is checked in both directions.

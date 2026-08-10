@@ -1,7 +1,17 @@
-{:paths ["."]
+{:paths ["." "src"]
  :aliases
  {;; query-check.clj — the corpus is not just bytes, it has to answer questions
-  :query {:extra-deps {datascript/datascript {:mvn/version "1.7.3"}}}}
+  :query {:extra-deps {datascript/datascript {:mvn/version "1.7.3"}}}
+
+  ;; The murakumo fleet runs :jvm-test gates. Putting the corpus checks here is
+  ;; what makes a node — which has the git tree and nothing else — able to be
+  ;; the verifier, instead of the machine that wrote the corpus checking its own
+  ;; work. Gate: scripts/fleet-ci/gates.edn, ADR-2608100400.
+  :test {:extra-paths ["test"]
+         :extra-deps {datascript/datascript {:mvn/version "1.7.3"}
+                      io.github.cognitect-labs/test-runner
+                      {:git/tag "v0.5.1" :git/sha "dfb30dd"}}
+         :main-opts ["-m" "cognitect.test-runner" "-r" "hirameki-patents\\..*-test"]}}
  :deps {com.junkawasaki/multiformats-clj
         {:git/url "https://github.com/com-junkawasaki/multiformats-clj.git"
          :git/sha "0f4ed68ff9e3cbf069569d897c9304713a14036c"}}}
