@@ -10,3 +10,7 @@ PUBLISH.md -filter annex.largefiles=nothing
 *.tsv filter=annex
 *.tsv.zip filter=annex
 *.raw.edn filter=annex
+* annex.backend=MD5E
+**/.git* annex.largefiles=nothing
+# the harvest journal — append-only quads, git-tracked so it stays diffable
+80-data/public/*.journal.edn -filter annex.largefiles=nothing

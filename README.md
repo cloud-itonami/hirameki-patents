@@ -1,52 +1,93 @@
 # hirameki-patents — public-patent corpus
 
-> hirameki 閃き · ADR-2606212200 · **PUBLIC patent bibliographic data only** ·
-> aggregate-first · no person-level inventor data (G6) · supersedes the legacy
-> RisingWave/B2 patent pipeline (ADR-2604251024).
+> hirameki 閃き · **PUBLIC patent bibliographic data only** · aggregate-first ·
+> no person-level inventor data (G6) · a RELEASE map, never an FTO/infringement
+> verdict (G1) · ADR-2606212200, ADR-2607251552
 
-The DataLad dataset substrate (DataLad + git-annex + IPFS, ADR-2605241500) for the
-**hirameki** world public-patent KG-mirror. Holds the patent CORPUS as canonical
-kotoba EDN, each artifact content-addressed to a CIDv1 (raw, sha2-256) **byte-identical
-to `ipfs add --cid-version=1 --raw-leaves`** and verifiable with or without the `ipfs`
-daemon.
+The **data** half of hirameki. The actor that fills it lives in
+[`cloud-itonami/hirameki`](https://github.com/cloud-itonami/hirameki); this repo
+is versioned independently so the corpus can be cited, fetched and verified
+without the code that produced it.
 
-## Artifacts
+## What is in here right now (measured 2026-08-10)
 
-| artifact | file | what |
-|---|---|---|
-| corpus | `hirameki-patents.corpus.kotoba.edn` | normalized patent records (sorted by id, deterministic) |
-| datoms | `hirameki-patents.datoms.kotoba.edn` | the same corpus as kotoba EAVT `[:db/add e a v]` |
-| manifest | `publish-manifest.edn` | per-artifact bytes + CID + single-block flag |
-| provenance | `ingest-provenance.edn` | ingest id, sources, counts |
+| | |
+|---|---:|
+| patents | **625** (618 harvested + 7 curated) |
+| citation edges | 2,448 |
+| distinct cited ids | 1,945 — of which **1,331 are still unharvested frontier** |
+| jurisdictions | 20 (US 347, JP 145, EP 49, WO 39, GB 24, …) |
+| named assignees | 287 · named-HHI **0.013** |
+| CPC classification | **absent** — see below |
 
-CIDs live in `publish-manifest.edn` and are verified with `bb verify`.
+**This is a citation-graph neighbourhood, not a sample.** It was grown by walking
+outward from four seed patents (CRISPR-Cas9 ×2, an aqueous coating composition,
+mRNA-LNP), so its shape reflects those seeds: Kansai Paint is the top assignee at
+7.4% because one seed was a paint patent, not because coatings dominate the
+patent system. Against ~200M public patents worldwide that is 0.0003% coverage.
+`ingest-provenance.edn` states this per source; no aggregate here should be read
+as a world statistic.
 
-## Scope (R0 vs full corpus)
+## What this corpus cannot answer
 
-- **R0 (this snapshot)**: a BOUNDED `:representative` slice across CPC sections, git-tracked
-  directly (no git-lfs, single raw block each). This is what ships in the repo.
-- **Full world corpus (~200M public patents)**: the operator **G9** step — bulk pull of
-  USPTO PatentsView (CC0, weekly TSV) / EPO OPS (free tier) / WIPO PATENTSCOPE, materialized
-  here and pushed via **DataLad → IPFS (git-annex)** (the >256 KiB artifacts chunk into a
-  UnixFS dag-pb tree; the bounded snapshot stays inline). The loop never queries the API —
-  the snapshot is the single source of truth (G8/G9, no-server-key).
+A Google Patents page carries no CPC symbol. So there is **no field-level
+concentration** in this data — rows carry `:field "UNKNOWN"` rather than a value
+inferred from the title, and hirameki's CPC analytics run only on the curated
+seed. The leg that would supply CPC (USPTO ODP) is implemented and
+fixture-tested but has never been run against the live API; it needs a free
+operator key. That is recorded as `:operator-step-not-yet-run`, not as coverage.
 
-## Fetch + verify (trustless, no daemon trust)
+## Layout
+
+| path | what |
+|---|---|
+| `80-data/public/google-patents.journal.edn` | the harvest journal — append-only `[e a v tx op]` quads. **The input, and the authoritative record** (ADR-2607072300) |
+| `corpus/NNN.kotoba.edn` | normalized patent rows, sorted by id |
+| `datoms/NNN.kotoba.edn` | the same corpus as kotoba EAVT |
+| `publish-manifest.edn` | per-shard bytes + CIDv1 + item counts |
+| `ingest-provenance.edn` | source-by-source status, including what has not run |
+| `dataset.edn` | DataLad dataset descriptor |
+
+`corpus/` and `datoms/` are **derived** from the journal and rebuildable:
 
 ```bash
-# re-content-address the local snapshot — must equal the manifest CID
-bb verify
-# or with the daemon:
-ipfs add -Q --cid-version=1 --raw-leaves --only-hash hirameki-patents.corpus.kotoba.edn
+# from a cloud-itonami/hirameki checkout
+clojure -M -m hirameki.methods.dataset --dataset ../hirameki-patents --as-of 2026-08-10
 ```
 
-## Sources (license)
+## Verify
 
-| source | license | role |
-|---|---|---|
-| USPTO PatentsView | CC0 | granted-patent bibliographic bulk (TSV) |
-| EPO OPS REST | free tier | citation / family / INPADOC cross-link |
-| WIPO PATENTSCOPE | free API | PCT international applications |
+```bash
+clojure -M verify.clj
+```
 
-Public bibliographic metadata only — never paid terminals (Rider §2(e)); a RELEASE map,
-never an FTO / infringement / patent-equity tool (G1).
+Re-derives every shard's CIDv1/raw/sha2-256 from the bytes on disk. No daemon, no
+network. It also checks that the shards' item counts add up — a CID proves a
+shard is intact, never that the set of shards is complete. Details and the reason
+the artifacts are sharded at all are in [`PUBLISH.md`](PUBLISH.md).
+
+## DataLad
+
+This is a real DataLad dataset (`datalad create`, git-annex initialized) — as of
+2026-08-10 it is one, rather than only claiming to be.
+
+**Nothing is annexed yet, and that is correct.** `.gitattributes` routes every
+`*.edn` to plain git: at 280 KB the corpus is small, and annexing it would cost
+line-level diffs and review for no benefit. The annex is here for the bulk pulls
+the operator legs produce (`*.tsv`, `*.tsv.zip`, `*.raw.edn`), which is where
+git stops being the right store.
+
+Because no content is annexed, no content remote is configured. GitHub cannot
+serve annexed content in any case (`git-annex-shell` is not available there), so
+when the first bulk pull lands it will need a real special remote — B2 or IPFS,
+per the workspace's `large-binary-datalad` convention.
+
+## Scope
+
+Bibliographic metadata only: title, number, jurisdiction, filing/grant date,
+applicant organizations, cited patents. Never claims, never specification text,
+never a paywall or bot-detection bypass, never a natural person.
+
+## License
+
+Apache-2.0. The underlying bibliographic facts are public records.
