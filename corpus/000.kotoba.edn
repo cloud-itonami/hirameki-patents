@@ -86,6 +86,19 @@
   :cites ["DE2440367A1"],
   :term-years 20,
   :open-license :none}
+ {:assignees [:dr-karl-thomae],
+  :jurisdiction :de,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/DE2724918A1/en",
+  :title
+  "Antiviral and antitumour human interferon prodn. - by incubating virus-infected namalva cells on serum-free medium",
+  :status :pending,
+  :id "DE2724918A1",
+  :sourcing :authoritative,
+  :filing-year 1977,
+  :assignee :dr-karl-thomae,
+  :term-years 20,
+  :open-license :none}
  {:assignees [:bethesda-research-laboratories],
   :jurisdiction :de,
   :field "UNKNOWN",
@@ -902,6 +915,18 @@
   :assignee :unassigned,
   :term-years 20,
   :open-license :none}
+ {:assignees [:beecham-group],
+  :jurisdiction :gb,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/GB1412591A/en",
+  :title "Antiviral ds rna and compositions thereof",
+  :status :pending,
+  :id "GB1412591A",
+  :sourcing :authoritative,
+  :filing-year 1971,
+  :assignee :beecham-group,
+  :term-years 20,
+  :open-license :none}
  {:assignees [:general-electric],
   :jurisdiction :gb,
   :field "UNKNOWN",
@@ -912,6 +937,18 @@
   :sourcing :authoritative,
   :filing-year 1974,
   :assignee :general-electric,
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:imperial-chemical-industries],
+  :jurisdiction :gb,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/GB1521032A/en",
+  :title "Biological treatment",
+  :status :pending,
+  :id "GB1521032A",
+  :sourcing :authoritative,
+  :filing-year 1974,
+  :assignee :imperial-chemical-industries,
   :term-years 20,
   :open-license :none}
  {:jurisdiction :gb,
@@ -926,6 +963,21 @@
   :assignee :unassigned,
   :term-years 20,
   :open-license :none}
+ {:assignees
+  [:university-of-california-berkeley
+   :university-of-california-san-diego-ucsd],
+  :jurisdiction :gb,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/GB1568047A/en",
+  :title
+  "Purification of nucleotide sequences suitable for expression in bacteria",
+  :status :pending,
+  :id "GB1568047A",
+  :sourcing :authoritative,
+  :filing-year 1978,
+  :assignee :university-of-california-berkeley,
+  :term-years 20,
+  :open-license :none}
  {:assignees [:institut-pasteur],
   :jurisdiction :gb,
   :field "UNKNOWN",
@@ -937,6 +989,18 @@
   :sourcing :authoritative,
   :filing-year 1979,
   :assignee :institut-pasteur,
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:green-cross-korea],
+  :jurisdiction :gb,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/GB2027033A/en",
+  :title "Double-stranded rna",
+  :status :pending,
+  :id "GB2027033A",
+  :sourcing :authoritative,
+  :filing-year 1979,
+  :assignee :green-cross-korea,
   :term-years 20,
   :open-license :none}
  {:assignees
@@ -5055,6 +5119,19 @@
   :grant-year 1972,
   :term-years 20,
   :open-license :none}
+ {:assignees [:nat-res-dev],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3699222/en",
+  :title "Production of viral interfering substances",
+  :status :granted,
+  :id "US3699222",
+  :sourcing :authoritative,
+  :filing-year 1968,
+  :assignee :nat-res-dev,
+  :grant-year 1972,
+  :term-years 20,
+  :open-license :none}
  {:assignees [:ici-australia],
   :jurisdiction :us,
   :field "UNKNOWN",
@@ -6295,6 +6372,33 @@
   :assignee :airco,
   :grant-year 1979,
   :cites ["US3311756" "US3381432" "US3999122" "US4020830"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:sandoz],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US4184917/en",
+  :title "Process for producing a structurally modified interferon",
+  :status :granted,
+  :id "US4184917",
+  :sourcing :authoritative,
+  :filing-year 1977,
+  :assignee :sandoz,
+  :grant-year 1980,
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:research],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US4190495/en",
+  :title
+  "Modified microorganisms and method of preparing and using same",
+  :status :granted,
+  :id "US4190495",
+  :sourcing :authoritative,
+  :filing-year 1976,
+  :assignee :research,
+  :grant-year 1980,
   :term-years 20,
   :open-license :none}
  {:assignees [:institut-pasteur],
@@ -9058,156 +9162,5 @@
   :grant-year 1996,
   :cites
   ["EP0197266A2" "US4562159" "US4613566" "US4683202" "US4849334"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:hyseq],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US5525464/en",
-  :title
-  "Method of sequencing by hybridization of oligonucleotide probes",
-  :status :granted,
-  :id "US5525464",
-  :sourcing :authoritative,
-  :filing-year 1994,
-  :assignee :hyseq,
-  :grant-year 1996,
-  :cites
-  ["EP0152886A2"
-   "US4562159"
-   "US4591567"
-   "US4613566"
-   "US4672040"
-   "US4683195"
-   "US4683202"
-   "US4720786"
-   "US4766062"
-   "US4770992"
-   "US4794073"
-   "US4849334"
-   "US4865967"
-   "US4865968"
-   "US4942124"
-   "US5002867"
-   "US5149625"
-   "US5202231"
-   "WO1988001302A1"
-   "WO1989010977A1"
-   "WO1990003382A1"
-   "WO1990004652A1"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:affymax-technologies],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US5547839/en",
-  :title
-  "Sequencing of surface immobilized polymers utilizing microflourescence detection",
-  :status :granted,
-  :id "US5547839",
-  :sourcing :authoritative,
-  :filing-year 1990,
-  :assignee :affymax-technologies,
-  :grant-year 1996,
-  :cites
-  ["EP0392546A2"
-   "GB2233654A"
-   "US4542102"
-   "US4582789"
-   "US4656127"
-   "US4689405"
-   "US4713326"
-   "US4855225"
-   "US4889818"
-   "US4962037"
-   "US4965188"
-   "US5002867"
-   "US5026840"
-   "US5075216"
-   "US5126239"
-   "US5143854"
-   "WO1990013666A1"
-   "WO1990015070A1"
-   "WO1991006678A1"
-   "WO1991007087A1"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:kansai-paint],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US5635251/en",
-  :title "Wet-on-wet coating method",
-  :status :granted,
-  :id "US5635251",
-  :sourcing :authoritative,
-  :filing-year 1995,
-  :assignee :kansai-paint,
-  :grant-year 1997,
-  :cites
-  ["GB2247632A"
-   "GB2249496A"
-   "US4530958"
-   "US4761212"
-   "US4812335"
-   "US5064695"
-   "US5210154"
-   "US5324788"
-   "US5397603"
-   "WO1994027741A1"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:isis-pharmaceuticals],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US5644048/en",
-  :title "Process for preparing phosphorothioate oligonucleotides",
-  :status :granted,
-  :id "US5644048",
-  :sourcing :authoritative,
-  :filing-year 1992,
-  :assignee :isis-pharmaceuticals,
-  :grant-year 1997,
-  :cites ["US4415732" "US5212295"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:affymetrix],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US5800992/en",
-  :title "Method of detecting nucleic acids",
-  :status :granted,
-  :id "US5800992",
-  :sourcing :authoritative,
-  :filing-year 1996,
-  :assignee :affymetrix,
-  :grant-year 1998,
-  :cites
-  ["EP0392546A2"
-   "GB2233654A"
-   "US4542102"
-   "US4689405"
-   "US4713326"
-   "US4728591"
-   "US4855225"
-   "US4965188"
-   "US4981783"
-   "US5002867"
-   "US5026840"
-   "US5143854"
-   "US5202231"
-   "US5215882"
-   "US5445934"
-   "US5492806"
-   "US5525464"
-   "WO1989010977A1"
-   "WO1989011548A1"
-   "WO1990000626A1"
-   "WO1990003382A1"
-   "WO1990004652A1"
-   "WO1990015070A1"
-   "WO1991007087A1"
-   "WO1992010092A1"
-   "WO1992010588A1"
-   "WO1993017126A1"],
   :term-years 20,
   :open-license :none}]

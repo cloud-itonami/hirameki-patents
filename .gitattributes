@@ -12,5 +12,14 @@ PUBLISH.md -filter annex.largefiles=nothing
 *.raw.edn filter=annex
 * annex.backend=MD5E
 **/.git* annex.largefiles=nothing
-# the harvest journal — append-only quads, git-tracked so it stays diffable
+# The harvest journal — append-only quads, one per line, sharded at 1 MiB.
+#
+# Git-tracked, NOT annexed, and that is a decision rather than an omission: a
+# sealed shard is byte-identical forever, so git stores it exactly once, and
+# keeping it in git preserves `git diff` / `git blame` on the artifact that
+# ADR-2607072300 designates as THE authoritative record. Annexing it would buy
+# nothing at 1 MiB a shard and cost the review surface.
+#
+# The annex is for what git is genuinely bad at: the bulk operator pulls below,
+# which arrive as single multi-gigabyte files with no useful line structure.
 80-data/public/*.journal.edn -filter annex.largefiles=nothing
