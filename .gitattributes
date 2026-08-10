@@ -10,3 +10,5 @@ PUBLISH.md -filter annex.largefiles=nothing
 *.tsv filter=annex
 *.tsv.zip filter=annex
 *.raw.edn filter=annex
+* annex.backend=MD5E
+**/.git* annex.largefiles=nothing
