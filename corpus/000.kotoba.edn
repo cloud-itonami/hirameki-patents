@@ -3962,6 +3962,20 @@
   :cites ["GB602677A" "US2377153" "US2455910"],
   :term-years 20,
   :open-license :none}
+ {:assignees [:bell-telephone-laboratories],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2711511/en",
+  :title "Electrical hygrometer",
+  :status :granted,
+  :id "US2711511",
+  :sourcing :authoritative,
+  :filing-year 1952,
+  :assignee :bell-telephone-laboratories,
+  :grant-year 1955,
+  :cites ["US2064651" "US2377426" "US2585353" "US2603694"],
+  :term-years 20,
+  :open-license :none}
  {:jurisdiction :us,
   :field "UNKNOWN",
   :source "https://patents.google.com/patent/US2712508/en",
@@ -3985,6 +3999,18 @@
    "US2466718"
    "US2499421"
    "US695041"],
+  :term-years 20,
+  :open-license :none}
+ {:jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2734047/en",
+  :title "Olefin polymerization with sbss catalyst",
+  :status :granted,
+  :id "US2734047",
+  :sourcing :authoritative,
+  :assignee :unassigned,
+  :grant-year 1956,
+  :cites ["US1216933" "US1923583" "US2139038" "US2406869" "US2454796"],
   :term-years 20,
   :open-license :none}
  {:assignees [:ei-du-pont-de-nemours-and],
@@ -4246,6 +4272,21 @@
    "US2779136"],
   :term-years 20,
   :open-license :none}
+ {:assignees [:ei-du-pont-de-nemours-and],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2848437/en",
+  :title
+  "Metalorganic compounds as initiators for the polymerization of formaldehyde",
+  :status :granted,
+  :id "US2848437",
+  :sourcing :authoritative,
+  :filing-year 1954,
+  :assignee :ei-du-pont-de-nemours-and,
+  :grant-year 1958,
+  :cites ["US2162616" "US2178523" "US2519550" "US2551365" "US2734889"],
+  :term-years 20,
+  :open-license :none}
  {:assignees [:firestone-tire-and-rubber],
   :jurisdiction :us,
   :field "UNKNOWN",
@@ -4421,6 +4462,19 @@
   :assignee :champion-papers,
   :grant-year 1962,
   :cites ["US2204600" "US2214565" "US2286259" "US2790730" "US2819184"],
+  :term-years 20,
+  :open-license :none}
+ {:jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3045198/en",
+  :title "Detection device",
+  :status :granted,
+  :id "US3045198",
+  :sourcing :authoritative,
+  :filing-year 1959,
+  :assignee :unassigned,
+  :grant-year 1962,
+  :cites ["US2408093" "US2471601" "US2589983" "US2701832" "US2713625"],
   :term-years 20,
   :open-license :none}
  {:jurisdiction :us,
@@ -4714,6 +4768,21 @@
    "US3146159"],
   :term-years 20,
   :open-license :none}
+ {:assignees [:boehringer-mannheim],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3250596/en",
+  :title
+  "Method for determining the virus adsorptive capacity of aluminum oxide",
+  :status :granted,
+  :id "US3250596",
+  :sourcing :authoritative,
+  :filing-year 1963,
+  :assignee :boehringer-mannheim,
+  :grant-year 1966,
+  :cites ["US2712986"],
+  :term-years 20,
+  :open-license :none}
  {:assignees [:phillips-petroleum],
   :jurisdiction :us,
   :field "UNKNOWN",
@@ -4736,6 +4805,28 @@
    "US3070574"
    "US3140278"
    "US3149182"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:energy-conversion-devices],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3255324/en",
+  :title "Moisture responsive resistance device",
+  :status :granted,
+  :id "US3255324",
+  :sourcing :authoritative,
+  :filing-year 1962,
+  :assignee :energy-conversion-devices,
+  :grant-year 1966,
+  :cites
+  ["US2127538"
+   "US2454584"
+   "US2458348"
+   "US2510018"
+   "US2715667"
+   "US2870306"
+   "US3056935"
+   "US3058079"],
   :term-years 20,
   :open-license :none}
  {:assignees [:scientific-industries],
@@ -4822,6 +4913,20 @@
    "US3222209"],
   :term-years 20,
   :open-license :none}
+ {:assignees [:marconi],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3295022/en",
+  :title
+  "Apparatus for the detection of discharges in high-power transmission channels",
+  :status :granted,
+  :id "US3295022",
+  :sourcing :authoritative,
+  :filing-year 1963,
+  :assignee :marconi,
+  :grant-year 1966,
+  :term-years 20,
+  :open-license :none}
  {:assignees [:union-carbide],
   :jurisdiction :us,
   :field "UNKNOWN",
@@ -4843,6 +4948,27 @@
    "US2991412"
    "US3060374"
    "US819355"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:hitachi],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3311756/en",
+  :title "Electronic circuit having a fieldeffect transistor therein",
+  :status :granted,
+  :id "US3311756",
+  :sourcing :authoritative,
+  :filing-year 1964,
+  :assignee :hitachi,
+  :grant-year 1967,
+  :cites
+  ["US2980809"
+   "US3177100"
+   "US3183128"
+   "US3191061"
+   "US3202840"
+   "US3213299"
+   "US3229218"],
   :term-years 20,
   :open-license :none}
  {:assignees [:british-cellophane],
@@ -4982,6 +5108,20 @@
   :cites ["US2734047" "US2887473" "US2924589" "US2972607"],
   :term-years 20,
   :open-license :none}
+ {:assignees [:inventor-s-group],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3381432/en",
+  :title "Stressed-skin span structure",
+  :status :granted,
+  :id "US3381432",
+  :sourcing :authoritative,
+  :filing-year 1966,
+  :assignee :inventor-s-group,
+  :grant-year 1968,
+  :cites ["US2150217" "US3148230" "US3315424"],
+  :term-years 20,
+  :open-license :none}
  {:assignees [:notraco-internat],
   :jurisdiction :us,
   :field "UNKNOWN",
@@ -5087,6 +5227,21 @@
   :assignee :union-carbide,
   :grant-year 1969,
   :cites ["US3022543" "US3099350" "US3245198" "US3264272"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:james-e-meinhard],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3428892/en",
+  :title
+  "Electronic olfactory detector having organic semiconductor barrier layer structure",
+  :status :granted,
+  :id "US3428892",
+  :sourcing :authoritative,
+  :filing-year 1965,
+  :assignee :james-e-meinhard,
+  :grant-year 1969,
+  :cites ["US2007324" "US2047638" "US2504965" "US2711511" "US3249830"],
   :term-years 20,
   :open-license :none}
  {:assignees [:phillips-petroleum],
@@ -5196,6 +5351,21 @@
   :assignee :billingsfors-langed,
   :grant-year 1970,
   :cites ["FR1308186A" "US1484705" "US2051403" "US2855895"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:becton-dickinson-and],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3492396/en",
+  :title "Agglutinate separation method and apparatus",
+  :status :granted,
+  :id "US3492396",
+  :sourcing :authoritative,
+  :filing-year 1967,
+  :assignee :becton-dickinson-and,
+  :grant-year 1970,
+  :cites
+  ["GB189512072A" "US2462612" "US3352197" "US3382983" "US3392834"],
   :term-years 20,
   :open-license :none}
  {:assignees [:appleton-coated-paper],
@@ -5539,6 +5709,20 @@
   :cites ["GB993961A" "US2882250" "US3167485" "US3278392" "US3507661"],
   :term-years 20,
   :open-license :none}
+ {:assignees [:pharmacia],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3646346/en",
+  :title "Antibody-coated tube system for radioimmunoassay",
+  :status :granted,
+  :id "US3646346",
+  :sourcing :authoritative,
+  :filing-year 1968,
+  :assignee :pharmacia,
+  :grant-year 1972,
+  :cites ["US3372992" "US3380888" "US3451777"],
+  :term-years 20,
+  :open-license :none}
  {:assignees [:corning-glass-works],
   :jurisdiction :us,
   :field "UNKNOWN",
@@ -5674,6 +5858,18 @@
   :grant-year 1972,
   :term-years 20,
   :open-license :none}
+ {:jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3695848/en",
+  :title "Gas detecting device",
+  :status :granted,
+  :id "US3695848",
+  :sourcing :authoritative,
+  :filing-year 1970,
+  :assignee :unassigned,
+  :grant-year 1972,
+  :term-years 20,
+  :open-license :none}
  {:assignees [:nat-res-dev],
   :jurisdiction :us,
   :field "UNKNOWN",
@@ -5685,6 +5881,21 @@
   :filing-year 1968,
   :assignee :nat-res-dev,
   :grant-year 1972,
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:shiney],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3699803/en",
+  :title
+  "Semiconductor element for detecting gases and meter for measuring component concentration of a gas mixture",
+  :status :granted,
+  :id "US3699803",
+  :sourcing :authoritative,
+  :filing-year 1971,
+  :assignee :shiney,
+  :grant-year 1972,
+  :cites ["DE2005497A1" "US3039053" "US3507145"],
   :term-years 20,
   :open-license :none}
  {:assignees [:ici-australia],
@@ -5772,6 +5983,20 @@
    "US3679312"],
   :term-years 20,
   :open-license :none}
+ {:assignees [:pharmacia],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3720760/en",
+  :title
+  "Method for determining the presence of reagin-immunoglobulins(reagin-ig)directed against certain allergens,in aqueous samples",
+  :status :granted,
+  :id "US3720760",
+  :sourcing :authoritative,
+  :filing-year 1968,
+  :assignee :pharmacia,
+  :grant-year 1973,
+  :term-years 20,
+  :open-license :none}
  {:assignees [:purdue-research-foundation],
   :jurisdiction :us,
   :field "UNKNOWN",
@@ -5811,6 +6036,20 @@
   :assignee :f-hoffmann-la-roche,
   :grant-year 1973,
   :cites ["US3597318"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:united-states-department-of-the-army],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3770380/en",
+  :title "Article and method for multiple immune adherence assay",
+  :status :granted,
+  :id "US3770380",
+  :sourcing :authoritative,
+  :filing-year 1971,
+  :assignee :united-states-department-of-the-army,
+  :grant-year 1973,
+  :cites ["US3415361" "US3502437" "US3666421"],
   :term-years 20,
   :open-license :none}
  {:assignees [:akzona],
@@ -6064,6 +6303,29 @@
   :assignee :allied-chemical,
   :grant-year 1975,
   :cites ["US2597741" "US3639163"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:nat-res-dev],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3865550/en",
+  :title "Semi-conducting gas sensitive devices",
+  :status :granted,
+  :id "US3865550",
+  :sourcing :authoritative,
+  :filing-year 1973,
+  :assignee :nat-res-dev,
+  :grant-year 1975,
+  :cites
+  ["US3036895"
+   "US3255324"
+   "US3340014"
+   "US3479257"
+   "US3558280"
+   "US3567383"
+   "US3598762"
+   "US3631436"
+   "US3676820"],
   :term-years 20,
   :open-license :none}
  {:assignees [:instrumentation-laboratory],
@@ -6327,6 +6589,20 @@
   :cites ["US3462416" "US3701772" "US3712885" "US3872098"],
   :term-years 20,
   :open-license :none}
+ {:assignees [:pharmacia-diagnostics],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3966898/en",
+  :title "Method and reagent for determining immunologic materials",
+  :status :granted,
+  :id "US3966898",
+  :sourcing :authoritative,
+  :filing-year 1974,
+  :assignee :pharmacia-diagnostics,
+  :grant-year 1976,
+  :cites ["US3859430"],
+  :term-years 20,
+  :open-license :none}
  {:jurisdiction :us,
   :field "UNKNOWN",
   :source "https://patents.google.com/patent/US3970841/en",
@@ -6478,6 +6754,28 @@
   :assignee :monsanto,
   :grant-year 1977,
   :cites ["US3646346" "US3790663"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:university-of-utah],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US4020830/en",
+  :title "Selective chemical sensitive FET transducers",
+  :status :granted,
+  :id "US4020830",
+  :sourcing :authoritative,
+  :filing-year 1975,
+  :assignee :university-of-utah,
+  :grant-year 1977,
+  :cites
+  ["US3049118"
+   "US3294988"
+   "US3649505"
+   "US3776819"
+   "US3787309"
+   "US3831432"
+   "US3896008"
+   "US3932233"],
   :term-years 20,
   :open-license :none}
  {:assignees [:corning-glass-works],
@@ -6772,6 +7070,20 @@
    "US3844896"
    "US3847749"
    "US3887436"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:fisher-scientific],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US4092114/en",
+  :title "Indirect latex test for determination of immunoglobulins",
+  :status :granted,
+  :id "US4092114",
+  :sourcing :authoritative,
+  :filing-year 1976,
+  :assignee :fisher-scientific,
+  :grant-year 1978,
+  :cites ["US3565987" "US3857931" "US4003988"],
   :term-years 20,
   :open-license :none}
  {:assignees [:dios],
@@ -8758,333 +9070,5 @@
   :assignee :boston-university,
   :grant-year 1988,
   :cites ["US4103064" "US4103073" "US4170512" "US4254174"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:molecular-diagnostics],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US4737454/en",
-  :title
-  "Fast photochemical method of labelling nucleic acids for detection purposes in hybridization assays",
-  :status :granted,
-  :id "US4737454",
-  :sourcing :authoritative,
-  :filing-year 1984,
-  :assignee :molecular-diagnostics,
-  :grant-year 1988,
-  :cites
-  ["EP0156287A2"
-   "GB2019408A"
-   "US4218539"
-   "US4358535"
-   "US4486539"
-   "US4582789"
-   "US4617261"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:kansai-paint],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US4759961/en",
-  :title
-  "Coating method with crosslinked coatings from two coat-one bake systems",
-  :status :granted,
-  :id "US4759961",
-  :sourcing :authoritative,
-  :filing-year 1987,
-  :assignee :kansai-paint,
-  :grant-year 1988,
-  :cites
-  ["US3619398"
-   "US3676383"
-   "US3998716"
-   "US4315959"
-   "US4382114"
-   "US4463038"
-   "US4514445"
-   "US4529632"
-   "US4533703"
-   "US4536558"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:kansai-paint],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US4761212/en",
-  :title "Multiple coating method",
-  :status :granted,
-  :id "US4761212",
-  :sourcing :authoritative,
-  :filing-year 1986,
-  :assignee :kansai-paint,
-  :grant-year 1988,
-  :cites
-  ["US3619398"
-   "US3676383"
-   "US3998716"
-   "US4375498"
-   "US4463038"
-   "US4529632"
-   "US4536558"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:allied :genetics-institute],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US4766062/en",
-  :title
-  "Displacement polynucleotide assay method and polynucleotide complex reagent therefor",
-  :status :granted,
-  :id "US4766062",
-  :sourcing :authoritative,
-  :filing-year 1984,
-  :assignee :allied,
-  :grant-year 1988,
-  :cites
-  ["EP0063879A2"
-   "EP0070687B1"
-   "EP0097373B1"
-   "EP0124221A1"
-   "EP0127327A1"
-   "EP0133288A2"
-   "EP0139489A2"
-   "GB2125964A"
-   "US4205952"
-   "US4358535"
-   "US4388295"
-   "US4395486"
-   "US4434236"
-   "US4486539"
-   "US4568649"
-   "US4629689"
-   "WO1983001459A1"
-   "WO1983002277A1"
-   "WO1984002721A1"],
-  :term-years 20,
-  :open-license :none}
- {:jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US4770992/en",
-  :title "Detection of specific DNA sequences by flow cytometry",
-  :status :granted,
-  :id "US4770992",
-  :sourcing :authoritative,
-  :filing-year 1985,
-  :assignee :unassigned,
-  :grant-year 1988,
-  :cites ["US4585736"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:national-distillers-and-chemical],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US4775745/en",
-  :title
-  "Diazonium compounds useful as components for nucleic acid probes",
-  :status :granted,
-  :id "US4775745",
-  :sourcing :authoritative,
-  :filing-year 1986,
-  :assignee :national-distillers-and-chemical,
-  :grant-year 1988,
-  :cites
-  ["US2744116"
-   "US3637672"
-   "US3715872"
-   "US4539148"
-   "US4556513"
-   "US4617621"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:molecular-diagnostics],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US4794073/en",
-  :title
-  "Detection of nucleic acid hybrids by prolonged chemiluminescence",
-  :status :granted,
-  :id "US4794073",
-  :sourcing :authoritative,
-  :filing-year 1985,
-  :assignee :molecular-diagnostics,
-  :grant-year 1988,
-  :cites
-  ["EP0070687B1"
-   "EP0087959A1"
-   "EP0103784A2"
-   "EP0116454A2"
-   "EP0157629A2"
-   "GB2162946A"
-   "US4563417"
-   "US4598044"
-   "US4617261"
-   "US4623627"
-   "US4629689"
-   "WO1983003104A1"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:harvard-university],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US4795699/en",
-  :title "T7 DNA polymerase",
-  :status :granted,
-  :id "US4795699",
-  :sourcing :authoritative,
-  :filing-year 1987,
-  :assignee :harvard-university,
-  :grant-year 1989,
-  :cites
-  ["US3444041"
-   "US3444042"
-   "US3661893"
-   "US4363877"
-   "US4483920"
-   "US4483922"
-   "US4486539"
-   "US4521509"
-   "US4556643"
-   "US4563419"
-   "US4591565"
-   "US4656127"
-   "US4663283"
-   "US4663290"
-   "US4670379"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:cetus],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US4800159/en",
-  :title
-  "Process for amplifying, detecting, and/or cloning nucleic acid sequences",
-  :status :granted,
-  :id "US4800159",
-  :sourcing :authoritative,
-  :filing-year 1986,
-  :assignee :cetus,
-  :grant-year 1989,
-  :cites ["US4237224" "US4683195" "US4683202"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:nippon-paint],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US4812335/en",
-  :title "Method of painting",
-  :status :granted,
-  :id "US4812335",
-  :sourcing :authoritative,
-  :filing-year 1987,
-  :assignee :nippon-paint,
-  :grant-year 1989,
-  :cites ["US4391858" "US4403003" "US4490417"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:tufts-university],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US4822746/en",
-  :title
-  "Radiative and non-radiative energy transfer and absorbance modulated fluorescence detection methods and sensors",
-  :status :granted,
-  :id "US4822746",
-  :sourcing :authoritative,
-  :filing-year 1986,
-  :assignee :tufts-university,
-  :grant-year 1989,
-  :cites ["US4144452" "US4495293"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:life-technologies],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US4849332/en",
-  :title
-  "Human papillomavirus 35 nucleic acid hybridization probes and methods for employing the same",
-  :status :granted,
-  :id "US4849332",
-  :sourcing :authoritative,
-  :filing-year 1987,
-  :assignee :life-technologies,
-  :grant-year 1989,
-  :term-years 20,
-  :open-license :none}
- {:assignees [:life-technologies],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US4849334/en",
-  :title
-  "Human papillomavirus 43 nucleic acid hybridization probes and methods for employing the same",
-  :status :granted,
-  :id "US4849334",
-  :sourcing :authoritative,
-  :filing-year 1987,
-  :assignee :life-technologies,
-  :grant-year 1989,
-  :term-years 20,
-  :open-license :none}
- {:assignees [:applied-biosystems],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US4855225/en",
-  :title
-  "Method of detecting electrophoretically separated oligonucleotides",
-  :status :granted,
-  :id "US4855225",
-  :sourcing :authoritative,
-  :filing-year 1986,
-  :assignee :applied-biosystems,
-  :grant-year 1989,
-  :cites
-  ["DE3501306A1"
-   "GB2153356A"
-   "GB2155176A"
-   "US4318846"
-   "US4415732"
-   "US4458066"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:new-york-medical-college],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US4863849/en",
-  :title "Automatable process for sequencing nucleotide",
-  :status :granted,
-  :id "US4863849",
-  :sourcing :authoritative,
-  :filing-year 1985,
-  :assignee :new-york-medical-college,
-  :grant-year 1989,
-  :cites ["US4072574"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:fuji-photo-film],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US4865967/en",
-  :title "Autoradiographic gene-screening method",
-  :status :granted,
-  :id "US4865967",
-  :sourcing :authoritative,
-  :filing-year 1987,
-  :assignee :fuji-photo-film,
-  :grant-year 1989,
-  :cites
-  ["EP0056638A1" "US4239968" "US4297587" "US4302671" "US4389670"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:salk-institute-for-biological-studies],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US4865968/en",
-  :title "DNA sequencing",
-  :status :granted,
-  :id "US4865968",
-  :sourcing :authoritative,
-  :filing-year 1985,
-  :assignee :salk-institute-for-biological-studies,
-  :grant-year 1989,
-  :cites ["EP0115777A2"],
   :term-years 20,
   :open-license :none}]
