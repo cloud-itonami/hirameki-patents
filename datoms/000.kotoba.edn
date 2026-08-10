@@ -2772,6 +2772,40 @@
   "hirameki-patent:GB1008679A"
   ":hirameki/source"
   "https://patents.google.com/patent/GB1008679A/en"]
+ [":db/add" "hirameki-patent:GB1054626A" ":hirameki.patent/title" ""]
+ [":db/add"
+  "hirameki-patent:GB1054626A"
+  ":hirameki.patent/jurisdiction"
+  ":gb"]
+ [":db/add"
+  "hirameki-patent:GB1054626A"
+  ":hirameki.patent/field"
+  "UNKNOWN"]
+ [":db/add"
+  "hirameki-patent:GB1054626A"
+  ":hirameki.patent/assignee"
+  ":unassigned"]
+ [":db/add"
+  "hirameki-patent:GB1054626A"
+  ":hirameki.patent/status"
+  ":pending"]
+ [":db/add"
+  "hirameki-patent:GB1054626A"
+  ":hirameki.patent/open-license"
+  ":none"]
+ [":db/add"
+  "hirameki-patent:GB1054626A"
+  ":hirameki.obs/release-status"
+  ":pending"]
+ [":db/add"
+  "hirameki-patent:GB1054626A"
+  ":hirameki/sourcing"
+  ":authoritative"]
+ [":db/add" "hirameki-patent:GB1054626A" ":hirameki/derived" true]
+ [":db/add"
+  "hirameki-patent:GB1054626A"
+  ":hirameki/source"
+  "https://patents.google.com/patent/GB1054626A/en"]
  [":db/add"
   "hirameki-patent:GB1060155A"
   ":hirameki.patent/title"
@@ -9873,37 +9907,4 @@
  [":db/add"
   "hirameki-patent:JP3062483B2"
   ":hirameki.patent/field"
-  "UNKNOWN"]
- [":db/add"
-  "hirameki-patent:JP3062483B2"
-  ":hirameki.patent/assignee"
-  ":asia-industry-coltd"]
- [":db/add"
-  "hirameki-patent:JP3062483B2"
-  ":hirameki.patent/status"
-  ":granted"]
- [":db/add"
-  "hirameki-patent:JP3062483B2"
-  ":hirameki.patent/open-license"
-  ":none"]
- [":db/add"
-  "hirameki-patent:JP3062483B2"
-  ":hirameki.obs/release-status"
-  ":public-domain"]
- [":db/add"
-  "hirameki-patent:JP3062483B2"
-  ":hirameki/sourcing"
-  ":authoritative"]
- [":db/add" "hirameki-patent:JP3062483B2" ":hirameki/derived" true]
- [":db/add"
-  "hirameki-patent:JP3062483B2"
-  ":hirameki.obs/years-to-expiry"
-  -8]
- [":db/add"
-  "hirameki-patent:JP3062483B2"
-  ":hirameki/source"
-  "https://patents.google.com/patent/JP3062483B2/en"]
- [":db/add"
-  "hirameki-patent:SU649751A1"
-  ":hirameki.patent/title"
-  "Method of identification of microorganisms"]]
+  "UNKNOWN"]]

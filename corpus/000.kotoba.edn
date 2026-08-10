@@ -911,6 +911,16 @@
   :assignee :herbert-ruckrich,
   :term-years 20,
   :open-license :none}
+ {:jurisdiction :gb,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/GB1054626A/en",
+  :title "",
+  :status :pending,
+  :id "GB1054626A",
+  :sourcing :authoritative,
+  :assignee :unassigned,
+  :term-years 20,
+  :open-license :none}
  {:assignees [:st-regis-paper],
   :jurisdiction :gb,
   :field "UNKNOWN",
@@ -3401,6 +3411,19 @@
   :grant-year 1932,
   :term-years 20,
   :open-license :none}
+ {:assignees [:leeds-and-northrup],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US1951035/en",
+  :title "Apparatus for recording and controlling",
+  :status :granted,
+  :id "US1951035",
+  :sourcing :authoritative,
+  :filing-year 1928,
+  :assignee :leeds-and-northrup,
+  :grant-year 1934,
+  :term-years 20,
+  :open-license :none}
  {:assignees [:gardner-richardson],
   :jurisdiction :us,
   :field "UNKNOWN",
@@ -3978,6 +4001,42 @@
   :cites ["US2541167" "US2633434"],
   :term-years 20,
   :open-license :none}
+ {:assignees [:beckman-instruments],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2755243/en",
+  :title "Electrochemical electrode structure",
+  :status :granted,
+  :id "US2755243",
+  :sourcing :authoritative,
+  :filing-year 1952,
+  :assignee :beckman-instruments,
+  :grant-year 1956,
+  :cites ["US2289610" "US2311976" "US2311977" "US2340642" "US2345498"],
+  :term-years 20,
+  :open-license :none}
+ {:jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2757132/en",
+  :title "Method of electrochemical analysis",
+  :status :granted,
+  :id "US2757132",
+  :sourcing :authoritative,
+  :filing-year 1944,
+  :assignee :unassigned,
+  :grant-year 1956,
+  :cites
+  ["FR885615A"
+   "GB302490A"
+   "US1340649"
+   "US1530833"
+   "US2024819"
+   "US2114234"
+   "US2156693"
+   "US2278248"
+   "US2370871"],
+  :term-years 20,
+  :open-license :none}
  {:jurisdiction :us,
   :field "UNKNOWN",
   :source "https://patents.google.com/patent/US2761854/en",
@@ -4166,6 +4225,27 @@
   :cites ["CA500178A" "US2698240"],
   :term-years 20,
   :open-license :none}
+ {:assignees [:commw-mental-health-res-founda],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2829090/en",
+  :title "Glass electrode for measuring sodium ion",
+  :status :granted,
+  :id "US2829090",
+  :sourcing :authoritative,
+  :filing-year 1957,
+  :assignee :commw-mental-health-res-founda,
+  :grant-year 1958,
+  :cites
+  ["US1933739"
+   "US2108294"
+   "US2260749"
+   "US2383709"
+   "US2527693"
+   "US2571242"
+   "US2779136"],
+  :term-years 20,
+  :open-license :none}
  {:assignees [:firestone-tire-and-rubber],
   :jurisdiction :us,
   :field "UNKNOWN",
@@ -4225,6 +4305,18 @@
   :cites ["US2597087" "US2711156" "US2772184" "US2776912" "US2790736"],
   :term-years 20,
   :open-license :none}
+ {:jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2926072/en",
+  :title "Detection of g agents",
+  :status :granted,
+  :id "US2926072",
+  :sourcing :authoritative,
+  :filing-year 1959,
+  :assignee :unassigned,
+  :grant-year 1960,
+  :term-years 20,
+  :open-license :none}
  {:assignees [:champion-paper-and-fibre],
   :jurisdiction :us,
   :field "UNKNOWN",
@@ -4248,6 +4340,34 @@
    "US2599947"
    "US2676563"
    "US2729192"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:mine-safety-appliances],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2975362/en",
+  :title "Semiconductor diodes for gas detection",
+  :status :granted,
+  :id "US2975362",
+  :sourcing :authoritative,
+  :filing-year 1957,
+  :assignee :mine-safety-appliances,
+  :grant-year 1961,
+  :cites ["US2402662" "US2711511"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:us-philips],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2998554/en",
+  :title "Semi-conductor barrier layer system",
+  :status :granted,
+  :id "US2998554",
+  :sourcing :authoritative,
+  :filing-year 1958,
+  :assignee :us-philips,
+  :grant-year 1961,
+  :cites ["US2846625" "US2858356" "US2887629"],
   :term-years 20,
   :open-license :none}
  {:assignees [:us-philips],
@@ -4303,6 +4423,19 @@
   :cites ["US2204600" "US2214565" "US2286259" "US2790730" "US2819184"],
   :term-years 20,
   :open-license :none}
+ {:jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3049411/en",
+  :title "Enzymatic method for detection of anticholinesterases",
+  :status :granted,
+  :id "US3049411",
+  :sourcing :authoritative,
+  :filing-year 1959,
+  :assignee :unassigned,
+  :grant-year 1962,
+  :cites ["US2865719"],
+  :term-years 20,
+  :open-license :none}
  {:assignees [:ei-du-pont-de-nemours-and],
   :jurisdiction :us,
   :field "UNKNOWN",
@@ -4324,6 +4457,20 @@
    "US2886467"
    "US2929737"
    "US2938823"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:swift-and],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3075887/en",
+  :title "Drying of bacterial cultures",
+  :status :granted,
+  :id "US3075887",
+  :sourcing :authoritative,
+  :filing-year 1960,
+  :assignee :swift-and,
+  :grant-year 1963,
+  :cites ["US1694807" "US2710810" "US2919194"],
   :term-years 20,
   :open-license :none}
  {:assignees [:mead],
@@ -4528,6 +4675,20 @@
    "US3021239"],
   :term-years 20,
   :open-license :none}
+ {:assignees [:trw],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3228799/en",
+  :title "Biological electrical power generation",
+  :status :granted,
+  :id "US3228799",
+  :sourcing :authoritative,
+  :filing-year 1960,
+  :assignee :trw,
+  :grant-year 1966,
+  :cites ["US2497852" "US329724"],
+  :term-years 20,
+  :open-license :none}
  {:assignees [:combined-locks-paper],
   :jurisdiction :us,
   :field "UNKNOWN",
@@ -4661,6 +4822,29 @@
    "US3222209"],
   :term-years 20,
   :open-license :none}
+ {:assignees [:union-carbide],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3296113/en",
+  :title "Gas-stream monitor",
+  :status :granted,
+  :id "US3296113",
+  :sourcing :authoritative,
+  :filing-year 1963,
+  :assignee :union-carbide,
+  :grant-year 1967,
+  :cites
+  ["US2616950"
+   "US2722658"
+   "US2758079"
+   "US2851654"
+   "US2938064"
+   "US2980749"
+   "US2991412"
+   "US3060374"
+   "US819355"],
+  :term-years 20,
+  :open-license :none}
  {:assignees [:british-cellophane],
   :jurisdiction :us,
   :field "UNKNOWN",
@@ -4709,6 +4893,20 @@
   :assignee :sankyo,
   :grant-year 1967,
   :cites ["US3208997"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:exxon-research-and-engineering],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3329004/en",
+  :title "Coated piezoelectric analyzer",
+  :status :granted,
+  :id "US3329004",
+  :sourcing :authoritative,
+  :filing-year 1963,
+  :assignee :exxon-research-and-engineering,
+  :grant-year 1967,
+  :cites ["US1559461" "US2571171" "US2768069" "US3164004" "US3194053"],
   :term-years 20,
   :open-license :none}
  {:assignees [:shell-oil],
@@ -4835,6 +5033,20 @@
   :cites ["US2885074" "US3094432" "US3162543" "US3230289"],
   :term-years 20,
   :open-license :none}
+ {:assignees [:trw],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3403081/en",
+  :title "Bio-chemical sensor and method of using same",
+  :status :granted,
+  :id "US3403081",
+  :sourcing :authoritative,
+  :filing-year 1967,
+  :assignee :trw,
+  :grant-year 1968,
+  :cites ["US2898282" "US2913386" "US3022241" "US3058894"],
+  :term-years 20,
+  :open-license :none}
  {:assignees [:philco-ford],
   :jurisdiction :us,
   :field "UNKNOWN",
@@ -4900,6 +5112,34 @@
   :sourcing :authoritative,
   :assignee :unassigned,
   :grant-year 1886,
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:shell-oil],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3441530/en",
+  :title "Block copolymer powders",
+  :status :granted,
+  :id "US3441530",
+  :sourcing :authoritative,
+  :filing-year 1965,
+  :assignee :shell-oil,
+  :grant-year 1969,
+  :cites ["GB888624A" "US2945020" "US3203916" "US3214407" "US3265765"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:union-carbide],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3469147/en",
+  :title "Dielectrically isolated structures and method",
+  :status :granted,
+  :id "US3469147",
+  :sourcing :authoritative,
+  :filing-year 1966,
+  :assignee :union-carbide,
+  :grant-year 1969,
+  :cites ["US3368113" "US3381182"],
   :term-years 20,
   :open-license :none}
  {:assignees [:beckman-instruments],
@@ -5046,6 +5286,43 @@
   :cites ["CA729581A" "GB1016635A" "US3340085"],
   :term-years 20,
   :open-license :none}
+ {:assignees [:general-electric],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3507145/en",
+  :title "Indium sesquioxide thin film combustible gas detector",
+  :status :granted,
+  :id "US3507145",
+  :sourcing :authoritative,
+  :filing-year 1967,
+  :assignee :general-electric,
+  :grant-year 1970,
+  :cites ["US2508588"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:shell-oil],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3515528/en",
+  :title
+  "Block copolymer strippable coatings of butadiene styrene block copolymer containing a fatty acid amide",
+  :status :granted,
+  :id "US3515528",
+  :sourcing :authoritative,
+  :filing-year 1965,
+  :assignee :shell-oil,
+  :grant-year 1970,
+  :cites
+  ["US2770608"
+   "US2770609"
+   "US2938879"
+   "US3104232"
+   "US3227589"
+   "US3239478"
+   "US3251905"
+   "US3330796"],
+  :term-years 20,
+  :open-license :none}
  {:jurisdiction :us,
   :field "UNKNOWN",
   :source "https://patents.google.com/patent/US3516971/en",
@@ -5093,6 +5370,20 @@
   :assignee :kyowa-hakko-kogyo,
   :grant-year 1970,
   :cites ["US3299043" "US3347846" "US3413282"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:international-business-machines],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3586554/en",
+  :title
+  "Process for increasing photoresist adhesion to a semiconductor by treating the semiconductor with a disilylamide",
+  :status :granted,
+  :id "US3586554",
+  :sourcing :authoritative,
+  :filing-year 1969,
+  :assignee :international-business-machines,
+  :grant-year 1971,
   :term-years 20,
   :open-license :none}
  {:assignees [:us-philips],
@@ -5355,6 +5646,19 @@
   :assignee :biophysics-systems,
   :grant-year 1972,
   :cites ["US2875666" "US3497690"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:general-electric],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3685140/en",
+  :title "Short channel field-effect transistors",
+  :status :granted,
+  :id "US3685140",
+  :sourcing :authoritative,
+  :filing-year 1969,
+  :assignee :general-electric,
+  :grant-year 1972,
   :term-years 20,
   :open-license :none}
  {:assignees [:leland-stanford-junior-university],
@@ -8782,359 +9086,5 @@
   :assignee :salk-institute-for-biological-studies,
   :grant-year 1989,
   :cites ["EP0115777A2"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:syntex-usa],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US4868104/en",
-  :title "Homogeneous assay for specific polynucleotides",
-  :status :granted,
-  :id "US4868104",
-  :sourcing :authoritative,
-  :filing-year 1985,
-  :assignee :syntex-usa,
-  :grant-year 1989,
-  :cites
-  ["EP0070685A2"
-   "EP0079139A1"
-   "EP0130515A2"
-   "EP0139489A2"
-   "EP0153873A2"
-   "EP0154505A2"
-   "US4193983"
-   "US4313734"
-   "US4522922"
-   "US4563417"
-   "US4563419"
-   "US4623627"
-   "US4749647"
-   "US4751177"
-   "WO1985002628A1"
-   "WO1986003227A1"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:applied-biosystems],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US4883750/en",
-  :title "Detection of specific sequences in nucleic acids",
-  :status :granted,
-  :id "US4883750",
-  :sourcing :authoritative,
-  :filing-year 1984,
-  :assignee :applied-biosystems,
-  :grant-year 1989,
-  :cites
-  ["EP0070685A2"
-   "EP0154505A2"
-   "US4358535"
-   "US4395486"
-   "US4486539"
-   "US4563419"
-   "US4710465"
-   "WO1985004902A1"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:microprobe],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US4886741/en",
-  :title
-  "Use of volume exclusion agents for the enhancement of in situ hybridization",
-  :status :granted,
-  :id "US4886741",
-  :sourcing :authoritative,
-  :filing-year 1987,
-  :assignee :microprobe,
-  :grant-year 1989,
-  :cites ["EP0098373A2" "WO1986005816A1"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:umass-memorial-medical-center],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US4888278/en",
-  :title
-  "In-situ hybridization to detect nucleic acid sequences in morphologically intact cells",
-  :status :granted,
-  :id "US4888278",
-  :sourcing :authoritative,
-  :filing-year 1988,
-  :assignee :umass-memorial-medical-center,
-  :grant-year 1989,
-  :cites ["US4419446" "US4652517"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:cetus],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US4889818/en",
-  :title "Purified thermostable enzyme",
-  :status :granted,
-  :id "US4889818",
-  :sourcing :authoritative,
-  :filing-year 1987,
-  :assignee :cetus,
-  :grant-year 1989,
-  :cites ["US4683194" "US4683195" "US4683202"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:varian-associates],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US4895809/en",
-  :title "Immobilized antigen-antibody displacement process",
-  :status :granted,
-  :id "US4895809",
-  :sourcing :authoritative,
-  :filing-year 1984,
-  :assignee :varian-associates,
-  :grant-year 1990,
-  :cites
-  ["US4036946"
-   "US4108603"
-   "US4251360"
-   "US4264327"
-   "US4277560"
-   "US4456689"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:bresatac],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US4898951/en",
-  :title
-  "Compounds used as intermediates in the preparations of non-radioactive biological probes",
-  :status :granted,
-  :id "US4898951",
-  :sourcing :authoritative,
-  :filing-year 1988,
-  :assignee :bresatac,
-  :grant-year 1990,
-  :cites
-  ["EP0119448A1"
-   "EP0127438B1"
-   "US4282287"
-   "US4487838"
-   "WO1983002277A1"
-   "WO1984003285A1"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:harvard-university],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US4921794/en",
-  :title "T7 DNA polymerase",
-  :status :granted,
-  :id "US4921794",
-  :sourcing :authoritative,
-  :filing-year 1988,
-  :assignee :harvard-university,
-  :grant-year 1990,
-  :cites
-  ["EP0258017A2"
-   "US4224408"
-   "US4331589"
-   "US4394443"
-   "US4395486"
-   "US4555486"
-   "US4663290"
-   "US4683195"
-   "US4683202"
-   "US4767708"
-   "US4786600"
-   "US4795699"
-   "US4800159"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:millipore],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US4923901/en",
-  :title "Membranes with bound oligonucleotides and peptides",
-  :status :granted,
-  :id "US4923901",
-  :sourcing :authoritative,
-  :filing-year 1987,
-  :assignee :millipore,
-  :grant-year 1990,
-  :cites
-  ["US4415732"
-   "US4458066"
-   "US4500707"
-   "US4591614"
-   "US4667025"
-   "US4668777"
-   "US4689405"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:government-of-the-united-states-of-america],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US4962037/en",
-  :title "Method for rapid base sequencing in DNA and RNA",
-  :status :granted,
-  :id "US4962037",
-  :sourcing :authoritative,
-  :filing-year 1987,
-  :assignee :government-of-the-united-states-of-america,
-  :grant-year 1990,
-  :cites ["EP0251575A1" "US3730844" "US4521509"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:cetus],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US4965188/en",
-  :title
-  "Process for amplifying, detecting, and/or cloning nucleic acid sequences using a thermostable enzyme",
-  :status :granted,
-  :id "US4965188",
-  :sourcing :authoritative,
-  :filing-year 1987,
-  :assignee :cetus,
-  :grant-year 1990,
-  :cites
-  ["EP0086548A2"
-   "EP0138242A1"
-   "EP0200362B1"
-   "EP0201184B1"
-   "EP0258017A2"
-   "US4351901"
-   "US4683194"
-   "US4683195"
-   "US4683202"
-   "US4800159"
-   "US4889818"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:bio-metric-systems],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US4973493/en",
-  :title "Method of improving the biocompatibility of solid surfaces",
-  :status :granted,
-  :id "US4973493",
-  :sourcing :authoritative,
-  :filing-year 1987,
-  :assignee :bio-metric-systems,
-  :grant-year 1990,
-  :cites
-  ["US3808113"
-   "US3826678"
-   "US3955012"
-   "US3959078"
-   "US4007089"
-   "US4240163"
-   "US4311573"
-   "US4378224"
-   "US4378435"
-   "US4419444"
-   "US4434150"
-   "US4451568"
-   "US4500676"
-   "US4526714"
-   "US4526909"
-   "US4530974"
-   "US4536179"
-   "US4589881"
-   "US4589964"
-   "US4595632"
-   "US4605413"
-   "US4663233"
-   "US4687808"
-   "US4715858"
-   "US4716122"
-   "US4722906"
-   "US4828563"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:montefiore-medical-center],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US4981783/en",
-  :title "Method for detecting pathological conditions",
-  :status :granted,
-  :id "US4981783",
-  :sourcing :authoritative,
-  :filing-year 1986,
-  :assignee :montefiore-medical-center,
-  :grant-year 1991,
-  :cites ["US4699877"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:consejo-superior-de-investigaciones-cientificas-csic],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US5001050/en",
-  :title "PHφ29 DNA polymerase",
-  :status :granted,
-  :id "US5001050",
-  :sourcing :authoritative,
-  :filing-year 1989,
-  :assignee :consejo-superior-de-investigaciones-cientificas-csic,
-  :grant-year 1991,
-  :cites ["US4795699" "US4921794" "US4942130" "US4946786"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:university-of-california-san-diego-ucsd],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US5001051/en",
-  :title
-  "Dose critical in-vivo detection of anti-cancer drug levels in blood",
-  :status :granted,
-  :id "US5001051",
-  :sourcing :authoritative,
-  :filing-year 1986,
-  :assignee :university-of-california-san-diego-ucsd,
-  :grant-year 1991,
-  :cites
-  ["US4419340"
-   "US4488814"
-   "US4559299"
-   "US4577109"
-   "US4610869"
-   "US4822746"],
-  :term-years 20,
-  :open-license :none}
- {:jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US5002867/en",
-  :title
-  "Nucleic acid sequence determination by multiple mixed oligonucleotide probes",
-  :status :granted,
-  :id "US5002867",
-  :sourcing :authoritative,
-  :filing-year 1988,
-  :assignee :unassigned,
-  :grant-year 1991,
-  :cites ["US4865968"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:molecular-diagnostics],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US5026840/en",
-  :title
-  "Photochemical nucleic acid-labeling reagent having a polyalklamine spacer",
-  :status :granted,
-  :id "US5026840",
-  :sourcing :authoritative,
-  :filing-year 1990,
-  :assignee :molecular-diagnostics,
-  :grant-year 1991,
-  :cites
-  ["EP0124221A1"
-   "EP0130515A2"
-   "EP0131830A1"
-   "EP0138357A2"
-   "EP0156287A2"
-   "US4582789"
-   "US4599303"
-   "US4617261"
-   "US4737454"
-   "WO1985002628A1"],
   :term-years 20,
   :open-license :none}]
