@@ -1,4 +1,7 @@
 {:paths ["."]
+ :aliases
+ {;; query-check.clj — the corpus is not just bytes, it has to answer questions
+  :query {:extra-deps {datascript/datascript {:mvn/version "1.7.3"}}}}
  :deps {com.junkawasaki/multiformats-clj
         {:git/url "https://github.com/com-junkawasaki/multiformats-clj.git"
          :git/sha "0f4ed68ff9e3cbf069569d897c9304713a14036c"}}}
