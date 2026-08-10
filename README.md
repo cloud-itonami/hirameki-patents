@@ -57,30 +57,47 @@ clojure -M -m hirameki.methods.dataset --dataset ../hirameki-patents --as-of 202
 
 ## Verify
 
+Two gates, because they check different claims.
+
 ```bash
-clojure -M verify.clj
+clojure -M verify.clj          # the bytes are what the manifest says
+clojure -M:query query-check.clj   # the corpus actually answers questions
 ```
 
-Re-derives every shard's CIDv1/raw/sha2-256 from the bytes on disk. No daemon, no
-network. It also checks that the shards' item counts add up — a CID proves a
-shard is intact, never that the set of shards is complete. Details and the reason
-the artifacts are sharded at all are in [`PUBLISH.md`](PUBLISH.md).
+`verify.clj` re-derives every shard's CIDv1/raw/sha2-256 from the bytes on disk.
+No daemon, no network. It also checks that the shards' item counts add up — a
+CID proves a shard is intact, never that the set of shards is complete. Details
+and the reason the artifacts are sharded at all are in [`PUBLISH.md`](PUBLISH.md).
+
+`query-check.clj` transacts every `datoms/` shard into DataScript and runs real
+queries — count by holder, roll up by jurisdiction, join a holder to its
+patents, compare the release clock numerically — and asserts the published
+artifact carries no verdict, no `imposes`, and no inventor attribute (G1/G2/G6
+hold in the ARTIFACT, not only in the code that wrote it). Hashing perfectly and
+being queryable are different claims; this checks the second.
+
+Confirmed both directions: renaming the assignee attribute across all shards
+exits 1, and so does introducing an inventor attribute.
 
 ## DataLad
 
 This is a real DataLad dataset (`datalad create`, git-annex initialized) — as of
 2026-08-10 it is one, rather than only claiming to be.
 
-**Nothing is annexed yet, and that is correct.** `.gitattributes` routes every
-`*.edn` to plain git: at 280 KB the corpus is small, and annexing it would cost
-line-level diffs and review for no benefit. The annex is here for the bulk pulls
-the operator legs produce (`*.tsv`, `*.tsv.zip`, `*.raw.edn`), which is where
-git stops being the right store.
+**Nothing is annexed, and that is a decision rather than an omission.**
 
-Because no content is annexed, no content remote is configured. GitHub cannot
-serve annexed content in any case (`git-annex-shell` is not available there), so
-when the first bulk pull lands it will need a real special remote — B2 or IPFS,
-per the workspace's `large-binary-datalad` convention.
+The journal is sharded at 1 MiB and a sealed shard never changes again, so git
+stores each exactly once — the growth is linear in facts, not quadratic in
+commits. At that size annexing would cost `git diff` and `git blame` on the
+artifact ADR-2607072300 designates as authoritative, and buy nothing.
+
+The annex is for what git is genuinely bad at: the bulk operator pulls
+(`*.tsv`, `*.tsv.zip`, `*.raw.edn`) that USPTO ODP / EPO OPS produce as single
+multi-gigabyte files with no useful line structure. **When the first one lands,
+it will need a content remote** (B2 or IPFS, per the workspace's
+`large-binary-datalad` convention) — one is not configured now because there is
+nothing to put in it, and GitHub cannot serve annexed content in any case
+(`git-annex-shell` is not available there).
 
 ## Scope
 
