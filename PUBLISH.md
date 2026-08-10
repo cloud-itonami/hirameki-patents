@@ -43,21 +43,31 @@ DAG builder — which would make publishing depend on an IPFS implementation and
 defeat the "verify without a daemon" promise — rows are packed into shards that
 stay inside one block. `write!` refuses to publish an over-limit shard.
 
-## Fetch + verify (trustless)
+## The CIDs are verifiable, not fetchable
 
 ```bash
-# any shard, from any gateway, checked against the hash you already have
-curl -sSL https://ipfs.io/ipfs/<cid> -o shard.edn
-ipfs add -Q --cid-version=1 --raw-leaves --only-hash shard.edn   # must equal <cid>
+clojure -M verify.clj    # re-derives every CID from the bytes on disk
 ```
 
-Gateways: `https://ipfs.io/ipfs/`, `https://dweb.link/ipfs/`, `https://cloudflare-ipfs.com/ipfs/`
+That works, needs no daemon and no network, and is checked in both directions.
+
+**What does NOT work today: fetching by CID.** Nothing here has been `ipfs
+add`ed for real — the CIDs are computed, not published. Measured 2026-08-10:
+`https://ipfs.io/ipfs/<cid>` times out and `https://dweb.link/ipfs/<cid>`
+redirects to a subdomain gateway with no such block. An earlier version of this
+file printed a `curl` from those gateways as if it would return the corpus. It
+would not.
+
+So the CID means: *if you obtain these bytes by any route, you can prove they
+are the bytes this manifest names.* It does not yet mean: *you can obtain them
+from IPFS.* Closing that needs a real pin, which needs a node or a pinning
+service; see the custody section of the README.
 
 ## Layout
 
 | path | what |
 |---|---|
-| `80-data/public/google-patents.journal.edn` | the raw harvest journal — append-only `[e a v tx op]` quads, git-authoritative (ADR-2607072300) |
+| `80-data/public/google-patents.NNNN.journal.edn` | the raw harvest journal — append-only `[e a v tx op]` quads, git-authoritative (ADR-2607072300) |
 | `corpus/NNN.kotoba.edn` | normalized patent rows, sorted by id, sharded |
 | `datoms/NNN.kotoba.edn` | the same corpus as kotoba EAVT, sharded |
 | `publish-manifest.edn` | per-shard bytes + CID + item counts |

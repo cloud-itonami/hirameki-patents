@@ -2,7 +2,7 @@
  :dataset/category :public-patent-bibliographic-corpus
  :dataset/owner "https://github.com/cloud-itonami/hirameki"
  :dataset/format :kotoba-edn
- :dataset/substrate :datalad-git-annex
+ :dataset/substrate :git
  :dataset/adr ["2606212200" "2605241500" "2607251552"]
  :dataset/sourcing :authoritative
  :dataset/person-level-data false
@@ -35,12 +35,24 @@
  ;; produces and `clojure -M verify.clj` can check it with no daemon.
  :dataset/shard-limit-bytes 262144
 
- ;; git-annex is initialized, but `.gitattributes` routes every *.edn to plain
- ;; git: at this size annex would cost diffability and buy nothing. The annex is
- ;; here for the bulk pulls (*.tsv, *.raw.edn) that the operator legs produce.
- ;; No content is annexed yet, so no content remote is configured yet either —
- ;; GitHub cannot serve annexed content in any case.
- :dataset/annex {:initialized true
+ ;; 実測 2026-08-10。**宣言と実体を分けて書く。**
+ ;; `datalad create` は使い捨ての clone で走らせたので、そこで初期化された annex は
+ ;; その clone の .git/config にしか無く、push されていない。commit されているのは
+ ;; **宣言**（.datalad/config と .gitattributes の振り分け規則）であって substrate ではない。
+ :dataset/annex {:declared true
+                 :initialized-in-this-repo false
                  :annexed-files 0
                  :routing "*.edn → git; *.tsv, *.tsv.zip, *.raw.edn → annex"
-                 :content-remote :none-yet}}
+                 :content-remote :none}
+
+ ;; 保管の実態。**耐久コピーは 1 つ**で、これがこの dataset の最大の穴。
+ :dataset/custody
+ {:durable-copies 1
+  :github "cloud-itonami/hirameki-patents（git、EDN。実在する唯一の耐久コピー）"
+  :local-checkouts 2
+  :ipfs {:cids-computed true :pinned false
+         :note "CID は検証できるが取得できない。gateway は何も返さない（実測）"}
+  :radicle {:rid "rad:z3yMT2MUPS4PwTekwt3wboCAyRxm1" :replica-on-this-node false}
+  :numcopies :unmet
+  :fsck-schedule :none
+  :recovery-drill :never-run}}

@@ -82,25 +82,49 @@ being queryable are different claims; this checks the second.
 Confirmed both directions: renaming the assignee attribute across all shards
 exits 1, and so does introducing an inventor attribute.
 
-## DataLad
+## Custody — where this actually lives, measured
 
-This is a real DataLad dataset (`datalad create`, git-annex initialized) — as of
-2026-08-10 it is one, rather than only claiming to be.
+**One durable copy.** That is the honest state, and it is the largest gap in
+this dataset.
 
-**Nothing is annexed, and that is a decision rather than an omission.**
+| store | state (measured 2026-08-10) |
+|---|---|
+| GitHub `cloud-itonami/hirameki-patents` | **the corpus, in git, as EDN** — real, and the only durable copy |
+| local checkouts | 2, both on one operator machine |
+| git-annex | **not initialized in this repo.** 0 files annexed, no content remote |
+| IPFS | CIDs computed; **nothing pinned.** No gateway can serve them |
+| Radicle (`rad:z3yMT2MUPS4PwTekwt3wboCAyRxm1`) | id registered; **no replica on this node** |
 
-The journal is sharded at 1 MiB and a sealed shard never changes again, so git
-stores each exactly once — the growth is linear in facts, not quadratic in
-commits. At that size annexing would cost `git diff` and `git blame` on the
-artifact ADR-2607072300 designates as authoritative, and buy nothing.
+### About the DataLad claim
 
-The annex is for what git is genuinely bad at: the bulk operator pulls
-(`*.tsv`, `*.tsv.zip`, `*.raw.edn`) that USPTO ODP / EPO OPS produce as single
-multi-gigabyte files with no useful line structure. **When the first one lands,
-it will need a content remote** (B2 or IPFS, per the workspace's
-`large-binary-datalad` convention) — one is not configured now because there is
-nothing to put in it, and GitHub cannot serve annexed content in any case
-(`git-annex-shell` is not available there).
+An earlier version of this file said "this is a real DataLad dataset,
+git-annex initialized — as of 2026-08-10 it is one, rather than only claiming to
+be." **That was wrong.** `datalad create` was run in a throwaway clone, and the
+annex it initialized lived in that clone's `.git/config`, which is local-only and
+was never pushed. What is COMMITTED is the declaration — `.datalad/config` and
+the `.gitattributes` routing rules — not the substrate. Clone this repo and you
+get a plain git repository with a `.datalad/` directory in it.
+
+The routing rules remain correct and useful: when a bulk operator pull arrives
+(`*.tsv`, `*.raw.edn`), it is meant to go to annex rather than git. But `git
+annex init` has not been run here, the `git-annex` branch does not exist on the
+remote, and no special remote is configured.
+
+### About the CIDs
+
+They are **verifiable, not fetchable**. `clojure -M verify.clj` re-derives every
+shard's CIDv1 from bytes you already hold, with no daemon and no network — that
+works and is checked. But nothing has been `ipfs add`ed for real, so fetching
+`https://ipfs.io/ipfs/<cid>` returns nothing. Measured: ipfs.io timed out,
+dweb.link redirected into a subdomain gateway that has no such block.
+
+### What would close this
+
+Not annex, at this size — **replication**. The corpus is 780 KB of EDN and git
+handles it perfectly; what is missing is a second independent custodian. The
+`large-binary-datalad` convention asks for `numcopies`, independent remotes,
+periodic `fsck` and a recovery drill; this dataset currently satisfies none of
+them.
 
 ## Scope
 
