@@ -4311,6 +4311,47 @@
   ":hirameki/source"
   "https://patents.google.com/patent/GB2040943A/en"]
  [":db/add"
+  "hirameki-patent:GB2043323A"
+  ":hirameki.patent/title"
+  "Gramophone record players"]
+ [":db/add"
+  "hirameki-patent:GB2043323A"
+  ":hirameki.patent/jurisdiction"
+  ":gb"]
+ [":db/add"
+  "hirameki-patent:GB2043323A"
+  ":hirameki.patent/field"
+  "UNKNOWN"]
+ [":db/add"
+  "hirameki-patent:GB2043323A"
+  ":hirameki.patent/assignee"
+  ":sony"]
+ [":db/add"
+  "hirameki-patent:GB2043323A"
+  ":hirameki.patent/status"
+  ":pending"]
+ [":db/add"
+  "hirameki-patent:GB2043323A"
+  ":hirameki.patent/open-license"
+  ":none"]
+ [":db/add"
+  "hirameki-patent:GB2043323A"
+  ":hirameki.obs/release-status"
+  ":pending"]
+ [":db/add"
+  "hirameki-patent:GB2043323A"
+  ":hirameki/sourcing"
+  ":authoritative"]
+ [":db/add" "hirameki-patent:GB2043323A" ":hirameki/derived" true]
+ [":db/add"
+  "hirameki-patent:GB2043323A"
+  ":hirameki.obs/years-to-expiry"
+  -26]
+ [":db/add"
+  "hirameki-patent:GB2043323A"
+  ":hirameki/source"
+  "https://patents.google.com/patent/GB2043323A/en"]
+ [":db/add"
   "hirameki-patent:GB2055626A"
   ":hirameki.patent/title"
   "Process for metallic coat finishing"]
@@ -9875,46 +9916,5 @@
   ":pending"]
  [":db/add"
   "hirameki-patent:JP2006272931A"
-  ":hirameki/sourcing"
-  ":authoritative"]
- [":db/add" "hirameki-patent:JP2006272931A" ":hirameki/derived" true]
- [":db/add"
-  "hirameki-patent:JP2006272931A"
-  ":hirameki.obs/years-to-expiry"
-  -1]
- [":db/add"
-  "hirameki-patent:JP2006272931A"
-  ":hirameki/source"
-  "https://patents.google.com/patent/JP2006272931A/en"]
- [":db/add"
-  "hirameki-patent:JP2006272936A"
-  ":hirameki.patent/title"
-  "Decorative sheet"]
- [":db/add"
-  "hirameki-patent:JP2006272936A"
-  ":hirameki.patent/jurisdiction"
-  ":jp"]
- [":db/add"
-  "hirameki-patent:JP2006272936A"
-  ":hirameki.patent/field"
-  "UNKNOWN"]
- [":db/add"
-  "hirameki-patent:JP2006272936A"
-  ":hirameki.patent/assignee"
-  ":dai-nippon-printing"]
- [":db/add"
-  "hirameki-patent:JP2006272936A"
-  ":hirameki.patent/status"
-  ":pending"]
- [":db/add"
-  "hirameki-patent:JP2006272936A"
-  ":hirameki.patent/open-license"
-  ":none"]
- [":db/add"
-  "hirameki-patent:JP2006272936A"
-  ":hirameki.obs/release-status"
-  ":pending"]
- [":db/add"
-  "hirameki-patent:JP2006272936A"
   ":hirameki/sourcing"
   ":authoritative"]]

@@ -1392,6 +1392,18 @@
   :assignee :miles-laboratories,
   :term-years 20,
   :open-license :none}
+ {:assignees [:sony],
+  :jurisdiction :gb,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/GB2043323A/en",
+  :title "Gramophone record players",
+  :status :pending,
+  :id "GB2043323A",
+  :sourcing :authoritative,
+  :filing-year 1980,
+  :assignee :sony,
+  :term-years 20,
+  :open-license :none}
  {:assignees [:mitsui-toatsu-chemicals],
   :jurisdiction :gb,
   :field "UNKNOWN",
@@ -5375,6 +5387,19 @@
    "US2729192"],
   :term-years 20,
   :open-license :none}
+ {:jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2956931/en",
+  :title "Dispensing biological materials",
+  :status :granted,
+  :id "US2956931",
+  :sourcing :authoritative,
+  :filing-year 1958,
+  :assignee :unassigned,
+  :grant-year 1960,
+  :cites ["US2533089" "US2871168"],
+  :term-years 20,
+  :open-license :none}
  {:assignees [:universal-metal-products],
   :jurisdiction :us,
   :field "UNKNOWN",
@@ -5606,6 +5631,17 @@
   :assignee :north-american-aviation,
   :grant-year 1962,
   :cites ["US2774747" "US2808352" "US2851380"],
+  :term-years 20,
+  :open-license :none}
+ {:jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US30360/en",
+  :title "Propeller and its",
+  :status :granted,
+  :id "US30360",
+  :sourcing :authoritative,
+  :assignee :unassigned,
+  :grant-year 1860,
   :term-years 20,
   :open-license :none}
  {:assignees [:scientific-industries],
@@ -7328,6 +7364,34 @@
   :cites ["US3368113" "US3381182"],
   :term-years 20,
   :open-license :none}
+ {:assignees [:pfizer],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3470067/en",
+  :title
+  "Concentration and purification of viruses from particulate magnetic iron oxide-virus complexes",
+  :status :granted,
+  :id "US3470067",
+  :sourcing :authoritative,
+  :filing-year 1967,
+  :assignee :pfizer,
+  :grant-year 1969,
+  :cites
+  ["GB876027A"
+   "GB887339A"
+   "US2125846"
+   "US2351160"
+   "US2461505"
+   "US2642514"
+   "US2749306"
+   "US2999792"
+   "US3078224"
+   "US3139401"
+   "US3197374"
+   "US3256152"
+   "US3351203"],
+  :term-years 20,
+  :open-license :none}
  {:assignees [:boehringer-mannheim],
   :jurisdiction :us,
   :field "UNKNOWN",
@@ -8226,6 +8290,27 @@
   :cites ["US3372992" "US3380888" "US3451777"],
   :term-years 20,
   :open-license :none}
+ {:assignees [:technicon],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3650698/en",
+  :title
+  "Apparatus for the automatic determination of the coagulation, aggregation and or flocculation, or the like, rates of fluids, and novel reaction intensifying agent for use therewith",
+  :status :granted,
+  :id "US3650698",
+  :sourcing :authoritative,
+  :filing-year 1969,
+  :assignee :technicon,
+  :grant-year 1972,
+  :cites
+  ["US2113063"
+   "US2678729"
+   "US3146163"
+   "US3395210"
+   "US3470067"
+   "US3492096"],
+  :term-years 20,
+  :open-license :none}
  {:assignees [:corning-glass-works],
   :jurisdiction :us,
   :field "UNKNOWN",
@@ -8508,6 +8593,19 @@
   :assignee :shiney,
   :grant-year 1972,
   :cites ["DE2005497A1" "US3039053" "US3507145"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:technicon-instruments],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3700555/en",
+  :title "Method and apparatus for lymphocyte separation from blood",
+  :status :granted,
+  :id "US3700555",
+  :sourcing :authoritative,
+  :filing-year 1970,
+  :assignee :technicon-instruments,
+  :grant-year 1972,
   :term-years 20,
   :open-license :none}
  {:assignees [:ici-australia],
@@ -8945,96 +9043,5 @@
   :assignee :united-states-department-of-the-army,
   :grant-year 1973,
   :cites ["US3415361" "US3502437" "US3666421"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:akzona],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3770383/en",
-  :title "Diagnostic test slide",
-  :status :granted,
-  :id "US3770383",
-  :sourcing :authoritative,
-  :filing-year 1971,
-  :assignee :akzona,
-  :grant-year 1973,
-  :cites
-  ["GB953414A"
-   "US3502437"
-   "US3549328"
-   "US3616251"
-   "US3672845"
-   "US3697227"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:rca],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3770434/en",
-  :title
-  "Method for making an image screen structure for an apertured-mask cathode-ray tube using a mask having temporary apertures",
-  :status :granted,
-  :id "US3770434",
-  :sourcing :authoritative,
-  :filing-year 1971,
-  :assignee :rca,
-  :grant-year 1973,
-  :cites
-  ["US2750524"
-   "US2961314"
-   "US2971117"
-   "US3070441"
-   "US3231380"
-   "US3574013"
-   "US3600213"
-   "US3653901"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:technicon-instruments],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3772154/en",
-  :title
-  "Method and apparatus for automated antibiotic susceptibility analysis of bacteria samples",
-  :status :granted,
-  :id "US3772154",
-  :sourcing :authoritative,
-  :filing-year 1971,
-  :assignee :technicon-instruments,
-  :grant-year 1973,
-  :cites ["US3014848" "US3437447" "US3511573"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:f-hoffmann-la-roche],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3775536/en",
-  :title "Opium alkaloid antigens and antibodies specific therefor",
-  :status :granted,
-  :id "US3775536",
-  :sourcing :authoritative,
-  :filing-year 1972,
-  :assignee :f-hoffmann-la-roche,
-  :grant-year 1973,
-  :term-years 20,
-  :open-license :none}
- {:assignees [:international-business-machines],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3779806/en",
-  :title "Electron beam sensitive polymer t-butyl methacrylate resist",
-  :status :granted,
-  :id "US3779806",
-  :sourcing :authoritative,
-  :filing-year 1972,
-  :assignee :international-business-machines,
-  :grant-year 1973,
-  :cites
-  ["US3392051"
-   "US3436468"
-   "US3535137"
-   "US3607382"
-   "US3650796"
-   "US3696742"],
   :term-years 20,
   :open-license :none}]

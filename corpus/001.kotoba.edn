@@ -1,4 +1,95 @@
-[{:assignees [:american-optical],
+[{:assignees [:akzona],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3770383/en",
+  :title "Diagnostic test slide",
+  :status :granted,
+  :id "US3770383",
+  :sourcing :authoritative,
+  :filing-year 1971,
+  :assignee :akzona,
+  :grant-year 1973,
+  :cites
+  ["GB953414A"
+   "US3502437"
+   "US3549328"
+   "US3616251"
+   "US3672845"
+   "US3697227"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:rca],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3770434/en",
+  :title
+  "Method for making an image screen structure for an apertured-mask cathode-ray tube using a mask having temporary apertures",
+  :status :granted,
+  :id "US3770434",
+  :sourcing :authoritative,
+  :filing-year 1971,
+  :assignee :rca,
+  :grant-year 1973,
+  :cites
+  ["US2750524"
+   "US2961314"
+   "US2971117"
+   "US3070441"
+   "US3231380"
+   "US3574013"
+   "US3600213"
+   "US3653901"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:technicon-instruments],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3772154/en",
+  :title
+  "Method and apparatus for automated antibiotic susceptibility analysis of bacteria samples",
+  :status :granted,
+  :id "US3772154",
+  :sourcing :authoritative,
+  :filing-year 1971,
+  :assignee :technicon-instruments,
+  :grant-year 1973,
+  :cites ["US3014848" "US3437447" "US3511573"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:f-hoffmann-la-roche],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3775536/en",
+  :title "Opium alkaloid antigens and antibodies specific therefor",
+  :status :granted,
+  :id "US3775536",
+  :sourcing :authoritative,
+  :filing-year 1972,
+  :assignee :f-hoffmann-la-roche,
+  :grant-year 1973,
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:international-business-machines],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3779806/en",
+  :title "Electron beam sensitive polymer t-butyl methacrylate resist",
+  :status :granted,
+  :id "US3779806",
+  :sourcing :authoritative,
+  :filing-year 1972,
+  :assignee :international-business-machines,
+  :grant-year 1973,
+  :cites
+  ["US3392051"
+   "US3436468"
+   "US3535137"
+   "US3607382"
+   "US3650796"
+   "US3696742"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:american-optical],
   :jurisdiction :us,
   :field "UNKNOWN",
   :source "https://patents.google.com/patent/US3782823/en",
@@ -10,6 +101,30 @@
   :assignee :american-optical,
   :grant-year 1974,
   :cites ["US3348547" "US3463594"],
+  :term-years 20,
+  :open-license :none}
+ {:jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3787290/en",
+  :title
+  "Method and means for assaying biological factors demonstrating quantal response",
+  :status :granted,
+  :id "US3787290",
+  :sourcing :authoritative,
+  :filing-year 1972,
+  :assignee :unassigned,
+  :grant-year 1974,
+  :cites
+  ["US2129754"
+   "US2771398"
+   "US2904474"
+   "US2956931"
+   "US3001914"
+   "US3043669"
+   "US3107204"
+   "US3389966"
+   "US3480400"
+   "US3509026"],
   :term-years 20,
   :open-license :none}
  {:assignees [:abbott-laboratories],
@@ -124,6 +239,19 @@
   :grant-year 1974,
   :term-years 20,
   :open-license :none}
+ {:assignees [:avco],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3796660/en",
+  :title "Separation of liquid-liquid multiphase mixtures",
+  :status :granted,
+  :id "US3796660",
+  :sourcing :authoritative,
+  :filing-year 1971,
+  :assignee :avco,
+  :grant-year 1974,
+  :term-years 20,
+  :open-license :none}
  {:assignees [:pasadena-foundation-for-medica],
   :jurisdiction :us,
   :field "UNKNOWN",
@@ -183,6 +311,19 @@
    "US3251933"
    "US3443110"
    "US3670097"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:avco],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3806449/en",
+  :title "Separation of liquid-liquid multiphase mixtures",
+  :status :granted,
+  :id "US3806449",
+  :sourcing :authoritative,
+  :filing-year 1973,
+  :assignee :avco,
+  :grant-year 1974,
   :term-years 20,
   :open-license :none}
  {:assignees [:rhone-poulenc],
@@ -1060,6 +1201,20 @@
   :cites ["US3151204" "US3507987" "US3795812" "US3826920" "US3829696"],
   :term-years 20,
   :open-license :none}
+ {:assignees [:international-foundation-of-microbiology],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3912596/en",
+  :title "Multiple inoculating system",
+  :status :granted,
+  :id "US3912596",
+  :sourcing :authoritative,
+  :filing-year 1973,
+  :assignee :international-foundation-of-microbiology,
+  :grant-year 1975,
+  :cites ["US2874091" "US2956931"],
+  :term-years 20,
+  :open-license :none}
  {:assignees [:hitachi],
   :jurisdiction :us,
   :field "UNKNOWN",
@@ -1259,6 +1414,20 @@
   :cites ["US3695848" "US3699803"],
   :term-years 20,
   :open-license :none}
+ {:assignees [:corning-glass-works],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3933997/en",
+  :title "Solid phase radioimmunoassay of digoxin",
+  :status :granted,
+  :id "US3933997",
+  :sourcing :authoritative,
+  :filing-year 1974,
+  :assignee :corning-glass-works,
+  :grant-year 1976,
+  :cites ["US3519538" "US3652761"],
+  :term-years 20,
+  :open-license :none}
  {:assignees [:syva],
   :jurisdiction :us,
   :field "UNKNOWN",
@@ -1446,6 +1615,20 @@
   :cites ["US3859430"],
   :term-years 20,
   :open-license :none}
+ {:assignees [:general-electric],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3970518/en",
+  :title "Magnetic separation of biological particles",
+  :status :granted,
+  :id "US3970518",
+  :sourcing :authoritative,
+  :filing-year 1975,
+  :assignee :general-electric,
+  :grant-year 1976,
+  :cites ["US3470067" "US3539509" "US3657119" "US3843324"],
+  :term-years 20,
+  :open-license :none}
  {:jurisdiction :us,
   :field "UNKNOWN",
   :source "https://patents.google.com/patent/US3970841/en",
@@ -1584,6 +1767,26 @@
    "US3710933"
    "US3743090"
    "US3827555"],
+  :term-years 20,
+  :open-license :none}
+ {:jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3985649/en",
+  :title "Ferromagnetic separation process and material",
+  :status :granted,
+  :id "US3985649",
+  :sourcing :authoritative,
+  :filing-year 1974,
+  :assignee :unassigned,
+  :grant-year 1976,
+  :cites
+  ["US3219318"
+   "US3428179"
+   "US3487939"
+   "US3712472"
+   "US3793886"
+   "US3869251"
+   "US3892908"],
   :term-years 20,
   :open-license :none}
  {:jurisdiction :us,
@@ -2637,6 +2840,21 @@
   :cites ["US4010251"],
   :term-years 20,
   :open-license :none}
+ {:assignees [:beecham-group],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US4152210/en",
+  :title
+  "Biologically active materials attached to a ferromagnetic support",
+  :status :granted,
+  :id "US4152210",
+  :sourcing :authoritative,
+  :filing-year 1975,
+  :assignee :beecham-group,
+  :grant-year 1979,
+  :cites ["US3351203" "US3470067" "US3519538" "US3705084" "US3796634"],
+  :term-years 20,
+  :open-license :none}
  {:assignees [:nuclear-international],
   :jurisdiction :us,
   :field "UNKNOWN",
@@ -3152,6 +3370,28 @@
    "US4048298"],
   :term-years 20,
   :open-license :none}
+ {:assignees [:dynatech-laboratories],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US4235971/en",
+  :title "Inoculator",
+  :status :granted,
+  :id "US4235971",
+  :sourcing :authoritative,
+  :filing-year 1978,
+  :assignee :dynatech-laboratories,
+  :grant-year 1980,
+  :cites
+  ["US3356462"
+   "US3436171"
+   "US3455788"
+   "US3536449"
+   "US3650360"
+   "US3728227"
+   "US3772154"
+   "US3912596"],
+  :term-years 20,
+  :open-license :none}
  {:assignees [:minnesota-mining-and-manufacturing],
   :jurisdiction :us,
   :field "UNKNOWN",
@@ -3245,6 +3485,28 @@
   :assignee :honeywell,
   :grant-year 1981,
   :cites ["US4002899" "US4083056" "US4132888" "US4189232"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:jdja-services],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US4252897/en",
+  :title "Method and apparatus for bacteria testing",
+  :status :granted,
+  :id "US4252897",
+  :sourcing :authoritative,
+  :filing-year 1978,
+  :assignee :jdja-services,
+  :grant-year 1981,
+  :cites
+  ["US2956931"
+   "US3536449"
+   "US3772154"
+   "US3912596"
+   "US3928140"
+   "US3935075"
+   "US3936356"
+   "US4118280"],
   :term-years 20,
   :open-license :none}
  {:assignees [:massachusetts-institute-of-technology],
@@ -3686,6 +3948,33 @@
   :grant-year 1982,
   :term-years 20,
   :open-license :none}
+ {:assignees [:forsyth-dental-infirmary-for-children],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US4368272/en",
+  :title "Device for identifying and locating dental microorganisms",
+  :status :granted,
+  :id "US4368272",
+  :sourcing :authoritative,
+  :filing-year 1980,
+  :assignee :forsyth-dental-infirmary-for-children,
+  :grant-year 1983,
+  :cites
+  ["US1668216"
+   "US2904474"
+   "US3040352"
+   "US3232710"
+   "US3718543"
+   "US3746624"
+   "US3814670"
+   "US3834983"
+   "US3881993"
+   "US3890200"
+   "US3902969"
+   "US3960652"
+   "US885276"],
+  :term-years 20,
+  :open-license :none}
  {:assignees [:e-y-laboratories],
   :jurisdiction :us,
   :field "UNKNOWN",
@@ -3782,6 +4071,19 @@
    "US3924013"],
   :term-years 20,
   :open-license :none}
+ {:assignees [:wistar-institute-of-anatomy-and-biology],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US4393201/en",
+  :title "DNA Which codes for glycoprotein of era-strain rabies virus",
+  :status :granted,
+  :id "US4393201",
+  :sourcing :authoritative,
+  :filing-year 1981,
+  :assignee :wistar-institute-of-anatomy-and-biology,
+  :grant-year 1983,
+  :term-years 20,
+  :open-license :none}
  {:assignees [:yale-university],
   :jurisdiction :us,
   :field "UNKNOWN",
@@ -3807,6 +4109,40 @@
   :assignee :medical-college-of-georgia-research-institute,
   :grant-year 1983,
   :cites ["US4298685"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:university-of-california-berkeley],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US4396713/en",
+  :title
+  "Restriction endonuclease fingerprinting of kinetoplast DNA minicircles",
+  :status :granted,
+  :id "US4396713",
+  :sourcing :authoritative,
+  :filing-year 1980,
+  :assignee :university-of-california-berkeley,
+  :grant-year 1983,
+  :term-years 20,
+  :open-license :none}
+ {:jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US4397955/en",
+  :title "Transfer apparatus for microorganisms",
+  :status :granted,
+  :id "US4397955",
+  :sourcing :authoritative,
+  :filing-year 1981,
+  :assignee :unassigned,
+  :grant-year 1983,
+  :cites
+  ["US3661718"
+   "US3684660"
+   "US3694317"
+   "US3729382"
+   "US3897688"
+   "US3929583"
+   "US4237223"],
   :term-years 20,
   :open-license :none}
  {:assignees [:beckman-research-institute-of-city-of-hope],

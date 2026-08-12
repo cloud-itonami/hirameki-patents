@@ -1,4 +1,164 @@
 [[":db/add"
+  "hirameki-patent:US3475408"
+  ":hirameki.patent/jurisdiction"
+  ":us"]
+ [":db/add"
+  "hirameki-patent:US3475408"
+  ":hirameki.patent/field"
+  "UNKNOWN"]
+ [":db/add"
+  "hirameki-patent:US3475408"
+  ":hirameki.patent/assignee"
+  ":boehringer-mannheim"]
+ [":db/add"
+  "hirameki-patent:US3475408"
+  ":hirameki.patent/status"
+  ":granted"]
+ [":db/add"
+  "hirameki-patent:US3475408"
+  ":hirameki.patent/open-license"
+  ":none"]
+ [":db/add"
+  "hirameki-patent:US3475408"
+  ":hirameki.obs/release-status"
+  ":public-domain"]
+ [":db/add"
+  "hirameki-patent:US3475408"
+  ":hirameki/sourcing"
+  ":authoritative"]
+ [":db/add" "hirameki-patent:US3475408" ":hirameki/derived" true]
+ [":db/add"
+  "hirameki-patent:US3475408"
+  ":hirameki.obs/years-to-expiry"
+  -40]
+ [":db/add"
+  "hirameki-patent:US3475408"
+  ":hirameki/source"
+  "https://patents.google.com/patent/US3475408/en"]
+ [":db/add"
+  "hirameki-patent:US3477817"
+  ":hirameki.patent/title"
+  "Diagnostic test for presence of galactose"]
+ [":db/add"
+  "hirameki-patent:US3477817"
+  ":hirameki.patent/jurisdiction"
+  ":us"]
+ [":db/add"
+  "hirameki-patent:US3477817"
+  ":hirameki.patent/field"
+  "UNKNOWN"]
+ [":db/add"
+  "hirameki-patent:US3477817"
+  ":hirameki.patent/assignee"
+  ":ralph-j-de-falco"]
+ [":db/add"
+  "hirameki-patent:US3477817"
+  ":hirameki.patent/status"
+  ":granted"]
+ [":db/add"
+  "hirameki-patent:US3477817"
+  ":hirameki.patent/open-license"
+  ":none"]
+ [":db/add"
+  "hirameki-patent:US3477817"
+  ":hirameki.obs/release-status"
+  ":public-domain"]
+ [":db/add"
+  "hirameki-patent:US3477817"
+  ":hirameki/sourcing"
+  ":authoritative"]
+ [":db/add" "hirameki-patent:US3477817" ":hirameki/derived" true]
+ [":db/add"
+  "hirameki-patent:US3477817"
+  ":hirameki.obs/years-to-expiry"
+  -40]
+ [":db/add"
+  "hirameki-patent:US3477817"
+  ":hirameki/source"
+  "https://patents.google.com/patent/US3477817/en"]
+ [":db/add"
+  "hirameki-patent:US3479255"
+  ":hirameki.patent/title"
+  "Electrochemical transducer"]
+ [":db/add"
+  "hirameki-patent:US3479255"
+  ":hirameki.patent/jurisdiction"
+  ":us"]
+ [":db/add"
+  "hirameki-patent:US3479255"
+  ":hirameki.patent/field"
+  "UNKNOWN"]
+ [":db/add"
+  "hirameki-patent:US3479255"
+  ":hirameki.patent/assignee"
+  ":beckman-instruments"]
+ [":db/add"
+  "hirameki-patent:US3479255"
+  ":hirameki.patent/status"
+  ":granted"]
+ [":db/add"
+  "hirameki-patent:US3479255"
+  ":hirameki.patent/open-license"
+  ":none"]
+ [":db/add"
+  "hirameki-patent:US3479255"
+  ":hirameki.obs/release-status"
+  ":public-domain"]
+ [":db/add"
+  "hirameki-patent:US3479255"
+  ":hirameki/sourcing"
+  ":authoritative"]
+ [":db/add" "hirameki-patent:US3479255" ":hirameki/derived" true]
+ [":db/add"
+  "hirameki-patent:US3479255"
+  ":hirameki.obs/years-to-expiry"
+  -42]
+ [":db/add"
+  "hirameki-patent:US3479255"
+  ":hirameki/source"
+  "https://patents.google.com/patent/US3479255/en"]
+ [":db/add"
+  "hirameki-patent:US3483017"
+  ":hirameki.patent/title"
+  "Method of unifying bibulous papers"]
+ [":db/add"
+  "hirameki-patent:US3483017"
+  ":hirameki.patent/jurisdiction"
+  ":us"]
+ [":db/add"
+  "hirameki-patent:US3483017"
+  ":hirameki.patent/field"
+  "UNKNOWN"]
+ [":db/add"
+  "hirameki-patent:US3483017"
+  ":hirameki.patent/assignee"
+  ":johnson-and-johnson"]
+ [":db/add"
+  "hirameki-patent:US3483017"
+  ":hirameki.patent/status"
+  ":granted"]
+ [":db/add"
+  "hirameki-patent:US3483017"
+  ":hirameki.patent/open-license"
+  ":none"]
+ [":db/add"
+  "hirameki-patent:US3483017"
+  ":hirameki.obs/release-status"
+  ":public-domain"]
+ [":db/add"
+  "hirameki-patent:US3483017"
+  ":hirameki/sourcing"
+  ":authoritative"]
+ [":db/add" "hirameki-patent:US3483017" ":hirameki/derived" true]
+ [":db/add"
+  "hirameki-patent:US3483017"
+  ":hirameki.obs/years-to-expiry"
+  -40]
+ [":db/add"
+  "hirameki-patent:US3483017"
+  ":hirameki/source"
+  "https://patents.google.com/patent/US3483017/en"]
+ [":db/add"
   "hirameki-patent:US3489592"
   ":hirameki.patent/title"
   "Method and device for coating or covering paper or sheet material with surface layers"]
@@ -2172,6 +2332,47 @@
   ":hirameki/source"
   "https://patents.google.com/patent/US3646346/en"]
  [":db/add"
+  "hirameki-patent:US3650698"
+  ":hirameki.patent/title"
+  "Apparatus for the automatic determination of the coagulation, aggregation and or flocculation, or the like, rates of fluids, and novel reaction intensifying agent for use therewith"]
+ [":db/add"
+  "hirameki-patent:US3650698"
+  ":hirameki.patent/jurisdiction"
+  ":us"]
+ [":db/add"
+  "hirameki-patent:US3650698"
+  ":hirameki.patent/field"
+  "UNKNOWN"]
+ [":db/add"
+  "hirameki-patent:US3650698"
+  ":hirameki.patent/assignee"
+  ":technicon"]
+ [":db/add"
+  "hirameki-patent:US3650698"
+  ":hirameki.patent/status"
+  ":granted"]
+ [":db/add"
+  "hirameki-patent:US3650698"
+  ":hirameki.patent/open-license"
+  ":none"]
+ [":db/add"
+  "hirameki-patent:US3650698"
+  ":hirameki.obs/release-status"
+  ":public-domain"]
+ [":db/add"
+  "hirameki-patent:US3650698"
+  ":hirameki/sourcing"
+  ":authoritative"]
+ [":db/add" "hirameki-patent:US3650698" ":hirameki/derived" true]
+ [":db/add"
+  "hirameki-patent:US3650698"
+  ":hirameki.obs/years-to-expiry"
+  -37]
+ [":db/add"
+  "hirameki-patent:US3650698"
+  ":hirameki/source"
+  "https://patents.google.com/patent/US3650698/en"]
+ [":db/add"
   "hirameki-patent:US3652761"
   ":hirameki.patent/title"
   "Immunochemical composites and antigen or antibody purification therewith"]
@@ -2991,6 +3192,47 @@
   "hirameki-patent:US3699803"
   ":hirameki/source"
   "https://patents.google.com/patent/US3699803/en"]
+ [":db/add"
+  "hirameki-patent:US3700555"
+  ":hirameki.patent/title"
+  "Method and apparatus for lymphocyte separation from blood"]
+ [":db/add"
+  "hirameki-patent:US3700555"
+  ":hirameki.patent/jurisdiction"
+  ":us"]
+ [":db/add"
+  "hirameki-patent:US3700555"
+  ":hirameki.patent/field"
+  "UNKNOWN"]
+ [":db/add"
+  "hirameki-patent:US3700555"
+  ":hirameki.patent/assignee"
+  ":technicon-instruments"]
+ [":db/add"
+  "hirameki-patent:US3700555"
+  ":hirameki.patent/status"
+  ":granted"]
+ [":db/add"
+  "hirameki-patent:US3700555"
+  ":hirameki.patent/open-license"
+  ":none"]
+ [":db/add"
+  "hirameki-patent:US3700555"
+  ":hirameki.obs/release-status"
+  ":public-domain"]
+ [":db/add"
+  "hirameki-patent:US3700555"
+  ":hirameki/sourcing"
+  ":authoritative"]
+ [":db/add" "hirameki-patent:US3700555" ":hirameki/derived" true]
+ [":db/add"
+  "hirameki-patent:US3700555"
+  ":hirameki.obs/years-to-expiry"
+  -36]
+ [":db/add"
+  "hirameki-patent:US3700555"
+  ":hirameki/source"
+  "https://patents.google.com/patent/US3700555/en"]
  [":db/add"
   "hirameki-patent:US3700609"
   ":hirameki.patent/title"
@@ -4427,6 +4669,47 @@
   ":hirameki/source"
   "https://patents.google.com/patent/US3782823/en"]
  [":db/add"
+  "hirameki-patent:US3787290"
+  ":hirameki.patent/title"
+  "Method and means for assaying biological factors demonstrating quantal response"]
+ [":db/add"
+  "hirameki-patent:US3787290"
+  ":hirameki.patent/jurisdiction"
+  ":us"]
+ [":db/add"
+  "hirameki-patent:US3787290"
+  ":hirameki.patent/field"
+  "UNKNOWN"]
+ [":db/add"
+  "hirameki-patent:US3787290"
+  ":hirameki.patent/assignee"
+  ":unassigned"]
+ [":db/add"
+  "hirameki-patent:US3787290"
+  ":hirameki.patent/status"
+  ":granted"]
+ [":db/add"
+  "hirameki-patent:US3787290"
+  ":hirameki.patent/open-license"
+  ":none"]
+ [":db/add"
+  "hirameki-patent:US3787290"
+  ":hirameki.obs/release-status"
+  ":public-domain"]
+ [":db/add"
+  "hirameki-patent:US3787290"
+  ":hirameki/sourcing"
+  ":authoritative"]
+ [":db/add" "hirameki-patent:US3787290" ":hirameki/derived" true]
+ [":db/add"
+  "hirameki-patent:US3787290"
+  ":hirameki.obs/years-to-expiry"
+  -34]
+ [":db/add"
+  "hirameki-patent:US3787290"
+  ":hirameki/source"
+  "https://patents.google.com/patent/US3787290/en"]
+ [":db/add"
   "hirameki-patent:US3789116"
   ":hirameki.patent/title"
   "Fluorescent labeled antibody reagent"]
@@ -4755,6 +5038,47 @@
   ":hirameki/source"
   "https://patents.google.com/patent/US3796634/en"]
  [":db/add"
+  "hirameki-patent:US3796660"
+  ":hirameki.patent/title"
+  "Separation of liquid-liquid multiphase mixtures"]
+ [":db/add"
+  "hirameki-patent:US3796660"
+  ":hirameki.patent/jurisdiction"
+  ":us"]
+ [":db/add"
+  "hirameki-patent:US3796660"
+  ":hirameki.patent/field"
+  "UNKNOWN"]
+ [":db/add"
+  "hirameki-patent:US3796660"
+  ":hirameki.patent/assignee"
+  ":avco"]
+ [":db/add"
+  "hirameki-patent:US3796660"
+  ":hirameki.patent/status"
+  ":granted"]
+ [":db/add"
+  "hirameki-patent:US3796660"
+  ":hirameki.patent/open-license"
+  ":none"]
+ [":db/add"
+  "hirameki-patent:US3796660"
+  ":hirameki.obs/release-status"
+  ":public-domain"]
+ [":db/add"
+  "hirameki-patent:US3796660"
+  ":hirameki/sourcing"
+  ":authoritative"]
+ [":db/add" "hirameki-patent:US3796660" ":hirameki/derived" true]
+ [":db/add"
+  "hirameki-patent:US3796660"
+  ":hirameki.obs/years-to-expiry"
+  -35]
+ [":db/add"
+  "hirameki-patent:US3796660"
+  ":hirameki/source"
+  "https://patents.google.com/patent/US3796660/en"]
+ [":db/add"
   "hirameki-patent:US3798131"
   ":hirameki.patent/title"
   "Assay for polymeric dna as a method for detecting malignancy"]
@@ -4918,6 +5242,47 @@
   "hirameki-patent:US3804976"
   ":hirameki/source"
   "https://patents.google.com/patent/US3804976/en"]
+ [":db/add"
+  "hirameki-patent:US3806449"
+  ":hirameki.patent/title"
+  "Separation of liquid-liquid multiphase mixtures"]
+ [":db/add"
+  "hirameki-patent:US3806449"
+  ":hirameki.patent/jurisdiction"
+  ":us"]
+ [":db/add"
+  "hirameki-patent:US3806449"
+  ":hirameki.patent/field"
+  "UNKNOWN"]
+ [":db/add"
+  "hirameki-patent:US3806449"
+  ":hirameki.patent/assignee"
+  ":avco"]
+ [":db/add"
+  "hirameki-patent:US3806449"
+  ":hirameki.patent/status"
+  ":granted"]
+ [":db/add"
+  "hirameki-patent:US3806449"
+  ":hirameki.patent/open-license"
+  ":none"]
+ [":db/add"
+  "hirameki-patent:US3806449"
+  ":hirameki.obs/release-status"
+  ":public-domain"]
+ [":db/add"
+  "hirameki-patent:US3806449"
+  ":hirameki/sourcing"
+  ":authoritative"]
+ [":db/add" "hirameki-patent:US3806449" ":hirameki/derived" true]
+ [":db/add"
+  "hirameki-patent:US3806449"
+  ":hirameki.obs/years-to-expiry"
+  -33]
+ [":db/add"
+  "hirameki-patent:US3806449"
+  ":hirameki/source"
+  "https://patents.google.com/patent/US3806449/en"]
  [":db/add"
   "hirameki-patent:US3810848"
   ":hirameki.patent/title"
@@ -7133,6 +7498,47 @@
   ":hirameki/source"
   "https://patents.google.com/patent/US3906226/en"]
  [":db/add"
+  "hirameki-patent:US3912596"
+  ":hirameki.patent/title"
+  "Multiple inoculating system"]
+ [":db/add"
+  "hirameki-patent:US3912596"
+  ":hirameki.patent/jurisdiction"
+  ":us"]
+ [":db/add"
+  "hirameki-patent:US3912596"
+  ":hirameki.patent/field"
+  "UNKNOWN"]
+ [":db/add"
+  "hirameki-patent:US3912596"
+  ":hirameki.patent/assignee"
+  ":international-foundation-of-microbiology"]
+ [":db/add"
+  "hirameki-patent:US3912596"
+  ":hirameki.patent/status"
+  ":granted"]
+ [":db/add"
+  "hirameki-patent:US3912596"
+  ":hirameki.patent/open-license"
+  ":none"]
+ [":db/add"
+  "hirameki-patent:US3912596"
+  ":hirameki.obs/release-status"
+  ":public-domain"]
+ [":db/add"
+  "hirameki-patent:US3912596"
+  ":hirameki/sourcing"
+  ":authoritative"]
+ [":db/add" "hirameki-patent:US3912596" ":hirameki/derived" true]
+ [":db/add"
+  "hirameki-patent:US3912596"
+  ":hirameki.obs/years-to-expiry"
+  -33]
+ [":db/add"
+  "hirameki-patent:US3912596"
+  ":hirameki/source"
+  "https://patents.google.com/patent/US3912596/en"]
+ [":db/add"
   "hirameki-patent:US3914462"
   ":hirameki.patent/title"
   "Method for forming a resist mask using a positive electron resist"]
@@ -7625,6 +8031,47 @@
   ":hirameki/source"
   "https://patents.google.com/patent/US3932807/en"]
  [":db/add"
+  "hirameki-patent:US3933997"
+  ":hirameki.patent/title"
+  "Solid phase radioimmunoassay of digoxin"]
+ [":db/add"
+  "hirameki-patent:US3933997"
+  ":hirameki.patent/jurisdiction"
+  ":us"]
+ [":db/add"
+  "hirameki-patent:US3933997"
+  ":hirameki.patent/field"
+  "UNKNOWN"]
+ [":db/add"
+  "hirameki-patent:US3933997"
+  ":hirameki.patent/assignee"
+  ":corning-glass-works"]
+ [":db/add"
+  "hirameki-patent:US3933997"
+  ":hirameki.patent/status"
+  ":granted"]
+ [":db/add"
+  "hirameki-patent:US3933997"
+  ":hirameki.patent/open-license"
+  ":none"]
+ [":db/add"
+  "hirameki-patent:US3933997"
+  ":hirameki.obs/release-status"
+  ":public-domain"]
+ [":db/add"
+  "hirameki-patent:US3933997"
+  ":hirameki/sourcing"
+  ":authoritative"]
+ [":db/add" "hirameki-patent:US3933997" ":hirameki/derived" true]
+ [":db/add"
+  "hirameki-patent:US3933997"
+  ":hirameki.obs/years-to-expiry"
+  -32]
+ [":db/add"
+  "hirameki-patent:US3933997"
+  ":hirameki/source"
+  "https://patents.google.com/patent/US3933997/en"]
+ [":db/add"
   "hirameki-patent:US3935074"
   ":hirameki.patent/title"
   "Antibody steric hindrance immunoassay with two antibodies"]
@@ -8076,6 +8523,47 @@
   ":hirameki/source"
   "https://patents.google.com/patent/US3966898/en"]
  [":db/add"
+  "hirameki-patent:US3970518"
+  ":hirameki.patent/title"
+  "Magnetic separation of biological particles"]
+ [":db/add"
+  "hirameki-patent:US3970518"
+  ":hirameki.patent/jurisdiction"
+  ":us"]
+ [":db/add"
+  "hirameki-patent:US3970518"
+  ":hirameki.patent/field"
+  "UNKNOWN"]
+ [":db/add"
+  "hirameki-patent:US3970518"
+  ":hirameki.patent/assignee"
+  ":general-electric"]
+ [":db/add"
+  "hirameki-patent:US3970518"
+  ":hirameki.patent/status"
+  ":granted"]
+ [":db/add"
+  "hirameki-patent:US3970518"
+  ":hirameki.patent/open-license"
+  ":none"]
+ [":db/add"
+  "hirameki-patent:US3970518"
+  ":hirameki.obs/release-status"
+  ":public-domain"]
+ [":db/add"
+  "hirameki-patent:US3970518"
+  ":hirameki/sourcing"
+  ":authoritative"]
+ [":db/add" "hirameki-patent:US3970518" ":hirameki/derived" true]
+ [":db/add"
+  "hirameki-patent:US3970518"
+  ":hirameki.obs/years-to-expiry"
+  -31]
+ [":db/add"
+  "hirameki-patent:US3970518"
+  ":hirameki/source"
+  "https://patents.google.com/patent/US3970518/en"]
+ [":db/add"
   "hirameki-patent:US3970841"
   ":hirameki.patent/title"
   "Method and apparatus for dual resolution analysis of a scene"]
@@ -8403,6 +8891,47 @@
   "hirameki-patent:US3984307"
   ":hirameki/source"
   "https://patents.google.com/patent/US3984307/en"]
+ [":db/add"
+  "hirameki-patent:US3985649"
+  ":hirameki.patent/title"
+  "Ferromagnetic separation process and material"]
+ [":db/add"
+  "hirameki-patent:US3985649"
+  ":hirameki.patent/jurisdiction"
+  ":us"]
+ [":db/add"
+  "hirameki-patent:US3985649"
+  ":hirameki.patent/field"
+  "UNKNOWN"]
+ [":db/add"
+  "hirameki-patent:US3985649"
+  ":hirameki.patent/assignee"
+  ":unassigned"]
+ [":db/add"
+  "hirameki-patent:US3985649"
+  ":hirameki.patent/status"
+  ":granted"]
+ [":db/add"
+  "hirameki-patent:US3985649"
+  ":hirameki.patent/open-license"
+  ":none"]
+ [":db/add"
+  "hirameki-patent:US3985649"
+  ":hirameki.obs/release-status"
+  ":public-domain"]
+ [":db/add"
+  "hirameki-patent:US3985649"
+  ":hirameki/sourcing"
+  ":authoritative"]
+ [":db/add" "hirameki-patent:US3985649" ":hirameki/derived" true]
+ [":db/add"
+  "hirameki-patent:US3985649"
+  ":hirameki.obs/years-to-expiry"
+  -32]
+ [":db/add"
+  "hirameki-patent:US3985649"
+  ":hirameki/source"
+  "https://patents.google.com/patent/US3985649/en"]
  [":db/add"
   "hirameki-patent:US3985690"
   ":hirameki.patent/title"
@@ -9665,536 +10194,4 @@
   "hirameki-patent:US4046722"
   ":hirameki/sourcing"
   ":authoritative"]
- [":db/add" "hirameki-patent:US4046722" ":hirameki/derived" true]
- [":db/add"
-  "hirameki-patent:US4046722"
-  ":hirameki.obs/years-to-expiry"
-  -30]
- [":db/add"
-  "hirameki-patent:US4046722"
-  ":hirameki/source"
-  "https://patents.google.com/patent/US4046722/en"]
- [":db/add"
-  "hirameki-patent:US4048298"
-  ":hirameki.patent/title"
-  "Solid phase double-antibody radioimmunoassay procedure"]
- [":db/add"
-  "hirameki-patent:US4048298"
-  ":hirameki.patent/jurisdiction"
-  ":us"]
- [":db/add"
-  "hirameki-patent:US4048298"
-  ":hirameki.patent/field"
-  "UNKNOWN"]
- [":db/add"
-  "hirameki-patent:US4048298"
-  ":hirameki.patent/assignee"
-  ":rohm-and-haas"]
- [":db/add"
-  "hirameki-patent:US4048298"
-  ":hirameki.patent/status"
-  ":granted"]
- [":db/add"
-  "hirameki-patent:US4048298"
-  ":hirameki.patent/open-license"
-  ":none"]
- [":db/add"
-  "hirameki-patent:US4048298"
-  ":hirameki.obs/release-status"
-  ":public-domain"]
- [":db/add"
-  "hirameki-patent:US4048298"
-  ":hirameki/sourcing"
-  ":authoritative"]
- [":db/add" "hirameki-patent:US4048298" ":hirameki/derived" true]
- [":db/add"
-  "hirameki-patent:US4048298"
-  ":hirameki.obs/years-to-expiry"
-  -31]
- [":db/add"
-  "hirameki-patent:US4048298"
-  ":hirameki/source"
-  "https://patents.google.com/patent/US4048298/en"]
- [":db/add"
-  "hirameki-patent:US4052010"
-  ":hirameki.patent/title"
-  "Suspendable porous glass particles"]
- [":db/add"
-  "hirameki-patent:US4052010"
-  ":hirameki.patent/jurisdiction"
-  ":us"]
- [":db/add"
-  "hirameki-patent:US4052010"
-  ":hirameki.patent/field"
-  "UNKNOWN"]
- [":db/add"
-  "hirameki-patent:US4052010"
-  ":hirameki.patent/assignee"
-  ":corning-glass-works"]
- [":db/add"
-  "hirameki-patent:US4052010"
-  ":hirameki.patent/status"
-  ":granted"]
- [":db/add"
-  "hirameki-patent:US4052010"
-  ":hirameki.patent/open-license"
-  ":none"]
- [":db/add"
-  "hirameki-patent:US4052010"
-  ":hirameki.obs/release-status"
-  ":public-domain"]
- [":db/add"
-  "hirameki-patent:US4052010"
-  ":hirameki/sourcing"
-  ":authoritative"]
- [":db/add" "hirameki-patent:US4052010" ":hirameki/derived" true]
- [":db/add"
-  "hirameki-patent:US4052010"
-  ":hirameki.obs/years-to-expiry"
-  -32]
- [":db/add"
-  "hirameki-patent:US4052010"
-  ":hirameki/source"
-  "https://patents.google.com/patent/US4052010/en"]
- [":db/add"
-  "hirameki-patent:US4057659"
-  ":hirameki.patent/title"
-  "Semiconductor device and a method of producing such device"]
- [":db/add"
-  "hirameki-patent:US4057659"
-  ":hirameki.patent/jurisdiction"
-  ":us"]
- [":db/add"
-  "hirameki-patent:US4057659"
-  ":hirameki.patent/field"
-  "UNKNOWN"]
- [":db/add"
-  "hirameki-patent:US4057659"
-  ":hirameki.patent/assignee"
-  ":siemens"]
- [":db/add"
-  "hirameki-patent:US4057659"
-  ":hirameki.patent/status"
-  ":granted"]
- [":db/add"
-  "hirameki-patent:US4057659"
-  ":hirameki.patent/open-license"
-  ":none"]
- [":db/add"
-  "hirameki-patent:US4057659"
-  ":hirameki.obs/release-status"
-  ":public-domain"]
- [":db/add"
-  "hirameki-patent:US4057659"
-  ":hirameki/sourcing"
-  ":authoritative"]
- [":db/add" "hirameki-patent:US4057659" ":hirameki/derived" true]
- [":db/add"
-  "hirameki-patent:US4057659"
-  ":hirameki.obs/years-to-expiry"
-  -31]
- [":db/add"
-  "hirameki-patent:US4057659"
-  ":hirameki/source"
-  "https://patents.google.com/patent/US4057659/en"]
- [":db/add"
-  "hirameki-patent:US4058732"
-  ":hirameki.patent/title"
-  "Method and apparatus for improved analytical fluorescent spectroscopy"]
- [":db/add"
-  "hirameki-patent:US4058732"
-  ":hirameki.patent/jurisdiction"
-  ":us"]
- [":db/add"
-  "hirameki-patent:US4058732"
-  ":hirameki.patent/field"
-  "UNKNOWN"]
- [":db/add"
-  "hirameki-patent:US4058732"
-  ":hirameki.patent/assignee"
-  ":analytical-radiation"]
- [":db/add"
-  "hirameki-patent:US4058732"
-  ":hirameki.patent/status"
-  ":granted"]
- [":db/add"
-  "hirameki-patent:US4058732"
-  ":hirameki.patent/open-license"
-  ":none"]
- [":db/add"
-  "hirameki-patent:US4058732"
-  ":hirameki.obs/release-status"
-  ":public-domain"]
- [":db/add"
-  "hirameki-patent:US4058732"
-  ":hirameki/sourcing"
-  ":authoritative"]
- [":db/add" "hirameki-patent:US4058732" ":hirameki/derived" true]
- [":db/add"
-  "hirameki-patent:US4058732"
-  ":hirameki.obs/years-to-expiry"
-  -31]
- [":db/add"
-  "hirameki-patent:US4058732"
-  ":hirameki/source"
-  "https://patents.google.com/patent/US4058732/en"]
- [":db/add"
-  "hirameki-patent:US4059685"
-  ":hirameki.patent/title"
-  "Immobilized immunoadsorbent"]
- [":db/add"
-  "hirameki-patent:US4059685"
-  ":hirameki.patent/jurisdiction"
-  ":us"]
- [":db/add"
-  "hirameki-patent:US4059685"
-  ":hirameki.patent/field"
-  "UNKNOWN"]
- [":db/add"
-  "hirameki-patent:US4059685"
-  ":hirameki.patent/assignee"
-  ":summa"]
- [":db/add"
-  "hirameki-patent:US4059685"
-  ":hirameki.patent/status"
-  ":granted"]
- [":db/add"
-  "hirameki-patent:US4059685"
-  ":hirameki.patent/open-license"
-  ":none"]
- [":db/add"
-  "hirameki-patent:US4059685"
-  ":hirameki.obs/release-status"
-  ":public-domain"]
- [":db/add"
-  "hirameki-patent:US4059685"
-  ":hirameki/sourcing"
-  ":authoritative"]
- [":db/add" "hirameki-patent:US4059685" ":hirameki/derived" true]
- [":db/add"
-  "hirameki-patent:US4059685"
-  ":hirameki.obs/years-to-expiry"
-  -31]
- [":db/add"
-  "hirameki-patent:US4059685"
-  ":hirameki/source"
-  "https://patents.google.com/patent/US4059685/en"]
- [":db/add"
-  "hirameki-patent:US4061529"
-  ":hirameki.patent/title"
-  "Method for making etch-resistant stencil with dichromate-sensitized casein coating"]
- [":db/add"
-  "hirameki-patent:US4061529"
-  ":hirameki.patent/jurisdiction"
-  ":us"]
- [":db/add"
-  "hirameki-patent:US4061529"
-  ":hirameki.patent/field"
-  "UNKNOWN"]
- [":db/add"
-  "hirameki-patent:US4061529"
-  ":hirameki.patent/assignee"
-  ":rca"]
- [":db/add"
-  "hirameki-patent:US4061529"
-  ":hirameki.patent/status"
-  ":granted"]
- [":db/add"
-  "hirameki-patent:US4061529"
-  ":hirameki.patent/open-license"
-  ":none"]
- [":db/add"
-  "hirameki-patent:US4061529"
-  ":hirameki.obs/release-status"
-  ":public-domain"]
- [":db/add"
-  "hirameki-patent:US4061529"
-  ":hirameki/sourcing"
-  ":authoritative"]
- [":db/add" "hirameki-patent:US4061529" ":hirameki/derived" true]
- [":db/add"
-  "hirameki-patent:US4061529"
-  ":hirameki.obs/years-to-expiry"
-  -29]
- [":db/add"
-  "hirameki-patent:US4061529"
-  ":hirameki/source"
-  "https://patents.google.com/patent/US4061529/en"]
- [":db/add"
-  "hirameki-patent:US4064297"
-  ":hirameki.patent/title"
-  "Interlaminar flocked laminate"]
- [":db/add"
-  "hirameki-patent:US4064297"
-  ":hirameki.patent/jurisdiction"
-  ":us"]
- [":db/add"
-  "hirameki-patent:US4064297"
-  ":hirameki.patent/field"
-  "UNKNOWN"]
- [":db/add"
-  "hirameki-patent:US4064297"
-  ":hirameki.patent/assignee"
-  ":formica"]
- [":db/add"
-  "hirameki-patent:US4064297"
-  ":hirameki.patent/status"
-  ":granted"]
- [":db/add"
-  "hirameki-patent:US4064297"
-  ":hirameki.patent/open-license"
-  ":none"]
- [":db/add"
-  "hirameki-patent:US4064297"
-  ":hirameki.obs/release-status"
-  ":public-domain"]
- [":db/add"
-  "hirameki-patent:US4064297"
-  ":hirameki/sourcing"
-  ":authoritative"]
- [":db/add" "hirameki-patent:US4064297" ":hirameki/derived" true]
- [":db/add"
-  "hirameki-patent:US4064297"
-  ":hirameki.obs/years-to-expiry"
-  -31]
- [":db/add"
-  "hirameki-patent:US4064297"
-  ":hirameki/source"
-  "https://patents.google.com/patent/US4064297/en"]
- [":db/add"
-  "hirameki-patent:US4066365"
-  ":hirameki.patent/title"
-  "Temperature control apparatus"]
- [":db/add"
-  "hirameki-patent:US4066365"
-  ":hirameki.patent/jurisdiction"
-  ":us"]
- [":db/add"
-  "hirameki-patent:US4066365"
-  ":hirameki.patent/field"
-  "UNKNOWN"]
- [":db/add"
-  "hirameki-patent:US4066365"
-  ":hirameki.patent/assignee"
-  ":perkin-elmer"]
- [":db/add"
-  "hirameki-patent:US4066365"
-  ":hirameki.patent/status"
-  ":granted"]
- [":db/add"
-  "hirameki-patent:US4066365"
-  ":hirameki.patent/open-license"
-  ":none"]
- [":db/add"
-  "hirameki-patent:US4066365"
-  ":hirameki.obs/release-status"
-  ":public-domain"]
- [":db/add"
-  "hirameki-patent:US4066365"
-  ":hirameki/sourcing"
-  ":authoritative"]
- [":db/add" "hirameki-patent:US4066365" ":hirameki/derived" true]
- [":db/add"
-  "hirameki-patent:US4066365"
-  ":hirameki.obs/years-to-expiry"
-  -30]
- [":db/add"
-  "hirameki-patent:US4066365"
-  ":hirameki/source"
-  "https://patents.google.com/patent/US4066365/en"]
- [":db/add"
-  "hirameki-patent:US4066512"
-  ":hirameki.patent/title"
-  "Biologically active membrane material"]
- [":db/add"
-  "hirameki-patent:US4066512"
-  ":hirameki.patent/jurisdiction"
-  ":us"]
- [":db/add"
-  "hirameki-patent:US4066512"
-  ":hirameki.patent/field"
-  "UNKNOWN"]
- [":db/add"
-  "hirameki-patent:US4066512"
-  ":hirameki.patent/assignee"
-  ":millipore"]
- [":db/add"
-  "hirameki-patent:US4066512"
-  ":hirameki.patent/status"
-  ":granted"]
- [":db/add"
-  "hirameki-patent:US4066512"
-  ":hirameki.patent/open-license"
-  ":none"]
- [":db/add"
-  "hirameki-patent:US4066512"
-  ":hirameki.obs/release-status"
-  ":public-domain"]
- [":db/add"
-  "hirameki-patent:US4066512"
-  ":hirameki/sourcing"
-  ":authoritative"]
- [":db/add" "hirameki-patent:US4066512" ":hirameki/derived" true]
- [":db/add"
-  "hirameki-patent:US4066512"
-  ":hirameki.obs/years-to-expiry"
-  -30]
- [":db/add"
-  "hirameki-patent:US4066512"
-  ":hirameki/source"
-  "https://patents.google.com/patent/US4066512/en"]
- [":db/add"
-  "hirameki-patent:US4066827"
-  ":hirameki.patent/title"
-  "Process for producing a polyion complex having a nucleic acid base"]
- [":db/add"
-  "hirameki-patent:US4066827"
-  ":hirameki.patent/jurisdiction"
-  ":us"]
- [":db/add"
-  "hirameki-patent:US4066827"
-  ":hirameki.patent/field"
-  "UNKNOWN"]
- [":db/add"
-  "hirameki-patent:US4066827"
-  ":hirameki.patent/assignee"
-  ":toyo-soda-manufacturing"]
- [":db/add"
-  "hirameki-patent:US4066827"
-  ":hirameki.patent/status"
-  ":granted"]
- [":db/add"
-  "hirameki-patent:US4066827"
-  ":hirameki.patent/open-license"
-  ":none"]
- [":db/add"
-  "hirameki-patent:US4066827"
-  ":hirameki.obs/release-status"
-  ":public-domain"]
- [":db/add"
-  "hirameki-patent:US4066827"
-  ":hirameki/sourcing"
-  ":authoritative"]
- [":db/add" "hirameki-patent:US4066827" ":hirameki/derived" true]
- [":db/add"
-  "hirameki-patent:US4066827"
-  ":hirameki.obs/years-to-expiry"
-  -30]
- [":db/add"
-  "hirameki-patent:US4066827"
-  ":hirameki/source"
-  "https://patents.google.com/patent/US4066827/en"]
- [":db/add"
-  "hirameki-patent:US4067959"
-  ":hirameki.patent/title"
-  "Indirect solid surface test for antigens or antibodies"]
- [":db/add"
-  "hirameki-patent:US4067959"
-  ":hirameki.patent/jurisdiction"
-  ":us"]
- [":db/add"
-  "hirameki-patent:US4067959"
-  ":hirameki.patent/field"
-  "UNKNOWN"]
- [":db/add"
-  "hirameki-patent:US4067959"
-  ":hirameki.patent/assignee"
-  ":international-diagnostic-technologies"]
- [":db/add"
-  "hirameki-patent:US4067959"
-  ":hirameki.patent/status"
-  ":granted"]
- [":db/add"
-  "hirameki-patent:US4067959"
-  ":hirameki.patent/open-license"
-  ":none"]
- [":db/add"
-  "hirameki-patent:US4067959"
-  ":hirameki.obs/release-status"
-  ":public-domain"]
- [":db/add"
-  "hirameki-patent:US4067959"
-  ":hirameki/sourcing"
-  ":authoritative"]
- [":db/add" "hirameki-patent:US4067959" ":hirameki/derived" true]
- [":db/add"
-  "hirameki-patent:US4067959"
-  ":hirameki.obs/years-to-expiry"
-  -30]
- [":db/add"
-  "hirameki-patent:US4067959"
-  ":hirameki/source"
-  "https://patents.google.com/patent/US4067959/en"]
- [":db/add"
-  "hirameki-patent:US4069352"
-  ":hirameki.patent/title"
-  "Immunoadsorbent polymeric material and method of making same"]
- [":db/add"
-  "hirameki-patent:US4069352"
-  ":hirameki.patent/jurisdiction"
-  ":us"]
- [":db/add"
-  "hirameki-patent:US4069352"
-  ":hirameki.patent/field"
-  "UNKNOWN"]
- [":db/add"
-  "hirameki-patent:US4069352"
-  ":hirameki.patent/assignee"
-  ":baxter-travenol-laboratories"]
- [":db/add"
-  "hirameki-patent:US4069352"
-  ":hirameki.patent/status"
-  ":granted"]
- [":db/add"
-  "hirameki-patent:US4069352"
-  ":hirameki.patent/open-license"
-  ":none"]
- [":db/add"
-  "hirameki-patent:US4069352"
-  ":hirameki.obs/release-status"
-  ":public-domain"]
- [":db/add"
-  "hirameki-patent:US4069352"
-  ":hirameki/sourcing"
-  ":authoritative"]
- [":db/add" "hirameki-patent:US4069352" ":hirameki/derived" true]
- [":db/add"
-  "hirameki-patent:US4069352"
-  ":hirameki.obs/years-to-expiry"
-  -30]
- [":db/add"
-  "hirameki-patent:US4069352"
-  ":hirameki/source"
-  "https://patents.google.com/patent/US4069352/en"]
- [":db/add"
-  "hirameki-patent:US4071315"
-  ":hirameki.patent/title"
-  "Analytical tape medium"]
- [":db/add"
-  "hirameki-patent:US4071315"
-  ":hirameki.patent/jurisdiction"
-  ":us"]
- [":db/add"
-  "hirameki-patent:US4071315"
-  ":hirameki.patent/field"
-  "UNKNOWN"]
- [":db/add"
-  "hirameki-patent:US4071315"
-  ":hirameki.patent/assignee"
-  ":unassigned"]
- [":db/add"
-  "hirameki-patent:US4071315"
-  ":hirameki.patent/status"
-  ":granted"]
- [":db/add"
-  "hirameki-patent:US4071315"
-  ":hirameki.patent/open-license"
-  ":none"]
- [":db/add"
-  "hirameki-patent:US4071315"
-  ":hirameki.obs/release-status"
-  ":public-domain"]
- [":db/add"
-  "hirameki-patent:US4071315"
-  ":hirameki/sourcing"
-  ":authoritative"]]
+ [":db/add" "hirameki-patent:US4046722" ":hirameki/derived" true]]

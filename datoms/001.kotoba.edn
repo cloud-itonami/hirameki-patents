@@ -1,4 +1,45 @@
-[[":db/add" "hirameki-patent:JP2006272936A" ":hirameki/derived" true]
+[[":db/add" "hirameki-patent:JP2006272931A" ":hirameki/derived" true]
+ [":db/add"
+  "hirameki-patent:JP2006272931A"
+  ":hirameki.obs/years-to-expiry"
+  -1]
+ [":db/add"
+  "hirameki-patent:JP2006272931A"
+  ":hirameki/source"
+  "https://patents.google.com/patent/JP2006272931A/en"]
+ [":db/add"
+  "hirameki-patent:JP2006272936A"
+  ":hirameki.patent/title"
+  "Decorative sheet"]
+ [":db/add"
+  "hirameki-patent:JP2006272936A"
+  ":hirameki.patent/jurisdiction"
+  ":jp"]
+ [":db/add"
+  "hirameki-patent:JP2006272936A"
+  ":hirameki.patent/field"
+  "UNKNOWN"]
+ [":db/add"
+  "hirameki-patent:JP2006272936A"
+  ":hirameki.patent/assignee"
+  ":dai-nippon-printing"]
+ [":db/add"
+  "hirameki-patent:JP2006272936A"
+  ":hirameki.patent/status"
+  ":pending"]
+ [":db/add"
+  "hirameki-patent:JP2006272936A"
+  ":hirameki.patent/open-license"
+  ":none"]
+ [":db/add"
+  "hirameki-patent:JP2006272936A"
+  ":hirameki.obs/release-status"
+  ":pending"]
+ [":db/add"
+  "hirameki-patent:JP2006272936A"
+  ":hirameki/sourcing"
+  ":authoritative"]
+ [":db/add" "hirameki-patent:JP2006272936A" ":hirameki/derived" true]
  [":db/add"
   "hirameki-patent:JP2006272936A"
   ":hirameki.obs/years-to-expiry"
@@ -5326,6 +5367,47 @@
   ":hirameki/source"
   "https://patents.google.com/patent/US2946307/en"]
  [":db/add"
+  "hirameki-patent:US2956931"
+  ":hirameki.patent/title"
+  "Dispensing biological materials"]
+ [":db/add"
+  "hirameki-patent:US2956931"
+  ":hirameki.patent/jurisdiction"
+  ":us"]
+ [":db/add"
+  "hirameki-patent:US2956931"
+  ":hirameki.patent/field"
+  "UNKNOWN"]
+ [":db/add"
+  "hirameki-patent:US2956931"
+  ":hirameki.patent/assignee"
+  ":unassigned"]
+ [":db/add"
+  "hirameki-patent:US2956931"
+  ":hirameki.patent/status"
+  ":granted"]
+ [":db/add"
+  "hirameki-patent:US2956931"
+  ":hirameki.patent/open-license"
+  ":none"]
+ [":db/add"
+  "hirameki-patent:US2956931"
+  ":hirameki.obs/release-status"
+  ":public-domain"]
+ [":db/add"
+  "hirameki-patent:US2956931"
+  ":hirameki/sourcing"
+  ":authoritative"]
+ [":db/add" "hirameki-patent:US2956931" ":hirameki/derived" true]
+ [":db/add"
+  "hirameki-patent:US2956931"
+  ":hirameki.obs/years-to-expiry"
+  -48]
+ [":db/add"
+  "hirameki-patent:US2956931"
+  ":hirameki/source"
+  "https://patents.google.com/patent/US2956931/en"]
+ [":db/add"
   "hirameki-patent:US2967644"
   ":hirameki.patent/title"
   "Dispensing machine"]
@@ -5817,6 +5899,43 @@
   "hirameki-patent:US3030237"
   ":hirameki/source"
   "https://patents.google.com/patent/US3030237/en"]
+ [":db/add"
+  "hirameki-patent:US30360"
+  ":hirameki.patent/title"
+  "Propeller and its"]
+ [":db/add"
+  "hirameki-patent:US30360"
+  ":hirameki.patent/jurisdiction"
+  ":us"]
+ [":db/add"
+  "hirameki-patent:US30360"
+  ":hirameki.patent/field"
+  "UNKNOWN"]
+ [":db/add"
+  "hirameki-patent:US30360"
+  ":hirameki.patent/assignee"
+  ":unassigned"]
+ [":db/add"
+  "hirameki-patent:US30360"
+  ":hirameki.patent/status"
+  ":granted"]
+ [":db/add"
+  "hirameki-patent:US30360"
+  ":hirameki.patent/open-license"
+  ":none"]
+ [":db/add"
+  "hirameki-patent:US30360"
+  ":hirameki.obs/release-status"
+  ":in-force"]
+ [":db/add"
+  "hirameki-patent:US30360"
+  ":hirameki/sourcing"
+  ":authoritative"]
+ [":db/add" "hirameki-patent:US30360" ":hirameki/derived" true]
+ [":db/add"
+  "hirameki-patent:US30360"
+  ":hirameki/source"
+  "https://patents.google.com/patent/US30360/en"]
  [":db/add"
   "hirameki-patent:US3036893"
   ":hirameki.patent/title"
@@ -10078,166 +10197,47 @@
   ":hirameki/source"
   "https://patents.google.com/patent/US3469147/en"]
  [":db/add"
-  "hirameki-patent:US3475408"
+  "hirameki-patent:US3470067"
   ":hirameki.patent/title"
-  "N(6) alkenyl 5-substituted adenosine"]
+  "Concentration and purification of viruses from particulate magnetic iron oxide-virus complexes"]
  [":db/add"
-  "hirameki-patent:US3475408"
+  "hirameki-patent:US3470067"
   ":hirameki.patent/jurisdiction"
   ":us"]
  [":db/add"
-  "hirameki-patent:US3475408"
+  "hirameki-patent:US3470067"
   ":hirameki.patent/field"
   "UNKNOWN"]
  [":db/add"
-  "hirameki-patent:US3475408"
+  "hirameki-patent:US3470067"
   ":hirameki.patent/assignee"
-  ":boehringer-mannheim"]
+  ":pfizer"]
  [":db/add"
-  "hirameki-patent:US3475408"
+  "hirameki-patent:US3470067"
   ":hirameki.patent/status"
   ":granted"]
  [":db/add"
-  "hirameki-patent:US3475408"
+  "hirameki-patent:US3470067"
   ":hirameki.patent/open-license"
   ":none"]
  [":db/add"
-  "hirameki-patent:US3475408"
+  "hirameki-patent:US3470067"
   ":hirameki.obs/release-status"
   ":public-domain"]
  [":db/add"
-  "hirameki-patent:US3475408"
+  "hirameki-patent:US3470067"
   ":hirameki/sourcing"
   ":authoritative"]
- [":db/add" "hirameki-patent:US3475408" ":hirameki/derived" true]
+ [":db/add" "hirameki-patent:US3470067" ":hirameki/derived" true]
  [":db/add"
-  "hirameki-patent:US3475408"
+  "hirameki-patent:US3470067"
   ":hirameki.obs/years-to-expiry"
-  -40]
+  -39]
+ [":db/add"
+  "hirameki-patent:US3470067"
+  ":hirameki/source"
+  "https://patents.google.com/patent/US3470067/en"]
  [":db/add"
   "hirameki-patent:US3475408"
-  ":hirameki/source"
-  "https://patents.google.com/patent/US3475408/en"]
- [":db/add"
-  "hirameki-patent:US3477817"
   ":hirameki.patent/title"
-  "Diagnostic test for presence of galactose"]
- [":db/add"
-  "hirameki-patent:US3477817"
-  ":hirameki.patent/jurisdiction"
-  ":us"]
- [":db/add"
-  "hirameki-patent:US3477817"
-  ":hirameki.patent/field"
-  "UNKNOWN"]
- [":db/add"
-  "hirameki-patent:US3477817"
-  ":hirameki.patent/assignee"
-  ":ralph-j-de-falco"]
- [":db/add"
-  "hirameki-patent:US3477817"
-  ":hirameki.patent/status"
-  ":granted"]
- [":db/add"
-  "hirameki-patent:US3477817"
-  ":hirameki.patent/open-license"
-  ":none"]
- [":db/add"
-  "hirameki-patent:US3477817"
-  ":hirameki.obs/release-status"
-  ":public-domain"]
- [":db/add"
-  "hirameki-patent:US3477817"
-  ":hirameki/sourcing"
-  ":authoritative"]
- [":db/add" "hirameki-patent:US3477817" ":hirameki/derived" true]
- [":db/add"
-  "hirameki-patent:US3477817"
-  ":hirameki.obs/years-to-expiry"
-  -40]
- [":db/add"
-  "hirameki-patent:US3477817"
-  ":hirameki/source"
-  "https://patents.google.com/patent/US3477817/en"]
- [":db/add"
-  "hirameki-patent:US3479255"
-  ":hirameki.patent/title"
-  "Electrochemical transducer"]
- [":db/add"
-  "hirameki-patent:US3479255"
-  ":hirameki.patent/jurisdiction"
-  ":us"]
- [":db/add"
-  "hirameki-patent:US3479255"
-  ":hirameki.patent/field"
-  "UNKNOWN"]
- [":db/add"
-  "hirameki-patent:US3479255"
-  ":hirameki.patent/assignee"
-  ":beckman-instruments"]
- [":db/add"
-  "hirameki-patent:US3479255"
-  ":hirameki.patent/status"
-  ":granted"]
- [":db/add"
-  "hirameki-patent:US3479255"
-  ":hirameki.patent/open-license"
-  ":none"]
- [":db/add"
-  "hirameki-patent:US3479255"
-  ":hirameki.obs/release-status"
-  ":public-domain"]
- [":db/add"
-  "hirameki-patent:US3479255"
-  ":hirameki/sourcing"
-  ":authoritative"]
- [":db/add" "hirameki-patent:US3479255" ":hirameki/derived" true]
- [":db/add"
-  "hirameki-patent:US3479255"
-  ":hirameki.obs/years-to-expiry"
-  -42]
- [":db/add"
-  "hirameki-patent:US3479255"
-  ":hirameki/source"
-  "https://patents.google.com/patent/US3479255/en"]
- [":db/add"
-  "hirameki-patent:US3483017"
-  ":hirameki.patent/title"
-  "Method of unifying bibulous papers"]
- [":db/add"
-  "hirameki-patent:US3483017"
-  ":hirameki.patent/jurisdiction"
-  ":us"]
- [":db/add"
-  "hirameki-patent:US3483017"
-  ":hirameki.patent/field"
-  "UNKNOWN"]
- [":db/add"
-  "hirameki-patent:US3483017"
-  ":hirameki.patent/assignee"
-  ":johnson-and-johnson"]
- [":db/add"
-  "hirameki-patent:US3483017"
-  ":hirameki.patent/status"
-  ":granted"]
- [":db/add"
-  "hirameki-patent:US3483017"
-  ":hirameki.patent/open-license"
-  ":none"]
- [":db/add"
-  "hirameki-patent:US3483017"
-  ":hirameki.obs/release-status"
-  ":public-domain"]
- [":db/add"
-  "hirameki-patent:US3483017"
-  ":hirameki/sourcing"
-  ":authoritative"]
- [":db/add" "hirameki-patent:US3483017" ":hirameki/derived" true]
- [":db/add"
-  "hirameki-patent:US3483017"
-  ":hirameki.obs/years-to-expiry"
-  -40]
- [":db/add"
-  "hirameki-patent:US3483017"
-  ":hirameki/source"
-  "https://patents.google.com/patent/US3483017/en"]]
+  "N(6) alkenyl 5-substituted adenosine"]]
