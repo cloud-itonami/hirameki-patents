@@ -294,6 +294,19 @@
  {:assignees [:university-patents],
   :jurisdiction :ep,
   :field "UNKNOWN",
+  :source "https://patents.google.com/patent/EP0035719A2/en",
+  :title
+  "Process for producing modified inorganic polymers, their use in producing polynucleotides, and a reagent useful in these processes",
+  :status :pending,
+  :id "EP0035719A2",
+  :sourcing :authoritative,
+  :filing-year 1981,
+  :assignee :university-patents,
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:university-patents],
+  :jurisdiction :ep,
+  :field "UNKNOWN",
   :source "https://patents.google.com/patent/EP0061746A1/en",
   :title
   "Phosphoramidite compounds and their use in producing oligonucleotides",
@@ -456,6 +469,19 @@
   :filing-year 1983,
   :assignee :imreg,
   :cites ["DE2724723A1" "US4298590"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:fuji-photo-film],
+  :jurisdiction :ep,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/EP0115777A2/en",
+  :title
+  "Method for determination of base sequence of DNA or DNA fragment",
+  :status :pending,
+  :id "EP0115777A2",
+  :sourcing :authoritative,
+  :filing-year 1984,
+  :assignee :fuji-photo-film,
   :term-years 20,
   :open-license :none}
  {:assignees [:amersham-international],
@@ -653,6 +679,30 @@
   :filing-year 1985,
   :assignee :centre-national-de-la-recherche-scientifique-cnrs,
   :cites ["EP0063879A2" "EP0117440A1"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:chiron],
+  :jurisdiction :ep,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/EP0175261A2/en",
+  :title "Hybrid particle immunogens",
+  :status :pending,
+  :id "EP0175261A2",
+  :sourcing :authoritative,
+  :filing-year 1985,
+  :assignee :chiron,
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:biogen],
+  :jurisdiction :ep,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/EP0182442A2/en",
+  :title "Recombinant DNA molecules and their method of production",
+  :status :pending,
+  :id "EP0182442A2",
+  :sourcing :authoritative,
+  :filing-year 1979,
+  :assignee :biogen,
   :term-years 20,
   :open-license :none}
  {:assignees [:sagax-instrument],
@@ -3502,6 +3552,19 @@
   :filing-year 1998,
   :assignee :asia-industry-coltd,
   :grant-year 2000,
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:tno],
+  :jurisdiction :nl,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/NL8402392A/en",
+  :title
+  "DEOXYRIBONUCLEIC ACID; MICRO ORGANISMS; DIAGNOSTIC AGENT FOR SIGMA INFECTION AND USE THEREOF.",
+  :status :pending,
+  :id "NL8402392A",
+  :sourcing :authoritative,
+  :filing-year 1984,
+  :assignee :tno,
   :term-years 20,
   :open-license :none}
  {:assignees
@@ -6892,6 +6955,20 @@
   :cites ["US3022543" "US3099350" "US3245198" "US3264272"],
   :term-years 20,
   :open-license :none}
+ {:assignees [:molectro],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3426423/en",
+  :title "Method of manufacturing semiconductors",
+  :status :granted,
+  :id "US3426423",
+  :sourcing :authoritative,
+  :filing-year 1965,
+  :assignee :molectro,
+  :grant-year 1969,
+  :cites ["US2962058" "US3073007" "US3171187" "US3281628" "US3317287"],
+  :term-years 20,
+  :open-license :none}
  {:assignees [:docutel],
   :jurisdiction :us,
   :field "UNKNOWN",
@@ -7000,6 +7077,32 @@
   :assignee :shell-oil,
   :grant-year 1969,
   :cites ["GB888624A" "US2945020" "US3203916" "US3214407" "US3265765"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:university-of-illinois-at-urbana-champaign],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3444041/en",
+  :title "In vitro synthesis of ribonucleic acids and enzyme therefor",
+  :status :granted,
+  :id "US3444041",
+  :sourcing :authoritative,
+  :filing-year 1966,
+  :assignee :university-of-illinois-at-urbana-champaign,
+  :grant-year 1969,
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:university-of-illinois-at-urbana-champaign],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3444042/en",
+  :title "Purified replicases and their uses",
+  :status :granted,
+  :id "US3444042",
+  :sourcing :authoritative,
+  :filing-year 1966,
+  :assignee :university-of-illinois-at-urbana-champaign,
+  :grant-year 1969,
   :term-years 20,
   :open-license :none}
  {:assignees [:international-business-machines],
@@ -7995,6 +8098,20 @@
   :cites ["US3327117" "US3470373" "US3497690"],
   :term-years 20,
   :open-license :none}
+ {:assignees [:university-of-illinois-at-urbana-champaign],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3661893/en",
+  :title
+  "Synthesis in vitro of nucleic acids and products used therein and products produced therefrom",
+  :status :granted,
+  :id "US3661893",
+  :sourcing :authoritative,
+  :filing-year 1968,
+  :assignee :university-of-illinois-at-urbana-champaign,
+  :grant-year 1972,
+  :term-years 20,
+  :open-license :none}
  {:assignees [:schlumberger-technology],
   :jurisdiction :us,
   :field "UNKNOWN",
@@ -8920,143 +9037,5 @@
   :assignee :corning-glass-works,
   :grant-year 1974,
   :cites ["US2817265" "US3315229"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:ei-du-pont-de-nemours-and],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3821145/en",
-  :title
-  "Aqueous coating composition of an acrylic graft copolymer,a linear acrylic polymer and a cross-linking agent",
-  :status :granted,
-  :id "US3821145",
-  :sourcing :authoritative,
-  :filing-year 1972,
-  :assignee :ei-du-pont-de-nemours-and,
-  :grant-year 1974,
-  :term-years 20,
-  :open-license :none}
- {:assignees [:american-express-investment-management],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3824393/en",
-  :title "System for differential particle counting",
-  :status :granted,
-  :id "US3824393",
-  :sourcing :authoritative,
-  :filing-year 1973,
-  :assignee :american-express-investment-management,
-  :grant-year 1974,
-  :cites
-  ["US2927219"
-   "US2959348"
-   "US3315229"
-   "US3327119"
-   "US3349227"
-   "US3412254"
-   "US3493772"
-   "US3503684"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:leland-stanford-junior-university],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3826364/en",
-  :title "Particle sorting method and apparatus",
-  :status :granted,
-  :id "US3826364",
-  :sourcing :authoritative,
-  :filing-year 1972,
-  :assignee :leland-stanford-junior-university,
-  :grant-year 1974,
-  :cites
-  ["US2948470"
-   "US3011634"
-   "US3380584"
-   "US3661460"
-   "US3669542"
-   "US3675768"
-   "US3710933"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:abbott-laboratories],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3826619/en",
-  :title
-  "Test apparatus for direct radioimmuno-assay for antigens and their antibodies",
-  :status :granted,
-  :id "US3826619",
-  :sourcing :authoritative,
-  :filing-year 1971,
-  :assignee :abbott-laboratories,
-  :grant-year 1974,
-  :term-years 20,
-  :open-license :none}
- {:assignees [:bio-physics-systems],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3827555/en",
-  :title "Particle sorter with segregation indicator",
-  :status :granted,
-  :id "US3827555",
-  :sourcing :authoritative,
-  :filing-year 1973,
-  :assignee :bio-physics-systems,
-  :grant-year 1974,
-  :cites
-  ["US2333791"
-   "US3269419"
-   "US3362421"
-   "US3508654"
-   "US3508655"
-   "US3560754"
-   "US3710933"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:geometric-data],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3827804/en",
-  :title
-  "Color separation for discrimination in pattern recognition systems",
-  :status :granted,
-  :id "US3827804",
-  :sourcing :authoritative,
-  :filing-year 1972,
-  :assignee :geometric-data,
-  :grant-year 1974,
-  :cites
-  ["US3188907"
-   "US3284566"
-   "US3315229"
-   "US3330904"
-   "US3497690"
-   "US3657537"
-   "US3663801"
-   "US3675768"
-   "US3699336"
-   "US3703337"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:texas-instruments],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3831432/en",
-  :title "Environment monitoring device and system",
-  :status :granted,
-  :id "US3831432",
-  :sourcing :authoritative,
-  :filing-year 1972,
-  :assignee :texas-instruments,
-  :grant-year 1974,
-  :cites
-  ["US2975362"
-   "US2998554"
-   "US3329004"
-   "US3469147"
-   "US3507145"
-   "US3586554"
-   "US3685140"],
   :term-years 20,
   :open-license :none}]

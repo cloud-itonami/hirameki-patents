@@ -1,4 +1,142 @@
-[{:assignees [:akzona],
+[{:assignees [:ei-du-pont-de-nemours-and],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3821145/en",
+  :title
+  "Aqueous coating composition of an acrylic graft copolymer,a linear acrylic polymer and a cross-linking agent",
+  :status :granted,
+  :id "US3821145",
+  :sourcing :authoritative,
+  :filing-year 1972,
+  :assignee :ei-du-pont-de-nemours-and,
+  :grant-year 1974,
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:american-express-investment-management],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3824393/en",
+  :title "System for differential particle counting",
+  :status :granted,
+  :id "US3824393",
+  :sourcing :authoritative,
+  :filing-year 1973,
+  :assignee :american-express-investment-management,
+  :grant-year 1974,
+  :cites
+  ["US2927219"
+   "US2959348"
+   "US3315229"
+   "US3327119"
+   "US3349227"
+   "US3412254"
+   "US3493772"
+   "US3503684"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:leland-stanford-junior-university],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3826364/en",
+  :title "Particle sorting method and apparatus",
+  :status :granted,
+  :id "US3826364",
+  :sourcing :authoritative,
+  :filing-year 1972,
+  :assignee :leland-stanford-junior-university,
+  :grant-year 1974,
+  :cites
+  ["US2948470"
+   "US3011634"
+   "US3380584"
+   "US3661460"
+   "US3669542"
+   "US3675768"
+   "US3710933"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:abbott-laboratories],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3826619/en",
+  :title
+  "Test apparatus for direct radioimmuno-assay for antigens and their antibodies",
+  :status :granted,
+  :id "US3826619",
+  :sourcing :authoritative,
+  :filing-year 1971,
+  :assignee :abbott-laboratories,
+  :grant-year 1974,
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:bio-physics-systems],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3827555/en",
+  :title "Particle sorter with segregation indicator",
+  :status :granted,
+  :id "US3827555",
+  :sourcing :authoritative,
+  :filing-year 1973,
+  :assignee :bio-physics-systems,
+  :grant-year 1974,
+  :cites
+  ["US2333791"
+   "US3269419"
+   "US3362421"
+   "US3508654"
+   "US3508655"
+   "US3560754"
+   "US3710933"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:geometric-data],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3827804/en",
+  :title
+  "Color separation for discrimination in pattern recognition systems",
+  :status :granted,
+  :id "US3827804",
+  :sourcing :authoritative,
+  :filing-year 1972,
+  :assignee :geometric-data,
+  :grant-year 1974,
+  :cites
+  ["US3188907"
+   "US3284566"
+   "US3315229"
+   "US3330904"
+   "US3497690"
+   "US3657537"
+   "US3663801"
+   "US3675768"
+   "US3699336"
+   "US3703337"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:texas-instruments],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3831432/en",
+  :title "Environment monitoring device and system",
+  :status :granted,
+  :id "US3831432",
+  :sourcing :authoritative,
+  :filing-year 1972,
+  :assignee :texas-instruments,
+  :grant-year 1974,
+  :cites
+  ["US2975362"
+   "US2998554"
+   "US3329004"
+   "US3469147"
+   "US3507145"
+   "US3586554"
+   "US3685140"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:akzona],
   :jurisdiction :us,
   :field "UNKNOWN",
   :source "https://patents.google.com/patent/US3839153/en",
@@ -2541,6 +2679,19 @@
   :cites ["US3553310" "US3639558" "US3873684" "US3882225" "US3925018"],
   :term-years 20,
   :open-license :none}
+ {:assignees [:abbott-laboratories],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US4224408/en",
+  :title "Deoxyribonucleic acid synthesis using binding protein",
+  :status :granted,
+  :id "US4224408",
+  :sourcing :authoritative,
+  :filing-year 1978,
+  :assignee :abbott-laboratories,
+  :grant-year 1980,
+  :term-years 20,
+  :open-license :none}
  {:assignees [:research],
   :jurisdiction :us,
   :field "UNKNOWN",
@@ -2927,6 +3078,20 @@
    "US4071315"],
   :term-years 20,
   :open-license :none}
+ {:assignees [:abbott-laboratories],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US4331589/en",
+  :title
+  "Deoxyribonucleic acid synthesis using binding protein extracted from chick embryo fibroblasts",
+  :status :granted,
+  :id "US4331589",
+  :sourcing :authoritative,
+  :filing-year 1981,
+  :assignee :abbott-laboratories,
+  :grant-year 1982,
+  :term-years 20,
+  :open-license :none}
  {:jurisdiction :us,
   :field "UNKNOWN",
   :source "https://patents.google.com/patent/US4331647/en",
@@ -3039,6 +3204,19 @@
   :assignee :unassigned,
   :grant-year 1982,
   :cites ["US4237224"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:university-of-california-san-diego-ucsd],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US4363877/en",
+  :title "Recombinant DNA transfer vectors",
+  :status :granted,
+  :id "US4363877",
+  :sourcing :authoritative,
+  :filing-year 1978,
+  :assignee :university-of-california-san-diego-ucsd,
+  :grant-year 1982,
   :term-years 20,
   :open-license :none}
  {:assignees [:e-y-laboratories],
@@ -3287,6 +3465,20 @@
   :grant-year 1984,
   :term-years 20,
   :open-license :none}
+ {:assignees [:university-of-southern-california-usc],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US4477577/en",
+  :title "Non-contaminating direct serum assay of steroid hormones",
+  :status :granted,
+  :id "US4477577",
+  :sourcing :authoritative,
+  :filing-year 1981,
+  :assignee :university-of-southern-california-usc,
+  :grant-year 1984,
+  :cites ["US4208400" "US4225574" "US4311690" "US4366143"],
+  :term-years 20,
+  :open-license :none}
  {:assignees [:motorola],
   :jurisdiction :us,
   :field "UNKNOWN",
@@ -3314,6 +3506,20 @@
   :assignee :hahnemann-university,
   :grant-year 1984,
   :cites ["US4302204" "US4358535"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:amf],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US4483922/en",
+  :title "Inactivation of enzymes",
+  :status :granted,
+  :id "US4483922",
+  :sourcing :authoritative,
+  :filing-year 1982,
+  :assignee :amf,
+  :grant-year 1984,
+  :cites ["US4279994" "US4311791"],
   :term-years 20,
   :open-license :none}
  {:assignees [:orion],
@@ -3449,6 +3655,20 @@
    "US4455331"],
   :term-years 20,
   :open-license :none}
+ {:assignees [:massachusetts-institute-of-technology],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US4535058/en",
+  :title "Characterization of oncogenes and assays based thereon",
+  :status :granted,
+  :id "US4535058",
+  :sourcing :authoritative,
+  :filing-year 1982,
+  :assignee :massachusetts-institute-of-technology,
+  :grant-year 1985,
+  :cites ["US4299815" "US4368262" "US4395486"],
+  :term-years 20,
+  :open-license :none}
  {:assignees [:molecular-diagnostics],
   :jurisdiction :us,
   :field "UNKNOWN",
@@ -3462,6 +3682,20 @@
   :assignee :molecular-diagnostics,
   :grant-year 1985,
   :cites ["US4302204" "US4358535"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:agracetus],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US4556643/en",
+  :title "Assay method and probe for polynucleotide sequences",
+  :status :granted,
+  :id "US4556643",
+  :sourcing :authoritative,
+  :filing-year 1983,
+  :assignee :agracetus,
+  :grant-year 1985,
+  :cites ["GB2019408A" "US4446237"],
   :term-years 20,
   :open-license :none}
  {:assignees [:eastman-kodak],
@@ -3663,6 +3897,20 @@
   :cites ["GB2019408A" "US4542102"],
   :term-years 20,
   :open-license :none}
+ {:assignees [:novo-industri-as],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US4591565/en",
+  :title "Method for thermal destabilization of microbial rennet",
+  :status :granted,
+  :id "US4591565",
+  :sourcing :authoritative,
+  :filing-year 1982,
+  :assignee :novo-industri-as,
+  :grant-year 1986,
+  :cites ["DE2901542A1" "US4348482" "US4357357"],
+  :term-years 20,
+  :open-license :none}
  {:assignees [:california-institute-of-technology],
   :jurisdiction :us,
   :field "UNKNOWN",
@@ -3851,6 +4099,34 @@
   :cites ["US4228237" "US4230797" "US4298685"],
   :term-years 20,
   :open-license :none}
+ {:assignees [:genentech],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US4663283/en",
+  :title "Method of altering double-stranded DNA",
+  :status :granted,
+  :id "US4663283",
+  :sourcing :authoritative,
+  :filing-year 1983,
+  :assignee :genentech,
+  :grant-year 1987,
+  :cites ["US4351901"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:molecular-genetics],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US4663290/en",
+  :title "Production of reverse transcriptase",
+  :status :granted,
+  :id "US4663290",
+  :sourcing :authoritative,
+  :filing-year 1982,
+  :assignee :molecular-genetics,
+  :grant-year 1987,
+  :cites ["US4332892" "US4338397" "US4356270"],
+  :term-years 20,
+  :open-license :none}
  {:assignees [:university-of-massachusetts-system],
   :jurisdiction :us,
   :field "UNKNOWN",
@@ -3864,6 +4140,42 @@
   :assignee :university-of-massachusetts-system,
   :grant-year 1987,
   :cites ["US3480613" "US3936439" "US4267171"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:ei-du-pont-de-nemours-and],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US4670379/en",
+  :title
+  "Polynucleotide hydridization assays employing catalyzed luminescence",
+  :status :granted,
+  :id "US4670379",
+  :sourcing :authoritative,
+  :filing-year 1984,
+  :assignee :ei-du-pont-de-nemours-and,
+  :grant-year 1987,
+  :cites
+  ["EP0063879A2"
+   "EP0070685A2"
+   "EP0070687A2"
+   "EP0079139A1"
+   "EP0097373B1"
+   "EP0110682A2"
+   "EP0117440A1"
+   "EP0122614A2"
+   "EP0124221A1"
+   "EP0127327A1"
+   "EP0128018A2"
+   "EP0128042A2"
+   "GB2019408A"
+   "GB2125964A"
+   "US4238565"
+   "US4358535"
+   "US4366243"
+   "WO1983002277A1"
+   "WO1983002286A1"
+   "WO1984001174A1"
+   "WO1984002721A1"],
   :term-years 20,
   :open-license :none}
  {:assignees [:advanced-magnetics],
