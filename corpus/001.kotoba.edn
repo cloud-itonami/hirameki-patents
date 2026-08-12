@@ -1,4 +1,144 @@
-[{:assignees [:wtc-chemical],
+[{:assignees [:american-optical],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3782823/en",
+  :title "Laser microprobe",
+  :status :granted,
+  :id "US3782823",
+  :sourcing :authoritative,
+  :filing-year 1972,
+  :assignee :american-optical,
+  :grant-year 1974,
+  :cites ["US3348547" "US3463594"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:abbott-laboratories],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3789116/en",
+  :title "Fluorescent labeled antibody reagent",
+  :status :granted,
+  :id "US3789116",
+  :sourcing :authoritative,
+  :filing-year 1970,
+  :assignee :abbott-laboratories,
+  :grant-year 1974,
+  :cites ["FR1299171A" "GB1180957A" "US3551296"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:us-department-of-health-and-human-services],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3790663/en",
+  :title
+  "Preparation of dry antiserum coated solid-phase for radioimmunoassay of antigens",
+  :status :granted,
+  :id "US3790663",
+  :sourcing :authoritative,
+  :filing-year 1970,
+  :assignee :us-department-of-health-and-human-services,
+  :grant-year 1974,
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:bio-physics-systems],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3791517/en",
+  :title "Digital fluidic amplifier particle sorter",
+  :status :granted,
+  :id "US3791517",
+  :sourcing :authoritative,
+  :filing-year 1973,
+  :assignee :bio-physics-systems,
+  :grant-year 1974,
+  :cites ["US3560754" "US3710933"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:akzona],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3791932/en",
+  :title
+  "Process for the demonstration and determination of reaction components having specific binding affinity for each other",
+  :status :granted,
+  :id "US3791932",
+  :sourcing :authoritative,
+  :filing-year 1972,
+  :assignee :akzona,
+  :grant-year 1974,
+  :cites ["US3654090"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:geomet],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3791933/en",
+  :title
+  "Rapid methods for assay of enzyme substrates and metabolites",
+  :status :granted,
+  :id "US3791933",
+  :sourcing :authoritative,
+  :filing-year 1971,
+  :assignee :geomet,
+  :grant-year 1974,
+  :cites ["US3367841" "US3526480" "US3663374"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:miles-laboratories],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3792039/en",
+  :title "Poly 2&#39;-fluoro-2&#39;-deoxyuridylic acid",
+  :status :granted,
+  :id "US3792039",
+  :sourcing :authoritative,
+  :filing-year 1971,
+  :assignee :miles-laboratories,
+  :grant-year 1974,
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:howson-algraphy],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3796603/en",
+  :title
+  "Method of removing insolubilized light sensitized poly(vinyl alcohol) from a surface utilizing periodate ions",
+  :status :granted,
+  :id "US3796603",
+  :sourcing :authoritative,
+  :filing-year 1972,
+  :assignee :howson-algraphy,
+  :grant-year 1974,
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:us-department-of-health-and-human-services],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3796634/en",
+  :title "Insolubilized biologically active enzymes",
+  :status :granted,
+  :id "US3796634",
+  :sourcing :authoritative,
+  :filing-year 1970,
+  :assignee :us-department-of-health-and-human-services,
+  :grant-year 1974,
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:pasadena-foundation-for-medica],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3798131/en",
+  :title
+  "Assay for polymeric dna as a method for detecting malignancy",
+  :status :granted,
+  :id "US3798131",
+  :sourcing :authoritative,
+  :filing-year 1972,
+  :assignee :pasadena-foundation-for-medica,
+  :grant-year 1974,
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:wtc-chemical],
   :jurisdiction :us,
   :field "UNKNOWN",
   :source "https://patents.google.com/patent/US3799741/en",
@@ -612,6 +752,20 @@
   :cites ["US3553310"],
   :term-years 20,
   :open-license :none}
+ {:assignees [:texas-instruments],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3873824/en",
+  :title "X-ray lithography mask",
+  :status :granted,
+  :id "US3873824",
+  :sourcing :authoritative,
+  :filing-year 1973,
+  :assignee :texas-instruments,
+  :grant-year 1975,
+  :cites ["US3742230"],
+  :term-years 20,
+  :open-license :none}
  {:assignees [:geometric-data],
   :jurisdiction :us,
   :field "UNKNOWN",
@@ -698,6 +852,29 @@
   :cites ["US2957808" "US3074853" "US3096250"],
   :term-years 20,
   :open-license :none}
+ {:assignees [:wr-grace-and],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3883352/en",
+  :title "Process for forming a photocured solder resist",
+  :status :granted,
+  :id "US3883352",
+  :sourcing :authoritative,
+  :filing-year 1974,
+  :assignee :wr-grace-and,
+  :grant-year 1975,
+  :cites
+  ["US3376139"
+   "US3462267"
+   "US3615450"
+   "US3619393"
+   "US3701721"
+   "US3708413"
+   "US3753720"
+   "US3767398"
+   "US3770491"],
+  :term-years 20,
+  :open-license :none}
  {:assignees [:bofors],
   :jurisdiction :us,
   :field "UNKNOWN",
@@ -747,6 +924,20 @@
   :assignee :instrumentation-laboratory,
   :grant-year 1975,
   :cites ["US3276589"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:bell-telephone-laboratories],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3892973/en",
+  :title "Mask structure for X-ray lithography",
+  :status :granted,
+  :id "US3892973",
+  :sourcing :authoritative,
+  :filing-year 1974,
+  :assignee :bell-telephone-laboratories,
+  :grant-year 1975,
+  :cites ["US3743842"],
   :term-years 20,
   :open-license :none}
  {:assignees [:university-of-illinois-at-urbana-champaign],
@@ -1001,6 +1192,20 @@
   :assignee :rca,
   :grant-year 1975,
   :cites ["US2437228" "US2750524" "US3329541" "US3609033" "US3679500"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:western-electric],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3930914/en",
+  :title "Thinning semiconductive substrates",
+  :status :granted,
+  :id "US3930914",
+  :sourcing :authoritative,
+  :filing-year 1974,
+  :assignee :western-electric,
+  :grant-year 1976,
+  :cites ["US2958147" "US3404049" "US3447985"],
   :term-years 20,
   :open-license :none}
  {:assignees [:university-of-michigan-system],
@@ -1734,6 +1939,20 @@
   :cites ["US3008927" "US3297648" "US3625870"],
   :term-years 20,
   :open-license :none}
+ {:assignees [:bell-telephone-laboratories],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US4037111/en",
+  :title "Mask structures for X-ray lithography",
+  :status :granted,
+  :id "US4037111",
+  :sourcing :authoritative,
+  :filing-year 1976,
+  :assignee :bell-telephone-laboratories,
+  :grant-year 1977,
+  :cites ["US3892973" "US3925677" "US3958263"],
+  :term-years 20,
+  :open-license :none}
  {:assignees [:replacement-products-ind],
   :jurisdiction :us,
   :field "UNKNOWN",
@@ -1769,6 +1988,19 @@
   :assignee :university-of-michigan-system,
   :grant-year 1977,
   :cites ["US3671400"],
+  :term-years 20,
+  :open-license :none}
+ {:jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US4038378/en",
+  :title "Radioimmunoassay for hepatitis b antigen",
+  :status :granted,
+  :id "US4038378",
+  :sourcing :authoritative,
+  :filing-year 1975,
+  :assignee :unassigned,
+  :grant-year 1977,
+  :cites ["US3794467" "US3896218"],
   :term-years 20,
   :open-license :none}
  {:assignees [:icn-pharmaceuticals],
@@ -1875,6 +2107,20 @@
   :assignee :corning-glass-works,
   :grant-year 1977,
   :cites ["US2214717" "US3361680" "US3519538" "US3652761"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:siemens],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US4057659/en",
+  :title "Semiconductor device and a method of producing such device",
+  :status :granted,
+  :id "US4057659",
+  :sourcing :authoritative,
+  :filing-year 1975,
+  :assignee :siemens,
+  :grant-year 1977,
+  :cites ["GB985280A" "US3700497" "US3710205"],
   :term-years 20,
   :open-license :none}
  {:assignees [:analytical-radiation],
@@ -2966,6 +3212,27 @@
   ["GB1442303A" "US3539455" "US3542662" "US3979274" "US4073713"],
   :term-years 20,
   :open-license :none}
+ {:assignees [:merck-and],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US4241175/en",
+  :title "Assay for hepatitis B core antibody",
+  :status :granted,
+  :id "US4241175",
+  :sourcing :authoritative,
+  :filing-year 1978,
+  :assignee :merck-and,
+  :grant-year 1980,
+  :cites
+  ["US3551555"
+   "US3654090"
+   "US3995019"
+   "US4100267"
+   "US4102996"
+   "US4148869"
+   "US4157280"],
+  :term-years 20,
+  :open-license :none}
  {:assignees [:honeywell],
   :jurisdiction :us,
   :field "UNKNOWN",
@@ -3314,6 +3581,20 @@
   :cites ["US3970841" "US4254330" "US4297571"],
   :term-years 20,
   :open-license :none}
+ {:jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US4348376/en",
+  :title
+  "Tumor localization and therapy with labeled anti-CEA antibody",
+  :status :granted,
+  :id "US4348376",
+  :sourcing :authoritative,
+  :filing-year 1980,
+  :assignee :unassigned,
+  :grant-year 1982,
+  :cites ["US3927193" "US4160817" "US4174385" "US4211766"],
+  :term-years 20,
+  :open-license :none}
  {:assignees [:teijin],
   :jurisdiction :us,
   :field "UNKNOWN",
@@ -3371,6 +3652,27 @@
   :cites ["US4237224"],
   :term-years 20,
   :open-license :none}
+ {:jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US4361544/en",
+  :title
+  "Tumor localization and therapy with labeled antibodies specific to intracellular tumor-associated markers",
+  :status :granted,
+  :id "US4361544",
+  :sourcing :authoritative,
+  :filing-year 1980,
+  :assignee :unassigned,
+  :grant-year 1982,
+  :cites
+  ["EP0005638A2"
+   "US3927193"
+   "US3960827"
+   "US4144031"
+   "US4146603"
+   "US4160019"
+   "US4174385"],
+  :term-years 20,
+  :open-license :none}
  {:assignees [:university-of-california-san-diego-ucsd],
   :jurisdiction :us,
   :field "UNKNOWN",
@@ -3417,6 +3719,33 @@
    "US4066827"
    "US4217421"
    "US4276395"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:columbia-university-in-the-city-of-new-york],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US4379839/en",
+  :title "Method for detecting cancer",
+  :status :granted,
+  :id "US4379839",
+  :sourcing :authoritative,
+  :filing-year 1980,
+  :assignee :columbia-university-in-the-city-of-new-york,
+  :grant-year 1983,
+  :cites
+  ["CA977681A"
+   "US3755086"
+   "US3798131"
+   "US3816263"
+   "US3852415"
+   "US3859430"
+   "US3867363"
+   "US3988115"
+   "US3999944"
+   "US4002532"
+   "US4016043"
+   "US4043757"
+   "US4146603"],
   :term-years 20,
   :open-license :none}
  {:assignees [:international-paper],
