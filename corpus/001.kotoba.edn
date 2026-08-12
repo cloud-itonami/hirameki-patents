@@ -1,4 +1,117 @@
-[{:assignees [:ei-du-pont-de-nemours-and],
+[{:assignees [:wtc-chemical],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3799741/en",
+  :title "Pharmaceutical screening test composition",
+  :status :granted,
+  :id "US3799741",
+  :sourcing :authoritative,
+  :filing-year 1972,
+  :assignee :wtc-chemical,
+  :grant-year 1974,
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:merck-patent],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3804826/en",
+  :title "Thiopyrimidine derivatives",
+  :status :granted,
+  :id "US3804826",
+  :sourcing :authoritative,
+  :filing-year 1971,
+  :assignee :merck-patent,
+  :grant-year 1974,
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:kaiser-aerospace-and-electronics],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3804976/en",
+  :title "Multiplexed infrared imaging system",
+  :status :granted,
+  :id "US3804976",
+  :sourcing :authoritative,
+  :filing-year 1972,
+  :assignee :kaiser-aerospace-and-electronics,
+  :grant-year 1974,
+  :cites
+  ["GB700982A"
+   "US2967211"
+   "US3109057"
+   "US3219642"
+   "US3251933"
+   "US3443110"
+   "US3670097"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:rhone-poulenc],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3810848/en",
+  :title "Complex forming polymers from dimethyl dipyridyl compounds",
+  :status :granted,
+  :id "US3810848",
+  :sourcing :authoritative,
+  :filing-year 1973,
+  :assignee :rhone-poulenc,
+  :grant-year 1974,
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:national-aeronautics-and-space-administration-nasa],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3814939/en",
+  :title "Chromato-fluorographic drug detector",
+  :status :granted,
+  :id "US3814939",
+  :sourcing :authoritative,
+  :filing-year 1973,
+  :assignee :national-aeronautics-and-space-administration-nasa,
+  :grant-year 1974,
+  :cites ["US2974227" "US3152251" "US3449571"],
+  :term-years 20,
+  :open-license :none}
+ {:jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3816263/en",
+  :title "Biological test",
+  :status :granted,
+  :id "US3816263",
+  :sourcing :authoritative,
+  :filing-year 1972,
+  :assignee :unassigned,
+  :grant-year 1974,
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:filtering-materials],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3817703/en",
+  :title "Laser energized sterilization method and apparatus",
+  :status :granted,
+  :id "US3817703",
+  :sourcing :authoritative,
+  :filing-year 1971,
+  :assignee :filtering-materials,
+  :grant-year 1974,
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:corning-glass-works],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3819913/en",
+  :title "Detection of eosinophil cells on a blood smeared slide",
+  :status :granted,
+  :id "US3819913",
+  :sourcing :authoritative,
+  :filing-year 1973,
+  :assignee :corning-glass-works,
+  :grant-year 1974,
+  :cites ["US2817265" "US3315229"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:ei-du-pont-de-nemours-and],
   :jurisdiction :us,
   :field "UNKNOWN",
   :source "https://patents.google.com/patent/US3821145/en",
@@ -599,6 +712,29 @@
   :grant-year 1975,
   :term-years 20,
   :open-license :none}
+ {:assignees [:hitachi],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3885060/en",
+  :title "Production of insolubilized organic polymers",
+  :status :granted,
+  :id "US3885060",
+  :sourcing :authoritative,
+  :filing-year 1972,
+  :assignee :hitachi,
+  :grant-year 1975,
+  :cites
+  ["US3253000"
+   "US3291600"
+   "US3361842"
+   "US3374111"
+   "US3406040"
+   "US3417069"
+   "US3501389"
+   "US3531547"
+   "US3535137"],
+  :term-years 20,
+  :open-license :none}
  {:assignees [:instrumentation-laboratory],
   :jurisdiction :us,
   :field "UNKNOWN",
@@ -731,6 +867,21 @@
   :assignee :united-states-department-of-commerce,
   :grant-year 1975,
   :cites ["US3151204" "US3507987" "US3795812" "US3826920" "US3829696"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:hitachi],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3914462/en",
+  :title
+  "Method for forming a resist mask using a positive electron resist",
+  :status :granted,
+  :id "US3914462",
+  :sourcing :authoritative,
+  :filing-year 1973,
+  :assignee :hitachi,
+  :grant-year 1975,
+  :cites ["US3037955" "US3234303" "US3703402"],
   :term-years 20,
   :open-license :none}
  {:assignees [:icn-pharmaceuticals],
@@ -2145,6 +2296,20 @@
    "US3966897"
    "US3981982"
    "US4000252"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:eastman-kodak],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US4111838/en",
+  :title "Composition for chromatography",
+  :status :granted,
+  :id "US4111838",
+  :sourcing :authoritative,
+  :filing-year 1977,
+  :assignee :eastman-kodak,
+  :grant-year 1978,
+  :cites ["DE2319495A1" "US3491086" "US3983299" "US4006059"],
   :term-years 20,
   :open-license :none}
  {:assignees [:warner-lambert],
@@ -3684,6 +3849,21 @@
   :cites ["US4302204" "US4358535"],
   :term-years 20,
   :open-license :none}
+ {:assignees [:cetus],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US4555486/en",
+  :title
+  "Method for using an amino-terminus DNA sequence to synthesize a specific double-stranded DNA",
+  :status :granted,
+  :id "US4555486",
+  :sourcing :authoritative,
+  :filing-year 1983,
+  :assignee :cetus,
+  :grant-year 1985,
+  :cites ["US4401759"],
+  :term-years 20,
+  :open-license :none}
  {:assignees [:agracetus],
   :jurisdiction :us,
   :field "UNKNOWN",
@@ -3895,6 +4075,21 @@
   :assignee :cetus,
   :grant-year 1986,
   :cites ["GB2019408A" "US4542102"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:us-department-of-energy],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US4585736/en",
+  :title
+  "Flow cytometric measurement of total DNA and incorporated halodeoxyuridine",
+  :status :granted,
+  :id "US4585736",
+  :sourcing :authoritative,
+  :filing-year 1983,
+  :assignee :us-department-of-energy,
+  :grant-year 1986,
+  :cites ["EP0102228A2" "US4196265"],
   :term-years 20,
   :open-license :none}
  {:assignees [:novo-industri-as],
@@ -4616,6 +4811,19 @@
    "WO1984002721A1"],
   :term-years 20,
   :open-license :none}
+ {:assignees [:carnegie-mellon-university],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US4767708/en",
+  :title "Enzyme amplification and purification",
+  :status :granted,
+  :id "US4767708",
+  :sourcing :authoritative,
+  :filing-year 1984,
+  :assignee :carnegie-mellon-university,
+  :grant-year 1988,
+  :term-years 20,
+  :open-license :none}
  {:jurisdiction :us,
   :field "UNKNOWN",
   :source "https://patents.google.com/patent/US4770992/en",
@@ -4648,6 +4856,33 @@
    "US4539148"
    "US4556513"
    "US4617621"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:columbia-university-in-the-city-of-new-york],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US4786600/en",
+  :title "Autocatalytic replication of recombinant RNA",
+  :status :granted,
+  :id "US4786600",
+  :sourcing :authoritative,
+  :filing-year 1984,
+  :assignee :columbia-university-in-the-city-of-new-york,
+  :grant-year 1988,
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:us-department-of-energy],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US4793705/en",
+  :title "Single molecule tracking",
+  :status :granted,
+  :id "US4793705",
+  :sourcing :authoritative,
+  :filing-year 1987,
+  :assignee :us-department-of-energy,
+  :grant-year 1988,
+  :cites ["US4698308"],
   :term-years 20,
   :open-license :none}
  {:assignees [:molecular-diagnostics],
@@ -5025,6 +5260,98 @@
    "US4667025"
    "US4668777"
    "US4689405"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:harvard-university],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US4942130/en",
+  :title "T7 DNA polymerase",
+  :status :granted,
+  :id "US4942130",
+  :sourcing :authoritative,
+  :filing-year 1987,
+  :assignee :harvard-university,
+  :grant-year 1990,
+  :cites
+  ["EP0258017A2"
+   "US3444041"
+   "US3444042"
+   "US3661893"
+   "US4072574"
+   "US4224408"
+   "US4331589"
+   "US4363877"
+   "US4394443"
+   "US4395486"
+   "US4483920"
+   "US4483922"
+   "US4486539"
+   "US4521509"
+   "US4555486"
+   "US4556643"
+   "US4563419"
+   "US4591565"
+   "US4656127"
+   "US4663283"
+   "US4663290"
+   "US4670379"
+   "US4675283"
+   "US4683195"
+   "US4683202"
+   "US4707235"
+   "US4729947"
+   "US4767708"
+   "US4786600"
+   "US4795699"
+   "US4795700"
+   "US4800159"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:harvard-university],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US4946786/en",
+  :title "T7 DNA polymerase",
+  :status :granted,
+  :id "US4946786",
+  :sourcing :authoritative,
+  :filing-year 1990,
+  :assignee :harvard-university,
+  :grant-year 1990,
+  :cites
+  ["EP0258017A2"
+   "US3444041"
+   "US3444042"
+   "US3661893"
+   "US4072574"
+   "US4224408"
+   "US4331589"
+   "US4363877"
+   "US4394443"
+   "US4395486"
+   "US4483920"
+   "US4483922"
+   "US4486539"
+   "US4521509"
+   "US4555486"
+   "US4556643"
+   "US4563419"
+   "US4591565"
+   "US4656127"
+   "US4663283"
+   "US4663290"
+   "US4670379"
+   "US4675283"
+   "US4683195"
+   "US4683202"
+   "US4707235"
+   "US4729947"
+   "US4767708"
+   "US4786600"
+   "US4795699"
+   "US4795700"
+   "US4800159"],
   :term-years 20,
   :open-license :none}
  {:assignees [:government-of-the-united-states-of-america],
@@ -6293,6 +6620,19 @@
    "WO1984004332A1"],
   :term-years 20,
   :open-license :none}
+ {:assignees [:royal-postgraduate-medical-school],
+  :jurisdiction :wo,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/WO1987007531A1/en",
+  :title "Endotoxin removal",
+  :status :pending,
+  :id "WO1987007531A1",
+  :sourcing :authoritative,
+  :filing-year 1987,
+  :assignee :royal-postgraduate-medical-school,
+  :cites ["EP0110409A2" "EP0129786A2"],
+  :term-years 20,
+  :open-license :none}
  {:assignees [:queen-mary-university-of-london],
   :jurisdiction :wo,
   :field "UNKNOWN",
@@ -6324,6 +6664,19 @@
    "US4419444"
    "US4469796"
    "US4486539"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:harvard-university],
+  :jurisdiction :wo,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/WO1988005470A1/en",
+  :title "T7 dna polymerase",
+  :status :pending,
+  :id "WO1988005470A1",
+  :sourcing :authoritative,
+  :filing-year 1987,
+  :assignee :harvard-university,
+  :cites ["US4483922"],
   :term-years 20,
   :open-license :none}
  {:assignees [:us-department-of-energy],
