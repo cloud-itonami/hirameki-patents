@@ -1,4 +1,59 @@
-[{:assignees [:technicon-instruments],
+[{:assignees [:zenith-radio],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3672893/en",
+  :title "Process of manufacturing screens for shadow-mask tubes",
+  :status :granted,
+  :id "US3672893",
+  :sourcing :authoritative,
+  :filing-year 1970,
+  :assignee :zenith-radio,
+  :grant-year 1972,
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:medstar-research-institute],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3675488/en",
+  :title
+  "Apparatus for transport and storage of liquid specimens for radio-immunoassay for insulin",
+  :status :granted,
+  :id "US3675488",
+  :sourcing :authoritative,
+  :filing-year 1969,
+  :assignee :medstar-research-institute,
+  :grant-year 1972,
+  :cites ["US2734377" "US3131521" "US3368872"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:f-hoffmann-la-roche],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3676080/en",
+  :title "Device for automatically analyzing liquids",
+  :status :granted,
+  :id "US3676080",
+  :sourcing :authoritative,
+  :filing-year 1968,
+  :assignee :f-hoffmann-la-roche,
+  :grant-year 1972,
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:combined-paper-mills],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3676184/en",
+  :title
+  "Method for controlling varying liquid penetration of a continuous paper web",
+  :status :granted,
+  :id "US3676184",
+  :sourcing :authoritative,
+  :filing-year 1969,
+  :assignee :combined-paper-mills,
+  :grant-year 1972,
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:technicon-instruments],
   :jurisdiction :us,
   :field "UNKNOWN",
   :source "https://patents.google.com/patent/US3679312/en",
@@ -272,6 +327,18 @@
   :assignee :abbott-laboratories,
   :grant-year 1973,
   :cites ["US3057775"],
+  :term-years 20,
+  :open-license :none}
+ {:jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3715872/en",
+  :title "Mowing apparatus",
+  :status :granted,
+  :id "US3715872",
+  :sourcing :authoritative,
+  :filing-year 1971,
+  :assignee :unassigned,
+  :grant-year 1973,
   :term-years 20,
   :open-license :none}
  {:jurisdiction :us,
@@ -1981,6 +2048,26 @@
    "US3794467"],
   :term-years 20,
   :open-license :none}
+ {:jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3926436/en",
+  :title
+  "Silver halide element containing polymeric colour forming couplers",
+  :status :granted,
+  :id "US3926436",
+  :sourcing :authoritative,
+  :filing-year 1974,
+  :assignee :unassigned,
+  :grant-year 1975,
+  :cites
+  ["US2353262"
+   "US2976294"
+   "US3024221"
+   "US3356686"
+   "US3370952"
+   "US3767412"],
+  :term-years 20,
+  :open-license :none}
  {:assignees [:f-hoffmann-la-roche],
   :jurisdiction :us,
   :field "UNKNOWN",
@@ -3099,6 +3186,26 @@
    "US3975511"],
   :term-years 20,
   :open-license :none}
+ {:jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US4061141/en",
+  :title
+  "Apparatus and method for selectively separating amino acids and defined proteins in blood",
+  :status :granted,
+  :id "US4061141",
+  :sourcing :authoritative,
+  :filing-year 1972,
+  :assignee :unassigned,
+  :grant-year 1977,
+  :cites
+  ["GB953414A"
+   "SE320155B"
+   "US3608729"
+   "US3617545"
+   "US3619423"
+   "US3669878"],
+  :term-years 20,
+  :open-license :none}
  {:assignees [:rca],
   :jurisdiction :us,
   :field "UNKNOWN",
@@ -3575,6 +3682,35 @@
   :cites ["US4069352"],
   :term-years 20,
   :open-license :none}
+ {:assignees [:eastman-kodak],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US4142891/en",
+  :title
+  "Photographic products and processes employing nondiffusible azo dye-releasing compounds",
+  :status :granted,
+  :id "US4142891",
+  :sourcing :authoritative,
+  :filing-year 1977,
+  :assignee :eastman-kodak,
+  :grant-year 1979,
+  :cites
+  ["FR1124882A"
+   "FR1200358A"
+   "GB899758A"
+   "US2348417"
+   "US2495244"
+   "US2830042"
+   "US2938895"
+   "US3081167"
+   "US3097196"
+   "US3196014"
+   "US3563739"
+   "US3931144"
+   "US3980479"
+   "US4013635"],
+  :term-years 20,
+  :open-license :none}
  {:assignees [:research],
   :jurisdiction :us,
   :field "UNKNOWN",
@@ -3823,6 +3959,30 @@
   :cites ["US3311756" "US3381432" "US3999122" "US4020830"],
   :term-years 20,
   :open-license :none}
+ {:jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US4182750/en",
+  :title "Bloodcompatible functional polymers",
+  :status :granted,
+  :id "US4182750",
+  :sourcing :authoritative,
+  :filing-year 1977,
+  :assignee :unassigned,
+  :grant-year 1980,
+  :cites
+  ["US3434467"
+   "US3514438"
+   "US3673612"
+   "US3853987"
+   "US3938953"
+   "US3959079"
+   "US3995019"
+   "US4008047"
+   "US4010250"
+   "US4012317"
+   "US4031201"],
+  :term-years 20,
+  :open-license :none}
  {:assignees [:sandoz],
   :jurisdiction :us,
   :field "UNKNOWN",
@@ -3848,6 +4008,29 @@
   :filing-year 1976,
   :assignee :research,
   :grant-year 1980,
+  :term-years 20,
+  :open-license :none}
+ {:jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US4192748/en",
+  :title "Dialysis apparatus with selective chemical activity",
+  :status :granted,
+  :id "US4192748",
+  :sourcing :authoritative,
+  :filing-year 1976,
+  :assignee :unassigned,
+  :grant-year 1980,
+  :cites
+  ["US3503877"
+   "US3522346"
+   "US3579441"
+   "US3608729"
+   "US3619423"
+   "US3645852"
+   "US3703959"
+   "US3880760"
+   "US3888250"
+   "US4061141"],
   :term-years 20,
   :open-license :none}
  {:assignees [:institut-pasteur],
@@ -4080,6 +4263,20 @@
   :cites ["US4067774" "US4100268" "US4144131"],
   :term-years 20,
   :open-license :none}
+ {:assignees [:scripps-clinic-and-research-foundation],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US4222907/en",
+  :title "Induction of immunological tolerance",
+  :status :granted,
+  :id "US4222907",
+  :sourcing :authoritative,
+  :filing-year 1978,
+  :assignee :scripps-clinic-and-research-foundation,
+  :grant-year 1980,
+  :cites ["US3794630"],
+  :term-years 20,
+  :open-license :none}
  {:assignees [:university-of-illinois-foundation],
   :jurisdiction :us,
   :field "UNKNOWN",
@@ -4250,6 +4447,21 @@
   :assignee :general-electric,
   :grant-year 1980,
   :cites ["US3831432" "US3853467"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:behringwerke],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US4239743/en",
+  :title
+  "Carrier-bound immunoglobulin fission product and its use in immunologic analyses",
+  :status :granted,
+  :id "US4239743",
+  :sourcing :authoritative,
+  :filing-year 1978,
+  :assignee :behringwerke,
+  :grant-year 1980,
+  :cites ["US3966898" "US4138213" "US4143124"],
   :term-years 20,
   :open-license :none}
  {:jurisdiction :us,
@@ -4425,6 +4637,20 @@
   :grant-year 1981,
   :term-years 20,
   :open-license :none}
+ {:jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US4272549/en",
+  :title
+  "Therapeutical method for the treatment of chronic uraemic patients undergoing periodical haemodialysis and liquid composition for dialysis for use in such a method",
+  :status :granted,
+  :id "US4272549",
+  :sourcing :authoritative,
+  :filing-year 1979,
+  :assignee :unassigned,
+  :grant-year 1981,
+  :cites ["US3822344" "US3830931" "US3968241"],
+  :term-years 20,
+  :open-license :none}
  {:assignees [:mount-sinai-school-of-medicine],
   :jurisdiction :us,
   :field "UNKNOWN",
@@ -4560,6 +4786,33 @@
   :cites ["US3555143" "US4053284" "US4098876"],
   :term-years 20,
   :open-license :none}
+ {:assignees [:baxter-travenol-laboratories],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US4292296/en",
+  :title "Diagnostic method",
+  :status :granted,
+  :id "US4292296",
+  :sourcing :authoritative,
+  :filing-year 1978,
+  :assignee :baxter-travenol-laboratories,
+  :grant-year 1981,
+  :cites
+  ["DE2731028A1"
+   "US3799740"
+   "US3896218"
+   "US3941564"
+   "US3960492"
+   "US3980764"
+   "US4012494"
+   "US4016250"
+   "US4032626"
+   "US4046870"
+   "US4052504"
+   "US4120945"
+   "US4225574"],
+  :term-years 20,
+  :open-license :none}
  {:assignees [:cetus],
   :jurisdiction :us,
   :field "UNKNOWN",
@@ -4641,6 +4894,35 @@
   :assignee :fuji-photo-film,
   :grant-year 1981,
   :cites ["US3859527" "US3975637"],
+  :term-years 20,
+  :open-license :none}
+ {:jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US4305926/en",
+  :title "Immobilization of Streptokinase",
+  :status :granted,
+  :id "US4305926",
+  :sourcing :authoritative,
+  :filing-year 1979,
+  :assignee :unassigned,
+  :grant-year 1981,
+  :cites
+  ["US3522346"
+   "US3639213"
+   "US3715277"
+   "US3730841"
+   "US3809605"
+   "US3826678"
+   "US3865726"
+   "US3875008"
+   "US3980772"
+   "US3985616"
+   "US4004979"
+   "US4004980"
+   "US4029767"
+   "US4061141"
+   "US4169014"
+   "US4178368"],
   :term-years 20,
   :open-license :none}
  {:jurisdiction :us,
@@ -4822,6 +5104,22 @@
   :cites ["US4046722" "US4093607"],
   :term-years 20,
   :open-license :none}
+ {:assignees [:agfa-gevaert],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US4340664/en",
+  :title
+  "Copolymer latex and photographic silver halide materials containing such latex",
+  :status :granted,
+  :id "US4340664",
+  :sourcing :authoritative,
+  :filing-year 1980,
+  :assignee :agfa-gevaert,
+  :grant-year 1982,
+  :cites
+  ["GB1453057A" "US3356686" "US3926436" "US4080211" "US4128427"],
+  :term-years 20,
+  :open-license :none}
  {:assignees [:nippon-kogaku],
   :jurisdiction :us,
   :field "UNKNOWN",
@@ -4877,6 +5175,20 @@
   :assignee :cetus,
   :grant-year 1982,
   :cites ["US4264731" "US4293652"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:warner-lambert],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US4357311/en",
+  :title "Substrate for immunoassay and means of preparing same",
+  :status :granted,
+  :id "US4357311",
+  :sourcing :authoritative,
+  :filing-year 1980,
+  :assignee :warner-lambert,
+  :grant-year 1982,
+  :cites ["US3619371" "US3824150" "US4007089" "US4119494" "US4229537"],
   :term-years 20,
   :open-license :none}
  {:assignees [:university-of-washington],
@@ -5811,6 +6123,19 @@
   :cites ["US4337111"],
   :term-years 20,
   :open-license :none}
+ {:assignees [:shionogi-and],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US4539148/en",
+  :title "Production of 1-oxacephams and intermediates",
+  :status :granted,
+  :id "US4539148",
+  :sourcing :authoritative,
+  :filing-year 1983,
+  :assignee :shionogi-and,
+  :grant-year 1985,
+  :term-years 20,
+  :open-license :none}
  {:assignees [:molecular-diagnostics],
   :jurisdiction :us,
   :field "UNKNOWN",
@@ -5839,6 +6164,20 @@
   :assignee :cetus,
   :grant-year 1985,
   :cites ["US4401759"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:meiji-seika-kaisha],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US4556513/en",
+  :title
+  "Process for the production of antibiotic 1-oxadethiacephalosporins, and intermediate",
+  :status :granted,
+  :id "US4556513",
+  :sourcing :authoritative,
+  :filing-year 1984,
+  :assignee :meiji-seika-kaisha,
+  :grant-year 1985,
   :term-years 20,
   :open-license :none}
  {:assignees [:agracetus],
@@ -6289,6 +6628,20 @@
    "US4358535"
    "US4542102"
    "WO1985002628A1"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:fuji-electric],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US4617621/en",
+  :title "Inverters with reduced distributed inductance",
+  :status :granted,
+  :id "US4617621",
+  :sourcing :authoritative,
+  :filing-year 1985,
+  :assignee :fuji-electric,
+  :grant-year 1986,
+  :cites ["US3260978" "US3792286" "US4128868"],
   :term-years 20,
   :open-license :none}
  {:assignees [:cetus],
@@ -9226,244 +9579,5 @@
   :filing-year 1993,
   :assignee :ei-du-pont-de-nemours-and,
   :cites ["EP0263429A2" "EP0275138A2" "US4732790" "US4732791"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:basf-lacke-und-farben :nippon-oil-and-fats],
-  :jurisdiction :wo,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/WO1996022339A1/en",
-  :title "Water-based paint composition",
-  :status :pending,
-  :id "WO1996022339A1",
-  :sourcing :authoritative,
-  :filing-year 1996,
-  :assignee :basf-lacke-und-farben,
-  :cites ["EP0292004A2" "GB2060654A" "US3821145" "US5308890"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:avco :textron-automotive-interiors],
-  :jurisdiction :wo,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/WO1996033026A1/en",
-  :title "Radiation cured island coating system",
-  :status :pending,
-  :id "WO1996033026A1",
-  :sourcing :authoritative,
-  :filing-year 1996,
-  :assignee :avco,
-  :cites ["US4713143" "US5320869"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:basf-coatings],
-  :jurisdiction :wo,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/WO1998055526A1/en",
-  :title
-  "Coating agent, method for its production and its use as coating lacquer or transparent lacquer, in particular for coating plastics",
-  :status :pending,
-  :id "WO1998055526A1",
-  :sourcing :authoritative,
-  :filing-year 1998,
-  :assignee :basf-coatings,
-  :cites ["DE3109604A1" "EP0518779A1" "US5145893" "US5504178"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:mitsui-chemicals],
-  :jurisdiction :wo,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/WO2002010296A1/en",
-  :title
-  "Aqueous dispersion composition for imparting chipping resistance",
-  :status :pending,
-  :id "WO2002010296A1",
-  :sourcing :authoritative,
-  :filing-year 2001,
-  :assignee :mitsui-chemicals,
-  :cites ["JP2000160059A" "JP2000160094A" "JP2000345097A" "US4174335"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:nippon-paint],
-  :jurisdiction :wo,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/WO2004061025A1/en",
-  :title
-  "Aqueous intercoating composition and method for forming multilayer coating films",
-  :status :pending,
-  :id "WO2004061025A1",
-  :sourcing :authoritative,
-  :filing-year 2003,
-  :assignee :nippon-paint,
-  :cites ["GB2360227A" "US5635251" "WO1996022339A1"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:ishihara-sangyo-kaisha :kansai-paint],
-  :jurisdiction :wo,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/WO2005012449A1/en",
-  :title
-  "White electrically conducting primer composition and process for forming multilayer coating films",
-  :status :pending,
-  :id "WO2005012449A1",
-  :sourcing :authoritative,
-  :filing-year 2004,
-  :assignee :ishihara-sangyo-kaisha,
-  :cites
-  ["JP2001139875A" "JP2002020107A" "JP2002121462A" "JP2004075735A"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:kansai-paint],
-  :jurisdiction :wo,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/WO2006009219A1/en",
-  :title
-  "Thermosetting water-based coating composition and method of forming coating film",
-  :status :pending,
-  :id "WO2006009219A1",
-  :sourcing :authoritative,
-  :filing-year 2005,
-  :assignee :kansai-paint,
-  :cites
-  ["JP2002179988A"
-   "JP2002273332A"
-   "JP2003053255A"
-   "JP2003117481A"
-   "JP2004051784A"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:kansai-paint],
-  :jurisdiction :wo,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/WO2006019171A1/en",
-  :title "Water-based primer composition",
-  :status :pending,
-  :id "WO2006019171A1",
-  :sourcing :authoritative,
-  :filing-year 2005,
-  :assignee :kansai-paint,
-  :cites
-  ["JP2004018635A"
-   "JP2004051808A"
-   "JP2004115712A"
-   "JP2004156029A"
-   "JP2004331911A"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:kansai-paint],
-  :jurisdiction :wo,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/WO2007119760A1/en",
-  :title "Aqueous primer composition",
-  :status :pending,
-  :id "WO2007119760A1",
-  :sourcing :authoritative,
-  :filing-year 2007,
-  :assignee :kansai-paint,
-  :cites ["JP2005112953A" "JP2005126615A" "WO2005012449A1"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:kansai-paint],
-  :jurisdiction :wo,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/WO2007119762A1/en",
-  :title "Aqueous coating composition",
-  :status :pending,
-  :id "WO2007119762A1",
-  :sourcing :authoritative,
-  :filing-year 2007,
-  :assignee :kansai-paint,
-  :cites
-  ["JP2000154204A" "JP2005343966A" "JP2006176618A" "WO2006009219A1"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:microsoft],
-  :jurisdiction :wo,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/WO2010062607A2/en",
-  :title "Surfacing and management of window-specific controls",
-  :status :pending,
-  :id "WO2010062607A2",
-  :sourcing :authoritative,
-  :filing-year 2009,
-  :assignee :microsoft,
-  :term-years 20,
-  :open-license :none}
- {:assignees [:asahi-kasei-chemicals],
-  :jurisdiction :wo,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/WO2011096559A1/en",
-  :title
-  "Block polyisocyanate composition and coating composition containing same",
-  :status :pending,
-  :id "WO2011096559A1",
-  :sourcing :authoritative,
-  :filing-year 2011,
-  :assignee :asahi-kasei-chemicals,
-  :cites
-  ["EP0096210A1"
-   "EP0159117B1"
-   "EP0600314A1"
-   "JP2002521541A"
-   "JP2004528415A"
-   "JP2009155408A"
-   "JP2009155409A"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:kansai-paint],
-  :jurisdiction :wo,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/WO2012137881A1/en",
-  :title "Blocked polyisocyanate compound",
-  :status :pending,
-  :id "WO2012137881A1",
-  :sourcing :authoritative,
-  :filing-year 2012,
-  :assignee :kansai-paint,
-  :cites
-  ["JP2000290493A"
-   "JP2000327647A"
-   "JP2002322238A"
-   "JP2004026958A"
-   "JP2006160936A"
-   "JP2009155409A"
-   "JP2009191127A"
-   "WO2011096559A1"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:kansai-paint],
-  :jurisdiction :wo,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/WO2013151050A1/en",
-  :title "Aqueous paint composition and method for forming coating",
-  :status :pending,
-  :id "WO2013151050A1",
-  :sourcing :authoritative,
-  :filing-year 2013,
-  :assignee :kansai-paint,
-  :cites
-  ["JP2001205175A"
-   "JP2002153806A"
-   "JP2002322238A"
-   "JP2003105258A"
-   "JP2004026958A"
-   "JP2004358462A"
-   "JP2006056973A"
-   "JP2009155409A"
-   "JP2011016957A"
-   "JP2011506620A"
-   "WO2004061025A1"
-   "WO2012137881A1"
-   "WO2012137884A1"],
-  :term-years 20,
-  :open-license :none}
- {:jurisdiction :wo,
-  :essentiality 0.65,
-  :field "H01M",
-  :title "Solid-state battery electrolyte composition",
-  :status :pending,
-  :id "WO2020100000A1",
-  :sourcing :representative,
-  :filing-year 2019,
-  :assignee :toyota,
-  :grant-year nil,
   :term-years 20,
   :open-license :none}]
