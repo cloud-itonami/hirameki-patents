@@ -57,6 +57,16 @@
   :grant-year 1952,
   :term-years 20,
   :open-license :none}
+ {:jurisdiction :de,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/DE139666C/en",
+  :title "",
+  :status :pending,
+  :id "DE139666C",
+  :sourcing :authoritative,
+  :assignee :unassigned,
+  :term-years 20,
+  :open-license :none}
  {:assignees [:basf-se],
   :jurisdiction :de,
   :field "UNKNOWN",
@@ -532,6 +542,19 @@
   :filing-year 1983,
   :assignee :enzo-biochem,
   :grant-year 1992,
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:erich-pfeiffer :ing-erich-pfeiffer],
+  :jurisdiction :ep,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/EP0098373A2/en",
+  :title
+  "Spray or dosage pump including a pump housing and activating button",
+  :status :pending,
+  :id "EP0098373A2",
+  :sourcing :authoritative,
+  :filing-year 1983,
+  :assignee :erich-pfeiffer,
   :term-years 20,
   :open-license :none}
  {:assignees [:enzyme-technology],
@@ -4889,6 +4912,49 @@
    "US2492768"],
   :term-years 20,
   :open-license :none}
+ {:assignees [:usines-deeoufle],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2660177/en",
+  :title "Automatic tobacco feeding cigarette machine",
+  :status :granted,
+  :id "US2660177",
+  :sourcing :authoritative,
+  :filing-year 1952,
+  :assignee :usines-deeoufle,
+  :grant-year 1953,
+  :cites
+  ["US1608138"
+   "US1838110"
+   "US1971869"
+   "US548686"
+   "US554635"
+   "US671417"
+   "US819730"
+   "US844783"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:usines-decoufle],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2660178/en",
+  :title
+  "Formation of the roll of tobacco in cigarette-making machines",
+  :status :granted,
+  :id "US2660178",
+  :sourcing :authoritative,
+  :filing-year 1949,
+  :assignee :usines-decoufle,
+  :grant-year 1953,
+  :cites
+  ["US1608138"
+   "US2423554"
+   "US548686"
+   "US554635"
+   "US671417"
+   "US844783"],
+  :term-years 20,
+  :open-license :none}
  {:assignees [:bell-telephone-laboratories],
   :jurisdiction :us,
   :field "UNKNOWN",
@@ -5603,6 +5669,20 @@
    "US2805718"],
   :term-years 20,
   :open-license :none}
+ {:assignees [:usines-decoufle],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2938521/en",
+  :title "Tobacco-manipulating machines",
+  :status :granted,
+  :id "US2938521",
+  :sourcing :authoritative,
+  :filing-year 1957,
+  :assignee :usines-decoufle,
+  :grant-year 1960,
+  :cites ["US2264725"],
+  :term-years 20,
+  :open-license :none}
  {:assignees [:champion-paper-and-fibre],
   :jurisdiction :us,
   :field "UNKNOWN",
@@ -5874,6 +5954,50 @@
   :cites ["US2774747" "US2808352" "US2851380"],
   :term-years 20,
   :open-license :none}
+ {:assignees [:usines-decoufle],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3030966/en",
+  :title "Filler forming mechanism",
+  :status :granted,
+  :id "US3030966",
+  :sourcing :authoritative,
+  :filing-year 1957,
+  :assignee :usines-decoufle,
+  :grant-year 1962,
+  :cites
+  ["DE431456C"
+   "DE673628C"
+   "FR1098119A"
+   "GB764551A"
+   "US140693"
+   "US1808794"
+   "US2660178"
+   "US7226"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:usines-decoufle],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3032041/en",
+  :title "Tobacco-manipulating machines",
+  :status :granted,
+  :id "US3032041",
+  :sourcing :authoritative,
+  :filing-year 1957,
+  :assignee :usines-decoufle,
+  :grant-year 1962,
+  :cites
+  ["US1721117"
+   "US1796522"
+   "US2111672"
+   "US2432938"
+   "US2660177"
+   "US2660178"
+   "US2766758"
+   "US969992"],
+  :term-years 20,
+  :open-license :none}
  {:jurisdiction :us,
   :field "UNKNOWN",
   :source "https://patents.google.com/patent/US30360/en",
@@ -6050,6 +6174,20 @@
    "US2709666"
    "US2737465"
    "US2925332"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:usines-decoufle],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3088467/en",
+  :title "Method of forming a continuous tobacco filler",
+  :status :granted,
+  :id "US3088467",
+  :sourcing :authoritative,
+  :filing-year 1961,
+  :assignee :usines-decoufle,
+  :grant-year 1963,
+  :cites ["FR1179992A" "GB854736A" "US1808795" "US2660178"],
   :term-years 20,
   :open-license :none}
  {:assignees [:mead],
@@ -6354,6 +6492,20 @@
   :assignee :westinghouse-electric,
   :grant-year 1965,
   :cites ["US2710853" "US2867609"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:usines-decoufle],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3192931/en",
+  :title "Tobacco-manipulating machines",
+  :status :granted,
+  :id "US3192931",
+  :sourcing :authoritative,
+  :filing-year 1961,
+  :assignee :usines-decoufle,
+  :grant-year 1965,
+  :cites ["US1721117" "US1968018" "US2660177"],
   :term-years 20,
   :open-license :none}
  {:jurisdiction :us,
@@ -8897,144 +9049,5 @@
    "US3555451"
    "US3576583"
    "US3641454"],
-  :term-years 20,
-  :open-license :none}
- {:jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3704282/en",
-  :title "Catecholamine antigens and antibodies specific therefor",
-  :status :granted,
-  :id "US3704282",
-  :sourcing :authoritative,
-  :filing-year 1971,
-  :assignee :unassigned,
-  :grant-year 1972,
-  :term-years 20,
-  :open-license :none}
- {:assignees [:f-hoffmann-la-roche],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3709868/en",
-  :title "Opium alkaloid antigens and antibodies specific therefor",
-  :status :granted,
-  :id "US3709868",
-  :sourcing :authoritative,
-  :filing-year 1971,
-  :assignee :f-hoffmann-la-roche,
-  :grant-year 1973,
-  :cites ["DE116806C" "US1906236" "US2301532" "US2372066"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:us-atomic-energy-commission-aec],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3710933/en",
-  :title "Multisensor particle sorter",
-  :status :granted,
-  :id "US3710933",
-  :sourcing :authoritative,
-  :filing-year 1971,
-  :assignee :us-atomic-energy-commission-aec,
-  :grant-year 1973,
-  :cites ["US3380584" "US3560754" "US3675768"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:optical-coating-laboratory],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3711708/en",
-  :title
-  "Rapid scan identifier for use in infrared absorption spectroscopy",
-  :status :granted,
-  :id "US3711708",
-  :sourcing :authoritative,
-  :filing-year 1971,
-  :assignee :optical-coating-laboratory,
-  :grant-year 1973,
-  :cites
-  ["US2970513"
-   "US3120608"
-   "US3144498"
-   "US3497302"
-   "US3536558"
-   "US3537797"
-   "US3554648"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:general-electric],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3712746/en",
-  :title
-  "Device for optically determining microbial colony population on growth surface",
-  :status :granted,
-  :id "US3712746",
-  :sourcing :authoritative,
-  :filing-year 1971,
-  :assignee :general-electric,
-  :grant-year 1973,
-  :cites ["US2157438" "US2427790" "US2495912"],
-  :term-years 20,
-  :open-license :none}
- {:jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3712885/en",
-  :title
-  "Purine-ribofuranoside-3&#39;,5&#39;-cyclophosphates and process for their preparation",
-  :status :granted,
-  :id "US3712885",
-  :sourcing :authoritative,
-  :filing-year 1969,
-  :assignee :unassigned,
-  :grant-year 1973,
-  :term-years 20,
-  :open-license :none}
- {:assignees [:abbott-laboratories],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3715427/en",
-  :title "Stabilized erythrocytes and methods therefor",
-  :status :granted,
-  :id "US3715427",
-  :sourcing :authoritative,
-  :filing-year 1970,
-  :assignee :abbott-laboratories,
-  :grant-year 1973,
-  :cites ["US3057775"],
-  :term-years 20,
-  :open-license :none}
- {:jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3716369/en",
-  :title
-  "Process for cooking foods in polyalkylene teraphalate film bag",
-  :status :granted,
-  :id "US3716369",
-  :sourcing :authoritative,
-  :filing-year 1970,
-  :assignee :unassigned,
-  :grant-year 1973,
-  :cites
-  ["CA703413A"
-   "US3008837"
-   "US3108881"
-   "US3132029"
-   "US3204760"
-   "US3262787"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:kuraray :sud-west-chemie],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3716395/en",
-  :title
-  "Process of producing pigmented, a hardenable resin containing paper sheets, and products",
-  :status :granted,
-  :id "US3716395",
-  :sourcing :authoritative,
-  :filing-year 1968,
-  :assignee :kuraray,
-  :grant-year 1973,
-  :cites ["US3197331" "US3200008" "US3288632" "US3326712" "US3493419"],
   :term-years 20,
   :open-license :none}]

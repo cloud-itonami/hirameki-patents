@@ -1,4 +1,143 @@
-[{:assignees [:farrand-optical],
+[{:jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3704282/en",
+  :title "Catecholamine antigens and antibodies specific therefor",
+  :status :granted,
+  :id "US3704282",
+  :sourcing :authoritative,
+  :filing-year 1971,
+  :assignee :unassigned,
+  :grant-year 1972,
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:f-hoffmann-la-roche],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3709868/en",
+  :title "Opium alkaloid antigens and antibodies specific therefor",
+  :status :granted,
+  :id "US3709868",
+  :sourcing :authoritative,
+  :filing-year 1971,
+  :assignee :f-hoffmann-la-roche,
+  :grant-year 1973,
+  :cites ["DE116806C" "US1906236" "US2301532" "US2372066"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:us-atomic-energy-commission-aec],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3710933/en",
+  :title "Multisensor particle sorter",
+  :status :granted,
+  :id "US3710933",
+  :sourcing :authoritative,
+  :filing-year 1971,
+  :assignee :us-atomic-energy-commission-aec,
+  :grant-year 1973,
+  :cites ["US3380584" "US3560754" "US3675768"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:optical-coating-laboratory],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3711708/en",
+  :title
+  "Rapid scan identifier for use in infrared absorption spectroscopy",
+  :status :granted,
+  :id "US3711708",
+  :sourcing :authoritative,
+  :filing-year 1971,
+  :assignee :optical-coating-laboratory,
+  :grant-year 1973,
+  :cites
+  ["US2970513"
+   "US3120608"
+   "US3144498"
+   "US3497302"
+   "US3536558"
+   "US3537797"
+   "US3554648"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:general-electric],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3712746/en",
+  :title
+  "Device for optically determining microbial colony population on growth surface",
+  :status :granted,
+  :id "US3712746",
+  :sourcing :authoritative,
+  :filing-year 1971,
+  :assignee :general-electric,
+  :grant-year 1973,
+  :cites ["US2157438" "US2427790" "US2495912"],
+  :term-years 20,
+  :open-license :none}
+ {:jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3712885/en",
+  :title
+  "Purine-ribofuranoside-3&#39;,5&#39;-cyclophosphates and process for their preparation",
+  :status :granted,
+  :id "US3712885",
+  :sourcing :authoritative,
+  :filing-year 1969,
+  :assignee :unassigned,
+  :grant-year 1973,
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:abbott-laboratories],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3715427/en",
+  :title "Stabilized erythrocytes and methods therefor",
+  :status :granted,
+  :id "US3715427",
+  :sourcing :authoritative,
+  :filing-year 1970,
+  :assignee :abbott-laboratories,
+  :grant-year 1973,
+  :cites ["US3057775"],
+  :term-years 20,
+  :open-license :none}
+ {:jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3716369/en",
+  :title
+  "Process for cooking foods in polyalkylene teraphalate film bag",
+  :status :granted,
+  :id "US3716369",
+  :sourcing :authoritative,
+  :filing-year 1970,
+  :assignee :unassigned,
+  :grant-year 1973,
+  :cites
+  ["CA703413A"
+   "US3008837"
+   "US3108881"
+   "US3132029"
+   "US3204760"
+   "US3262787"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:kuraray :sud-west-chemie],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3716395/en",
+  :title
+  "Process of producing pigmented, a hardenable resin containing paper sheets, and products",
+  :status :granted,
+  :id "US3716395",
+  :sourcing :authoritative,
+  :filing-year 1968,
+  :assignee :kuraray,
+  :grant-year 1973,
+  :cites ["US3197331" "US3200008" "US3288632" "US3326712" "US3493419"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:farrand-optical],
   :jurisdiction :us,
   :field "UNKNOWN",
   :source "https://patents.google.com/patent/US3719410/en",
@@ -1407,6 +1546,21 @@
   :cites ["US3462416" "US3701772" "US3712885"],
   :term-years 20,
   :open-license :none}
+ {:assignees [:summa],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3896217/en",
+  :title
+  "Method and apparatus for radioimmunoassay with regeneration of immunoadsorbent",
+  :status :granted,
+  :id "US3896217",
+  :sourcing :authoritative,
+  :filing-year 1973,
+  :assignee :summa,
+  :grant-year 1975,
+  :cites ["US3555143" "US3592888" "US3720760"],
+  :term-years 20,
+  :open-license :none}
  {:assignees [:inventing],
   :jurisdiction :us,
   :field "UNKNOWN",
@@ -1497,6 +1651,28 @@
   :assignee :general-electric,
   :grant-year 1975,
   :cites ["US3565987" "US3639558" "US3791932"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:miles-laboratories],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3905767/en",
+  :title
+  "Process for qualitative analysis or quantitation of antigens or antibodies",
+  :status :granted,
+  :id "US3905767",
+  :sourcing :authoritative,
+  :filing-year 1974,
+  :assignee :miles-laboratories,
+  :grant-year 1975,
+  :cites
+  ["US2666355"
+   "US3614231"
+   "US3730842"
+   "US3734622"
+   "US3754867"
+   "US3770380"
+   "US3776817"],
   :term-years 20,
   :open-license :none}
  {:assignees [:united-states-department-of-commerce],
@@ -2160,6 +2336,19 @@
   :sourcing :authoritative,
   :filing-year 1974,
   :assignee :unassigned,
+  :grant-year 1976,
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:community-blood-concil-of-greater-new-york],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3994870/en",
+  :title "Purification of hepatitis B surface antigen",
+  :status :granted,
+  :id "US3994870",
+  :sourcing :authoritative,
+  :filing-year 1974,
+  :assignee :community-blood-concil-of-greater-new-york,
   :grant-year 1976,
   :term-years 20,
   :open-license :none}
@@ -3719,6 +3908,35 @@
   :grant-year 1980,
   :term-years 20,
   :open-license :none}
+ {:assignees [:calbiochem-behring],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US4228237/en",
+  :title "Methods for the detection and determination of ligands",
+  :status :granted,
+  :id "US4228237",
+  :sourcing :authoritative,
+  :filing-year 1978,
+  :assignee :calbiochem-behring,
+  :grant-year 1980,
+  :cites ["BE841179A" "US4002532" "US4016043" "US4134792"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:miles-laboratories],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US4230797/en",
+  :title
+  "Heterogenous specific binding assay employing a coenzyme as label",
+  :status :granted,
+  :id "US4230797",
+  :sourcing :authoritative,
+  :filing-year 1978,
+  :assignee :miles-laboratories,
+  :grant-year 1980,
+  :cites ["US3659104" "US3817837" "US3839153" "US3880934" "US3998943"],
+  :term-years 20,
+  :open-license :none}
  {:assignees [:research],
   :jurisdiction :us,
   :field "UNKNOWN",
@@ -4050,6 +4268,20 @@
   :assignee :olympus-optical,
   :grant-year 1981,
   :cites ["US3657537" "US3950649" "US4058732" "US4172227"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:e-y-laboratories],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US4289747/en",
+  :title "Immunological determination using lectin",
+  :status :granted,
+  :id "US4289747",
+  :sourcing :authoritative,
+  :filing-year 1978,
+  :assignee :e-y-laboratories,
+  :grant-year 1981,
+  :cites ["US3555143" "US4053284" "US4098876"],
   :term-years 20,
   :open-license :none}
  {:assignees [:cetus],
@@ -4839,6 +5071,42 @@
   :assignee :unassigned,
   :grant-year 1983,
   :cites ["GB805830A"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:ortho-diagnostic-systems],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US4434150/en",
+  :title
+  "Immunological reagents employing polymeric backbone possessing reactive functional groups",
+  :status :granted,
+  :id "US4434150",
+  :sourcing :authoritative,
+  :filing-year 1981,
+  :assignee :ortho-diagnostic-systems,
+  :grant-year 1984,
+  :cites
+  ["CA1107644A"
+   "US3641235"
+   "US3652492"
+   "US3761357"
+   "US3764477"
+   "US3853987"
+   "US3857931"
+   "US3970597"
+   "US3996345"
+   "US4035316"
+   "US4108972"
+   "US4166105"
+   "US4169137"
+   "US4174384"
+   "US4199559"
+   "US4220722"
+   "US4225784"
+   "US4228237"
+   "US4231999"
+   "US4254096"
+   "US4267234"],
   :term-years 20,
   :open-license :none}
  {:assignees [:ei-du-pont-de-nemours-and],
@@ -5891,6 +6159,34 @@
   :assignee :university-of-massachusetts-system,
   :grant-year 1987,
   :cites ["US3480613" "US3936439" "US4267171"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:wakunaga-pharmaceutical],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US4667025/en",
+  :title "Oligonucleotide derivatives",
+  :status :granted,
+  :id "US4667025",
+  :sourcing :authoritative,
+  :filing-year 1985,
+  :assignee :wakunaga-pharmaceutical,
+  :grant-year 1987,
+  :cites ["US3873521" "US4024249" "US4401796"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:university-patents],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US4668777/en",
+  :title "Phosphoramidite nucleoside compounds",
+  :status :granted,
+  :id "US4668777",
+  :sourcing :authoritative,
+  :filing-year 1984,
+  :assignee :university-patents,
+  :grant-year 1987,
+  :cites ["US3534017"],
   :term-years 20,
   :open-license :none}
  {:assignees [:ei-du-pont-de-nemours-and],
@@ -7501,6 +7797,17 @@
    "US4591570"],
   :term-years 20,
   :open-license :none}
+ {:jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US548686/en",
+  :title "Cigar-bunching machine",
+  :status :granted,
+  :id "US548686",
+  :sourcing :authoritative,
+  :assignee :unassigned,
+  :grant-year 1895,
+  :term-years 20,
+  :open-license :none}
  {:assignees [:hyseq],
   :jurisdiction :us,
   :field "UNKNOWN",
@@ -8282,6 +8589,19 @@
    "EP0130523A2"
    "US4395486"
    "WO1984004332A1"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:georgetown-university],
+  :jurisdiction :wo,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/WO1986005816A1/en",
+  :title "Type-specific papillomavirus dna sequences and peptides",
+  :status :pending,
+  :id "WO1986005816A1",
+  :sourcing :authoritative,
+  :filing-year 1986,
+  :assignee :georgetown-university,
+  :cites ["US4358535" "US4419446" "US4551270"],
   :term-years 20,
   :open-license :none}
  {:assignees [:salk-institute-for-biological-studies],
