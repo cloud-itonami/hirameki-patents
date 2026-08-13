@@ -1,4 +1,116 @@
-[{:assignees [:akzona],
+[{:assignees [:coulter-electronics],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3746976/en",
+  :title "Self-cleaning aperture tube for coulter study apparatus",
+  :status :granted,
+  :id "US3746976",
+  :sourcing :authoritative,
+  :filing-year 1971,
+  :assignee :coulter-electronics,
+  :grant-year 1973,
+  :cites ["US3299354" "US3583209"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:phillips-petroleum],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3749593/en",
+  :title "Laminated materials and method of preparation",
+  :status :granted,
+  :id "US3749593",
+  :sourcing :authoritative,
+  :filing-year 1971,
+  :assignee :phillips-petroleum,
+  :grant-year 1973,
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:f-hoffmann-la-roche],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3755086/en",
+  :title
+  "Diagnostic method utilizing synthetic deoxyrilionucleotide oligomer template",
+  :status :granted,
+  :id "US3755086",
+  :sourcing :authoritative,
+  :filing-year 1971,
+  :assignee :f-hoffmann-la-roche,
+  :grant-year 1973,
+  :cites ["US3597318"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:baxter-laboratories],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3764214/en",
+  :title "Photometer apparatus",
+  :status :granted,
+  :id "US3764214",
+  :sourcing :authoritative,
+  :filing-year 1972,
+  :assignee :baxter-laboratories,
+  :grant-year 1973,
+  :cites ["US3319512"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:f-hoffmann-la-roche],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3766162/en",
+  :title "Barbituric acid antigens and antibodies specific therefor",
+  :status :granted,
+  :id "US3766162",
+  :sourcing :authoritative,
+  :filing-year 1971,
+  :assignee :f-hoffmann-la-roche,
+  :grant-year 1973,
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:international-business-machines],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3767490/en",
+  :title "Process for etching organic coating layers",
+  :status :granted,
+  :id "US3767490",
+  :sourcing :authoritative,
+  :filing-year 1971,
+  :assignee :international-business-machines,
+  :grant-year 1973,
+  :cites ["US2443373" "US3705055"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:tokyo-shibaura-electric],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3767494/en",
+  :title
+  "Method for manufacturing a semiconductor photosensitive device",
+  :status :granted,
+  :id "US3767494",
+  :sourcing :authoritative,
+  :filing-year 1971,
+  :assignee :tokyo-shibaura-electric,
+  :grant-year 1973,
+  :cites ["US3616345" "US3616348"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:united-states-department-of-the-army],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3770380/en",
+  :title "Article and method for multiple immune adherence assay",
+  :status :granted,
+  :id "US3770380",
+  :sourcing :authoritative,
+  :filing-year 1971,
+  :assignee :united-states-department-of-the-army,
+  :grant-year 1973,
+  :cites ["US3415361" "US3502437" "US3666421"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:akzona],
   :jurisdiction :us,
   :field "UNKNOWN",
   :source "https://patents.google.com/patent/US3770383/en",
@@ -962,6 +1074,27 @@
   :assignee :early-warning,
   :grant-year 1975,
   :cites ["US3236732" "US3654090"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:amf],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3876738/en",
+  :title "Process for producing microporous films and products",
+  :status :granted,
+  :id "US3876738",
+  :sourcing :authoritative,
+  :filing-year 1973,
+  :assignee :amf,
+  :grant-year 1975,
+  :cites
+  ["US2783894"
+   "US3000757"
+   "US3190765"
+   "US3208875"
+   "US3642668"
+   "US3699038"
+   "US3703570"],
   :term-years 20,
   :open-license :none}
  {:assignees [:syva],
@@ -3191,6 +3324,20 @@
   :cites ["US3782823" "US3972616" "US4018530"],
   :term-years 20,
   :open-license :none}
+ {:assignees [:technion-research-and-development-foundation],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US4205952/en",
+  :title "Specific binding assay method and reagent means",
+  :status :granted,
+  :id "US4205952",
+  :sourcing :authoritative,
+  :filing-year 1977,
+  :assignee :technion-research-and-development-foundation,
+  :grant-year 1980,
+  :cites ["US3899298" "US3966556" "US4022876" "US4036823"],
+  :term-years 20,
+  :open-license :none}
  {:assignees [:gte-laboratories],
   :jurisdiction :us,
   :field "UNKNOWN",
@@ -3668,6 +3815,20 @@
   :cites ["US3875401" "US4083056" "US4250376"],
   :term-years 20,
   :open-license :none}
+ {:assignees [:intec],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US4297587/en",
+  :title "Absolute DC system for a laser inspection system",
+  :status :granted,
+  :id "US4297587",
+  :sourcing :authoritative,
+  :filing-year 1980,
+  :assignee :intec,
+  :grant-year 1981,
+  :cites ["US3866054" "US3900265" "US3958127"],
+  :term-years 20,
+  :open-license :none}
  {:assignees [:burroughs-wellcome-usa],
   :jurisdiction :us,
   :field "UNKNOWN",
@@ -3694,6 +3855,20 @@
   :assignee :leland-stanford-junior-university,
   :grant-year 1981,
   :cites ["US3730844" "US4072574" "US4139346"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:fuji-photo-film],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US4302671/en",
+  :title "Radiation image read-out device",
+  :status :granted,
+  :id "US4302671",
+  :sourcing :authoritative,
+  :filing-year 1979,
+  :assignee :fuji-photo-film,
+  :grant-year 1981,
+  :cites ["US3859527" "US3975637"],
   :term-years 20,
   :open-license :none}
  {:jurisdiction :us,
@@ -4037,6 +4212,37 @@
    "US4146603"],
   :term-years 20,
   :open-license :none}
+ {:assignees
+  [:istituto-sieroterapico-e-vaccinogeno-toscano-sclavo-spa],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US4388295/en",
+  :title
+  "Method and composition for determining human chorionic somatotropin",
+  :status :granted,
+  :id "US4388295",
+  :sourcing :authoritative,
+  :filing-year 1980,
+  :assignee :istituto-sieroterapico-e-vaccinogeno-toscano-sclavo-spa,
+  :grant-year 1983,
+  :cites ["US4034073" "US4107284" "US4120945" "US4235960" "US4256725"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:us-department-of-energy],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US4389670/en",
+  :title
+  "Electronic method for autofluorography of macromolecules on two-D matrices",
+  :status :granted,
+  :id "US4389670",
+  :sourcing :authoritative,
+  :filing-year 1981,
+  :assignee :us-department-of-energy,
+  :grant-year 1983,
+  :cites ["US4319271"],
+  :term-years 20,
+  :open-license :none}
  {:assignees [:international-paper],
   :jurisdiction :us,
   :field "UNKNOWN",
@@ -4241,6 +4447,31 @@
   :cites ["GB805830A"],
   :term-years 20,
   :open-license :none}
+ {:assignees [:ei-du-pont-de-nemours-and],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US4434236/en",
+  :title
+  "Immunoassay wherein labeled antibody is displaced from immobilized analyte-analogue",
+  :status :granted,
+  :id "US4434236",
+  :sourcing :authoritative,
+  :filing-year 1982,
+  :assignee :ei-du-pont-de-nemours-and,
+  :grant-year 1984,
+  :cites
+  ["US4039652"
+   "US4119709"
+   "US4125492"
+   "US4185084"
+   "US4235869"
+   "US4235960"
+   "US4256725"
+   "US4257884"
+   "US4298593"
+   "US4330299"],
+  :term-years 20,
+  :open-license :none}
  {:assignees [:boston-biomedical-research-institute],
   :jurisdiction :us,
   :field "UNKNOWN",
@@ -4280,6 +4511,31 @@
   :assignee :unassigned,
   :grant-year 1984,
   :cites ["US3932807" "US3999122" "US4103227" "US4180771"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:ei-du-pont-de-nemours-and],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US4455370/en",
+  :title
+  "Transferring separated components in gel electrophoresis via nylon membrane",
+  :status :granted,
+  :id "US4455370",
+  :sourcing :authoritative,
+  :filing-year 1983,
+  :assignee :ei-du-pont-de-nemours-and,
+  :grant-year 1984,
+  :cites
+  ["US2783894"
+   "US3408315"
+   "US3553067"
+   "US3594263"
+   "US3759773"
+   "US3843324"
+   "US3876738"
+   "US4048038"
+   "US4106920"
+   "US4128470"],
   :term-years 20,
   :open-license :none}
  {:assignees [:university-patents],
@@ -4483,6 +4739,20 @@
    "US4243565"
    "US4273695"
    "US4455331"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:new-york-university-nyu],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US4533628/en",
+  :title "Colony hybridization method",
+  :status :granted,
+  :id "US4533628",
+  :sourcing :authoritative,
+  :filing-year 1983,
+  :assignee :new-york-university-nyu,
+  :grant-year 1985,
+  :cites ["US4358535"],
   :term-years 20,
   :open-license :none}
  {:assignees [:massachusetts-institute-of-technology],
@@ -4700,6 +4970,20 @@
    "US4280516"
    "US4306573"
    "US548686"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:immunex],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US4568649/en",
+  :title "Immediate ligand detection assay",
+  :status :granted,
+  :id "US4568649",
+  :sourcing :authoritative,
+  :filing-year 1983,
+  :assignee :immunex,
+  :grant-year 1986,
+  :cites ["US4000252" "US4108972" "US4161515" "US4271139"],
   :term-years 20,
   :open-license :none}
  {:assignees [:university-of-california-san-diego-ucsd],
@@ -7196,6 +7480,21 @@
   :filing-year 1983,
   :assignee :unassigned,
   :cites ["EP0062286A1" "EP0063879A2" "WO1982002060A1"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:gen-probe],
+  :jurisdiction :wo,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/WO1984002721A1/en",
+  :title
+  "Method for detecting, identifying, and quantitating organisms and viruses",
+  :status :pending,
+  :id "WO1984002721A1",
+  :sourcing :authoritative,
+  :filing-year 1984,
+  :assignee :gen-probe,
+  :cites
+  ["US4228238" "US4302204" "US4358535" "US4416988" "WO1983001073A1"],
   :term-years 20,
   :open-license :none}
  {:assignees [:national-research-development-uk],
