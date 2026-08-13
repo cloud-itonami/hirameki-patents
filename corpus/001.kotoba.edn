@@ -1,4 +1,176 @@
-[{:jurisdiction :us,
+[{:assignees [:technicon-instruments],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3679312/en",
+  :title
+  "Method and apparatus for measuring bioluminescence or chemiluminescence for quantitative analysis of samples",
+  :status :granted,
+  :id "US3679312",
+  :sourcing :authoritative,
+  :filing-year 1971,
+  :assignee :technicon-instruments,
+  :grant-year 1972,
+  :cites ["US2549574"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:biophysics-systems],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3684377/en",
+  :title
+  "Method for analysis of blood by optical analysis of living cells",
+  :status :granted,
+  :id "US3684377",
+  :sourcing :authoritative,
+  :filing-year 1970,
+  :assignee :biophysics-systems,
+  :grant-year 1972,
+  :cites ["US2875666" "US3497690"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:general-electric],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3685140/en",
+  :title "Short channel field-effect transistors",
+  :status :granted,
+  :id "US3685140",
+  :sourcing :authoritative,
+  :filing-year 1969,
+  :assignee :general-electric,
+  :grant-year 1972,
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:leland-stanford-junior-university],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3687808/en",
+  :title "Synthetic polynucleotides",
+  :status :granted,
+  :id "US3687808",
+  :sourcing :authoritative,
+  :filing-year 1969,
+  :assignee :leland-stanford-junior-university,
+  :grant-year 1972,
+  :term-years 20,
+  :open-license :none}
+ {:jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3695848/en",
+  :title "Gas detecting device",
+  :status :granted,
+  :id "US3695848",
+  :sourcing :authoritative,
+  :filing-year 1970,
+  :assignee :unassigned,
+  :grant-year 1972,
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:westinghouse-electric],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3697227/en",
+  :title "Chemical constituent sampler",
+  :status :granted,
+  :id "US3697227",
+  :sourcing :authoritative,
+  :filing-year 1966,
+  :assignee :westinghouse-electric,
+  :grant-year 1972,
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:nat-res-dev],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3699222/en",
+  :title "Production of viral interfering substances",
+  :status :granted,
+  :id "US3699222",
+  :sourcing :authoritative,
+  :filing-year 1968,
+  :assignee :nat-res-dev,
+  :grant-year 1972,
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:shiney],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3699803/en",
+  :title
+  "Semiconductor element for detecting gases and meter for measuring component concentration of a gas mixture",
+  :status :granted,
+  :id "US3699803",
+  :sourcing :authoritative,
+  :filing-year 1971,
+  :assignee :shiney,
+  :grant-year 1972,
+  :cites ["DE2005497A1" "US3039053" "US3507145"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:technicon-instruments],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3700555/en",
+  :title "Method and apparatus for lymphocyte separation from blood",
+  :status :granted,
+  :id "US3700555",
+  :sourcing :authoritative,
+  :filing-year 1970,
+  :assignee :technicon-instruments,
+  :grant-year 1972,
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:ici-australia],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3700609/en",
+  :title "Graft copolymers",
+  :status :granted,
+  :id "US3700609",
+  :sourcing :authoritative,
+  :filing-year 1971,
+  :assignee :ici-australia,
+  :grant-year 1972,
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:yamasa-shoyu],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3701772/en",
+  :title "Production of nucleotide anhydrides",
+  :status :granted,
+  :id "US3701772",
+  :sourcing :authoritative,
+  :filing-year 1970,
+  :assignee :yamasa-shoyu,
+  :grant-year 1972,
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:avco],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3702973/en",
+  :title
+  "Laser or ozone generator in which a broad electron beam with a sustainer field produce a large area, uniform discharge",
+  :status :granted,
+  :id "US3702973",
+  :sourcing :authoritative,
+  :filing-year 1970,
+  :assignee :avco,
+  :grant-year 1972,
+  :cites
+  ["US2030492"
+   "US2333842"
+   "US2373661"
+   "US2429217"
+   "US2686275"
+   "US3403353"
+   "US3555451"
+   "US3576583"
+   "US3641454"],
+  :term-years 20,
+  :open-license :none}
+ {:jurisdiction :us,
   :field "UNKNOWN",
   :source "https://patents.google.com/patent/US3704282/en",
   :title "Catecholamine antigens and antibodies specific therefor",
@@ -2111,6 +2283,19 @@
   :cites ["US3462416" "US3701772" "US3712885" "US3872098"],
   :term-years 20,
   :open-license :none}
+ {:jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3960884/en",
+  :title "Method of preparing racemic biotin",
+  :status :granted,
+  :id "US3960884",
+  :sourcing :authoritative,
+  :filing-year 1974,
+  :assignee :unassigned,
+  :grant-year 1976,
+  :cites ["US2460225" "US2508457" "US2571238"],
+  :term-years 20,
+  :open-license :none}
  {:assignees [:sigma-chemical],
   :jurisdiction :us,
   :field "UNKNOWN",
@@ -3298,6 +3483,20 @@
    "US4000252"],
   :term-years 20,
   :open-license :none}
+ {:assignees [:purdue-research-foundation],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US4108603/en",
+  :title
+  "Method for rapid analysis of hemoglobin variants by high speed liquid chromatography",
+  :status :granted,
+  :id "US4108603",
+  :sourcing :authoritative,
+  :filing-year 1977,
+  :assignee :purdue-research-foundation,
+  :grant-year 1978,
+  :term-years 20,
+  :open-license :none}
  {:assignees [:eastman-kodak],
   :jurisdiction :us,
   :field "UNKNOWN",
@@ -4116,6 +4315,26 @@
   :cites ["US4002899" "US4083056" "US4132888" "US4189232"],
   :term-years 20,
   :open-license :none}
+ {:jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US4251360/en",
+  :title
+  "Method and apparatus for the detection of a specific binding protein",
+  :status :granted,
+  :id "US4251360",
+  :sourcing :authoritative,
+  :filing-year 1979,
+  :assignee :unassigned,
+  :grant-year 1981,
+  :cites
+  ["US3203865"
+   "US3268441"
+   "US3901654"
+   "US3919075"
+   "US4088746"
+   "US4089778"],
+  :term-years 20,
+  :open-license :none}
  {:assignees [:jdja-services],
   :jurisdiction :us,
   :field "UNKNOWN",
@@ -4171,6 +4390,26 @@
   :assignee :honeywell,
   :grant-year 1981,
   :cites ["US4002899" "US4078172"],
+  :term-years 20,
+  :open-license :none}
+ {:jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US4264327/en",
+  :title
+  "Method and apparatus for automatic competitive binding analysis",
+  :status :granted,
+  :id "US4264327",
+  :sourcing :authoritative,
+  :filing-year 1978,
+  :assignee :unassigned,
+  :grant-year 1981,
+  :cites
+  ["US3320148"
+   "US3320149"
+   "US4009005"
+   "US4128628"
+   "US4141687"
+   "US4153416"],
   :term-years 20,
   :open-license :none}
  {:assignees [:university-of-california-san-diego-ucsd],
@@ -4243,6 +4482,30 @@
    "US4230633"],
   :term-years 20,
   :open-license :none}
+ {:assignees [:technicon-instruments],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US4277560/en",
+  :title
+  "Enzyme immunoassays using immobilized reagents in a flowing stream",
+  :status :granted,
+  :id "US4277560",
+  :sourcing :authoritative,
+  :filing-year 1978,
+  :assignee :technicon-instruments,
+  :grant-year 1981,
+  :cites
+  ["US3902970"
+   "US3925018"
+   "US3975237"
+   "US3993451"
+   "US4009005"
+   "US4022577"
+   "US4125492"
+   "US4141687"
+   "US4200625"],
+  :term-years 20,
+  :open-license :none}
  {:assignees [:harvard-university],
   :jurisdiction :us,
   :field "UNKNOWN",
@@ -4254,6 +4517,19 @@
   :filing-year 1979,
   :assignee :harvard-university,
   :grant-year 1981,
+  :term-years 20,
+  :open-license :none}
+ {:jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US4282287/en",
+  :title "Biochemical avidin-biotin multiple-layer system",
+  :status :granted,
+  :id "US4282287",
+  :sourcing :authoritative,
+  :filing-year 1980,
+  :assignee :unassigned,
+  :grant-year 1981,
+  :cites ["US4132528" "US4134792" "US4168300"],
   :term-years 20,
   :open-license :none}
  {:assignees [:olympus-optical],
@@ -5200,6 +5476,29 @@
    "US4128470"],
   :term-years 20,
   :open-license :none}
+ {:assignees [:becton-dickinson-and],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US4456689/en",
+  :title
+  "Competitive protein binding assay using an organosilane-silica gel separation medium",
+  :status :granted,
+  :id "US4456689",
+  :sourcing :authoritative,
+  :filing-year 1982,
+  :assignee :becton-dickinson-and,
+  :grant-year 1984,
+  :cites
+  ["US4173571"
+   "US4180642"
+   "US4201881"
+   "US4223131"
+   "US4241062"
+   "US4248992"
+   "US4265634"
+   "US4360471"],
+  :term-years 20,
+  :open-license :none}
  {:assignees [:university-patents],
   :jurisdiction :us,
   :field "UNKNOWN",
@@ -5307,6 +5606,20 @@
   :assignee :orion,
   :grant-year 1984,
   :cites ["US4139346" "US4302204" "US4358535" "US4359535"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:massachusetts-institute-of-technology],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US4487838/en",
+  :title "Radio-labelled cross-linking reagents",
+  :status :granted,
+  :id "US4487838",
+  :sourcing :authoritative,
+  :filing-year 1982,
+  :assignee :massachusetts-institute-of-technology,
+  :grant-year 1984,
+  :cites ["DE2917001A1" "US3940420"],
   :term-years 20,
   :open-license :none}
  {:assignees [:miles-laboratories],
@@ -8479,6 +8792,29 @@
   :assignee :gen-probe,
   :cites
   ["US4228238" "US4302204" "US4358535" "US4416988" "WO1983001073A1"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:molecular-biosystems],
+  :jurisdiction :wo,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/WO1984003285A1/en",
+  :title
+  "Defined sequence single strand oligonucleotides incorporating reporter groups, process for the chemical synthesis thereof, and nucleosides useful in such synthesis",
+  :status :pending,
+  :id "WO1984003285A1",
+  :sourcing :authoritative,
+  :filing-year 1984,
+  :assignee :molecular-biosystems,
+  :cites
+  ["EP0063879A2"
+   "US4199498"
+   "US4247544"
+   "US4267171"
+   "US4336188"
+   "US4358535"
+   "WO1983001459A1"
+   "WO1983002286A1"
+   "WO1983003620A1"],
   :term-years 20,
   :open-license :none}
  {:assignees [:national-research-development-uk],
