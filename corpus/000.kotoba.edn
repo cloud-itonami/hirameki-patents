@@ -459,6 +459,28 @@
   :assignee :genentech,
   :term-years 20,
   :open-license :none}
+ {:assignees
+  [:national-research-development-uk
+   :uk-secretary-of-state-for-social-services],
+  :jurisdiction :ep,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/EP0087959A1/en",
+  :title "Enhanced luminescent and luminometric assay",
+  :status :pending,
+  :id "EP0087959A1",
+  :sourcing :authoritative,
+  :filing-year 1983,
+  :assignee :national-research-development-uk,
+  :cites
+  ["EP0070686A2"
+   "FR2383441A1"
+   "GB2008247A"
+   "GB2026690A"
+   "GB2070767A"
+   "GB2070768A"
+   "GB2095830A"],
+  :term-years 20,
+  :open-license :none}
  {:assignees [:monsanto],
   :jurisdiction :ep,
   :field "UNKNOWN",
@@ -512,6 +534,19 @@
   :grant-year 1992,
   :term-years 20,
   :open-license :none}
+ {:assignees [:enzyme-technology],
+  :jurisdiction :ep,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/EP0103784A2/en",
+  :title
+  "Catalyzed colorimetric and fluorometric substrates for peroxidase enzyme determinations",
+  :status :pending,
+  :id "EP0103784A2",
+  :sourcing :authoritative,
+  :filing-year 1983,
+  :assignee :enzyme-technology,
+  :term-years 20,
+  :open-license :none}
  {:assignees [:fuji-photo-film],
   :jurisdiction :ep,
   :field "UNKNOWN",
@@ -535,6 +570,20 @@
   :sourcing :authoritative,
   :filing-year 1984,
   :assignee :fuji-photo-film,
+  :term-years 20,
+  :open-license :none}
+ {:assignees
+  [:national-research-development-uk
+   :uk-secretary-of-state-for-social-services],
+  :jurisdiction :ep,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/EP0116454A2/en",
+  :title "Enhanced luminescent or luminometric assay",
+  :status :pending,
+  :id "EP0116454A2",
+  :sourcing :authoritative,
+  :filing-year 1984,
+  :assignee :national-research-development-uk,
   :term-years 20,
   :open-license :none}
  {:assignees [:amersham-international],
@@ -693,6 +742,19 @@
   :assignee :ortho-diagnostic-systems,
   :term-years 20,
   :open-license :none}
+ {:assignees [:fuji-photo-film],
+  :jurisdiction :ep,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/EP0141382A2/en",
+  :title
+  "Method for determining base sequence of DNA or DNA fragment utilizing autoradiography",
+  :status :pending,
+  :id "EP0141382A2",
+  :sourcing :authoritative,
+  :filing-year 1984,
+  :assignee :fuji-photo-film,
+  :term-years 20,
+  :open-license :none}
  {:assignees [:fujirebio],
   :jurisdiction :ep,
   :field "UNKNOWN",
@@ -716,6 +778,18 @@
   :sourcing :authoritative,
   :filing-year 1985,
   :assignee :molecular-diagnostics,
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:amersham-international],
+  :jurisdiction :ep,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/EP0153873A2/en",
+  :title "Detecting polynucleotide sequences",
+  :status :pending,
+  :id "EP0153873A2",
+  :sourcing :authoritative,
+  :filing-year 1985,
+  :assignee :amersham-international,
   :term-years 20,
   :open-license :none}
  {:assignees [:ortho-diagnostic-systems],
@@ -742,6 +816,31 @@
   :sourcing :authoritative,
   :filing-year 1985,
   :assignee :cetus,
+  :term-years 20,
+  :open-license :none}
+ {:assignees
+  [:university-of-nebraska-lincoln :university-of-nebraska-system],
+  :jurisdiction :ep,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/EP0157280A2/en",
+  :title "DNA sequencing",
+  :status :pending,
+  :id "EP0157280A2",
+  :sourcing :authoritative,
+  :filing-year 1985,
+  :assignee :university-of-nebraska-lincoln,
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:minnesota-mining-and-manufacturing],
+  :jurisdiction :ep,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/EP0157629A2/en",
+  :title "Chemiluminescent methods and kit",
+  :status :pending,
+  :id "EP0157629A2",
+  :sourcing :authoritative,
+  :filing-year 1985,
+  :assignee :minnesota-mining-and-manufacturing,
   :term-years 20,
   :open-license :none}
  {:assignees [:baxenden-chemicals],
@@ -1520,6 +1619,18 @@
   :cites ["GB2019408A"],
   :term-years 20,
   :open-license :none}
+ {:assignees [:general-electric-company],
+  :jurisdiction :gb,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/GB2144653A/en",
+  :title "Methods of preparing Langmuir-Blodgett multilayers",
+  :status :pending,
+  :id "GB2144653A",
+  :sourcing :authoritative,
+  :filing-year 1984,
+  :assignee :general-electric-company,
+  :term-years 20,
+  :open-license :none}
  {:assignees [:california-institute-of-technology],
   :jurisdiction :gb,
   :field "UNKNOWN",
@@ -1560,6 +1671,19 @@
   :filing-year 1985,
   :assignee :orion-yhtyma-oy,
   :cites ["WO1983001459A1"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:nat-res-dev :national-research-development-uk],
+  :jurisdiction :gb,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/GB2162946A/en",
+  :title "Enhanced luminescent or luminometric assay",
+  :status :pending,
+  :id "GB2162946A",
+  :sourcing :authoritative,
+  :filing-year 1985,
+  :assignee :nat-res-dev,
+  :cites ["EP0029926A1" "EP0130520A1"],
   :term-years 20,
   :open-license :none}
  {:assignees [:nat-res-dev :national-research-development-uk],
@@ -4164,6 +4288,17 @@
   :filing-year 1938,
   :assignee :k-c-m,
   :grant-year 1941,
+  :term-years 20,
+  :open-license :none}
+ {:jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2277/en",
+  :title "Island",
+  :status :granted,
+  :id "US2277",
+  :sourcing :authoritative,
+  :assignee :unassigned,
+  :grant-year 1841,
   :term-years 20,
   :open-license :none}
  {:jurisdiction :us,
@@ -8901,141 +9036,5 @@
   :assignee :kuraray,
   :grant-year 1973,
   :cites ["US3197331" "US3200008" "US3288632" "US3326712" "US3493419"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:farrand-optical],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3719410/en",
-  :title "Mixing and measuring apparatus",
-  :status :granted,
-  :id "US3719410",
-  :sourcing :authoritative,
-  :filing-year 1971,
-  :assignee :farrand-optical,
-  :grant-year 1973,
-  :cites
-  ["US1660974"
-   "US2587221"
-   "US2643940"
-   "US2971429"
-   "US3193357"
-   "US3585007"
-   "US3586064"
-   "US3679312"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:sun-oil],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3719454/en",
-  :title "Laser controlled chemical reactor",
-  :status :granted,
-  :id "US3719454",
-  :sourcing :authoritative,
-  :filing-year 1970,
-  :assignee :sun-oil,
-  :grant-year 1973,
-  :term-years 20,
-  :open-license :none}
- {:assignees [:pharmacia],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3720760/en",
-  :title
-  "Method for determining the presence of reagin-immunoglobulins(reagin-ig)directed against certain allergens,in aqueous samples",
-  :status :granted,
-  :id "US3720760",
-  :sourcing :authoritative,
-  :filing-year 1968,
-  :assignee :pharmacia,
-  :grant-year 1973,
-  :term-years 20,
-  :open-license :none}
- {:assignees [:north-american-rockwell],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3728227/en",
-  :title "Microorganism culture apparatus",
-  :status :granted,
-  :id "US3728227",
-  :sourcing :authoritative,
-  :filing-year 1968,
-  :assignee :north-american-rockwell,
-  :grant-year 1973,
-  :term-years 20,
-  :open-license :none}
- {:assignees [:purdue-research-foundation],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3730844/en",
-  :title "Polynucleotide analysis",
-  :status :granted,
-  :id "US3730844",
-  :sourcing :authoritative,
-  :filing-year 1971,
-  :assignee :purdue-research-foundation,
-  :grant-year 1973,
-  :term-years 20,
-  :open-license :none}
- {:assignees [:massachusetts-institute-of-technology],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3742230/en",
-  :title "Soft x-ray mask support substrate",
-  :status :granted,
-  :id "US3742230",
-  :sourcing :authoritative,
-  :filing-year 1972,
-  :assignee :massachusetts-institute-of-technology,
-  :grant-year 1973,
-  :cites ["US3637380"],
-  :term-years 20,
-  :open-license :none}
- {:jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3743090/en",
-  :title
-  "Method and apparatus for selectively removing pre-identified articles from a conveyor system",
-  :status :granted,
-  :id "US3743090",
-  :sourcing :authoritative,
-  :filing-year 1971,
-  :assignee :unassigned,
-  :grant-year 1973,
-  :cites ["US3144926" "US3460673" "US3463566" "US3516654" "US3612250"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:massachusetts-institute-of-technology],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3743842/en",
-  :title "Soft x-ray lithographic apparatus and process",
-  :status :granted,
-  :id "US3743842",
-  :sourcing :authoritative,
-  :filing-year 1972,
-  :assignee :massachusetts-institute-of-technology,
-  :grant-year 1973,
-  :cites
-  ["US1933652"
-   "US2382674"
-   "US3118786"
-   "US3447924"
-   "US3518083"
-   "US3637380"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:eastman-kodak],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3746564/en",
-  :title "Photographic diffusion transfer product and process",
-  :status :granted,
-  :id "US3746564",
-  :sourcing :authoritative,
-  :filing-year 1970,
-  :assignee :eastman-kodak,
-  :grant-year 1973,
   :term-years 20,
   :open-license :none}]
