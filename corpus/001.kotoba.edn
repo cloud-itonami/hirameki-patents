@@ -1,4 +1,213 @@
-[{:assignees [:new-england-nuclear],
+[{:assignees [:exxon-production-research],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3559736/en",
+  :title "Well completion method",
+  :status :granted,
+  :id "US3559736",
+  :sourcing :authoritative,
+  :filing-year 1969,
+  :assignee :exxon-production-research,
+  :grant-year 1971,
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:international-business-machines],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3560754/en",
+  :title "Photoelectric particle separator using time delay",
+  :status :granted,
+  :id "US3560754",
+  :sourcing :authoritative,
+  :filing-year 1965,
+  :assignee :international-business-machines,
+  :grant-year 1971,
+  :cites ["US2387952" "US2417877" "US3052353" "US3161589" "US3320428"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:texas-instruments],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3575733/en",
+  :title "Electron beam techniques in integrated circuits",
+  :status :granted,
+  :id "US3575733",
+  :sourcing :authoritative,
+  :filing-year 1968,
+  :assignee :texas-instruments,
+  :grant-year 1971,
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:morton-e-frank],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3585007/en",
+  :title "Gas generator",
+  :status :granted,
+  :id "US3585007",
+  :sourcing :authoritative,
+  :filing-year 1968,
+  :assignee :morton-e-frank,
+  :grant-year 1971,
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:metropolitan-pathology-lab],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3586064/en",
+  :title "Blood serum collection tube and method of collection",
+  :status :granted,
+  :id "US3586064",
+  :sourcing :authoritative,
+  :filing-year 1969,
+  :assignee :metropolitan-pathology-lab,
+  :grant-year 1971,
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:international-business-machines],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3586554/en",
+  :title
+  "Process for increasing photoresist adhesion to a semiconductor by treating the semiconductor with a disilylamide",
+  :status :granted,
+  :id "US3586554",
+  :sourcing :authoritative,
+  :filing-year 1969,
+  :assignee :international-business-machines,
+  :grant-year 1971,
+  :term-years 20,
+  :open-license :none}
+ {:jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3586859/en",
+  :title "Fluorescent cell viability counter",
+  :status :granted,
+  :id "US3586859",
+  :sourcing :authoritative,
+  :filing-year 1970,
+  :assignee :unassigned,
+  :grant-year 1971,
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:us-philips],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3589907/en",
+  :title
+  "Photosensitive lacquer and the use of this lacquer in manufacturing picture screens for cathode-ray tubes",
+  :status :granted,
+  :id "US3589907",
+  :sourcing :authoritative,
+  :filing-year 1967,
+  :assignee :us-philips,
+  :grant-year 1971,
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:formica],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3589974/en",
+  :title
+  "Decorative laminate surfaced with a compressed layer of a fibrillated acrylic fiber paper,said paper having been transparentized during a heat and pressure consolidation step and having been substantially free of any impregnating resin",
+  :status :granted,
+  :id "US3589974",
+  :sourcing :authoritative,
+  :filing-year 1968,
+  :assignee :formica,
+  :grant-year 1971,
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:hawker-siddeley-dynamics],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3591810/en",
+  :title
+  "Temperature monitoring apparatus using a photochromic heat sensor",
+  :status :granted,
+  :id "US3591810",
+  :sourcing :authoritative,
+  :filing-year 1969,
+  :assignee :hawker-siddeley-dynamics,
+  :grant-year 1971,
+  :cites ["US2792484" "US2824235" "US2945954" "US3134019" "US3327120"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:glaxo-laboratories],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3597318/en",
+  :title "Production of double stranded hibonucleic acid",
+  :status :granted,
+  :id "US3597318",
+  :sourcing :authoritative,
+  :filing-year 1969,
+  :assignee :glaxo-laboratories,
+  :grant-year 1971,
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:us-atomic-energy-commission-aec],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3600291/en",
+  :title "Method of producing dense carbon from anthracene",
+  :status :granted,
+  :id "US3600291",
+  :sourcing :authoritative,
+  :filing-year 1969,
+  :assignee :us-atomic-energy-commission-aec,
+  :grant-year 1971,
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:scientific-industries],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3607079/en",
+  :title "Analysis arrangement for chemical analyzing apparatus",
+  :status :granted,
+  :id "US3607079",
+  :sourcing :authoritative,
+  :filing-year 1969,
+  :assignee :scientific-industries,
+  :grant-year 1971,
+  :cites ["US3036893" "US3036894" "US3502438" "US3508879"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:ilford],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3607997/en",
+  :title "Method for producing an x-ray intensifying screen",
+  :status :granted,
+  :id "US3607997",
+  :sourcing :authoritative,
+  :filing-year 1968,
+  :assignee :ilford,
+  :grant-year 1971,
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:deutsche-itt-industries],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3614449/en",
+  :title "Optical tracking system utilizing a coaxial lens system",
+  :status :granted,
+  :id "US3614449",
+  :sourcing :authoritative,
+  :filing-year 1969,
+  :assignee :deutsche-itt-industries,
+  :grant-year 1971,
+  :cites
+  ["US2504383"
+   "US2753760"
+   "US2798961"
+   "US3173012"
+   "US3244885"
+   "US3398285"
+   "US3497696"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:new-england-nuclear],
   :jurisdiction :us,
   :field "UNKNOWN",
   :source "https://patents.google.com/patent/US3615222/en",
@@ -9130,6 +9339,40 @@
    "WO1991004266A1"],
   :term-years 20,
   :open-license :none}
+ {:assignees [:ciba-geigy],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US5145893/en",
+  :title
+  "Non-migrating 1-hydrocarbyloxy hindered amine derivatives as polymer stabilizers",
+  :status :granted,
+  :id "US5145893",
+  :sourcing :authoritative,
+  :filing-year 1990,
+  :assignee :ciba-geigy,
+  :grant-year 1992,
+  :cites
+  ["EP0155912A2"
+   "EP0303279A2"
+   "US4145512"
+   "US4178279"
+   "US4344876"
+   "US4413075"
+   "US4426471"
+   "US4426472"
+   "US4605743"
+   "US4607104"
+   "US4691015"
+   "US4703073"
+   "US4730017"
+   "US4831134"
+   "US4876300"
+   "US5004770"
+   "US5006577"
+   "US5021577"
+   "US5026749"],
+  :term-years 20,
+  :open-license :none}
  {:jurisdiction :us,
   :field "UNKNOWN",
   :source "https://patents.google.com/patent/US5202231/en",
@@ -9213,306 +9456,5 @@
    "US4687808"
    "WO1985004674A1"
    "WO1988001302A1"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:beckman-instruments],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US5302509/en",
-  :title "Method for sequencing polynucleotides",
-  :status :granted,
-  :id "US5302509",
-  :sourcing :authoritative,
-  :filing-year 1991,
-  :assignee :beckman-instruments,
-  :grant-year 1994,
-  :cites ["US5001051" "WO1989009282A1"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:rohm-and-haas],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US5308890/en",
-  :title
-  "Emulsion polymer blend of a multi-stage latex and a non-film forming latex",
-  :status :granted,
-  :id "US5308890",
-  :sourcing :authoritative,
-  :filing-year 1993,
-  :assignee :rohm-and-haas,
-  :grant-year 1994,
-  :cites ["EP0466409A1" "US4385152" "US4567099"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:eastman-kodak],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US5324788/en",
-  :title "Thermosetting coating compositions",
-  :status :granted,
-  :id "US5324788",
-  :sourcing :authoritative,
-  :filing-year 1993,
-  :assignee :eastman-kodak,
-  :grant-year 1994,
-  :cites
-  ["EP0419088A1"
-   "EP0466359A2"
-   "US4137279"
-   "US4678843"
-   "US4857601"
-   "US4898916"
-   "US5106651"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:ei-du-pont-de-nemours-and],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US5376704/en",
-  :title
-  "Water-borne coating compositions comprising half esters of anhydride polymers crosslinked by epoxies",
-  :status :granted,
-  :id "US5376704",
-  :sourcing :authoritative,
-  :filing-year 1992,
-  :assignee :ei-du-pont-de-nemours-and,
-  :grant-year 1994,
-  :cites
-  ["EP0353734A2"
-   "EP0450963A1"
-   "US4247439"
-   "US4600737"
-   "US4871806"
-   "US4906677"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:nippon-paint],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US5397603/en",
-  :title
-  "Resin composition and coating composition containing the same",
-  :status :granted,
-  :id "US5397603",
-  :sourcing :authoritative,
-  :filing-year 1994,
-  :assignee :nippon-paint,
-  :grant-year 1995,
-  :cites ["US5166265" "US5229461" "US5270392"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:affymax-technologies],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US5445934/en",
-  :title "Array of oligonucleotides on a solid substrate",
-  :status :granted,
-  :id "US5445934",
-  :sourcing :authoritative,
-  :filing-year 1992,
-  :assignee :affymax-technologies,
-  :grant-year 1995,
-  :cites
-  ["EP0328256A1"
-   "US4562157"
-   "US4689405"
-   "US4728591"
-   "US4886741"
-   "US4888278"
-   "US4923901"
-   "US4973493"
-   "US5079600"
-   "US5143854"
-   "US5202231"
-   "WO1989010977A1"
-   "WO1990003382A1"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:ciba-geigy],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US5486452/en",
-  :title "Devices and kits for immunological analysis",
-  :status :granted,
-  :id "US5486452",
-  :sourcing :authoritative,
-  :filing-year 1987,
-  :assignee :ciba-geigy,
-  :grant-year 1996,
-  :cites
-  ["EP0027008A1"
-   "EP0050424A1"
-   "FR2074061A5"
-   "FR2257259A1"
-   "GB1235685A"
-   "GB1235686A"
-   "GB1486826A"
-   "GB1526708A"
-   "GB1553083A"
-   "GB1597345A"
-   "GB1601283A"
-   "US3654090"
-   "US3979509"
-   "US4020151"
-   "US4048298"
-   "US4071315"
-   "US4119589"
-   "US4139346"
-   "US4168146"
-   "US4176174"
-   "US4189464"
-   "US4200690"
-   "US4216245"
-   "US4267270"
-   "US4275053"
-   "US4302204"
-   "US4305720"
-   "US4305721"
-   "US4332283"
-   "US4358535"
-   "US4378344"
-   "US4407943"
-   "US4414324"
-   "US4436824"
-   "US4452901"
-   "US4459360"
-   "US4591570"],
-  :term-years 20,
-  :open-license :none}
- {:jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US548686/en",
-  :title "Cigar-bunching machine",
-  :status :granted,
-  :id "US548686",
-  :sourcing :authoritative,
-  :assignee :unassigned,
-  :grant-year 1895,
-  :term-years 20,
-  :open-license :none}
- {:assignees [:hyseq],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US5492806/en",
-  :title
-  "Method of determining an ordered sequence of subfragments of a nucleic acid fragment by hybridization of oligonucleotide probes",
-  :status :granted,
-  :id "US5492806",
-  :sourcing :authoritative,
-  :filing-year 1993,
-  :assignee :hyseq,
-  :grant-year 1996,
-  :cites
-  ["EP0197266A2" "US4562159" "US4613566" "US4683202" "US4849334"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:hyseq],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US5525464/en",
-  :title
-  "Method of sequencing by hybridization of oligonucleotide probes",
-  :status :granted,
-  :id "US5525464",
-  :sourcing :authoritative,
-  :filing-year 1994,
-  :assignee :hyseq,
-  :grant-year 1996,
-  :cites
-  ["EP0152886A2"
-   "US4562159"
-   "US4591567"
-   "US4613566"
-   "US4672040"
-   "US4683195"
-   "US4683202"
-   "US4720786"
-   "US4766062"
-   "US4770992"
-   "US4794073"
-   "US4849334"
-   "US4865967"
-   "US4865968"
-   "US4942124"
-   "US5002867"
-   "US5149625"
-   "US5202231"
-   "WO1988001302A1"
-   "WO1989010977A1"
-   "WO1990003382A1"
-   "WO1990004652A1"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:affymax-technologies],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US5547839/en",
-  :title
-  "Sequencing of surface immobilized polymers utilizing microflourescence detection",
-  :status :granted,
-  :id "US5547839",
-  :sourcing :authoritative,
-  :filing-year 1990,
-  :assignee :affymax-technologies,
-  :grant-year 1996,
-  :cites
-  ["EP0392546A2"
-   "GB2233654A"
-   "US4542102"
-   "US4582789"
-   "US4656127"
-   "US4689405"
-   "US4713326"
-   "US4855225"
-   "US4889818"
-   "US4962037"
-   "US4965188"
-   "US5002867"
-   "US5026840"
-   "US5075216"
-   "US5126239"
-   "US5143854"
-   "WO1990013666A1"
-   "WO1990015070A1"
-   "WO1991006678A1"
-   "WO1991007087A1"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:kansai-paint],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US5635251/en",
-  :title "Wet-on-wet coating method",
-  :status :granted,
-  :id "US5635251",
-  :sourcing :authoritative,
-  :filing-year 1995,
-  :assignee :kansai-paint,
-  :grant-year 1997,
-  :cites
-  ["GB2247632A"
-   "GB2249496A"
-   "US4530958"
-   "US4761212"
-   "US4812335"
-   "US5064695"
-   "US5210154"
-   "US5324788"
-   "US5397603"
-   "WO1994027741A1"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:isis-pharmaceuticals],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US5644048/en",
-  :title "Process for preparing phosphorothioate oligonucleotides",
-  :status :granted,
-  :id "US5644048",
-  :sourcing :authoritative,
-  :filing-year 1992,
-  :assignee :isis-pharmaceuticals,
-  :grant-year 1997,
-  :cites ["US4415732" "US5212295"],
   :term-years 20,
   :open-license :none}]
