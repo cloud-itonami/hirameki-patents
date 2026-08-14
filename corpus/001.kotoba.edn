@@ -1,4 +1,211 @@
-[{:assignees [:pharmacia],
+[{:assignees [:new-england-nuclear],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3615222/en",
+  :title
+  "Method and apparatus for measuring the amount of a component in a biological fluid",
+  :status :granted,
+  :id "US3615222",
+  :sourcing :authoritative,
+  :filing-year 1968,
+  :assignee :new-england-nuclear,
+  :grant-year 1971,
+  :cites ["US3072362" "US3397965"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:basf-se],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3615629/en",
+  :title
+  "Photosensitive compositions for production of relief-bearing plates sheets or films",
+  :status :granted,
+  :id "US3615629",
+  :sourcing :authoritative,
+  :filing-year 1968,
+  :assignee :basf-se,
+  :grant-year 1971,
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:miles-laboratories],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3616251/en",
+  :title "Test device",
+  :status :granted,
+  :id "US3616251",
+  :sourcing :authoritative,
+  :filing-year 1968,
+  :assignee :miles-laboratories,
+  :grant-year 1971,
+  :term-years 20,
+  :open-license :none}
+ {:jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3619073/en",
+  :title "Sample holder for optical measurements at low temperatures",
+  :status :granted,
+  :id "US3619073",
+  :sourcing :authoritative,
+  :filing-year 1969,
+  :assignee :unassigned,
+  :grant-year 1971,
+  :term-years 20,
+  :open-license :none}
+ {:jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3620678/en",
+  :title "Installation for multiple and automatic analyses",
+  :status :granted,
+  :id "US3620678",
+  :sourcing :authoritative,
+  :filing-year 1967,
+  :assignee :unassigned,
+  :grant-year 1971,
+  :cites
+  ["US3036893"
+   "US3036894"
+   "US3260413"
+   "US3261668"
+   "US3266298"
+   "US3368872"
+   "US3476515"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:formica],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3620899/en",
+  :title
+  "Decorative laminate back coated with a polyvinyl acetate composition",
+  :status :granted,
+  :id "US3620899",
+  :sourcing :authoritative,
+  :filing-year 1968,
+  :assignee :formica,
+  :grant-year 1971,
+  :cites ["US2804418" "US3067085" "US3166435"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:coulter-electronics],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3622795/en",
+  :title
+  "Colorimetric fluid test apparatus having plural fluid sequential control",
+  :status :granted,
+  :id "US3622795",
+  :sourcing :authoritative,
+  :filing-year 1968,
+  :assignee :coulter-electronics,
+  :grant-year 1971,
+  :cites
+  ["US2320065"
+   "US2983184"
+   "US3177898"
+   "US3225645"
+   "US3240110"
+   "US3401591"
+   "US3418061"
+   "US3435239"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:dow-corning],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3628996/en",
+  :title "Polydimethylsiloxane release agent",
+  :status :granted,
+  :id "US3628996",
+  :sourcing :authoritative,
+  :filing-year 1969,
+  :assignee :dow-corning,
+  :grant-year 1971,
+  :cites ["US2985545" "US2985546" "US3046160" "US3061567" "US3070566"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:miles-laboratories],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3635681/en",
+  :title "Differential conductivity-measuring apparatus",
+  :status :granted,
+  :id "US3635681",
+  :sourcing :authoritative,
+  :filing-year 1969,
+  :assignee :miles-laboratories,
+  :grant-year 1972,
+  :cites ["GB1054626A" "US1951035"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:eastman-kodak],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3635853/en",
+  :title
+  "A copolymer latex of polyvinyl acetate and an alkyl ester of an unsaturated carboxylic acid",
+  :status :granted,
+  :id "US3635853",
+  :sourcing :authoritative,
+  :filing-year 1969,
+  :assignee :eastman-kodak,
+  :grant-year 1972,
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:nippon-kayaku :osaka-seika-kogyo],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3637672/en",
+  :title "Azole compounds",
+  :status :granted,
+  :id "US3637672",
+  :sourcing :authoritative,
+  :filing-year 1968,
+  :assignee :nippon-kayaku,
+  :grant-year 1972,
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:shell-oil],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3639163/en",
+  :title "Block polymer insulation for electric conductors",
+  :status :granted,
+  :id "US3639163",
+  :sourcing :authoritative,
+  :filing-year 1969,
+  :assignee :shell-oil,
+  :grant-year 1972,
+  :cites
+  ["US2458600"
+   "US2761854"
+   "US2813809"
+   "US3030237"
+   "US3251905"
+   "US3333024"
+   "US3401213"
+   "US3427264"
+   "US3433855"
+   "US3441530"
+   "US3476530"
+   "US3493369"
+   "US3515528"],
+  :term-years 20,
+  :open-license :none}
+ {:jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3639558/en",
+  :title
+  "Immunological reagent particles having proteinaceous materials covalently bonded thereto",
+  :status :granted,
+  :id "US3639558",
+  :sourcing :authoritative,
+  :filing-year 1968,
+  :assignee :unassigned,
+  :grant-year 1972,
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:pharmacia],
   :jurisdiction :us,
   :field "UNKNOWN",
   :source "https://patents.google.com/patent/US3645852/en",
@@ -434,6 +641,20 @@
   :assignee :f-hoffmann-la-roche,
   :grant-year 1973,
   :cites ["DE116806C" "US1906236" "US2301532" "US2372066"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:kyowa-hakko-kogyo],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3709873/en",
+  :title
+  "Process for synthesizing the di-esters of condensed phosphoric acid",
+  :status :granted,
+  :id "US3709873",
+  :sourcing :authoritative,
+  :filing-year 1969,
+  :assignee :kyowa-hakko-kogyo,
+  :grant-year 1973,
   :term-years 20,
   :open-license :none}
  {:assignees [:us-atomic-energy-commission-aec],
@@ -2489,6 +2710,20 @@
   :assignee :syva,
   :grant-year 1976,
   :cites ["US3839153" "US3852157"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:takeda-chemical-industries],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3936439/en",
+  :title "2,6-Diaminonebularine derivatives",
+  :status :granted,
+  :id "US3936439",
+  :sourcing :authoritative,
+  :filing-year 1973,
+  :assignee :takeda-chemical-industries,
+  :grant-year 1976,
+  :cites ["US3040026" "US3404144" "US3431252" "US3590029" "US3752805"],
   :term-years 20,
   :open-license :none}
  {:assignees [:phillips-petroleum],
@@ -5155,6 +5390,20 @@
   :grant-year 1981,
   :term-years 20,
   :open-license :none}
+ {:assignees [:university-of-california-san-diego-ucsd],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US4267171/en",
+  :title "C-5 Substituted cytosine nucleosides",
+  :status :granted,
+  :id "US4267171",
+  :sourcing :authoritative,
+  :filing-year 1979,
+  :assignee :university-of-california-san-diego-ucsd,
+  :grant-year 1981,
+  :cites ["US3282921" "US3376283" "US3856777" "US3891623" "US3998807"],
+  :term-years 20,
+  :open-license :none}
  {:jurisdiction :us,
   :field "UNKNOWN",
   :source "https://patents.google.com/patent/US4272549/en",
@@ -6567,6 +6816,20 @@
    "US3838926"],
   :term-years 20,
   :open-license :none}
+ {:assignees [:abbott-laboratories],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US4495293/en",
+  :title "Fluorometric assay",
+  :status :granted,
+  :id "US4495293",
+  :sourcing :authoritative,
+  :filing-year 1983,
+  :assignee :abbott-laboratories,
+  :grant-year 1985,
+  :cites ["US3874853" "US4095948" "US4161515" "US4261968" "US4273556"],
+  :term-years 20,
+  :open-license :none}
  {:assignees [:university-patents],
   :jurisdiction :us,
   :field "UNKNOWN",
@@ -6579,6 +6842,20 @@
   :assignee :university-patents,
   :grant-year 1985,
   :cites ["US4373071"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:us-department-of-health-and-human-services],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US4520113/en",
+  :title
+  "Serological detection of antibodies to HTLV-III in sera of patients with AIDS and pre-AIDS conditions",
+  :status :granted,
+  :id "US4520113",
+  :sourcing :authoritative,
+  :filing-year 1984,
+  :assignee :us-department-of-health-and-human-services,
+  :grant-year 1985,
   :term-years 20,
   :open-license :none}
  {:assignees [:research],
@@ -7086,6 +7363,34 @@
   :assignee :american-hospital-supply,
   :grant-year 1986,
   :cites ["US3008920" "US3458597"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:new-york-blood-center],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US4591552/en",
+  :title
+  "Detection of hepatitis B surface antigen (or antibody to same) with labeled synthetic peptide",
+  :status :granted,
+  :id "US4591552",
+  :sourcing :authoritative,
+  :filing-year 1982,
+  :assignee :new-york-blood-center,
+  :grant-year 1986,
+  :cites
+  ["US3995018"
+   "US4016043"
+   "US4272433"
+   "US4277393"
+   "US4297273"
+   "US4341761"
+   "US4369138"
+   "US4377516"
+   "US4399229"
+   "US4409141"
+   "US4415491"
+   "US4415546"
+   "US4423034"],
   :term-years 20,
   :open-license :none}
  {:assignees [:novo-industri-as],
@@ -9209,410 +9514,5 @@
   :assignee :isis-pharmaceuticals,
   :grant-year 1997,
   :cites ["US4415732" "US5212295"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:affymetrix],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US5800992/en",
-  :title "Method of detecting nucleic acids",
-  :status :granted,
-  :id "US5800992",
-  :sourcing :authoritative,
-  :filing-year 1996,
-  :assignee :affymetrix,
-  :grant-year 1998,
-  :cites
-  ["EP0392546A2"
-   "GB2233654A"
-   "US4542102"
-   "US4689405"
-   "US4713326"
-   "US4728591"
-   "US4855225"
-   "US4965188"
-   "US4981783"
-   "US5002867"
-   "US5026840"
-   "US5143854"
-   "US5202231"
-   "US5215882"
-   "US5445934"
-   "US5492806"
-   "US5525464"
-   "WO1989010977A1"
-   "WO1989011548A1"
-   "WO1990000626A1"
-   "WO1990003382A1"
-   "WO1990004652A1"
-   "WO1990015070A1"
-   "WO1991007087A1"
-   "WO1992010092A1"
-   "WO1992010588A1"
-   "WO1993017126A1"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:geneco-pty],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US5856092/en",
-  :title "Detection of a nucleic acid sequence or a change therein",
-  :status :granted,
-  :id "US5856092",
-  :sourcing :authoritative,
-  :filing-year 1995,
-  :assignee :geneco-pty,
-  :grant-year 1999,
-  :cites
-  ["AU1193788A"
-   "AU1400588A"
-   "AU2178188A"
-   "AU2675588A"
-   "AU6236486A"
-   "AU6972487A"
-   "AU7015287A"
-   "AU8009787A"
-   "EP0123513A1"
-   "EP0297379A2"
-   "US4307189"
-   "US4656127"
-   "US4683195"
-   "US4851331"
-   "US4863849"
-   "WO1983001459A1"
-   "WO1986003782A1"
-   "WO1989006700A1"
-   "WO1989010414A1"
-   "WO1990001069A1"
-   "WO1990006042A2"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:affymetrix],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US5902723/en",
-  :title
-  "Analysis of surface immobilized polymers utilizing microfluorescence detection",
-  :status :granted,
-  :id "US5902723",
-  :sourcing :authoritative,
-  :filing-year 1996,
-  :assignee :affymetrix,
-  :grant-year 1999,
-  :cites
-  ["EP0392546A2"
-   "GB2233654A"
-   "US4542102"
-   "US4582789"
-   "US4646127"
-   "US4689405"
-   "US4713326"
-   "US4855225"
-   "US4889818"
-   "US4962037"
-   "US4965188"
-   "US5002867"
-   "US5026840"
-   "US5075216"
-   "US5126239"
-   "US5143854"
-   "WO1989010977A1"
-   "WO1989011548A1"
-   "WO1990003382A1"
-   "WO1990013666A1"
-   "WO1990015070A1"
-   "WO1991006678A1"
-   "WO1991007087A1"],
-  :term-years 20,
-  :open-license :none}
- {:jurisdiction :us,
-  :essentiality 0.3,
-  :field "G06F",
-  :title "Extensible markup language document processing",
-  :status :expired,
-  :id "US6000000A",
-  :sourcing :representative,
-  :filing-year 1996,
-  :assignee :ibm,
-  :grant-year 1999,
-  :term-years 20,
-  :open-license :public-domain}
- {:assignees [:affymetrix],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US6225625/en",
-  :title "Signal detection methods and apparatus",
-  :status :granted,
-  :id "US6225625",
-  :sourcing :authoritative,
-  :filing-year 1995,
-  :assignee :affymetrix,
-  :grant-year 2001,
-  :cites
-  ["EP0063810A1"
-   "EP0171150A2"
-   "EP0173339A2"
-   "EP0185547A2"
-   "EP0225807A2"
-   "EP0232967A2"
-   "EP0235726A2"
-   "EP0237362A1"
-   "EP0281927A2"
-   "EP0328256A1"
-   "EP0337498A2"
-   "EP0392546A2"
-   "FR333561A"
-   "GB2156074A"
-   "US3939350"
-   "US4180739"
-   "US4327073"
-   "US4342905"
-   "US4483920"
-   "US4537861"
-   "US4542102"
-   "US4562157"
-   "US4584277"
-   "US4613566"
-   "US4624915"
-   "US4677054"
-   "US4689405"
-   "US4704353"
-   "US4711955"
-   "US4728591"
-   "US4755458"
-   "US4786170"
-   "US4810869"
-   "US4820630"
-   "US4833092"
-   "US4844617"
-   "US4849513"
-   "US4855225"
-   "US4868103"
-   "US4874500"
-   "US4886741"
-   "US4888278"
-   "US4923901"
-   "US4925785"
-   "US4981783"
-   "US4987065"
-   "US4988617"
-   "US4994373"
-   "US5002867"
-   "US5026840"
-   "US5028525"
-   "US5043265"
-   "US5079600"
-   "US5082830"
-   "US5091652"
-   "US5143854"
-   "US5192980"
-   "US5200051"
-   "US5202231"
-   "US5215882"
-   "US5232829"
-   "US5310893"
-   "US5324633"
-   "US5348855"
-   "US5405783"
-   "US5436327"
-   "US5445934"
-   "US5447841"
-   "US5486452"
-   "US5489507"
-   "US5700637"
-   "US6054270"
-   "WO1984003151A1"
-   "WO1985001051A1"
-   "WO1988004777A1"
-   "WO1989008834A1"
-   "WO1989010977A1"
-   "WO1989011548A1"
-   "WO1990003382A1"
-   "WO1990004652A1"
-   "WO1992010092A1"
-   "WO1993002992A1"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:nippon-paint],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US6541070/en",
-  :title
-  "Method of forming a composite coating film comprising a pigment and resin emulsion",
-  :status :granted,
-  :id "US6541070",
-  :sourcing :authoritative,
-  :filing-year 2001,
-  :assignee :nippon-paint,
-  :grant-year 2003,
-  :cites
-  ["US5322715"
-   "US5635564"
-   "US5700862"
-   "WO1988002381A1"
-   "WO1988002382A1"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:premark-rwp-holdings],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US6610358/en",
-  :title "System and method for two sided sheet treating",
-  :status :granted,
-  :id "US6610358",
-  :sourcing :authoritative,
-  :filing-year 1999,
-  :assignee :premark-rwp-holdings,
-  :grant-year 2003,
-  :cites
-  ["EP0413457A1"
-   "EP0511129A1"
-   "GB1060155A"
-   "GB1115305A"
-   "US1835741"
-   "US2118549"
-   "US2252345"
-   "US2309090"
-   "US2325798"
-   "US2347643"
-   "US2364505"
-   "US2766807"
-   "US3196038"
-   "US3231418"
-   "US3320086"
-   "US3620899"
-   "US3716395"
-   "US3899615"
-   "US3900690"
-   "US3936582"
-   "US3983307"
-   "US4064297"
-   "US4158712"
-   "US4172160"
-   "US4177304"
-   "US4244990"
-   "US4311748"
-   "US4354449"
-   "US4358481"
-   "US4391833"
-   "US4473613"
-   "US4499125"
-   "US4510199"
-   "US4533600"
-   "US4609589"
-   "US4629634"
-   "US4657783"
-   "US4822640"
-   "US4853255"
-   "US4961964"
-   "US5084318"
-   "US5089296"
-   "US5395690"
-   "US5492722"
-   "US5510161"
-   "US5714269"
-   "US5753871"
-   "WO1994012347A1"
-   "WO1997020006A2"],
-  :term-years 20,
-  :open-license :none}
- {:jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US678699/en",
-  :title "Communion-service.",
-  :status :granted,
-  :id "US678699",
-  :sourcing :authoritative,
-  :filing-year 1900,
-  :assignee :unassigned,
-  :grant-year 1901,
-  :term-years 20,
-  :open-license :none}
- {:assignees [:premark-rwp-holdings],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US6896971/en",
-  :title "System and method for two sided sheet treating",
-  :status :granted,
-  :id "US6896971",
-  :sourcing :authoritative,
-  :filing-year 2003,
-  :assignee :premark-rwp-holdings,
-  :grant-year 2005,
-  :cites
-  ["CA2107277A1"
-   "EP0511129A1"
-   "EP0870872A1"
-   "GB1060155A"
-   "US1835741"
-   "US2118549"
-   "US2252345"
-   "US2309090"
-   "US2325798"
-   "US2347643"
-   "US2364505"
-   "US2766807"
-   "US3196038"
-   "US3231418"
-   "US3320086"
-   "US3620899"
-   "US3716395"
-   "US3899615"
-   "US3900690"
-   "US3936582"
-   "US3983307"
-   "US4064297"
-   "US4158712"
-   "US4172160"
-   "US4177304"
-   "US4244990"
-   "US4311748"
-   "US4354449"
-   "US4358481"
-   "US4391833"
-   "US4473613"
-   "US4499125"
-   "US4510199"
-   "US4533600"
-   "US4609589"
-   "US4629634"
-   "US4657783"
-   "US4822640"
-   "US4853255"
-   "US4961964"
-   "US5084318"
-   "US5089296"
-   "US5395690"
-   "US5492722"
-   "US5510161"
-   "US5714269"
-   "US5753871"
-   "US6001490"
-   "US6610358"
-   "WO1994012347A1"],
-  :term-years 20,
-  :open-license :none}
- {:jurisdiction :us,
-  :essentiality 0.8,
-  :field "H01L",
-  :title "Method of fabricating a FinFET device",
-  :status :granted,
-  :id "US7654321B2",
-  :sourcing :representative,
-  :filing-year 2007,
-  :assignee :tsmc,
-  :grant-year 2010,
-  :term-years 20,
-  :open-license :none}
- {:jurisdiction :us,
-  :essentiality 0.4,
-  :field "A61B",
-  :title "Visual prosthesis apparatus",
-  :status :granted,
-  :id "US8000000B2",
-  :sourcing :representative,
-  :filing-year 2009,
-  :assignee :medtronic,
-  :grant-year 2011,
   :term-years 20,
   :open-license :none}]

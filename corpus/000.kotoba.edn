@@ -281,6 +281,30 @@
   :cites ["EP0068875A2" "WO1983002277A1"],
   :term-years 20,
   :open-license :none}
+ {:assignees [:bayer],
+  :jurisdiction :de,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/DE3520386A1/en",
+  :title "Pesticides comprising 1,3,2-oxathiaphospholane 2-sulphides",
+  :status :pending,
+  :id "DE3520386A1",
+  :sourcing :authoritative,
+  :filing-year 1985,
+  :assignee :bayer,
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:bayer],
+  :jurisdiction :de,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/DE3520387A1/en",
+  :title "1,3,2-Oxathiaphospholane 2-sulphides",
+  :status :pending,
+  :id "DE3520387A1",
+  :sourcing :authoritative,
+  :filing-year 1985,
+  :assignee :bayer,
+  :term-years 20,
+  :open-license :none}
  {:assignees [:biogen],
   :jurisdiction :ep,
   :field "UNKNOWN",
@@ -678,6 +702,20 @@
   :cites ["EP0063879A2"],
   :term-years 20,
   :open-license :none}
+ {:assignees [:hoechst],
+  :jurisdiction :ep,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/EP0121778A1/en",
+  :title
+  "Method for the separation of ribonucleic acids from a solution containing deoxyribonucleic acids",
+  :status :pending,
+  :id "EP0121778A1",
+  :sourcing :authoritative,
+  :filing-year 1984,
+  :assignee :hoechst,
+  :cites ["GB2027033A"],
+  :term-years 20,
+  :open-license :none}
  {:assignees [:amersham-international],
   :jurisdiction :ep,
   :field "UNKNOWN",
@@ -730,6 +768,19 @@
   :filing-year 1984,
   :assignee :national-research-development-uk,
   :grant-year 1987,
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:gambro-lundia],
+  :jurisdiction :ep,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/EP0127737A1/en",
+  :title "A process for the recovery of a peptide-containing compound",
+  :status :pending,
+  :id "EP0127737A1",
+  :sourcing :authoritative,
+  :filing-year 1984,
+  :assignee :gambro-lundia,
+  :cites ["EP0046915A2" "FR2330694A1" "US3843444"],
   :term-years 20,
   :open-license :none}
  {:assignees [:molecular-diagnostics],
@@ -808,6 +859,20 @@
   :sourcing :authoritative,
   :filing-year 1984,
   :assignee :orgenics,
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:hoechst],
+  :jurisdiction :ep,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/EP0136543B1/en",
+  :title
+  "Method for the preparation of nucleosidealkyl, aralkyl and aryl phosphonites and phosphonates",
+  :status :granted,
+  :id "EP0136543B1",
+  :sourcing :authoritative,
+  :filing-year 1984,
+  :assignee :hoechst,
+  :grant-year 1988,
   :term-years 20,
   :open-license :none}
  {:assignees [:duphar-international-research-bv],
@@ -999,6 +1064,18 @@
   :sourcing :authoritative,
   :filing-year 1979,
   :assignee :biogen,
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:centocor],
+  :jurisdiction :ep,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/EP0185444A2/en",
+  :title "Cloning and expression of HTLV-III DNA",
+  :status :pending,
+  :id "EP0185444A2",
+  :sourcing :authoritative,
+  :filing-year 1985,
+  :assignee :centocor,
   :term-years 20,
   :open-license :none}
  {:assignees [:sagax-instrument],
@@ -6712,6 +6789,35 @@
   :grant-year 1965,
   :term-years 20,
   :open-license :none}
+ {:assignees [:monsanto],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3170835/en",
+  :title
+  "Nitromethylbenzyl-phosphorothioic acid diesters and nematocidal methods employing same",
+  :status :granted,
+  :id "US3170835",
+  :sourcing :authoritative,
+  :filing-year 1957,
+  :assignee :monsanto,
+  :grant-year 1965,
+  :cites
+  ["CH257649A"
+   "US2177757"
+   "US2266514"
+   "US2494283"
+   "US2506344"
+   "US2526179"
+   "US2632020"
+   "US2679508"
+   "US2724719"
+   "US2758954"
+   "US2789124"
+   "US2802856"
+   "US2841520"
+   "US2979522"],
+  :term-years 20,
+  :open-license :none}
  {:assignees [:spofa-vereinigte-pharma-werke],
   :jurisdiction :us,
   :field "UNKNOWN",
@@ -7287,6 +7393,21 @@
   :cites ["US1203303" "US2159704" "US2933418" "US3027276" "US3178310"],
   :term-years 20,
   :open-license :none}
+ {:assignees [:merck-and],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3284440/en",
+  :title
+  "Phosphate esters of cytosine arabinoide and process for preparing same",
+  :status :granted,
+  :id "US3284440",
+  :sourcing :authoritative,
+  :filing-year 1964,
+  :assignee :merck-and,
+  :grant-year 1966,
+  :cites ["US2844514" "US3116282" "US3201389"],
+  :term-years 20,
+  :open-license :none}
  {:assignees [:upjohn],
   :jurisdiction :us,
   :field "UNKNOWN",
@@ -7376,6 +7497,34 @@
    "US2991412"
    "US3060374"
    "US819355"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:hoechst],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3299043/en",
+  :title "Process for preparing polynucleotides",
+  :status :granted,
+  :id "US3299043",
+  :sourcing :authoritative,
+  :filing-year 1964,
+  :assignee :hoechst,
+  :grant-year 1967,
+  :cites ["US3079379" "US3118876"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:upjohn],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3300479/en",
+  :title
+  "Deazapurine riboside cyclic 3&#39;, 5&#39;-phosphates and process therefor",
+  :status :granted,
+  :id "US3300479",
+  :sourcing :authoritative,
+  :filing-year 1965,
+  :assignee :upjohn,
+  :grant-year 1967,
   :term-years 20,
   :open-license :none}
  {:assignees [:hitachi],
@@ -7601,6 +7750,19 @@
   :grant-year 1967,
   :term-years 20,
   :open-license :none}
+ {:jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3347846/en",
+  :title "Method of preparing 5&#39;-ribonucleotide",
+  :status :granted,
+  :id "US3347846",
+  :sourcing :authoritative,
+  :filing-year 1965,
+  :assignee :unassigned,
+  :grant-year 1967,
+  :cites ["US3201389" "US3282920" "US3288780"],
+  :term-years 20,
+  :open-license :none}
  {:assignees [:international-business-machines],
   :jurisdiction :us,
   :field "UNKNOWN",
@@ -7772,6 +7934,20 @@
   :assignee :trw,
   :grant-year 1968,
   :cites ["US2898282" "US2913386" "US3022241" "US3058894"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:ajinomoto],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3413282/en",
+  :title "Method of preparing 5&#39;-nucleotides",
+  :status :granted,
+  :id "US3413282",
+  :sourcing :authoritative,
+  :filing-year 1966,
+  :assignee :ajinomoto,
+  :grant-year 1968,
+  :cites ["US3201389" "US3282920" "US3288780" "US3290285"],
   :term-years 20,
   :open-license :none}
  {:assignees [:international-business-machines],
@@ -8189,6 +8365,29 @@
    "US3228799"
    "US3296113"
    "US3403081"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:merck-and],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3480613/en",
+  :title
+  "2-c or 3-c-alkylribofuranosyl - 1-substituted compounds and the nucleosides thereof",
+  :status :granted,
+  :id "US3480613",
+  :sourcing :authoritative,
+  :filing-year 1967,
+  :assignee :merck-and,
+  :grant-year 1969,
+  :cites
+  ["US2876230"
+   "US2881164"
+   "US3074929"
+   "US3116282"
+   "US3225029"
+   "US3300478"
+   "US3328389"
+   "US3380996"],
   :term-years 20,
   :open-license :none}
  {:assignees [:johnson-and-johnson],
@@ -8845,212 +9044,5 @@
    "US3244885"
    "US3398285"
    "US3497696"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:new-england-nuclear],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3615222/en",
-  :title
-  "Method and apparatus for measuring the amount of a component in a biological fluid",
-  :status :granted,
-  :id "US3615222",
-  :sourcing :authoritative,
-  :filing-year 1968,
-  :assignee :new-england-nuclear,
-  :grant-year 1971,
-  :cites ["US3072362" "US3397965"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:basf-se],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3615629/en",
-  :title
-  "Photosensitive compositions for production of relief-bearing plates sheets or films",
-  :status :granted,
-  :id "US3615629",
-  :sourcing :authoritative,
-  :filing-year 1968,
-  :assignee :basf-se,
-  :grant-year 1971,
-  :term-years 20,
-  :open-license :none}
- {:assignees [:miles-laboratories],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3616251/en",
-  :title "Test device",
-  :status :granted,
-  :id "US3616251",
-  :sourcing :authoritative,
-  :filing-year 1968,
-  :assignee :miles-laboratories,
-  :grant-year 1971,
-  :term-years 20,
-  :open-license :none}
- {:jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3619073/en",
-  :title "Sample holder for optical measurements at low temperatures",
-  :status :granted,
-  :id "US3619073",
-  :sourcing :authoritative,
-  :filing-year 1969,
-  :assignee :unassigned,
-  :grant-year 1971,
-  :term-years 20,
-  :open-license :none}
- {:jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3620678/en",
-  :title "Installation for multiple and automatic analyses",
-  :status :granted,
-  :id "US3620678",
-  :sourcing :authoritative,
-  :filing-year 1967,
-  :assignee :unassigned,
-  :grant-year 1971,
-  :cites
-  ["US3036893"
-   "US3036894"
-   "US3260413"
-   "US3261668"
-   "US3266298"
-   "US3368872"
-   "US3476515"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:formica],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3620899/en",
-  :title
-  "Decorative laminate back coated with a polyvinyl acetate composition",
-  :status :granted,
-  :id "US3620899",
-  :sourcing :authoritative,
-  :filing-year 1968,
-  :assignee :formica,
-  :grant-year 1971,
-  :cites ["US2804418" "US3067085" "US3166435"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:coulter-electronics],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3622795/en",
-  :title
-  "Colorimetric fluid test apparatus having plural fluid sequential control",
-  :status :granted,
-  :id "US3622795",
-  :sourcing :authoritative,
-  :filing-year 1968,
-  :assignee :coulter-electronics,
-  :grant-year 1971,
-  :cites
-  ["US2320065"
-   "US2983184"
-   "US3177898"
-   "US3225645"
-   "US3240110"
-   "US3401591"
-   "US3418061"
-   "US3435239"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:dow-corning],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3628996/en",
-  :title "Polydimethylsiloxane release agent",
-  :status :granted,
-  :id "US3628996",
-  :sourcing :authoritative,
-  :filing-year 1969,
-  :assignee :dow-corning,
-  :grant-year 1971,
-  :cites ["US2985545" "US2985546" "US3046160" "US3061567" "US3070566"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:miles-laboratories],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3635681/en",
-  :title "Differential conductivity-measuring apparatus",
-  :status :granted,
-  :id "US3635681",
-  :sourcing :authoritative,
-  :filing-year 1969,
-  :assignee :miles-laboratories,
-  :grant-year 1972,
-  :cites ["GB1054626A" "US1951035"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:eastman-kodak],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3635853/en",
-  :title
-  "A copolymer latex of polyvinyl acetate and an alkyl ester of an unsaturated carboxylic acid",
-  :status :granted,
-  :id "US3635853",
-  :sourcing :authoritative,
-  :filing-year 1969,
-  :assignee :eastman-kodak,
-  :grant-year 1972,
-  :term-years 20,
-  :open-license :none}
- {:assignees [:nippon-kayaku :osaka-seika-kogyo],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3637672/en",
-  :title "Azole compounds",
-  :status :granted,
-  :id "US3637672",
-  :sourcing :authoritative,
-  :filing-year 1968,
-  :assignee :nippon-kayaku,
-  :grant-year 1972,
-  :term-years 20,
-  :open-license :none}
- {:assignees [:shell-oil],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3639163/en",
-  :title "Block polymer insulation for electric conductors",
-  :status :granted,
-  :id "US3639163",
-  :sourcing :authoritative,
-  :filing-year 1969,
-  :assignee :shell-oil,
-  :grant-year 1972,
-  :cites
-  ["US2458600"
-   "US2761854"
-   "US2813809"
-   "US3030237"
-   "US3251905"
-   "US3333024"
-   "US3401213"
-   "US3427264"
-   "US3433855"
-   "US3441530"
-   "US3476530"
-   "US3493369"
-   "US3515528"],
-  :term-years 20,
-  :open-license :none}
- {:jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3639558/en",
-  :title
-  "Immunological reagent particles having proteinaceous materials covalently bonded thereto",
-  :status :granted,
-  :id "US3639558",
-  :sourcing :authoritative,
-  :filing-year 1968,
-  :assignee :unassigned,
-  :grant-year 1972,
   :term-years 20,
   :open-license :none}]
