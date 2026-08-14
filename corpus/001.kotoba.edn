@@ -1,4 +1,82 @@
-[{:assignees [:zenith-radio],
+[{:assignees [:university-of-illinois-at-urbana-champaign],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3661893/en",
+  :title
+  "Synthesis in vitro of nucleic acids and products used therein and products produced therefrom",
+  :status :granted,
+  :id "US3661893",
+  :sourcing :authoritative,
+  :filing-year 1968,
+  :assignee :university-of-illinois-at-urbana-champaign,
+  :grant-year 1972,
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:schlumberger-technology],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3664421/en",
+  :title
+  "Methods for inhibiting the production of loose formation materials",
+  :status :granted,
+  :id "US3664421",
+  :sourcing :authoritative,
+  :filing-year 1970,
+  :assignee :schlumberger-technology,
+  :grant-year 1972,
+  :cites
+  ["US2725107"
+   "US2745496"
+   "US2775303"
+   "US2911048"
+   "US2927640"
+   "US2978029"
+   "US3130787"
+   "US3460618"
+   "US3559736"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:organon],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3666421/en",
+  :title "Diagnostic test slide",
+  :status :granted,
+  :id "US3666421",
+  :sourcing :authoritative,
+  :filing-year 1971,
+  :assignee :organon,
+  :grant-year 1972,
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:f-hoffmann-la-roche],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3671400/en",
+  :title "Bacterial controls and preparation thereof",
+  :status :granted,
+  :id "US3671400",
+  :sourcing :authoritative,
+  :filing-year 1969,
+  :assignee :f-hoffmann-la-roche,
+  :grant-year 1972,
+  :cites ["US3340156"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:miles-laboratories],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3672845/en",
+  :title "Test device for albumin",
+  :status :granted,
+  :id "US3672845",
+  :sourcing :authoritative,
+  :filing-year 1970,
+  :assignee :miles-laboratories,
+  :grant-year 1972,
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:zenith-radio],
   :jurisdiction :us,
   :field "UNKNOWN",
   :source "https://patents.google.com/patent/US3672893/en",
@@ -425,6 +503,19 @@
   :grant-year 1973,
   :term-years 20,
   :open-license :none}
+ {:assignees [:us-department-of-navy],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3724383/en",
+  :title "Lasser stimulated ordnance initiation device",
+  :status :granted,
+  :id "US3724383",
+  :sourcing :authoritative,
+  :filing-year 1971,
+  :assignee :us-department-of-navy,
+  :grant-year 1973,
+  :term-years 20,
+  :open-license :none}
  {:assignees [:north-american-rockwell],
   :jurisdiction :us,
   :field "UNKNOWN",
@@ -680,6 +771,19 @@
   :assignee :technicon-instruments,
   :grant-year 1973,
   :cites ["US3014848" "US3437447" "US3511573"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:ei-du-pont-de-nemours-and],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3773919/en",
+  :title "Polylactide-drug mixtures",
+  :status :granted,
+  :id "US3773919",
+  :sourcing :authoritative,
+  :filing-year 1970,
+  :assignee :ei-du-pont-de-nemours-and,
+  :grant-year 1973,
   :term-years 20,
   :open-license :none}
  {:assignees [:f-hoffmann-la-roche],
@@ -1757,6 +1861,28 @@
   :cites ["US3276589"],
   :term-years 20,
   :open-license :none}
+ {:jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3887699/en",
+  :title "Biodegradable polymeric article for dispensing drugs",
+  :status :granted,
+  :id "US3887699",
+  :sourcing :authoritative,
+  :filing-year 1970,
+  :assignee :unassigned,
+  :grant-year 1975,
+  :cites
+  ["US2625158"
+   "US3297033"
+   "US3435008"
+   "US3499445"
+   "US3545439"
+   "US3565991"
+   "US3618213"
+   "US3625214"
+   "US3636956"],
+  :term-years 20,
+  :open-license :none}
  {:assignees [:bell-telephone-laboratories],
   :jurisdiction :us,
   :field "UNKNOWN",
@@ -1890,6 +2016,19 @@
   :assignee :general-electric,
   :grant-year 1975,
   :cites ["US3565987" "US3639558" "US3791932"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:rustenburg-platinum-mines],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3904663/en",
+  :title "Compositions containing platinum",
+  :status :granted,
+  :id "US3904663",
+  :sourcing :authoritative,
+  :filing-year 1973,
+  :assignee :rustenburg-platinum-mines,
+  :grant-year 1975,
   :term-years 20,
   :open-license :none}
  {:assignees [:miles-laboratories],
@@ -2468,6 +2607,31 @@
   :cites ["US3519538" "US3652761" "US3669841"],
   :term-years 20,
   :open-license :none}
+ {:assignees [:dynatech],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3976071/en",
+  :title
+  "Methods of improving control of release rates and products useful in same",
+  :status :granted,
+  :id "US3976071",
+  :sourcing :authoritative,
+  :filing-year 1974,
+  :assignee :dynatech,
+  :grant-year 1976,
+  :cites
+  ["DE2218200A1"
+   "US3225766"
+   "US3435008"
+   "US3545439"
+   "US3630200"
+   "US3641237"
+   "US3773919"
+   "US3810458"
+   "US3811444"
+   "US3887699"],
+  :term-years 20,
+  :open-license :none}
  {:assignees [:yellow-springs-instrument],
   :jurisdiction :us,
   :field "UNKNOWN",
@@ -2598,6 +2762,21 @@
   :cites ["DE1959169A1"],
   :term-years 20,
   :open-license :none}
+ {:assignees [:american-cyanamid],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3991766/en",
+  :title
+  "Controlled release of medicaments using polymers from glycolic acid",
+  :status :granted,
+  :id "US3991766",
+  :sourcing :authoritative,
+  :filing-year 1975,
+  :assignee :american-cyanamid,
+  :grant-year 1976,
+  :cites ["US3297033" "US3773919" "US3887699"],
+  :term-years 20,
+  :open-license :none}
  {:jurisdiction :us,
   :field "UNKNOWN",
   :source "https://patents.google.com/patent/US3992516/en",
@@ -2609,6 +2788,32 @@
   :filing-year 1974,
   :assignee :unassigned,
   :grant-year 1976,
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:international-diagnostic-technologies],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3992631/en",
+  :title "Fluorometric system, method and test article",
+  :status :granted,
+  :id "US3992631",
+  :sourcing :authoritative,
+  :filing-year 1975,
+  :assignee :international-diagnostic-technologies,
+  :grant-year 1976,
+  :cites
+  ["US3074853"
+   "US3449488"
+   "US3449571"
+   "US3473027"
+   "US3666421"
+   "US3770383"
+   "US3806256"
+   "US3826619"
+   "US3831137"
+   "US3916205"
+   "US3918812"
+   "US3941876"],
   :term-years 20,
   :open-license :none}
  {:assignees [:community-blood-concil-of-greater-new-york],
@@ -3668,6 +3873,20 @@
   :cites ["US3817837" "US3850752" "US3880934" "US3975342" "US4003792"],
   :term-years 20,
   :open-license :none}
+ {:assignees [:university-of-utah],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US4136566/en",
+  :title "Semiconductor temperature sensor",
+  :status :granted,
+  :id "US4136566",
+  :sourcing :authoritative,
+  :filing-year 1977,
+  :assignee :university-of-utah,
+  :grant-year 1979,
+  :cites ["US2824235" "US3960017" "US4016761"],
+  :term-years 20,
+  :open-license :none}
  {:assignees [:enzo-biochem],
   :jurisdiction :us,
   :field "UNKNOWN",
@@ -3931,6 +4150,26 @@
   :cites ["US3715427" "US3843777"],
   :term-years 20,
   :open-license :none}
+ {:assignees [:electric-power-research-institute],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US4179927/en",
+  :title "Temperature sensing device",
+  :status :granted,
+  :id "US4179927",
+  :sourcing :authoritative,
+  :filing-year 1977,
+  :assignee :electric-power-research-institute,
+  :grant-year 1979,
+  :cites
+  ["US3513704"
+   "US3591810"
+   "US3672221"
+   "US3770965"
+   "US3863067"
+   "US3960017"],
+  :term-years 20,
+  :open-license :none}
  {:assignees [:varian-associates],
   :jurisdiction :us,
   :field "UNKNOWN",
@@ -4089,6 +4328,30 @@
    "US3916035"
    "US3942982"
    "US4001870"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:government-of-the-united-states-of-america],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US4200110/en",
+  :title "Fiber optic pH probe",
+  :status :granted,
+  :id "US4200110",
+  :sourcing :authoritative,
+  :filing-year 1977,
+  :assignee :government-of-the-united-states-of-america,
+  :grant-year 1980,
+  :cites
+  ["GB770889A"
+   "US2084399"
+   "US3164663"
+   "US3183208"
+   "US3787119"
+   "US3814081"
+   "US4016133"
+   "US4016863"
+   "US4033330"
+   "US4041932"],
   :term-years 20,
   :open-license :none}
  {:assignees [:mochida-pharmaceutical],
@@ -4896,6 +5159,29 @@
   :cites ["US3859527" "US3975637"],
   :term-years 20,
   :open-license :none}
+ {:assignees [:plessey-handel-und-investments],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US4304461/en",
+  :title "Optical fibre connectors",
+  :status :granted,
+  :id "US4304461",
+  :sourcing :authoritative,
+  :filing-year 1979,
+  :assignee :plessey-handel-und-investments,
+  :grant-year 1981,
+  :cites
+  ["DE2703887A1"
+   "FR2334969A1"
+   "NL7605819A"
+   "US3724383"
+   "US3950075"
+   "US4056307"
+   "US4109994"
+   "US4119362"
+   "US4135781"],
+  :term-years 20,
+  :open-license :none}
  {:jurisdiction :us,
   :field "UNKNOWN",
   :source "https://patents.google.com/patent/US4305926/en",
@@ -5026,6 +5312,21 @@
   :cites ["US4174384" "US4220450" "US4220722"],
   :term-years 20,
   :open-license :none}
+ {:assignees [:research],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US4321365/en",
+  :title
+  "Oligonucleotides useful as adaptors in DNA cloning, adapted DNA molecules, and methods of preparing adaptors and adapted molecules",
+  :status :granted,
+  :id "US4321365",
+  :sourcing :authoritative,
+  :filing-year 1977,
+  :assignee :research,
+  :grant-year 1982,
+  :cites ["US4237224"],
+  :term-years 20,
+  :open-license :none}
  {:assignees [:kendrew-biosystems-a-of],
   :jurisdiction :us,
   :field "UNKNOWN",
@@ -5118,6 +5419,20 @@
   :grant-year 1982,
   :cites
   ["GB1453057A" "US3356686" "US3926436" "US4080211" "US4128427"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:bethesda-research-laboratories],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US4342833/en",
+  :title "Immobilized restriction endonucleases",
+  :status :granted,
+  :id "US4342833",
+  :sourcing :authoritative,
+  :filing-year 1978,
+  :assignee :bethesda-research-laboratories,
+  :grant-year 1982,
+  :cites ["US3909358" "US4013514" "US4039382"],
   :term-years 20,
   :open-license :none}
  {:assignees [:nippon-kogaku],
@@ -9052,6 +9367,29 @@
   :grant-year 1911,
   :term-years 20,
   :open-license :none}
+ {:jurisdiction :wo,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/WO1979000377A1/en",
+  :title "Optical sensing apparatus and method",
+  :status :pending,
+  :id "WO1979000377A1",
+  :sourcing :authoritative,
+  :filing-year 1978,
+  :assignee :unassigned,
+  :cites
+  ["DE2620914A1"
+   "DE2819590A1"
+   "FR2103683A5"
+   "FR2334125A1"
+   "GB1536340A"
+   "US3625589"
+   "US3786681"
+   "US3931518"
+   "US3950987"
+   "US4019051"
+   "US4071753"],
+  :term-years 20,
+  :open-license :none}
  {:assignees [:beckman-instruments],
   :jurisdiction :wo,
   :field "UNKNOWN",
@@ -9130,6 +9468,24 @@
   :filing-year 1983,
   :assignee :unassigned,
   :cites ["EP0062286A1" "EP0063879A2" "WO1982002060A1"],
+  :term-years 20,
+  :open-license :none}
+ {:jurisdiction :wo,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/WO1983003363A1/en",
+  :title "Chromatographic method for isolating macromolecules",
+  :status :pending,
+  :id "WO1983003363A1",
+  :sourcing :authoritative,
+  :filing-year 1983,
+  :assignee :unassigned,
+  :cites
+  ["DE2601930A1"
+   "FR2462183A1"
+   "GB2075362A"
+   "US4029583"
+   "US4118316"
+   "US4140653"],
   :term-years 20,
   :open-license :none}
  {:assignees [:gen-probe],
@@ -9278,306 +9634,5 @@
    "EP0130523A2"
    "US4395486"
    "WO1984004332A1"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:georgetown-university],
-  :jurisdiction :wo,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/WO1986005816A1/en",
-  :title "Type-specific papillomavirus dna sequences and peptides",
-  :status :pending,
-  :id "WO1986005816A1",
-  :sourcing :authoritative,
-  :filing-year 1986,
-  :assignee :georgetown-university,
-  :cites ["US4358535" "US4419446" "US4551270"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:salk-institute-for-biological-studies],
-  :jurisdiction :wo,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/WO1986005817A1/en",
-  :title "Dna sequencing",
-  :status :pending,
-  :id "WO1986005817A1",
-  :sourcing :authoritative,
-  :filing-year 1986,
-  :assignee :salk-institute-for-biological-studies,
-  :cites ["EP0115777A2"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:royal-postgraduate-medical-school],
-  :jurisdiction :wo,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/WO1987007531A1/en",
-  :title "Endotoxin removal",
-  :status :pending,
-  :id "WO1987007531A1",
-  :sourcing :authoritative,
-  :filing-year 1987,
-  :assignee :royal-postgraduate-medical-school,
-  :cites ["EP0110409A2" "EP0129786A2"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:queen-mary-university-of-london],
-  :jurisdiction :wo,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/WO1987007645A1/en",
-  :title "A method of sequencing nucleic acids",
-  :status :pending,
-  :id "WO1987007645A1",
-  :sourcing :authoritative,
-  :filing-year 1987,
-  :assignee :queen-mary-university-of-london,
-  :cites ["EP0121778A1" "EP0127737A1"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:siska-diagnostics],
-  :jurisdiction :wo,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/WO1988001302A1/en",
-  :title "Nucleic acid probe assay methods and compositions",
-  :status :pending,
-  :id "WO1988001302A1",
-  :sourcing :authoritative,
-  :filing-year 1987,
-  :assignee :siska-diagnostics,
-  :cites
-  ["EP0070687B1"
-   "US2277"
-   "US4302204"
-   "US4358535"
-   "US4419444"
-   "US4469796"
-   "US4486539"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:harvard-university],
-  :jurisdiction :wo,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/WO1988005470A1/en",
-  :title "T7 dna polymerase",
-  :status :pending,
-  :id "WO1988005470A1",
-  :sourcing :authoritative,
-  :filing-year 1987,
-  :assignee :harvard-university,
-  :cites ["US4483922"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:us-department-of-energy],
-  :jurisdiction :wo,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/WO1989003432A1/en",
-  :title "Method for rapid base sequencing in dna and rna",
-  :status :pending,
-  :id "WO1989003432A1",
-  :sourcing :authoritative,
-  :filing-year 1988,
-  :assignee :us-department-of-energy,
-  :cites ["EP0251575A1" "US3730844" "US4521509" "US4793705"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:cemu-bioteknik],
-  :jurisdiction :wo,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/WO1989009282A1/en",
-  :title "Method of sequencing dna",
-  :status :pending,
-  :id "WO1989009282A1",
-  :sourcing :authoritative,
-  :filing-year 1989,
-  :assignee :cemu-bioteknik,
-  :cites ["EP0206411A2" "EP0229701A2" "WO1987007645A1"],
-  :term-years 20,
-  :open-license :none}
- {:jurisdiction :wo,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/WO1989009283A1/en",
-  :title
-  "Pyrophosphate-based method and apparatus for sequencing nucleic acids",
-  :status :pending,
-  :id "WO1989009283A1",
-  :sourcing :authoritative,
-  :filing-year 1989,
-  :assignee :unassigned,
-  :term-years 20,
-  :open-license :none}
- {:assignees [:oxford-university-innovation],
-  :jurisdiction :wo,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/WO1989010977A1/en",
-  :title "Analysing polynucleotide sequences",
-  :status :pending,
-  :id "WO1989010977A1",
-  :sourcing :authoritative,
-  :filing-year 1989,
-  :assignee :oxford-university-innovation,
-  :cites ["EP0228075A2" "GB2156074A" "WO1985001051A1"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:cetus],
-  :jurisdiction :wo,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/WO1989011548A1/en",
-  :title "Immobilized sequence-specific probes",
-  :status :pending,
-  :id "WO1989011548A1",
-  :sourcing :authoritative,
-  :filing-year 1989,
-  :assignee :cetus,
-  :cites ["EP0130523A2" "EP0142299A2"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:baylor-college-of-medicine],
-  :jurisdiction :wo,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/WO1990000626A1/en",
-  :title "Solid phase assembly and reconstruction of biopolymers",
-  :status :pending,
-  :id "WO1990000626A1",
-  :sourcing :authoritative,
-  :filing-year 1989,
-  :assignee :baylor-college-of-medicine,
-  :term-years 20,
-  :open-license :none}
- {:assignees [:oxford-university-innovation],
-  :jurisdiction :wo,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/WO1990003382A1/en",
-  :title "Support-bound oligonucleotides",
-  :status :pending,
-  :id "WO1990003382A1",
-  :sourcing :authoritative,
-  :filing-year 1989,
-  :assignee :oxford-university-innovation,
-  :cites
-  ["DE3446635A1"
-   "EP0090789A1"
-   "EP0241363A1"
-   "EP0261283B1"
-   "WO1985001051A1"],
-  :term-years 20,
-  :open-license :none}
- {:assignees
-  [:dnax-research-institute-of-molecular-and-cellular-biology],
-  :jurisdiction :wo,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/WO1990004652A1/en",
-  :title "Dna sequencing by multiple mixed oligonucleotide probes",
-  :status :pending,
-  :id "WO1990004652A1",
-  :sourcing :authoritative,
-  :filing-year 1989,
-  :assignee :dnax-research-institute-of-molecular-and-cellular-biology,
-  :cites ["US4613566" "US4689295" "US4710465" "US4849332" "US4868104"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:eastman-kodak],
-  :jurisdiction :wo,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/WO1990008839A1/en",
-  :title "Thermostable polymerase dna sequencing reaction concentrate",
-  :status :pending,
-  :id "WO1990008839A1",
-  :sourcing :authoritative,
-  :filing-year 1990,
-  :assignee :eastman-kodak,
-  :cites ["EP0258017A2" "WO1988005470A1"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:amersham-international],
-  :jurisdiction :wo,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/WO1990013666A1/en",
-  :title "Sequencing method",
-  :status :pending,
-  :id "WO1990013666A1",
-  :sourcing :authoritative,
-  :filing-year 1990,
-  :assignee :amersham-international,
-  :cites ["EP0223618A2" "EP0233053A2" "US4770992" "WO1989003432A1"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:affymax-technologies],
-  :jurisdiction :wo,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/WO1990015070A1/en",
-  :title "Very large scale immobilized peptide synthesis",
-  :status :pending,
-  :id "WO1990015070A1",
-  :sourcing :authoritative,
-  :filing-year 1990,
-  :assignee :affymax-technologies,
-  :cites ["EP0328256A1"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:sri-international :stanford-research-institute],
-  :jurisdiction :wo,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/WO1991006678A1/en",
-  :title "Dna sequencing",
-  :status :pending,
-  :id "WO1991006678A1",
-  :sourcing :authoritative,
-  :filing-year 1990,
-  :assignee :sri-international,
-  :cites
-  ["EP0219342A2"
-   "EP0223618A2"
-   "WO1989003432A1"
-   "WO1989009283A1"
-   "WO1990013666A1"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:affymax-technologies],
-  :jurisdiction :wo,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/WO1991007087A1/en",
-  :title
-  "Spatially-addressable immobilization of anti-ligands on surfaces",
-  :status :pending,
-  :id "WO1991007087A1",
-  :sourcing :authoritative,
-  :filing-year 1990,
-  :assignee :affymax-technologies,
-  :cites
-  ["US4016043"
-   "US4371515"
-   "US4557998"
-   "US4567902"
-   "US4656252"
-   "US4709044"
-   "US4722906"
-   "US4775745"
-   "US4895809"
-   "US4898951"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:uniroyal-adhesives-and-sealants],
-  :jurisdiction :wo,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/WO1992002568A1/en",
-  :title
-  "Aqueous polyurethane dispersion synthesis for adhesive thermoforming applications",
-  :status :pending,
-  :id "WO1992002568A1",
-  :sourcing :authoritative,
-  :filing-year 1991,
-  :assignee :uniroyal-adhesives-and-sealants,
-  :cites ["US4558090" "US4762880"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:ei-du-pont-de-nemours-and :kansai-paint],
-  :jurisdiction :wo,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/WO1994027741A1/en",
-  :title "Process for forming overcoat",
-  :status :pending,
-  :id "WO1994027741A1",
-  :sourcing :authoritative,
-  :filing-year 1993,
-  :assignee :ei-du-pont-de-nemours-and,
-  :cites ["EP0263429A2" "EP0275138A2" "US4732790" "US4732791"],
   :term-years 20,
   :open-license :none}]
