@@ -1,4 +1,256 @@
-[{:assignees [:shell-oil],
+[{:assignees [:johnson-and-johnson],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3483017/en",
+  :title "Method of unifying bibulous papers",
+  :status :granted,
+  :id "US3483017",
+  :sourcing :authoritative,
+  :filing-year 1966,
+  :assignee :johnson-and-johnson,
+  :grant-year 1969,
+  :cites
+  ["US2253922"
+   "US2954868"
+   "US3020169"
+   "US3036927"
+   "US3066043"
+   "US3068117"
+   "US3133825"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:billingsfors-langed],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3489592/en",
+  :title
+  "Method and device for coating or covering paper or sheet material with surface layers",
+  :status :granted,
+  :id "US3489592",
+  :sourcing :authoritative,
+  :filing-year 1966,
+  :assignee :billingsfors-langed,
+  :grant-year 1970,
+  :cites ["FR1308186A" "US1484705" "US2051403" "US2855895"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:becton-dickinson-and],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3492396/en",
+  :title "Agglutinate separation method and apparatus",
+  :status :granted,
+  :id "US3492396",
+  :sourcing :authoritative,
+  :filing-year 1967,
+  :assignee :becton-dickinson-and,
+  :grant-year 1970,
+  :cites
+  ["GB189512072A" "US2462612" "US3352197" "US3382983" "US3392834"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:appleton-coated-paper],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3493369/en",
+  :title
+  "Low electrical resistance varnish coatings on an insulating base",
+  :status :granted,
+  :id "US3493369",
+  :sourcing :authoritative,
+  :filing-year 1964,
+  :assignee :appleton-coated-paper,
+  :grant-year 1970,
+  :cites
+  ["US2374214"
+   "US2880181"
+   "US3030237"
+   "US3057749"
+   "US3113022"
+   "US3137666"
+   "US3245833"
+   "US3265497"
+   "US3295967"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:scott-paper],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3493419/en",
+  :title
+  "Release paper for casting urethane resins and process for making same",
+  :status :granted,
+  :id "US3493419",
+  :sourcing :authoritative,
+  :filing-year 1967,
+  :assignee :scott-paper,
+  :grant-year 1970,
+  :cites ["US2565491" "US2869722" "US2913355" "US3230289" "US3335017"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:bausch-and-lomb],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3497690/en",
+  :title
+  "Method and apparatus for classifying biological cells by measuring the size and fluorescent response thereof",
+  :status :granted,
+  :id "US3497690",
+  :sourcing :authoritative,
+  :filing-year 1967,
+  :assignee :bausch-and-lomb,
+  :grant-year 1970,
+  :cites
+  ["US3092722"
+   "US3306156"
+   "US3316896"
+   "US3327117"
+   "US3327119"
+   "US3364358"
+   "US3413464"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:haematronics],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3502437/en",
+  :title "Identification card",
+  :status :granted,
+  :id "US3502437",
+  :sourcing :authoritative,
+  :filing-year 1967,
+  :assignee :haematronics,
+  :grant-year 1970,
+  :cites ["US2350239" "US2770572" "US2822476" "US3074853" "US3232710"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:eastman-kodak],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3503739/en",
+  :title
+  "Photoconductive layers and their application to electrophotography",
+  :status :granted,
+  :id "US3503739",
+  :sourcing :authoritative,
+  :filing-year 1966,
+  :assignee :eastman-kodak,
+  :grant-year 1970,
+  :cites
+  ["US2349979"
+   "US2870123"
+   "US3041165"
+   "US3163531"
+   "US3244517"
+   "US3373141"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:phillips-petroleum],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3503782/en",
+  :title "Differential release paper",
+  :status :granted,
+  :id "US3503782",
+  :sourcing :authoritative,
+  :filing-year 1967,
+  :assignee :phillips-petroleum,
+  :grant-year 1970,
+  :cites ["US2816655"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:ei-du-pont-de-nemours-and],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3505785/en",
+  :title "Superficially porous supports for chromatography",
+  :status :granted,
+  :id "US3505785",
+  :sourcing :authoritative,
+  :filing-year 1967,
+  :assignee :ei-du-pont-de-nemours-and,
+  :grant-year 1970,
+  :cites ["CA729581A" "GB1016635A" "US3340085"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:general-electric],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3507145/en",
+  :title "Indium sesquioxide thin film combustible gas detector",
+  :status :granted,
+  :id "US3507145",
+  :sourcing :authoritative,
+  :filing-year 1967,
+  :assignee :general-electric,
+  :grant-year 1970,
+  :cites ["US2508588"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:minnesota-mining-and-manufacturing],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3507661/en",
+  :title
+  "Gelatin containing dispersions having gelatin reactive polymers therein and coatings prepared therefrom",
+  :status :granted,
+  :id "US3507661",
+  :sourcing :authoritative,
+  :filing-year 1969,
+  :assignee :minnesota-mining-and-manufacturing,
+  :grant-year 1970,
+  :cites ["US3158484" "US3306750"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:international-business-machines],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3508654/en",
+  :title "Particle separation apparatus",
+  :status :granted,
+  :id "US3508654",
+  :sourcing :authoritative,
+  :filing-year 1967,
+  :assignee :international-business-machines,
+  :grant-year 1970,
+  :cites ["US3159208" "US3215900" "US3217727" "US3335724"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:international-business-machines],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3508655/en",
+  :title "Cell extraction and collection apparatus",
+  :status :granted,
+  :id "US3508655",
+  :sourcing :authoritative,
+  :filing-year 1967,
+  :assignee :international-business-machines,
+  :grant-year 1970,
+  :cites ["US2905169" "US2961302" "US3215900" "US3335724"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:xerox],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3508879/en",
+  :title "Aliquotting device",
+  :status :granted,
+  :id "US3508879",
+  :sourcing :authoritative,
+  :filing-year 1966,
+  :assignee :xerox,
+  :grant-year 1970,
+  :cites
+  ["US3025405"
+   "US3036893"
+   "US3098719"
+   "US3143393"
+   "US3193358"
+   "US3193359"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:shell-oil],
   :jurisdiction :us,
   :field "UNKNOWN",
   :source "https://patents.google.com/patent/US3514217/en",
@@ -7259,6 +7511,17 @@
   :cites ["US4373071"],
   :term-years 20,
   :open-license :none}
+ {:jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US450963/en",
+  :title "Henky kuhn",
+  :status :granted,
+  :id "US450963",
+  :sourcing :authoritative,
+  :assignee :unassigned,
+  :grant-year 1891,
+  :term-years 20,
+  :open-license :none}
  {:assignees [:us-department-of-health-and-human-services],
   :jurisdiction :us,
   :field "UNKNOWN",
@@ -9091,310 +9354,5 @@
    "US4264327"
    "US4277560"
    "US4456689"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:bresatac],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US4898951/en",
-  :title
-  "Compounds used as intermediates in the preparations of non-radioactive biological probes",
-  :status :granted,
-  :id "US4898951",
-  :sourcing :authoritative,
-  :filing-year 1988,
-  :assignee :bresatac,
-  :grant-year 1990,
-  :cites
-  ["EP0119448A1"
-   "EP0127438B1"
-   "US4282287"
-   "US4487838"
-   "WO1983002277A1"
-   "WO1984003285A1"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:harvard-university],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US4921794/en",
-  :title "T7 DNA polymerase",
-  :status :granted,
-  :id "US4921794",
-  :sourcing :authoritative,
-  :filing-year 1988,
-  :assignee :harvard-university,
-  :grant-year 1990,
-  :cites
-  ["EP0258017A2"
-   "US4224408"
-   "US4331589"
-   "US4394443"
-   "US4395486"
-   "US4555486"
-   "US4663290"
-   "US4683195"
-   "US4683202"
-   "US4767708"
-   "US4786600"
-   "US4795699"
-   "US4800159"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:millipore],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US4923901/en",
-  :title "Membranes with bound oligonucleotides and peptides",
-  :status :granted,
-  :id "US4923901",
-  :sourcing :authoritative,
-  :filing-year 1987,
-  :assignee :millipore,
-  :grant-year 1990,
-  :cites
-  ["US4415732"
-   "US4458066"
-   "US4500707"
-   "US4591614"
-   "US4667025"
-   "US4668777"
-   "US4689405"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:harvard-university],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US4942130/en",
-  :title "T7 DNA polymerase",
-  :status :granted,
-  :id "US4942130",
-  :sourcing :authoritative,
-  :filing-year 1987,
-  :assignee :harvard-university,
-  :grant-year 1990,
-  :cites
-  ["EP0258017A2"
-   "US3444041"
-   "US3444042"
-   "US3661893"
-   "US4072574"
-   "US4224408"
-   "US4331589"
-   "US4363877"
-   "US4394443"
-   "US4395486"
-   "US4483920"
-   "US4483922"
-   "US4486539"
-   "US4521509"
-   "US4555486"
-   "US4556643"
-   "US4563419"
-   "US4591565"
-   "US4656127"
-   "US4663283"
-   "US4663290"
-   "US4670379"
-   "US4675283"
-   "US4683195"
-   "US4683202"
-   "US4707235"
-   "US4729947"
-   "US4767708"
-   "US4786600"
-   "US4795699"
-   "US4795700"
-   "US4800159"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:harvard-university],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US4946786/en",
-  :title "T7 DNA polymerase",
-  :status :granted,
-  :id "US4946786",
-  :sourcing :authoritative,
-  :filing-year 1990,
-  :assignee :harvard-university,
-  :grant-year 1990,
-  :cites
-  ["EP0258017A2"
-   "US3444041"
-   "US3444042"
-   "US3661893"
-   "US4072574"
-   "US4224408"
-   "US4331589"
-   "US4363877"
-   "US4394443"
-   "US4395486"
-   "US4483920"
-   "US4483922"
-   "US4486539"
-   "US4521509"
-   "US4555486"
-   "US4556643"
-   "US4563419"
-   "US4591565"
-   "US4656127"
-   "US4663283"
-   "US4663290"
-   "US4670379"
-   "US4675283"
-   "US4683195"
-   "US4683202"
-   "US4707235"
-   "US4729947"
-   "US4767708"
-   "US4786600"
-   "US4795699"
-   "US4795700"
-   "US4800159"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:government-of-the-united-states-of-america],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US4962037/en",
-  :title "Method for rapid base sequencing in DNA and RNA",
-  :status :granted,
-  :id "US4962037",
-  :sourcing :authoritative,
-  :filing-year 1987,
-  :assignee :government-of-the-united-states-of-america,
-  :grant-year 1990,
-  :cites ["EP0251575A1" "US3730844" "US4521509"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:cetus],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US4965188/en",
-  :title
-  "Process for amplifying, detecting, and/or cloning nucleic acid sequences using a thermostable enzyme",
-  :status :granted,
-  :id "US4965188",
-  :sourcing :authoritative,
-  :filing-year 1987,
-  :assignee :cetus,
-  :grant-year 1990,
-  :cites
-  ["EP0086548A2"
-   "EP0138242A1"
-   "EP0200362B1"
-   "EP0201184B1"
-   "EP0258017A2"
-   "US4351901"
-   "US4683194"
-   "US4683195"
-   "US4683202"
-   "US4800159"
-   "US4889818"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:bio-metric-systems],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US4973493/en",
-  :title "Method of improving the biocompatibility of solid surfaces",
-  :status :granted,
-  :id "US4973493",
-  :sourcing :authoritative,
-  :filing-year 1987,
-  :assignee :bio-metric-systems,
-  :grant-year 1990,
-  :cites
-  ["US3808113"
-   "US3826678"
-   "US3955012"
-   "US3959078"
-   "US4007089"
-   "US4240163"
-   "US4311573"
-   "US4378224"
-   "US4378435"
-   "US4419444"
-   "US4434150"
-   "US4451568"
-   "US4500676"
-   "US4526714"
-   "US4526909"
-   "US4530974"
-   "US4536179"
-   "US4589881"
-   "US4589964"
-   "US4595632"
-   "US4605413"
-   "US4663233"
-   "US4687808"
-   "US4715858"
-   "US4716122"
-   "US4722906"
-   "US4828563"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:montefiore-medical-center],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US4981783/en",
-  :title "Method for detecting pathological conditions",
-  :status :granted,
-  :id "US4981783",
-  :sourcing :authoritative,
-  :filing-year 1986,
-  :assignee :montefiore-medical-center,
-  :grant-year 1991,
-  :cites ["US4699877"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:consejo-superior-de-investigaciones-cientificas-csic],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US5001050/en",
-  :title "PHφ29 DNA polymerase",
-  :status :granted,
-  :id "US5001050",
-  :sourcing :authoritative,
-  :filing-year 1989,
-  :assignee :consejo-superior-de-investigaciones-cientificas-csic,
-  :grant-year 1991,
-  :cites ["US4795699" "US4921794" "US4942130" "US4946786"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:university-of-california-san-diego-ucsd],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US5001051/en",
-  :title
-  "Dose critical in-vivo detection of anti-cancer drug levels in blood",
-  :status :granted,
-  :id "US5001051",
-  :sourcing :authoritative,
-  :filing-year 1986,
-  :assignee :university-of-california-san-diego-ucsd,
-  :grant-year 1991,
-  :cites
-  ["US4419340"
-   "US4488814"
-   "US4559299"
-   "US4577109"
-   "US4610869"
-   "US4822746"],
-  :term-years 20,
-  :open-license :none}
- {:jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US5002867/en",
-  :title
-  "Nucleic acid sequence determination by multiple mixed oligonucleotide probes",
-  :status :granted,
-  :id "US5002867",
-  :sourcing :authoritative,
-  :filing-year 1988,
-  :assignee :unassigned,
-  :grant-year 1991,
-  :cites ["US4865968"],
   :term-years 20,
   :open-license :none}]
