@@ -1,4 +1,344 @@
-[{:assignees [:us-department-of-energy],
+[{:assignees [:yale-university],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US4711955/en",
+  :title
+  "Modified nucleotides and methods of preparing and using same",
+  :status :granted,
+  :id "US4711955",
+  :sourcing :authoritative,
+  :filing-year 1983,
+  :assignee :yale-university,
+  :grant-year 1987,
+  :cites
+  ["DE2618419A1"
+   "DE2618511A1"
+   "DE3045375A1"
+   "EP0070685A2"
+   "EP0070687B1"
+   "GB1548741A"
+   "GB1552607A"
+   "GB2019408A"
+   "GB2026690A"
+   "GB2034323A"
+   "GB2041922A"
+   "GB2045239A"
+   "GB2125964A"
+   "US3328389"
+   "US3337530"
+   "US3338882"
+   "US3804826"
+   "US3893998"
+   "US3915958"
+   "US3917583"
+   "US3960840"
+   "US3968101"
+   "US4008363"
+   "US4038480"
+   "US4048307"
+   "US4086417"
+   "US4088639"
+   "US4096324"
+   "US4134792"
+   "US4151349"
+   "US4171432"
+   "US4213893"
+   "US4228237"
+   "US4230698"
+   "US4230797"
+   "US4247544"
+   "US4261893"
+   "US4267171"
+   "US4302204"
+   "US4318980"
+   "US4318981"
+   "US4318982"
+   "US4355165"
+   "US4358535"
+   "US4363759"
+   "US4374925"
+   "US4380580"
+   "US4383031"
+   "US4446231"
+   "US4469863"
+   "WO1983002276A1"
+   "WO1983002277A1"
+   "WO1983002286A1"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:molecular-diagnostics],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US4713326/en",
+  :title
+  "Coupling of nucleic acids to solid support by photochemical methods",
+  :status :granted,
+  :id "US4713326",
+  :sourcing :authoritative,
+  :filing-year 1984,
+  :assignee :molecular-diagnostics,
+  :grant-year 1987,
+  :cites ["EP0131830A1" "US4542102" "US4582789" "US4592998"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:fuji-photo-film],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US4720786/en",
+  :title
+  "Method of compensating for offset distortion in rows of electrophoretic patterns",
+  :status :granted,
+  :id "US4720786",
+  :sourcing :authoritative,
+  :filing-year 1986,
+  :assignee :fuji-photo-film,
+  :grant-year 1988,
+  :cites ["EP0113672A2" "EP0141382A2" "EP0157280A2" "WO1986005817A1"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:bio-metric-systems],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US4722906/en",
+  :title "Binding reagents and methods",
+  :status :granted,
+  :id "US4722906",
+  :sourcing :authoritative,
+  :filing-year 1982,
+  :assignee :bio-metric-systems,
+  :grant-year 1988,
+  :cites ["US3959078" "US4007089" "US4434150"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:boston-university :university-of-colorado-foundation],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US4728591/en",
+  :title
+  "Self-assembled nanometer lithographic masks and templates and method for parallel fabrication of nanometer scale multi-device structures",
+  :status :granted,
+  :id "US4728591",
+  :sourcing :authoritative,
+  :filing-year 1986,
+  :assignee :boston-university,
+  :grant-year 1988,
+  :cites ["US4103064" "US4103073" "US4170512" "US4254174"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:molecular-diagnostics],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US4737454/en",
+  :title
+  "Fast photochemical method of labelling nucleic acids for detection purposes in hybridization assays",
+  :status :granted,
+  :id "US4737454",
+  :sourcing :authoritative,
+  :filing-year 1984,
+  :assignee :molecular-diagnostics,
+  :grant-year 1988,
+  :cites
+  ["EP0156287A2"
+   "GB2019408A"
+   "US4218539"
+   "US4358535"
+   "US4486539"
+   "US4582789"
+   "US4617261"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:genetic-systems],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US4749647/en",
+  :title
+  "Polymerization-induced separation assay using recognition pairs",
+  :status :granted,
+  :id "US4749647",
+  :sourcing :authoritative,
+  :filing-year 1984,
+  :assignee :genetic-systems,
+  :grant-year 1988,
+  :cites
+  ["EP0044988A2"
+   "US3969287"
+   "US4292296"
+   "US4373071"
+   "US4469796"
+   "US4474892"
+   "US4486539"
+   "US4506009"
+   "US4511478"
+   "US4522922"
+   "US4530900"
+   "US4609707"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:amgen],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US4751177/en",
+  :title
+  "Methods and kits for performing nucleic acid hybridization assays",
+  :status :granted,
+  :id "US4751177",
+  :sourcing :authoritative,
+  :filing-year 1985,
+  :assignee :amgen,
+  :grant-year 1988,
+  :cites
+  ["EP0062286A1"
+   "EP0130515A2"
+   "EP0153873A2"
+   "US4358535"
+   "US4415732"
+   "US4486539"
+   "US4522922"
+   "WO1984003520A1"
+   "WO1985004674A1"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:kansai-paint],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US4759961/en",
+  :title
+  "Coating method with crosslinked coatings from two coat-one bake systems",
+  :status :granted,
+  :id "US4759961",
+  :sourcing :authoritative,
+  :filing-year 1987,
+  :assignee :kansai-paint,
+  :grant-year 1988,
+  :cites
+  ["US3619398"
+   "US3676383"
+   "US3998716"
+   "US4315959"
+   "US4382114"
+   "US4463038"
+   "US4514445"
+   "US4529632"
+   "US4533703"
+   "US4536558"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:kansai-paint],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US4761212/en",
+  :title "Multiple coating method",
+  :status :granted,
+  :id "US4761212",
+  :sourcing :authoritative,
+  :filing-year 1986,
+  :assignee :kansai-paint,
+  :grant-year 1988,
+  :cites
+  ["US3619398"
+   "US3676383"
+   "US3998716"
+   "US4375498"
+   "US4463038"
+   "US4529632"
+   "US4536558"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:allied :genetics-institute],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US4766062/en",
+  :title
+  "Displacement polynucleotide assay method and polynucleotide complex reagent therefor",
+  :status :granted,
+  :id "US4766062",
+  :sourcing :authoritative,
+  :filing-year 1984,
+  :assignee :allied,
+  :grant-year 1988,
+  :cites
+  ["EP0063879A2"
+   "EP0070687B1"
+   "EP0097373B1"
+   "EP0124221A1"
+   "EP0127327A1"
+   "EP0133288A2"
+   "EP0139489A2"
+   "GB2125964A"
+   "US4205952"
+   "US4358535"
+   "US4388295"
+   "US4395486"
+   "US4434236"
+   "US4486539"
+   "US4568649"
+   "US4629689"
+   "WO1983001459A1"
+   "WO1983002277A1"
+   "WO1984002721A1"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:carnegie-mellon-university],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US4767708/en",
+  :title "Enzyme amplification and purification",
+  :status :granted,
+  :id "US4767708",
+  :sourcing :authoritative,
+  :filing-year 1984,
+  :assignee :carnegie-mellon-university,
+  :grant-year 1988,
+  :term-years 20,
+  :open-license :none}
+ {:jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US4770992/en",
+  :title "Detection of specific DNA sequences by flow cytometry",
+  :status :granted,
+  :id "US4770992",
+  :sourcing :authoritative,
+  :filing-year 1985,
+  :assignee :unassigned,
+  :grant-year 1988,
+  :cites ["US4585736"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:national-distillers-and-chemical],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US4775745/en",
+  :title
+  "Diazonium compounds useful as components for nucleic acid probes",
+  :status :granted,
+  :id "US4775745",
+  :sourcing :authoritative,
+  :filing-year 1986,
+  :assignee :national-distillers-and-chemical,
+  :grant-year 1988,
+  :cites
+  ["US2744116"
+   "US3637672"
+   "US3715872"
+   "US4539148"
+   "US4556513"
+   "US4617621"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:columbia-university-in-the-city-of-new-york],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US4786600/en",
+  :title "Autocatalytic replication of recombinant RNA",
+  :status :granted,
+  :id "US4786600",
+  :sourcing :authoritative,
+  :filing-year 1984,
+  :assignee :columbia-university-in-the-city-of-new-york,
+  :grant-year 1988,
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:us-department-of-energy],
   :jurisdiction :us,
   :field "UNKNOWN",
   :source "https://patents.google.com/patent/US4793705/en",

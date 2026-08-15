@@ -233,6 +233,43 @@
   "hirameki-patent:CA479968A"
   ":hirameki/source"
   "https://patents.google.com/patent/CA479968A/en"]
+ [":db/add"
+  "hirameki-patent:CA500178A"
+  ":hirameki.patent/title"
+  "Adhesive sheets or tapes"]
+ [":db/add"
+  "hirameki-patent:CA500178A"
+  ":hirameki.patent/jurisdiction"
+  ":ca"]
+ [":db/add"
+  "hirameki-patent:CA500178A"
+  ":hirameki.patent/field"
+  "UNKNOWN"]
+ [":db/add"
+  "hirameki-patent:CA500178A"
+  ":hirameki.patent/assignee"
+  ":johnson-and-johnson"]
+ [":db/add"
+  "hirameki-patent:CA500178A"
+  ":hirameki.patent/status"
+  ":granted"]
+ [":db/add"
+  "hirameki-patent:CA500178A"
+  ":hirameki.patent/open-license"
+  ":none"]
+ [":db/add"
+  "hirameki-patent:CA500178A"
+  ":hirameki.obs/release-status"
+  ":in-force"]
+ [":db/add"
+  "hirameki-patent:CA500178A"
+  ":hirameki/sourcing"
+  ":authoritative"]
+ [":db/add" "hirameki-patent:CA500178A" ":hirameki/derived" true]
+ [":db/add"
+  "hirameki-patent:CA500178A"
+  ":hirameki/source"
+  "https://patents.google.com/patent/CA500178A/en"]
  [":db/add" "hirameki-patent:DE139666C" ":hirameki.patent/title" ""]
  [":db/add"
   "hirameki-patent:DE139666C"
@@ -9910,37 +9947,4 @@
  [":db/add"
   "hirameki-patent:JP2004168845A"
   ":hirameki/sourcing"
-  ":authoritative"]
- [":db/add" "hirameki-patent:JP2004168845A" ":hirameki/derived" true]
- [":db/add"
-  "hirameki-patent:JP2004168845A"
-  ":hirameki.obs/years-to-expiry"
-  -4]
- [":db/add"
-  "hirameki-patent:JP2004168845A"
-  ":hirameki/source"
-  "https://patents.google.com/patent/JP2004168845A/en"]
- [":db/add"
-  "hirameki-patent:JP2004182896A"
-  ":hirameki.patent/title"
-  "Aqueous emulsion composition of chlorinated polyolefin and water-based coating produced by using the same"]
- [":db/add"
-  "hirameki-patent:JP2004182896A"
-  ":hirameki.patent/jurisdiction"
-  ":jp"]
- [":db/add"
-  "hirameki-patent:JP2004182896A"
-  ":hirameki.patent/field"
-  "UNKNOWN"]
- [":db/add"
-  "hirameki-patent:JP2004182896A"
-  ":hirameki.patent/assignee"
-  ":toyo-kasei-kogyo"]
- [":db/add"
-  "hirameki-patent:JP2004182896A"
-  ":hirameki.patent/status"
-  ":pending"]
- [":db/add"
-  "hirameki-patent:JP2004182896A"
-  ":hirameki.patent/open-license"
-  ":none"]]
+  ":authoritative"]]
