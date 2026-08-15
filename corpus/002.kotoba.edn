@@ -1,4 +1,394 @@
-[{:assignees [:johns-hopkins-university],
+[{:assignees [:cetus],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US4555486/en",
+  :title
+  "Method for using an amino-terminus DNA sequence to synthesize a specific double-stranded DNA",
+  :status :granted,
+  :id "US4555486",
+  :sourcing :authoritative,
+  :filing-year 1983,
+  :assignee :cetus,
+  :grant-year 1985,
+  :cites ["US4401759"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:meiji-seika-kaisha],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US4556513/en",
+  :title
+  "Process for the production of antibiotic 1-oxadethiacephalosporins, and intermediate",
+  :status :granted,
+  :id "US4556513",
+  :sourcing :authoritative,
+  :filing-year 1984,
+  :assignee :meiji-seika-kaisha,
+  :grant-year 1985,
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:agracetus],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US4556643/en",
+  :title "Assay method and probe for polynucleotide sequences",
+  :status :granted,
+  :id "US4556643",
+  :sourcing :authoritative,
+  :filing-year 1983,
+  :assignee :agracetus,
+  :grant-year 1985,
+  :cites ["GB2019408A" "US4446237"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:eastman-kodak],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US4557998/en",
+  :title
+  "Colorless ligand-releasing monomers and polymers and their use to provide dyes with metal ions",
+  :status :granted,
+  :id "US4557998",
+  :sourcing :authoritative,
+  :filing-year 1985,
+  :assignee :eastman-kodak,
+  :grant-year 1985,
+  :cites
+  ["GB701843A"
+   "US2449966"
+   "US2533182"
+   "US2633422"
+   "US2697662"
+   "US3451820"
+   "US3515557"
+   "US3926436"
+   "US4142891"
+   "US4340664"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:brown-university-research-foundation],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US4559299/en",
+  :title "Cytotoxicity assays in cell culturing devices",
+  :status :granted,
+  :id "US4559299",
+  :sourcing :authoritative,
+  :filing-year 1983,
+  :assignee :brown-university-research-foundation,
+  :grant-year 1985,
+  :cites
+  ["GB916373A"
+   "US2996426"
+   "US3476514"
+   "US3586859"
+   "US3657537"
+   "US3821087"
+   "US3853712"
+   "US3883393"
+   "US3948732"
+   "US4184922"
+   "US4201845"
+   "US4220725"
+   "US4225229"
+   "US4241187"
+   "US4308351"
+   "US4343782"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:national-research-development-uk],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US4562157/en",
+  :title "Diagnostic device incorporating a biochemical ligand",
+  :status :granted,
+  :id "US4562157",
+  :sourcing :authoritative,
+  :filing-year 1984,
+  :assignee :national-research-development-uk,
+  :grant-year 1985,
+  :cites ["US4072576" "US4238757" "US4314821" "US4444878" "US4444892"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:albert-einstein-college-of-medicine],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US4562159/en",
+  :title "Diagnostic test for hepatitis B virus",
+  :status :granted,
+  :id "US4562159",
+  :sourcing :authoritative,
+  :filing-year 1981,
+  :assignee :albert-einstein-college-of-medicine,
+  :grant-year 1985,
+  :cites
+  ["GB2043323A"
+   "US4034072"
+   "US4038378"
+   "US4139346"
+   "US4237224"
+   "US4241175"
+   "US4302204"
+   "US4358535"
+   "US4379839"
+   "US4393201"
+   "US4395486"
+   "US4396713"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:miles-laboratories],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US4563417/en",
+  :title
+  "Nucleic acid hybridization assay employing antibodies to intercalation complexes",
+  :status :granted,
+  :id "US4563417",
+  :sourcing :authoritative,
+  :filing-year 1984,
+  :assignee :miles-laboratories,
+  :grant-year 1986,
+  :cites
+  ["EP0063879A2"
+   "EP0070865A1"
+   "EP0070867A1"
+   "GB2019408A"
+   "US4257774"
+   "US4358535"
+   "US4423153"
+   "US4493899"
+   "WO1983001459A1"
+   "WO1983002286A1"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:orion],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US4563419/en",
+  :title
+  "Detection of microbial nucleic acids by a one-step sandwich hybridization test",
+  :status :granted,
+  :id "US4563419",
+  :sourcing :authoritative,
+  :filing-year 1983,
+  :assignee :orion,
+  :grant-year 1986,
+  :cites
+  ["GB2019408A"
+   "GB2034323A"
+   "US4059685"
+   "US4139346"
+   "US4302204"
+   "US4358535"
+   "US4359535"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:philip-morris-usa],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US4567902/en",
+  :title "Tobacco trimmer device",
+  :status :granted,
+  :id "US4567902",
+  :sourcing :authoritative,
+  :filing-year 1983,
+  :assignee :philip-morris-usa,
+  :grant-year 1986,
+  :cites
+  ["DE139666C"
+   "DE2103202A1"
+   "DE2529456A1"
+   "GB2072483A"
+   "GB919150A"
+   "GB941853A"
+   "US2660177"
+   "US2660178"
+   "US2938521"
+   "US3030966"
+   "US3032041"
+   "US3088467"
+   "US3089497"
+   "US3192931"
+   "US3242927"
+   "US3244184"
+   "US3291137"
+   "US3338247"
+   "US3495599"
+   "US3608562"
+   "US3712160"
+   "US3769989"
+   "US3880171"
+   "US4210159"
+   "US4276891"
+   "US4280516"
+   "US4306573"
+   "US548686"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:immunex],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US4568649/en",
+  :title "Immediate ligand detection assay",
+  :status :granted,
+  :id "US4568649",
+  :sourcing :authoritative,
+  :filing-year 1983,
+  :assignee :immunex,
+  :grant-year 1986,
+  :cites ["US4000252" "US4108972" "US4161515" "US4271139"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:university-of-california-san-diego-ucsd],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US4577109/en",
+  :title
+  "Remote multi-position information gathering system and method",
+  :status :granted,
+  :id "US4577109",
+  :sourcing :authoritative,
+  :filing-year 1982,
+  :assignee :university-of-california-san-diego-ucsd,
+  :grant-year 1986,
+  :cites
+  ["US3591810"
+   "US3724383"
+   "US3992631"
+   "US4136566"
+   "US4179927"
+   "US4200110"
+   "US4304461"
+   "US4344438"
+   "US4476870"
+   "WO1979000377A1"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:cetus],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US4582789/en",
+  :title
+  "Process for labeling nucleic acids using psoralen derivatives",
+  :status :granted,
+  :id "US4582789",
+  :sourcing :authoritative,
+  :filing-year 1984,
+  :assignee :cetus,
+  :grant-year 1986,
+  :cites ["GB2019408A" "US4542102"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:us-department-of-energy],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US4585736/en",
+  :title
+  "Flow cytometric measurement of total DNA and incorporated halodeoxyuridine",
+  :status :granted,
+  :id "US4585736",
+  :sourcing :authoritative,
+  :filing-year 1983,
+  :assignee :us-department-of-energy,
+  :grant-year 1986,
+  :cites ["EP0102228A2" "US4196265"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:hughes-aircraft],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US4587203/en",
+  :title
+  "Wet process for developing styrene polymer resists for submicron lithography",
+  :status :granted,
+  :id "US4587203",
+  :sourcing :authoritative,
+  :filing-year 1985,
+  :assignee :hughes-aircraft,
+  :grant-year 1986,
+  :cites ["US2991204" "US3520683"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:american-hospital-supply],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US4589964/en",
+  :title
+  "Process for graft copolymerization of a pre-formed substrate",
+  :status :granted,
+  :id "US4589964",
+  :sourcing :authoritative,
+  :filing-year 1984,
+  :assignee :american-hospital-supply,
+  :grant-year 1986,
+  :cites ["US3008920" "US3458597"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:new-york-blood-center],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US4591552/en",
+  :title
+  "Detection of hepatitis B surface antigen (or antibody to same) with labeled synthetic peptide",
+  :status :granted,
+  :id "US4591552",
+  :sourcing :authoritative,
+  :filing-year 1982,
+  :assignee :new-york-blood-center,
+  :grant-year 1986,
+  :cites
+  ["US3995018"
+   "US4016043"
+   "US4272433"
+   "US4277393"
+   "US4297273"
+   "US4341761"
+   "US4369138"
+   "US4377516"
+   "US4399229"
+   "US4409141"
+   "US4415491"
+   "US4415546"
+   "US4423034"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:novo-industri-as],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US4591565/en",
+  :title "Method for thermal destabilization of microbial rennet",
+  :status :granted,
+  :id "US4591565",
+  :sourcing :authoritative,
+  :filing-year 1982,
+  :assignee :novo-industri-as,
+  :grant-year 1986,
+  :cites ["DE2901542A1" "US4348482" "US4357357"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:california-institute-of-technology],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US4591567/en",
+  :title
+  "Recombinant DNA screening system including fixed array replicator and support",
+  :status :granted,
+  :id "US4591567",
+  :sourcing :authoritative,
+  :filing-year 1983,
+  :assignee :california-institute-of-technology,
+  :grant-year 1986,
+  :cites
+  ["US2956931"
+   "US3787290"
+   "US3912596"
+   "US4235971"
+   "US4252897"
+   "US4368272"
+   "US4397955"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:johns-hopkins-university],
   :jurisdiction :us,
   :field "UNKNOWN",
   :source "https://patents.google.com/patent/US4591614/en",

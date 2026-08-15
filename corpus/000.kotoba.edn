@@ -5248,6 +5248,19 @@
   :grant-year 1939,
   :term-years 20,
   :open-license :none}
+ {:assignees [:warren-sd],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2177580/en",
+  :title "Process of coating paper",
+  :status :granted,
+  :id "US2177580",
+  :sourcing :authoritative,
+  :filing-year 1937,
+  :assignee :warren-sd,
+  :grant-year 1939,
+  :term-years 20,
+  :open-license :none}
  {:assignees [:lowe-paper],
   :jurisdiction :us,
   :field "UNKNOWN",
@@ -6522,6 +6535,82 @@
   :cites ["US2051320" "US2265357" "US2286985" "US2403631" "US2459512"],
   :term-years 20,
   :open-license :none}
+ {:assignees [:polaroid],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2558857/en",
+  :title "Photographic developer element",
+  :status :granted,
+  :id "US2558857",
+  :sourcing :authoritative,
+  :filing-year 1947,
+  :assignee :polaroid,
+  :grant-year 1951,
+  :cites
+  ["AT141872B"
+   "CH115331A"
+   "DE121593C"
+   "DE43521C"
+   "FR635715A"
+   "FR662060A"
+   "FR879995A"
+   "GB189917738A"
+   "GB190609248A"
+   "US1207042"
+   "US1261748"
+   "US1911955"
+   "US2221873"
+   "US2312854"
+   "US2352014"
+   "US2360216"],
+  :term-years 20,
+  :open-license :none}
+ {:jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2565491/en",
+  :title "Film structure and method for producing the same",
+  :status :granted,
+  :id "US2565491",
+  :sourcing :authoritative,
+  :filing-year 1945,
+  :assignee :unassigned,
+  :grant-year 1951,
+  :cites
+  ["US1146855"
+   "US1258840"
+   "US1732661"
+   "US1864763"
+   "US1921819"
+   "US2064143"
+   "US2085875"
+   "US2122251"
+   "US2245289"
+   "US2279366"
+   "US2304632"
+   "US2314975"
+   "US2327765"
+   "US2344807"
+   "US2360650"
+   "US2404073"
+   "US2440039"
+   "US376350"
+   "US988981"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:bf-goodrich],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2568658/en",
+  :title "Method of polymerizing polyunsaturated esters",
+  :status :granted,
+  :id "US2568658",
+  :sourcing :authoritative,
+  :filing-year 1947,
+  :assignee :bf-goodrich,
+  :grant-year 1951,
+  :cites ["US2340111" "US2385931" "US2403112" "US2455652" "US2482825"],
+  :term-years 20,
+  :open-license :none}
  {:assignees [:eastman-kodak],
   :jurisdiction :us,
   :field "UNKNOWN",
@@ -6581,6 +6670,21 @@
   :assignee :chicago-endocrine-research,
   :grant-year 1952,
   :cites ["US1722160" "US1968131" "US2471861" "US2477072"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:shell-development],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2595852/en",
+  :title
+  "Process for spray drying soluble fusible polymers of unsaturated esters",
+  :status :granted,
+  :id "US2595852",
+  :sourcing :authoritative,
+  :filing-year 1949,
+  :assignee :shell-development,
+  :grant-year 1952,
+  :cites ["GB604544A" "US2273891" "US2280802" "US2370578"],
   :term-years 20,
   :open-license :none}
  {:assignees [:united-states-rubber],
@@ -7120,6 +7224,27 @@
    "US2521332"],
   :term-years 20,
   :open-license :none}
+ {:assignees [:consolidated-water-power-and-paper],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2746878/en",
+  :title "Production of coated sheet material",
+  :status :granted,
+  :id "US2746878",
+  :sourcing :authoritative,
+  :filing-year 1953,
+  :assignee :consolidated-water-power-and-paper,
+  :grant-year 1956,
+  :cites
+  ["US1982018"
+   "US2046975"
+   "US2132931"
+   "US2244859"
+   "US2275148"
+   "US2402605"
+   "US2554899"],
+  :term-years 20,
+  :open-license :none}
  {:assignees [:ei-du-pont-de-nemours-and],
   :jurisdiction :us,
   :field "UNKNOWN",
@@ -7168,6 +7293,33 @@
    "US2156693"
    "US2278248"
    "US2370871"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:polaroid],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2759825/en",
+  :title "Photographic image transfer process",
+  :status :granted,
+  :id "US2759825",
+  :sourcing :authoritative,
+  :filing-year 1951,
+  :assignee :polaroid,
+  :grant-year 1956,
+  :cites
+  ["BE441852A"
+   "BE444785A"
+   "FR53311E"
+   "FR873507A"
+   "FR879995A"
+   "GB511800A"
+   "US2347640"
+   "US2352014"
+   "US2367420"
+   "US2386167"
+   "US2543181"
+   "US2626858"
+   "US2698537"],
   :term-years 20,
   :open-license :none}
  {:assignees [:ei-du-pont-de-nemours-and],
@@ -7423,6 +7575,34 @@
   :cites ["US2562373" "US2631334"],
   :term-years 20,
   :open-license :none}
+ {:assignees [:polaroid],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2789054/en",
+  :title
+  "Print-receiving elements for diffusion transfer reversal processes and film assemblies embodying said elements",
+  :status :granted,
+  :id "US2789054",
+  :sourcing :authoritative,
+  :filing-year 1953,
+  :assignee :polaroid,
+  :grant-year 1957,
+  :cites
+  ["GB546559A"
+   "GB568782A"
+   "GB687751A"
+   "NL59365C"
+   "US2216736"
+   "US2360216"
+   "US2366723"
+   "US2415631"
+   "US2433515"
+   "US2462151"
+   "US2513189"
+   "US2543181"
+   "US2606832"],
+  :term-years 20,
+  :open-license :none}
  {:assignees [:gardner-board-and-carton],
   :jurisdiction :us,
   :field "UNKNOWN",
@@ -7451,6 +7631,36 @@
   :assignee :rohm-and-haas,
   :grant-year 1957,
   :cites ["US2577624" "US2583274" "US2661308" "US2685538"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:general-electric],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2792871/en",
+  :title
+  "Electrical insulating structure and method of making the same",
+  :status :granted,
+  :id "US2792871",
+  :sourcing :authoritative,
+  :filing-year 1955,
+  :assignee :general-electric,
+  :grant-year 1957,
+  :cites ["US2443739" "US2443741" "US2530983" "US2542819" "US2581862"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:rohm-and-haas],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2795564/en",
+  :title
+  "Aqueous paint bases and water-base paints and process for preparing them",
+  :status :granted,
+  :id "US2795564",
+  :sourcing :authoritative,
+  :filing-year 1953,
+  :assignee :rohm-and-haas,
+  :grant-year 1957,
+  :cites ["US2536018" "US2536470" "US2570253"],
   :term-years 20,
   :open-license :none}
  {:assignees [:crown-zellerbach],
@@ -7612,6 +7822,21 @@
    "US2436262"],
   :term-years 20,
   :open-license :none}
+ {:assignees [:fibreboard-paper-products],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2869722/en",
+  :title
+  "Paper products having a release coating and method of preparation thereof",
+  :status :granted,
+  :id "US2869722",
+  :sourcing :authoritative,
+  :filing-year 1957,
+  :assignee :fibreboard-paper-products,
+  :grant-year 1959,
+  :cites ["US2510661" "US2588367" "US2646373" "US2656286" "US2690255"],
+  :term-years 20,
+  :open-license :none}
  {:assignees [:monsanto-chemicals],
   :jurisdiction :us,
   :field "UNKNOWN",
@@ -7624,6 +7849,20 @@
   :assignee :monsanto-chemicals,
   :grant-year 1959,
   :cites ["DE638071C" "US2228271" "US2387735" "US2653143"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:black-clawson],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2870738/en",
+  :title "Paper coating machine",
+  :status :granted,
+  :id "US2870738",
+  :sourcing :authoritative,
+  :filing-year 1957,
+  :assignee :black-clawson,
+  :grant-year 1959,
+  :cites ["US1552295" "US194613"],
   :term-years 20,
   :open-license :none}
  {:assignees [:firestone-tire-and-rubber],
@@ -7780,6 +8019,20 @@
    "US2760578"],
   :term-years 20,
   :open-license :none}
+ {:assignees [:johnson-and-johnson],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2913355/en",
+  :title "Adhesive tape with low adhesion backsize coating",
+  :status :granted,
+  :id "US2913355",
+  :sourcing :authoritative,
+  :filing-year 1955,
+  :assignee :johnson-and-johnson,
+  :grant-year 1959,
+  :cites ["GB531497A"],
+  :term-years 20,
+  :open-license :none}
  {:assignees [:american-cyanamid],
   :jurisdiction :us,
   :field "UNKNOWN",
@@ -7927,6 +8180,32 @@
    "US2729192"],
   :term-years 20,
   :open-license :none}
+ {:assignees [:consolidated-water-power-and-paper],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2949382/en",
+  :title "Method of making printable coated paper",
+  :status :granted,
+  :id "US2949382",
+  :sourcing :authoritative,
+  :filing-year 1958,
+  :assignee :consolidated-water-power-and-paper,
+  :grant-year 1960,
+  :cites
+  ["US1903325"
+   "US1934642"
+   "US1989036"
+   "US2186874"
+   "US2291616"
+   "US2378113"
+   "US2395992"
+   "US2676118"
+   "US2697669"
+   "US2725307"
+   "US275176"
+   "US2860073"],
+  :term-years 20,
+  :open-license :none}
  {:jurisdiction :us,
   :field "UNKNOWN",
   :source "https://patents.google.com/patent/US2956931/en",
@@ -7938,6 +8217,27 @@
   :assignee :unassigned,
   :grant-year 1960,
   :cites ["US2533089" "US2871168"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:th-goldschmidt],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2964426/en",
+  :title "Process of impregnating paper to form laminated material",
+  :status :granted,
+  :id "US2964426",
+  :sourcing :authoritative,
+  :filing-year 1958,
+  :assignee :th-goldschmidt,
+  :grant-year 1960,
+  :cites
+  ["US1439743"
+   "US1857690"
+   "US2380239"
+   "US2424284"
+   "US2630395"
+   "US2930106"
+   "US602797"],
   :term-years 20,
   :open-license :none}
  {:assignees [:universal-metal-products],
@@ -8075,6 +8375,20 @@
   :cites ["US1342927" "US2618344" "US2695065" "US2707998" "US2815817"],
   :term-years 20,
   :open-license :none}
+ {:assignees [:fmc],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2990388/en",
+  :title "Allylic resin composition and process",
+  :status :granted,
+  :id "US2990388",
+  :sourcing :authoritative,
+  :filing-year 1959,
+  :assignee :fmc,
+  :grant-year 1961,
+  :cites ["US2377095" "US2462331" "US2832758"],
+  :term-years 20,
+  :open-license :none}
  {:assignees [:diamond-alkali],
   :jurisdiction :us,
   :field "UNKNOWN",
@@ -8139,6 +8453,53 @@
    "US2677987"
    "US2682801"
    "US2797149"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:united-states-rubber],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3002869/en",
+  :title "Glass fibre preforms",
+  :status :granted,
+  :id "US3002869",
+  :sourcing :authoritative,
+  :filing-year 1957,
+  :assignee :united-states-rubber,
+  :grant-year 1961,
+  :cites
+  ["CA458647A"
+   "GB590680A"
+   "US2513268"
+   "US2595852"
+   "US2600783"
+   "US2653355"
+   "US2702261"
+   "US2748028"
+   "US2763629"
+   "US2787314"
+   "US2855373"
+   "US2905580"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:time],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3005727/en",
+  :title
+  "Coating compositions and processes for making paper more receptive to ink",
+  :status :granted,
+  :id "US3005727",
+  :sourcing :authoritative,
+  :filing-year 1958,
+  :assignee :time,
+  :grant-year 1961,
+  :cites
+  ["US1934639"
+   "US1934641"
+   "US1934642"
+   "US2697669"
+   "US2786757"
+   "US2879178"],
   :term-years 20,
   :open-license :none}
  {:assignees [:eastman-kodak],
@@ -8722,6 +9083,32 @@
   :cites ["DE485041C" "US2658310" "US2975553"],
   :term-years 20,
   :open-license :none}
+ {:assignees [:gevaert-photo-producten],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3174859/en",
+  :title
+  "Process for obtaining multiple photographic positive images by diffusiontransfer",
+  :status :granted,
+  :id "US3174859",
+  :sourcing :authoritative,
+  :filing-year 1960,
+  :assignee :gevaert-photo-producten,
+  :grant-year 1965,
+  :cites
+  ["GB805854A"
+   "GB830189A"
+   "US2484423"
+   "US2518698"
+   "US2753263"
+   "US2834676"
+   "US2857274"
+   "US2857276"
+   "US2983606"
+   "US3017270"
+   "US3075841"],
+  :term-years 20,
+  :open-license :none}
  {:assignees [:talb-ind],
   :jurisdiction :us,
   :field "UNKNOWN",
@@ -8734,359 +9121,5 @@
   :assignee :talb-ind,
   :grant-year 1965,
   :cites ["US3051603"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:ei-du-pont-de-nemours-and],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3179634/en",
-  :title "Aromatic polyimides and the process for preparing them",
-  :status :granted,
-  :id "US3179634",
-  :sourcing :authoritative,
-  :filing-year 1962,
-  :assignee :ei-du-pont-de-nemours-and,
-  :grant-year 1965,
-  :cites
-  ["US2071250"
-   "US2710853"
-   "US2712543"
-   "US2731447"
-   "US2880230"
-   "US2900369"
-   "US3037966"
-   "US3073784"
-   "US3073785"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:westinghouse-electric],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3179635/en",
-  :title
-  "Linear polymeric amide-modified polyimides and process of making same",
-  :status :granted,
-  :id "US3179635",
-  :sourcing :authoritative,
-  :filing-year 1963,
-  :assignee :westinghouse-electric,
-  :grant-year 1965,
-  :cites ["US2710853" "US2867609"],
-  :term-years 20,
-  :open-license :none}
- {:jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US318910/en",
-  :title "Roofing-felt and its manufacture",
-  :status :granted,
-  :id "US318910",
-  :sourcing :authoritative,
-  :assignee :unassigned,
-  :grant-year 1885,
-  :term-years 20,
-  :open-license :none}
- {:assignees [:usines-decoufle],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3192931/en",
-  :title "Tobacco-manipulating machines",
-  :status :granted,
-  :id "US3192931",
-  :sourcing :authoritative,
-  :filing-year 1961,
-  :assignee :usines-decoufle,
-  :grant-year 1965,
-  :cites ["US1721117" "US1968018" "US2660177"],
-  :term-years 20,
-  :open-license :none}
- {:jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3193357/en",
-  :title
-  "Miniaturized reaction vessel with reaction injection means, and method of mixing small quantities of liquids",
-  :status :granted,
-  :id "US3193357",
-  :sourcing :authoritative,
-  :filing-year 1963,
-  :assignee :unassigned,
-  :grant-year 1965,
-  :cites ["US1535927" "US1714197" "US1986196"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:zellsloff-fabrik-waldhof],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3196038/en",
-  :title
-  "Process and apparatus for the production of coated paper and the like",
-  :status :granted,
-  :id "US3196038",
-  :sourcing :authoritative,
-  :filing-year 1960,
-  :assignee :zellsloff-fabrik-waldhof,
-  :grant-year 1965,
-  :cites
-  ["US1985698"
-   "US2081320"
-   "US2130241"
-   "US2325798"
-   "US2513394"
-   "US2776236"
-   "US2874407"
-   "US3020224"
-   "US343387"
-   "US981383"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:johns-manville],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3197331/en",
-  :title "Resinous coating composition and methods of applying same",
-  :status :granted,
-  :id "US3197331",
-  :sourcing :authoritative,
-  :filing-year 1962,
-  :assignee :johns-manville,
-  :grant-year 1965,
-  :cites ["US2568658" "US2595852" "US2792871" "US2990388" "US3002869"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:american-cyanamid],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3198767/en",
-  :title "Conjugated organic polymers",
-  :status :granted,
-  :id "US3198767",
-  :sourcing :authoritative,
-  :filing-year 1961,
-  :assignee :american-cyanamid,
-  :grant-year 1965,
-  :cites ["GB774794A" "US2089302" "US2509183" "US2845400" "US2895944"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:th-goldschmidt],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3200008/en",
-  :title "Resin impregnated papers",
-  :status :granted,
-  :id "US3200008",
-  :sourcing :authoritative,
-  :filing-year 1962,
-  :assignee :th-goldschmidt,
-  :grant-year 1965,
-  :cites ["US2964426"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:sankyo],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3208997/en",
-  :title "Process for preparing purine and pyrimidine nucleosides",
-  :status :granted,
-  :id "US3208997",
-  :sourcing :authoritative,
-  :filing-year 1963,
-  :assignee :sankyo,
-  :grant-year 1965,
-  :cites ["US2719843" "US2906756"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:formica],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3220916/en",
-  :title "Decorative laminate",
-  :status :granted,
-  :id "US3220916",
-  :sourcing :authoritative,
-  :filing-year 1963,
-  :assignee :formica,
-  :grant-year 1965,
-  :cites
-  ["US2604457"
-   "US2784135"
-   "US2794010"
-   "US2890209"
-   "US2906724"
-   "US2930727"
-   "US3021239"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:trw],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3228799/en",
-  :title "Biological electrical power generation",
-  :status :granted,
-  :id "US3228799",
-  :sourcing :authoritative,
-  :filing-year 1960,
-  :assignee :trw,
-  :grant-year 1966,
-  :cites ["US2497852" "US329724"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:harris-intertype],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3230088/en",
-  :title
-  "Process for preparing printing plates from photosensitized polyvinyl alcohol compositions",
-  :status :granted,
-  :id "US3230088",
-  :sourcing :authoritative,
-  :filing-year 1961,
-  :assignee :harris-intertype,
-  :grant-year 1966,
-  :cites
-  ["US1751909"
-   "US2249514"
-   "US2393821"
-   "US2604388"
-   "US2827390"
-   "US2830899"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:combined-locks-paper],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3231418/en",
-  :title
-  "Coating a moving paper web with a coating roller having lower peripheral speed than web",
-  :status :granted,
-  :id "US3231418",
-  :sourcing :authoritative,
-  :filing-year 1964,
-  :assignee :combined-locks-paper,
-  :grant-year 1966,
-  :cites
-  ["US1838358"
-   "US1987183"
-   "US2009631"
-   "US2257373"
-   "US2316202"
-   "US2582407"
-   "US2712508"
-   "US2772604"
-   "US2946307"
-   "US3146159"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:boehringer-mannheim],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3232710/en",
-  :title "Indicator and method for manufacturing the same",
-  :status :granted,
-  :id "US3232710",
-  :sourcing :authoritative,
-  :filing-year 1963,
-  :assignee :boehringer-mannheim,
-  :grant-year 1966,
-  :cites
-  ["GB831894A"
-   "US2229155"
-   "US2379459"
-   "US2567445"
-   "US2823984"
-   "US2838377"
-   "US2981606"
-   "US2998306"
-   "US3001915"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:purac],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3233964/en",
-  :title "Means for sterilizing liquid",
-  :status :granted,
-  :id "US3233964",
-  :sourcing :authoritative,
-  :filing-year 1962,
-  :assignee :purac,
-  :grant-year 1966,
-  :cites ["GB356783A" "US2138839" "US2219348" "US2585103"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:azoplate],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3244517/en",
-  :title "Electrophotographic process",
-  :status :granted,
-  :id "US3244517",
-  :sourcing :authoritative,
-  :filing-year 1961,
-  :assignee :azoplate,
-  :grant-year 1966,
-  :cites
-  ["BE562336A"
-   "US1587269"
-   "US1587272"
-   "US1587273"
-   "US1587274"
-   "US1777140"
-   "US1939691"
-   "US2997387"
-   "US3041165"
-   "US3081165"
-   "US3163531"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:beckman-instruments],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3246559/en",
-  :title "Force feed cuvette",
-  :status :granted,
-  :id "US3246559",
-  :sourcing :authoritative,
-  :filing-year 1961,
-  :assignee :beckman-instruments,
-  :grant-year 1966,
-  :cites ["US2660342" "US2940448" "US3053138" "US890018"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:boehringer-mannheim],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3250596/en",
-  :title
-  "Method for determining the virus adsorptive capacity of aluminum oxide",
-  :status :granted,
-  :id "US3250596",
-  :sourcing :authoritative,
-  :filing-year 1963,
-  :assignee :boehringer-mannheim,
-  :grant-year 1966,
-  :cites ["US2712986"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:phillips-petroleum],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3251905/en",
-  :title
-  "Method of preparing block copolymers of conjugated dienes and vinyl-substituted aromatic compounds using dilithio catalysts and diluent mixture of hydrocarbon and ether",
-  :status :granted,
-  :id "US3251905",
-  :sourcing :authoritative,
-  :filing-year 1963,
-  :assignee :phillips-petroleum,
-  :grant-year 1966,
-  :cites
-  ["BE553720A"
-   "US2181771"
-   "US2338741"
-   "US2694692"
-   "US2913444"
-   "US3069380"
-   "US3070574"
-   "US3140278"
-   "US3149182"],
   :term-years 20,
   :open-license :none}]
