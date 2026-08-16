@@ -1,4 +1,280 @@
-[{:assignees [:university-of-california-san-diego-ucsd],
+[{:assignees [:medical-college-of-wisconsin],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US4235960/en",
+  :title "Competitive enzyme-linked immunoassay",
+  :status :granted,
+  :id "US4235960",
+  :sourcing :authoritative,
+  :filing-year 1977,
+  :assignee :medical-college-of-wisconsin,
+  :grant-year 1980,
+  :cites
+  ["US3773625"
+   "US3879262"
+   "US4002532"
+   "US4021534"
+   "US4024235"
+   "US4034074"
+   "US4048298"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:dynatech-laboratories],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US4235971/en",
+  :title "Inoculator",
+  :status :granted,
+  :id "US4235971",
+  :sourcing :authoritative,
+  :filing-year 1978,
+  :assignee :dynatech-laboratories,
+  :grant-year 1980,
+  :cites
+  ["US3356462"
+   "US3436171"
+   "US3455788"
+   "US3536449"
+   "US3650360"
+   "US3728227"
+   "US3772154"
+   "US3912596"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:minnesota-mining-and-manufacturing],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US4236893/en",
+  :title
+  "Method for the assay of classes of antigen-specific antibodies",
+  :status :granted,
+  :id "US4236893",
+  :sourcing :authoritative,
+  :filing-year 1979,
+  :assignee :minnesota-mining-and-manufacturing,
+  :grant-year 1980,
+  :cites ["US3720760" "US3966898" "US4092114"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:leland-stanford-junior-university],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US4237224/en",
+  :title
+  "Process for producing biologically functional molecular chimeras",
+  :status :granted,
+  :id "US4237224",
+  :sourcing :authoritative,
+  :filing-year 1979,
+  :assignee :leland-stanford-junior-university,
+  :grant-year 1980,
+  :cites ["US3813316"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:general-electric],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US4238757/en",
+  :title
+  "Field effect transistor for detection of biological reactions",
+  :status :granted,
+  :id "US4238757",
+  :sourcing :authoritative,
+  :filing-year 1976,
+  :assignee :general-electric,
+  :grant-year 1980,
+  :cites ["US3831432" "US3853467"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:behringwerke],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US4239743/en",
+  :title
+  "Carrier-bound immunoglobulin fission product and its use in immunologic analyses",
+  :status :granted,
+  :id "US4239743",
+  :sourcing :authoritative,
+  :filing-year 1978,
+  :assignee :behringwerke,
+  :grant-year 1980,
+  :cites ["US3966898" "US4138213" "US4143124"],
+  :term-years 20,
+  :open-license :none}
+ {:jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US4240163/en",
+  :title "Medicament coated intraocular lens",
+  :status :granted,
+  :id "US4240163",
+  :sourcing :authoritative,
+  :filing-year 1979,
+  :assignee :unassigned,
+  :grant-year 1980,
+  :cites ["US3511684" "US3766167" "US4100309" "US4170043"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:toyobo],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US4240889/en",
+  :title "Enzyme electrode provided with immobilized enzyme membrane",
+  :status :granted,
+  :id "US4240889",
+  :sourcing :authoritative,
+  :filing-year 1979,
+  :assignee :toyobo,
+  :grant-year 1980,
+  :cites
+  ["GB1442303A" "US3539455" "US3542662" "US3979274" "US4073713"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:merck-and],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US4241175/en",
+  :title "Assay for hepatitis B core antibody",
+  :status :granted,
+  :id "US4241175",
+  :sourcing :authoritative,
+  :filing-year 1978,
+  :assignee :merck-and,
+  :grant-year 1980,
+  :cites
+  ["US3551555"
+   "US3654090"
+   "US3995019"
+   "US4100267"
+   "US4102996"
+   "US4148869"
+   "US4157280"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:honeywell],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US4250376/en",
+  :title "Apparatus for range finding equipment",
+  :status :granted,
+  :id "US4250376",
+  :sourcing :authoritative,
+  :filing-year 1979,
+  :assignee :honeywell,
+  :grant-year 1981,
+  :cites ["US4002899" "US4083056" "US4132888" "US4189232"],
+  :term-years 20,
+  :open-license :none}
+ {:jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US4251360/en",
+  :title
+  "Method and apparatus for the detection of a specific binding protein",
+  :status :granted,
+  :id "US4251360",
+  :sourcing :authoritative,
+  :filing-year 1979,
+  :assignee :unassigned,
+  :grant-year 1981,
+  :cites
+  ["US3203865"
+   "US3268441"
+   "US3901654"
+   "US3919075"
+   "US4088746"
+   "US4089778"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:jdja-services],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US4252897/en",
+  :title "Method and apparatus for bacteria testing",
+  :status :granted,
+  :id "US4252897",
+  :sourcing :authoritative,
+  :filing-year 1978,
+  :assignee :jdja-services,
+  :grant-year 1981,
+  :cites
+  ["US2956931"
+   "US3536449"
+   "US3772154"
+   "US3912596"
+   "US3928140"
+   "US3935075"
+   "US3936356"
+   "US4118280"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:massachusetts-institute-of-technology],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US4254174/en",
+  :title
+  "Supported membrane composite structure and its method of manufacture",
+  :status :granted,
+  :id "US4254174",
+  :sourcing :authoritative,
+  :filing-year 1979,
+  :assignee :massachusetts-institute-of-technology,
+  :grant-year 1981,
+  :cites
+  ["US3179634"
+   "US3179635"
+   "US3742230"
+   "US3743842"
+   "US3892973"
+   "US4057659"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:honeywell],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US4254330/en",
+  :title "Low frequency enhancement range finding equipment",
+  :status :granted,
+  :id "US4254330",
+  :sourcing :authoritative,
+  :filing-year 1979,
+  :assignee :honeywell,
+  :grant-year 1981,
+  :cites ["US4002899" "US4078172"],
+  :term-years 20,
+  :open-license :none}
+ {:jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US4264327/en",
+  :title
+  "Method and apparatus for automatic competitive binding analysis",
+  :status :granted,
+  :id "US4264327",
+  :sourcing :authoritative,
+  :filing-year 1978,
+  :assignee :unassigned,
+  :grant-year 1981,
+  :cites
+  ["US3320148"
+   "US3320149"
+   "US4009005"
+   "US4128628"
+   "US4141687"
+   "US4153416"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:university-of-california-san-diego-ucsd],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US4264731/en",
+  :title "DNA Joining method",
+  :status :granted,
+  :id "US4264731",
+  :sourcing :authoritative,
+  :filing-year 1978,
+  :assignee :university-of-california-san-diego-ucsd,
+  :grant-year 1981,
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:university-of-california-san-diego-ucsd],
   :jurisdiction :us,
   :field "UNKNOWN",
   :source "https://patents.google.com/patent/US4267171/en",
@@ -1737,6 +2013,27 @@
    "US4340664"],
   :term-years 20,
   :open-license :none}
+ {:assignees [:basf-farben-und-fasern],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US4558090/en",
+  :title
+  "Water-dilutable coating agent for preparing the base layer of a multilayer coating",
+  :status :granted,
+  :id "US4558090",
+  :sourcing :authoritative,
+  :filing-year 1984,
+  :assignee :basf-farben-und-fasern,
+  :grant-year 1985,
+  :cites
+  ["US4092286"
+   "US4132686"
+   "US4254168"
+   "US4321173"
+   "US4375498"
+   "US4382114"],
+  :term-years 20,
+  :open-license :none}
  {:assignees [:brown-university-research-foundation],
   :jurisdiction :us,
   :field "UNKNOWN",
@@ -2890,6 +3187,29 @@
    "US4463038"
    "US4529632"
    "US4536558"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:uniroyal-plastics],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US4762880/en",
+  :title "Water-based thermoforming adhesives",
+  :status :granted,
+  :id "US4762880",
+  :sourcing :authoritative,
+  :filing-year 1987,
+  :assignee :uniroyal-plastics,
+  :grant-year 1988,
+  :cites
+  ["US3948708"
+   "US4084996"
+   "US4225372"
+   "US4465534"
+   "US4465537"
+   "US4507413"
+   "US4526828"
+   "US4543144"
+   "US4643785"],
   :term-years 20,
   :open-license :none}
  {:assignees [:allied :genetics-institute],
