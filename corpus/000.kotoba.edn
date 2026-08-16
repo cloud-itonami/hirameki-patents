@@ -4721,6 +4721,18 @@
   :grant-year 1930,
   :term-years 20,
   :open-license :none}
+ {:jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US1759124/en",
+  :title "Sealing tape and process of manufacturing same",
+  :status :granted,
+  :id "US1759124",
+  :sourcing :authoritative,
+  :filing-year 1925,
+  :assignee :unassigned,
+  :grant-year 1930,
+  :term-years 20,
+  :open-license :none}
  {:assignees [:american-bicheroux],
   :jurisdiction :us,
   :field "UNKNOWN",
@@ -4870,6 +4882,19 @@
   :sourcing :authoritative,
   :filing-year 1928,
   :assignee :leeds-and-northrup,
+  :grant-year 1934,
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:swann-res],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US1972448/en",
+  :title "Adhesive composition",
+  :status :granted,
+  :id "US1972448",
+  :sourcing :authoritative,
+  :filing-year 1932,
+  :assignee :swann-res,
   :grant-year 1934,
   :term-years 20,
   :open-license :none}
@@ -5247,6 +5272,19 @@
   :grant-year 1939,
   :term-years 20,
   :open-license :none}
+ {:assignees [:ei-du-pont-de-nemours-and],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2159152/en",
+  :title "Method of making moistureproof material",
+  :status :granted,
+  :id "US2159152",
+  :sourcing :authoritative,
+  :filing-year 1933,
+  :assignee :ei-du-pont-de-nemours-and,
+  :grant-year 1939,
+  :term-years 20,
+  :open-license :none}
  {:jurisdiction :us,
   :field "UNKNOWN",
   :source "https://patents.google.com/patent/US2161187/en",
@@ -5442,6 +5480,19 @@
   :grant-year 1941,
   :term-years 20,
   :open-license :none}
+ {:assignees [:reynolds-metals],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2227787/en",
+  :title "Wrapping material and method of making the same",
+  :status :granted,
+  :id "US2227787",
+  :sourcing :authoritative,
+  :filing-year 1938,
+  :assignee :reynolds-metals,
+  :grant-year 1941,
+  :term-years 20,
+  :open-license :none}
  {:jurisdiction :us,
   :field "UNKNOWN",
   :source "https://patents.google.com/patent/US2243604/en",
@@ -5619,6 +5670,19 @@
   :grant-year 1942,
   :term-years 20,
   :open-license :none}
+ {:assignees [:moore-and-munger],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2282375/en",
+  :title "Wax sealing composition",
+  :status :granted,
+  :id "US2282375",
+  :sourcing :authoritative,
+  :filing-year 1939,
+  :assignee :moore-and-munger,
+  :grant-year 1942,
+  :term-years 20,
+  :open-license :none}
  {:jurisdiction :us,
   :field "UNKNOWN",
   :source "https://patents.google.com/patent/US2286259/en",
@@ -5786,6 +5850,19 @@
   :grant-year 1943,
   :term-years 20,
   :open-license :none}
+ {:assignees [:eastman-kodak],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2322048/en",
+  :title "Nontacky adhesive coated sheeting",
+  :status :granted,
+  :id "US2322048",
+  :sourcing :authoritative,
+  :filing-year 1938,
+  :assignee :eastman-kodak,
+  :grant-year 1943,
+  :term-years 20,
+  :open-license :none}
  {:assignees [:firestone-tire-and-rubber],
   :jurisdiction :us,
   :field "UNKNOWN",
@@ -5913,6 +5990,19 @@
   :sourcing :authoritative,
   :filing-year 1941,
   :assignee :unassigned,
+  :grant-year 1944,
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:jasco],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2356367/en",
+  :title "High temperature lubricant",
+  :status :granted,
+  :id "US2356367",
+  :sourcing :authoritative,
+  :filing-year 1940,
+  :assignee :jasco,
   :grant-year 1944,
   :term-years 20,
   :open-license :none}
@@ -6222,6 +6312,29 @@
    "US671213"],
   :term-years 20,
   :open-license :none}
+ {:assignees [:monsanto-chemicals],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2431873/en",
+  :title "Method of coating thermoplastics with silica",
+  :status :granted,
+  :id "US2431873",
+  :sourcing :authoritative,
+  :filing-year 1944,
+  :assignee :monsanto-chemicals,
+  :grant-year 1947,
+  :cites
+  ["GB317936A"
+   "GB466482A"
+   "GB492985A"
+   "GB502978A"
+   "GB505502A"
+   "US2008815"
+   "US2027931"
+   "US2329632"
+   "US2386259"],
+  :term-years 20,
+  :open-license :none}
  {:assignees [:westfield-river-paper],
   :jurisdiction :us,
   :field "UNKNOWN",
@@ -6349,6 +6462,20 @@
   :assignee :paper-patents,
   :grant-year 1948,
   :cites ["US2118549" "US2343740"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:general-electric],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2449572/en",
+  :title "Polysiloxane resins",
+  :status :granted,
+  :id "US2449572",
+  :sourcing :authoritative,
+  :filing-year 1944,
+  :assignee :general-electric,
+  :grant-year 1948,
+  :cites ["US2258218"],
   :term-years 20,
   :open-license :none}
  {:assignees [:eastman-kodak],
@@ -6798,6 +6925,42 @@
   :cites ["US1722160" "US1968131" "US2471861" "US2477072"],
   :term-years 20,
   :open-license :none}
+ {:assignees [:dow-corning],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2588367/en",
+  :title "Rendering cellulosic material nonadherent to adhesives",
+  :status :granted,
+  :id "US2588367",
+  :sourcing :authoritative,
+  :filing-year 1950,
+  :assignee :dow-corning,
+  :grant-year 1952,
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:betex-sales],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2593207/en",
+  :title
+  "Resin impregnated textile fabrics and process of producing same",
+  :status :granted,
+  :id "US2593207",
+  :sourcing :authoritative,
+  :filing-year 1950,
+  :assignee :betex-sales,
+  :grant-year 1952,
+  :cites
+  ["GB576363A"
+   "US2121105"
+   "US2342387"
+   "US2430860"
+   "US2430866"
+   "US2443450"
+   "US2504857"
+   "US2526637"],
+  :term-years 20,
+  :open-license :none}
  {:assignees [:shell-development],
   :jurisdiction :us,
   :field "UNKNOWN",
@@ -6924,6 +7087,28 @@
    "US2340834"
    "US2463288"
    "US813171"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:grizzly-manufacturing],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2624160/en",
+  :title "Platen lubricating means",
+  :status :granted,
+  :id "US2624160",
+  :sourcing :authoritative,
+  :filing-year 1950,
+  :assignee :grizzly-manufacturing,
+  :grant-year 1953,
+  :cites
+  ["US1036783"
+   "US1434334"
+   "US1877495"
+   "US2162279"
+   "US2212159"
+   "US2231196"
+   "US2296990"
+   "US2367107"],
   :term-years 20,
   :open-license :none}
  {:assignees [:ei-du-pont-de-nemours-and],
@@ -7057,6 +7242,31 @@
   :assignee :unassigned,
   :grant-year 1953,
   :cites ["US2155083" "US2176093"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:minnesota-mining-and-manufacturing],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2654681/en",
+  :title "Magnetic recording tape",
+  :status :granted,
+  :id "US2654681",
+  :sourcing :authoritative,
+  :filing-year 1950,
+  :assignee :minnesota-mining-and-manufacturing,
+  :grant-year 1953,
+  :cites
+  ["GB459884A"
+   "GB466023A"
+   "US2117321"
+   "US2258218"
+   "US2357348"
+   "US2384384"
+   "US2389491"
+   "US2392805"
+   "US2418479"
+   "US2442613"
+   "US2463974"],
   :term-years 20,
   :open-license :none}
  {:assignees [:paper-patents],
@@ -7249,6 +7459,35 @@
   :assignee :ei-du-pont-de-nemours-and,
   :grant-year 1954,
   :cites ["US2298039" "US2491023" "US2534326" "US2606835" "US2627088"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:electrofilm],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2700623/en",
+  :title "Process of bonding solid lubricant to a metal surface",
+  :status :granted,
+  :id "US2700623",
+  :sourcing :authoritative,
+  :filing-year 1950,
+  :assignee :electrofilm,
+  :grant-year 1955,
+  :cites
+  ["US1054265"
+   "US1603086"
+   "US2010133"
+   "US2068113"
+   "US2085413"
+   "US2187086"
+   "US2241789"
+   "US2270662"
+   "US2335958"
+   "US2353951"
+   "US2408430"
+   "US2433062"
+   "US2465329"
+   "US2466642"
+   "US2495199"],
   :term-years 20,
   :open-license :none}
  {:assignees [:american-viscose],
@@ -8036,6 +8275,32 @@
   :cites ["US2162616" "US2178523" "US2519550" "US2551365" "US2734889"],
   :term-years 20,
   :open-license :none}
+ {:jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2854351/en",
+  :title
+  "Method of applying dressing for prolonging the effective life of cloth belts and resultant article",
+  :status :granted,
+  :id "US2854351",
+  :sourcing :authoritative,
+  :filing-year 1953,
+  :assignee :unassigned,
+  :grant-year 1958,
+  :cites
+  ["US1356890"
+   "US1870408"
+   "US2001582"
+   "US2181835"
+   "US2287780"
+   "US2441090"
+   "US2558929"
+   "US2626941"
+   "US2640366"
+   "US2655195"
+   "US2700623"
+   "US862403"],
+  :term-years 20,
+  :open-license :none}
  {:assignees [:american-cyanamid],
   :jurisdiction :us,
   :field "UNKNOWN",
@@ -8429,6 +8694,28 @@
    "US7709148"],
   :term-years 20,
   :open-license :none}
+ {:assignees [:ei-du-pont-de-nemours-and],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2940884/en",
+  :title "Adhesive tape",
+  :status :granted,
+  :id "US2940884",
+  :sourcing :authoritative,
+  :filing-year 1956,
+  :assignee :ei-du-pont-de-nemours-and,
+  :grant-year 1960,
+  :cites
+  ["US2133609"
+   "US2329527"
+   "US2506933"
+   "US2649199"
+   "US2651588"
+   "US2679968"
+   "US2725322"
+   "US986655"],
+  :term-years 20,
+  :open-license :none}
  {:assignees [:american-viscose],
   :jurisdiction :us,
   :field "UNKNOWN",
@@ -8596,6 +8883,19 @@
    "US2835167"],
   :term-years 20,
   :open-license :none}
+ {:assignees [:allen-industries],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2971857/en",
+  :title "Embossed rug cushion and method of producing the same",
+  :status :granted,
+  :id "US2971857",
+  :sourcing :authoritative,
+  :filing-year 1959,
+  :assignee :allen-industries,
+  :grant-year 1961,
+  :term-years 20,
+  :open-license :none}
  {:assignees [:eastman-kodak],
   :jurisdiction :us,
   :field "UNKNOWN",
@@ -8659,6 +8959,20 @@
   :assignee :nat-res-dev,
   :grant-year 1961,
   :cites ["US1874667" "US2658310"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:ei-du-pont-de-nemours-and],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2977243/en",
+  :title "Coating process",
+  :status :granted,
+  :id "US2977243",
+  :sourcing :authoritative,
+  :filing-year 1958,
+  :assignee :ei-du-pont-de-nemours-and,
+  :grant-year 1961,
+  :cites ["US1774398" "US2159151" "US2364904" "US2388339" "US2819984"],
   :term-years 20,
   :open-license :none}
  {:assignees [:jersey-production-research],
@@ -8814,305 +9128,5 @@
   :assignee :eastman-kodak,
   :grant-year 1961,
   :cites ["US2652345" "US2691582" "US2788336" "US2865753"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:us-philips],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3020224/en",
-  :title
-  "Method and device for applying electron-emissive coatings to coating-supports of indirectly heated thermionic cathodes of electric discharge tubes",
-  :status :granted,
-  :id "US3020224",
-  :sourcing :authoritative,
-  :filing-year 1958,
-  :assignee :us-philips,
-  :grant-year 1962,
-  :cites
-  ["US2084094"
-   "US2161187"
-   "US2172326"
-   "US2258659"
-   "US2363817"
-   "US2442863"
-   "US2525920"
-   "US2653566"
-   "US2679231"
-   "US2688306"],
-  :term-years 20,
-  :open-license :none}
- {:jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US302938/en",
-  :title "Machine for forming paper",
-  :status :granted,
-  :id "US302938",
-  :sourcing :authoritative,
-  :assignee :unassigned,
-  :grant-year 1884,
-  :term-years 20,
-  :open-license :none}
- {:assignees [:north-american-aviation],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3030237/en",
-  :title "Conductive coating",
-  :status :granted,
-  :id "US3030237",
-  :sourcing :authoritative,
-  :filing-year 1959,
-  :assignee :north-american-aviation,
-  :grant-year 1962,
-  :cites ["US2774747" "US2808352" "US2851380"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:usines-decoufle],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3030966/en",
-  :title "Filler forming mechanism",
-  :status :granted,
-  :id "US3030966",
-  :sourcing :authoritative,
-  :filing-year 1957,
-  :assignee :usines-decoufle,
-  :grant-year 1962,
-  :cites
-  ["DE431456C"
-   "DE673628C"
-   "FR1098119A"
-   "GB764551A"
-   "US140693"
-   "US1808794"
-   "US2660178"
-   "US7226"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:usines-decoufle],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3032041/en",
-  :title "Tobacco-manipulating machines",
-  :status :granted,
-  :id "US3032041",
-  :sourcing :authoritative,
-  :filing-year 1957,
-  :assignee :usines-decoufle,
-  :grant-year 1962,
-  :cites
-  ["US1721117"
-   "US1796522"
-   "US2111672"
-   "US2432938"
-   "US2660177"
-   "US2660178"
-   "US2766758"
-   "US969992"],
-  :term-years 20,
-  :open-license :none}
- {:jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US30360/en",
-  :title "Propeller and its",
-  :status :granted,
-  :id "US30360",
-  :sourcing :authoritative,
-  :assignee :unassigned,
-  :grant-year 1860,
-  :term-years 20,
-  :open-license :none}
- {:assignees [:scientific-industries],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3036893/en",
-  :title "Automatic chemical analyzer",
-  :status :granted,
-  :id "US3036893",
-  :sourcing :authoritative,
-  :filing-year 1960,
-  :assignee :scientific-industries,
-  :grant-year 1962,
-  :cites ["US2113063" "US2129754" "US2408058" "US2554414" "US2602729"],
-  :term-years 20,
-  :open-license :none}
- {:jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3036894/en",
-  :title "Method of using testing containers",
-  :status :granted,
-  :id "US3036894",
-  :sourcing :authoritative,
-  :filing-year 1958,
-  :assignee :unassigned,
-  :grant-year 1962,
-  :cites
-  ["US1983681"
-   "US2069333"
-   "US2487077"
-   "US2508197"
-   "US2534229"
-   "US2575467"
-   "US2770601"
-   "US2785057"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:kalle-and-kg],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3041165/en",
-  :title "Electrophotographic material",
-  :status :granted,
-  :id "US3041165",
-  :sourcing :authoritative,
-  :filing-year 1957,
-  :assignee :kalle-and-kg,
-  :grant-year 1962,
-  :cites
-  ["US2418747"
-   "US2426766"
-   "US2513996"
-   "US2663636"
-   "US2692178"
-   "US2800559"
-   "US2901348"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:champion-papers],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3044896/en",
-  :title "Method of making cast coated paper",
-  :status :granted,
-  :id "US3044896",
-  :sourcing :authoritative,
-  :filing-year 1959,
-  :assignee :champion-papers,
-  :grant-year 1962,
-  :cites ["US2204600" "US2214565" "US2286259" "US2790730" "US2819184"],
-  :term-years 20,
-  :open-license :none}
- {:jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3045198/en",
-  :title "Detection device",
-  :status :granted,
-  :id "US3045198",
-  :sourcing :authoritative,
-  :filing-year 1959,
-  :assignee :unassigned,
-  :grant-year 1962,
-  :cites ["US2408093" "US2471601" "US2589983" "US2701832" "US2713625"],
-  :term-years 20,
-  :open-license :none}
- {:jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3049411/en",
-  :title "Enzymatic method for detection of anticholinesterases",
-  :status :granted,
-  :id "US3049411",
-  :sourcing :authoritative,
-  :filing-year 1959,
-  :assignee :unassigned,
-  :grant-year 1962,
-  :cites ["US2865719"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:ei-du-pont-de-nemours-and],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3067085/en",
-  :title "Process for bonding vinyl copolymer to nylon fabric",
-  :status :granted,
-  :id "US3067085",
-  :sourcing :authoritative,
-  :filing-year 1958,
-  :assignee :ei-du-pont-de-nemours-and,
-  :grant-year 1962,
-  :cites
-  ["DE887856C"
-   "FR1046368A"
-   "GB638118A"
-   "US2606845"
-   "US2766164"
-   "US2837458"
-   "US2886467"
-   "US2929737"
-   "US2938823"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:swift-and],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3075887/en",
-  :title "Drying of bacterial cultures",
-  :status :granted,
-  :id "US3075887",
-  :sourcing :authoritative,
-  :filing-year 1960,
-  :assignee :swift-and,
-  :grant-year 1963,
-  :cites ["US1694807" "US2710810" "US2919194"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:takeda-pharmaceutical],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3079379/en",
-  :title "Method for the preparation of adenosine 5&#39;-triphosphate",
-  :status :granted,
-  :id "US3079379",
-  :sourcing :authoritative,
-  :filing-year 1960,
-  :assignee :takeda-pharmaceutical,
-  :grant-year 1963,
-  :term-years 20,
-  :open-license :none}
- {:assignees [:deutsche-itt-industries],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3081203/en",
-  :title
-  "Method of removing hardened photoresist material from printed circuit conductors",
-  :status :granted,
-  :id "US3081203",
-  :sourcing :authoritative,
-  :filing-year 1960,
-  :assignee :deutsche-itt-industries,
-  :grant-year 1963,
-  :cites
-  ["US2338673"
-   "US2417468"
-   "US2435239"
-   "US2709666"
-   "US2737465"
-   "US2925332"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:usines-decoufle],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3088467/en",
-  :title "Method of forming a continuous tobacco filler",
-  :status :granted,
-  :id "US3088467",
-  :sourcing :authoritative,
-  :filing-year 1961,
-  :assignee :usines-decoufle,
-  :grant-year 1963,
-  :cites ["FR1179992A" "GB854736A" "US1808795" "US2660178"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:mead],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3104182/en",
-  :title "Apparatus for controlling edge beads",
-  :status :granted,
-  :id "US3104182",
-  :sourcing :authoritative,
-  :filing-year 1961,
-  :assignee :mead,
-  :grant-year 1963,
-  :cites ["GB608203A" "US1525829" "US2592914" "US2974586"],
   :term-years 20,
   :open-license :none}]
