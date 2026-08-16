@@ -2256,6 +2256,18 @@
   :assignee :bellingham-and-stanley,
   :term-years 20,
   :open-license :none}
+ {:assignees [:midland-silicones],
+  :jurisdiction :gb,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/GB844128A/en",
+  :title "Siloxane elastomers",
+  :status :pending,
+  :id "GB844128A",
+  :sourcing :authoritative,
+  :filing-year 1958,
+  :assignee :midland-silicones,
+  :term-years 20,
+  :open-license :none}
  {:assignees [:technicon-instruments],
   :jurisdiction :gb,
   :field "UNKNOWN",
@@ -5528,6 +5540,19 @@
   :grant-year 1940,
   :term-years 20,
   :open-license :none}
+ {:assignees [:standard-oil],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2223240/en",
+  :title "Laminated cellulosic material",
+  :status :granted,
+  :id "US2223240",
+  :sourcing :authoritative,
+  :filing-year 1937,
+  :assignee :standard-oil,
+  :grant-year 1940,
+  :term-years 20,
+  :open-license :none}
  {:assignees [:celanese],
   :jurisdiction :us,
   :field "UNKNOWN",
@@ -6887,6 +6912,35 @@
   :assignee :socony-vacuum-oil,
   :grant-year 1951,
   :cites ["US2051320" "US2265357" "US2286985" "US2403631" "US2459512"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:elizabeth-r-b-stuart],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2555380/en",
+  :title "Container",
+  :status :granted,
+  :id "US2555380",
+  :sourcing :authoritative,
+  :filing-year 1946,
+  :assignee :elizabeth-r-b-stuart,
+  :grant-year 1951,
+  :cites
+  ["US1299031"
+   "US1558804"
+   "US1597889"
+   "US2006548"
+   "US2085034"
+   "US2131343"
+   "US2163316"
+   "US2163317"
+   "US2173585"
+   "US2183093"
+   "US2227138"
+   "US2262242"
+   "US2281889"
+   "US2314338"
+   "US485158"],
   :term-years 20,
   :open-license :none}
  {:assignees [:polaroid],
@@ -8276,6 +8330,20 @@
    "US2743233"],
   :term-years 20,
   :open-license :none}
+ {:assignees [:shawinigan-resins],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2816655/en",
+  :title "Low adhesion coatings on adhesive tapes and liners",
+  :status :granted,
+  :id "US2816655",
+  :sourcing :authoritative,
+  :filing-year 1954,
+  :assignee :shawinigan-resins,
+  :grant-year 1957,
+  :cites ["US2168535"],
+  :term-years 20,
+  :open-license :none}
  {:assignees [:warren-sd],
   :jurisdiction :us,
   :field "UNKNOWN",
@@ -8581,6 +8649,20 @@
    "US2682515"
    "US2705223"
    "US2707177"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:crown-zellerbach],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2885074/en",
+  :title "Packaging rubber",
+  :status :granted,
+  :id "US2885074",
+  :sourcing :authoritative,
+  :filing-year 1957,
+  :assignee :crown-zellerbach,
+  :grant-year 1959,
+  :cites ["CA508732A" "US2648487" "US2762504"],
   :term-years 20,
   :open-license :none}
  {:assignees [:johnson-and-johnson],
@@ -9048,90 +9130,5 @@
    "US792620"
    "US823677"
    "US888464"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:american-instr],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US2971429/en",
-  :title "Spectro-fluorescence measuring instrument",
-  :status :granted,
-  :id "US2971429",
-  :sourcing :authoritative,
-  :filing-year 1957,
-  :assignee :american-instr,
-  :grant-year 1961,
-  :cites
-  ["US2339053"
-   "US2411741"
-   "US2444560"
-   "US2602368"
-   "US2635192"
-   "US2723589"
-   "US2758502"
-   "US2835167"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:allen-industries],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US2971857/en",
-  :title "Embossed rug cushion and method of producing the same",
-  :status :granted,
-  :id "US2971857",
-  :sourcing :authoritative,
-  :filing-year 1959,
-  :assignee :allen-industries,
-  :grant-year 1961,
-  :term-years 20,
-  :open-license :none}
- {:assignees [:eastman-kodak],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US2972607/en",
-  :title
-  "Four-component mixed metal-halogen catalysts for olefin polymerization",
-  :status :granted,
-  :id "US2972607",
-  :sourcing :authoritative,
-  :filing-year 1958,
-  :assignee :eastman-kodak,
-  :grant-year 1961,
-  :cites ["FR1132506A" "US2832759" "US2846427" "US2905645"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:phillips-petroleum],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US2974227/en",
-  :title "Analyzer",
-  :status :granted,
-  :id "US2974227",
-  :sourcing :authoritative,
-  :filing-year 1958,
-  :assignee :phillips-petroleum,
-  :grant-year 1961,
-  :cites
-  ["DE927431C"
-   "US1740673"
-   "US2417321"
-   "US2617940"
-   "US2654845"
-   "US2694335"
-   "US2737591"
-   "US2878388"],
-  :term-years 20,
-  :open-license :none}
- {:jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US2974586/en",
-  :title
-  "Doctor blade and doctor blade shear for textile printing machine",
-  :status :granted,
-  :id "US2974586",
-  :sourcing :authoritative,
-  :filing-year 1960,
-  :assignee :unassigned,
-  :grant-year 1961,
   :term-years 20,
   :open-license :none}]

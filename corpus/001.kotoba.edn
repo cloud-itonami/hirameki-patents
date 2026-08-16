@@ -1,4 +1,89 @@
-[{:assignees [:mine-safety-appliances],
+[{:assignees [:american-instr],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2971429/en",
+  :title "Spectro-fluorescence measuring instrument",
+  :status :granted,
+  :id "US2971429",
+  :sourcing :authoritative,
+  :filing-year 1957,
+  :assignee :american-instr,
+  :grant-year 1961,
+  :cites
+  ["US2339053"
+   "US2411741"
+   "US2444560"
+   "US2602368"
+   "US2635192"
+   "US2723589"
+   "US2758502"
+   "US2835167"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:allen-industries],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2971857/en",
+  :title "Embossed rug cushion and method of producing the same",
+  :status :granted,
+  :id "US2971857",
+  :sourcing :authoritative,
+  :filing-year 1959,
+  :assignee :allen-industries,
+  :grant-year 1961,
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:eastman-kodak],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2972607/en",
+  :title
+  "Four-component mixed metal-halogen catalysts for olefin polymerization",
+  :status :granted,
+  :id "US2972607",
+  :sourcing :authoritative,
+  :filing-year 1958,
+  :assignee :eastman-kodak,
+  :grant-year 1961,
+  :cites ["FR1132506A" "US2832759" "US2846427" "US2905645"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:phillips-petroleum],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2974227/en",
+  :title "Analyzer",
+  :status :granted,
+  :id "US2974227",
+  :sourcing :authoritative,
+  :filing-year 1958,
+  :assignee :phillips-petroleum,
+  :grant-year 1961,
+  :cites
+  ["DE927431C"
+   "US1740673"
+   "US2417321"
+   "US2617940"
+   "US2654845"
+   "US2694335"
+   "US2737591"
+   "US2878388"],
+  :term-years 20,
+  :open-license :none}
+ {:jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2974586/en",
+  :title
+  "Doctor blade and doctor blade shear for textile printing machine",
+  :status :granted,
+  :id "US2974586",
+  :sourcing :authoritative,
+  :filing-year 1960,
+  :assignee :unassigned,
+  :grant-year 1961,
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:mine-safety-appliances],
   :jurisdiction :us,
   :field "UNKNOWN",
   :source "https://patents.google.com/patent/US2975362/en",
@@ -52,6 +137,42 @@
   :assignee :jersey-production-research,
   :grant-year 1961,
   :cites ["US1342927" "US2618344" "US2695065" "US2707998" "US2815817"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:general-electric],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2985545/en",
+  :title
+  "Method of rendering cellulosic material non-adherent and article produced thereby",
+  :status :granted,
+  :id "US2985545",
+  :sourcing :authoritative,
+  :filing-year 1958,
+  :assignee :general-electric,
+  :grant-year 1961,
+  :cites
+  ["US2504388"
+   "US2588367"
+   "US2588393"
+   "US2612482"
+   "US2807601"
+   "US2814601"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:general-electric],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2985546/en",
+  :title
+  "Method of rendering cellulosic material non-adherent and article produced thereby",
+  :status :granted,
+  :id "US2985546",
+  :sourcing :authoritative,
+  :filing-year 1958,
+  :assignee :general-electric,
+  :grant-year 1961,
+  :cites ["US2504388" "US2588367" "US2814601" "US2843555"],
   :term-years 20,
   :open-license :none}
  {:assignees [:fmc],
@@ -250,6 +371,36 @@
    "US2688306"],
   :term-years 20,
   :open-license :none}
+ {:assignees [:wr-grace-and],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3022543/en",
+  :title "Method of producing film having improved shrink energy",
+  :status :granted,
+  :id "US3022543",
+  :sourcing :authoritative,
+  :filing-year 1958,
+  :assignee :wr-grace-and,
+  :grant-year 1962,
+  :cites
+  ["US2219700"
+   "US2408317"
+   "US2448433"
+   "US2452080"
+   "US2488571"
+   "US2491423"
+   "US2586820"
+   "US2622380"
+   "US2684316"
+   "US2686746"
+   "US2690633"
+   "US2763029"
+   "US2792791"
+   "US2825721"
+   "US2855517"
+   "US2877500"],
+  :term-years 20,
+  :open-license :none}
  {:assignees [:allied-kid],
   :jurisdiction :us,
   :field "UNKNOWN",
@@ -388,6 +539,31 @@
    "US2785057"],
   :term-years 20,
   :open-license :none}
+ {:assignees [:toscony],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3036927/en",
+  :title "Method of coating vinyl film with a surfacing color",
+  :status :granted,
+  :id "US3036927",
+  :sourcing :authoritative,
+  :filing-year 1959,
+  :assignee :toscony,
+  :grant-year 1962,
+  :cites
+  ["US2163712"
+   "US2218249"
+   "US2312927"
+   "US2396946"
+   "US2453052"
+   "US2571962"
+   "US2700630"
+   "US2711132"
+   "US2729193"
+   "US2741215"
+   "US2771388"],
+  :term-years 20,
+  :open-license :none}
  {:assignees [:kalle-and-kg],
   :jurisdiction :us,
   :field "UNKNOWN",
@@ -436,6 +612,20 @@
   :cites ["US2408093" "US2471601" "US2589983" "US2701832" "US2713625"],
   :term-years 20,
   :open-license :none}
+ {:assignees [:wacker-chemie],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3046160/en",
+  :title "Process for treating paper with silicones",
+  :status :granted,
+  :id "US3046160",
+  :sourcing :authoritative,
+  :filing-year 1959,
+  :assignee :wacker-chemie,
+  :grant-year 1962,
+  :cites ["US2645629" "US2744079" "US2814601" "US2875098"],
+  :term-years 20,
+  :open-license :none}
  {:jurisdiction :us,
   :field "UNKNOWN",
   :source "https://patents.google.com/patent/US3047526/en",
@@ -467,6 +657,28 @@
   :assignee :unassigned,
   :grant-year 1962,
   :cites ["US2865719"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:dow-corning],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3061567/en",
+  :title
+  "Aqueous dispersions of a mixture of siloxanes and an aminoplast resin, method of coating, and article obtained",
+  :status :granted,
+  :id "US3061567",
+  :sourcing :authoritative,
+  :filing-year 1958,
+  :assignee :dow-corning,
+  :grant-year 1962,
+  :cites
+  ["US2588393"
+   "US2612482"
+   "US2728692"
+   "US2757152"
+   "US2774690"
+   "US2807601"
+   "US2985545"],
   :term-years 20,
   :open-license :none}
  {:assignees [:kimberly-clark],
@@ -539,6 +751,18 @@
   :assignee :johnson-and-johnson,
   :grant-year 1962,
   :cites ["CA524051A" "US2763571" "US2795515" "US2799596" "US2947338"],
+  :term-years 20,
+  :open-license :none}
+ {:jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3070566/en",
+  :title "Horzsio",
+  :status :granted,
+  :id "US3070566",
+  :sourcing :authoritative,
+  :assignee :unassigned,
+  :grant-year 1962,
+  :cites ["US2819236"],
   :term-years 20,
   :open-license :none}
  {:assignees [:swift-and],
@@ -617,6 +841,53 @@
   :cites ["FR1179992A" "GB854736A" "US1808795" "US2660178"],
   :term-years 20,
   :open-license :none}
+ {:assignees [:jagenberg-werke],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3094432/en",
+  :title
+  "Method of treating adhesive coated blanks to nullify the adhesive effect in selected areas",
+  :status :granted,
+  :id "US3094432",
+  :sourcing :authoritative,
+  :filing-year 1960,
+  :assignee :jagenberg-werke,
+  :grant-year 1963,
+  :cites
+  ["US2334600"
+   "US2362862"
+   "US2562423"
+   "US2584632"
+   "US2628214"
+   "US2695745"
+   "US2745592"
+   "US2781159"
+   "US2923404"
+   "US2936261"
+   "US2937066"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:national-distillers-and-chemical],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3099350/en",
+  :title "Packaging films and package produced therefrom",
+  :status :granted,
+  :id "US3099350",
+  :sourcing :authoritative,
+  :filing-year 1959,
+  :assignee :national-distillers-and-chemical,
+  :grant-year 1963,
+  :cites
+  ["US2276677"
+   "US2519013"
+   "US2686744"
+   "US2772172"
+   "US2888367"
+   "US2900260"
+   "US2979410"],
+  :term-years 20,
+  :open-license :none}
  {:assignees [:mead],
   :jurisdiction :us,
   :field "UNKNOWN",
@@ -644,6 +915,28 @@
   :assignee :hoechst,
   :grant-year 1963,
   :cites ["US2294651" "US2909449" "US2910385" "US2940889"],
+  :term-years 20,
+  :open-license :none}
+ {:jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3127363/en",
+  :title "Process for the manufacture of elasto-",
+  :status :granted,
+  :id "US3127363",
+  :sourcing :authoritative,
+  :assignee :unassigned,
+  :grant-year 1964,
+  :cites
+  ["US2123152"
+   "US2494920"
+   "US2571039"
+   "US2584351"
+   "US2615861"
+   "US2692844"
+   "US2729569"
+   "US2754237"
+   "US2814601"
+   "US2843555"],
   :term-years 20,
   :open-license :none}
  {:jurisdiction :us,
@@ -677,6 +970,21 @@
    "US2916864"
    "US3001348"
    "US3018594"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:dow-chemical],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3133825/en",
+  :title
+  "Fluid vinyl chloride polymer compositions, and rigid cross-linked vinyl chloride polymeric products having reinforcing fibrous material embedded therein, and method of making the same",
+  :status :granted,
+  :id "US3133825",
+  :sourcing :authoritative,
+  :filing-year 1960,
+  :assignee :dow-chemical,
+  :grant-year 1964,
+  :cites ["US2567719" "US2922768" "US2951772"],
   :term-years 20,
   :open-license :none}
  {:assignees [:combined-locks-paper],
@@ -756,6 +1064,27 @@
   :assignee :upjohn,
   :grant-year 1964,
   :cites ["US2885396"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:owens-illinois-glass],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3162543/en",
+  :title
+  "Coated paper products and coating compositions and method therefor",
+  :status :granted,
+  :id "US3162543",
+  :sourcing :authoritative,
+  :filing-year 1960,
+  :assignee :owens-illinois-glass,
+  :grant-year 1964,
+  :cites
+  ["US1956866"
+   "US2458191"
+   "US2869722"
+   "US2885074"
+   "US2996462"
+   "US3022289"],
   :term-years 20,
   :open-license :none}
  {:assignees [:azoplate],
@@ -1317,6 +1646,20 @@
    "US3163531"],
   :term-years 20,
   :open-license :none}
+ {:assignees [:mct-enterprises],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3245198/en",
+  :title "Method for packaging articles with transparent film",
+  :status :granted,
+  :id "US3245198",
+  :sourcing :authoritative,
+  :filing-year 1964,
+  :assignee :mct-enterprises,
+  :grant-year 1966,
+  :cites ["US1597528" "US2218293" "US2439164" "US2718107" "US3134679"],
+  :term-years 20,
+  :open-license :none}
  {:assignees [:beckman-instruments],
   :jurisdiction :us,
   :field "UNKNOWN",
@@ -1450,6 +1793,35 @@
   :assignee :scientific-industries,
   :grant-year 1966,
   :cites ["US2129754" "US2249867" "US2692830" "US2918033" "US3036893"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:dow-corning],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3262830/en",
+  :title
+  "Organosilicon molding compositions containing orthotitanate catalysts",
+  :status :granted,
+  :id "US3262830",
+  :sourcing :authoritative,
+  :filing-year 1961,
+  :assignee :dow-corning,
+  :grant-year 1966,
+  :cites ["US2486162" "US2718483" "US2970126" "US2993809"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:ei-du-pont-de-nemours-and],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3264272/en",
+  :title "Ionic hydrocarbon polymers",
+  :status :granted,
+  :id "US3264272",
+  :sourcing :authoritative,
+  :filing-year 1963,
+  :assignee :ei-du-pont-de-nemours-and,
+  :grant-year 1966,
+  :cites ["US2599123" "US2646425" "US2798053" "US2854357" "US3132120"],
   :term-years 20,
   :open-license :none}
  {:assignees [:technicon-instruments],
@@ -8969,344 +9341,5 @@
   :filing-year 1979,
   :assignee :genentech,
   :grant-year 1982,
-  :term-years 20,
-  :open-license :none}
- {:assignees [:american-hospital-supply],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US4311573/en",
-  :title
-  "Process for graft copolymerization of a pre-formed substrate",
-  :status :granted,
-  :id "US4311573",
-  :sourcing :authoritative,
-  :filing-year 1980,
-  :assignee :american-hospital-supply,
-  :grant-year 1982,
-  :cites
-  ["US3008920"
-   "US3070573"
-   "US3107206"
-   "US3453194"
-   "US3700573"
-   "US3959102"
-   "US4099859"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:akzona],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US4313734/en",
-  :title "Metal sol particle immunoassay",
-  :status :granted,
-  :id "US4313734",
-  :sourcing :authoritative,
-  :filing-year 1979,
-  :assignee :akzona,
-  :grant-year 1982,
-  :cites
-  ["US3551555"
-   "US3933997"
-   "US3970518"
-   "US4018886"
-   "US4020151"
-   "US4067959"
-   "US4108972"
-   "US4177253"
-   "US4205952"
-   "US4219335"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:minnesota-mining-and-manufacturing],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US4314821/en",
-  :title "Sandwich immunoassay using piezoelectric oscillator",
-  :status :granted,
-  :id "US4314821",
-  :sourcing :authoritative,
-  :filing-year 1980,
-  :assignee :minnesota-mining-and-manufacturing,
-  :grant-year 1982,
-  :cites ["US4236893"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:syva],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US4318846/en",
-  :title
-  "Novel ether substituted fluorescein polyamino acid compounds as fluorescers and quenchers",
-  :status :granted,
-  :id "US4318846",
-  :sourcing :authoritative,
-  :filing-year 1979,
-  :assignee :syva,
-  :grant-year 1982,
-  :cites ["US4174384" "US4220450" "US4220722"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:research],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US4321365/en",
-  :title
-  "Oligonucleotides useful as adaptors in DNA cloning, adapted DNA molecules, and methods of preparing adaptors and adapted molecules",
-  :status :granted,
-  :id "US4321365",
-  :sourcing :authoritative,
-  :filing-year 1977,
-  :assignee :research,
-  :grant-year 1982,
-  :cites ["US4237224"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:kendrew-biosystems-a-of],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US4327073/en",
-  :title
-  "Automated method for quantitative analysis of biological fluids",
-  :status :granted,
-  :id "US4327073",
-  :sourcing :authoritative,
-  :filing-year 1980,
-  :assignee :kendrew-biosystems-a-of,
-  :grant-year 1982,
-  :cites
-  ["US3260413"
-   "US3526480"
-   "US3645852"
-   "US3675488"
-   "US3952091"
-   "US4071315"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:abbott-laboratories],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US4331589/en",
-  :title
-  "Deoxyribonucleic acid synthesis using binding protein extracted from chick embryo fibroblasts",
-  :status :granted,
-  :id "US4331589",
-  :sourcing :authoritative,
-  :filing-year 1981,
-  :assignee :abbott-laboratories,
-  :grant-year 1982,
-  :term-years 20,
-  :open-license :none}
- {:jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US4331647/en",
-  :title
-  "Tumor localization and therapy with labeled antibody fragments specific to tumor-associated markers",
-  :status :granted,
-  :id "US4331647",
-  :sourcing :authoritative,
-  :filing-year 1980,
-  :assignee :unassigned,
-  :grant-year 1982,
-  :cites ["US3927193" "US4036945" "US4146603" "US4234561"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:rca],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US4339528/en",
-  :title "Etching method using a hardened PVA stencil",
-  :status :granted,
-  :id "US4339528",
-  :sourcing :authoritative,
-  :filing-year 1981,
-  :assignee :rca,
-  :grant-year 1982,
-  :cites ["US3415648" "US3589907" "US4061529" "US4208242"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:cm-industries],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US4340535/en",
-  :title
-  "Cytotoxic products formed by covalent bonding of the A chain of ricin with an antibody and the process for their preparation and use",
-  :status :granted,
-  :id "US4340535",
-  :sourcing :authoritative,
-  :filing-year 1979,
-  :assignee :cm-industries,
-  :grant-year 1982,
-  :cites ["US4046722" "US4093607"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:agfa-gevaert],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US4340664/en",
-  :title
-  "Copolymer latex and photographic silver halide materials containing such latex",
-  :status :granted,
-  :id "US4340664",
-  :sourcing :authoritative,
-  :filing-year 1980,
-  :assignee :agfa-gevaert,
-  :grant-year 1982,
-  :cites
-  ["GB1453057A" "US3356686" "US3926436" "US4080211" "US4128427"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:bethesda-research-laboratories],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US4342833/en",
-  :title "Immobilized restriction endonucleases",
-  :status :granted,
-  :id "US4342833",
-  :sourcing :authoritative,
-  :filing-year 1978,
-  :assignee :bethesda-research-laboratories,
-  :grant-year 1982,
-  :cites ["US3909358" "US4013514" "US4039382"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:nippon-kogaku],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US4342905/en",
-  :title "Automatic focusing device of a microscope",
-  :status :granted,
-  :id "US4342905",
-  :sourcing :authoritative,
-  :filing-year 1980,
-  :assignee :nippon-kogaku,
-  :grant-year 1982,
-  :cites ["US3970841" "US4254330" "US4297571"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:us-department-of-health-and-human-services],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US4344438/en",
-  :title "Optical sensor of plasma constituents",
-  :status :granted,
-  :id "US4344438",
-  :sourcing :authoritative,
-  :filing-year 1980,
-  :assignee :us-department-of-health-and-human-services,
-  :grant-year 1982,
-  :cites
-  ["US3123066"
-   "US3638639"
-   "US3785772"
-   "US3787119"
-   "US3837339"
-   "US3939350"
-   "US3992631"],
-  :term-years 20,
-  :open-license :none}
- {:jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US4348376/en",
-  :title
-  "Tumor localization and therapy with labeled anti-CEA antibody",
-  :status :granted,
-  :id "US4348376",
-  :sourcing :authoritative,
-  :filing-year 1980,
-  :assignee :unassigned,
-  :grant-year 1982,
-  :cites ["US3927193" "US4160817" "US4174385" "US4211766"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:teijin],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US4350626/en",
-  :title "Antitumor hybrid and process for the preparation thereof",
-  :status :granted,
-  :id "US4350626",
-  :sourcing :authoritative,
-  :filing-year 1980,
-  :assignee :teijin,
-  :grant-year 1982,
-  :cites
-  ["GB2034324A" "US4160018" "US4160019" "US4174385" "US4201770"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:cetus],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US4351901/en",
-  :title "Method for single nucleotide alteration",
-  :status :granted,
-  :id "US4351901",
-  :sourcing :authoritative,
-  :filing-year 1980,
-  :assignee :cetus,
-  :grant-year 1982,
-  :cites ["US4264731" "US4293652"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:warner-lambert],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US4357311/en",
-  :title "Substrate for immunoassay and means of preparing same",
-  :status :granted,
-  :id "US4357311",
-  :sourcing :authoritative,
-  :filing-year 1980,
-  :assignee :warner-lambert,
-  :grant-year 1982,
-  :cites ["US3619371" "US3824150" "US4007089" "US4119494" "US4229537"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:university-of-washington],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US4358535/en",
-  :title "Specific DNA probes in diagnostic microbiology",
-  :status :granted,
-  :id "US4358535",
-  :sourcing :authoritative,
-  :filing-year 1980,
-  :assignee :university-of-washington,
-  :grant-year 1982,
-  :cites ["US3755086" "US3930956" "US4038143" "US4275149"],
-  :term-years 20,
-  :open-license :none}
- {:jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US4359535/en",
-  :title
-  "Autonomously replicating DNA containing inserted DNA sequences",
-  :status :granted,
-  :id "US4359535",
-  :sourcing :authoritative,
-  :filing-year 1979,
-  :assignee :unassigned,
-  :grant-year 1982,
-  :cites ["US4237224"],
-  :term-years 20,
-  :open-license :none}
- {:jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US4361544/en",
-  :title
-  "Tumor localization and therapy with labeled antibodies specific to intracellular tumor-associated markers",
-  :status :granted,
-  :id "US4361544",
-  :sourcing :authoritative,
-  :filing-year 1980,
-  :assignee :unassigned,
-  :grant-year 1982,
-  :cites
-  ["EP0005638A2"
-   "US3927193"
-   "US3960827"
-   "US4144031"
-   "US4146603"
-   "US4160019"
-   "US4174385"],
   :term-years 20,
   :open-license :none}]
