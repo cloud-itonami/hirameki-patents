@@ -1524,6 +1524,20 @@
   :grant-year 1953,
   :term-years 20,
   :open-license :none}
+ {:assignees [:bruderhaus-maschinen],
+  :jurisdiction :fr,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/FR1308186A/en",
+  :title
+  "Method for applying a coating or the like to a strip of paper or the like",
+  :status :granted,
+  :id "FR1308186A",
+  :sourcing :authoritative,
+  :filing-year 1961,
+  :assignee :bruderhaus-maschinen,
+  :grant-year 1962,
+  :term-years 20,
+  :open-license :none}
  {:assignees [:oxoid],
   :jurisdiction :fr,
   :field "UNKNOWN",
@@ -2142,6 +2156,18 @@
   :sourcing :authoritative,
   :filing-year 1945,
   :assignee :wingfoot,
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:karlstad-mekaniska :karlstads-mekaniska-werkstad],
+  :jurisdiction :gb,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/GB608203A/en",
+  :title "Scraper for cleaning rotary cylinders",
+  :status :pending,
+  :id "GB608203A",
+  :sourcing :authoritative,
+  :filing-year 1946,
+  :assignee :karlstad-mekaniska,
   :term-years 20,
   :open-license :none}
  {:assignees [:imperial-chemical-industries],
@@ -4500,6 +4526,18 @@
   :open-license :none}
  {:jurisdiction :us,
   :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US1203303/en",
+  :title "Moisture-proof paper-stock and method of producing.",
+  :status :granted,
+  :id "US1203303",
+  :sourcing :authoritative,
+  :filing-year 1915,
+  :assignee :unassigned,
+  :grant-year 1916,
+  :term-years 20,
+  :open-license :none}
+ {:jurisdiction :us,
+  :field "UNKNOWN",
   :source "https://patents.google.com/patent/US1212854/en",
   :title "Silk-finishing machine.",
   :status :granted,
@@ -4593,6 +4631,18 @@
   :grant-year 1923,
   :term-years 20,
   :open-license :none}
+ {:jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US1484705/en",
+  :title "Machine for and method of coating fabrics",
+  :status :granted,
+  :id "US1484705",
+  :sourcing :authoritative,
+  :filing-year 1921,
+  :assignee :unassigned,
+  :grant-year 1924,
+  :term-years 20,
+  :open-license :none}
  {:assignees [:westinghouse-electric],
   :jurisdiction :us,
   :field "UNKNOWN",
@@ -4604,6 +4654,19 @@
   :filing-year 1921,
   :assignee :westinghouse-electric,
   :grant-year 1924,
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:barber-asphalt],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US1525829/en",
+  :title "Machine for coating sheet roofing and the like",
+  :status :granted,
+  :id "US1525829",
+  :sourcing :authoritative,
+  :filing-year 1921,
+  :assignee :barber-asphalt,
+  :grant-year 1925,
   :term-years 20,
   :open-license :none}
  {:assignees [:crooksdittmar],
@@ -5051,6 +5114,19 @@
   :grant-year 1936,
   :term-years 20,
   :open-license :none}
+ {:assignees [:warren-sd],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2051403/en",
+  :title "Paper coating",
+  :status :granted,
+  :id "US2051403",
+  :sourcing :authoritative,
+  :filing-year 1930,
+  :assignee :warren-sd,
+  :grant-year 1936,
+  :term-years 20,
+  :open-license :none}
  {:jurisdiction :us,
   :field "UNKNOWN",
   :source "https://patents.google.com/patent/US2051603/en",
@@ -5287,6 +5363,18 @@
   :open-license :none}
  {:jurisdiction :us,
   :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2159704/en",
+  :title "Cigarette and method of making the same",
+  :status :granted,
+  :id "US2159704",
+  :sourcing :authoritative,
+  :filing-year 1937,
+  :assignee :unassigned,
+  :grant-year 1939,
+  :term-years 20,
+  :open-license :none}
+ {:jurisdiction :us,
+  :field "UNKNOWN",
   :source "https://patents.google.com/patent/US2161187/en",
   :title "Liquid applying machine",
   :status :granted,
@@ -5515,6 +5603,19 @@
   :sourcing :authoritative,
   :filing-year 1938,
   :assignee :warren-sd,
+  :grant-year 1941,
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:cleef-bros-van],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2253922/en",
+  :title "Manufacture of tape",
+  :status :granted,
+  :id "US2253922",
+  :sourcing :authoritative,
+  :filing-year 1940,
+  :assignee :cleef-bros-van,
   :grant-year 1941,
   :term-years 20,
   :open-license :none}
@@ -6938,6 +7039,32 @@
   :grant-year 1952,
   :term-years 20,
   :open-license :none}
+ {:assignees [:blaw-knox],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2592914/en",
+  :title
+  "Apparatus for removing the product film from a revolving drum surface",
+  :status :granted,
+  :id "US2592914",
+  :sourcing :authoritative,
+  :filing-year 1947,
+  :assignee :blaw-knox,
+  :grant-year 1952,
+  :cites
+  ["US1812920"
+   "US1853451"
+   "US1880455"
+   "US2070667"
+   "US2082819"
+   "US2117958"
+   "US2141978"
+   "US2352220"
+   "US475535"
+   "US704977"
+   "US927169"],
+  :term-years 20,
+  :open-license :none}
  {:assignees [:betex-sales],
   :jurisdiction :us,
   :field "UNKNOWN",
@@ -8301,6 +8428,30 @@
    "US862403"],
   :term-years 20,
   :open-license :none}
+ {:assignees [:champion-paper-and-fibre],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2855895/en",
+  :title "Apparatus for coating paper",
+  :status :granted,
+  :id "US2855895",
+  :sourcing :authoritative,
+  :filing-year 1954,
+  :assignee :champion-paper-and-fibre,
+  :grant-year 1958,
+  :cites
+  ["US1422545"
+   "US1641403"
+   "US2190809"
+   "US2328183"
+   "US2439802"
+   "US2474691"
+   "US2534320"
+   "US2681294"
+   "US515941"
+   "US676237"],
+  :term-years 20,
+  :open-license :none}
  {:assignees [:american-cyanamid],
   :jurisdiction :us,
   :field "UNKNOWN",
@@ -8656,6 +8807,19 @@
    "US2606162"],
   :term-years 20,
   :open-license :none}
+ {:jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2933418/en",
+  :title "Impregnation of the grain side of leather with polysulfides",
+  :status :granted,
+  :id "US2933418",
+  :sourcing :authoritative,
+  :filing-year 1959,
+  :assignee :unassigned,
+  :grant-year 1960,
+  :cites ["US2466963" "US2824816"],
+  :term-years 20,
+  :open-license :none}
  {:assignees [:usines-decoufle],
   :jurisdiction :us,
   :field "UNKNOWN",
@@ -8791,6 +8955,31 @@
    "US2725307"
    "US275176"
    "US2860073"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:minnesota-mining-and-manufacturing],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2954868/en",
+  :title "Masking tape",
+  :status :granted,
+  :id "US2954868",
+  :sourcing :authoritative,
+  :filing-year 1957,
+  :assignee :minnesota-mining-and-manufacturing,
+  :grant-year 1960,
+  :cites
+  ["US1962340"
+   "US2236527"
+   "US2251273"
+   "US2269712"
+   "US2438195"
+   "US2458166"
+   "US2633430"
+   "US2635045"
+   "US2666699"
+   "US2725981"
+   "US2772970"],
   :term-years 20,
   :open-license :none}
  {:jurisdiction :us,
@@ -8933,200 +9122,16 @@
    "US2878388"],
   :term-years 20,
   :open-license :none}
- {:assignees [:mine-safety-appliances],
-  :jurisdiction :us,
+ {:jurisdiction :us,
   :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US2975362/en",
-  :title "Semiconductor diodes for gas detection",
-  :status :granted,
-  :id "US2975362",
-  :sourcing :authoritative,
-  :filing-year 1957,
-  :assignee :mine-safety-appliances,
-  :grant-year 1961,
-  :cites ["US2402662" "US2711511"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:nat-res-dev],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US2975553/en",
-  :title "Apparatus for culture of biological cells and tissues",
-  :status :granted,
-  :id "US2975553",
-  :sourcing :authoritative,
-  :filing-year 1958,
-  :assignee :nat-res-dev,
-  :grant-year 1961,
-  :cites ["US1874667" "US2658310"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:ei-du-pont-de-nemours-and],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US2977243/en",
-  :title "Coating process",
-  :status :granted,
-  :id "US2977243",
-  :sourcing :authoritative,
-  :filing-year 1958,
-  :assignee :ei-du-pont-de-nemours-and,
-  :grant-year 1961,
-  :cites ["US1774398" "US2159151" "US2364904" "US2388339" "US2819984"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:jersey-production-research],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US2978029/en",
-  :title "Plug for well boreholes",
-  :status :granted,
-  :id "US2978029",
-  :sourcing :authoritative,
-  :filing-year 1959,
-  :assignee :jersey-production-research,
-  :grant-year 1961,
-  :cites ["US1342927" "US2618344" "US2695065" "US2707998" "US2815817"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:fmc],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US2990388/en",
-  :title "Allylic resin composition and process",
-  :status :granted,
-  :id "US2990388",
-  :sourcing :authoritative,
-  :filing-year 1959,
-  :assignee :fmc,
-  :grant-year 1961,
-  :cites ["US2377095" "US2462331" "US2832758"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:diamond-alkali],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US2996426/en",
-  :title "Pesticidal composition",
-  :status :granted,
-  :id "US2996426",
-  :sourcing :authoritative,
-  :filing-year 1958,
-  :assignee :diamond-alkali,
-  :grant-year 1961,
-  :cites
-  ["US2423457"
-   "US2444154"
-   "US2760900"
-   "US2786012"
-   "US2809147"
-   "US2819198"
-   "US2821500"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:us-philips],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US2998554/en",
-  :title "Semi-conductor barrier layer system",
-  :status :granted,
-  :id "US2998554",
-  :sourcing :authoritative,
-  :filing-year 1958,
-  :assignee :us-philips,
-  :grant-year 1961,
-  :cites ["US2846625" "US2858356" "US2887629"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:technicon-instruments],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US2999417/en",
-  :title "Colorimeter",
-  :status :granted,
-  :id "US2999417",
-  :sourcing :authoritative,
-  :filing-year 1957,
-  :assignee :technicon-instruments,
-  :grant-year 1961,
-  :cites
-  ["DE724121C"
-   "FR837918A"
-   "FR883335A"
-   "US1504770"
-   "US1900893"
-   "US2051317"
-   "US2197190"
-   "US2232169"
-   "US2328461"
-   "US2490345"
-   "US2496333"
-   "US2594113"
-   "US2630735"
-   "US2649011"
-   "US2677987"
-   "US2682801"
-   "US2797149"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:united-states-rubber],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3002869/en",
-  :title "Glass fibre preforms",
-  :status :granted,
-  :id "US3002869",
-  :sourcing :authoritative,
-  :filing-year 1957,
-  :assignee :united-states-rubber,
-  :grant-year 1961,
-  :cites
-  ["CA458647A"
-   "GB590680A"
-   "US2513268"
-   "US2595852"
-   "US2600783"
-   "US2653355"
-   "US2702261"
-   "US2748028"
-   "US2763629"
-   "US2787314"
-   "US2855373"
-   "US2905580"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:time],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3005727/en",
+  :source "https://patents.google.com/patent/US2974586/en",
   :title
-  "Coating compositions and processes for making paper more receptive to ink",
+  "Doctor blade and doctor blade shear for textile printing machine",
   :status :granted,
-  :id "US3005727",
+  :id "US2974586",
   :sourcing :authoritative,
-  :filing-year 1958,
-  :assignee :time,
+  :filing-year 1960,
+  :assignee :unassigned,
   :grant-year 1961,
-  :cites
-  ["US1934639"
-   "US1934641"
-   "US1934642"
-   "US2697669"
-   "US2786757"
-   "US2879178"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:eastman-kodak],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3011890/en",
-  :title "Photographic emulsions",
-  :status :granted,
-  :id "US3011890",
-  :sourcing :authoritative,
-  :filing-year 1958,
-  :assignee :eastman-kodak,
-  :grant-year 1961,
-  :cites ["US2652345" "US2691582" "US2788336" "US2865753"],
   :term-years 20,
   :open-license :none}]

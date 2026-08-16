@@ -1,4 +1,324 @@
-[{:assignees [:yeda-research-and-development],
+[{:assignees [:university-of-california-san-diego-ucsd],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US4363877/en",
+  :title "Recombinant DNA transfer vectors",
+  :status :granted,
+  :id "US4363877",
+  :sourcing :authoritative,
+  :filing-year 1978,
+  :assignee :university-of-california-san-diego-ucsd,
+  :grant-year 1982,
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:forsyth-dental-infirmary-for-children],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US4368272/en",
+  :title "Device for identifying and locating dental microorganisms",
+  :status :granted,
+  :id "US4368272",
+  :sourcing :authoritative,
+  :filing-year 1980,
+  :assignee :forsyth-dental-infirmary-for-children,
+  :grant-year 1983,
+  :cites
+  ["US1668216"
+   "US2904474"
+   "US3040352"
+   "US3232710"
+   "US3718543"
+   "US3746624"
+   "US3814670"
+   "US3834983"
+   "US3881993"
+   "US3890200"
+   "US3902969"
+   "US3960652"
+   "US885276"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:e-y-laboratories],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US4371515/en",
+  :title
+  "Method for forming an isolated lectin-immunological conjugate",
+  :status :granted,
+  :id "US4371515",
+  :sourcing :authoritative,
+  :filing-year 1978,
+  :assignee :e-y-laboratories,
+  :grant-year 1983,
+  :cites ["US3994870" "US4041146" "US4289747"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:beckman-research-institute-of-city-of-hope],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US4373071/en",
+  :title "Solid-phase synthesis of polynucleotides",
+  :status :granted,
+  :id "US4373071",
+  :sourcing :authoritative,
+  :filing-year 1981,
+  :assignee :beckman-research-institute-of-city-of-hope,
+  :grant-year 1983,
+  :cites
+  ["US3985690"
+   "US4037037"
+   "US4043948"
+   "US4066827"
+   "US4217421"
+   "US4276395"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:heart-valve-licensing],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US4378224/en",
+  :title "Coating for bioprosthetic device and method of making same",
+  :status :granted,
+  :id "US4378224",
+  :sourcing :authoritative,
+  :filing-year 1980,
+  :assignee :heart-valve-licensing,
+  :grant-year 1983,
+  :cites
+  ["SU559701A1"
+   "US2640752"
+   "US2938892"
+   "US3673612"
+   "US3865615"
+   "US3908201"
+   "US3966401"
+   "US4050893"
+   "US4077069"
+   "US4082507"
+   "US4098571"
+   "US4120649"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:unitika],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US4378435/en",
+  :title "Process for providing enzyme activity to a solid surface",
+  :status :granted,
+  :id "US4378435",
+  :sourcing :authoritative,
+  :filing-year 1980,
+  :assignee :unitika,
+  :grant-year 1983,
+  :cites
+  ["GB1274869A"
+   "US3649457"
+   "US3715278"
+   "US3764477"
+   "US3910825"
+   "US4229536"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:columbia-university-in-the-city-of-new-york],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US4379839/en",
+  :title "Method for detecting cancer",
+  :status :granted,
+  :id "US4379839",
+  :sourcing :authoritative,
+  :filing-year 1980,
+  :assignee :columbia-university-in-the-city-of-new-york,
+  :grant-year 1983,
+  :cites
+  ["CA977681A"
+   "US3755086"
+   "US3798131"
+   "US3816263"
+   "US3852415"
+   "US3859430"
+   "US3867363"
+   "US3988115"
+   "US3999944"
+   "US4002532"
+   "US4016043"
+   "US4043757"
+   "US4146603"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees
+  [:istituto-sieroterapico-e-vaccinogeno-toscano-sclavo-spa],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US4388295/en",
+  :title
+  "Method and composition for determining human chorionic somatotropin",
+  :status :granted,
+  :id "US4388295",
+  :sourcing :authoritative,
+  :filing-year 1980,
+  :assignee :istituto-sieroterapico-e-vaccinogeno-toscano-sclavo-spa,
+  :grant-year 1983,
+  :cites ["US4034073" "US4107284" "US4120945" "US4235960" "US4256725"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:us-department-of-energy],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US4389670/en",
+  :title
+  "Electronic method for autofluorography of macromolecules on two-D matrices",
+  :status :granted,
+  :id "US4389670",
+  :sourcing :authoritative,
+  :filing-year 1981,
+  :assignee :us-department-of-energy,
+  :grant-year 1983,
+  :cites ["US4319271"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:international-paper],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US4391833/en",
+  :title
+  "Method of making and using heat resistant resin coated paperboard product and product thereof",
+  :status :granted,
+  :id "US4391833",
+  :sourcing :authoritative,
+  :filing-year 1978,
+  :assignee :international-paper,
+  :grant-year 1983,
+  :cites
+  ["CA479968A"
+   "DE2363517A1"
+   "GB1008679A"
+   "GB1386635A"
+   "US2027296"
+   "US2042070"
+   "US2050061"
+   "US2170040"
+   "US2391767"
+   "US3394388"
+   "US3423212"
+   "US3516960"
+   "US3619215"
+   "US3716369"
+   "US3756495"
+   "US3821015"
+   "US3885730"
+   "US3890448"
+   "US3924013"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:wistar-institute-of-anatomy-and-biology],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US4393201/en",
+  :title "DNA Which codes for glycoprotein of era-strain rabies virus",
+  :status :granted,
+  :id "US4393201",
+  :sourcing :authoritative,
+  :filing-year 1981,
+  :assignee :wistar-institute-of-anatomy-and-biology,
+  :grant-year 1983,
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:yale-university],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US4394443/en",
+  :title "Method for cloning genes",
+  :status :granted,
+  :id "US4394443",
+  :sourcing :authoritative,
+  :filing-year 1980,
+  :assignee :yale-university,
+  :grant-year 1983,
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:medical-college-of-georgia-research-institute],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US4395486/en",
+  :title "Method for the direct analysis of sickle cell anemia",
+  :status :granted,
+  :id "US4395486",
+  :sourcing :authoritative,
+  :filing-year 1981,
+  :assignee :medical-college-of-georgia-research-institute,
+  :grant-year 1983,
+  :cites ["US4298685"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:university-of-california-berkeley],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US4396713/en",
+  :title
+  "Restriction endonuclease fingerprinting of kinetoplast DNA minicircles",
+  :status :granted,
+  :id "US4396713",
+  :sourcing :authoritative,
+  :filing-year 1980,
+  :assignee :university-of-california-berkeley,
+  :grant-year 1983,
+  :term-years 20,
+  :open-license :none}
+ {:jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US4397955/en",
+  :title "Transfer apparatus for microorganisms",
+  :status :granted,
+  :id "US4397955",
+  :sourcing :authoritative,
+  :filing-year 1981,
+  :assignee :unassigned,
+  :grant-year 1983,
+  :cites
+  ["US3661718"
+   "US3684660"
+   "US3694317"
+   "US3729382"
+   "US3897688"
+   "US3929583"
+   "US4237223"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:beckman-research-institute-of-city-of-hope],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US4401796/en",
+  :title "Solid-phase synthesis of polynucleotides",
+  :status :granted,
+  :id "US4401796",
+  :sourcing :authoritative,
+  :filing-year 1981,
+  :assignee :beckman-research-institute-of-city-of-hope,
+  :grant-year 1983,
+  :cites
+  ["US3985690"
+   "US4037037"
+   "US4043948"
+   "US4066827"
+   "US4217421"
+   "US4276395"],
+  :term-years 20,
+  :open-license :none}
+ {:jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US4404368/en",
+  :title "Lyophilized phosphorylated nucleosides",
+  :status :granted,
+  :id "US4404368",
+  :sourcing :authoritative,
+  :filing-year 1981,
+  :assignee :unassigned,
+  :grant-year 1983,
+  :cites ["US3338882" "US3433782"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:yeda-research-and-development],
   :jurisdiction :us,
   :field "UNKNOWN",
   :source "https://patents.google.com/patent/US4405771/en",
