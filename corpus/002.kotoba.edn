@@ -1,4 +1,109 @@
-[{:assignees [:medical-college-of-wisconsin],
+[{:assignees [:university-of-illinois-foundation],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US4223005/en",
+  :title "Antibody coated bacteria",
+  :status :granted,
+  :id "US4223005",
+  :sourcing :authoritative,
+  :filing-year 1979,
+  :assignee :university-of-illinois-foundation,
+  :grant-year 1980,
+  :cites ["US3553310" "US3639558" "US3873684" "US3882225" "US3925018"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:abbott-laboratories],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US4224408/en",
+  :title "Deoxyribonucleic acid synthesis using binding protein",
+  :status :granted,
+  :id "US4224408",
+  :sourcing :authoritative,
+  :filing-year 1978,
+  :assignee :abbott-laboratories,
+  :grant-year 1980,
+  :term-years 20,
+  :open-license :none}
+ {:jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US4225229/en",
+  :title "Apparatus for measuring cytological properties",
+  :status :granted,
+  :id "US4225229",
+  :sourcing :authoritative,
+  :filing-year 1978,
+  :assignee :unassigned,
+  :grant-year 1980,
+  :cites
+  ["DE7333009U"
+   "US3740665"
+   "US3788744"
+   "US3811777"
+   "US3897154"
+   "US3902807"
+   "US3916205"
+   "US3984307"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:calbiochem-behring],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US4228237/en",
+  :title "Methods for the detection and determination of ligands",
+  :status :granted,
+  :id "US4228237",
+  :sourcing :authoritative,
+  :filing-year 1978,
+  :assignee :calbiochem-behring,
+  :grant-year 1980,
+  :cites ["BE841179A" "US4002532" "US4016043" "US4134792"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:miles-laboratories],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US4230797/en",
+  :title
+  "Heterogenous specific binding assay employing a coenzyme as label",
+  :status :granted,
+  :id "US4230797",
+  :sourcing :authoritative,
+  :filing-year 1978,
+  :assignee :miles-laboratories,
+  :grant-year 1980,
+  :cites ["US3659104" "US3817837" "US3839153" "US3880934" "US3998943"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:research],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US4234561/en",
+  :title "Antigen for early pregnancy test and contraceptive vaccine",
+  :status :granted,
+  :id "US4234561",
+  :sourcing :authoritative,
+  :filing-year 1978,
+  :assignee :research,
+  :grant-year 1980,
+  :cites ["GB1473601A" "US3903262" "US3992514" "US4016250"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:syva],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US4235869/en",
+  :title "Assay employing a labeled Fab-fragment ligand complex",
+  :status :granted,
+  :id "US4235869",
+  :sourcing :authoritative,
+  :filing-year 1978,
+  :assignee :syva,
+  :grant-year 1980,
+  :cites ["US3935074" "US3996345" "US3998943" "US4104029"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:medical-college-of-wisconsin],
   :jurisdiction :us,
   :field "UNKNOWN",
   :source "https://patents.google.com/patent/US4235960/en",
@@ -148,6 +253,27 @@
    "US4102996"
    "US4148869"
    "US4157280"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:dai-nippon-toryo],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US4243565/en",
+  :title "Aqueous dispersion type coating composition",
+  :status :granted,
+  :id "US4243565",
+  :sourcing :authoritative,
+  :filing-year 1979,
+  :assignee :dai-nippon-toryo,
+  :grant-year 1981,
+  :cites
+  ["US2904523"
+   "US2994676"
+   "US3025252"
+   "US3244542"
+   "US3300428"
+   "US3839254"
+   "US3926874"],
   :term-years 20,
   :open-license :none}
  {:assignees [:honeywell],
@@ -300,6 +426,20 @@
   :assignee :unassigned,
   :grant-year 1981,
   :cites ["US3822344" "US3830931" "US3968241"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:ei-du-pont-de-nemours-and],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US4273695/en",
+  :title "Ethylene-acrylic enamels",
+  :status :granted,
+  :id "US4273695",
+  :sourcing :authoritative,
+  :filing-year 1979,
+  :assignee :ei-du-pont-de-nemours-and,
+  :grant-year 1981,
+  :cites ["US3674734" "US4060657" "US4061822" "US4164488"],
   :term-years 20,
   :open-license :none}
  {:assignees [:mount-sinai-school-of-medicine],
@@ -1039,6 +1179,20 @@
    "US4276395"],
   :term-years 20,
   :open-license :none}
+ {:assignees [:peintures-corona],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US4375498/en",
+  :title "Wet-on-wet coating process",
+  :status :granted,
+  :id "US4375498",
+  :sourcing :authoritative,
+  :filing-year 1981,
+  :assignee :peintures-corona,
+  :grant-year 1983,
+  :cites ["US4175018" "US4208262"],
+  :term-years 20,
+  :open-license :none}
  {:assignees [:heart-valve-licensing],
   :jurisdiction :us,
   :field "UNKNOWN",
@@ -1177,6 +1331,26 @@
    "US3924013"],
   :term-years 20,
   :open-license :none}
+ {:assignees [:glasurit-america],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US4391858/en",
+  :title "Coating process",
+  :status :granted,
+  :id "US4391858",
+  :sourcing :authoritative,
+  :filing-year 1981,
+  :assignee :glasurit-america,
+  :grant-year 1983,
+  :cites
+  ["US1765748"
+   "US3136651"
+   "US3666521"
+   "US4098928"
+   "US4268542"
+   "US4278483"],
+  :term-years 20,
+  :open-license :none}
  {:assignees [:wistar-institute-of-anatomy-and-biology],
   :jurisdiction :us,
   :field "UNKNOWN",
@@ -1269,6 +1443,21 @@
    "US4066827"
    "US4217421"
    "US4276395"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:imperial-chemical-industries],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US4403003/en",
+  :title "Article having basecoat/clearcoat and process for coating",
+  :status :granted,
+  :id "US4403003",
+  :sourcing :authoritative,
+  :filing-year 1981,
+  :assignee :imperial-chemical-industries,
+  :grant-year 1983,
+  :cites
+  ["GB1517834A" "US3953643" "US3953644" "US3967045" "US4220675"],
   :term-years 20,
   :open-license :none}
  {:jurisdiction :us,
@@ -1370,6 +1559,55 @@
   :assignee :us-department-of-health-and-human-services,
   :grant-year 1983,
   :cites ["US4237224"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:inmont],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US4423179/en",
+  :title "Dimer acid based polyurethane coating compositions",
+  :status :granted,
+  :id "US4423179",
+  :sourcing :authoritative,
+  :filing-year 1983,
+  :assignee :inmont,
+  :grant-year 1983,
+  :cites
+  ["US2429219"
+   "US3267080"
+   "US3383343"
+   "US3578612"
+   "US3954899"
+   "US4045431"
+   "US4096102"
+   "US4155889"
+   "US4225645"
+   "US4352924"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:asahi-kasei-kogyo],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US4423185/en",
+  :title "Thermoplastic resinous composition",
+  :status :granted,
+  :id "US4423185",
+  :sourcing :authoritative,
+  :filing-year 1980,
+  :assignee :asahi-kasei-kogyo,
+  :grant-year 1983,
+  :cites
+  ["GB1440030A"
+   "US3271342"
+   "US3426099"
+   "US3646158"
+   "US3658635"
+   "US3833708"
+   "US3970715"
+   "US4223099"
+   "US4238574"
+   "US4284734"
+   "US4287314"],
   :term-years 20,
   :open-license :none}
  {:jurisdiction :us,
@@ -1501,6 +1739,32 @@
  {:assignees [:ei-du-pont-de-nemours-and],
   :jurisdiction :us,
   :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US4455331/en",
+  :title
+  "Coating composition containing a rheology control additive of silica and polyvinyl pyrrolidone",
+  :status :granted,
+  :id "US4455331",
+  :sourcing :authoritative,
+  :filing-year 1983,
+  :assignee :ei-du-pont-de-nemours-and,
+  :grant-year 1984,
+  :cites
+  ["US3607822"
+   "US3630954"
+   "US3656981"
+   "US3959554"
+   "US4131571"
+   "US4238387"
+   "US4273693"
+   "US4321169"
+   "US4338379"
+   "US4350790"
+   "US4404248"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:ei-du-pont-de-nemours-and],
+  :jurisdiction :us,
+  :field "UNKNOWN",
   :source "https://patents.google.com/patent/US4455370/en",
   :title
   "Transferring separated components in gel electrophoresis via nylon membrane",
@@ -1559,6 +1823,20 @@
   :grant-year 1984,
   :term-years 20,
   :open-license :none}
+ {:assignees [:nippon-paint],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US4463038/en",
+  :title "Metallic coating using two coat one bake method",
+  :status :granted,
+  :id "US4463038",
+  :sourcing :authoritative,
+  :filing-year 1982,
+  :assignee :nippon-paint,
+  :grant-year 1984,
+  :cites ["US4254168" "US4315053" "US4355071" "US4359504" "US4382114"],
+  :term-years 20,
+  :open-license :none}
  {:assignees [:pharmacia-diagnostics],
   :jurisdiction :us,
   :field "UNKNOWN",
@@ -1581,6 +1859,31 @@
    "US4231999"
    "US4232119"
    "US4272506"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:herberts],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US4476261/en",
+  :title "Aqueous coating composition",
+  :status :granted,
+  :id "US4476261",
+  :sourcing :authoritative,
+  :filing-year 1983,
+  :assignee :herberts,
+  :grant-year 1984,
+  :cites
+  ["GB1603049A"
+   "US4031050"
+   "US4220568"
+   "US4252703"
+   "US4256621"
+   "US4294940"
+   "US4315840"
+   "US4364860"
+   "US4373059"
+   "US4373072"
+   "US4384946"],
   :term-years 20,
   :open-license :none}
  {:assignees [:us-department-of-health-and-human-services],
@@ -1711,6 +2014,20 @@
    "US3838926"],
   :term-years 20,
   :open-license :none}
+ {:assignees [:nippon-paint],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US4490417/en",
+  :title "Coating composition",
+  :status :granted,
+  :id "US4490417",
+  :sourcing :authoritative,
+  :filing-year 1983,
+  :assignee :nippon-paint,
+  :grant-year 1984,
+  :cites ["US4055607" "US4221683" "US4226901" "US4291130" "US4297448"],
+  :term-years 20,
+  :open-license :none}
  {:assignees [:abbott-laboratories],
   :jurisdiction :us,
   :field "UNKNOWN",
@@ -1818,6 +2135,21 @@
   :cites ["US4237224"],
   :term-years 20,
   :open-license :none}
+ {:assignees [:kansai-paint],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US4529632/en",
+  :title
+  "Two coat one bake method for substrates which have metal and plastic component",
+  :status :granted,
+  :id "US4529632",
+  :sourcing :authoritative,
+  :filing-year 1984,
+  :assignee :kansai-paint,
+  :grant-year 1985,
+  :cites ["US4391858" "US4455331" "US4456647" "US4463038" "US4490417"],
+  :term-years 20,
+  :open-license :none}
  {:assignees [:biogen],
   :jurisdiction :us,
   :field "UNKNOWN",
@@ -1900,6 +2232,40 @@
   :assignee :massachusetts-institute-of-technology,
   :grant-year 1985,
   :cites ["US4299815" "US4368262" "US4395486"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:ford-motor],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US4536558/en",
+  :title
+  "Chain extended epoxy-ester polymeric compositions for cationic electrodeposition",
+  :status :granted,
+  :id "US4536558",
+  :sourcing :authoritative,
+  :filing-year 1983,
+  :assignee :ford-motor,
+  :grant-year 1985,
+  :cites
+  ["US3640926"
+   "US3719626"
+   "US3922253"
+   "US3947338"
+   "US4093594"
+   "US4104147"
+   "US4116900"
+   "US4120768"
+   "US4137140"
+   "US4139510"
+   "US4148772"
+   "US4182831"
+   "US4182833"
+   "US4212779"
+   "US4246087"
+   "US4292155"
+   "US4294940"
+   "US4302373"
+   "US4396649"],
   :term-years 20,
   :open-license :none}
  {:assignees [:yeda-research-and-development],

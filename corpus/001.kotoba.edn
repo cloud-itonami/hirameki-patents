@@ -4314,6 +4314,20 @@
   :grant-year 1971,
   :term-years 20,
   :open-license :none}
+ {:assignees [:ppg-industries],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3619398/en",
+  :title "Electrodeposition process",
+  :status :granted,
+  :id "US3619398",
+  :sourcing :authoritative,
+  :filing-year 1968,
+  :assignee :ppg-industries,
+  :grant-year 1971,
+  :cites ["US3301804" "US3410773" "US3450655" "US3455805" "US3468779"],
+  :term-years 20,
+  :open-license :none}
  {:jurisdiction :us,
   :field "UNKNOWN",
   :source "https://patents.google.com/patent/US3620678/en",
@@ -4690,6 +4704,27 @@
   :filing-year 1969,
   :assignee :combined-paper-mills,
   :grant-year 1972,
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:westinghouse-electric],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3676383/en",
+  :title
+  "Non-aqueous electrophoretic compositions comprising liquid nitroalkanes as a solvent",
+  :status :granted,
+  :id "US3676383",
+  :sourcing :authoritative,
+  :filing-year 1969,
+  :assignee :westinghouse-electric,
+  :grant-year 1972,
+  :cites
+  ["US2843541"
+   "US2947677"
+   "US2982707"
+   "US3093511"
+   "US3450655"
+   "US3554984"],
   :term-years 20,
   :open-license :none}
  {:assignees [:technicon-instruments],
@@ -7146,6 +7181,27 @@
    "US3829223"],
   :term-years 20,
   :open-license :none}
+ {:assignees [:ppg-industries],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3954899/en",
+  :title "Extensible coatings",
+  :status :granted,
+  :id "US3954899",
+  :sourcing :authoritative,
+  :filing-year 1975,
+  :assignee :ppg-industries,
+  :grant-year 1976,
+  :cites
+  ["US2625535"
+   "US2850474"
+   "US3148173"
+   "US3368988"
+   "US3384606"
+   "US3457324"
+   "US3759873"],
+  :term-years 20,
+  :open-license :none}
  {:assignees [:research-institute-for-production-development],
   :jurisdiction :us,
   :field "UNKNOWN",
@@ -7377,6 +7433,21 @@
    "US3839234"],
   :term-years 20,
   :open-license :none}
+ {:assignees [:ei-du-pont-de-nemours-and],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3980602/en",
+  :title
+  "Acrylic polymer dispersant for aqueous acrylic coating compositions",
+  :status :granted,
+  :id "US3980602",
+  :sourcing :authoritative,
+  :filing-year 1975,
+  :assignee :ei-du-pont-de-nemours-and,
+  :grant-year 1976,
+  :cites ["US3692726" "US3769251" "US3784498" "US3875099"],
+  :term-years 20,
+  :open-license :none}
  {:assignees [:formica],
   :jurisdiction :us,
   :field "UNKNOWN",
@@ -7529,6 +7600,31 @@
   :assignee :syva,
   :grant-year 1976,
   :cites ["US3901654" "US3935074"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:inmont],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3998716/en",
+  :title "Method of applying coatings",
+  :status :granted,
+  :id "US3998716",
+  :sourcing :authoritative,
+  :filing-year 1974,
+  :assignee :inmont,
+  :grant-year 1976,
+  :cites
+  ["US3290235"
+   "US3326848"
+   "US3340172"
+   "US3499852"
+   "US3532613"
+   "US3541274"
+   "US3575909"
+   "US3658763"
+   "US3663383"
+   "US3819586"
+   "US3822240"],
   :term-years 20,
   :open-license :none}
  {:assignees [:syva],
@@ -8510,6 +8606,42 @@
   :cites ["DE2319495A1" "US3491086" "US3983299" "US4006059"],
   :term-years 20,
   :open-license :none}
+ {:assignees [:mitsui-toatsu-chemicals],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US4115338/en",
+  :title "Metallic tone coating composition",
+  :status :granted,
+  :id "US4115338",
+  :sourcing :authoritative,
+  :filing-year 1976,
+  :assignee :mitsui-toatsu-chemicals,
+  :grant-year 1978,
+  :cites
+  ["US2302361"
+   "US2876133"
+   "US3265644"
+   "US3272772"
+   "US3393165"
+   "US3661620"
+   "US3806464"
+   "US3971753"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:ppg-industries],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US4115472/en",
+  :title "Urethane coating compositions",
+  :status :granted,
+  :id "US4115472",
+  :sourcing :authoritative,
+  :filing-year 1977,
+  :assignee :ppg-industries,
+  :grant-year 1978,
+  :cites ["US3317635" "US3538185" "US3702836" "US3751412" "US3888945"],
+  :term-years 20,
+  :open-license :none}
  {:assignees [:warner-lambert],
   :jurisdiction :us,
   :field "UNKNOWN",
@@ -9282,110 +9414,5 @@
   :assignee :scripps-clinic-and-research-foundation,
   :grant-year 1980,
   :cites ["US3794630"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:university-of-illinois-foundation],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US4223005/en",
-  :title "Antibody coated bacteria",
-  :status :granted,
-  :id "US4223005",
-  :sourcing :authoritative,
-  :filing-year 1979,
-  :assignee :university-of-illinois-foundation,
-  :grant-year 1980,
-  :cites ["US3553310" "US3639558" "US3873684" "US3882225" "US3925018"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:abbott-laboratories],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US4224408/en",
-  :title "Deoxyribonucleic acid synthesis using binding protein",
-  :status :granted,
-  :id "US4224408",
-  :sourcing :authoritative,
-  :filing-year 1978,
-  :assignee :abbott-laboratories,
-  :grant-year 1980,
-  :term-years 20,
-  :open-license :none}
- {:jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US4225229/en",
-  :title "Apparatus for measuring cytological properties",
-  :status :granted,
-  :id "US4225229",
-  :sourcing :authoritative,
-  :filing-year 1978,
-  :assignee :unassigned,
-  :grant-year 1980,
-  :cites
-  ["DE7333009U"
-   "US3740665"
-   "US3788744"
-   "US3811777"
-   "US3897154"
-   "US3902807"
-   "US3916205"
-   "US3984307"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:calbiochem-behring],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US4228237/en",
-  :title "Methods for the detection and determination of ligands",
-  :status :granted,
-  :id "US4228237",
-  :sourcing :authoritative,
-  :filing-year 1978,
-  :assignee :calbiochem-behring,
-  :grant-year 1980,
-  :cites ["BE841179A" "US4002532" "US4016043" "US4134792"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:miles-laboratories],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US4230797/en",
-  :title
-  "Heterogenous specific binding assay employing a coenzyme as label",
-  :status :granted,
-  :id "US4230797",
-  :sourcing :authoritative,
-  :filing-year 1978,
-  :assignee :miles-laboratories,
-  :grant-year 1980,
-  :cites ["US3659104" "US3817837" "US3839153" "US3880934" "US3998943"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:research],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US4234561/en",
-  :title "Antigen for early pregnancy test and contraceptive vaccine",
-  :status :granted,
-  :id "US4234561",
-  :sourcing :authoritative,
-  :filing-year 1978,
-  :assignee :research,
-  :grant-year 1980,
-  :cites ["GB1473601A" "US3903262" "US3992514" "US4016250"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:syva],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US4235869/en",
-  :title "Assay employing a labeled Fab-fragment ligand complex",
-  :status :granted,
-  :id "US4235869",
-  :sourcing :authoritative,
-  :filing-year 1978,
-  :assignee :syva,
-  :grant-year 1980,
-  :cites ["US3935074" "US3996345" "US3998943" "US4104029"],
   :term-years 20,
   :open-license :none}]
