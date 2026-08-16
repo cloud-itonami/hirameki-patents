@@ -1,4 +1,295 @@
-[{:assignees [:american-instr],
+[{:jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2930727/en",
+  :title "Aminoplastic resin impregnated laminates",
+  :status :granted,
+  :id "US2930727",
+  :sourcing :authoritative,
+  :filing-year 1958,
+  :assignee :unassigned,
+  :grant-year 1960,
+  :cites
+  ["US1851177"
+   "US2325376"
+   "US2415763"
+   "US2525676"
+   "US2680700"
+   "US2694028"
+   "US2728741"
+   "US2769796"
+   "US2773793"
+   "US2773794"],
+  :term-years 20,
+  :open-license :none}
+ {:jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2933418/en",
+  :title "Impregnation of the grain side of leather with polysulfides",
+  :status :granted,
+  :id "US2933418",
+  :sourcing :authoritative,
+  :filing-year 1959,
+  :assignee :unassigned,
+  :grant-year 1960,
+  :cites ["US2466963" "US2824816"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:usines-decoufle],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2938521/en",
+  :title "Tobacco-manipulating machines",
+  :status :granted,
+  :id "US2938521",
+  :sourcing :authoritative,
+  :filing-year 1957,
+  :assignee :usines-decoufle,
+  :grant-year 1960,
+  :cites ["US2264725"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:general-tire-and-rubber],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2938823/en",
+  :title "Treatment of polyethylene terephthalate fibers",
+  :status :granted,
+  :id "US2938823",
+  :sourcing :authoritative,
+  :filing-year 1956,
+  :assignee :general-tire-and-rubber,
+  :grant-year 1960,
+  :cites
+  ["US2415839"
+   "US2419922"
+   "US2590586"
+   "US2657162"
+   "US2679088"
+   "US2758908"
+   "US2768057"
+   "US2768868"
+   "US2783176"
+   "US7709148"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:ei-du-pont-de-nemours-and],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2940884/en",
+  :title "Adhesive tape",
+  :status :granted,
+  :id "US2940884",
+  :sourcing :authoritative,
+  :filing-year 1956,
+  :assignee :ei-du-pont-de-nemours-and,
+  :grant-year 1960,
+  :cites
+  ["US2133609"
+   "US2329527"
+   "US2506933"
+   "US2649199"
+   "US2651588"
+   "US2679968"
+   "US2725322"
+   "US986655"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:american-viscose],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2940889/en",
+  :title "Vinyl-coated fabrics",
+  :status :granted,
+  :id "US2940889",
+  :sourcing :authoritative,
+  :filing-year 1955,
+  :assignee :american-viscose,
+  :grant-year 1960,
+  :cites
+  ["GB696364A"
+   "US2171324"
+   "US2182306"
+   "US2237344"
+   "US2348039"
+   "US2406905"
+   "US2408682"
+   "US2533976"
+   "US2593540"
+   "US2698793"
+   "US2732002"
+   "US2823156"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:champion-paper-and-fibre],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2946307/en",
+  :title "Apparatus for coating paper",
+  :status :granted,
+  :id "US2946307",
+  :sourcing :authoritative,
+  :filing-year 1955,
+  :assignee :champion-paper-and-fibre,
+  :grant-year 1960,
+  :cites
+  ["US1867875"
+   "US2016085"
+   "US2334102"
+   "US2344232"
+   "US2357880"
+   "US2407756"
+   "US2536656"
+   "US2598733"
+   "US2599947"
+   "US2676563"
+   "US2729192"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:consolidated-water-power-and-paper],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2949382/en",
+  :title "Method of making printable coated paper",
+  :status :granted,
+  :id "US2949382",
+  :sourcing :authoritative,
+  :filing-year 1958,
+  :assignee :consolidated-water-power-and-paper,
+  :grant-year 1960,
+  :cites
+  ["US1903325"
+   "US1934642"
+   "US1989036"
+   "US2186874"
+   "US2291616"
+   "US2378113"
+   "US2395992"
+   "US2676118"
+   "US2697669"
+   "US2725307"
+   "US275176"
+   "US2860073"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:minnesota-mining-and-manufacturing],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2954868/en",
+  :title "Masking tape",
+  :status :granted,
+  :id "US2954868",
+  :sourcing :authoritative,
+  :filing-year 1957,
+  :assignee :minnesota-mining-and-manufacturing,
+  :grant-year 1960,
+  :cites
+  ["US1962340"
+   "US2236527"
+   "US2251273"
+   "US2269712"
+   "US2438195"
+   "US2458166"
+   "US2633430"
+   "US2635045"
+   "US2666699"
+   "US2725981"
+   "US2772970"],
+  :term-years 20,
+  :open-license :none}
+ {:jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2956931/en",
+  :title "Dispensing biological materials",
+  :status :granted,
+  :id "US2956931",
+  :sourcing :authoritative,
+  :filing-year 1958,
+  :assignee :unassigned,
+  :grant-year 1960,
+  :cites ["US2533089" "US2871168"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:th-goldschmidt],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2964426/en",
+  :title "Process of impregnating paper to form laminated material",
+  :status :granted,
+  :id "US2964426",
+  :sourcing :authoritative,
+  :filing-year 1958,
+  :assignee :th-goldschmidt,
+  :grant-year 1960,
+  :cites
+  ["US1439743"
+   "US1857690"
+   "US2380239"
+   "US2424284"
+   "US2630395"
+   "US2930106"
+   "US602797"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:universal-metal-products],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2967644/en",
+  :title "Dispensing machine",
+  :status :granted,
+  :id "US2967644",
+  :sourcing :authoritative,
+  :filing-year 1956,
+  :assignee :universal-metal-products,
+  :grant-year 1961,
+  :cites
+  ["US1084636"
+   "US1226278"
+   "US1388632"
+   "US1529379"
+   "US180945"
+   "US1914980"
+   "US2094702"
+   "US2158795"
+   "US245270"
+   "US2660351"
+   "US2684782"
+   "US2742194"
+   "US2787402"
+   "US279135"
+   "US2848019"
+   "US301598"
+   "US465212"
+   "US792620"
+   "US823677"
+   "US888464"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:reynolds-metals],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2970736/en",
+  :title "Container system",
+  :status :granted,
+  :id "US2970736",
+  :sourcing :authoritative,
+  :filing-year 1957,
+  :assignee :reynolds-metals,
+  :grant-year 1961,
+  :cites
+  ["GB190307570A"
+   "US1462443"
+   "US2100739"
+   "US2150058"
+   "US2152322"
+   "US2152323"
+   "US2437114"
+   "US2603401"
+   "US2665616"
+   "US2808192"
+   "US2829701"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:american-instr],
   :jurisdiction :us,
   :field "UNKNOWN",
   :source "https://patents.google.com/patent/US2971429/en",
@@ -302,6 +593,27 @@
    "US2879178"],
   :term-years 20,
   :open-license :none}
+ {:assignees [:kitchens-of-sara-lee],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3008837/en",
+  :title "Precooked frozen food package",
+  :status :granted,
+  :id "US3008837",
+  :sourcing :authoritative,
+  :filing-year 1959,
+  :assignee :kitchens-of-sara-lee,
+  :grant-year 1961,
+  :cites
+  ["US2319560"
+   "US2356078"
+   "US2387812"
+   "US2457924"
+   "US2528251"
+   "US2595708"
+   "US2881078"],
+  :term-years 20,
+  :open-license :none}
  {:assignees [:eastman-kodak],
   :jurisdiction :us,
   :field "UNKNOWN",
@@ -369,6 +681,27 @@
    "US2653566"
    "US2679231"
    "US2688306"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:american-cyanamid],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3021239/en",
+  :title
+  "Structures comprising a modified diaminotriazine-aldehyde resinous composition",
+  :status :granted,
+  :id "US3021239",
+  :sourcing :authoritative,
+  :filing-year 1957,
+  :assignee :american-cyanamid,
+  :grant-year 1962,
+  :cites
+  ["US2218474"
+   "US2439929"
+   "US2486235"
+   "US2579980"
+   "US2694028"
+   "US2801198"],
   :term-years 20,
   :open-license :none}
  {:assignees [:wr-grace-and],
@@ -917,6 +1250,20 @@
   :cites ["US2294651" "US2909449" "US2910385" "US2940889"],
   :term-years 20,
   :open-license :none}
+ {:assignees [:continental-can],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3108881/en",
+  :title "Method of packaging food",
+  :status :granted,
+  :id "US3108881",
+  :sourcing :authoritative,
+  :filing-year 1959,
+  :assignee :continental-can,
+  :grant-year 1963,
+  :cites ["US2160367" "US2361344" "US2380134" "US2555230" "US2679969"],
+  :term-years 20,
+  :open-license :none}
  {:jurisdiction :us,
   :field "UNKNOWN",
   :source "https://patents.google.com/patent/US3127363/en",
@@ -970,6 +1317,28 @@
    "US2916864"
    "US3001348"
    "US3018594"],
+  :term-years 20,
+  :open-license :none}
+ {:jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3132029/en",
+  :title "Method of providing a cooked meat and sauce package",
+  :status :granted,
+  :id "US3132029",
+  :sourcing :authoritative,
+  :filing-year 1961,
+  :assignee :unassigned,
+  :grant-year 1964,
+  :cites
+  ["US1058682"
+   "US2231791"
+   "US2369765"
+   "US2380134"
+   "US2398082"
+   "US2633284"
+   "US2807550"
+   "US2881078"
+   "US3037869"],
   :term-years 20,
   :open-license :none}
  {:assignees [:dow-chemical],
@@ -1446,6 +1815,26 @@
   :cites ["US2964426"],
   :term-years 20,
   :open-license :none}
+ {:assignees [:poly-pak-of-america],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3204760/en",
+  :title "Packages",
+  :status :granted,
+  :id "US3204760",
+  :sourcing :authoritative,
+  :filing-year 1962,
+  :assignee :poly-pak-of-america,
+  :grant-year 1965,
+  :cites
+  ["GB697723A"
+   "US2422725"
+   "US2633284"
+   "US2788821"
+   "US2954116"
+   "US3012894"],
+  :term-years 20,
+  :open-license :none}
  {:assignees [:sankyo],
   :jurisdiction :us,
   :field "UNKNOWN",
@@ -1793,6 +2182,19 @@
   :assignee :scientific-industries,
   :grant-year 1966,
   :cites ["US2129754" "US2249867" "US2692830" "US2918033" "US3036893"],
+  :term-years 20,
+  :open-license :none}
+ {:jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3262787/en",
+  :title "Process of preparing packaged cooked foods",
+  :status :granted,
+  :id "US3262787",
+  :sourcing :authoritative,
+  :filing-year 1962,
+  :assignee :unassigned,
+  :grant-year 1966,
+  :cites ["US2380134" "US2687961"],
   :term-years 20,
   :open-license :none}
  {:assignees [:dow-corning],
@@ -8990,356 +9392,5 @@
   :filing-year 1978,
   :assignee :university-of-california-san-diego-ucsd,
   :grant-year 1981,
-  :term-years 20,
-  :open-license :none}
- {:assignees [:university-of-california-san-diego-ucsd],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US4267171/en",
-  :title "C-5 Substituted cytosine nucleosides",
-  :status :granted,
-  :id "US4267171",
-  :sourcing :authoritative,
-  :filing-year 1979,
-  :assignee :university-of-california-san-diego-ucsd,
-  :grant-year 1981,
-  :cites ["US3282921" "US3376283" "US3856777" "US3891623" "US3998807"],
-  :term-years 20,
-  :open-license :none}
- {:jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US4272549/en",
-  :title
-  "Therapeutical method for the treatment of chronic uraemic patients undergoing periodical haemodialysis and liquid composition for dialysis for use in such a method",
-  :status :granted,
-  :id "US4272549",
-  :sourcing :authoritative,
-  :filing-year 1979,
-  :assignee :unassigned,
-  :grant-year 1981,
-  :cites ["US3822344" "US3830931" "US3968241"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:mount-sinai-school-of-medicine],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US4275053/en",
-  :title "Blood cell typing and compatibility test procedure",
-  :status :granted,
-  :id "US4275053",
-  :sourcing :authoritative,
-  :filing-year 1978,
-  :assignee :mount-sinai-school-of-medicine,
-  :grant-year 1981,
-  :cites ["US3639558" "US4002532" "US4011308" "US4041146"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:syva],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US4275149/en",
-  :title
-  "Macromolecular environment control in specific receptor assays",
-  :status :granted,
-  :id "US4275149",
-  :sourcing :authoritative,
-  :filing-year 1978,
-  :assignee :syva,
-  :grant-year 1981,
-  :cites
-  ["US3791932"
-   "US4052010"
-   "US4059685"
-   "US4067959"
-   "US4134792"
-   "US4193983"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:us-department-of-energy],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US4276395/en",
-  :title "Novel Fischer-Tropsch catalysts",
-  :status :granted,
-  :id "US4276395",
-  :sourcing :authoritative,
-  :filing-year 1980,
-  :assignee :us-department-of-energy,
-  :grant-year 1981,
-  :cites
-  ["US4022810"
-   "US4032556"
-   "US4096163"
-   "US4111866"
-   "US4128706"
-   "US4132672"
-   "US4205134"
-   "US4230633"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:technicon-instruments],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US4277560/en",
-  :title
-  "Enzyme immunoassays using immobilized reagents in a flowing stream",
-  :status :granted,
-  :id "US4277560",
-  :sourcing :authoritative,
-  :filing-year 1978,
-  :assignee :technicon-instruments,
-  :grant-year 1981,
-  :cites
-  ["US3902970"
-   "US3925018"
-   "US3975237"
-   "US3993451"
-   "US4009005"
-   "US4022577"
-   "US4125492"
-   "US4141687"
-   "US4200625"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:harvard-university],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US4278761/en",
-  :title "Enzyme assay and kit therefor",
-  :status :granted,
-  :id "US4278761",
-  :sourcing :authoritative,
-  :filing-year 1979,
-  :assignee :harvard-university,
-  :grant-year 1981,
-  :term-years 20,
-  :open-license :none}
- {:jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US4282287/en",
-  :title "Biochemical avidin-biotin multiple-layer system",
-  :status :granted,
-  :id "US4282287",
-  :sourcing :authoritative,
-  :filing-year 1980,
-  :assignee :unassigned,
-  :grant-year 1981,
-  :cites ["US4132528" "US4134792" "US4168300"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:olympus-optical],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US4284897/en",
-  :title "Fluorescence determining microscope utilizing laser light",
-  :status :granted,
-  :id "US4284897",
-  :sourcing :authoritative,
-  :filing-year 1978,
-  :assignee :olympus-optical,
-  :grant-year 1981,
-  :cites ["US3657537" "US3950649" "US4058732" "US4172227"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:e-y-laboratories],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US4289747/en",
-  :title "Immunological determination using lectin",
-  :status :granted,
-  :id "US4289747",
-  :sourcing :authoritative,
-  :filing-year 1978,
-  :assignee :e-y-laboratories,
-  :grant-year 1981,
-  :cites ["US3555143" "US4053284" "US4098876"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:baxter-travenol-laboratories],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US4292296/en",
-  :title "Diagnostic method",
-  :status :granted,
-  :id "US4292296",
-  :sourcing :authoritative,
-  :filing-year 1978,
-  :assignee :baxter-travenol-laboratories,
-  :grant-year 1981,
-  :cites
-  ["DE2731028A1"
-   "US3799740"
-   "US3896218"
-   "US3941564"
-   "US3960492"
-   "US3980764"
-   "US4012494"
-   "US4016250"
-   "US4032626"
-   "US4046870"
-   "US4052504"
-   "US4120945"
-   "US4225574"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:cetus],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US4293652/en",
-  :title "Method for synthesizing DNA sequentially",
-  :status :granted,
-  :id "US4293652",
-  :sourcing :authoritative,
-  :filing-year 1979,
-  :assignee :cetus,
-  :grant-year 1981,
-  :term-years 20,
-  :open-license :none}
- {:assignees [:nippon-kogaku],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US4297571/en",
-  :title "Focus detecting device",
-  :status :granted,
-  :id "US4297571",
-  :sourcing :authoritative,
-  :filing-year 1980,
-  :assignee :nippon-kogaku,
-  :grant-year 1981,
-  :cites ["US3875401" "US4083056" "US4250376"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:intec],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US4297587/en",
-  :title "Absolute DC system for a laser inspection system",
-  :status :granted,
-  :id "US4297587",
-  :sourcing :authoritative,
-  :filing-year 1980,
-  :assignee :intec,
-  :grant-year 1981,
-  :cites ["US3866054" "US3900265" "US3958127"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:burroughs-wellcome-usa],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US4298685/en",
-  :title "Diagnostic reagent",
-  :status :granted,
-  :id "US4298685",
-  :sourcing :authoritative,
-  :filing-year 1979,
-  :assignee :burroughs-wellcome-usa,
-  :grant-year 1981,
-  :cites ["US3839153" "US3852157" "US4017597" "US4134792"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:leland-stanford-junior-university],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US4302204/en",
-  :title "Transfer and detection of nucleic acids",
-  :status :granted,
-  :id "US4302204",
-  :sourcing :authoritative,
-  :filing-year 1979,
-  :assignee :leland-stanford-junior-university,
-  :grant-year 1981,
-  :cites ["US3730844" "US4072574" "US4139346"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:fuji-photo-film],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US4302671/en",
-  :title "Radiation image read-out device",
-  :status :granted,
-  :id "US4302671",
-  :sourcing :authoritative,
-  :filing-year 1979,
-  :assignee :fuji-photo-film,
-  :grant-year 1981,
-  :cites ["US3859527" "US3975637"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:plessey-handel-und-investments],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US4304461/en",
-  :title "Optical fibre connectors",
-  :status :granted,
-  :id "US4304461",
-  :sourcing :authoritative,
-  :filing-year 1979,
-  :assignee :plessey-handel-und-investments,
-  :grant-year 1981,
-  :cites
-  ["DE2703887A1"
-   "FR2334969A1"
-   "NL7605819A"
-   "US3724383"
-   "US3950075"
-   "US4056307"
-   "US4109994"
-   "US4119362"
-   "US4135781"],
-  :term-years 20,
-  :open-license :none}
- {:jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US4305926/en",
-  :title "Immobilization of Streptokinase",
-  :status :granted,
-  :id "US4305926",
-  :sourcing :authoritative,
-  :filing-year 1979,
-  :assignee :unassigned,
-  :grant-year 1981,
-  :cites
-  ["US3522346"
-   "US3639213"
-   "US3715277"
-   "US3730841"
-   "US3809605"
-   "US3826678"
-   "US3865726"
-   "US3875008"
-   "US3980772"
-   "US3985616"
-   "US4004979"
-   "US4004980"
-   "US4029767"
-   "US4061141"
-   "US4169014"
-   "US4178368"],
-  :term-years 20,
-  :open-license :none}
- {:jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US4307189/en",
-  :title
-  "Method for the quantitative determination of terminal deoxynucleotidyl transferase in biological samples",
-  :status :granted,
-  :id "US4307189",
-  :sourcing :authoritative,
-  :filing-year 1980,
-  :assignee :unassigned,
-  :grant-year 1981,
-  :term-years 20,
-  :open-license :none}
- {:assignees [:genentech],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US4310662/en",
-  :title "Nucleosidic phosphorylating agent and methods",
-  :status :granted,
-  :id "US4310662",
-  :sourcing :authoritative,
-  :filing-year 1979,
-  :assignee :genentech,
-  :grant-year 1982,
   :term-years 20,
   :open-license :none}]

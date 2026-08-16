@@ -82,6 +82,18 @@
   :grant-year 1954,
   :term-years 20,
   :open-license :none}
+ {:assignees [:union-carbide],
+  :jurisdiction :ca,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/CA703413A/en",
+  :title "Food packaging article",
+  :status :granted,
+  :id "CA703413A",
+  :sourcing :authoritative,
+  :assignee :union-carbide,
+  :grant-year 1965,
+  :term-years 20,
+  :open-license :none}
  {:jurisdiction :de,
   :field "UNKNOWN",
   :source "https://patents.google.com/patent/DE139666C/en",
@@ -6015,6 +6027,19 @@
   :grant-year 1943,
   :term-years 20,
   :open-license :none}
+ {:assignees [:firm-ciba-products],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2331446/en",
+  :title "Aldehyde condensation product and process of making same",
+  :status :granted,
+  :id "US2331446",
+  :sourcing :authoritative,
+  :filing-year 1940,
+  :assignee :firm-ciba-products,
+  :grant-year 1943,
+  :term-years 20,
+  :open-license :none}
  {:assignees [:eastman-kodak],
   :jurisdiction :us,
   :field "UNKNOWN",
@@ -6661,6 +6686,21 @@
   :cites ["US2305082" "US2329824" "US2337443" "US2337465"],
   :term-years 20,
   :open-license :none}
+ {:assignees [:monsanto-chemicals],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2486665/en",
+  :title
+  "Coating composition comprising an alkyd resin and an alkoxy methylolmelamine",
+  :status :granted,
+  :id "US2486665",
+  :sourcing :authoritative,
+  :filing-year 1946,
+  :assignee :monsanto-chemicals,
+  :grant-year 1949,
+  :cites ["US2125484" "US2218474" "US2426379"],
+  :term-years 20,
+  :open-license :none}
  {:assignees [:armstrong-cork],
   :jurisdiction :us,
   :field "UNKNOWN",
@@ -7234,6 +7274,21 @@
   :cites ["GB136307A" "US1853569" "US2146507" "US2334102" "US781659"],
   :term-years 20,
   :open-license :none}
+ {:assignees [:canadian-industries],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2604457/en",
+  :title
+  "Styrene-acrylic acid copolymers reacted with polymeric 4-vinylcyclohexene diepoxide",
+  :status :granted,
+  :id "US2604457",
+  :sourcing :authoritative,
+  :filing-year 1951,
+  :assignee :canadian-industries,
+  :grant-year 1952,
+  :cites ["US2131120" "US2527806" "US2530983"],
+  :term-years 20,
+  :open-license :none}
  {:assignees [:ei-du-pont-de-nemours-and],
   :jurisdiction :us,
   :field "UNKNOWN",
@@ -7375,6 +7430,26 @@
    "US2045866"
    "US2485739"
    "US411596"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:monsanto-chemicals],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2645625/en",
+  :title "Methods of concentrating solutions",
+  :status :granted,
+  :id "US2645625",
+  :sourcing :authoritative,
+  :filing-year 1951,
+  :assignee :monsanto-chemicals,
+  :grant-year 1953,
+  :cites
+  ["FR890760A"
+   "US2191957"
+   "US2213921"
+   "US2309412"
+   "US2529856"
+   "US438787"],
   :term-years 20,
   :open-license :none}
  {:assignees [:north-american-paper-process],
@@ -7753,6 +7828,18 @@
    "US2466718"
    "US2499421"
    "US695041"],
+  :term-years 20,
+  :open-license :none}
+ {:jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2715619/en",
+  :title "Process for manufacturing alkylated",
+  :status :granted,
+  :id "US2715619",
+  :sourcing :authoritative,
+  :assignee :unassigned,
+  :grant-year 1955,
+  :cites ["US2603623"],
   :term-years 20,
   :open-license :none}
  {:assignees [:exxon-research-and-engineering],
@@ -8194,6 +8281,20 @@
    "US2655864"],
   :term-years 20,
   :open-license :none}
+ {:assignees [:reichhold-chemicals],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2781332/en",
+  :title "Manufacture of etherified melamineformaldehyde resins",
+  :status :granted,
+  :id "US2781332",
+  :sourcing :authoritative,
+  :filing-year 1953,
+  :assignee :reichhold-chemicals,
+  :grant-year 1957,
+  :cites ["US2508875" "US2642418"],
+  :term-years 20,
+  :open-license :none}
  {:assignees [:millipore],
   :jurisdiction :us,
   :field "UNKNOWN",
@@ -8206,6 +8307,29 @@
   :assignee :millipore,
   :grant-year 1957,
   :cites ["US2562373" "US2631334"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:american-cyanamid],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2784135/en",
+  :title
+  "Process for the manufacture of polyacrylonitrile films and laminates",
+  :status :granted,
+  :id "US2784135",
+  :sourcing :authoritative,
+  :filing-year 1954,
+  :assignee :american-cyanamid,
+  :grant-year 1957,
+  :cites
+  ["US2357962"
+   "US2404714"
+   "US2558732"
+   "US2577763"
+   "US2677591"
+   "US2681265"
+   "US2695835"
+   "US2706674"],
   :term-years 20,
   :open-license :none}
  {:assignees [:polaroid],
@@ -8281,6 +8405,21 @@
   :cites ["US2443739" "US2443741" "US2530983" "US2542819" "US2581862"],
   :term-years 20,
   :open-license :none}
+ {:assignees [:ei-du-pont-de-nemours-and],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2794010/en",
+  :title
+  "Polymeric blends of a water-insoluble, water-dispersible, non-electrolyte film-forming polymer and a watersoluble, anionic polyelectrolyte epoxy polyemer and preparationof shaped articles therefrom",
+  :status :granted,
+  :id "US2794010",
+  :sourcing :authoritative,
+  :filing-year 1953,
+  :assignee :ei-du-pont-de-nemours-and,
+  :grant-year 1957,
+  :cites ["US2510885" "US2558949" "US2607754" "US2723971"],
+  :term-years 20,
+  :open-license :none}
  {:assignees [:rohm-and-haas],
   :jurisdiction :us,
   :field "UNKNOWN",
@@ -8308,6 +8447,27 @@
   :assignee :crown-zellerbach,
   :grant-year 1957,
   :cites ["US2319267" "US2343740" "US2497712" "US2656296" "US2666726"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:monsanto-chemicals],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2804441/en",
+  :title
+  "Compositions of methyl ethers of polymethylol melamine and a catalyst",
+  :status :granted,
+  :id "US2804441",
+  :sourcing :authoritative,
+  :filing-year 1954,
+  :assignee :monsanto-chemicals,
+  :grant-year 1957,
+  :cites
+  ["FR1047928A"
+   "GB480339A"
+   "US2197357"
+   "US2582961"
+   "US2645625"
+   "US2684346"],
   :term-years 20,
   :open-license :none}
  {:assignees [:phillips-petroleum],
@@ -8719,6 +8879,36 @@
    "US2772184"],
   :term-years 20,
   :open-license :none}
+ {:assignees [:union-carbide],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2890209/en",
+  :title
+  "Polymers of 3, 4-epoxycyclohexylmethyl 3, 4-epoxycyclohexanecarboxylates",
+  :status :granted,
+  :id "US2890209",
+  :sourcing :authoritative,
+  :filing-year 1956,
+  :assignee :union-carbide,
+  :grant-year 1959,
+  :cites ["US2706181" "US2706182" "US2706189" "US2716123"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:american-cyanamid],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2906724/en",
+  :title
+  "Composition containing polymethylol melamine and an ammonium salt of a copolymer of an unsaturated monocarboxylic acid and an alkyl ester of such an acid",
+  :status :granted,
+  :id "US2906724",
+  :sourcing :authoritative,
+  :filing-year 1957,
+  :assignee :american-cyanamid,
+  :grant-year 1959,
+  :cites ["US2469408" "US2653140"],
+  :term-years 20,
+  :open-license :none}
  {:assignees [:ei-du-pont-de-nemours-and],
   :jurisdiction :us,
   :field "UNKNOWN",
@@ -8887,248 +9077,5 @@
    "US2430479"
    "US2555745"
    "US2606162"],
-  :term-years 20,
-  :open-license :none}
- {:jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US2933418/en",
-  :title "Impregnation of the grain side of leather with polysulfides",
-  :status :granted,
-  :id "US2933418",
-  :sourcing :authoritative,
-  :filing-year 1959,
-  :assignee :unassigned,
-  :grant-year 1960,
-  :cites ["US2466963" "US2824816"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:usines-decoufle],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US2938521/en",
-  :title "Tobacco-manipulating machines",
-  :status :granted,
-  :id "US2938521",
-  :sourcing :authoritative,
-  :filing-year 1957,
-  :assignee :usines-decoufle,
-  :grant-year 1960,
-  :cites ["US2264725"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:general-tire-and-rubber],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US2938823/en",
-  :title "Treatment of polyethylene terephthalate fibers",
-  :status :granted,
-  :id "US2938823",
-  :sourcing :authoritative,
-  :filing-year 1956,
-  :assignee :general-tire-and-rubber,
-  :grant-year 1960,
-  :cites
-  ["US2415839"
-   "US2419922"
-   "US2590586"
-   "US2657162"
-   "US2679088"
-   "US2758908"
-   "US2768057"
-   "US2768868"
-   "US2783176"
-   "US7709148"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:ei-du-pont-de-nemours-and],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US2940884/en",
-  :title "Adhesive tape",
-  :status :granted,
-  :id "US2940884",
-  :sourcing :authoritative,
-  :filing-year 1956,
-  :assignee :ei-du-pont-de-nemours-and,
-  :grant-year 1960,
-  :cites
-  ["US2133609"
-   "US2329527"
-   "US2506933"
-   "US2649199"
-   "US2651588"
-   "US2679968"
-   "US2725322"
-   "US986655"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:american-viscose],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US2940889/en",
-  :title "Vinyl-coated fabrics",
-  :status :granted,
-  :id "US2940889",
-  :sourcing :authoritative,
-  :filing-year 1955,
-  :assignee :american-viscose,
-  :grant-year 1960,
-  :cites
-  ["GB696364A"
-   "US2171324"
-   "US2182306"
-   "US2237344"
-   "US2348039"
-   "US2406905"
-   "US2408682"
-   "US2533976"
-   "US2593540"
-   "US2698793"
-   "US2732002"
-   "US2823156"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:champion-paper-and-fibre],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US2946307/en",
-  :title "Apparatus for coating paper",
-  :status :granted,
-  :id "US2946307",
-  :sourcing :authoritative,
-  :filing-year 1955,
-  :assignee :champion-paper-and-fibre,
-  :grant-year 1960,
-  :cites
-  ["US1867875"
-   "US2016085"
-   "US2334102"
-   "US2344232"
-   "US2357880"
-   "US2407756"
-   "US2536656"
-   "US2598733"
-   "US2599947"
-   "US2676563"
-   "US2729192"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:consolidated-water-power-and-paper],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US2949382/en",
-  :title "Method of making printable coated paper",
-  :status :granted,
-  :id "US2949382",
-  :sourcing :authoritative,
-  :filing-year 1958,
-  :assignee :consolidated-water-power-and-paper,
-  :grant-year 1960,
-  :cites
-  ["US1903325"
-   "US1934642"
-   "US1989036"
-   "US2186874"
-   "US2291616"
-   "US2378113"
-   "US2395992"
-   "US2676118"
-   "US2697669"
-   "US2725307"
-   "US275176"
-   "US2860073"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:minnesota-mining-and-manufacturing],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US2954868/en",
-  :title "Masking tape",
-  :status :granted,
-  :id "US2954868",
-  :sourcing :authoritative,
-  :filing-year 1957,
-  :assignee :minnesota-mining-and-manufacturing,
-  :grant-year 1960,
-  :cites
-  ["US1962340"
-   "US2236527"
-   "US2251273"
-   "US2269712"
-   "US2438195"
-   "US2458166"
-   "US2633430"
-   "US2635045"
-   "US2666699"
-   "US2725981"
-   "US2772970"],
-  :term-years 20,
-  :open-license :none}
- {:jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US2956931/en",
-  :title "Dispensing biological materials",
-  :status :granted,
-  :id "US2956931",
-  :sourcing :authoritative,
-  :filing-year 1958,
-  :assignee :unassigned,
-  :grant-year 1960,
-  :cites ["US2533089" "US2871168"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:th-goldschmidt],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US2964426/en",
-  :title "Process of impregnating paper to form laminated material",
-  :status :granted,
-  :id "US2964426",
-  :sourcing :authoritative,
-  :filing-year 1958,
-  :assignee :th-goldschmidt,
-  :grant-year 1960,
-  :cites
-  ["US1439743"
-   "US1857690"
-   "US2380239"
-   "US2424284"
-   "US2630395"
-   "US2930106"
-   "US602797"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:universal-metal-products],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US2967644/en",
-  :title "Dispensing machine",
-  :status :granted,
-  :id "US2967644",
-  :sourcing :authoritative,
-  :filing-year 1956,
-  :assignee :universal-metal-products,
-  :grant-year 1961,
-  :cites
-  ["US1084636"
-   "US1226278"
-   "US1388632"
-   "US1529379"
-   "US180945"
-   "US1914980"
-   "US2094702"
-   "US2158795"
-   "US245270"
-   "US2660351"
-   "US2684782"
-   "US2742194"
-   "US2787402"
-   "US279135"
-   "US2848019"
-   "US301598"
-   "US465212"
-   "US792620"
-   "US823677"
-   "US888464"],
   :term-years 20,
   :open-license :none}]

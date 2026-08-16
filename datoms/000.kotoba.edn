@@ -270,6 +270,43 @@
   "hirameki-patent:CA500178A"
   ":hirameki/source"
   "https://patents.google.com/patent/CA500178A/en"]
+ [":db/add"
+  "hirameki-patent:CA703413A"
+  ":hirameki.patent/title"
+  "Food packaging article"]
+ [":db/add"
+  "hirameki-patent:CA703413A"
+  ":hirameki.patent/jurisdiction"
+  ":ca"]
+ [":db/add"
+  "hirameki-patent:CA703413A"
+  ":hirameki.patent/field"
+  "UNKNOWN"]
+ [":db/add"
+  "hirameki-patent:CA703413A"
+  ":hirameki.patent/assignee"
+  ":union-carbide"]
+ [":db/add"
+  "hirameki-patent:CA703413A"
+  ":hirameki.patent/status"
+  ":granted"]
+ [":db/add"
+  "hirameki-patent:CA703413A"
+  ":hirameki.patent/open-license"
+  ":none"]
+ [":db/add"
+  "hirameki-patent:CA703413A"
+  ":hirameki.obs/release-status"
+  ":in-force"]
+ [":db/add"
+  "hirameki-patent:CA703413A"
+  ":hirameki/sourcing"
+  ":authoritative"]
+ [":db/add" "hirameki-patent:CA703413A" ":hirameki/derived" true]
+ [":db/add"
+  "hirameki-patent:CA703413A"
+  ":hirameki/source"
+  "https://patents.google.com/patent/CA703413A/en"]
  [":db/add" "hirameki-patent:DE139666C" ":hirameki.patent/title" ""]
  [":db/add"
   "hirameki-patent:DE139666C"
@@ -9919,37 +9956,4 @@
  [":db/add"
   "hirameki-patent:JP2004083685A"
   ":hirameki.patent/title"
-  "Polypropylene-based molded body"]
- [":db/add"
-  "hirameki-patent:JP2004083685A"
-  ":hirameki.patent/jurisdiction"
-  ":jp"]
- [":db/add"
-  "hirameki-patent:JP2004083685A"
-  ":hirameki.patent/field"
-  "UNKNOWN"]
- [":db/add"
-  "hirameki-patent:JP2004083685A"
-  ":hirameki.patent/assignee"
-  ":mitsubishi-chemical"]
- [":db/add"
-  "hirameki-patent:JP2004083685A"
-  ":hirameki.patent/status"
-  ":pending"]
- [":db/add"
-  "hirameki-patent:JP2004083685A"
-  ":hirameki.patent/open-license"
-  ":none"]
- [":db/add"
-  "hirameki-patent:JP2004083685A"
-  ":hirameki.obs/release-status"
-  ":pending"]
- [":db/add"
-  "hirameki-patent:JP2004083685A"
-  ":hirameki/sourcing"
-  ":authoritative"]
- [":db/add" "hirameki-patent:JP2004083685A" ":hirameki/derived" true]
- [":db/add"
-  "hirameki-patent:JP2004083685A"
-  ":hirameki.obs/years-to-expiry"
-  -4]]
+  "Polypropylene-based molded body"]]
