@@ -94,6 +94,18 @@
   :grant-year 1965,
   :term-years 20,
   :open-license :none}
+ {:assignees [:ei-du-pont-de-nemours-and],
+  :jurisdiction :ca,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/CA729581A/en",
+  :title "Articles coated with colloidal particle multilayers",
+  :status :granted,
+  :id "CA729581A",
+  :sourcing :authoritative,
+  :assignee :ei-du-pont-de-nemours-and,
+  :grant-year 1966,
+  :term-years 20,
+  :open-license :none}
  {:jurisdiction :de,
   :field "UNKNOWN",
   :source "https://patents.google.com/patent/DE139666C/en",
@@ -1797,6 +1809,18 @@
   :sourcing :authoritative,
   :filing-year 1962,
   :assignee :herbert-ruckrich,
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:perkin-elmer],
+  :jurisdiction :gb,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/GB1016635A/en",
+  :title "A column for partition chromatography",
+  :status :pending,
+  :id "GB1016635A",
+  :sourcing :authoritative,
+  :filing-year 1963,
+  :assignee :perkin-elmer,
   :term-years 20,
   :open-license :none}
  {:jurisdiction :gb,
@@ -6110,6 +6134,19 @@
   :grant-year 1940,
   :term-years 20,
   :open-license :none}
+ {:assignees [:separation-process],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2214717/en",
+  :title "Cement manufacture",
+  :status :granted,
+  :id "US2214717",
+  :sourcing :authoritative,
+  :filing-year 1939,
+  :assignee :separation-process,
+  :grant-year 1940,
+  :term-years 20,
+  :open-license :none}
  {:assignees [:consolidated-water-power-and-paper],
   :jurisdiction :us,
   :field "UNKNOWN",
@@ -8969,56 +9006,5 @@
    "US2635972"
    "US2640790"
    "US2655864"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:reichhold-chemicals],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US2781332/en",
-  :title "Manufacture of etherified melamineformaldehyde resins",
-  :status :granted,
-  :id "US2781332",
-  :sourcing :authoritative,
-  :filing-year 1953,
-  :assignee :reichhold-chemicals,
-  :grant-year 1957,
-  :cites ["US2508875" "US2642418"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:millipore],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US2783894/en",
-  :title "Microporous nylon film",
-  :status :granted,
-  :id "US2783894",
-  :sourcing :authoritative,
-  :filing-year 1955,
-  :assignee :millipore,
-  :grant-year 1957,
-  :cites ["US2562373" "US2631334"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:american-cyanamid],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US2784135/en",
-  :title
-  "Process for the manufacture of polyacrylonitrile films and laminates",
-  :status :granted,
-  :id "US2784135",
-  :sourcing :authoritative,
-  :filing-year 1954,
-  :assignee :american-cyanamid,
-  :grant-year 1957,
-  :cites
-  ["US2357962"
-   "US2404714"
-   "US2558732"
-   "US2577763"
-   "US2677591"
-   "US2681265"
-   "US2695835"
-   "US2706674"],
   :term-years 20,
   :open-license :none}]

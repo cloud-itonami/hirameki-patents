@@ -1,4 +1,55 @@
-[{:assignees [:polaroid],
+[{:assignees [:reichhold-chemicals],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2781332/en",
+  :title "Manufacture of etherified melamineformaldehyde resins",
+  :status :granted,
+  :id "US2781332",
+  :sourcing :authoritative,
+  :filing-year 1953,
+  :assignee :reichhold-chemicals,
+  :grant-year 1957,
+  :cites ["US2508875" "US2642418"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:millipore],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2783894/en",
+  :title "Microporous nylon film",
+  :status :granted,
+  :id "US2783894",
+  :sourcing :authoritative,
+  :filing-year 1955,
+  :assignee :millipore,
+  :grant-year 1957,
+  :cites ["US2562373" "US2631334"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:american-cyanamid],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2784135/en",
+  :title
+  "Process for the manufacture of polyacrylonitrile films and laminates",
+  :status :granted,
+  :id "US2784135",
+  :sourcing :authoritative,
+  :filing-year 1954,
+  :assignee :american-cyanamid,
+  :grant-year 1957,
+  :cites
+  ["US2357962"
+   "US2404714"
+   "US2558732"
+   "US2577763"
+   "US2677591"
+   "US2681265"
+   "US2695835"
+   "US2706674"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:polaroid],
   :jurisdiction :us,
   :field "UNKNOWN",
   :source "https://patents.google.com/patent/US2789054/en",
@@ -3494,6 +3545,20 @@
   :grant-year 1967,
   :term-years 20,
   :open-license :none}
+ {:assignees [:novo-terapeutisk-laboratorium-as],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3340156/en",
+  :title "Purification of plasminogen",
+  :status :granted,
+  :id "US3340156",
+  :sourcing :authoritative,
+  :filing-year 1965,
+  :assignee :novo-terapeutisk-laboratorium-as,
+  :grant-year 1967,
+  :cites ["US3066079"],
+  :term-years 20,
+  :open-license :none}
  {:jurisdiction :us,
   :field "UNKNOWN",
   :source "https://patents.google.com/patent/US3347846/en",
@@ -3505,6 +3570,21 @@
   :assignee :unassigned,
   :grant-year 1967,
   :cites ["US3201389" "US3282920" "US3288780"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:sun-oil],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3361680/en",
+  :title
+  "Use of ultrasonic vibrations to disperse a liquid in another liquid",
+  :status :granted,
+  :id "US3361680",
+  :sourcing :authoritative,
+  :filing-year 1963,
+  :assignee :sun-oil,
+  :grant-year 1968,
+  :cites ["US1734975" "US1992938" "US2158374" "US2304125" "US2407462"],
   :term-years 20,
   :open-license :none}
  {:assignees [:international-business-machines],
@@ -4449,6 +4529,19 @@
   :assignee :unassigned,
   :grant-year 1970,
   :cites ["US3198767"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:corning-glass-works],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3519538/en",
+  :title "Chemically coupled enzymes",
+  :status :granted,
+  :id "US3519538",
+  :sourcing :authoritative,
+  :filing-year 1968,
+  :assignee :corning-glass-works,
+  :grant-year 1970,
   :term-years 20,
   :open-license :none}
  {:assignees [:xerox],
@@ -6298,6 +6391,20 @@
   :grant-year 1974,
   :term-years 20,
   :open-license :none}
+ {:assignees [:general-electric],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3813316/en",
+  :title
+  "Microorganisms having multiple compatible degradative energy-generating plasmids and preparation thereof",
+  :status :granted,
+  :id "US3813316",
+  :sourcing :authoritative,
+  :filing-year 1972,
+  :assignee :general-electric,
+  :grant-year 1974,
+  :term-years 20,
+  :open-license :none}
  {:assignees [:national-aeronautics-and-space-administration-nasa],
   :jurisdiction :us,
   :field "UNKNOWN",
@@ -6334,6 +6441,19 @@
   :sourcing :authoritative,
   :filing-year 1971,
   :assignee :filtering-materials,
+  :grant-year 1974,
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:syva],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3817837/en",
+  :title "Enzyme amplification assay",
+  :status :granted,
+  :id "US3817837",
+  :sourcing :authoritative,
+  :filing-year 1972,
+  :assignee :syva,
   :grant-year 1974,
   :term-years 20,
   :open-license :none}
@@ -6647,6 +6767,21 @@
   :cites ["US3615629"],
   :term-years 20,
   :open-license :none}
+ {:assignees
+  [:institut-national-de-la-sante-et-de-la-recherche-medicale-inserm],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3849546/en",
+  :title "Process for obtaining abtigenlipoid emulsions",
+  :status :granted,
+  :id "US3849546",
+  :sourcing :authoritative,
+  :filing-year 1972,
+  :assignee
+  :institut-national-de-la-sante-et-de-la-recherche-medicale-inserm,
+  :grant-year 1974,
+  :term-years 20,
+  :open-license :none}
  {:assignees [:yeda-research-and-development],
   :jurisdiction :us,
   :field "UNKNOWN",
@@ -6659,6 +6794,21 @@
   :assignee :yeda-research-and-development,
   :grant-year 1974,
   :cites ["US3594278"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:akzona],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3850752/en",
+  :title
+  "Process for the demonstration and determination of low molecular compounds and of proteins capable of binding these compounds specifically",
+  :status :granted,
+  :id "US3850752",
+  :sourcing :authoritative,
+  :filing-year 1971,
+  :assignee :akzona,
+  :grant-year 1974,
+  :cites ["US3615222" "US3654090"],
   :term-years 20,
   :open-license :none}
  {:assignees [:syva],
@@ -7015,6 +7165,41 @@
   :cites ["US3690834" "US3704282" "US3817837"],
   :term-years 20,
   :open-license :none}
+ {:assignees [:syntex-usa],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3880934/en",
+  :title "Nitrophenyloxy-butanediols",
+  :status :granted,
+  :id "US3880934",
+  :sourcing :authoritative,
+  :filing-year 1972,
+  :assignee :syntex-usa,
+  :grant-year 1975,
+  :cites ["GB714617A"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:american-cyanamid],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3882224/en",
+  :title "Reagents and tests for syphilis",
+  :status :granted,
+  :id "US3882224",
+  :sourcing :authoritative,
+  :filing-year 1973,
+  :assignee :american-cyanamid,
+  :grant-year 1975,
+  :cites
+  ["US2111976"
+   "US2112496"
+   "US2301717"
+   "US2770572"
+   "US3074853"
+   "US3666421"
+   "US3689632"],
+  :term-years 20,
+  :open-license :none}
  {:assignees [:miles-laboratories],
   :jurisdiction :us,
   :field "UNKNOWN",
@@ -7130,6 +7315,21 @@
   :assignee :instrumentation-laboratory,
   :grant-year 1975,
   :cites ["US3276589"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:leland-stanford-junior-university],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3887698/en",
+  :title
+  "Sacs with epitopic sites on walls enclosing stable free radicals",
+  :status :granted,
+  :id "US3887698",
+  :sourcing :authoritative,
+  :filing-year 1974,
+  :assignee :leland-stanford-junior-university,
+  :grant-year 1975,
+  :cites ["US3453288" "US3690834"],
   :term-years 20,
   :open-license :none}
  {:jurisdiction :us,
@@ -7648,6 +7848,20 @@
   :cites ["US3684377" "US3719410" "US3814939"],
   :term-years 20,
   :open-license :none}
+ {:assignees [:biological-developments],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3940475/en",
+  :title "Radioimmune method of assaying quantitatively for a hapten",
+  :status :granted,
+  :id "US3940475",
+  :sourcing :authoritative,
+  :filing-year 1971,
+  :assignee :biological-developments,
+  :grant-year 1976,
+  :cites ["US3555143" "US3646346"],
+  :term-years 20,
+  :open-license :none}
  {:assignees [:massachusetts-institute-of-technology],
   :jurisdiction :us,
   :field "UNKNOWN",
@@ -7681,6 +7895,30 @@
   :assignee :instrumentation-laboratory,
   :grant-year 1976,
   :cites ["US3738813" "US3757955" "US3853712"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:american-cyanamid],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3949065/en",
+  :title "Composition and method for the detection of syphilis",
+  :status :granted,
+  :id "US3949065",
+  :sourcing :authoritative,
+  :filing-year 1973,
+  :assignee :american-cyanamid,
+  :grant-year 1976,
+  :cites
+  ["US2111976"
+   "US2112496"
+   "US2301717"
+   "US2770572"
+   "US3074853"
+   "US3406114"
+   "US3647769"
+   "US3666421"
+   "US3695999"
+   "US3737037"],
   :term-years 20,
   :open-license :none}
  {:assignees [:olympus-optical],
@@ -7913,6 +8151,21 @@
   :cites ["US3614232" "US3658420" "US3738752"],
   :term-years 20,
   :open-license :none}
+ {:assignees [:biological-developments],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3975342/en",
+  :title
+  "Tyrosyl-class antigenic conjugates, their preparation and antibodies raised thereto",
+  :status :granted,
+  :id "US3975342",
+  :sourcing :authoritative,
+  :filing-year 1974,
+  :assignee :biological-developments,
+  :grant-year 1976,
+  :cites ["US3809782"],
+  :term-years 20,
+  :open-license :none}
  {:assignees [:corning-glass-works],
   :jurisdiction :us,
   :field "UNKNOWN",
@@ -8023,6 +8276,21 @@
   :assignee :ei-du-pont-de-nemours-and,
   :grant-year 1976,
   :cites ["US3692726" "US3769251" "US3784498" "US3875099"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:curtis-nuclear],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3980764/en",
+  :title
+  "Polymeric competitive protein binding adsorbents for radioassey",
+  :status :granted,
+  :id "US3980764",
+  :sourcing :authoritative,
+  :filing-year 1973,
+  :assignee :curtis-nuclear,
+  :grant-year 1976,
+  :cites ["US2957808" "US3410839"],
   :term-years 20,
   :open-license :none}
  {:assignees [:formica],
@@ -8164,6 +8432,20 @@
   :grant-year 1976,
   :term-years 20,
   :open-license :none}
+ {:assignees [:baxter-travenol-laboratories],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3995019/en",
+  :title "Diagnostic reagent system",
+  :status :granted,
+  :id "US3995019",
+  :sourcing :authoritative,
+  :filing-year 1975,
+  :assignee :baxter-travenol-laboratories,
+  :grant-year 1976,
+  :cites ["US3415804" "US3862302"],
+  :term-years 20,
+  :open-license :none}
  {:assignees [:syva],
   :jurisdiction :us,
   :field "UNKNOWN",
@@ -8268,6 +8550,21 @@
   :cites ["US3450883" "US3493764" "US3610934" "US3684374" "US3844658"],
   :term-years 20,
   :open-license :none}
+ {:assignees [:miles-laboratories],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US4003792/en",
+  :title
+  "Conjugates of acid polysaccharides and complex organic substances",
+  :status :granted,
+  :id "US4003792",
+  :sourcing :authoritative,
+  :filing-year 1972,
+  :assignee :miles-laboratories,
+  :grant-year 1977,
+  :cites ["GB1174854A"],
+  :term-years 20,
+  :open-license :none}
  {:jurisdiction :us,
   :field "UNKNOWN",
   :source "https://patents.google.com/patent/US4007008/en",
@@ -8366,6 +8663,20 @@
    "US3826619"
    "US3843775"
    "US3935074"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:abbott-laboratories],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US4012494/en",
+  :title "Direct radioimmunoassay for antigens and their antibodies",
+  :status :granted,
+  :id "US4012494",
+  :sourcing :authoritative,
+  :filing-year 1974,
+  :assignee :abbott-laboratories,
+  :grant-year 1977,
+  :cites ["US3646346" "US3790663" "US3867517"],
   :term-years 20,
   :open-license :none}
  {:assignees [:coulter-electronics],
@@ -9068,343 +9379,5 @@
   :assignee :yeda-research-and-development,
   :grant-year 1978,
   :cites ["US3850798" "US3928580" "US3966898" "US3995018"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:baxter-travenol-laboratories],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US4099920/en",
-  :title
-  "Temperature control and stirring apparatus for luminescence measuring photometer",
-  :status :granted,
-  :id "US4099920",
-  :sourcing :authoritative,
-  :filing-year 1977,
-  :assignee :baxter-travenol-laboratories,
-  :grant-year 1978,
-  :cites ["US2878106" "US3764214" "US3790346" "US3917404"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:dios],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US4103064/en",
-  :title
-  "Microdevice substrate and method for making micropattern devices",
-  :status :granted,
-  :id "US4103064",
-  :sourcing :authoritative,
-  :filing-year 1976,
-  :assignee :dios,
-  :grant-year 1978,
-  :cites
-  ["US2051603"
-   "US3535137"
-   "US3635853"
-   "US3746564"
-   "US3779806"
-   "US3883352"
-   "US3914462"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:dios],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US4103073/en",
-  :title "Microsubstrates and method for making micropattern devices",
-  :status :granted,
-  :id "US4103073",
-  :sourcing :authoritative,
-  :filing-year 1976,
-  :assignee :dios,
-  :grant-year 1978,
-  :cites ["US3575733" "US3885060" "US3914462"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:university-of-pennsylvania-penn],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US4103227/en",
-  :title "Ion-controlled diode",
-  :status :granted,
-  :id "US4103227",
-  :sourcing :authoritative,
-  :filing-year 1977,
-  :assignee :university-of-pennsylvania-penn,
-  :grant-year 1978,
-  :cites ["US2711511" "US3295022" "US3428892" "US3831432"],
-  :term-years 20,
-  :open-license :none}
- {:jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US4104029/en",
-  :title
-  "Procedure for the assay of pharmacologically immunologically and biochemically active compounds in biological fluids",
-  :status :granted,
-  :id "US4104029",
-  :sourcing :authoritative,
-  :filing-year 1977,
-  :assignee :unassigned,
-  :grant-year 1978,
-  :cites
-  ["US3575812"
-   "US3660240"
-   "US3852157"
-   "US3966897"
-   "US3981982"
-   "US4000252"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:purdue-research-foundation],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US4108603/en",
-  :title
-  "Method for rapid analysis of hemoglobin variants by high speed liquid chromatography",
-  :status :granted,
-  :id "US4108603",
-  :sourcing :authoritative,
-  :filing-year 1977,
-  :assignee :purdue-research-foundation,
-  :grant-year 1978,
-  :term-years 20,
-  :open-license :none}
- {:assignees [:eastman-kodak],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US4111838/en",
-  :title "Composition for chromatography",
-  :status :granted,
-  :id "US4111838",
-  :sourcing :authoritative,
-  :filing-year 1977,
-  :assignee :eastman-kodak,
-  :grant-year 1978,
-  :cites ["DE2319495A1" "US3491086" "US3983299" "US4006059"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:mitsui-toatsu-chemicals],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US4115338/en",
-  :title "Metallic tone coating composition",
-  :status :granted,
-  :id "US4115338",
-  :sourcing :authoritative,
-  :filing-year 1976,
-  :assignee :mitsui-toatsu-chemicals,
-  :grant-year 1978,
-  :cites
-  ["US2302361"
-   "US2876133"
-   "US3265644"
-   "US3272772"
-   "US3393165"
-   "US3661620"
-   "US3806464"
-   "US3971753"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:ppg-industries],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US4115472/en",
-  :title "Urethane coating compositions",
-  :status :granted,
-  :id "US4115472",
-  :sourcing :authoritative,
-  :filing-year 1977,
-  :assignee :ppg-industries,
-  :grant-year 1978,
-  :cites ["US3317635" "US3538185" "US3702836" "US3751412" "US3888945"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:warner-lambert],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US4116638/en",
-  :title "Immunoassay device",
-  :status :granted,
-  :id "US4116638",
-  :sourcing :authoritative,
-  :filing-year 1977,
-  :assignee :warner-lambert,
-  :grant-year 1978,
-  :cites
-  ["US3464798"
-   "US3492396"
-   "US3712465"
-   "US3843444"
-   "US3849830"
-   "US3873682"
-   "US4012200"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:hoffmann-la-roche],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US4124598/en",
-  :title "Psoralens",
-  :status :granted,
-  :id "US4124598",
-  :sourcing :authoritative,
-  :filing-year 1976,
-  :assignee :hoffmann-la-roche,
-  :grant-year 1978,
-  :cites ["US3201421"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:miles-laboratories],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US4134792/en",
-  :title
-  "Specific binding assay with an enzyme modulator as a labeling substance",
-  :status :granted,
-  :id "US4134792",
-  :sourcing :authoritative,
-  :filing-year 1976,
-  :assignee :miles-laboratories,
-  :grant-year 1979,
-  :cites ["US3817837" "US3850752" "US3880934" "US3975342" "US4003792"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:university-of-utah],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US4136566/en",
-  :title "Semiconductor temperature sensor",
-  :status :granted,
-  :id "US4136566",
-  :sourcing :authoritative,
-  :filing-year 1977,
-  :assignee :university-of-utah,
-  :grant-year 1979,
-  :cites ["US2824235" "US3960017" "US4016761"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:union-carbide],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US4137279/en",
-  :title
-  "Copolymers of polycaprolactone derivatives and ethylenically unsaturated monomers",
-  :status :granted,
-  :id "US4137279",
-  :sourcing :authoritative,
-  :filing-year 1977,
-  :assignee :union-carbide,
-  :grant-year 1979,
-  :cites
-  ["US2890197"
-   "US3027357"
-   "US3169945"
-   "US3408421"
-   "US3511792"
-   "US3549586"
-   "US3583955"
-   "US3668178"
-   "US3784586"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:enzo-biochem],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US4139346/en",
-  :title "Nucleic acid and protein binding paper",
-  :status :granted,
-  :id "US4139346",
-  :sourcing :authoritative,
-  :filing-year 1977,
-  :assignee :enzo-biochem,
-  :grant-year 1979,
-  :cites ["US4069352"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:eastman-kodak],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US4142891/en",
-  :title
-  "Photographic products and processes employing nondiffusible azo dye-releasing compounds",
-  :status :granted,
-  :id "US4142891",
-  :sourcing :authoritative,
-  :filing-year 1977,
-  :assignee :eastman-kodak,
-  :grant-year 1979,
-  :cites
-  ["FR1124882A"
-   "FR1200358A"
-   "GB899758A"
-   "US2348417"
-   "US2495244"
-   "US2830042"
-   "US2938895"
-   "US3081167"
-   "US3097196"
-   "US3196014"
-   "US3563739"
-   "US3931144"
-   "US3980479"
-   "US4013635"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:international-diagnostic-technologies],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US4144452/en",
-  :title "Fluorometric system, method and test article",
-  :status :granted,
-  :id "US4144452",
-  :sourcing :authoritative,
-  :filing-year 1977,
-  :assignee :international-diagnostic-technologies,
-  :grant-year 1979,
-  :cites ["US3992631" "US4056724"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:research],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US4146603/en",
-  :title
-  "Tumor specific glycoproteins and method for detecting tumorigenic cancers",
-  :status :granted,
-  :id "US4146603",
-  :sourcing :authoritative,
-  :filing-year 1977,
-  :assignee :research,
-  :grant-year 1979,
-  :cites ["US4010251"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:beecham-group],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US4152210/en",
-  :title
-  "Biologically active materials attached to a ferromagnetic support",
-  :status :granted,
-  :id "US4152210",
-  :sourcing :authoritative,
-  :filing-year 1975,
-  :assignee :beecham-group,
-  :grant-year 1979,
-  :cites ["US3351203" "US3470067" "US3519538" "US3705084" "US3796634"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:nuclear-international],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US4157895/en",
-  :title "RIA reagents and processes",
-  :status :granted,
-  :id "US4157895",
-  :sourcing :authoritative,
-  :filing-year 1977,
-  :assignee :nuclear-international,
-  :grant-year 1979,
-  :cites ["US3477817" "US3615222" "US3953172" "US3964865" "US4007008"],
   :term-years 20,
   :open-license :none}]
