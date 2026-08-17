@@ -1,4 +1,163 @@
-[{:assignees [:syva],
+[{:assignees [:bard-laboratories],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US4199649/en",
+  :title "Amorphous monomolecular surface coatings",
+  :status :granted,
+  :id "US4199649",
+  :sourcing :authoritative,
+  :filing-year 1978,
+  :assignee :bard-laboratories,
+  :grant-year 1980,
+  :cites
+  ["US3115424"
+   "US3455736"
+   "US3628996"
+   "US3873499"
+   "US3896254"
+   "US3916035"
+   "US3942982"
+   "US4001870"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:government-of-the-united-states-of-america],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US4200110/en",
+  :title "Fiber optic pH probe",
+  :status :granted,
+  :id "US4200110",
+  :sourcing :authoritative,
+  :filing-year 1977,
+  :assignee :government-of-the-united-states-of-america,
+  :grant-year 1980,
+  :cites
+  ["GB770889A"
+   "US2084399"
+   "US3164663"
+   "US3183208"
+   "US3787119"
+   "US3814081"
+   "US4016133"
+   "US4016863"
+   "US4033330"
+   "US4041932"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:mochida-pharmaceutical],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US4200436/en",
+  :title "Immunochemical measuring process",
+  :status :granted,
+  :id "US4200436",
+  :sourcing :authoritative,
+  :filing-year 1977,
+  :assignee :mochida-pharmaceutical,
+  :grant-year 1980,
+  :cites ["US3654090" "US3992516" "US4002532" "US4067959"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:millipore],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US4200690/en",
+  :title "Immunoassay with membrane immobilized antibody",
+  :status :granted,
+  :id "US4200690",
+  :sourcing :authoritative,
+  :filing-year 1978,
+  :assignee :millipore,
+  :grant-year 1980,
+  :cites ["US3839153" "US3951748" "US4066512"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:ohio-state-university],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US4201770/en",
+  :title "Antigenic modification of polypeptides",
+  :status :granted,
+  :id "US4201770",
+  :sourcing :authoritative,
+  :filing-year 1978,
+  :assignee :ohio-state-university,
+  :grant-year 1980,
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:monsanto],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US4201845/en",
+  :title "Cell culture reactor",
+  :status :granted,
+  :id "US4201845",
+  :sourcing :authoritative,
+  :filing-year 1978,
+  :assignee :monsanto,
+  :grant-year 1980,
+  :cites
+  ["US3342729"
+   "US3746175"
+   "US3821087"
+   "US3843454"
+   "US3883393"
+   "US3997396"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:leybold-heraeus],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US4204117/en",
+  :title "Sample analyzer",
+  :status :granted,
+  :id "US4204117",
+  :sourcing :authoritative,
+  :filing-year 1978,
+  :assignee :leybold-heraeus,
+  :grant-year 1980,
+  :cites ["US3782823" "US3972616" "US4018530"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:technion-research-and-development-foundation],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US4205952/en",
+  :title "Specific binding assay method and reagent means",
+  :status :granted,
+  :id "US4205952",
+  :sourcing :authoritative,
+  :filing-year 1977,
+  :assignee :technion-research-and-development-foundation,
+  :grant-year 1980,
+  :cites ["US3899298" "US3966556" "US4022876" "US4036823"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:gte-laboratories],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US4208242/en",
+  :title
+  "Method for color television picture tube aperture mask production employing PVA and removing the PVA by partial carmelizing and washing",
+  :status :granted,
+  :id "US4208242",
+  :sourcing :authoritative,
+  :filing-year 1978,
+  :assignee :gte-laboratories,
+  :grant-year 1980,
+  :cites
+  ["US3081203"
+   "US3175907"
+   "US3415648"
+   "US3672893"
+   "US3767490"
+   "US3770434"
+   "US3796603"
+   "US3980587"
+   "US4018627"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:syva],
   :jurisdiction :us,
   :field "UNKNOWN",
   :source "https://patents.google.com/patent/US4208479/en",
@@ -918,6 +1077,27 @@
   :cites ["US4236893"],
   :term-years 20,
   :open-license :none}
+ {:assignees [:trimetal-paint :wyns-bristol-peintures],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US4315959/en",
+  :title
+  "Process for coating mineral, organic or metallic microscopic or macroscopic substrates",
+  :status :granted,
+  :id "US4315959",
+  :sourcing :authoritative,
+  :filing-year 1980,
+  :assignee :trimetal-paint,
+  :grant-year 1982,
+  :cites
+  ["US2943955"
+   "US3560254"
+   "US3878183"
+   "US3905936"
+   "US3993835"
+   "US4241112"],
+  :term-years 20,
+  :open-license :none}
  {:assignees [:syva],
   :jurisdiction :us,
   :field "UNKNOWN",
@@ -1357,6 +1537,27 @@
    "US4016043"
    "US4043757"
    "US4146603"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:bayer],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US4382114/en",
+  :title
+  "Method of producing metal effect lacquerings and sheets treated with weather-resistant multicoat metal effect lacquerings",
+  :status :granted,
+  :id "US4382114",
+  :sourcing :authoritative,
+  :filing-year 1981,
+  :assignee :bayer,
+  :grant-year 1983,
+  :cites
+  ["FR1343812A"
+   "US3639147"
+   "US3789037"
+   "US4020216"
+   "US4226901"
+   "US4289813"],
   :term-years 20,
   :open-license :none}
  {:jurisdiction :us,
@@ -3538,6 +3739,33 @@
    "WO1983002286A1"],
   :term-years 20,
   :open-license :none}
+ {:assignees [:davidson-textron],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US4713143/en",
+  :title "Etching of vacuum metallized indium",
+  :status :granted,
+  :id "US4713143",
+  :sourcing :authoritative,
+  :filing-year 1987,
+  :assignee :davidson-textron,
+  :grant-year 1987,
+  :cites
+  ["US2937940"
+   "US2992125"
+   "US2993806"
+   "US3118781"
+   "US3620804"
+   "US3914472"
+   "US4101698"
+   "US4131530"
+   "US4211822"
+   "US4215170"
+   "US4216246"
+   "US4431711"
+   "US4610755"],
+  :term-years 20,
+  :open-license :none}
  {:assignees [:molecular-diagnostics],
   :jurisdiction :us,
   :field "UNKNOWN",
@@ -4572,6 +4800,33 @@
    "US4828563"],
   :term-years 20,
   :open-license :none}
+ {:assignees [:union-carbide-chemicals-and-plastics-technology],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US4977219/en",
+  :title "Low temperature crosslinking of water-borne resins",
+  :status :granted,
+  :id "US4977219",
+  :sourcing :authoritative,
+  :filing-year 1986,
+  :assignee :union-carbide-chemicals-and-plastics-technology,
+  :grant-year 1990,
+  :cites
+  ["GB1056202A"
+   "GB851936A"
+   "US2937164"
+   "US3193522"
+   "US3193523"
+   "US3193524"
+   "US3296190"
+   "US3639353"
+   "US3929733"
+   "US4042558"
+   "US4096125"
+   "US4148844"
+   "US4373078"],
+  :term-years 20,
+  :open-license :none}
  {:assignees [:montefiore-medical-center],
   :jurisdiction :us,
   :field "UNKNOWN",
@@ -4768,6 +5023,20 @@
    "US4634602"
    "US4818796"
    "US5068288"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:union-carbide-chemicals-and-plastics-technology],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US5117059/en",
+  :title "Monodisperse multifunctional carbodiimides",
+  :status :granted,
+  :id "US5117059",
+  :sourcing :authoritative,
+  :filing-year 1991,
+  :assignee :union-carbide-chemicals-and-plastics-technology,
+  :grant-year 1992,
+  :cites ["DE924751C" "US4977219"],
   :term-years 20,
   :open-license :none}
  {:assignees [:affymax-technologies],
@@ -5049,6 +5318,37 @@
   :assignee :rohm-and-haas,
   :grant-year 1994,
   :cites ["EP0466409A1" "US4385152" "US4567099"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:davidson-textron],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US5320869/en",
+  :title
+  "Method for producing high gloss bright colored plastic articles",
+  :status :granted,
+  :id "US5320869",
+  :sourcing :authoritative,
+  :filing-year 1992,
+  :assignee :davidson-textron,
+  :grant-year 1994,
+  :cites
+  ["US2993806"
+   "US3992477"
+   "US4101698"
+   "US4349402"
+   "US4369225"
+   "US4407871"
+   "US4431711"
+   "US4524106"
+   "US4551387"
+   "US4699814"
+   "US4713143"
+   "US4911811"
+   "US4923717"
+   "US4956196"
+   "US4971841"
+   "US4975305"],
   :term-years 20,
   :open-license :none}
  {:assignees [:eastman-kodak],
@@ -5386,6 +5686,28 @@
    "WO1992010092A1"
    "WO1992010588A1"
    "WO1993017126A1"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:basf-lacke-und-farben],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US5834555/en",
+  :title
+  "Aqueous multicomponent polyurethane coating composition, process for its preparation and its use in methods of producing a multicoat finish",
+  :status :granted,
+  :id "US5834555",
+  :sourcing :authoritative,
+  :filing-year 1995,
+  :assignee :basf-lacke-und-farben,
+  :grant-year 1998,
+  :cites
+  ["DE3545891A1"
+   "EP0198343A2"
+   "EP0324370A1"
+   "EP0358979A2"
+   "US5276096"
+   "US5574083"
+   "US5614584"],
   :term-years 20,
   :open-license :none}
  {:assignees [:geneco-pty],
@@ -6468,6 +6790,18 @@
   :cites ["US4713143" "US5320869"],
   :term-years 20,
   :open-license :none}
+ {:assignees [:kansai-paint],
+  :jurisdiction :wo,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/WO1997047396A1/en",
+  :title "Method for forming multi-layer metallic coating",
+  :status :pending,
+  :id "WO1997047396A1",
+  :sourcing :authoritative,
+  :filing-year 1997,
+  :assignee :kansai-paint,
+  :term-years 20,
+  :open-license :none}
  {:assignees [:basf-coatings],
   :jurisdiction :wo,
   :field "UNKNOWN",
@@ -6480,6 +6814,19 @@
   :filing-year 1998,
   :assignee :basf-coatings,
   :cites ["DE3109604A1" "EP0518779A1" "US5145893" "US5504178"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:ppg-industries-ohio],
+  :jurisdiction :wo,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/WO2000035600A1/en",
+  :title "Methods for forming composite coatings on substrates",
+  :status :pending,
+  :id "WO2000035600A1",
+  :sourcing :authoritative,
+  :filing-year 1999,
+  :assignee :ppg-industries-ohio,
+  :cites ["EP0238037A2" "EP0899314A1" "US4731290"],
   :term-years 20,
   :open-license :none}
  {:assignees [:mitsui-chemicals],

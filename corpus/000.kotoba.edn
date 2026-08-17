@@ -1311,6 +1311,18 @@
   :cites ["EP0090789A1"],
   :term-years 20,
   :open-license :none}
+ {:assignees [:union-carbide],
+  :jurisdiction :ep,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/EP0241805A2/en",
+  :title "Surface active polycarbodiimides and their dispersions",
+  :status :pending,
+  :id "EP0241805A2",
+  :sourcing :authoritative,
+  :filing-year 1987,
+  :assignee :union-carbide,
+  :term-years 20,
+  :open-license :none}
  {:assignees [:chiron],
   :jurisdiction :ep,
   :field "UNKNOWN",
@@ -1447,6 +1459,20 @@
   :assignee :harvard-university,
   :term-years 20,
   :open-license :none}
+ {:assignees [:akzo],
+  :jurisdiction :ep,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/EP0368375A1/en",
+  :title
+  "Carbodiimide and metal containing emulsion or dispersion coating composition",
+  :status :pending,
+  :id "EP0368375A1",
+  :sourcing :authoritative,
+  :filing-year 1989,
+  :assignee :akzo,
+  :cites ["EP0121083A1"],
+  :term-years 20,
+  :open-license :none}
  {:assignees
   [:ro-institut-za-molekularnu-genetiku-i-geneticko-inzenjerstvo],
   :jurisdiction :ep,
@@ -1486,6 +1512,19 @@
   :sourcing :authoritative,
   :filing-year 1991,
   :assignee :hoechst-celanese,
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:rohm-and-haas],
+  :jurisdiction :ep,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/EP0466409A1/en",
+  :title "Polymer blend",
+  :status :pending,
+  :id "EP0466409A1",
+  :sourcing :authoritative,
+  :filing-year 1991,
+  :assignee :rohm-and-haas,
+  :cites ["EP0064228A1" "US4826907"],
   :term-years 20,
   :open-license :none}
  {:assignees
@@ -1548,6 +1587,25 @@
   :sourcing :authoritative,
   :filing-year 1994,
   :assignee :nippon-paint,
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:nisshin-spinning :nisshinbo-industries],
+  :jurisdiction :ep,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/EP0792908A1/en",
+  :title "Aqueous coating composition",
+  :status :pending,
+  :id "EP0792908A1",
+  :sourcing :authoritative,
+  :filing-year 1997,
+  :assignee :nisshin-spinning,
+  :cites
+  ["DE4410557A1"
+   "EP0241805A2"
+   "EP0368375A1"
+   "US4977219"
+   "US5117059"
+   "US5258481"],
   :term-years 20,
   :open-license :none}
  {:jurisdiction :ep,
@@ -2123,6 +2181,19 @@
   :cites ["GB2109385A" "US4812335" "US4818356"],
   :term-years 20,
   :open-license :none}
+ {:assignees [:honda-motor :kansai-paint],
+  :jurisdiction :gb,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/GB2295974A/en",
+  :title "Process for formation of multilayer film",
+  :status :pending,
+  :id "GB2295974A",
+  :sourcing :authoritative,
+  :filing-year 1995,
+  :assignee :honda-motor,
+  :cites ["EP0388931A2" "US4539258" "US4547410"],
+  :term-years 20,
+  :open-license :none}
  {:assignees [:kansai-paint],
   :jurisdiction :gb,
   :field "UNKNOWN",
@@ -2381,6 +2452,18 @@
   :assignee :secr-defence,
   :term-years 20,
   :open-license :none}
+ {:assignees [:kansai-paint],
+  :jurisdiction :jp,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/JP2000051780A/en",
+  :title "Forming method of double-layered coating film",
+  :status :pending,
+  :id "JP2000051780A",
+  :sourcing :authoritative,
+  :filing-year 1998,
+  :assignee :kansai-paint,
+  :term-years 20,
+  :open-license :none}
  {:assignees [:origin-electric],
   :jurisdiction :jp,
   :field "UNKNOWN",
@@ -2554,6 +2637,31 @@
   :cites ["JP2000062112A"],
   :term-years 20,
   :open-license :none}
+ {:assignees [:nippon-paint],
+  :jurisdiction :jp,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/JP2001009357A/en",
+  :title "Coating method",
+  :status :pending,
+  :id "JP2001009357A",
+  :sourcing :authoritative,
+  :filing-year 2000,
+  :assignee :nippon-paint,
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:nippon-paint],
+  :jurisdiction :jp,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/JP2001026751A/en",
+  :title
+  "Bright coating composition, coating film forming method and coated object",
+  :status :pending,
+  :id "JP2001026751A",
+  :sourcing :authoritative,
+  :filing-year 1999,
+  :assignee :nippon-paint,
+  :term-years 20,
+  :open-license :none}
  {:assignees [:dai-nippon-printing],
   :jurisdiction :jp,
   :field "UNKNOWN",
@@ -2578,6 +2686,18 @@
   :filing-year 2000,
   :assignee :asahi-glass,
   :cites ["JP3062483B2"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:nippon-paint],
+  :jurisdiction :jp,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/JP2001062386A/en",
+  :title "Bright coating film forming method and painted object",
+  :status :pending,
+  :id "JP2001062386A",
+  :sourcing :authoritative,
+  :filing-year 1999,
+  :assignee :nippon-paint,
   :term-years 20,
   :open-license :none}
  {:assignees [:dai-nippon-printing],
@@ -2694,6 +2814,19 @@
  {:assignees [:kansai-paint],
   :jurisdiction :jp,
   :field "UNKNOWN",
+  :source "https://patents.google.com/patent/JP2001246313A/en",
+  :title "Method for forming multiple layer coating film",
+  :status :pending,
+  :id "JP2001246313A",
+  :sourcing :authoritative,
+  :filing-year 2000,
+  :assignee :kansai-paint,
+  :cites ["JP2000000517A"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:kansai-paint],
+  :jurisdiction :jp,
+  :field "UNKNOWN",
   :source "https://patents.google.com/patent/JP2001262053A/en",
   :title "Aqueous two-component primer coating composition",
   :status :pending,
@@ -2788,6 +2921,18 @@
   :sourcing :authoritative,
   :filing-year 2000,
   :assignee :origin-electric,
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:daihatsu-motor :kansai-paint],
+  :jurisdiction :jp,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/JP2002086057A/en",
+  :title "Double-layered metallic coating film formation method",
+  :status :pending,
+  :id "JP2002086057A",
+  :sourcing :authoritative,
+  :filing-year 2000,
+  :assignee :daihatsu-motor,
   :term-years 20,
   :open-license :none}
  {:assignees [:chuo-rika-kogyo],
@@ -8912,170 +9057,5 @@
    "US2681294"
    "US515941"
    "US676237"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:american-cyanamid],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US2858727/en",
-  :title "Device for the measurement of absolute turbidity",
-  :status :granted,
-  :id "US2858727",
-  :sourcing :authoritative,
-  :filing-year 1954,
-  :assignee :american-cyanamid,
-  :grant-year 1958,
-  :cites
-  ["US1277040"
-   "US1569342"
-   "US1971443"
-   "US2045124"
-   "US2213307"
-   "US2309268"
-   "US2436262"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:fibreboard-paper-products],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US2869722/en",
-  :title
-  "Paper products having a release coating and method of preparation thereof",
-  :status :granted,
-  :id "US2869722",
-  :sourcing :authoritative,
-  :filing-year 1957,
-  :assignee :fibreboard-paper-products,
-  :grant-year 1959,
-  :cites ["US2510661" "US2588367" "US2646373" "US2656286" "US2690255"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:monsanto-chemicals],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US2870123/en",
-  :title "Polymeric aminonitriles",
-  :status :granted,
-  :id "US2870123",
-  :sourcing :authoritative,
-  :filing-year 1954,
-  :assignee :monsanto-chemicals,
-  :grant-year 1959,
-  :cites ["DE638071C" "US2228271" "US2387735" "US2653143"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:black-clawson],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US2870738/en",
-  :title "Paper coating machine",
-  :status :granted,
-  :id "US2870738",
-  :sourcing :authoritative,
-  :filing-year 1957,
-  :assignee :black-clawson,
-  :grant-year 1959,
-  :cites ["US1552295" "US194613"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:firestone-tire-and-rubber],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US2874407/en",
-  :title "Latex slab making apparatus",
-  :status :granted,
-  :id "US2874407",
-  :sourcing :authoritative,
-  :filing-year 1955,
-  :assignee :firestone-tire-and-rubber,
-  :grant-year 1959,
-  :cites
-  ["GB699667A"
-   "NL39915C"
-   "US2072597"
-   "US2161308"
-   "US2324977"
-   "US2369484"
-   "US2404582"
-   "US2441235"
-   "US2623239"
-   "US2712154"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:commonwealth-engineering-company-of-ohio],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US2875666/en",
-  :title "Method of simultaneously counting red and white blood cells",
-  :status :granted,
-  :id "US2875666",
-  :sourcing :authoritative,
-  :filing-year 1953,
-  :assignee :commonwealth-engineering-company-of-ohio,
-  :grant-year 1959,
-  :cites
-  ["US1971443"
-   "US1974522"
-   "US2369577"
-   "US2519997"
-   "US2584052"
-   "US2661902"
-   "US2791150"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:stauffer-chemical],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US2882250/en",
-  :title
-  "Process for preparing epoxy resin modified proteins and compositions resulting therefrom",
-  :status :granted,
-  :id "US2882250",
-  :sourcing :authoritative,
-  :filing-year 1955,
-  :assignee :stauffer-chemical,
-  :grant-year 1959,
-  :cites
-  ["US2334270"
-   "US2581464"
-   "US2594293"
-   "US2682514"
-   "US2682515"
-   "US2705223"
-   "US2707177"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:crown-zellerbach],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US2885074/en",
-  :title "Packaging rubber",
-  :status :granted,
-  :id "US2885074",
-  :sourcing :authoritative,
-  :filing-year 1957,
-  :assignee :crown-zellerbach,
-  :grant-year 1959,
-  :cites ["CA508732A" "US2648487" "US2762504"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:johnson-and-johnson],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US2886467/en",
-  :title "Adhesive tapes",
-  :status :granted,
-  :id "US2886467",
-  :sourcing :authoritative,
-  :filing-year 1956,
-  :assignee :johnson-and-johnson,
-  :grant-year 1959,
-  :cites
-  ["US2331894"
-   "US2415839"
-   "US2417792"
-   "US2430479"
-   "US2436222"
-   "US2555745"],
   :term-years 20,
   :open-license :none}]
