@@ -1352,6 +1352,19 @@
   :grant-year 1992,
   :term-years 20,
   :open-license :none}
+ {:assignees [:ppg-industries],
+  :jurisdiction :ep,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/EP0263429A2/en",
+  :title
+  "Epoxy-functional polyurethanes and high solids thermosetting coating compositions thereof and color plus clear mode of applying the same",
+  :status :pending,
+  :id "EP0263429A2",
+  :sourcing :authoritative,
+  :filing-year 1987,
+  :assignee :ppg-industries,
+  :term-years 20,
+  :open-license :none}
  {:assignees [:excorim-kb],
   :jurisdiction :ep,
   :field "UNKNOWN",
@@ -1363,6 +1376,19 @@
   :sourcing :authoritative,
   :filing-year 1987,
   :assignee :excorim-kb,
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:ppg-industries],
+  :jurisdiction :ep,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/EP0275138A2/en",
+  :title
+  "Crosslinkable compositions containing polyepoxides and polyacid curing agents",
+  :status :pending,
+  :id "EP0275138A2",
+  :sourcing :authoritative,
+  :filing-year 1988,
+  :assignee :ppg-industries,
   :term-years 20,
   :open-license :none}
  {:assignees [:nippon-paint],
@@ -1434,6 +1460,32 @@
   :filing-year 1990,
   :assignee
   :ro-institut-za-molekularnu-genetiku-i-geneticko-inzenjerstvo,
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:exxon-chemical-patents],
+  :jurisdiction :ep,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/EP0419088A1/en",
+  :title "Liquid polymer compositions",
+  :status :pending,
+  :id "EP0419088A1",
+  :sourcing :authoritative,
+  :filing-year 1990,
+  :assignee :exxon-chemical-patents,
+  :cites ["US4331782" "US4444980"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:hoechst-celanese],
+  :jurisdiction :ep,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/EP0466359A2/en",
+  :title
+  "Process for making low optical density polymers and copolymers for photoresists and optical applications",
+  :status :pending,
+  :id "EP0466359A2",
+  :sourcing :authoritative,
+  :filing-year 1991,
+  :assignee :hoechst-celanese,
   :term-years 20,
   :open-license :none}
  {:assignees
@@ -1926,6 +1978,18 @@
   :sourcing :authoritative,
   :filing-year 1980,
   :assignee :kansai-paint,
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:nippon-paint],
+  :jurisdiction :gb,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/GB2109385A/en",
+  :title "Metallic coating method and coating compositions",
+  :status :pending,
+  :id "GB2109385A",
+  :sourcing :authoritative,
+  :filing-year 1982,
+  :assignee :nippon-paint,
   :term-years 20,
   :open-license :none}
  {:assignees [:cetus-madison],
@@ -9013,69 +9077,5 @@
    "US2430479"
    "US2436222"
    "US2555745"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:ei-du-pont-de-nemours-and],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US2887473/en",
-  :title "Polymerization of ethylene",
-  :status :granted,
-  :id "US2887473",
-  :sourcing :authoritative,
-  :filing-year 1955,
-  :assignee :ei-du-pont-de-nemours-and,
-  :grant-year 1959,
-  :cites ["US2092295" "US2692258"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:bowater-research-and-development],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US2888902/en",
-  :title "Apparatus for coating paper",
-  :status :granted,
-  :id "US2888902",
-  :sourcing :authoritative,
-  :filing-year 1956,
-  :assignee :bowater-research-and-development,
-  :grant-year 1959,
-  :cites
-  ["US1711596"
-   "US1847065"
-   "US2369378"
-   "US2398844"
-   "US2645201"
-   "US2772184"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:union-carbide],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US2890209/en",
-  :title
-  "Polymers of 3, 4-epoxycyclohexylmethyl 3, 4-epoxycyclohexanecarboxylates",
-  :status :granted,
-  :id "US2890209",
-  :sourcing :authoritative,
-  :filing-year 1956,
-  :assignee :union-carbide,
-  :grant-year 1959,
-  :cites ["US2706181" "US2706182" "US2706189" "US2716123"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:american-cyanamid],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US2906724/en",
-  :title
-  "Composition containing polymethylol melamine and an ammonium salt of a copolymer of an unsaturated monocarboxylic acid and an alkyl ester of such an acid",
-  :status :granted,
-  :id "US2906724",
-  :sourcing :authoritative,
-  :filing-year 1957,
-  :assignee :american-cyanamid,
-  :grant-year 1959,
-  :cites ["US2469408" "US2653140"],
   :term-years 20,
   :open-license :none}]

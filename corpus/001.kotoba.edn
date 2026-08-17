@@ -1,6 +1,70 @@
 [{:assignees [:ei-du-pont-de-nemours-and],
   :jurisdiction :us,
   :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2887473/en",
+  :title "Polymerization of ethylene",
+  :status :granted,
+  :id "US2887473",
+  :sourcing :authoritative,
+  :filing-year 1955,
+  :assignee :ei-du-pont-de-nemours-and,
+  :grant-year 1959,
+  :cites ["US2092295" "US2692258"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:bowater-research-and-development],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2888902/en",
+  :title "Apparatus for coating paper",
+  :status :granted,
+  :id "US2888902",
+  :sourcing :authoritative,
+  :filing-year 1956,
+  :assignee :bowater-research-and-development,
+  :grant-year 1959,
+  :cites
+  ["US1711596"
+   "US1847065"
+   "US2369378"
+   "US2398844"
+   "US2645201"
+   "US2772184"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:union-carbide],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2890209/en",
+  :title
+  "Polymers of 3, 4-epoxycyclohexylmethyl 3, 4-epoxycyclohexanecarboxylates",
+  :status :granted,
+  :id "US2890209",
+  :sourcing :authoritative,
+  :filing-year 1956,
+  :assignee :union-carbide,
+  :grant-year 1959,
+  :cites ["US2706181" "US2706182" "US2706189" "US2716123"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:american-cyanamid],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2906724/en",
+  :title
+  "Composition containing polymethylol melamine and an ammonium salt of a copolymer of an unsaturated monocarboxylic acid and an alkyl ester of such an acid",
+  :status :granted,
+  :id "US2906724",
+  :sourcing :authoritative,
+  :filing-year 1957,
+  :assignee :american-cyanamid,
+  :grant-year 1959,
+  :cites ["US2469408" "US2653140"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:ei-du-pont-de-nemours-and],
+  :jurisdiction :us,
+  :field "UNKNOWN",
   :source "https://patents.google.com/patent/US2909449/en",
   :title "Vinylidene chloride copolymer coating compositions",
   :status :granted,
@@ -8706,6 +8770,30 @@
   :cites ["US2824235" "US3960017" "US4016761"],
   :term-years 20,
   :open-license :none}
+ {:assignees [:union-carbide],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US4137279/en",
+  :title
+  "Copolymers of polycaprolactone derivatives and ethylenically unsaturated monomers",
+  :status :granted,
+  :id "US4137279",
+  :sourcing :authoritative,
+  :filing-year 1977,
+  :assignee :union-carbide,
+  :grant-year 1979,
+  :cites
+  ["US2890197"
+   "US3027357"
+   "US3169945"
+   "US3408421"
+   "US3511792"
+   "US3549586"
+   "US3583955"
+   "US3668178"
+   "US3784586"],
+  :term-years 20,
+  :open-license :none}
  {:assignees [:enzo-biochem],
   :jurisdiction :us,
   :field "UNKNOWN",
@@ -9321,98 +9409,5 @@
    "US3796603"
    "US3980587"
    "US4018627"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:syva],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US4208479/en",
-  :title "Label modified immunoassays",
-  :status :granted,
-  :id "US4208479",
-  :sourcing :authoritative,
-  :filing-year 1977,
-  :assignee :syva,
-  :grant-year 1980,
-  :cites ["US3996345" "US3998943" "US4036946"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:rohm-and-haas],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US4217421/en",
-  :title
-  "Anion exchange resins prepared from crosslinked polystyrenesulfonylchloride",
-  :status :granted,
-  :id "US4217421",
-  :sourcing :authoritative,
-  :filing-year 1978,
-  :assignee :rohm-and-haas,
-  :grant-year 1980,
-  :cites ["US2778813" "US2867611" "US2906715" "US3128257" "US3133030"],
-  :term-years 20,
-  :open-license :none}
- {:jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US4218539/en",
-  :title "Enzyme conjugates and method of preparation and use",
-  :status :granted,
-  :id "US4218539",
-  :sourcing :authoritative,
-  :filing-year 1978,
-  :assignee :unassigned,
-  :grant-year 1980,
-  :cites ["US4144131"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:syva],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US4220450/en",
-  :title "Chemically induced fluorescence immunoassay",
-  :status :granted,
-  :id "US4220450",
-  :sourcing :authoritative,
-  :filing-year 1978,
-  :assignee :syva,
-  :grant-year 1980,
-  :cites
-  ["US3575812"
-   "US3660240"
-   "US3852157"
-   "US3996345"
-   "US3998943"
-   "US3999298"
-   "US4043872"
-   "US4104029"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:syva],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US4220722/en",
-  :title
-  "Method for conjugating to polyamino compounds employing haloacyl groups and compositions prepared thereby",
-  :status :granted,
-  :id "US4220722",
-  :sourcing :authoritative,
-  :filing-year 1978,
-  :assignee :syva,
-  :grant-year 1980,
-  :cites ["US4067774" "US4100268" "US4144131"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:scripps-clinic-and-research-foundation],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US4222907/en",
-  :title "Induction of immunological tolerance",
-  :status :granted,
-  :id "US4222907",
-  :sourcing :authoritative,
-  :filing-year 1978,
-  :assignee :scripps-clinic-and-research-foundation,
-  :grant-year 1980,
-  :cites ["US3794630"],
   :term-years 20,
   :open-license :none}]

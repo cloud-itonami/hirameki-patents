@@ -1,4 +1,97 @@
-[{:assignees [:university-of-illinois-foundation],
+[{:assignees [:syva],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US4208479/en",
+  :title "Label modified immunoassays",
+  :status :granted,
+  :id "US4208479",
+  :sourcing :authoritative,
+  :filing-year 1977,
+  :assignee :syva,
+  :grant-year 1980,
+  :cites ["US3996345" "US3998943" "US4036946"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:rohm-and-haas],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US4217421/en",
+  :title
+  "Anion exchange resins prepared from crosslinked polystyrenesulfonylchloride",
+  :status :granted,
+  :id "US4217421",
+  :sourcing :authoritative,
+  :filing-year 1978,
+  :assignee :rohm-and-haas,
+  :grant-year 1980,
+  :cites ["US2778813" "US2867611" "US2906715" "US3128257" "US3133030"],
+  :term-years 20,
+  :open-license :none}
+ {:jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US4218539/en",
+  :title "Enzyme conjugates and method of preparation and use",
+  :status :granted,
+  :id "US4218539",
+  :sourcing :authoritative,
+  :filing-year 1978,
+  :assignee :unassigned,
+  :grant-year 1980,
+  :cites ["US4144131"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:syva],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US4220450/en",
+  :title "Chemically induced fluorescence immunoassay",
+  :status :granted,
+  :id "US4220450",
+  :sourcing :authoritative,
+  :filing-year 1978,
+  :assignee :syva,
+  :grant-year 1980,
+  :cites
+  ["US3575812"
+   "US3660240"
+   "US3852157"
+   "US3996345"
+   "US3998943"
+   "US3999298"
+   "US4043872"
+   "US4104029"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:syva],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US4220722/en",
+  :title
+  "Method for conjugating to polyamino compounds employing haloacyl groups and compositions prepared thereby",
+  :status :granted,
+  :id "US4220722",
+  :sourcing :authoritative,
+  :filing-year 1978,
+  :assignee :syva,
+  :grant-year 1980,
+  :cites ["US4067774" "US4100268" "US4144131"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:scripps-clinic-and-research-foundation],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US4222907/en",
+  :title "Induction of immunological tolerance",
+  :status :granted,
+  :id "US4222907",
+  :sourcing :authoritative,
+  :filing-year 1978,
+  :assignee :scripps-clinic-and-research-foundation,
+  :grant-year 1980,
+  :cites ["US3794630"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:university-of-illinois-foundation],
   :jurisdiction :us,
   :field "UNKNOWN",
   :source "https://patents.google.com/patent/US4223005/en",
@@ -1266,6 +1359,19 @@
    "US4146603"],
   :term-years 20,
   :open-license :none}
+ {:jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US4385152/en",
+  :title "Acrylic polymer emulsion",
+  :status :granted,
+  :id "US4385152",
+  :sourcing :authoritative,
+  :filing-year 1981,
+  :assignee :unassigned,
+  :grant-year 1983,
+  :cites ["US3401134" "US3458603" "US3787522" "US3985703"],
+  :term-years 20,
+  :open-license :none}
  {:assignees
   [:istituto-sieroterapico-e-vaccinogeno-toscano-sclavo-spa],
   :jurisdiction :us,
@@ -2311,6 +2417,26 @@
   :cites ["US4302204" "US4358535"],
   :term-years 20,
   :open-license :none}
+ {:assignees [:takeda-chemical-industries],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US4546153/en",
+  :title "Method for curing polyurethane compounds",
+  :status :granted,
+  :id "US4546153",
+  :sourcing :authoritative,
+  :filing-year 1984,
+  :assignee :takeda-chemical-industries,
+  :grant-year 1985,
+  :cites
+  ["US3730953"
+   "US3874898"
+   "US4408034"
+   "US4443590"
+   "US4443597"
+   "US4456744"],
+  :term-years 20,
+  :open-license :none}
  {:assignees [:cetus],
   :jurisdiction :us,
   :field "UNKNOWN",
@@ -2515,6 +2641,20 @@
    "US4302204"
    "US4358535"
    "US4359535"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:dow-chemical],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US4567099/en",
+  :title "High solids latexes for paper coatings",
+  :status :granted,
+  :id "US4567099",
+  :sourcing :authoritative,
+  :filing-year 1984,
+  :assignee :dow-chemical,
+  :grant-year 1986,
+  :cites ["US4474860"],
   :term-years 20,
   :open-license :none}
  {:assignees [:philip-morris-usa],
@@ -3153,6 +3293,27 @@
    "WO1983003426A1"],
   :term-years 20,
   :open-license :none}
+ {:assignees [:celanese],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US4678843/en",
+  :title
+  "Process for the ammonium hydroxide hydrolysis of polymers of acetoxystyrene to polymers of vinylphenol",
+  :status :granted,
+  :id "US4678843",
+  :sourcing :authoritative,
+  :filing-year 1986,
+  :assignee :celanese,
+  :grant-year 1987,
+  :cites
+  ["US2276138"
+   "US3547858"
+   "US3963662"
+   "US3970534"
+   "US4129617"
+   "US4544704"],
+  :term-years 20,
+  :open-license :none}
  {:assignees [:cetus],
   :jurisdiction :us,
   :field "UNKNOWN",
@@ -3434,6 +3595,123 @@
   :assignee :boston-university,
   :grant-year 1988,
   :cites ["US4103064" "US4103073" "US4170512" "US4254174"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:ppg-industries],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US4732790/en",
+  :title
+  "Color plus clear application of thermosetting high solids coating composition of hydroxy-functional epoxies and anhydrides",
+  :status :granted,
+  :id "US4732790",
+  :sourcing :authoritative,
+  :filing-year 1986,
+  :assignee :ppg-industries,
+  :grant-year 1988,
+  :cites
+  ["GB994907A"
+   "US2683131"
+   "US2712535"
+   "US2857354"
+   "US2890194"
+   "US2890210"
+   "US3008914"
+   "US3179714"
+   "US3215756"
+   "US3218274"
+   "US3269975"
+   "US3408215"
+   "US3523143"
+   "US3528935"
+   "US3781380"
+   "US3785635"
+   "US3787521"
+   "US3925507"
+   "US3932367"
+   "US3953644"
+   "US3954712"
+   "US3975314"
+   "US4046727"
+   "US4076676"
+   "US4102942"
+   "US4220679"
+   "US4226755"
+   "US4291137"
+   "US4322456"
+   "US4346144"
+   "US4350790"
+   "US4352842"
+   "US4359554"
+   "US4403003"
+   "US4403093"
+   "US4418182"
+   "US4452948"
+   "US4465815"
+   "US4471025"
+   "US4481239"
+   "US4508767"
+   "US4548963"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:ppg-industries],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US4732791/en",
+  :title
+  "Color plus clear application of thermosetting high solids coating composition of epoxies, polyols and anhydrides",
+  :status :granted,
+  :id "US4732791",
+  :sourcing :authoritative,
+  :filing-year 1986,
+  :assignee :ppg-industries,
+  :grant-year 1988,
+  :cites
+  ["GB994907A"
+   "US2683131"
+   "US2712535"
+   "US2857354"
+   "US2890194"
+   "US2890210"
+   "US3008914"
+   "US3179714"
+   "US3215756"
+   "US3218274"
+   "US3269975"
+   "US3408215"
+   "US3523143"
+   "US3528935"
+   "US3781380"
+   "US3785635"
+   "US3787521"
+   "US3925507"
+   "US3932367"
+   "US3953644"
+   "US3954712"
+   "US3975314"
+   "US4046727"
+   "US4076676"
+   "US4102942"
+   "US4220679"
+   "US4226755"
+   "US4291137"
+   "US4322456"
+   "US4346144"
+   "US4350790"
+   "US4352842"
+   "US4359554"
+   "US4403003"
+   "US4403093"
+   "US4418182"
+   "US4452948"
+   "US4465815"
+   "US4471025"
+   "US4481239"
+   "US4508767"
+   "US4548963"
+   "WO1984000768A1"
+   "WO1984000770A1"
+   "WO1984000771A1"],
   :term-years 20,
   :open-license :none}
  {:assignees [:molecular-diagnostics],
@@ -3771,6 +4049,34 @@
   :cites ["US4391858" "US4403003" "US4490417"],
   :term-years 20,
   :open-license :none}
+ {:assignees [:basf-lacke-und-farben],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US4818356/en",
+  :title
+  "Process for multicoat cathodic wet-on-wet painting of metallic conductive substrates",
+  :status :granted,
+  :id "US4818356",
+  :sourcing :authoritative,
+  :filing-year 1985,
+  :assignee :basf-lacke-und-farben,
+  :grant-year 1989,
+  :cites
+  ["EP0102566A1"
+   "GB1309356A"
+   "US4175018"
+   "US4259163"
+   "US4310398"
+   "US4375498"
+   "US4404332"
+   "US4430462"
+   "US4456507"
+   "US4500399"
+   "US4536558"
+   "US4557976"
+   "US4595717"],
+  :term-years 20,
+  :open-license :none}
  {:assignees [:tufts-university],
   :jurisdiction :us,
   :field "UNKNOWN",
@@ -3833,6 +4139,21 @@
    "US4318846"
    "US4415732"
    "US4458066"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:hoechst-celanese],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US4857601/en",
+  :title
+  "Selective hydrolysis of copolymers of para-acetoxy styrene and dialkyl muconates or alkyl sorbates",
+  :status :granted,
+  :id "US4857601",
+  :sourcing :authoritative,
+  :filing-year 1987,
+  :assignee :hoechst-celanese,
+  :grant-year 1989,
+  :cites ["US4689371" "US4775730"],
   :term-years 20,
   :open-license :none}
  {:assignees [:new-york-medical-college],
@@ -3992,6 +4313,21 @@
    "US4264327"
    "US4277560"
    "US4456689"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:hoechst-celanese],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US4898916/en",
+  :title
+  "Process for the preparation of poly(vinylphenol) from poly(acetoxystyrene) by acid catalyzed transesterification",
+  :status :granted,
+  :id "US4898916",
+  :sourcing :authoritative,
+  :filing-year 1988,
+  :assignee :hoechst-celanese,
+  :grant-year 1990,
+  :cites ["US3970534" "US4129617" "US4678843" "US4689371"],
   :term-years 20,
   :open-license :none}
  {:assignees [:bresatac],
@@ -4324,6 +4660,38 @@
    "WO1985002628A1"],
   :term-years 20,
   :open-license :none}
+ {:assignees [:basf-se],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US5049599/en",
+  :title
+  "Flameproofed thermoplastic molding compositions based on phlegmatized red phosphorus",
+  :status :granted,
+  :id "US5049599",
+  :sourcing :authoritative,
+  :filing-year 1990,
+  :assignee :basf-se,
+  :grant-year 1991,
+  :cites
+  ["DE2408488A1"
+   "DE2625674A1"
+   "DE2703052A1"
+   "DE2745076A1"
+   "EP0071788A1"
+   "GB1543511A"
+   "GB1592813A"
+   "US4105735"
+   "US4188313"
+   "US4229340"
+   "US4430484"
+   "US4554320"
+   "US4772642"
+   "US4788249"
+   "US4849476"
+   "US4879067"
+   "US4923924"],
+  :term-years 20,
+  :open-license :none}
  {:assignees [:mitsubishi-rayon],
   :jurisdiction :us,
   :field "UNKNOWN",
@@ -4376,6 +4744,30 @@
    "US4539061"
    "US4587203"
    "US4661372"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:ppg-industries],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US5106651/en",
+  :title
+  "Method for improving resistance to water spotting and acid etching of coatings by exposure to UV radiation",
+  :status :granted,
+  :id "US5106651",
+  :sourcing :authoritative,
+  :filing-year 1991,
+  :assignee :ppg-industries,
+  :grant-year 1992,
+  :cites
+  ["US2236397"
+   "US3567494"
+   "US4066523"
+   "US4069364"
+   "US4205115"
+   "US4605465"
+   "US4634602"
+   "US4818796"
+   "US5068288"],
   :term-years 20,
   :open-license :none}
  {:assignees [:affymax-technologies],
@@ -4480,6 +4872,28 @@
    "US5026749"],
   :term-years 20,
   :open-license :none}
+ {:assignees [:kansai-paint],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US5166265/en",
+  :title
+  "Resin composition, curable composition and coating composition",
+  :status :granted,
+  :id "US5166265",
+  :sourcing :authoritative,
+  :filing-year 1990,
+  :assignee :kansai-paint,
+  :grant-year 1992,
+  :cites
+  ["US4015057"
+   "US4338376"
+   "US4354013"
+   "US4772672"
+   "US4876298"
+   "US4960827"
+   "US5026793"],
+  :term-years 20,
+  :open-license :none}
  {:jurisdiction :us,
   :field "UNKNOWN",
   :source "https://patents.google.com/patent/US5202231/en",
@@ -4563,6 +4977,49 @@
    "US4687808"
    "WO1985004674A1"
    "WO1988001302A1"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:daikin-industries],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US5229461/en",
+  :title
+  "Vinylidene fluoride copolymer and composition containing the same",
+  :status :granted,
+  :id "US5229461",
+  :sourcing :authoritative,
+  :filing-year 1991,
+  :assignee :daikin-industries,
+  :grant-year 1993,
+  :cites
+  ["EP0190654A2"
+   "EP0328157A1"
+   "US4028431"
+   "US4197380"
+   "US4345057"
+   "US4575533"
+   "US4612351"
+   "US4617351"
+   "US4631326"
+   "US4731417"
+   "US4935467"
+   "US4954589"
+   "US5008340"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:nippon-paint],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US5270392/en",
+  :title
+  "Hydroxyl polyglycidyl ether or acrylic copolymer with anhydride copolymer",
+  :status :granted,
+  :id "US5270392",
+  :sourcing :authoritative,
+  :filing-year 1991,
+  :assignee :nippon-paint,
+  :grant-year 1993,
+  :cites ["US3399109" "US3900440" "US4288493" "US5073602"],
   :term-years 20,
   :open-license :none}
  {:assignees [:beckman-instruments],
