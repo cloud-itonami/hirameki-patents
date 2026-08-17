@@ -1,4 +1,185 @@
-[{:assignees [:bard-laboratories],
+[{:assignees [:electric-power-research-institute],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US4179927/en",
+  :title "Temperature sensing device",
+  :status :granted,
+  :id "US4179927",
+  :sourcing :authoritative,
+  :filing-year 1977,
+  :assignee :electric-power-research-institute,
+  :grant-year 1979,
+  :cites
+  ["US3513704"
+   "US3591810"
+   "US3672221"
+   "US3770965"
+   "US3863067"
+   "US3960017"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:varian-associates],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US4180739/en",
+  :title "Thermostatable flow cell for fluorescence measurements",
+  :status :granted,
+  :id "US4180739",
+  :sourcing :authoritative,
+  :filing-year 1977,
+  :assignee :varian-associates,
+  :grant-year 1979,
+  :cites ["US3151204" "US3869215" "US4008397" "US4082459"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:airco],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US4180771/en",
+  :title "Chemical-sensitive field-effect transistor",
+  :status :granted,
+  :id "US4180771",
+  :sourcing :authoritative,
+  :filing-year 1977,
+  :assignee :airco,
+  :grant-year 1979,
+  :cites ["US3311756" "US3381432" "US3999122" "US4020830"],
+  :term-years 20,
+  :open-license :none}
+ {:jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US4182750/en",
+  :title "Bloodcompatible functional polymers",
+  :status :granted,
+  :id "US4182750",
+  :sourcing :authoritative,
+  :filing-year 1977,
+  :assignee :unassigned,
+  :grant-year 1980,
+  :cites
+  ["US3434467"
+   "US3514438"
+   "US3673612"
+   "US3853987"
+   "US3938953"
+   "US3959079"
+   "US3995019"
+   "US4008047"
+   "US4010250"
+   "US4012317"
+   "US4031201"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:sandoz],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US4184917/en",
+  :title "Process for producing a structurally modified interferon",
+  :status :granted,
+  :id "US4184917",
+  :sourcing :authoritative,
+  :filing-year 1977,
+  :assignee :sandoz,
+  :grant-year 1980,
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:government-of-the-united-states-of-america],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US4184922/en",
+  :title
+  "Dual circuit, woven artificial capillary bundle for cell culture",
+  :status :granted,
+  :id "US4184922",
+  :sourcing :authoritative,
+  :filing-year 1977,
+  :assignee :government-of-the-united-states-of-america,
+  :grant-year 1980,
+  :cites
+  ["US3732149"
+   "US3740321"
+   "US3821087"
+   "US3827943"
+   "US3843454"
+   "US3847749"
+   "US3853712"
+   "US3883393"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:research],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US4190495/en",
+  :title
+  "Modified microorganisms and method of preparing and using same",
+  :status :granted,
+  :id "US4190495",
+  :sourcing :authoritative,
+  :filing-year 1976,
+  :assignee :research,
+  :grant-year 1980,
+  :term-years 20,
+  :open-license :none}
+ {:jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US4192748/en",
+  :title "Dialysis apparatus with selective chemical activity",
+  :status :granted,
+  :id "US4192748",
+  :sourcing :authoritative,
+  :filing-year 1976,
+  :assignee :unassigned,
+  :grant-year 1980,
+  :cites
+  ["US3503877"
+   "US3522346"
+   "US3579441"
+   "US3608729"
+   "US3619423"
+   "US3645852"
+   "US3703959"
+   "US3880760"
+   "US3888250"
+   "US4061141"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:institut-pasteur],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US4193982/en",
+  :title
+  "Process for coupling biological substances by covalent bonds",
+  :status :granted,
+  :id "US4193982",
+  :sourcing :authoritative,
+  :filing-year 1976,
+  :assignee :institut-pasteur,
+  :grant-year 1980,
+  :cites ["GB1257263A" "US3322634"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:syva],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US4193983/en",
+  :title
+  "Labeled liposome particle compositions and immunoassays therewith",
+  :status :granted,
+  :id "US4193983",
+  :sourcing :authoritative,
+  :filing-year 1978,
+  :assignee :syva,
+  :grant-year 1980,
+  :cites
+  ["US3849546"
+   "US3882224"
+   "US3887698"
+   "US3949065"
+   "US3996345"
+   "US4104029"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:bard-laboratories],
   :jurisdiction :us,
   :field "UNKNOWN",
   :source "https://patents.google.com/patent/US4199649/en",
@@ -2374,6 +2555,20 @@
   :grant-year 1891,
   :term-years 20,
   :open-license :none}
+ {:assignees [:dai-nippon-toryo :mitsubishi-petrochemical],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US4514445/en",
+  :title "Process for forming a corrosion resistant coating",
+  :status :granted,
+  :id "US4514445",
+  :sourcing :authoritative,
+  :filing-year 1983,
+  :assignee :dai-nippon-toryo,
+  :grant-year 1985,
+  :cites ["US4098928" "US4147675" "US4279962" "US4346143" "US4396650"],
+  :term-years 20,
+  :open-license :none}
  {:assignees [:us-department-of-health-and-human-services],
   :jurisdiction :us,
   :field "UNKNOWN",
@@ -2525,6 +2720,30 @@
   :assignee :new-york-university-nyu,
   :grant-year 1985,
   :cites ["US4358535"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:ford-motor],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US4533703/en",
+  :title
+  "Flexible basecoat/two component clearcoat coating composition",
+  :status :granted,
+  :id "US4533703",
+  :sourcing :authoritative,
+  :filing-year 1984,
+  :assignee :ford-motor,
+  :grant-year 1985,
+  :cites
+  ["US3763079"
+   "US3882189"
+   "US3954899"
+   "US3962522"
+   "US4017456"
+   "US4021505"
+   "US4034017"
+   "US4205115"
+   "US4208495"],
   :term-years 20,
   :open-license :none}
  {:assignees [:massachusetts-institute-of-technology],
@@ -5351,6 +5570,29 @@
    "US4975305"],
   :term-years 20,
   :open-license :none}
+ {:assignees [:basf-lacke-und-farben],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US5322715/en",
+  :title "Process for production of a multicoat coating",
+  :status :granted,
+  :id "US5322715",
+  :sourcing :authoritative,
+  :filing-year 1990,
+  :assignee :basf-lacke-und-farben,
+  :grant-year 1994,
+  :cites
+  ["CA2004988A1"
+   "GB2034334A"
+   "GB2060654A"
+   "US3823205"
+   "US3998768"
+   "US4150005"
+   "US4151143"
+   "US4385152"
+   "US4973621"],
+  :term-years 20,
+  :open-license :none}
  {:assignees [:eastman-kodak],
   :jurisdiction :us,
   :field "UNKNOWN",
@@ -5633,6 +5875,21 @@
    "WO1994027741A1"],
   :term-years 20,
   :open-license :none}
+ {:assignees [:basf-lacke-und-farben],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US5635564/en",
+  :title
+  "Preparation of a multicoat coating, water-thinnable coating compositions, water-thinnable emulsion polymers and preparation of water-thinnable emulsion polymers",
+  :status :granted,
+  :id "US5635564",
+  :sourcing :authoritative,
+  :filing-year 1994,
+  :assignee :basf-lacke-und-farben,
+  :grant-year 1997,
+  :cites ["EP0287144A1" "EP0332011A1" "US4539363" "US4565730"],
+  :term-years 20,
+  :open-license :none}
  {:assignees [:isis-pharmaceuticals],
   :jurisdiction :us,
   :field "UNKNOWN",
@@ -5645,6 +5902,39 @@
   :assignee :isis-pharmaceuticals,
   :grant-year 1997,
   :cites ["US4415732" "US5212295"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:nippon-paint],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US5700862/en",
+  :title "Aqueous coating composition",
+  :status :granted,
+  :id "US5700862",
+  :sourcing :authoritative,
+  :filing-year 1995,
+  :assignee :nippon-paint,
+  :grant-year 1997,
+  :cites
+  ["US4022737"
+   "US4277385"
+   "US4283320"
+   "US4403003"
+   "US4469825"
+   "US4489135"
+   "US4522961"
+   "US4624973"
+   "US4683260"
+   "US4777213"
+   "US4803252"
+   "US4908468"
+   "US4920175"
+   "US5017646"
+   "US5115020"
+   "US5166254"
+   "US5183504"
+   "US5331042"
+   "US5371148"],
   :term-years 20,
   :open-license :none}
  {:assignees [:affymetrix],
@@ -6535,6 +6825,41 @@
    "US4486539"],
   :term-years 20,
   :open-license :none}
+ {:assignees [:ei-du-pont-de-nemours-and],
+  :jurisdiction :wo,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/WO1988002381A1/en",
+  :title "Pigment dispersant resin with s-containing acid",
+  :status :pending,
+  :id "WO1988002381A1",
+  :sourcing :authoritative,
+  :filing-year 1987,
+  :assignee :ei-du-pont-de-nemours-and,
+  :cites
+  ["EP0058865A2"
+   "EP0129329B1"
+   "US2914499"
+   "US3711449"
+   "US3898037"
+   "US4001150"
+   "US4008293"
+   "US4177178"
+   "US4450013"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:ei-du-pont-de-nemours-and],
+  :jurisdiction :wo,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/WO1988002382A1/en",
+  :title "Pigment dispersant resin with p-containing acid",
+  :status :pending,
+  :id "WO1988002382A1",
+  :sourcing :authoritative,
+  :filing-year 1987,
+  :assignee :ei-du-pont-de-nemours-and,
+  :cites ["EP0170474A2" "US4001150" "US4612384"],
+  :term-years 20,
+  :open-license :none}
  {:assignees [:harvard-university],
   :jurisdiction :wo,
   :field "UNKNOWN",
@@ -6869,6 +7194,19 @@
   :filing-year 2003,
   :assignee :nippon-paint,
   :cites ["GB2360227A" "US5635251" "WO1996022339A1"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:kansai-paint],
+  :jurisdiction :wo,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/WO2004074327A1/en",
+  :title "Process for producing aqueous resin dispersion",
+  :status :pending,
+  :id "WO2004074327A1",
+  :sourcing :authoritative,
+  :filing-year 2004,
+  :assignee :kansai-paint,
+  :cites ["JP2000095980A" "JP2000226537A" "JP2003231859A"],
   :term-years 20,
   :open-license :none}
  {:assignees [:ishihara-sangyo-kaisha :kansai-paint],
