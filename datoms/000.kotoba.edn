@@ -543,6 +543,47 @@
   ":hirameki/source"
   "https://patents.google.com/patent/DE2440367A1/en"]
  [":db/add"
+  "hirameki-patent:DE2535554A1"
+  ":hirameki.patent/title"
+  "BIOLOGICAL PROCEDURE"]
+ [":db/add"
+  "hirameki-patent:DE2535554A1"
+  ":hirameki.patent/jurisdiction"
+  ":de"]
+ [":db/add"
+  "hirameki-patent:DE2535554A1"
+  ":hirameki.patent/field"
+  "UNKNOWN"]
+ [":db/add"
+  "hirameki-patent:DE2535554A1"
+  ":hirameki.patent/assignee"
+  ":imperial-chemical-industries"]
+ [":db/add"
+  "hirameki-patent:DE2535554A1"
+  ":hirameki.patent/status"
+  ":pending"]
+ [":db/add"
+  "hirameki-patent:DE2535554A1"
+  ":hirameki.patent/open-license"
+  ":none"]
+ [":db/add"
+  "hirameki-patent:DE2535554A1"
+  ":hirameki.obs/release-status"
+  ":pending"]
+ [":db/add"
+  "hirameki-patent:DE2535554A1"
+  ":hirameki/sourcing"
+  ":authoritative"]
+ [":db/add" "hirameki-patent:DE2535554A1" ":hirameki/derived" true]
+ [":db/add"
+  "hirameki-patent:DE2535554A1"
+  ":hirameki.obs/years-to-expiry"
+  -31]
+ [":db/add"
+  "hirameki-patent:DE2535554A1"
+  ":hirameki/source"
+  "https://patents.google.com/patent/DE2535554A1/en"]
+ [":db/add"
   "hirameki-patent:DE2638207A1"
   ":hirameki.patent/title"
   "METHOD OF FORMING MULTIMOLECULAR IMMUNOLOGICALLY COMPLEX FILMS"]
@@ -9940,45 +9981,4 @@
   "hirameki-patent:JP2002086057A"
   ":hirameki/sourcing"
   ":authoritative"]
- [":db/add" "hirameki-patent:JP2002086057A" ":hirameki/derived" true]
- [":db/add"
-  "hirameki-patent:JP2002086057A"
-  ":hirameki.obs/years-to-expiry"
-  -6]
- [":db/add"
-  "hirameki-patent:JP2002086057A"
-  ":hirameki/source"
-  "https://patents.google.com/patent/JP2002086057A/en"]
- [":db/add"
-  "hirameki-patent:JP2002105111A"
-  ":hirameki.patent/title"
-  "Aqueous resin emulsion composition"]
- [":db/add"
-  "hirameki-patent:JP2002105111A"
-  ":hirameki.patent/jurisdiction"
-  ":jp"]
- [":db/add"
-  "hirameki-patent:JP2002105111A"
-  ":hirameki.patent/field"
-  "UNKNOWN"]
- [":db/add"
-  "hirameki-patent:JP2002105111A"
-  ":hirameki.patent/assignee"
-  ":chuo-rika-kogyo"]
- [":db/add"
-  "hirameki-patent:JP2002105111A"
-  ":hirameki.patent/status"
-  ":pending"]
- [":db/add"
-  "hirameki-patent:JP2002105111A"
-  ":hirameki.patent/open-license"
-  ":none"]
- [":db/add"
-  "hirameki-patent:JP2002105111A"
-  ":hirameki.obs/release-status"
-  ":pending"]
- [":db/add"
-  "hirameki-patent:JP2002105111A"
-  ":hirameki/sourcing"
-  ":authoritative"]
- [":db/add" "hirameki-patent:JP2002105111A" ":hirameki/derived" true]]
+ [":db/add" "hirameki-patent:JP2002086057A" ":hirameki/derived" true]]

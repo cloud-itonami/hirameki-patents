@@ -1,4 +1,45 @@
 [[":db/add"
+  "hirameki-patent:JP2002086057A"
+  ":hirameki.obs/years-to-expiry"
+  -6]
+ [":db/add"
+  "hirameki-patent:JP2002086057A"
+  ":hirameki/source"
+  "https://patents.google.com/patent/JP2002086057A/en"]
+ [":db/add"
+  "hirameki-patent:JP2002105111A"
+  ":hirameki.patent/title"
+  "Aqueous resin emulsion composition"]
+ [":db/add"
+  "hirameki-patent:JP2002105111A"
+  ":hirameki.patent/jurisdiction"
+  ":jp"]
+ [":db/add"
+  "hirameki-patent:JP2002105111A"
+  ":hirameki.patent/field"
+  "UNKNOWN"]
+ [":db/add"
+  "hirameki-patent:JP2002105111A"
+  ":hirameki.patent/assignee"
+  ":chuo-rika-kogyo"]
+ [":db/add"
+  "hirameki-patent:JP2002105111A"
+  ":hirameki.patent/status"
+  ":pending"]
+ [":db/add"
+  "hirameki-patent:JP2002105111A"
+  ":hirameki.patent/open-license"
+  ":none"]
+ [":db/add"
+  "hirameki-patent:JP2002105111A"
+  ":hirameki.obs/release-status"
+  ":pending"]
+ [":db/add"
+  "hirameki-patent:JP2002105111A"
+  ":hirameki/sourcing"
+  ":authoritative"]
+ [":db/add" "hirameki-patent:JP2002105111A" ":hirameki/derived" true]
+ [":db/add"
   "hirameki-patent:JP2002105111A"
   ":hirameki.obs/years-to-expiry"
   -6]
@@ -10056,46 +10097,5 @@
  [":db/add" "hirameki-patent:US2286259" ":hirameki/derived" true]
  [":db/add"
   "hirameki-patent:US2286259"
-  ":hirameki.obs/years-to-expiry"
-  -66]
- [":db/add"
-  "hirameki-patent:US2286259"
-  ":hirameki/source"
-  "https://patents.google.com/patent/US2286259/en"]
- [":db/add"
-  "hirameki-patent:US2290238"
-  ":hirameki.patent/title"
-  "Flocked material and method of producing the same"]
- [":db/add"
-  "hirameki-patent:US2290238"
-  ":hirameki.patent/jurisdiction"
-  ":us"]
- [":db/add"
-  "hirameki-patent:US2290238"
-  ":hirameki.patent/field"
-  "UNKNOWN"]
- [":db/add"
-  "hirameki-patent:US2290238"
-  ":hirameki.patent/assignee"
-  ":hickok-manufacturing"]
- [":db/add"
-  "hirameki-patent:US2290238"
-  ":hirameki.patent/status"
-  ":granted"]
- [":db/add"
-  "hirameki-patent:US2290238"
-  ":hirameki.patent/open-license"
-  ":none"]
- [":db/add"
-  "hirameki-patent:US2290238"
-  ":hirameki.obs/release-status"
-  ":public-domain"]
- [":db/add"
-  "hirameki-patent:US2290238"
-  ":hirameki/sourcing"
-  ":authoritative"]
- [":db/add" "hirameki-patent:US2290238" ":hirameki/derived" true]
- [":db/add"
-  "hirameki-patent:US2290238"
   ":hirameki.obs/years-to-expiry"
   -66]]

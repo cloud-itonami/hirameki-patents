@@ -168,6 +168,18 @@
   :cites ["DE1598859B2"],
   :term-years 20,
   :open-license :none}
+ {:assignees [:imperial-chemical-industries],
+  :jurisdiction :de,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/DE2535554A1/en",
+  :title "BIOLOGICAL PROCEDURE",
+  :status :pending,
+  :id "DE2535554A1",
+  :sourcing :authoritative,
+  :filing-year 1975,
+  :assignee :imperial-chemical-industries,
+  :term-years 20,
+  :open-license :none}
  {:assignees [:general-electric],
   :jurisdiction :de,
   :field "UNKNOWN",
@@ -8983,28 +8995,5 @@
    "US2392972"
    "US2571725"
    "US450963"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:hercules-powder],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US2776912/en",
-  :title
-  "Process of coating paper with a gellable water-soluble cellulose derivative and pigment and gelling said coating",
-  :status :granted,
-  :id "US2776912",
-  :sourcing :authoritative,
-  :filing-year 1952,
-  :assignee :hercules-powder,
-  :grant-year 1957,
-  :cites
-  ["FR856012A"
-   "US2235798"
-   "US2297698"
-   "US2370517"
-   "US2502783"
-   "US2635972"
-   "US2640790"
-   "US2655864"],
   :term-years 20,
   :open-license :none}]
