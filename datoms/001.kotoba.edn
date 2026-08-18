@@ -1,5 +1,38 @@
 [[":db/add"
   "hirameki-patent:JP2002020691A"
+  ":hirameki.patent/title"
+  "Matte paint composition"]
+ [":db/add"
+  "hirameki-patent:JP2002020691A"
+  ":hirameki.patent/jurisdiction"
+  ":jp"]
+ [":db/add"
+  "hirameki-patent:JP2002020691A"
+  ":hirameki.patent/field"
+  "UNKNOWN"]
+ [":db/add"
+  "hirameki-patent:JP2002020691A"
+  ":hirameki.patent/assignee"
+  ":origin-electric"]
+ [":db/add"
+  "hirameki-patent:JP2002020691A"
+  ":hirameki.patent/status"
+  ":pending"]
+ [":db/add"
+  "hirameki-patent:JP2002020691A"
+  ":hirameki.patent/open-license"
+  ":none"]
+ [":db/add"
+  "hirameki-patent:JP2002020691A"
+  ":hirameki.obs/release-status"
+  ":pending"]
+ [":db/add"
+  "hirameki-patent:JP2002020691A"
+  ":hirameki/sourcing"
+  ":authoritative"]
+ [":db/add" "hirameki-patent:JP2002020691A" ":hirameki/derived" true]
+ [":db/add"
+  "hirameki-patent:JP2002020691A"
   ":hirameki.obs/years-to-expiry"
   -6]
  [":db/add"
@@ -9004,6 +9037,47 @@
   ":hirameki/source"
   "https://patents.google.com/patent/US2177580/en"]
  [":db/add"
+  "hirameki-patent:US2181771"
+  ":hirameki.patent/title"
+  "Method of polymerization of styrene"]
+ [":db/add"
+  "hirameki-patent:US2181771"
+  ":hirameki.patent/jurisdiction"
+  ":us"]
+ [":db/add"
+  "hirameki-patent:US2181771"
+  ":hirameki.patent/field"
+  "UNKNOWN"]
+ [":db/add"
+  "hirameki-patent:US2181771"
+  ":hirameki.patent/assignee"
+  ":ei-du-pont-de-nemours-and"]
+ [":db/add"
+  "hirameki-patent:US2181771"
+  ":hirameki.patent/status"
+  ":granted"]
+ [":db/add"
+  "hirameki-patent:US2181771"
+  ":hirameki.patent/open-license"
+  ":none"]
+ [":db/add"
+  "hirameki-patent:US2181771"
+  ":hirameki.obs/release-status"
+  ":public-domain"]
+ [":db/add"
+  "hirameki-patent:US2181771"
+  ":hirameki/sourcing"
+  ":authoritative"]
+ [":db/add" "hirameki-patent:US2181771" ":hirameki/derived" true]
+ [":db/add"
+  "hirameki-patent:US2181771"
+  ":hirameki.obs/years-to-expiry"
+  -68]
+ [":db/add"
+  "hirameki-patent:US2181771"
+  ":hirameki/source"
+  "https://patents.google.com/patent/US2181771/en"]
+ [":db/add"
   "hirameki-patent:US2201747"
   ":hirameki.patent/title"
   "Method of producing moistureproof cellulosic pellicles"]
@@ -10018,78 +10092,4 @@
  [":db/add"
   "hirameki-patent:US2273880"
   ":hirameki/sourcing"
-  ":authoritative"]
- [":db/add" "hirameki-patent:US2273880" ":hirameki/derived" true]
- [":db/add"
-  "hirameki-patent:US2273880"
-  ":hirameki.obs/years-to-expiry"
-  -67]
- [":db/add"
-  "hirameki-patent:US2273880"
-  ":hirameki/source"
-  "https://patents.google.com/patent/US2273880/en"]
- [":db/add"
-  "hirameki-patent:US2274642"
-  ":hirameki.patent/title"
-  "Hard surface covering"]
- [":db/add"
-  "hirameki-patent:US2274642"
-  ":hirameki.patent/jurisdiction"
-  ":us"]
- [":db/add"
-  "hirameki-patent:US2274642"
-  ":hirameki.patent/field"
-  "UNKNOWN"]
- [":db/add"
-  "hirameki-patent:US2274642"
-  ":hirameki.patent/assignee"
-  ":armstrong-cork"]
- [":db/add"
-  "hirameki-patent:US2274642"
-  ":hirameki.patent/status"
-  ":granted"]
- [":db/add"
-  "hirameki-patent:US2274642"
-  ":hirameki.patent/open-license"
-  ":none"]
- [":db/add"
-  "hirameki-patent:US2274642"
-  ":hirameki.obs/release-status"
-  ":public-domain"]
- [":db/add"
-  "hirameki-patent:US2274642"
-  ":hirameki/sourcing"
-  ":authoritative"]
- [":db/add" "hirameki-patent:US2274642" ":hirameki/derived" true]
- [":db/add"
-  "hirameki-patent:US2274642"
-  ":hirameki.obs/years-to-expiry"
-  -69]
- [":db/add"
-  "hirameki-patent:US2274642"
-  ":hirameki/source"
-  "https://patents.google.com/patent/US2274642/en"]
- [":db/add"
-  "hirameki-patent:US2275989"
-  ":hirameki.patent/title"
-  "Process for producing resinous products"]
- [":db/add"
-  "hirameki-patent:US2275989"
-  ":hirameki.patent/jurisdiction"
-  ":us"]
- [":db/add"
-  "hirameki-patent:US2275989"
-  ":hirameki.patent/field"
-  "UNKNOWN"]
- [":db/add"
-  "hirameki-patent:US2275989"
-  ":hirameki.patent/assignee"
-  ":westinghouse-electric"]
- [":db/add"
-  "hirameki-patent:US2275989"
-  ":hirameki.patent/status"
-  ":granted"]
- [":db/add"
-  "hirameki-patent:US2275989"
-  ":hirameki.patent/open-license"
-  ":none"]]
+  ":authoritative"]]

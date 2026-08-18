@@ -37,6 +37,16 @@
   :open-license :none}
  {:jurisdiction :be,
   :field "UNKNOWN",
+  :source "https://patents.google.com/patent/BE553720A/en",
+  :title "",
+  :status :pending,
+  :id "BE553720A",
+  :sourcing :authoritative,
+  :assignee :unassigned,
+  :term-years 20,
+  :open-license :none}
+ {:jurisdiction :be,
+  :field "UNKNOWN",
   :source "https://patents.google.com/patent/BE622556A/en",
   :title "",
   :status :pending,
@@ -6161,6 +6171,19 @@
  {:assignees [:ei-du-pont-de-nemours-and],
   :jurisdiction :us,
   :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2181771/en",
+  :title "Method of polymerization of styrene",
+  :status :granted,
+  :id "US2181771",
+  :sourcing :authoritative,
+  :filing-year 1938,
+  :assignee :ei-du-pont-de-nemours-and,
+  :grant-year 1939,
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:ei-du-pont-de-nemours-and],
+  :jurisdiction :us,
+  :field "UNKNOWN",
   :source "https://patents.google.com/patent/US2201747/en",
   :title "Method of producing moistureproof cellulosic pellicles",
   :status :granted,
@@ -6890,6 +6913,19 @@
   :filing-year 1940,
   :assignee :jasco,
   :grant-year 1943,
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:united-gas-improvement],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2338741/en",
+  :title "Substituted styrene-polybutadiene copolymer",
+  :status :granted,
+  :id "US2338741",
+  :sourcing :authoritative,
+  :filing-year 1939,
+  :assignee :united-gas-improvement,
+  :grant-year 1944,
   :term-years 20,
   :open-license :none}
  {:assignees [:harbor-plywood],
@@ -8688,6 +8724,52 @@
   :cites ["US2333242" "US2585583"],
   :term-years 20,
   :open-license :none}
+ {:assignees [:dow-chemical],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2694692/en",
+  :title
+  "Method of making linear interpolymers of monovinyl aromatic compounds and a natural or synthetic rubber",
+  :status :granted,
+  :id "US2694692",
+  :sourcing :authoritative,
+  :filing-year 1950,
+  :assignee :dow-chemical,
+  :grant-year 1954,
+  :cites
+  ["GB593072A"
+   "US1613673"
+   "US2356091"
+   "US2382498"
+   "US2406403"
+   "US2460300"
+   "US2576134"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:shell-development],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2695834/en",
+  :title
+  "Process of reacting unsaturated compounds with inorganic acid compounds and products resulting therefrom",
+  :status :granted,
+  :id "US2695834",
+  :sourcing :authoritative,
+  :filing-year 1948,
+  :assignee :shell-development,
+  :grant-year 1954,
+  :cites
+  ["US1925879"
+   "US2113584"
+   "US2169363"
+   "US2288982"
+   "US2293023"
+   "US2379354"
+   "US2383055"
+   "US2422550"
+   "US2469847"],
+  :term-years 20,
+  :open-license :none}
  {:assignees [:ei-du-pont-de-nemours-and],
   :jurisdiction :us,
   :field "UNKNOWN",
@@ -8884,97 +8966,5 @@
    "US2539355"
    "US2675129"
    "US2681571"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:phillips-petroleum],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US2743233/en",
-  :title "Oil-base drilling muds and methods of drilling with same",
-  :status :granted,
-  :id "US2743233",
-  :sourcing :authoritative,
-  :filing-year 1952,
-  :assignee :phillips-petroleum,
-  :grant-year 1956,
-  :cites ["US2049019" "US2217926" "US2449949" "US2605222"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:purdue-research-foundation],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US2744116/en",
-  :title "Bis-(aminotriazolyl-)-hydrocarbons",
-  :status :granted,
-  :id "US2744116",
-  :sourcing :authoritative,
-  :filing-year 1953,
-  :assignee :purdue-research-foundation,
-  :grant-year 1956,
-  :cites ["CA473810A" "US2233805"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:exxon-research-and-engineering],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US2745496/en",
-  :title "Formation testing apparatus",
-  :status :granted,
-  :id "US2745496",
-  :sourcing :authoritative,
-  :filing-year 1953,
-  :assignee :exxon-research-and-engineering,
-  :grant-year 1956,
-  :cites
-  ["US2113856"
-   "US2176240"
-   "US2176375"
-   "US2192945"
-   "US2214551"
-   "US2216962"
-   "US2217043"
-   "US2231282"
-   "US2262655"
-   "US2285024"
-   "US2316024"
-   "US2389512"
-   "US2418500"
-   "US2497185"
-   "US2521332"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:consolidated-water-power-and-paper],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US2746878/en",
-  :title "Production of coated sheet material",
-  :status :granted,
-  :id "US2746878",
-  :sourcing :authoritative,
-  :filing-year 1953,
-  :assignee :consolidated-water-power-and-paper,
-  :grant-year 1956,
-  :cites
-  ["US1982018"
-   "US2046975"
-   "US2132931"
-   "US2244859"
-   "US2275148"
-   "US2402605"
-   "US2554899"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:ei-du-pont-de-nemours-and],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US2748027/en",
-  :title "Sizing of vinylidene chloride copolymer surfaces",
-  :status :granted,
-  :id "US2748027",
-  :sourcing :authoritative,
-  :filing-year 1953,
-  :assignee :ei-du-pont-de-nemours-and,
-  :grant-year 1956,
-  :cites ["US2541167" "US2633434"],
   :term-years 20,
   :open-license :none}]

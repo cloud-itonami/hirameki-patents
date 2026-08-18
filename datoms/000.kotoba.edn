@@ -121,6 +121,40 @@
   "hirameki-patent:AU7015287A"
   ":hirameki/source"
   "https://patents.google.com/patent/AU7015287A/en"]
+ [":db/add" "hirameki-patent:BE553720A" ":hirameki.patent/title" ""]
+ [":db/add"
+  "hirameki-patent:BE553720A"
+  ":hirameki.patent/jurisdiction"
+  ":be"]
+ [":db/add"
+  "hirameki-patent:BE553720A"
+  ":hirameki.patent/field"
+  "UNKNOWN"]
+ [":db/add"
+  "hirameki-patent:BE553720A"
+  ":hirameki.patent/assignee"
+  ":unassigned"]
+ [":db/add"
+  "hirameki-patent:BE553720A"
+  ":hirameki.patent/status"
+  ":pending"]
+ [":db/add"
+  "hirameki-patent:BE553720A"
+  ":hirameki.patent/open-license"
+  ":none"]
+ [":db/add"
+  "hirameki-patent:BE553720A"
+  ":hirameki.obs/release-status"
+  ":pending"]
+ [":db/add"
+  "hirameki-patent:BE553720A"
+  ":hirameki/sourcing"
+  ":authoritative"]
+ [":db/add" "hirameki-patent:BE553720A" ":hirameki/derived" true]
+ [":db/add"
+  "hirameki-patent:BE553720A"
+  ":hirameki/source"
+  "https://patents.google.com/patent/BE553720A/en"]
  [":db/add" "hirameki-patent:BE622556A" ":hirameki.patent/title" ""]
  [":db/add"
   "hirameki-patent:BE622556A"
@@ -9948,37 +9982,4 @@
  [":db/add"
   "hirameki-patent:JP2002020107A"
   ":hirameki/source"
-  "https://patents.google.com/patent/JP2002020107A/en"]
- [":db/add"
-  "hirameki-patent:JP2002020691A"
-  ":hirameki.patent/title"
-  "Matte paint composition"]
- [":db/add"
-  "hirameki-patent:JP2002020691A"
-  ":hirameki.patent/jurisdiction"
-  ":jp"]
- [":db/add"
-  "hirameki-patent:JP2002020691A"
-  ":hirameki.patent/field"
-  "UNKNOWN"]
- [":db/add"
-  "hirameki-patent:JP2002020691A"
-  ":hirameki.patent/assignee"
-  ":origin-electric"]
- [":db/add"
-  "hirameki-patent:JP2002020691A"
-  ":hirameki.patent/status"
-  ":pending"]
- [":db/add"
-  "hirameki-patent:JP2002020691A"
-  ":hirameki.patent/open-license"
-  ":none"]
- [":db/add"
-  "hirameki-patent:JP2002020691A"
-  ":hirameki.obs/release-status"
-  ":pending"]
- [":db/add"
-  "hirameki-patent:JP2002020691A"
-  ":hirameki/sourcing"
-  ":authoritative"]
- [":db/add" "hirameki-patent:JP2002020691A" ":hirameki/derived" true]]
+  "https://patents.google.com/patent/JP2002020107A/en"]]

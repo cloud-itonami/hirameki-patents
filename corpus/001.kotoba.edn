@@ -1,4 +1,96 @@
-[{:assignees [:beckman-instruments],
+[{:assignees [:phillips-petroleum],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2743233/en",
+  :title "Oil-base drilling muds and methods of drilling with same",
+  :status :granted,
+  :id "US2743233",
+  :sourcing :authoritative,
+  :filing-year 1952,
+  :assignee :phillips-petroleum,
+  :grant-year 1956,
+  :cites ["US2049019" "US2217926" "US2449949" "US2605222"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:purdue-research-foundation],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2744116/en",
+  :title "Bis-(aminotriazolyl-)-hydrocarbons",
+  :status :granted,
+  :id "US2744116",
+  :sourcing :authoritative,
+  :filing-year 1953,
+  :assignee :purdue-research-foundation,
+  :grant-year 1956,
+  :cites ["CA473810A" "US2233805"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:exxon-research-and-engineering],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2745496/en",
+  :title "Formation testing apparatus",
+  :status :granted,
+  :id "US2745496",
+  :sourcing :authoritative,
+  :filing-year 1953,
+  :assignee :exxon-research-and-engineering,
+  :grant-year 1956,
+  :cites
+  ["US2113856"
+   "US2176240"
+   "US2176375"
+   "US2192945"
+   "US2214551"
+   "US2216962"
+   "US2217043"
+   "US2231282"
+   "US2262655"
+   "US2285024"
+   "US2316024"
+   "US2389512"
+   "US2418500"
+   "US2497185"
+   "US2521332"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:consolidated-water-power-and-paper],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2746878/en",
+  :title "Production of coated sheet material",
+  :status :granted,
+  :id "US2746878",
+  :sourcing :authoritative,
+  :filing-year 1953,
+  :assignee :consolidated-water-power-and-paper,
+  :grant-year 1956,
+  :cites
+  ["US1982018"
+   "US2046975"
+   "US2132931"
+   "US2244859"
+   "US2275148"
+   "US2402605"
+   "US2554899"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:ei-du-pont-de-nemours-and],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2748027/en",
+  :title "Sizing of vinylidene chloride copolymer surfaces",
+  :status :granted,
+  :id "US2748027",
+  :sourcing :authoritative,
+  :filing-year 1953,
+  :assignee :ei-du-pont-de-nemours-and,
+  :grant-year 1956,
+  :cites ["US2541167" "US2633434"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:beckman-instruments],
   :jurisdiction :us,
   :field "UNKNOWN",
   :source "https://patents.google.com/patent/US2755243/en",
@@ -246,6 +338,32 @@
    "US2649386"],
   :term-years 20,
   :open-license :none}
+ {:assignees [:international-standard-electric],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2774747/en",
+  :title
+  "Electrically conducting cements containing epoxy resins and silver",
+  :status :granted,
+  :id "US2774747",
+  :sourcing :authoritative,
+  :filing-year 1952,
+  :assignee :international-standard-electric,
+  :grant-year 1956,
+  :cites
+  ["GB554972A"
+   "US1901391"
+   "US2137428"
+   "US2173249"
+   "US2280135"
+   "US2324961"
+   "US2470352"
+   "US2473884"
+   "US2500600"
+   "US2506130"
+   "US2570856"],
+  :term-years 20,
+  :open-license :none}
  {:assignees [:exxon-research-and-engineering],
   :jurisdiction :us,
   :field "UNKNOWN",
@@ -468,6 +586,21 @@
   :cites ["US2536018" "US2536470" "US2570253"],
   :term-years 20,
   :open-license :none}
+ {:assignees [:firestone-tire-and-rubber],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2802808/en",
+  :title
+  "Compositions of a styrene-acrylonitrile resin, a graft of styrene and acrylonitrile upon a diene rubber and a diene rubber",
+  :status :granted,
+  :id "US2802808",
+  :sourcing :authoritative,
+  :filing-year 1953,
+  :assignee :firestone-tire-and-rubber,
+  :grant-year 1957,
+  :cites ["US2550139"],
+  :term-years 20,
+  :open-license :none}
  {:assignees [:crown-zellerbach],
   :jurisdiction :us,
   :field "UNKNOWN",
@@ -675,6 +808,26 @@
   :assignee :ei-du-pont-de-nemours-and,
   :grant-year 1958,
   :cites ["US2162616" "US2178523" "US2519550" "US2551365" "US2734889"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:woodmont-products],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2851380/en",
+  :title "Conductive ink and article coated therewith",
+  :status :granted,
+  :id "US2851380",
+  :sourcing :authoritative,
+  :filing-year 1953,
+  :assignee :woodmont-products,
+  :grant-year 1958,
+  :cites
+  ["US1837678"
+   "US2443741"
+   "US2485294"
+   "US2510503"
+   "US2608539"
+   "US2632751"],
   :term-years 20,
   :open-license :none}
  {:jurisdiction :us,
@@ -1021,6 +1174,21 @@
   :assignee :johnson-and-johnson,
   :grant-year 1959,
   :cites ["GB531497A"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:bf-goodrich],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2913444/en",
+  :title
+  "Process for polymerizing conjugated diolefins using a mixture of metallic lithium and alkyl lithium as the catalyst",
+  :status :granted,
+  :id "US2913444",
+  :sourcing :authoritative,
+  :filing-year 1956,
+  :assignee :bf-goodrich,
+  :grant-year 1959,
+  :cites ["US1058056" "US2377779" "US2506857" "US2699457"],
   :term-years 20,
   :open-license :none}
  {:assignees [:american-cyanamid],
@@ -1933,6 +2101,20 @@
   :cites ["US2774747" "US2808352" "US2851380"],
   :term-years 20,
   :open-license :none}
+ {:assignees [:phillips-petroleum],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3030346/en",
+  :title "Production of block copolymers",
+  :status :granted,
+  :id "US3030346",
+  :sourcing :authoritative,
+  :filing-year 1960,
+  :assignee :phillips-petroleum,
+  :grant-year 1962,
+  :cites ["CA582947A"],
+  :term-years 20,
+  :open-license :none}
  {:assignees [:usines-decoufle],
   :jurisdiction :us,
   :field "UNKNOWN",
@@ -2046,6 +2228,20 @@
    "US2729193"
    "US2741215"
    "US2771388"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:monsanto-chemicals],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3038890/en",
+  :title "Chemical manufacture",
+  :status :granted,
+  :id "US3038890",
+  :sourcing :authoritative,
+  :filing-year 1960,
+  :assignee :monsanto-chemicals,
+  :grant-year 1962,
+  :cites ["US2531355" "US2834747"],
   :term-years 20,
   :open-license :none}
  {:assignees [:kalle-and-kg],
@@ -2237,6 +2433,28 @@
   :cites ["CA524051A" "US2763571" "US2795515" "US2799596" "US2947338"],
   :term-years 20,
   :open-license :none}
+ {:assignees [:shell-oil],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3069380/en",
+  :title "Process for preparing segmented copolymers",
+  :status :granted,
+  :id "US3069380",
+  :sourcing :authoritative,
+  :filing-year 1953,
+  :assignee :shell-oil,
+  :grant-year 1962,
+  :cites
+  ["US1938730"
+   "US2356091"
+   "US2388685"
+   "US2460300"
+   "US2610962"
+   "US2614089"
+   "US2666025"
+   "US2666042"],
+  :term-years 20,
+  :open-license :none}
  {:jurisdiction :us,
   :field "UNKNOWN",
   :source "https://patents.google.com/patent/US3070566/en",
@@ -2247,6 +2465,21 @@
   :assignee :unassigned,
   :grant-year 1962,
   :cites ["US2819236"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:basf-se],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3070574/en",
+  :title
+  "Process for graftpolymerizing alphamethylstyrene in the presence of cyclic ethers and alkali metal catalyst",
+  :status :granted,
+  :id "US3070574",
+  :sourcing :authoritative,
+  :filing-year 1959,
+  :assignee :basf-se,
+  :grant-year 1962,
+  :cites ["US2621171" "US2658058" "US2920065"],
   :term-years 20,
   :open-license :none}
  {:assignees [:swift-and],
@@ -2309,6 +2542,35 @@
    "US2709666"
    "US2737465"
    "US2925332"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:burke],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3085074/en",
+  :title
+  "Aqueous dispersions of halogenated, polymer modified butyl rubber, process of makingsame, and vulcanization thereof",
+  :status :granted,
+  :id "US3085074",
+  :sourcing :authoritative,
+  :filing-year 1959,
+  :assignee :burke,
+  :grant-year 1963,
+  :cites
+  ["FR1145258A"
+   "GB746692A"
+   "GB793581A"
+   "US2476430"
+   "US2586124"
+   "US2595797"
+   "US2609365"
+   "US2631984"
+   "US2732354"
+   "US2799662"
+   "US2883351"
+   "US2901458"
+   "US2943664"
+   "US2965620"],
   :term-years 20,
   :open-license :none}
  {:assignees [:usines-decoufle],
@@ -2415,6 +2677,20 @@
   :cites ["US2160367" "US2361344" "US2380134" "US2555230" "US2679969"],
   :term-years 20,
   :open-license :none}
+ {:assignees [:general-tire-and-rubber],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3119785/en",
+  :title "Reaction product of a graft polymer of acrolein",
+  :status :granted,
+  :id "US3119785",
+  :sourcing :authoritative,
+  :filing-year 1959,
+  :assignee :general-tire-and-rubber,
+  :grant-year 1964,
+  :cites ["US2332896" "US2388167" "US2569932"],
+  :term-years 20,
+  :open-license :none}
  {:jurisdiction :us,
   :field "UNKNOWN",
   :source "https://patents.google.com/patent/US3127363/en",
@@ -2507,6 +2783,19 @@
   :cites ["US2567719" "US2922768" "US2951772"],
   :term-years 20,
   :open-license :none}
+ {:assignees [:exxon-research-and-engineering],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3140278/en",
+  :title "Block homopolymers of 1, 3 dienes",
+  :status :granted,
+  :id "US3140278",
+  :sourcing :authoritative,
+  :filing-year 1960,
+  :assignee :exxon-research-and-engineering,
+  :grant-year 1964,
+  :term-years 20,
+  :open-license :none}
  {:assignees [:combined-locks-paper],
   :jurisdiction :us,
   :field "UNKNOWN",
@@ -2529,6 +2818,29 @@
    "US2772604"
    "US2870738"
    "US2888902"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:shell-oil],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3149182/en",
+  :title
+  "Process for preparing block copolymers utilizing organolithium catalysts",
+  :status :granted,
+  :id "US3149182",
+  :sourcing :authoritative,
+  :filing-year 1957,
+  :assignee :shell-oil,
+  :grant-year 1964,
+  :cites
+  ["CA499577A"
+   "GB339243A"
+   "US2338741"
+   "US2377779"
+   "US2608555"
+   "US2694692"
+   "US2797208"
+   "US3031432"],
   :term-years 20,
   :open-license :none}
  {:assignees [:phillips-petroleum],
@@ -3075,6 +3387,21 @@
   :cites ["US2344232" "US2513394" "US2554663" "US3043211"],
   :term-years 20,
   :open-license :none}
+ {:assignees [:canadian-industries],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3223655/en",
+  :title
+  "Curable coating composition comprising copolymer containing grafted carboxyl or alkylolated amide groups, and amine/aldehyde condensate or epoxy resin",
+  :status :granted,
+  :id "US3223655",
+  :sourcing :authoritative,
+  :filing-year 1961,
+  :assignee :canadian-industries,
+  :grant-year 1965,
+  :cites ["GB867480A" "US2604464" "US2927095" "US3035008" "US3118853"],
+  :term-years 20,
+  :open-license :none}
  {:assignees [:trw],
   :jurisdiction :us,
   :field "UNKNOWN",
@@ -3184,6 +3511,21 @@
   :assignee :purac,
   :grant-year 1966,
   :cites ["GB356783A" "US2138839" "US2219348" "US2585103"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:shell-oil],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3239478/en",
+  :title
+  "Block copolymer adhesive compositions and articles prepared therefrom",
+  :status :granted,
+  :id "US3239478",
+  :sourcing :authoritative,
+  :filing-year 1963,
+  :assignee :shell-oil,
+  :grant-year 1966,
+  :cites ["US2648650" "US2784165" "US2993874" "US3149182"],
   :term-years 20,
   :open-license :none}
  {:assignees [:azoplate],
@@ -3301,6 +3643,21 @@
    "US3066052"
    "US3104991"
    "US3122817"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:hoechst],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3255276/en",
+  :title
+  "Process for the manufacture of hydrocarbons modified with vinyl phosphonic acid",
+  :status :granted,
+  :id "US3255276",
+  :sourcing :authoritative,
+  :filing-year 1962,
+  :assignee :hoechst,
+  :grant-year 1966,
+  :cites ["DE1023033B" "US2854434" "US2888434" "US3043821"],
   :term-years 20,
   :open-license :none}
  {:assignees [:energy-conversion-devices],
@@ -9083,359 +9440,5 @@
    "US3663383"
    "US3819586"
    "US3822240"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:syva],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3998943/en",
-  :title "Double receptor fluorescent immunoassay",
-  :status :granted,
-  :id "US3998943",
-  :sourcing :authoritative,
-  :filing-year 1973,
-  :assignee :syva,
-  :grant-year 1976,
-  :cites
-  ["US3656906"
-   "US3709868"
-   "US3766162"
-   "US3775536"
-   "US3789116"
-   "US3809782"
-   "US3817706"
-   "US3901654"
-   "US3935074"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:siemens],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3999122/en",
-  :title "Semiconductor sensing device for fluids",
-  :status :granted,
-  :id "US3999122",
-  :sourcing :authoritative,
-  :filing-year 1975,
-  :assignee :siemens,
-  :grant-year 1976,
-  :cites ["US3045198" "US3255324" "US3428892" "US3831432" "US3865550"],
-  :term-years 20,
-  :open-license :none}
- {:jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US4002532/en",
-  :title "Enzyme conjugates",
-  :status :granted,
-  :id "US4002532",
-  :sourcing :authoritative,
-  :filing-year 1974,
-  :assignee :unassigned,
-  :grant-year 1977,
-  :cites ["US3639558" "US3654090" "US3839153" "US3859169"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:honeywell],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US4002899/en",
-  :title "Focus detecting apparatus",
-  :status :granted,
-  :id "US4002899",
-  :sourcing :authoritative,
-  :filing-year 1975,
-  :assignee :honeywell,
-  :grant-year 1977,
-  :cites ["US3450883" "US3493764" "US3610934" "US3684374" "US3844658"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:miles-laboratories],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US4003792/en",
-  :title
-  "Conjugates of acid polysaccharides and complex organic substances",
-  :status :granted,
-  :id "US4003792",
-  :sourcing :authoritative,
-  :filing-year 1972,
-  :assignee :miles-laboratories,
-  :grant-year 1977,
-  :cites ["GB1174854A"],
-  :term-years 20,
-  :open-license :none}
- {:jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US4007008/en",
-  :title "Preparation of reference serum from animal blood",
-  :status :granted,
-  :id "US4007008",
-  :sourcing :authoritative,
-  :filing-year 1975,
-  :assignee :unassigned,
-  :grant-year 1977,
-  :cites ["US3269911" "US3298789" "US3640896" "US3682835" "US3873467"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:nelson-research-and-development],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US4007089/en",
-  :title "Method for binding biologically active compounds",
-  :status :granted,
-  :id "US4007089",
-  :sourcing :authoritative,
-  :filing-year 1975,
-  :assignee :nelson-research-and-development,
-  :grant-year 1977,
-  :cites ["US3824150" "US3843447"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:snamprogetti-spa],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US4008363/en",
-  :title
-  "Process for the preparation of adenine derivatives made functional and products obtained therefrom",
-  :status :granted,
-  :id "US4008363",
-  :sourcing :authoritative,
-  :filing-year 1975,
-  :assignee :snamprogetti-spa,
-  :grant-year 1977,
-  :cites ["US3287352" "US3475408"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:hoffmann-la-roche],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US4008397/en",
-  :title "Fluorometer flow cell",
-  :status :granted,
-  :id "US4008397",
-  :sourcing :authoritative,
-  :filing-year 1975,
-  :assignee :hoffmann-la-roche,
-  :grant-year 1977,
-  :cites ["US3413464" "US3586859" "US3917404"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:roe],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US4009782/en",
-  :title "Method and apparatus for sorting and counting fish eggs",
-  :status :granted,
-  :id "US4009782",
-  :sourcing :authoritative,
-  :filing-year 1975,
-  :assignee :roe,
-  :grant-year 1977,
-  :cites
-  ["US2961046"
-   "US3297157"
-   "US3517807"
-   "US3613884"
-   "US3746166"
-   "US3791517"
-   "US3827555"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:general-electric],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US4011308/en",
-  :title
-  "Method for surface immunological detection of biological particles by the use of tagged antibodies",
-  :status :granted,
-  :id "US4011308",
-  :sourcing :authoritative,
-  :filing-year 1976,
-  :assignee :general-electric,
-  :grant-year 1977,
-  :cites
-  ["US3206602"
-   "US3592888"
-   "US3646346"
-   "US3790663"
-   "US3793445"
-   "US3826619"
-   "US3843775"
-   "US3935074"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:abbott-laboratories],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US4012494/en",
-  :title "Direct radioimmunoassay for antigens and their antibodies",
-  :status :granted,
-  :id "US4012494",
-  :sourcing :authoritative,
-  :filing-year 1974,
-  :assignee :abbott-laboratories,
-  :grant-year 1977,
-  :cites ["US3646346" "US3790663" "US3867517"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:coulter-electronics],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US4014611/en",
-  :title "Aperture module for use in particle testing apparatus",
-  :status :granted,
-  :id "US4014611",
-  :sourcing :authoritative,
-  :filing-year 1975,
-  :assignee :coulter-electronics,
-  :grant-year 1977,
-  :cites ["US3746976" "US3810010" "US3902115"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:akzona],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US4016043/en",
-  :title
-  "Enzymatic immunological method for the determination of antigens and antibodies",
-  :status :granted,
-  :id "US4016043",
-  :sourcing :authoritative,
-  :filing-year 1975,
-  :assignee :akzona,
-  :grant-year 1977,
-  :cites ["US3791932" "US3852157" "US3876504" "US3896217" "US3905767"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:monsanto],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US4017597/en",
-  :title "Unitized solid phase immunoassay kit and method",
-  :status :granted,
-  :id "US4017597",
-  :sourcing :authoritative,
-  :filing-year 1974,
-  :assignee :monsanto,
-  :grant-year 1977,
-  :cites ["US3646346" "US3790663"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:block-engineering],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US4018530/en",
-  :title
-  "Fluorescence spectrometry employing excitation of bleaching intensity",
-  :status :granted,
-  :id "US4018530",
-  :sourcing :authoritative,
-  :filing-year 1975,
-  :assignee :block-engineering,
-  :grant-year 1977,
-  :cites ["US3829696" "US3886363"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:signetics],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US4018627/en",
-  :title
-  "Method for fabricating semiconductor devices utilizing oxide protective layer",
-  :status :granted,
-  :id "US4018627",
-  :sourcing :authoritative,
-  :filing-year 1975,
-  :assignee :signetics,
-  :grant-year 1977,
-  :cites
-  ["US3542551"
-   "US3551221"
-   "US3560278"
-   "US3793088"
-   "US3920483"
-   "US3925105"
-   "US3928081"
-   "US3928082"
-   "US3933528"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:university-of-utah],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US4020830/en",
-  :title "Selective chemical sensitive FET transducers",
-  :status :granted,
-  :id "US4020830",
-  :sourcing :authoritative,
-  :filing-year 1975,
-  :assignee :university-of-utah,
-  :grant-year 1977,
-  :cites
-  ["US3049118"
-   "US3294988"
-   "US3649505"
-   "US3776819"
-   "US3787309"
-   "US3831432"
-   "US3896008"
-   "US3932233"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:hoffmann-la-roche],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US4021534/en",
-  :title "Radioimmunoassay",
-  :status :granted,
-  :id "US4021534",
-  :sourcing :authoritative,
-  :filing-year 1975,
-  :assignee :hoffmann-la-roche,
-  :grant-year 1977,
-  :cites ["US2957808" "US3867363" "US3867518"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:corning-glass-works],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US4024235/en",
-  :title "Detection and quantitation of viral antibodies",
-  :status :granted,
-  :id "US4024235",
-  :sourcing :authoritative,
-  :filing-year 1975,
-  :assignee :corning-glass-works,
-  :grant-year 1977,
-  :cites ["US3652761"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:corning-glass-works],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US4034072/en",
-  :title "Serum hepatitis test",
-  :status :granted,
-  :id "US4034072",
-  :sourcing :authoritative,
-  :filing-year 1975,
-  :assignee :corning-glass-works,
-  :grant-year 1977,
-  :cites ["US3555143" "US3652761" "US3867517"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:leland-stanford-junior-university],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US4034074/en",
-  :title
-  "Universal reagent 2-site immunoradiometric assay using labelled anti (IgG)",
-  :status :granted,
-  :id "US4034074",
-  :sourcing :authoritative,
-  :filing-year 1974,
-  :assignee :leland-stanford-junior-university,
-  :grant-year 1977,
-  :cites ["US3904367"],
   :term-years 20,
   :open-license :none}]
