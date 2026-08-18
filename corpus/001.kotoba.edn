@@ -1,4 +1,162 @@
-[{:assignees [:shell-development],
+[{:assignees [:usines-decoufle],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2660178/en",
+  :title
+  "Formation of the roll of tobacco in cigarette-making machines",
+  :status :granted,
+  :id "US2660178",
+  :sourcing :authoritative,
+  :filing-year 1949,
+  :assignee :usines-decoufle,
+  :grant-year 1953,
+  :cites
+  ["US1608138"
+   "US2423554"
+   "US548686"
+   "US554635"
+   "US671417"
+   "US844783"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:crown-zellerbach],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2666726/en",
+  :title "Method of making masked lignocellulosic material",
+  :status :granted,
+  :id "US2666726",
+  :sourcing :authoritative,
+  :filing-year 1951,
+  :assignee :crown-zellerbach,
+  :grant-year 1954,
+  :cites
+  ["US1852964"
+   "US1999383"
+   "US2086187"
+   "US2137238"
+   "US2219251"
+   "US2245169"
+   "US2343740"
+   "US2442422"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:champion-paper-and-fibre],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2676563/en",
+  :title "Apparatus for coating paper",
+  :status :granted,
+  :id "US2676563",
+  :sourcing :authoritative,
+  :filing-year 1949,
+  :assignee :champion-paper-and-fibre,
+  :grant-year 1954,
+  :cites
+  ["US1312034"
+   "US1661174"
+   "US1921369"
+   "US2214787"
+   "US2243604"
+   "US2334102"
+   "US2369378"
+   "US2398844"
+   "US2406057"
+   "US2560572"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:john-waldron],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2679231/en",
+  :title "Web coating apparatus",
+  :status :granted,
+  :id "US2679231",
+  :sourcing :authoritative,
+  :filing-year 1951,
+  :assignee :john-waldron,
+  :grant-year 1954,
+  :cites
+  ["US1899449"
+   "US2135406"
+   "US2139628"
+   "US2176093"
+   "US2511415"
+   "US2545266"],
+  :term-years 20,
+  :open-license :none}
+ {:jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2683669/en",
+  :title "Conductive plastics and method of making the same",
+  :status :granted,
+  :id "US2683669",
+  :sourcing :authoritative,
+  :filing-year 1950,
+  :assignee :unassigned,
+  :grant-year 1954,
+  :cites
+  ["US1299846"
+   "US2020085"
+   "US2120549"
+   "US2151083"
+   "US2406345"
+   "US2472801"
+   "US2509652"
+   "US2526059"
+   "US2543536"],
+  :term-years 20,
+  :open-license :none}
+ {:jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2688306/en",
+  :title "Apparatus for forming an adhesive film",
+  :status :granted,
+  :id "US2688306",
+  :sourcing :authoritative,
+  :filing-year 1951,
+  :assignee :unassigned,
+  :grant-year 1954,
+  :cites ["US1223516" "US2236239" "US2424323" "US2542804"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:phillips-petroleum],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2693461/en",
+  :title "Synthetic elastomer hydrogenation process",
+  :status :granted,
+  :id "US2693461",
+  :sourcing :authoritative,
+  :filing-year 1952,
+  :assignee :phillips-petroleum,
+  :grant-year 1954,
+  :cites ["US2333242" "US2585583"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:dow-chemical],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2694692/en",
+  :title
+  "Method of making linear interpolymers of monovinyl aromatic compounds and a natural or synthetic rubber",
+  :status :granted,
+  :id "US2694692",
+  :sourcing :authoritative,
+  :filing-year 1950,
+  :assignee :dow-chemical,
+  :grant-year 1954,
+  :cites
+  ["GB593072A"
+   "US1613673"
+   "US2356091"
+   "US2382498"
+   "US2406403"
+   "US2460300"
+   "US2576134"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:shell-development],
   :jurisdiction :us,
   :field "UNKNOWN",
   :source "https://patents.google.com/patent/US2695834/en",
@@ -77,6 +235,29 @@
    "US2465329"
    "US2466642"
    "US2495199"],
+  :term-years 20,
+  :open-license :none}
+ {:jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2710810/en",
+  :title "Dehydration of biological materials",
+  :status :granted,
+  :id "US2710810",
+  :sourcing :authoritative,
+  :filing-year 1953,
+  :assignee :unassigned,
+  :grant-year 1955,
+  :cites
+  ["US1386360"
+   "US1575762"
+   "US1701081"
+   "US2202161"
+   "US2235614"
+   "US2555945"
+   "US2567038"
+   "US2576932"
+   "US2619420"
+   "US2653093"],
   :term-years 20,
   :open-license :none}
  {:assignees [:american-viscose],
@@ -173,6 +354,20 @@
   :assignee :unassigned,
   :grant-year 1955,
   :cites ["US2603623"],
+  :term-years 20,
+  :open-license :none}
+ {:jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2722658/en",
+  :title
+  "Instrument for measuring electrical conductivity of test solutions",
+  :status :granted,
+  :id "US2722658",
+  :sourcing :authoritative,
+  :filing-year 1954,
+  :assignee :unassigned,
+  :grant-year 1955,
+  :cites ["US2540425" "US2583276"],
   :term-years 20,
   :open-license :none}
  {:assignees [:exxon-research-and-engineering],
@@ -346,6 +541,31 @@
    "US2156693"
    "US2278248"
    "US2370871"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:leeds-and-northrup],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2758079/en",
+  :title
+  "Electrolytic determination of the concentration of a constituent in a fluid",
+  :status :granted,
+  :id "US2758079",
+  :sourcing :authoritative,
+  :filing-year 1950,
+  :assignee :leeds-and-northrup,
+  :grant-year 1956,
+  :cites
+  ["US1834134"
+   "US2345498"
+   "US2368582"
+   "US2374044"
+   "US2432140"
+   "US2488505"
+   "US2500284"
+   "US2526857"
+   "US2568391"
+   "US2621671"],
   :term-years 20,
   :open-license :none}
  {:assignees [:polaroid],
@@ -679,6 +899,21 @@
    "US2635972"
    "US2640790"
    "US2655864"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:corning-glass-works],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2779136/en",
+  :title
+  "Method of making a glass article of high mechanical strength and article made thereby",
+  :status :granted,
+  :id "US2779136",
+  :sourcing :authoritative,
+  :filing-year 1955,
+  :assignee :corning-glass-works,
+  :grant-year 1957,
+  :cites ["US2428600"],
   :term-years 20,
   :open-license :none}
  {:assignees [:reichhold-chemicals],
@@ -1077,6 +1312,27 @@
    "US2510503"
    "US2608539"
    "US2632751"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:foxboro],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2851654/en",
+  :title "Amperometric differential measurement system",
+  :status :granted,
+  :id "US2851654",
+  :sourcing :authoritative,
+  :filing-year 1956,
+  :assignee :foxboro,
+  :grant-year 1958,
+  :cites
+  ["US1399200"
+   "US2173233"
+   "US2232211"
+   "US2289687"
+   "US2569100"
+   "US2615839"
+   "US2773237"],
   :term-years 20,
   :open-license :none}
  {:jurisdiction :us,
@@ -1489,6 +1745,21 @@
    "US2804441"],
   :term-years 20,
   :open-license :none}
+ {:assignees [:standard-brands],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2919194/en",
+  :title
+  "Active dry yeast products and processes for producing the same",
+  :status :granted,
+  :id "US2919194",
+  :sourcing :authoritative,
+  :filing-year 1957,
+  :assignee :standard-brands,
+  :grant-year 1959,
+  :cites ["US1420557" "US1706564" "US2111201" "US2136399" "US2523483"],
+  :term-years 20,
+  :open-license :none}
  {:assignees [:warren-sd],
   :jurisdiction :us,
   :field "UNKNOWN",
@@ -1605,6 +1876,20 @@
   :assignee :unassigned,
   :grant-year 1960,
   :cites ["US2466963" "US2824816"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:union-carbide],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2938064/en",
+  :title "Air-depolarized cell",
+  :status :granted,
+  :id "US2938064",
+  :sourcing :authoritative,
+  :filing-year 1958,
+  :assignee :union-carbide,
+  :grant-year 1960,
+  :cites ["US2097077" "US2615932"],
   :term-years 20,
   :open-license :none}
  {:assignees [:usines-decoufle],
@@ -2053,6 +2338,20 @@
   :cites ["US1342927" "US2618344" "US2695065" "US2707998" "US2815817"],
   :term-years 20,
   :open-license :none}
+ {:jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2980749/en",
+  :title
+  "Fuel cell and method of producing electrodes for such a cell",
+  :status :granted,
+  :id "US2980749",
+  :sourcing :authoritative,
+  :filing-year 1958,
+  :assignee :unassigned,
+  :grant-year 1961,
+  :cites ["DE913911C" "GB521773A" "US2384463" "US2830109" "US2914596"],
+  :term-years 20,
+  :open-license :none}
  {:assignees [:general-electric],
   :jurisdiction :us,
   :field "UNKNOWN",
@@ -2101,6 +2400,26 @@
   :assignee :fmc,
   :grant-year 1961,
   :cites ["US2377095" "US2462331" "US2832758"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:union-carbide],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2991412/en",
+  :title "Oxygen analyzer",
+  :status :granted,
+  :id "US2991412",
+  :sourcing :authoritative,
+  :filing-year 1958,
+  :assignee :union-carbide,
+  :grant-year 1961,
+  :cites
+  ["US1578666"
+   "US2097077"
+   "US2401287"
+   "US2540674"
+   "US2662211"
+   "US2759038"],
   :term-years 20,
   :open-license :none}
  {:assignees [:diamond-alkali],
@@ -4516,6 +4835,17 @@
    "US2991412"
    "US3060374"
    "US819355"],
+  :term-years 20,
+  :open-license :none}
+ {:jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US329724/en",
+  :title "dieckmann",
+  :status :granted,
+  :id "US329724",
+  :sourcing :authoritative,
+  :assignee :unassigned,
+  :grant-year 1885,
   :term-years 20,
   :open-license :none}
  {:assignees [:hoechst],
@@ -9165,286 +9495,5 @@
   :assignee :f-hoffmann-la-roche,
   :grant-year 1975,
   :cites ["US3663684" "US3697638" "US3718737" "US3735001" "US3812245"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:rca],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3929532/en",
-  :title "Method for etching apertured work piece",
-  :status :granted,
-  :id "US3929532",
-  :sourcing :authoritative,
-  :filing-year 1974,
-  :assignee :rca,
-  :grant-year 1975,
-  :cites ["US2437228" "US2750524" "US3329541" "US3609033" "US3679500"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:western-electric],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3930914/en",
-  :title "Thinning semiconductive substrates",
-  :status :granted,
-  :id "US3930914",
-  :sourcing :authoritative,
-  :filing-year 1974,
-  :assignee :western-electric,
-  :grant-year 1976,
-  :cites ["US2958147" "US3404049" "US3447985"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:university-of-michigan-system],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3930956/en",
-  :title "Method for the genetic detection of microorganisms",
-  :status :granted,
-  :id "US3930956",
-  :sourcing :authoritative,
-  :filing-year 1973,
-  :assignee :university-of-michigan-system,
-  :grant-year 1976,
-  :term-years 20,
-  :open-license :none}
- {:assignees [:olympus-optical],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3932133/en",
-  :title
-  "System for detecting the particular chemical component of a test fluid",
-  :status :granted,
-  :id "US3932133",
-  :sourcing :authoritative,
-  :filing-year 1974,
-  :assignee :olympus-optical,
-  :grant-year 1976,
-  :cites
-  ["US3368872"
-   "US3497320"
-   "US3526480"
-   "US3554700"
-   "US3607090"
-   "US3620678"
-   "US3676080"
-   "US3728080"
-   "US3770382"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:national-research-development-uk],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3932807/en",
-  :title "Gas sensitive devices",
-  :status :granted,
-  :id "US3932807",
-  :sourcing :authoritative,
-  :filing-year 1974,
-  :assignee :national-research-development-uk,
-  :grant-year 1976,
-  :cites ["US3695848" "US3699803"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:corning-glass-works],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3933997/en",
-  :title "Solid phase radioimmunoassay of digoxin",
-  :status :granted,
-  :id "US3933997",
-  :sourcing :authoritative,
-  :filing-year 1974,
-  :assignee :corning-glass-works,
-  :grant-year 1976,
-  :cites ["US3519538" "US3652761"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:syva],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3935074/en",
-  :title "Antibody steric hindrance immunoassay with two antibodies",
-  :status :granted,
-  :id "US3935074",
-  :sourcing :authoritative,
-  :filing-year 1973,
-  :assignee :syva,
-  :grant-year 1976,
-  :cites ["US3839153" "US3852157"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:takeda-chemical-industries],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3936439/en",
-  :title "2,6-Diaminonebularine derivatives",
-  :status :granted,
-  :id "US3936439",
-  :sourcing :authoritative,
-  :filing-year 1973,
-  :assignee :takeda-chemical-industries,
-  :grant-year 1976,
-  :cites ["US3040026" "US3404144" "US3431252" "US3590029" "US3752805"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:phillips-petroleum],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3936582/en",
-  :title "Differential release coated articles",
-  :status :granted,
-  :id "US3936582",
-  :sourcing :authoritative,
-  :filing-year 1974,
-  :assignee :phillips-petroleum,
-  :grant-year 1976,
-  :cites
-  ["US3403045"
-   "US3419508"
-   "US3432333"
-   "US3503782"
-   "US3628996"
-   "US3749593"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:leland-stanford-junior-university],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3939350/en",
-  :title
-  "Fluorescent immunoassay employing total reflection for activation",
-  :status :granted,
-  :id "US3939350",
-  :sourcing :authoritative,
-  :filing-year 1974,
-  :assignee :leland-stanford-junior-university,
-  :grant-year 1976,
-  :cites ["US3684377" "US3719410" "US3814939"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:biological-developments],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3940475/en",
-  :title "Radioimmune method of assaying quantitatively for a hapten",
-  :status :granted,
-  :id "US3940475",
-  :sourcing :authoritative,
-  :filing-year 1971,
-  :assignee :biological-developments,
-  :grant-year 1976,
-  :cites ["US3555143" "US3646346"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:massachusetts-institute-of-technology],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3941670/en",
-  :title
-  "Method of altering biological and chemical activity of molecular species",
-  :status :granted,
-  :id "US3941670",
-  :sourcing :authoritative,
-  :filing-year 1970,
-  :assignee :massachusetts-institute-of-technology,
-  :grant-year 1976,
-  :cites
-  ["GB671922A"
-   "US3233964"
-   "US3600291"
-   "US3702973"
-   "US3719454"
-   "US3817703"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:instrumentation-laboratory],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3948732/en",
-  :title "Cell culture assembly",
-  :status :granted,
-  :id "US3948732",
-  :sourcing :authoritative,
-  :filing-year 1974,
-  :assignee :instrumentation-laboratory,
-  :grant-year 1976,
-  :cites ["US3738813" "US3757955" "US3853712"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:american-cyanamid],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3949065/en",
-  :title "Composition and method for the detection of syphilis",
-  :status :granted,
-  :id "US3949065",
-  :sourcing :authoritative,
-  :filing-year 1973,
-  :assignee :american-cyanamid,
-  :grant-year 1976,
-  :cites
-  ["US2111976"
-   "US2112496"
-   "US2301717"
-   "US2770572"
-   "US3074853"
-   "US3406114"
-   "US3647769"
-   "US3666421"
-   "US3695999"
-   "US3737037"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:olympus-optical],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3950649/en",
-  :title "Vertical reflection type fluorescence microphotometer",
-  :status :granted,
-  :id "US3950649",
-  :sourcing :authoritative,
-  :filing-year 1975,
-  :assignee :olympus-optical,
-  :grant-year 1976,
-  :cites ["US3497690"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:medical-products],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3951748/en",
-  :title "Sensitized matrix for detection of disease",
-  :status :granted,
-  :id "US3951748",
-  :sourcing :authoritative,
-  :filing-year 1974,
-  :assignee :medical-products,
-  :grant-year 1976,
-  :cites ["US3791932"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:hoffmann-la-roche],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3952091/en",
-  :title "Simultaneous multiple radioimmunoassay",
-  :status :granted,
-  :id "US3952091",
-  :sourcing :authoritative,
-  :filing-year 1974,
-  :assignee :hoffmann-la-roche,
-  :grant-year 1976,
-  :cites
-  ["US3704282"
-   "US3709868"
-   "US3766162"
-   "US3775536"
-   "US3799741"
-   "US3826619"
-   "US3843696"
-   "US3853987"
-   "US3867366"
-   "US3878187"],
   :term-years 20,
   :open-license :none}]

@@ -5424,6 +5424,19 @@
   :grant-year 1928,
   :term-years 20,
   :open-license :none}
+ {:assignees [:fleischmann],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US1694807/en",
+  :title "Method of cooling and drying materials",
+  :status :granted,
+  :id "US1694807",
+  :sourcing :authoritative,
+  :filing-year 1925,
+  :assignee :fleischmann,
+  :grant-year 1928,
+  :term-years 20,
+  :open-license :none}
  {:jurisdiction :us,
   :field "UNKNOWN",
   :source "https://patents.google.com/patent/US1717702/en",
@@ -5623,6 +5636,17 @@
   :sourcing :authoritative,
   :filing-year 1930,
   :assignee :westinghouse-electric,
+  :grant-year 1933,
+  :term-years 20,
+  :open-license :none}
+ {:jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US1933739/en",
+  :title "Process of producing glass",
+  :status :granted,
+  :id "US1933739",
+  :sourcing :authoritative,
+  :assignee :unassigned,
   :grant-year 1933,
   :term-years 20,
   :open-license :none}
@@ -6050,6 +6074,19 @@
   :sourcing :authoritative,
   :filing-year 1935,
   :assignee :consolidated-water-power-and-paper,
+  :grant-year 1938,
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:leeds-and-northrup],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2108294/en",
+  :title "Method and apparatus for measuring ion-concentration",
+  :status :granted,
+  :id "US2108294",
+  :sourcing :authoritative,
+  :filing-year 1936,
+  :assignee :leeds-and-northrup,
   :grant-year 1938,
   :term-years 20,
   :open-license :none}
@@ -6514,6 +6551,19 @@
   :sourcing :authoritative,
   :filing-year 1938,
   :assignee :celanese,
+  :grant-year 1941,
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:dominion-minerals],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2260749/en",
+  :title "Mineral composition",
+  :status :granted,
+  :id "US2260749",
+  :sourcing :authoritative,
+  :filing-year 1939,
+  :assignee :dominion-minerals,
   :grant-year 1941,
   :term-years 20,
   :open-license :none}
@@ -7340,6 +7390,19 @@
   :grant-year 1945,
   :term-years 20,
   :open-license :none}
+ {:assignees [:nat-technical-lab],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2383709/en",
+  :title "Glass electrode and method",
+  :status :granted,
+  :id "US2383709",
+  :sourcing :authoritative,
+  :filing-year 1940,
+  :assignee :nat-technical-lab,
+  :grant-year 1945,
+  :term-years 20,
+  :open-license :none}
  {:assignees [:jarvis-c-marble :leslie-m-merrill :percy-h-batten],
   :jurisdiction :us,
   :field "UNKNOWN",
@@ -7999,6 +8062,27 @@
    "US2463856"],
   :term-years 20,
   :open-license :none}
+ {:jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2497852/en",
+  :title "Transmitter buoy",
+  :status :granted,
+  :id "US2497852",
+  :sourcing :authoritative,
+  :filing-year 1945,
+  :assignee :unassigned,
+  :grant-year 1950,
+  :cites
+  ["US1417692"
+   "US1485776"
+   "US1503380"
+   "US2115744"
+   "US2281284"
+   "US2293949"
+   "US2310017"
+   "US740317"],
+  :term-years 20,
+  :open-license :none}
  {:assignees [:nat-plastic-products],
   :jurisdiction :us,
   :field "UNKNOWN",
@@ -8063,6 +8147,20 @@
   :assignee :motor-products,
   :grant-year 1950,
   :cites ["US2097428" "US2161187" "US2163712" "US2294520" "US676237"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:corning-glass-works],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2527693/en",
+  :title "Soft glass having wide working range",
+  :status :granted,
+  :id "US2527693",
+  :sourcing :authoritative,
+  :filing-year 1946,
+  :assignee :corning-glass-works,
+  :grant-year 1950,
+  :cites ["FR870982A" "US2392314"],
   :term-years 20,
   :open-license :none}
  {:assignees [:united-states-rubber],
@@ -8260,6 +8358,20 @@
   :assignee :bf-goodrich,
   :grant-year 1951,
   :cites ["US2340111" "US2385931" "US2403112" "US2455652" "US2482825"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:corning-glass-works],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2571242/en",
+  :title "Opal glass and method of controlling fire thereof",
+  :status :granted,
+  :id "US2571242",
+  :sourcing :authoritative,
+  :filing-year 1948,
+  :assignee :corning-glass-works,
+  :grant-year 1951,
+  :cites ["US1305793" "US2097275" "US2097602" "US2440048"],
   :term-years 20,
   :open-license :none}
  {:assignees [:eastman-kodak],
@@ -8505,6 +8617,21 @@
   :assignee :ei-du-pont-de-nemours-and,
   :grant-year 1952,
   :cites ["US2253146" "US2265119" "US2322953" "US2332373" "US2443450"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:directie-van-de-staatsmijnen-in-limburg],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2616950/en",
+  :title
+  "Apparatus for continuously determining the electrical conductivity of a liquid",
+  :status :granted,
+  :id "US2616950",
+  :sourcing :authoritative,
+  :filing-year 1951,
+  :assignee :directie-van-de-staatsmijnen-in-limburg,
+  :grant-year 1952,
+  :cites ["US2370609" "US2547440" "US2563729"],
   :term-years 20,
   :open-license :none}
  {:assignees [:british-artificial-resin-compa],
@@ -8790,163 +8917,5 @@
    "US671417"
    "US819730"
    "US844783"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:usines-decoufle],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US2660178/en",
-  :title
-  "Formation of the roll of tobacco in cigarette-making machines",
-  :status :granted,
-  :id "US2660178",
-  :sourcing :authoritative,
-  :filing-year 1949,
-  :assignee :usines-decoufle,
-  :grant-year 1953,
-  :cites
-  ["US1608138"
-   "US2423554"
-   "US548686"
-   "US554635"
-   "US671417"
-   "US844783"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:crown-zellerbach],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US2666726/en",
-  :title "Method of making masked lignocellulosic material",
-  :status :granted,
-  :id "US2666726",
-  :sourcing :authoritative,
-  :filing-year 1951,
-  :assignee :crown-zellerbach,
-  :grant-year 1954,
-  :cites
-  ["US1852964"
-   "US1999383"
-   "US2086187"
-   "US2137238"
-   "US2219251"
-   "US2245169"
-   "US2343740"
-   "US2442422"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:champion-paper-and-fibre],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US2676563/en",
-  :title "Apparatus for coating paper",
-  :status :granted,
-  :id "US2676563",
-  :sourcing :authoritative,
-  :filing-year 1949,
-  :assignee :champion-paper-and-fibre,
-  :grant-year 1954,
-  :cites
-  ["US1312034"
-   "US1661174"
-   "US1921369"
-   "US2214787"
-   "US2243604"
-   "US2334102"
-   "US2369378"
-   "US2398844"
-   "US2406057"
-   "US2560572"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:john-waldron],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US2679231/en",
-  :title "Web coating apparatus",
-  :status :granted,
-  :id "US2679231",
-  :sourcing :authoritative,
-  :filing-year 1951,
-  :assignee :john-waldron,
-  :grant-year 1954,
-  :cites
-  ["US1899449"
-   "US2135406"
-   "US2139628"
-   "US2176093"
-   "US2511415"
-   "US2545266"],
-  :term-years 20,
-  :open-license :none}
- {:jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US2683669/en",
-  :title "Conductive plastics and method of making the same",
-  :status :granted,
-  :id "US2683669",
-  :sourcing :authoritative,
-  :filing-year 1950,
-  :assignee :unassigned,
-  :grant-year 1954,
-  :cites
-  ["US1299846"
-   "US2020085"
-   "US2120549"
-   "US2151083"
-   "US2406345"
-   "US2472801"
-   "US2509652"
-   "US2526059"
-   "US2543536"],
-  :term-years 20,
-  :open-license :none}
- {:jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US2688306/en",
-  :title "Apparatus for forming an adhesive film",
-  :status :granted,
-  :id "US2688306",
-  :sourcing :authoritative,
-  :filing-year 1951,
-  :assignee :unassigned,
-  :grant-year 1954,
-  :cites ["US1223516" "US2236239" "US2424323" "US2542804"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:phillips-petroleum],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US2693461/en",
-  :title "Synthetic elastomer hydrogenation process",
-  :status :granted,
-  :id "US2693461",
-  :sourcing :authoritative,
-  :filing-year 1952,
-  :assignee :phillips-petroleum,
-  :grant-year 1954,
-  :cites ["US2333242" "US2585583"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:dow-chemical],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US2694692/en",
-  :title
-  "Method of making linear interpolymers of monovinyl aromatic compounds and a natural or synthetic rubber",
-  :status :granted,
-  :id "US2694692",
-  :sourcing :authoritative,
-  :filing-year 1950,
-  :assignee :dow-chemical,
-  :grant-year 1954,
-  :cites
-  ["GB593072A"
-   "US1613673"
-   "US2356091"
-   "US2382498"
-   "US2406403"
-   "US2460300"
-   "US2576134"],
   :term-years 20,
   :open-license :none}]

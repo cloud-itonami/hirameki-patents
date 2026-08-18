@@ -1,0 +1,80 @@
+[{:assignees [:asahi-kasei-chemicals],
+  :jurisdiction :wo,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/WO2011096559A1/en",
+  :title
+  "Block polyisocyanate composition and coating composition containing same",
+  :status :pending,
+  :id "WO2011096559A1",
+  :sourcing :authoritative,
+  :filing-year 2011,
+  :assignee :asahi-kasei-chemicals,
+  :cites
+  ["EP0096210A1"
+   "EP0159117B1"
+   "EP0600314A1"
+   "JP2002521541A"
+   "JP2004528415A"
+   "JP2009155408A"
+   "JP2009155409A"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:kansai-paint],
+  :jurisdiction :wo,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/WO2012137881A1/en",
+  :title "Blocked polyisocyanate compound",
+  :status :pending,
+  :id "WO2012137881A1",
+  :sourcing :authoritative,
+  :filing-year 2012,
+  :assignee :kansai-paint,
+  :cites
+  ["JP2000290493A"
+   "JP2000327647A"
+   "JP2002322238A"
+   "JP2004026958A"
+   "JP2006160936A"
+   "JP2009155409A"
+   "JP2009191127A"
+   "WO2011096559A1"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:kansai-paint],
+  :jurisdiction :wo,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/WO2013151050A1/en",
+  :title "Aqueous paint composition and method for forming coating",
+  :status :pending,
+  :id "WO2013151050A1",
+  :sourcing :authoritative,
+  :filing-year 2013,
+  :assignee :kansai-paint,
+  :cites
+  ["JP2001205175A"
+   "JP2002153806A"
+   "JP2002322238A"
+   "JP2003105258A"
+   "JP2004026958A"
+   "JP2004358462A"
+   "JP2006056973A"
+   "JP2009155409A"
+   "JP2011016957A"
+   "JP2011506620A"
+   "WO2004061025A1"
+   "WO2012137881A1"
+   "WO2012137884A1"],
+  :term-years 20,
+  :open-license :none}
+ {:jurisdiction :wo,
+  :essentiality 0.65,
+  :field "H01M",
+  :title "Solid-state battery electrolyte composition",
+  :status :pending,
+  :id "WO2020100000A1",
+  :sourcing :representative,
+  :filing-year 2019,
+  :assignee :toyota,
+  :grant-year nil,
+  :term-years 20,
+  :open-license :none}]
