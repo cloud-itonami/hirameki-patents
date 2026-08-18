@@ -2035,6 +2035,18 @@
   :open-license :none}
  {:jurisdiction :gb,
   :field "UNKNOWN",
+  :source "https://patents.google.com/patent/GB189512072A/en",
+  :title "Improvements in Filter Beds.",
+  :status :granted,
+  :id "GB189512072A",
+  :sourcing :authoritative,
+  :filing-year 1895,
+  :assignee :unassigned,
+  :grant-year 1896,
+  :term-years 20,
+  :open-license :none}
+ {:jurisdiction :gb,
+  :field "UNKNOWN",
   :source "https://patents.google.com/patent/GB189716315A/en",
   :title
   "An Improved Process of and Apparatus for Incorporating Dissolved and Suspended Substances into Paper, Cardboard, or Pasteboard in Long Sieve or Cylinder Machines.",
@@ -5360,6 +5372,18 @@
   :grant-year 1925,
   :term-years 20,
   :open-license :none}
+ {:jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US1559461/en",
+  :title "Gas and vapor indicating device",
+  :status :granted,
+  :id "US1559461",
+  :sourcing :authoritative,
+  :filing-year 1921,
+  :assignee :unassigned,
+  :grant-year 1925,
+  :term-years 20,
+  :open-license :none}
  {:assignees [:whitfield-paper-works],
   :jurisdiction :us,
   :field "UNKNOWN",
@@ -7492,6 +7516,19 @@
   :grant-year 1946,
   :term-years 20,
   :open-license :none}
+ {:assignees [:bell-telephone-laboratories],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2402662/en",
+  :title "Light-sensitive electric device",
+  :status :granted,
+  :id "US2402662",
+  :sourcing :authoritative,
+  :filing-year 1941,
+  :assignee :bell-telephone-laboratories,
+  :grant-year 1946,
+  :term-years 20,
+  :open-license :none}
  {:jurisdiction :us,
   :field "UNKNOWN",
   :source "https://patents.google.com/patent/US2403631/en",
@@ -7952,6 +7989,29 @@
   :cites ["US2305082" "US2329824" "US2337443" "US2337465"],
   :term-years 20,
   :open-license :none}
+ {:jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2462612/en",
+  :title "Liquid treating apparatus",
+  :status :granted,
+  :id "US2462612",
+  :sourcing :authoritative,
+  :filing-year 1945,
+  :assignee :unassigned,
+  :grant-year 1949,
+  :cites
+  ["FR615127A"
+   "FR786239A"
+   "US1686092"
+   "US1760216"
+   "US2093311"
+   "US2315681"
+   "US320985"
+   "US613194"
+   "US707899"
+   "US807513"],
+  :term-years 20,
+  :open-license :none}
  {:assignees [:monsanto-chemicals],
   :jurisdiction :us,
   :field "UNKNOWN",
@@ -8103,6 +8163,20 @@
    "US2261977"
    "US2320115"
    "US2365374"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:bendix-aviation],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2508588/en",
+  :title "Protective apparatus",
+  :status :granted,
+  :id "US2508588",
+  :sourcing :authoritative,
+  :filing-year 1947,
+  :assignee :bendix-aviation,
+  :grant-year 1950,
+  :cites ["US1888984" "US970122"],
   :term-years 20,
   :open-license :none}
  {:assignees [:minnesota-and-ontario-paper],
@@ -8358,6 +8432,26 @@
   :assignee :bf-goodrich,
   :grant-year 1951,
   :cites ["US2340111" "US2385931" "US2403112" "US2455652" "US2482825"],
+  :term-years 20,
+  :open-license :none}
+ {:jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2571171/en",
+  :title "Dew point hygrometer",
+  :status :granted,
+  :id "US2571171",
+  :sourcing :authoritative,
+  :filing-year 1945,
+  :assignee :unassigned,
+  :grant-year 1951,
+  :cites
+  ["US1951276"
+   "US2011710"
+   "US2017859"
+   "US2230649"
+   "US2361634"
+   "US2375273"
+   "US2412782"],
   :term-years 20,
   :open-license :none}
  {:assignees [:corning-glass-works],
@@ -8828,94 +8922,5 @@
   :assignee :unassigned,
   :grant-year 1953,
   :cites ["US2155083" "US2176093"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:minnesota-mining-and-manufacturing],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US2654681/en",
-  :title "Magnetic recording tape",
-  :status :granted,
-  :id "US2654681",
-  :sourcing :authoritative,
-  :filing-year 1950,
-  :assignee :minnesota-mining-and-manufacturing,
-  :grant-year 1953,
-  :cites
-  ["GB459884A"
-   "GB466023A"
-   "US2117321"
-   "US2258218"
-   "US2357348"
-   "US2384384"
-   "US2389491"
-   "US2392805"
-   "US2418479"
-   "US2442613"
-   "US2463974"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:paper-patents],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US2656296/en",
-  :title "Process of manufacturing fibrous sheet covered plywood",
-  :status :granted,
-  :id "US2656296",
-  :sourcing :authoritative,
-  :filing-year 1951,
-  :assignee :paper-patents,
-  :grant-year 1953,
-  :cites
-  ["US1857690"
-   "US2031260"
-   "US2325302"
-   "US2343740"
-   "US2383283"
-   "US2442422"
-   "US2497712"
-   "US2565251"],
-  :term-years 20,
-  :open-license :none}
- {:jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US2656508/en",
-  :title "Means for counting particles suspended in a fluid",
-  :status :granted,
-  :id "US2656508",
-  :sourcing :authoritative,
-  :filing-year 1949,
-  :assignee :unassigned,
-  :grant-year 1953,
-  :cites
-  ["US1070556"
-   "US1168227"
-   "US1995492"
-   "US2122363"
-   "US2262370"
-   "US2349992"
-   "US2492768"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:usines-deeoufle],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US2660177/en",
-  :title "Automatic tobacco feeding cigarette machine",
-  :status :granted,
-  :id "US2660177",
-  :sourcing :authoritative,
-  :filing-year 1952,
-  :assignee :usines-deeoufle,
-  :grant-year 1953,
-  :cites
-  ["US1608138"
-   "US1838110"
-   "US1971869"
-   "US548686"
-   "US554635"
-   "US671417"
-   "US819730"
-   "US844783"],
   :term-years 20,
   :open-license :none}]
