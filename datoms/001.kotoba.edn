@@ -1,4 +1,45 @@
 [[":db/add"
+  "hirameki-patent:JP2002020691A"
+  ":hirameki.obs/years-to-expiry"
+  -6]
+ [":db/add"
+  "hirameki-patent:JP2002020691A"
+  ":hirameki/source"
+  "https://patents.google.com/patent/JP2002020691A/en"]
+ [":db/add"
+  "hirameki-patent:JP2002086057A"
+  ":hirameki.patent/title"
+  "Double-layered metallic coating film formation method"]
+ [":db/add"
+  "hirameki-patent:JP2002086057A"
+  ":hirameki.patent/jurisdiction"
+  ":jp"]
+ [":db/add"
+  "hirameki-patent:JP2002086057A"
+  ":hirameki.patent/field"
+  "UNKNOWN"]
+ [":db/add"
+  "hirameki-patent:JP2002086057A"
+  ":hirameki.patent/assignee"
+  ":daihatsu-motor"]
+ [":db/add"
+  "hirameki-patent:JP2002086057A"
+  ":hirameki.patent/status"
+  ":pending"]
+ [":db/add"
+  "hirameki-patent:JP2002086057A"
+  ":hirameki.patent/open-license"
+  ":none"]
+ [":db/add"
+  "hirameki-patent:JP2002086057A"
+  ":hirameki.obs/release-status"
+  ":pending"]
+ [":db/add"
+  "hirameki-patent:JP2002086057A"
+  ":hirameki/sourcing"
+  ":authoritative"]
+ [":db/add" "hirameki-patent:JP2002086057A" ":hirameki/derived" true]
+ [":db/add"
   "hirameki-patent:JP2002086057A"
   ":hirameki.obs/years-to-expiry"
   -6]
@@ -6995,6 +7036,47 @@
   ":hirameki/source"
   "https://patents.google.com/patent/US1921369/en"]
  [":db/add"
+  "hirameki-patent:US1922221"
+  ":hirameki.patent/title"
+  "Resistance material"]
+ [":db/add"
+  "hirameki-patent:US1922221"
+  ":hirameki.patent/jurisdiction"
+  ":us"]
+ [":db/add"
+  "hirameki-patent:US1922221"
+  ":hirameki.patent/field"
+  "UNKNOWN"]
+ [":db/add"
+  "hirameki-patent:US1922221"
+  ":hirameki.patent/assignee"
+  ":westinghouse-electric"]
+ [":db/add"
+  "hirameki-patent:US1922221"
+  ":hirameki.patent/status"
+  ":granted"]
+ [":db/add"
+  "hirameki-patent:US1922221"
+  ":hirameki.patent/open-license"
+  ":none"]
+ [":db/add"
+  "hirameki-patent:US1922221"
+  ":hirameki.obs/release-status"
+  ":public-domain"]
+ [":db/add"
+  "hirameki-patent:US1922221"
+  ":hirameki/sourcing"
+  ":authoritative"]
+ [":db/add" "hirameki-patent:US1922221" ":hirameki/derived" true]
+ [":db/add"
+  "hirameki-patent:US1922221"
+  ":hirameki.obs/years-to-expiry"
+  -76]
+ [":db/add"
+  "hirameki-patent:US1922221"
+  ":hirameki/source"
+  "https://patents.google.com/patent/US1922221/en"]
+ [":db/add"
   "hirameki-patent:US1933963"
   ":hirameki.patent/title"
   "Process for coating paper"]
@@ -7610,6 +7692,129 @@
   ":hirameki/source"
   "https://patents.google.com/patent/US2042255/en"]
  [":db/add"
+  "hirameki-patent:US2044608"
+  ":hirameki.patent/title"
+  "Diaphragm for electrical reproduction of sound"]
+ [":db/add"
+  "hirameki-patent:US2044608"
+  ":hirameki.patent/jurisdiction"
+  ":us"]
+ [":db/add"
+  "hirameki-patent:US2044608"
+  ":hirameki.patent/field"
+  "UNKNOWN"]
+ [":db/add"
+  "hirameki-patent:US2044608"
+  ":hirameki.patent/assignee"
+  ":dupont-viscoloid"]
+ [":db/add"
+  "hirameki-patent:US2044608"
+  ":hirameki.patent/status"
+  ":granted"]
+ [":db/add"
+  "hirameki-patent:US2044608"
+  ":hirameki.patent/open-license"
+  ":none"]
+ [":db/add"
+  "hirameki-patent:US2044608"
+  ":hirameki.obs/release-status"
+  ":public-domain"]
+ [":db/add"
+  "hirameki-patent:US2044608"
+  ":hirameki/sourcing"
+  ":authoritative"]
+ [":db/add" "hirameki-patent:US2044608" ":hirameki/derived" true]
+ [":db/add"
+  "hirameki-patent:US2044608"
+  ":hirameki.obs/years-to-expiry"
+  -71]
+ [":db/add"
+  "hirameki-patent:US2044608"
+  ":hirameki/source"
+  "https://patents.google.com/patent/US2044608/en"]
+ [":db/add"
+  "hirameki-patent:US2046160"
+  ":hirameki.patent/title"
+  "Hydrogenated rubber and a process for producing same"]
+ [":db/add"
+  "hirameki-patent:US2046160"
+  ":hirameki.patent/jurisdiction"
+  ":us"]
+ [":db/add"
+  "hirameki-patent:US2046160"
+  ":hirameki.patent/field"
+  "UNKNOWN"]
+ [":db/add"
+  "hirameki-patent:US2046160"
+  ":hirameki.patent/assignee"
+  ":ei-du-pont-de-nemours-and"]
+ [":db/add"
+  "hirameki-patent:US2046160"
+  ":hirameki.patent/status"
+  ":granted"]
+ [":db/add"
+  "hirameki-patent:US2046160"
+  ":hirameki.patent/open-license"
+  ":none"]
+ [":db/add"
+  "hirameki-patent:US2046160"
+  ":hirameki.obs/release-status"
+  ":public-domain"]
+ [":db/add"
+  "hirameki-patent:US2046160"
+  ":hirameki/sourcing"
+  ":authoritative"]
+ [":db/add" "hirameki-patent:US2046160" ":hirameki/derived" true]
+ [":db/add"
+  "hirameki-patent:US2046160"
+  ":hirameki.obs/years-to-expiry"
+  -73]
+ [":db/add"
+  "hirameki-patent:US2046160"
+  ":hirameki/source"
+  "https://patents.google.com/patent/US2046160/en"]
+ [":db/add"
+  "hirameki-patent:US2046257"
+  ":hirameki.patent/title"
+  "Chemical process"]
+ [":db/add"
+  "hirameki-patent:US2046257"
+  ":hirameki.patent/jurisdiction"
+  ":us"]
+ [":db/add"
+  "hirameki-patent:US2046257"
+  ":hirameki.patent/field"
+  "UNKNOWN"]
+ [":db/add"
+  "hirameki-patent:US2046257"
+  ":hirameki.patent/assignee"
+  ":ei-du-pont-de-nemours-and"]
+ [":db/add"
+  "hirameki-patent:US2046257"
+  ":hirameki.patent/status"
+  ":granted"]
+ [":db/add"
+  "hirameki-patent:US2046257"
+  ":hirameki.patent/open-license"
+  ":none"]
+ [":db/add"
+  "hirameki-patent:US2046257"
+  ":hirameki.obs/release-status"
+  ":public-domain"]
+ [":db/add"
+  "hirameki-patent:US2046257"
+  ":hirameki/sourcing"
+  ":authoritative"]
+ [":db/add" "hirameki-patent:US2046257" ":hirameki/derived" true]
+ [":db/add"
+  "hirameki-patent:US2046257"
+  ":hirameki.obs/years-to-expiry"
+  -72]
+ [":db/add"
+  "hirameki-patent:US2046257"
+  ":hirameki/source"
+  "https://patents.google.com/patent/US2046257/en"]
+ [":db/add"
   "hirameki-patent:US2050061"
   ":hirameki.patent/title"
   "Fiber utensil"]
@@ -8183,6 +8388,47 @@
   "hirameki-patent:US2105488"
   ":hirameki/source"
   "https://patents.google.com/patent/US2105488/en"]
+ [":db/add"
+  "hirameki-patent:US2109495"
+  ":hirameki.patent/title"
+  "Treatment of rubber and related hydrocarbons"]
+ [":db/add"
+  "hirameki-patent:US2109495"
+  ":hirameki.patent/jurisdiction"
+  ":us"]
+ [":db/add"
+  "hirameki-patent:US2109495"
+  ":hirameki.patent/field"
+  "UNKNOWN"]
+ [":db/add"
+  "hirameki-patent:US2109495"
+  ":hirameki.patent/assignee"
+  ":atlantic-refining"]
+ [":db/add"
+  "hirameki-patent:US2109495"
+  ":hirameki.patent/status"
+  ":granted"]
+ [":db/add"
+  "hirameki-patent:US2109495"
+  ":hirameki.patent/open-license"
+  ":none"]
+ [":db/add"
+  "hirameki-patent:US2109495"
+  ":hirameki.obs/release-status"
+  ":public-domain"]
+ [":db/add"
+  "hirameki-patent:US2109495"
+  ":hirameki/sourcing"
+  ":authoritative"]
+ [":db/add" "hirameki-patent:US2109495" ":hirameki/derived" true]
+ [":db/add"
+  "hirameki-patent:US2109495"
+  ":hirameki.obs/years-to-expiry"
+  -72]
+ [":db/add"
+  "hirameki-patent:US2109495"
+  ":hirameki/source"
+  "https://patents.google.com/patent/US2109495/en"]
  [":db/add"
   "hirameki-patent:US2118152"
   ":hirameki.patent/title"
@@ -9846,256 +10092,4 @@
  [":db/add"
   "hirameki-patent:US2275989"
   ":hirameki.patent/open-license"
-  ":none"]
- [":db/add"
-  "hirameki-patent:US2275989"
-  ":hirameki.obs/release-status"
-  ":public-domain"]
- [":db/add"
-  "hirameki-patent:US2275989"
-  ":hirameki/sourcing"
-  ":authoritative"]
- [":db/add" "hirameki-patent:US2275989" ":hirameki/derived" true]
- [":db/add"
-  "hirameki-patent:US2275989"
-  ":hirameki.obs/years-to-expiry"
-  -68]
- [":db/add"
-  "hirameki-patent:US2275989"
-  ":hirameki/source"
-  "https://patents.google.com/patent/US2275989/en"]
- [":db/add"
-  "hirameki-patent:US2276244"
-  ":hirameki.patent/title"
-  "Waterproof and greaseproof paper"]
- [":db/add"
-  "hirameki-patent:US2276244"
-  ":hirameki.patent/jurisdiction"
-  ":us"]
- [":db/add"
-  "hirameki-patent:US2276244"
-  ":hirameki.patent/field"
-  "UNKNOWN"]
- [":db/add"
-  "hirameki-patent:US2276244"
-  ":hirameki.patent/assignee"
-  ":gardner-richardson"]
- [":db/add"
-  "hirameki-patent:US2276244"
-  ":hirameki.patent/status"
-  ":granted"]
- [":db/add"
-  "hirameki-patent:US2276244"
-  ":hirameki.patent/open-license"
-  ":none"]
- [":db/add"
-  "hirameki-patent:US2276244"
-  ":hirameki.obs/release-status"
-  ":public-domain"]
- [":db/add"
-  "hirameki-patent:US2276244"
-  ":hirameki/sourcing"
-  ":authoritative"]
- [":db/add" "hirameki-patent:US2276244" ":hirameki/derived" true]
- [":db/add"
-  "hirameki-patent:US2276244"
-  ":hirameki.obs/years-to-expiry"
-  -67]
- [":db/add"
-  "hirameki-patent:US2276244"
-  ":hirameki/source"
-  "https://patents.google.com/patent/US2276244/en"]
- [":db/add" "hirameki-patent:US2277" ":hirameki.patent/title" "Island"]
- [":db/add"
-  "hirameki-patent:US2277"
-  ":hirameki.patent/jurisdiction"
-  ":us"]
- [":db/add"
-  "hirameki-patent:US2277"
-  ":hirameki.patent/field"
-  "UNKNOWN"]
- [":db/add"
-  "hirameki-patent:US2277"
-  ":hirameki.patent/assignee"
-  ":unassigned"]
- [":db/add"
-  "hirameki-patent:US2277"
-  ":hirameki.patent/status"
-  ":granted"]
- [":db/add"
-  "hirameki-patent:US2277"
-  ":hirameki.patent/open-license"
-  ":none"]
- [":db/add"
-  "hirameki-patent:US2277"
-  ":hirameki.obs/release-status"
-  ":in-force"]
- [":db/add"
-  "hirameki-patent:US2277"
-  ":hirameki/sourcing"
-  ":authoritative"]
- [":db/add" "hirameki-patent:US2277" ":hirameki/derived" true]
- [":db/add"
-  "hirameki-patent:US2277"
-  ":hirameki/source"
-  "https://patents.google.com/patent/US2277/en"]
- [":db/add"
-  "hirameki-patent:US2277287"
-  ":hirameki.patent/title"
-  "Manufacture of coated materials and product"]
- [":db/add"
-  "hirameki-patent:US2277287"
-  ":hirameki.patent/jurisdiction"
-  ":us"]
- [":db/add"
-  "hirameki-patent:US2277287"
-  ":hirameki.patent/field"
-  "UNKNOWN"]
- [":db/add"
-  "hirameki-patent:US2277287"
-  ":hirameki.patent/assignee"
-  ":unassigned"]
- [":db/add"
-  "hirameki-patent:US2277287"
-  ":hirameki.patent/status"
-  ":granted"]
- [":db/add"
-  "hirameki-patent:US2277287"
-  ":hirameki.patent/open-license"
-  ":none"]
- [":db/add"
-  "hirameki-patent:US2277287"
-  ":hirameki.obs/release-status"
-  ":public-domain"]
- [":db/add"
-  "hirameki-patent:US2277287"
-  ":hirameki/sourcing"
-  ":authoritative"]
- [":db/add" "hirameki-patent:US2277287" ":hirameki/derived" true]
- [":db/add"
-  "hirameki-patent:US2277287"
-  ":hirameki.obs/years-to-expiry"
-  -67]
- [":db/add"
-  "hirameki-patent:US2277287"
-  ":hirameki/source"
-  "https://patents.google.com/patent/US2277287/en"]
- [":db/add"
-  "hirameki-patent:US2281496"
-  ":hirameki.patent/title"
-  "Air drier for paper"]
- [":db/add"
-  "hirameki-patent:US2281496"
-  ":hirameki.patent/jurisdiction"
-  ":us"]
- [":db/add"
-  "hirameki-patent:US2281496"
-  ":hirameki.patent/field"
-  "UNKNOWN"]
- [":db/add"
-  "hirameki-patent:US2281496"
-  ":hirameki.patent/assignee"
-  ":w-c-hamilton-&-sons"]
- [":db/add"
-  "hirameki-patent:US2281496"
-  ":hirameki.patent/status"
-  ":granted"]
- [":db/add"
-  "hirameki-patent:US2281496"
-  ":hirameki.patent/open-license"
-  ":none"]
- [":db/add"
-  "hirameki-patent:US2281496"
-  ":hirameki.obs/release-status"
-  ":public-domain"]
- [":db/add"
-  "hirameki-patent:US2281496"
-  ":hirameki/sourcing"
-  ":authoritative"]
- [":db/add" "hirameki-patent:US2281496" ":hirameki/derived" true]
- [":db/add"
-  "hirameki-patent:US2281496"
-  ":hirameki.obs/years-to-expiry"
-  -66]
- [":db/add"
-  "hirameki-patent:US2281496"
-  ":hirameki/source"
-  "https://patents.google.com/patent/US2281496/en"]
- [":db/add"
-  "hirameki-patent:US2282375"
-  ":hirameki.patent/title"
-  "Wax sealing composition"]
- [":db/add"
-  "hirameki-patent:US2282375"
-  ":hirameki.patent/jurisdiction"
-  ":us"]
- [":db/add"
-  "hirameki-patent:US2282375"
-  ":hirameki.patent/field"
-  "UNKNOWN"]
- [":db/add"
-  "hirameki-patent:US2282375"
-  ":hirameki.patent/assignee"
-  ":moore-and-munger"]
- [":db/add"
-  "hirameki-patent:US2282375"
-  ":hirameki.patent/status"
-  ":granted"]
- [":db/add"
-  "hirameki-patent:US2282375"
-  ":hirameki.patent/open-license"
-  ":none"]
- [":db/add"
-  "hirameki-patent:US2282375"
-  ":hirameki.obs/release-status"
-  ":public-domain"]
- [":db/add"
-  "hirameki-patent:US2282375"
-  ":hirameki/sourcing"
-  ":authoritative"]
- [":db/add" "hirameki-patent:US2282375" ":hirameki/derived" true]
- [":db/add"
-  "hirameki-patent:US2282375"
-  ":hirameki.obs/years-to-expiry"
-  -67]
- [":db/add"
-  "hirameki-patent:US2282375"
-  ":hirameki/source"
-  "https://patents.google.com/patent/US2282375/en"]
- [":db/add"
-  "hirameki-patent:US2286259"
-  ":hirameki.patent/title"
-  "Manufacture of coated paper"]
- [":db/add"
-  "hirameki-patent:US2286259"
-  ":hirameki.patent/jurisdiction"
-  ":us"]
- [":db/add"
-  "hirameki-patent:US2286259"
-  ":hirameki.patent/field"
-  "UNKNOWN"]
- [":db/add"
-  "hirameki-patent:US2286259"
-  ":hirameki.patent/assignee"
-  ":unassigned"]
- [":db/add"
-  "hirameki-patent:US2286259"
-  ":hirameki.patent/status"
-  ":granted"]
- [":db/add"
-  "hirameki-patent:US2286259"
-  ":hirameki.patent/open-license"
-  ":none"]
- [":db/add"
-  "hirameki-patent:US2286259"
-  ":hirameki.obs/release-status"
-  ":public-domain"]
- [":db/add"
-  "hirameki-patent:US2286259"
-  ":hirameki/sourcing"
-  ":authoritative"]
- [":db/add" "hirameki-patent:US2286259" ":hirameki/derived" true]
- [":db/add"
-  "hirameki-patent:US2286259"
-  ":hirameki.obs/years-to-expiry"
-  -66]]
+  ":none"]]

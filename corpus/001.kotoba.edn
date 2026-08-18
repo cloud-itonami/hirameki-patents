@@ -1,4 +1,297 @@
-[{:assignees [:hercules-powder],
+[{:assignees [:beckman-instruments],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2755243/en",
+  :title "Electrochemical electrode structure",
+  :status :granted,
+  :id "US2755243",
+  :sourcing :authoritative,
+  :filing-year 1952,
+  :assignee :beckman-instruments,
+  :grant-year 1956,
+  :cites ["US2289610" "US2311976" "US2311977" "US2340642" "US2345498"],
+  :term-years 20,
+  :open-license :none}
+ {:jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2757132/en",
+  :title "Method of electrochemical analysis",
+  :status :granted,
+  :id "US2757132",
+  :sourcing :authoritative,
+  :filing-year 1944,
+  :assignee :unassigned,
+  :grant-year 1956,
+  :cites
+  ["FR885615A"
+   "GB302490A"
+   "US1340649"
+   "US1530833"
+   "US2024819"
+   "US2114234"
+   "US2156693"
+   "US2278248"
+   "US2370871"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:polaroid],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2759825/en",
+  :title "Photographic image transfer process",
+  :status :granted,
+  :id "US2759825",
+  :sourcing :authoritative,
+  :filing-year 1951,
+  :assignee :polaroid,
+  :grant-year 1956,
+  :cites
+  ["BE441852A"
+   "BE444785A"
+   "FR53311E"
+   "FR873507A"
+   "FR879995A"
+   "GB511800A"
+   "US2347640"
+   "US2352014"
+   "US2367420"
+   "US2386167"
+   "US2543181"
+   "US2626858"
+   "US2698537"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:ei-du-pont-de-nemours-and],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2761067/en",
+  :title "Multi-component photometric analysis",
+  :status :granted,
+  :id "US2761067",
+  :sourcing :authoritative,
+  :filing-year 1953,
+  :assignee :ei-du-pont-de-nemours-and,
+  :grant-year 1956,
+  :cites ["US2395489" "US2613572"],
+  :term-years 20,
+  :open-license :none}
+ {:jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2761854/en",
+  :title "Manufacture of conductive plastics",
+  :status :granted,
+  :id "US2761854",
+  :sourcing :authoritative,
+  :filing-year 1952,
+  :assignee :unassigned,
+  :grant-year 1956,
+  :cites
+  ["GB519298A"
+   "US1922221"
+   "US2044608"
+   "US2280135"
+   "US2403657"
+   "US2416480"
+   "US2421154"
+   "US2434190"
+   "US2683669"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:ei-du-pont-de-nemours-and],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2762720/en",
+  :title
+  "Heat-shrinkable packaging material and process for preparing same",
+  :status :granted,
+  :id "US2762720",
+  :sourcing :authoritative,
+  :filing-year 1955,
+  :assignee :ei-du-pont-de-nemours-and,
+  :grant-year 1956,
+  :term-years 20,
+  :open-license :none}
+ {:jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2763417/en",
+  :title "Filling machine",
+  :status :granted,
+  :id "US2763417",
+  :sourcing :authoritative,
+  :filing-year 1952,
+  :assignee :unassigned,
+  :grant-year 1956,
+  :cites ["US2049538" "US2433478" "US2452666" "US2542133" "US961741"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:general-tire-and-rubber],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2766164/en",
+  :title "Adhesion of synthetic polymers to polymerizable materials",
+  :status :granted,
+  :id "US2766164",
+  :sourcing :authoritative,
+  :filing-year 1954,
+  :assignee :general-tire-and-rubber,
+  :grant-year 1956,
+  :cites ["US2415839" "US2417792" "US2561215"],
+  :term-years 20,
+  :open-license :none}
+ {:jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2766807/en",
+  :title
+  "Apparatus and method for making a strip product capable of being wound up and provided with onefaced layer of cured thermosetting resin and product",
+  :status :granted,
+  :id "US2766807",
+  :sourcing :authoritative,
+  :filing-year 1953,
+  :assignee :unassigned,
+  :grant-year 1956,
+  :cites
+  ["GB391941A"
+   "US1887691"
+   "US2227494"
+   "US2306295"
+   "US2334485"
+   "US2359314"
+   "US2434795"
+   "US2448357"
+   "US2496122"
+   "US2496911"
+   "US2528152"
+   "US2528168"
+   "US2554150"
+   "US2568463"
+   "US2579949"
+   "US2584177"
+   "US2587171"
+   "US2640799"
+   "US2665221"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:milprint],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2768906/en",
+  :title
+  "Art of producing wax-coated wrappers having a silicone anti-blocking layer",
+  :status :granted,
+  :id "US2768906",
+  :sourcing :authoritative,
+  :filing-year 1953,
+  :assignee :milprint,
+  :grant-year 1956,
+  :cites
+  ["US1759124"
+   "US1972448"
+   "US2159152"
+   "US2227787"
+   "US2282375"
+   "US2322048"
+   "US2431873"
+   "US2449572"
+   "US2588367"
+   "US2654681"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:kimberly-clark],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2772184/en",
+  :title "Paper coating",
+  :status :granted,
+  :id "US2772184",
+  :sourcing :authoritative,
+  :filing-year 1953,
+  :assignee :kimberly-clark,
+  :grant-year 1956,
+  :cites
+  ["US1060366"
+   "US2007578"
+   "US2183858"
+   "US2304818"
+   "US2419207"
+   "US2502783"
+   "US2632714"
+   "US2656286"
+   "US2661309"
+   "US2685571"
+   "US2698259"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:combined-locks-paper],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2772604/en",
+  :title
+  "Method of coating paper with high solids content coating material",
+  :status :granted,
+  :id "US2772604",
+  :sourcing :authoritative,
+  :filing-year 1953,
+  :assignee :combined-locks-paper,
+  :grant-year 1956,
+  :cites
+  ["GB189716315A"
+   "GB392742A"
+   "US1598302"
+   "US1921369"
+   "US2176418"
+   "US2208236"
+   "US2243604"
+   "US2398843"
+   "US2422345"
+   "US2649386"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:exxon-research-and-engineering],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2775303/en",
+  :title "Method for controlling sand in wells",
+  :status :granted,
+  :id "US2775303",
+  :sourcing :authoritative,
+  :filing-year 1953,
+  :assignee :exxon-research-and-engineering,
+  :grant-year 1956,
+  :cites
+  ["CA470229A"
+   "US2167190"
+   "US2167191"
+   "US2198573"
+   "US2205422"
+   "US2216037"
+   "US2297308"
+   "US2299057"
+   "US2310397"
+   "US2312862"
+   "US2652117"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:eastman-kodak],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2776236/en",
+  :title "Waterproof photographic paper and method of making same",
+  :status :granted,
+  :id "US2776236",
+  :sourcing :authoritative,
+  :filing-year 1954,
+  :assignee :eastman-kodak,
+  :grant-year 1957,
+  :cites
+  ["US1751882"
+   "US2273880"
+   "US2276244"
+   "US2392972"
+   "US2571725"
+   "US450963"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:hercules-powder],
   :jurisdiction :us,
   :field "UNKNOWN",
   :source "https://patents.google.com/patent/US2776912/en",
@@ -208,6 +501,20 @@
    "US2582961"
    "US2645625"
    "US2684346"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:burgess-battery],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2808352/en",
+  :title "Electrically conductive adhesive tape",
+  :status :granted,
+  :id "US2808352",
+  :sourcing :authoritative,
+  :filing-year 1951,
+  :assignee :burgess-battery,
+  :grant-year 1957,
+  :cites ["US2037749" "US2200363" "US2441945" "US2463452" "US882770"],
   :term-years 20,
   :open-license :none}
  {:assignees [:phillips-petroleum],
@@ -9130,270 +9437,5 @@
   :assignee :leland-stanford-junior-university,
   :grant-year 1977,
   :cites ["US3904367"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:general-hospital],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US4036945/en",
-  :title
-  "Composition and method for determining the size and location of myocardial infarcts",
-  :status :granted,
-  :id "US4036945",
-  :sourcing :authoritative,
-  :filing-year 1976,
-  :assignee :general-hospital,
-  :grant-year 1977,
-  :cites ["US3812245"],
-  :term-years 20,
-  :open-license :none}
- {:jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US4036946/en",
-  :title
-  "Immunofluorometric method for measuring minute quantities of antigens, antibodies and other substances",
-  :status :granted,
-  :id "US4036946",
-  :sourcing :authoritative,
-  :filing-year 1975,
-  :assignee :unassigned,
-  :grant-year 1977,
-  :cites ["US3720760"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:yeda-research-and-development],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US4037037/en",
-  :title
-  "Novel method of organic synthesis to form a polymer-bound active species",
-  :status :granted,
-  :id "US4037037",
-  :sourcing :authoritative,
-  :filing-year 1974,
-  :assignee :yeda-research-and-development,
-  :grant-year 1977,
-  :cites ["US3008927" "US3297648" "US3625870"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:bell-telephone-laboratories],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US4037111/en",
-  :title "Mask structures for X-ray lithography",
-  :status :granted,
-  :id "US4037111",
-  :sourcing :authoritative,
-  :filing-year 1976,
-  :assignee :bell-telephone-laboratories,
-  :grant-year 1977,
-  :cites ["US3892973" "US3925677" "US3958263"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:replacement-products-ind],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US4037378/en",
-  :title "Window frame",
-  :status :granted,
-  :id "US4037378",
-  :sourcing :authoritative,
-  :filing-year 1976,
-  :assignee :replacement-products-ind,
-  :grant-year 1977,
-  :cites
-  ["US2965935"
-   "US3205630"
-   "US3295283"
-   "US3335524"
-   "US3411247"
-   "US3436884"
-   "US3462884"
-   "US3866380"
-   "US3910254"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:university-of-michigan-system],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US4038143/en",
-  :title "Test kit for the genetic detection of microorganisms",
-  :status :granted,
-  :id "US4038143",
-  :sourcing :authoritative,
-  :filing-year 1975,
-  :assignee :university-of-michigan-system,
-  :grant-year 1977,
-  :cites ["US3671400"],
-  :term-years 20,
-  :open-license :none}
- {:jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US4038378/en",
-  :title "Radioimmunoassay for hepatitis b antigen",
-  :status :granted,
-  :id "US4038378",
-  :sourcing :authoritative,
-  :filing-year 1975,
-  :assignee :unassigned,
-  :grant-year 1977,
-  :cites ["US3794467" "US3896218"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:icn-pharmaceuticals],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US4038480/en",
-  :title "6-aminocarbonyl purine 3&#39;,5&#39;-cyclic nucleotides",
-  :status :granted,
-  :id "US4038480",
-  :sourcing :authoritative,
-  :filing-year 1973,
-  :assignee :icn-pharmaceuticals,
-  :grant-year 1977,
-  :cites ["US3380996" "US3535207" "US3712885"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:general-electric],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US4041146/en",
-  :title "Method for detection of biological particles",
-  :status :granted,
-  :id "US4041146",
-  :sourcing :authoritative,
-  :filing-year 1975,
-  :assignee :general-electric,
-  :grant-year 1977,
-  :cites
-  ["US3284434"
-   "US3555143"
-   "US3592888"
-   "US3639559"
-   "US3720760"
-   "US3826619"
-   "US3896217"
-   "US3979509"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:dow-chemical],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US4043948/en",
-  :title
-  "Insoluble polyalkyl phosphonium salt resins having carbon-carbon crosslinked backbone",
-  :status :granted,
-  :id "US4043948",
-  :sourcing :authoritative,
-  :filing-year 1975,
-  :assignee :dow-chemical,
-  :grant-year 1977,
-  :cites ["US3125555" "US3629367" "US3641202" "US3865796"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:geometric-data],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US4045772/en",
-  :title "Automatic focusing system",
-  :status :granted,
-  :id "US4045772",
-  :sourcing :authoritative,
-  :filing-year 1976,
-  :assignee :geometric-data,
-  :grant-year 1977,
-  :cites ["US3315229" "US3819913" "US3824393" "US3827804" "US3873974"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:gd-searle-and],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US4046722/en",
-  :title "Immunological materials",
-  :status :granted,
-  :id "US4046722",
-  :sourcing :authoritative,
-  :filing-year 1976,
-  :assignee :gd-searle-and,
-  :grant-year 1977,
-  :term-years 20,
-  :open-license :none}
- {:assignees [:rohm-and-haas],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US4048298/en",
-  :title "Solid phase double-antibody radioimmunoassay procedure",
-  :status :granted,
-  :id "US4048298",
-  :sourcing :authoritative,
-  :filing-year 1975,
-  :assignee :rohm-and-haas,
-  :grant-year 1977,
-  :cites ["US3790663" "US3857931" "US3904367"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:corning-glass-works],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US4052010/en",
-  :title "Suspendable porous glass particles",
-  :status :granted,
-  :id "US4052010",
-  :sourcing :authoritative,
-  :filing-year 1974,
-  :assignee :corning-glass-works,
-  :grant-year 1977,
-  :cites ["US2214717" "US3361680" "US3519538" "US3652761"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:siemens],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US4057659/en",
-  :title "Semiconductor device and a method of producing such device",
-  :status :granted,
-  :id "US4057659",
-  :sourcing :authoritative,
-  :filing-year 1975,
-  :assignee :siemens,
-  :grant-year 1977,
-  :cites ["GB985280A" "US3700497" "US3710205"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:analytical-radiation],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US4058732/en",
-  :title
-  "Method and apparatus for improved analytical fluorescent spectroscopy",
-  :status :granted,
-  :id "US4058732",
-  :sourcing :authoritative,
-  :filing-year 1975,
-  :assignee :analytical-radiation,
-  :grant-year 1977,
-  :cites ["US3842264" "US3886363" "US4006360"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:summa],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US4059685/en",
-  :title "Immobilized immunoadsorbent",
-  :status :granted,
-  :id "US4059685",
-  :sourcing :authoritative,
-  :filing-year 1975,
-  :assignee :summa,
-  :grant-year 1977,
-  :cites
-  ["DE2412833A1"
-   "GB1257263A"
-   "US3505785"
-   "US3639558"
-   "US3652761"
-   "US3700609"
-   "US3796634"
-   "US3975511"],
   :term-years 20,
   :open-license :none}]
