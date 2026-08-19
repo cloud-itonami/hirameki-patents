@@ -140,6 +140,18 @@
   :cites ["DE4414032A1"],
   :term-years 20,
   :open-license :none}
+ {:assignees [:taguchi-naoyoshi-nagataku-kobe-japan],
+  :jurisdiction :de,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/DE2005497A1/en",
+  :title "Gas detection element",
+  :status :pending,
+  :id "DE2005497A1",
+  :sourcing :authoritative,
+  :filing-year 1970,
+  :assignee :taguchi-naoyoshi-nagataku-kobe-japan,
+  :term-years 20,
+  :open-license :none}
  {:assignees [:basf-se],
   :jurisdiction :de,
   :field "UNKNOWN",
@@ -6166,6 +6178,18 @@
   :grant-year 1938,
   :term-years 20,
   :open-license :none}
+ {:jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2127538/en",
+  :title "Signaling device",
+  :status :granted,
+  :id "US2127538",
+  :sourcing :authoritative,
+  :filing-year 1936,
+  :assignee :unassigned,
+  :grant-year 1938,
+  :term-years 20,
+  :open-license :none}
  {:assignees [:seaman-paper-company-of-massachusetts],
   :jurisdiction :us,
   :field "UNKNOWN",
@@ -7581,6 +7605,19 @@
   :grant-year 1946,
   :term-years 20,
   :open-license :none}
+ {:assignees [:bell-telephone-laboratories],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2408093/en",
+  :title "Method of making wire-wound cardtype resistance devices",
+  :status :granted,
+  :id "US2408093",
+  :sourcing :authoritative,
+  :filing-year 1944,
+  :assignee :bell-telephone-laboratories,
+  :grant-year 1946,
+  :term-years 20,
+  :open-license :none}
  {:assignees [:henrite-products],
   :jurisdiction :us,
   :field "UNKNOWN",
@@ -7946,6 +7983,27 @@
   :cites ["GB503824A" "US2193931" "US2241413" "US2307162"],
   :term-years 20,
   :open-license :none}
+ {:assignees [:square-d],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2454584/en",
+  :title "Hygrometer",
+  :status :granted,
+  :id "US2454584",
+  :sourcing :authoritative,
+  :filing-year 1944,
+  :assignee :square-d,
+  :grant-year 1948,
+  :cites
+  ["US1182759"
+   "US2047638"
+   "US2237006"
+   "US2285421"
+   "US2295570"
+   "US2358406"
+   "US409365"],
+  :term-years 20,
+  :open-license :none}
  {:assignees [:ei-du-pont-de-nemours-and],
   :jurisdiction :us,
   :field "UNKNOWN",
@@ -7958,6 +8016,30 @@
   :assignee :ei-du-pont-de-nemours-and,
   :grant-year 1948,
   :cites ["US2334996" "US2360673"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:eastman-kodak],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2458348/en",
+  :title "Electric resistance film hygrometer",
+  :status :granted,
+  :id "US2458348",
+  :sourcing :authoritative,
+  :filing-year 1944,
+  :assignee :eastman-kodak,
+  :grant-year 1949,
+  :cites
+  ["US1293527"
+   "US1749826"
+   "US2047638"
+   "US2064651"
+   "US2175893"
+   "US2234858"
+   "US2237006"
+   "US2255734"
+   "US2285421"
+   "US2358406"],
   :term-years 20,
   :open-license :none}
  {:assignees [:rateau],
@@ -8010,6 +8092,29 @@
    "US613194"
    "US707899"
    "US807513"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:philco-ford],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2471601/en",
+  :title "Variable resistance phonograph pickup",
+  :status :granted,
+  :id "US2471601",
+  :sourcing :authoritative,
+  :filing-year 1944,
+  :assignee :philco-ford,
+  :grant-year 1949,
+  :cites
+  ["US1577981"
+   "US1689844"
+   "US1819083"
+   "US2042606"
+   "US2194175"
+   "US2305717"
+   "US2373676"
+   "US2380514"
+   "US2429137"],
   :term-years 20,
   :open-license :none}
  {:assignees [:monsanto-chemicals],
@@ -8177,6 +8282,20 @@
   :assignee :bendix-aviation,
   :grant-year 1950,
   :cites ["US1888984" "US970122"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:sears-roebuck-and],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2510018/en",
+  :title "Electrolytic humidostat",
+  :status :granted,
+  :id "US2510018",
+  :sourcing :authoritative,
+  :filing-year 1947,
+  :assignee :sears-roebuck-and,
+  :grant-year 1950,
+  :cites ["US2295570" "US2398333"],
   :term-years 20,
   :open-license :none}
  {:assignees [:minnesota-and-ontario-paper],
@@ -8542,6 +8661,20 @@
   :grant-year 1952,
   :term-years 20,
   :open-license :none}
+ {:assignees [:general-electric],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2589983/en",
+  :title "Electrical indicator of mechanical expansion",
+  :status :granted,
+  :id "US2589983",
+  :sourcing :authoritative,
+  :filing-year 1947,
+  :assignee :general-electric,
+  :grant-year 1952,
+  :cites ["FR743994A" "US2256642" "US2438205" "US2461310" "US2471601"],
+  :term-years 20,
+  :open-license :none}
  {:assignees [:blaw-knox],
   :jurisdiction :us,
   :field "UNKNOWN",
@@ -8769,158 +8902,5 @@
    "US2231196"
    "US2296990"
    "US2367107"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:ei-du-pont-de-nemours-and],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US2633422/en",
-  :title "Process for making integral color correction masks",
-  :status :granted,
-  :id "US2633422",
-  :sourcing :authoritative,
-  :filing-year 1948,
-  :assignee :ei-du-pont-de-nemours-and,
-  :grant-year 1953,
-  :cites
-  ["US2193931"
-   "US2297732"
-   "US2306410"
-   "US2431996"
-   "US2449966"
-   "US2518739"],
-  :term-years 20,
-  :open-license :none}
- {:jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US2633434/en",
-  :title "Method of producing mat surfaces",
-  :status :granted,
-  :id "US2633434",
-  :sourcing :authoritative,
-  :assignee :unassigned,
-  :grant-year 1953,
-  :cites ["US1967863" "US2311489" "US2385320" "US2428716" "US2431745"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:emhart-manufacturing],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US2642212/en",
-  :title "Tilting bucket bottle loader",
-  :status :granted,
-  :id "US2642212",
-  :sourcing :authoritative,
-  :filing-year 1948,
-  :assignee :emhart-manufacturing,
-  :grant-year 1953,
-  :cites
-  ["FR657831A"
-   "US1263485"
-   "US1325527"
-   "US1422229"
-   "US1524641"
-   "US1696294"
-   "US1765419"
-   "US1981642"
-   "US2119596"
-   "US2355597"
-   "US2355722"
-   "US2436820"
-   "US931434"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:us-sec-the-dept-of-the-interio],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US2643940/en",
-  :title
-  "Extractor for removing soluble constituents in chemical analysis",
-  :status :granted,
-  :id "US2643940",
-  :sourcing :authoritative,
-  :filing-year 1951,
-  :assignee :us-sec-the-dept-of-the-interio,
-  :grant-year 1953,
-  :cites
-  ["DE641844C"
-   "DE642347C"
-   "US1313626"
-   "US1585447"
-   "US1722435"
-   "US175066"
-   "US1815711"
-   "US1887126"
-   "US2045866"
-   "US2485739"
-   "US411596"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:monsanto-chemicals],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US2645625/en",
-  :title "Methods of concentrating solutions",
-  :status :granted,
-  :id "US2645625",
-  :sourcing :authoritative,
-  :filing-year 1951,
-  :assignee :monsanto-chemicals,
-  :grant-year 1953,
-  :cites
-  ["FR890760A"
-   "US2191957"
-   "US2213921"
-   "US2309412"
-   "US2529856"
-   "US438787"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:north-american-paper-process],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US2649386/en",
-  :title "Coated paper and method for making same",
-  :status :granted,
-  :id "US2649386",
-  :sourcing :authoritative,
-  :filing-year 1948,
-  :assignee :north-american-paper-process,
-  :grant-year 1953,
-  :cites
-  ["US1502003"
-   "US1623280"
-   "US1695437"
-   "US1790822"
-   "US1877512"
-   "US1882090"
-   "US1911592"
-   "US1913329"
-   "US1921369"
-   "US2023175"
-   "US2032211"
-   "US2229620"
-   "US2245014"
-   "US2304818"
-   "US2378113"
-   "US2396946"
-   "US2406287"
-   "US2417009"
-   "US2429314"
-   "US2506153"
-   "US2589302"],
-  :term-years 20,
-  :open-license :none}
- {:jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US2653566/en",
-  :title "Web coating machine",
-  :status :granted,
-  :id "US2653566",
-  :sourcing :authoritative,
-  :filing-year 1951,
-  :assignee :unassigned,
-  :grant-year 1953,
-  :cites ["US2155083" "US2176093"],
   :term-years 20,
   :open-license :none}]

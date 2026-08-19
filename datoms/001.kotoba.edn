@@ -1,4 +1,41 @@
 [[":db/add"
+  "hirameki-patent:JP2001302714A"
+  ":hirameki.patent/jurisdiction"
+  ":jp"]
+ [":db/add"
+  "hirameki-patent:JP2001302714A"
+  ":hirameki.patent/field"
+  "UNKNOWN"]
+ [":db/add"
+  "hirameki-patent:JP2001302714A"
+  ":hirameki.patent/assignee"
+  ":kuraray"]
+ [":db/add"
+  "hirameki-patent:JP2001302714A"
+  ":hirameki.patent/status"
+  ":pending"]
+ [":db/add"
+  "hirameki-patent:JP2001302714A"
+  ":hirameki.patent/open-license"
+  ":none"]
+ [":db/add"
+  "hirameki-patent:JP2001302714A"
+  ":hirameki.obs/release-status"
+  ":pending"]
+ [":db/add"
+  "hirameki-patent:JP2001302714A"
+  ":hirameki/sourcing"
+  ":authoritative"]
+ [":db/add" "hirameki-patent:JP2001302714A" ":hirameki/derived" true]
+ [":db/add"
+  "hirameki-patent:JP2001302714A"
+  ":hirameki.obs/years-to-expiry"
+  -6]
+ [":db/add"
+  "hirameki-patent:JP2001302714A"
+  ":hirameki/source"
+  "https://patents.google.com/patent/JP2001302714A/en"]
+ [":db/add"
   "hirameki-patent:JP2001327849A"
   ":hirameki.patent/title"
   "Granule consisting of dispersible fine solids and their manufacturing method"]
@@ -9033,6 +9070,47 @@
   ":hirameki/source"
   "https://patents.google.com/patent/US2118549/en"]
  [":db/add"
+  "hirameki-patent:US2127538"
+  ":hirameki.patent/title"
+  "Signaling device"]
+ [":db/add"
+  "hirameki-patent:US2127538"
+  ":hirameki.patent/jurisdiction"
+  ":us"]
+ [":db/add"
+  "hirameki-patent:US2127538"
+  ":hirameki.patent/field"
+  "UNKNOWN"]
+ [":db/add"
+  "hirameki-patent:US2127538"
+  ":hirameki.patent/assignee"
+  ":unassigned"]
+ [":db/add"
+  "hirameki-patent:US2127538"
+  ":hirameki.patent/status"
+  ":granted"]
+ [":db/add"
+  "hirameki-patent:US2127538"
+  ":hirameki.patent/open-license"
+  ":none"]
+ [":db/add"
+  "hirameki-patent:US2127538"
+  ":hirameki.obs/release-status"
+  ":public-domain"]
+ [":db/add"
+  "hirameki-patent:US2127538"
+  ":hirameki/sourcing"
+  ":authoritative"]
+ [":db/add" "hirameki-patent:US2127538" ":hirameki/derived" true]
+ [":db/add"
+  "hirameki-patent:US2127538"
+  ":hirameki.obs/years-to-expiry"
+  -70]
+ [":db/add"
+  "hirameki-patent:US2127538"
+  ":hirameki/source"
+  "https://patents.google.com/patent/US2127538/en"]
+ [":db/add"
   "hirameki-patent:US2130241"
   ":hirameki.patent/title"
   "Method for coating paper"]
@@ -10002,82 +10080,4 @@
  [":db/add"
   "hirameki-patent:US2224992"
   ":hirameki.obs/release-status"
-  ":public-domain"]
- [":db/add"
-  "hirameki-patent:US2224992"
-  ":hirameki/sourcing"
-  ":authoritative"]
- [":db/add" "hirameki-patent:US2224992" ":hirameki/derived" true]
- [":db/add"
-  "hirameki-patent:US2224992"
-  ":hirameki.obs/years-to-expiry"
-  -71]
- [":db/add"
-  "hirameki-patent:US2224992"
-  ":hirameki/source"
-  "https://patents.google.com/patent/US2224992/en"]
- [":db/add"
-  "hirameki-patent:US2227494"
-  ":hirameki.patent/title"
-  "Method and apparatus for coating paper"]
- [":db/add"
-  "hirameki-patent:US2227494"
-  ":hirameki.patent/jurisdiction"
-  ":us"]
- [":db/add"
-  "hirameki-patent:US2227494"
-  ":hirameki.patent/field"
-  "UNKNOWN"]
- [":db/add"
-  "hirameki-patent:US2227494"
-  ":hirameki.patent/assignee"
-  ":plastics-finishing"]
- [":db/add"
-  "hirameki-patent:US2227494"
-  ":hirameki.patent/status"
-  ":granted"]
- [":db/add"
-  "hirameki-patent:US2227494"
-  ":hirameki.patent/open-license"
-  ":none"]
- [":db/add"
-  "hirameki-patent:US2227494"
-  ":hirameki.obs/release-status"
-  ":public-domain"]
- [":db/add"
-  "hirameki-patent:US2227494"
-  ":hirameki/sourcing"
-  ":authoritative"]
- [":db/add" "hirameki-patent:US2227494" ":hirameki/derived" true]
- [":db/add"
-  "hirameki-patent:US2227494"
-  ":hirameki.obs/years-to-expiry"
-  -69]
- [":db/add"
-  "hirameki-patent:US2227494"
-  ":hirameki/source"
-  "https://patents.google.com/patent/US2227494/en"]
- [":db/add"
-  "hirameki-patent:US2227787"
-  ":hirameki.patent/title"
-  "Wrapping material and method of making the same"]
- [":db/add"
-  "hirameki-patent:US2227787"
-  ":hirameki.patent/jurisdiction"
-  ":us"]
- [":db/add"
-  "hirameki-patent:US2227787"
-  ":hirameki.patent/field"
-  "UNKNOWN"]
- [":db/add"
-  "hirameki-patent:US2227787"
-  ":hirameki.patent/assignee"
-  ":reynolds-metals"]
- [":db/add"
-  "hirameki-patent:US2227787"
-  ":hirameki.patent/status"
-  ":granted"]
- [":db/add"
-  "hirameki-patent:US2227787"
-  ":hirameki.patent/open-license"
-  ":none"]]
+  ":public-domain"]]

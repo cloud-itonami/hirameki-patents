@@ -454,6 +454,47 @@
   ":hirameki/source"
   "https://patents.google.com/patent/DE19914896A1/en"]
  [":db/add"
+  "hirameki-patent:DE2005497A1"
+  ":hirameki.patent/title"
+  "Gas detection element"]
+ [":db/add"
+  "hirameki-patent:DE2005497A1"
+  ":hirameki.patent/jurisdiction"
+  ":de"]
+ [":db/add"
+  "hirameki-patent:DE2005497A1"
+  ":hirameki.patent/field"
+  "UNKNOWN"]
+ [":db/add"
+  "hirameki-patent:DE2005497A1"
+  ":hirameki.patent/assignee"
+  ":taguchi-naoyoshi-nagataku-kobe-japan"]
+ [":db/add"
+  "hirameki-patent:DE2005497A1"
+  ":hirameki.patent/status"
+  ":pending"]
+ [":db/add"
+  "hirameki-patent:DE2005497A1"
+  ":hirameki.patent/open-license"
+  ":none"]
+ [":db/add"
+  "hirameki-patent:DE2005497A1"
+  ":hirameki.obs/release-status"
+  ":pending"]
+ [":db/add"
+  "hirameki-patent:DE2005497A1"
+  ":hirameki/sourcing"
+  ":authoritative"]
+ [":db/add" "hirameki-patent:DE2005497A1" ":hirameki/derived" true]
+ [":db/add"
+  "hirameki-patent:DE2005497A1"
+  ":hirameki.obs/years-to-expiry"
+  -36]
+ [":db/add"
+  "hirameki-patent:DE2005497A1"
+  ":hirameki/source"
+  "https://patents.google.com/patent/DE2005497A1/en"]
+ [":db/add"
   "hirameki-patent:DE2242394A1"
   ":hirameki.patent/title"
   "MIXTURES OF SUBSTANCE HARDLED UNDER THE EFFECT OF LIGHT"]
@@ -9945,41 +9986,4 @@
  [":db/add"
   "hirameki-patent:JP2001302714A"
   ":hirameki.patent/title"
-  "Method for producing composite resin emulsion"]
- [":db/add"
-  "hirameki-patent:JP2001302714A"
-  ":hirameki.patent/jurisdiction"
-  ":jp"]
- [":db/add"
-  "hirameki-patent:JP2001302714A"
-  ":hirameki.patent/field"
-  "UNKNOWN"]
- [":db/add"
-  "hirameki-patent:JP2001302714A"
-  ":hirameki.patent/assignee"
-  ":kuraray"]
- [":db/add"
-  "hirameki-patent:JP2001302714A"
-  ":hirameki.patent/status"
-  ":pending"]
- [":db/add"
-  "hirameki-patent:JP2001302714A"
-  ":hirameki.patent/open-license"
-  ":none"]
- [":db/add"
-  "hirameki-patent:JP2001302714A"
-  ":hirameki.obs/release-status"
-  ":pending"]
- [":db/add"
-  "hirameki-patent:JP2001302714A"
-  ":hirameki/sourcing"
-  ":authoritative"]
- [":db/add" "hirameki-patent:JP2001302714A" ":hirameki/derived" true]
- [":db/add"
-  "hirameki-patent:JP2001302714A"
-  ":hirameki.obs/years-to-expiry"
-  -6]
- [":db/add"
-  "hirameki-patent:JP2001302714A"
-  ":hirameki/source"
-  "https://patents.google.com/patent/JP2001302714A/en"]]
+  "Method for producing composite resin emulsion"]]
