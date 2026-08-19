@@ -402,6 +402,20 @@
   :assignee :bayer,
   :term-years 20,
   :open-license :none}
+ {:assignees [:ig-farbenindustrie],
+  :jurisdiction :de,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/DE638071C/en",
+  :title
+  "Process for the production of polyaminocarboxylic acid nitriles, the corresponding acids or their compounds",
+  :status :granted,
+  :id "DE638071C",
+  :sourcing :authoritative,
+  :filing-year 1935,
+  :assignee :ig-farbenindustrie,
+  :grant-year 1936,
+  :term-years 20,
+  :open-license :none}
  {:assignees [:bayer],
   :jurisdiction :de,
   :field "UNKNOWN",
@@ -1766,6 +1780,19 @@
   :filing-year 1951,
   :assignee :unassigned,
   :grant-year 1953,
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:bayer],
+  :jurisdiction :fr,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/FR1132506A/en",
+  :title "Process for the polymerization of ethylene",
+  :status :granted,
+  :id "FR1132506A",
+  :sourcing :authoritative,
+  :filing-year 1955,
+  :assignee :bayer,
+  :grant-year 1957,
   :term-years 20,
   :open-license :none}
  {:assignees [:bruderhaus-maschinen],
@@ -5226,6 +5253,18 @@
   :open-license :none}
  {:jurisdiction :us,
   :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US1216933/en",
+  :title "Hydrogenization and dehydrogenization of carbon compounds.",
+  :status :granted,
+  :id "US1216933",
+  :sourcing :authoritative,
+  :filing-year 1914,
+  :assignee :unassigned,
+  :grant-year 1917,
+  :term-years 20,
+  :open-license :none}
+ {:jurisdiction :us,
+  :field "UNKNOWN",
   :source "https://patents.google.com/patent/US1302352/en",
   :title "Coating-machine.",
   :status :granted,
@@ -5672,6 +5711,20 @@
   :sourcing :authoritative,
   :filing-year 1930,
   :assignee :westinghouse-electric,
+  :grant-year 1933,
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:ig-farbenindustrie],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US1923583/en",
+  :title
+  "Production of liquid unsaturated hydrocarbons of high molecular weight",
+  :status :granted,
+  :id "US1923583",
+  :sourcing :authoritative,
+  :filing-year 1931,
+  :assignee :ig-farbenindustrie,
   :grant-year 1933,
   :term-years 20,
   :open-license :none}
@@ -6125,6 +6178,19 @@
   :grant-year 1937,
   :term-years 20,
   :open-license :none}
+ {:assignees [:shell-development],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2092295/en",
+  :title "Production of synthetic resins and resinous materials",
+  :status :granted,
+  :id "US2092295",
+  :sourcing :authoritative,
+  :filing-year 1935,
+  :assignee :shell-development,
+  :grant-year 1937,
+  :term-years 20,
+  :open-license :none}
  {:assignees [:ei-du-pont-de-nemours-and],
   :jurisdiction :us,
   :field "UNKNOWN",
@@ -6250,6 +6316,19 @@
   :sourcing :authoritative,
   :filing-year 1935,
   :assignee :unassigned,
+  :grant-year 1938,
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:standard-oil-development],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2139038/en",
+  :title "Process for producing polymers of olefines",
+  :status :granted,
+  :id "US2139038",
+  :sourcing :authoritative,
+  :filing-year 1935,
+  :assignee :standard-oil-development,
   :grant-year 1938,
   :term-years 20,
   :open-license :none}
@@ -6599,6 +6678,20 @@
   :sourcing :authoritative,
   :filing-year 1938,
   :assignee :reynolds-metals,
+  :grant-year 1941,
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:ei-du-pont-de-nemours-and],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2228271/en",
+  :title
+  "Polymeric product of formaldehyde and an amino-hydrogen-bearing aminonitrile",
+  :status :granted,
+  :id "US2228271",
+  :sourcing :authoritative,
+  :filing-year 1939,
+  :assignee :ei-du-pont-de-nemours-and,
   :grant-year 1941,
   :term-years 20,
   :open-license :none}
@@ -7489,6 +7582,19 @@
   :grant-year 1945,
   :term-years 20,
   :open-license :none}
+ {:assignees [:united-gas-improvement],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2375256/en",
+  :title "Process for controlling polymerization reactions",
+  :status :granted,
+  :id "US2375256",
+  :sourcing :authoritative,
+  :filing-year 1939,
+  :assignee :united-gas-improvement,
+  :grant-year 1945,
+  :term-years 20,
+  :open-license :none}
  {:assignees [:callenders-cable-and-construction],
   :jurisdiction :us,
   :field "UNKNOWN",
@@ -7550,6 +7656,19 @@
   :sourcing :authoritative,
   :filing-year 1939,
   :assignee :jarvis-c-marble,
+  :grant-year 1945,
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:martin-dennis],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2387735/en",
+  :title "Method of forming carboxylic amino acids",
+  :status :granted,
+  :id "US2387735",
+  :sourcing :authoritative,
+  :filing-year 1941,
+  :assignee :martin-dennis,
   :grant-year 1945,
   :term-years 20,
   :open-license :none}
@@ -7678,6 +7797,19 @@
   :sourcing :authoritative,
   :filing-year 1944,
   :assignee :firestone-tire-and-rubber,
+  :grant-year 1946,
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:phillips-petroleum],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2406869/en",
+  :title "Catalyst preparation",
+  :status :granted,
+  :id "US2406869",
+  :sourcing :authoritative,
+  :filing-year 1942,
+  :assignee :phillips-petroleum,
   :grant-year 1946,
   :term-years 20,
   :open-license :none}
@@ -8091,6 +8223,20 @@
    "US2295570"
    "US2358406"
    "US409365"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:glidden],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2454796/en",
+  :title "Polymerization of rosin",
+  :status :granted,
+  :id "US2454796",
+  :sourcing :authoritative,
+  :filing-year 1946,
+  :assignee :glidden,
+  :grant-year 1948,
+  :cites ["US2263915" "US2298270"],
   :term-years 20,
   :open-license :none}
  {:assignees [:ei-du-pont-de-nemours-and],
@@ -8551,6 +8697,21 @@
   :grant-year 1951,
   :term-years 20,
   :open-license :none}
+ {:assignees [:ei-du-pont-de-nemours-and],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2551365/en",
+  :title
+  "Polymerization of formaldehyde to paraformaldehyde with alkaline catalyst",
+  :status :granted,
+  :id "US2551365",
+  :sourcing :authoritative,
+  :filing-year 1949,
+  :assignee :ei-du-pont-de-nemours-and,
+  :grant-year 1951,
+  :cites ["GB303258A" "US1905290" "US2267290" "US2318341"],
+  :term-years 20,
+  :open-license :none}
  {:assignees [:socony-vacuum-oil],
   :jurisdiction :us,
   :field "UNKNOWN",
@@ -8722,193 +8883,5 @@
    "US2304940"
    "US2309492"
    "US2360290"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:minnesota-and-ontario-paper],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US2582407/en",
-  :title "Process for coating paper",
-  :status :granted,
-  :id "US2582407",
-  :sourcing :authoritative,
-  :filing-year 1946,
-  :assignee :minnesota-and-ontario-paper,
-  :grant-year 1952,
-  :cites
-  ["US1310818"
-   "US1472230"
-   "US1644451"
-   "US1921368"
-   "US1933963"
-   "US2118152"
-   "US2256853"
-   "US2293125"
-   "US2293690"
-   "US2321938"
-   "US2406056"
-   "US2406057"
-   "US2425231"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:airborne-instr-lab],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US2585353/en",
-  :title "Apparatus for testing crystal rectifiers",
-  :status :granted,
-  :id "US2585353",
-  :sourcing :authoritative,
-  :filing-year 1950,
-  :assignee :airborne-instr-lab,
-  :grant-year 1952,
-  :cites ["US2459849"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:chicago-endocrine-research],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US2587221/en",
-  :title "Pregnancy test",
-  :status :granted,
-  :id "US2587221",
-  :sourcing :authoritative,
-  :filing-year 1949,
-  :assignee :chicago-endocrine-research,
-  :grant-year 1952,
-  :cites ["US1722160" "US1968131" "US2471861" "US2477072"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:dow-corning],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US2588367/en",
-  :title "Rendering cellulosic material nonadherent to adhesives",
-  :status :granted,
-  :id "US2588367",
-  :sourcing :authoritative,
-  :filing-year 1950,
-  :assignee :dow-corning,
-  :grant-year 1952,
-  :term-years 20,
-  :open-license :none}
- {:assignees [:general-electric],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US2589983/en",
-  :title "Electrical indicator of mechanical expansion",
-  :status :granted,
-  :id "US2589983",
-  :sourcing :authoritative,
-  :filing-year 1947,
-  :assignee :general-electric,
-  :grant-year 1952,
-  :cites ["FR743994A" "US2256642" "US2438205" "US2461310" "US2471601"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:blaw-knox],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US2592914/en",
-  :title
-  "Apparatus for removing the product film from a revolving drum surface",
-  :status :granted,
-  :id "US2592914",
-  :sourcing :authoritative,
-  :filing-year 1947,
-  :assignee :blaw-knox,
-  :grant-year 1952,
-  :cites
-  ["US1812920"
-   "US1853451"
-   "US1880455"
-   "US2070667"
-   "US2082819"
-   "US2117958"
-   "US2141978"
-   "US2352220"
-   "US475535"
-   "US704977"
-   "US927169"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:betex-sales],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US2593207/en",
-  :title
-  "Resin impregnated textile fabrics and process of producing same",
-  :status :granted,
-  :id "US2593207",
-  :sourcing :authoritative,
-  :filing-year 1950,
-  :assignee :betex-sales,
-  :grant-year 1952,
-  :cites
-  ["GB576363A"
-   "US2121105"
-   "US2342387"
-   "US2430860"
-   "US2430866"
-   "US2443450"
-   "US2504857"
-   "US2526637"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:shell-development],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US2595852/en",
-  :title
-  "Process for spray drying soluble fusible polymers of unsaturated esters",
-  :status :granted,
-  :id "US2595852",
-  :sourcing :authoritative,
-  :filing-year 1949,
-  :assignee :shell-development,
-  :grant-year 1952,
-  :cites ["GB604544A" "US2273891" "US2280802" "US2370578"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:united-states-rubber],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US2597087/en",
-  :title "Synthetic resin coated paper",
-  :status :granted,
-  :id "US2597087",
-  :sourcing :authoritative,
-  :filing-year 1951,
-  :assignee :united-states-rubber,
-  :grant-year 1952,
-  :term-years 20,
-  :open-license :none}
- {:jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US2597625/en",
-  :title
-  "Process for applying moistureproof coating to regenerated cellulose",
-  :status :granted,
-  :id "US2597625",
-  :sourcing :authoritative,
-  :filing-year 1950,
-  :assignee :unassigned,
-  :grant-year 1952,
-  :cites ["US2334236" "US2392972" "US2435464" "US2462185" "US2530738"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:bf-goodrich],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US2597741/en",
-  :title
-  "Electrical-conductive rubbery composition and method of making same",
-  :status :granted,
-  :id "US2597741",
-  :sourcing :authoritative,
-  :filing-year 1950,
-  :assignee :bf-goodrich,
-  :grant-year 1952,
-  :cites ["GB602677A" "US2377153" "US2455910"],
   :term-years 20,
   :open-license :none}]
