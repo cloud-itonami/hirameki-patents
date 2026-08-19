@@ -1,4 +1,312 @@
-[{:assignees [:akzona],
+[{:jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3715872/en",
+  :title "Mowing apparatus",
+  :status :granted,
+  :id "US3715872",
+  :sourcing :authoritative,
+  :filing-year 1971,
+  :assignee :unassigned,
+  :grant-year 1973,
+  :term-years 20,
+  :open-license :none}
+ {:jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3716369/en",
+  :title
+  "Process for cooking foods in polyalkylene teraphalate film bag",
+  :status :granted,
+  :id "US3716369",
+  :sourcing :authoritative,
+  :filing-year 1970,
+  :assignee :unassigned,
+  :grant-year 1973,
+  :cites
+  ["CA703413A"
+   "US3008837"
+   "US3108881"
+   "US3132029"
+   "US3204760"
+   "US3262787"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:kuraray :sud-west-chemie],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3716395/en",
+  :title
+  "Process of producing pigmented, a hardenable resin containing paper sheets, and products",
+  :status :granted,
+  :id "US3716395",
+  :sourcing :authoritative,
+  :filing-year 1968,
+  :assignee :kuraray,
+  :grant-year 1973,
+  :cites ["US3197331" "US3200008" "US3288632" "US3326712" "US3493419"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:farrand-optical],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3719410/en",
+  :title "Mixing and measuring apparatus",
+  :status :granted,
+  :id "US3719410",
+  :sourcing :authoritative,
+  :filing-year 1971,
+  :assignee :farrand-optical,
+  :grant-year 1973,
+  :cites
+  ["US1660974"
+   "US2587221"
+   "US2643940"
+   "US2971429"
+   "US3193357"
+   "US3585007"
+   "US3586064"
+   "US3679312"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:sun-oil],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3719454/en",
+  :title "Laser controlled chemical reactor",
+  :status :granted,
+  :id "US3719454",
+  :sourcing :authoritative,
+  :filing-year 1970,
+  :assignee :sun-oil,
+  :grant-year 1973,
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:pharmacia],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3720760/en",
+  :title
+  "Method for determining the presence of reagin-immunoglobulins(reagin-ig)directed against certain allergens,in aqueous samples",
+  :status :granted,
+  :id "US3720760",
+  :sourcing :authoritative,
+  :filing-year 1968,
+  :assignee :pharmacia,
+  :grant-year 1973,
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:us-department-of-navy],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3724383/en",
+  :title "Lasser stimulated ordnance initiation device",
+  :status :granted,
+  :id "US3724383",
+  :sourcing :authoritative,
+  :filing-year 1971,
+  :assignee :us-department-of-navy,
+  :grant-year 1973,
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:north-american-rockwell],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3728227/en",
+  :title "Microorganism culture apparatus",
+  :status :granted,
+  :id "US3728227",
+  :sourcing :authoritative,
+  :filing-year 1968,
+  :assignee :north-american-rockwell,
+  :grant-year 1973,
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:purdue-research-foundation],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3730844/en",
+  :title "Polynucleotide analysis",
+  :status :granted,
+  :id "US3730844",
+  :sourcing :authoritative,
+  :filing-year 1971,
+  :assignee :purdue-research-foundation,
+  :grant-year 1973,
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:massachusetts-institute-of-technology],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3742230/en",
+  :title "Soft x-ray mask support substrate",
+  :status :granted,
+  :id "US3742230",
+  :sourcing :authoritative,
+  :filing-year 1972,
+  :assignee :massachusetts-institute-of-technology,
+  :grant-year 1973,
+  :cites ["US3637380"],
+  :term-years 20,
+  :open-license :none}
+ {:jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3743090/en",
+  :title
+  "Method and apparatus for selectively removing pre-identified articles from a conveyor system",
+  :status :granted,
+  :id "US3743090",
+  :sourcing :authoritative,
+  :filing-year 1971,
+  :assignee :unassigned,
+  :grant-year 1973,
+  :cites ["US3144926" "US3460673" "US3463566" "US3516654" "US3612250"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:massachusetts-institute-of-technology],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3743842/en",
+  :title "Soft x-ray lithographic apparatus and process",
+  :status :granted,
+  :id "US3743842",
+  :sourcing :authoritative,
+  :filing-year 1972,
+  :assignee :massachusetts-institute-of-technology,
+  :grant-year 1973,
+  :cites
+  ["US1933652"
+   "US2382674"
+   "US3118786"
+   "US3447924"
+   "US3518083"
+   "US3637380"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:eastman-kodak],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3746564/en",
+  :title "Photographic diffusion transfer product and process",
+  :status :granted,
+  :id "US3746564",
+  :sourcing :authoritative,
+  :filing-year 1970,
+  :assignee :eastman-kodak,
+  :grant-year 1973,
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:coulter-electronics],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3746976/en",
+  :title "Self-cleaning aperture tube for coulter study apparatus",
+  :status :granted,
+  :id "US3746976",
+  :sourcing :authoritative,
+  :filing-year 1971,
+  :assignee :coulter-electronics,
+  :grant-year 1973,
+  :cites ["US3299354" "US3583209"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:phillips-petroleum],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3749593/en",
+  :title "Laminated materials and method of preparation",
+  :status :granted,
+  :id "US3749593",
+  :sourcing :authoritative,
+  :filing-year 1971,
+  :assignee :phillips-petroleum,
+  :grant-year 1973,
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:f-hoffmann-la-roche],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3755086/en",
+  :title
+  "Diagnostic method utilizing synthetic deoxyrilionucleotide oligomer template",
+  :status :granted,
+  :id "US3755086",
+  :sourcing :authoritative,
+  :filing-year 1971,
+  :assignee :f-hoffmann-la-roche,
+  :grant-year 1973,
+  :cites ["US3597318"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:baxter-laboratories],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3764214/en",
+  :title "Photometer apparatus",
+  :status :granted,
+  :id "US3764214",
+  :sourcing :authoritative,
+  :filing-year 1972,
+  :assignee :baxter-laboratories,
+  :grant-year 1973,
+  :cites ["US3319512"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:f-hoffmann-la-roche],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3766162/en",
+  :title "Barbituric acid antigens and antibodies specific therefor",
+  :status :granted,
+  :id "US3766162",
+  :sourcing :authoritative,
+  :filing-year 1971,
+  :assignee :f-hoffmann-la-roche,
+  :grant-year 1973,
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:international-business-machines],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3767490/en",
+  :title "Process for etching organic coating layers",
+  :status :granted,
+  :id "US3767490",
+  :sourcing :authoritative,
+  :filing-year 1971,
+  :assignee :international-business-machines,
+  :grant-year 1973,
+  :cites ["US2443373" "US3705055"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:tokyo-shibaura-electric],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3767494/en",
+  :title
+  "Method for manufacturing a semiconductor photosensitive device",
+  :status :granted,
+  :id "US3767494",
+  :sourcing :authoritative,
+  :filing-year 1971,
+  :assignee :tokyo-shibaura-electric,
+  :grant-year 1973,
+  :cites ["US3616345" "US3616348"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:united-states-department-of-the-army],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3770380/en",
+  :title "Article and method for multiple immune adherence assay",
+  :status :granted,
+  :id "US3770380",
+  :sourcing :authoritative,
+  :filing-year 1971,
+  :assignee :united-states-department-of-the-army,
+  :grant-year 1973,
+  :cites ["US3415361" "US3502437" "US3666421"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:akzona],
   :jurisdiction :us,
   :field "UNKNOWN",
   :source "https://patents.google.com/patent/US3770383/en",
@@ -9282,387 +9590,5 @@
    "US4683202"
    "US4800159"
    "US4889818"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:bio-metric-systems],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US4973493/en",
-  :title "Method of improving the biocompatibility of solid surfaces",
-  :status :granted,
-  :id "US4973493",
-  :sourcing :authoritative,
-  :filing-year 1987,
-  :assignee :bio-metric-systems,
-  :grant-year 1990,
-  :cites
-  ["US3808113"
-   "US3826678"
-   "US3955012"
-   "US3959078"
-   "US4007089"
-   "US4240163"
-   "US4311573"
-   "US4378224"
-   "US4378435"
-   "US4419444"
-   "US4434150"
-   "US4451568"
-   "US4500676"
-   "US4526714"
-   "US4526909"
-   "US4530974"
-   "US4536179"
-   "US4589881"
-   "US4589964"
-   "US4595632"
-   "US4605413"
-   "US4663233"
-   "US4687808"
-   "US4715858"
-   "US4716122"
-   "US4722906"
-   "US4828563"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:union-carbide-chemicals-and-plastics-technology],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US4977219/en",
-  :title "Low temperature crosslinking of water-borne resins",
-  :status :granted,
-  :id "US4977219",
-  :sourcing :authoritative,
-  :filing-year 1986,
-  :assignee :union-carbide-chemicals-and-plastics-technology,
-  :grant-year 1990,
-  :cites
-  ["GB1056202A"
-   "GB851936A"
-   "US2937164"
-   "US3193522"
-   "US3193523"
-   "US3193524"
-   "US3296190"
-   "US3639353"
-   "US3929733"
-   "US4042558"
-   "US4096125"
-   "US4148844"
-   "US4373078"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:montefiore-medical-center],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US4981783/en",
-  :title "Method for detecting pathological conditions",
-  :status :granted,
-  :id "US4981783",
-  :sourcing :authoritative,
-  :filing-year 1986,
-  :assignee :montefiore-medical-center,
-  :grant-year 1991,
-  :cites ["US4699877"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:consejo-superior-de-investigaciones-cientificas-csic],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US5001050/en",
-  :title "PHφ29 DNA polymerase",
-  :status :granted,
-  :id "US5001050",
-  :sourcing :authoritative,
-  :filing-year 1989,
-  :assignee :consejo-superior-de-investigaciones-cientificas-csic,
-  :grant-year 1991,
-  :cites ["US4795699" "US4921794" "US4942130" "US4946786"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:university-of-california-san-diego-ucsd],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US5001051/en",
-  :title
-  "Dose critical in-vivo detection of anti-cancer drug levels in blood",
-  :status :granted,
-  :id "US5001051",
-  :sourcing :authoritative,
-  :filing-year 1986,
-  :assignee :university-of-california-san-diego-ucsd,
-  :grant-year 1991,
-  :cites
-  ["US4419340"
-   "US4488814"
-   "US4559299"
-   "US4577109"
-   "US4610869"
-   "US4822746"],
-  :term-years 20,
-  :open-license :none}
- {:jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US5002867/en",
-  :title
-  "Nucleic acid sequence determination by multiple mixed oligonucleotide probes",
-  :status :granted,
-  :id "US5002867",
-  :sourcing :authoritative,
-  :filing-year 1988,
-  :assignee :unassigned,
-  :grant-year 1991,
-  :cites ["US4865968"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:molecular-diagnostics],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US5026840/en",
-  :title
-  "Photochemical nucleic acid-labeling reagent having a polyalklamine spacer",
-  :status :granted,
-  :id "US5026840",
-  :sourcing :authoritative,
-  :filing-year 1990,
-  :assignee :molecular-diagnostics,
-  :grant-year 1991,
-  :cites
-  ["EP0124221A1"
-   "EP0130515A2"
-   "EP0131830A1"
-   "EP0138357A2"
-   "EP0156287A2"
-   "US4582789"
-   "US4599303"
-   "US4617261"
-   "US4737454"
-   "WO1985002628A1"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:basf-se],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US5049599/en",
-  :title
-  "Flameproofed thermoplastic molding compositions based on phlegmatized red phosphorus",
-  :status :granted,
-  :id "US5049599",
-  :sourcing :authoritative,
-  :filing-year 1990,
-  :assignee :basf-se,
-  :grant-year 1991,
-  :cites
-  ["DE2408488A1"
-   "DE2625674A1"
-   "DE2703052A1"
-   "DE2745076A1"
-   "EP0071788A1"
-   "GB1543511A"
-   "GB1592813A"
-   "US4105735"
-   "US4188313"
-   "US4229340"
-   "US4430484"
-   "US4554320"
-   "US4772642"
-   "US4788249"
-   "US4849476"
-   "US4879067"
-   "US4923924"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:mitsubishi-rayon],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US5064695/en",
-  :title "Method for forming coating film",
-  :status :granted,
-  :id "US5064695",
-  :sourcing :authoritative,
-  :filing-year 1990,
-  :assignee :mitsubishi-rayon,
-  :grant-year 1991,
-  :term-years 20,
-  :open-license :none}
- {:assignees [:cetus],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US5075216/en",
-  :title
-  "Methods for dna sequencing with thermus aquaticus dna polymerase",
-  :status :granted,
-  :id "US5075216",
-  :sourcing :authoritative,
-  :filing-year 1988,
-  :assignee :cetus,
-  :grant-year 1991,
-  :cites
-  ["EP0258017A2"
-   "EP0351138A2"
-   "US4683202"
-   "US4795699"
-   "US4921794"
-   "US5001050"
-   "WO1990008839A1"],
-  :term-years 20,
-  :open-license :none}
- {:jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US5079600/en",
-  :title "High resolution patterning on solid substrates",
-  :status :granted,
-  :id "US5079600",
-  :sourcing :authoritative,
-  :filing-year 1988,
-  :assignee :unassigned,
-  :grant-year 1992,
-  :cites
-  ["GB2144653A"
-   "US3884704"
-   "US4199649"
-   "US4539061"
-   "US4587203"
-   "US4661372"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:ppg-industries],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US5106651/en",
-  :title
-  "Method for improving resistance to water spotting and acid etching of coatings by exposure to UV radiation",
-  :status :granted,
-  :id "US5106651",
-  :sourcing :authoritative,
-  :filing-year 1991,
-  :assignee :ppg-industries,
-  :grant-year 1992,
-  :cites
-  ["US2236397"
-   "US3567494"
-   "US4066523"
-   "US4069364"
-   "US4205115"
-   "US4605465"
-   "US4634602"
-   "US4818796"
-   "US5068288"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:union-carbide-chemicals-and-plastics-technology],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US5117059/en",
-  :title "Monodisperse multifunctional carbodiimides",
-  :status :granted,
-  :id "US5117059",
-  :sourcing :authoritative,
-  :filing-year 1991,
-  :assignee :union-carbide-chemicals-and-plastics-technology,
-  :grant-year 1992,
-  :cites ["DE924751C" "US4977219"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:affymax-technologies],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US5143854/en",
-  :title
-  "Large scale photolithographic solid phase synthesis of polypeptides and receptor binding screening thereof",
-  :status :granted,
-  :id "US5143854",
-  :sourcing :authoritative,
-  :filing-year 1990,
-  :assignee :affymax-technologies,
-  :grant-year 1992,
-  :cites
-  ["DE2242394A1"
-   "DE3440141A1"
-   "EP0088636A2"
-   "EP0127438A1"
-   "EP0245662A1"
-   "EP0288310A2"
-   "EP0319012A2"
-   "EP0328256A1"
-   "US3849137"
-   "US3862056"
-   "US4072576"
-   "US4238757"
-   "US4314821"
-   "US4339528"
-   "US4405771"
-   "US4444878"
-   "US4444892"
-   "US4517338"
-   "US4542102"
-   "US4555490"
-   "US4562157"
-   "US4569967"
-   "US4631211"
-   "US4637861"
-   "US4681859"
-   "US4704353"
-   "US4713326"
-   "US4713347"
-   "US4719615"
-   "US4722906"
-   "US4762881"
-   "US4777019"
-   "US4786684"
-   "US4794150"
-   "US4808508"
-   "US4822566"
-   "US4833092"
-   "US4865990"
-   "US4946942"
-   "US4973493"
-   "US4979959"
-   "US5026840"
-   "WO1984003564A1"
-   "WO1986000991A1"
-   "WO1986006487A1"
-   "WO1989005616A1"
-   "WO1989010977A1"
-   "WO1989011548A1"
-   "WO1989012819A1"
-   "WO1990000887A1"
-   "WO1990003382A1"
-   "WO1990004652A1"
-   "WO1991004266A1"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:ciba-geigy],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US5145893/en",
-  :title
-  "Non-migrating 1-hydrocarbyloxy hindered amine derivatives as polymer stabilizers",
-  :status :granted,
-  :id "US5145893",
-  :sourcing :authoritative,
-  :filing-year 1990,
-  :assignee :ciba-geigy,
-  :grant-year 1992,
-  :cites
-  ["EP0155912A2"
-   "EP0303279A2"
-   "US4145512"
-   "US4178279"
-   "US4344876"
-   "US4413075"
-   "US4426471"
-   "US4426472"
-   "US4605743"
-   "US4607104"
-   "US4691015"
-   "US4703073"
-   "US4730017"
-   "US4831134"
-   "US4876300"
-   "US5004770"
-   "US5006577"
-   "US5021577"
-   "US5026749"],
   :term-years 20,
   :open-license :none}]

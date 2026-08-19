@@ -2612,6 +2612,18 @@
   :assignee :warren-sd,
   :term-years 20,
   :open-license :none}
+ {:assignees [:bayer],
+  :jurisdiction :gb,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/GB774794A/en",
+  :title "Quinone condensation products",
+  :status :pending,
+  :id "GB774794A",
+  :sourcing :authoritative,
+  :filing-year 1953,
+  :assignee :bayer,
+  :term-years 20,
+  :open-license :none}
  {:assignees [:merck-and],
   :jurisdiction :gb,
   :field "UNKNOWN",
@@ -5615,6 +5627,19 @@
   :grant-year 1930,
   :term-years 20,
   :open-license :none}
+ {:assignees [:keystone-watch-case],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US1751909/en",
+  :title "Photographic resist and process of photographic etching",
+  :status :granted,
+  :id "US1751909",
+  :sourcing :authoritative,
+  :filing-year 1927,
+  :assignee :keystone-watch-case,
+  :grant-year 1930,
+  :term-years 20,
+  :open-license :none}
  {:jurisdiction :us,
   :field "UNKNOWN",
   :source "https://patents.google.com/patent/US1755834/en",
@@ -5636,6 +5661,20 @@
   :sourcing :authoritative,
   :filing-year 1925,
   :assignee :unassigned,
+  :grant-year 1930,
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:ig-farbenindustrie],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US1777140/en",
+  :title
+  "Process of preparing formaldehyde-primary aromatic amine condensation products",
+  :status :granted,
+  :id "US1777140",
+  :sourcing :authoritative,
+  :filing-year 1926,
+  :assignee :ig-farbenindustrie,
   :grant-year 1930,
   :term-years 20,
   :open-license :none}
@@ -5813,6 +5852,19 @@
   :sourcing :authoritative,
   :filing-year 1931,
   :assignee :champion-coated-paper,
+  :grant-year 1933,
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:ciba-products],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US1939691/en",
+  :title "Infusible synthetic resins and a process of making same",
+  :status :granted,
+  :id "US1939691",
+  :sourcing :authoritative,
+  :filing-year 1927,
+  :assignee :ciba-products,
   :grant-year 1933,
   :term-years 20,
   :open-license :none}
@@ -6214,6 +6266,19 @@
   :sourcing :authoritative,
   :filing-year 1935,
   :assignee :continental-can,
+  :grant-year 1937,
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:bf-goodrich],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2089302/en",
+  :title "Rubber compositon and method of preserving rubber",
+  :status :granted,
+  :id "US2089302",
+  :sourcing :authoritative,
+  :filing-year 1931,
+  :assignee :bf-goodrich,
   :grant-year 1937,
   :term-years 20,
   :open-license :none}
@@ -6768,6 +6833,19 @@
   :sourcing :authoritative,
   :filing-year 1939,
   :assignee :unassigned,
+  :grant-year 1941,
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:chemische-forschungs],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2249514/en",
+  :title "Friction element for power transmission",
+  :status :granted,
+  :id "US2249514",
+  :sourcing :authoritative,
+  :filing-year 1937,
+  :assignee :chemische-forschungs,
   :grant-year 1941,
   :term-years 20,
   :open-license :none}
@@ -7774,6 +7852,20 @@
   :grant-year 1946,
   :term-years 20,
   :open-license :none}
+ {:assignees [:general-aniline-and-film],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2393821/en",
+  :title
+  "Method and composition of producing fine lines photographically",
+  :status :granted,
+  :id "US2393821",
+  :sourcing :authoritative,
+  :filing-year 1943,
+  :assignee :general-aniline-and-film,
+  :grant-year 1946,
+  :term-years 20,
+  :open-license :none}
  {:jurisdiction :us,
   :field "UNKNOWN",
   :source "https://patents.google.com/patent/US2396911/en",
@@ -8677,6 +8769,20 @@
   :cites ["US1888984" "US970122"],
   :term-years 20,
   :open-license :none}
+ {:assignees [:rohm-and-haas],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2509183/en",
+  :title "Dihydrazide-formaldehyde resins",
+  :status :granted,
+  :id "US2509183",
+  :sourcing :authoritative,
+  :filing-year 1949,
+  :assignee :rohm-and-haas,
+  :grant-year 1950,
+  :cites ["US2210442"],
+  :term-years 20,
+  :open-license :none}
  {:assignees [:sears-roebuck-and],
   :jurisdiction :us,
   :field "UNKNOWN",
@@ -8734,138 +8840,17 @@
   :grant-year 1950,
   :term-years 20,
   :open-license :none}
- {:assignees [:ei-du-pont-de-nemours-and],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US2519550/en",
-  :title "Formaldehyde polymers",
-  :status :granted,
-  :id "US2519550",
-  :sourcing :authoritative,
-  :filing-year 1948,
-  :assignee :ei-du-pont-de-nemours-and,
-  :grant-year 1950,
-  :cites ["US2369504"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:motor-products],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US2525920/en",
-  :title "Surface coating apparatus",
-  :status :granted,
-  :id "US2525920",
-  :sourcing :authoritative,
-  :filing-year 1947,
-  :assignee :motor-products,
-  :grant-year 1950,
-  :cites ["US2097428" "US2161187" "US2163712" "US2294520" "US676237"],
-  :term-years 20,
-  :open-license :none}
  {:assignees [:corning-glass-works],
   :jurisdiction :us,
   :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US2527693/en",
-  :title "Soft glass having wide working range",
+  :source "https://patents.google.com/patent/US2515940/en",
+  :title "Photosensitive opal glass",
   :status :granted,
-  :id "US2527693",
+  :id "US2515940",
   :sourcing :authoritative,
   :filing-year 1946,
   :assignee :corning-glass-works,
   :grant-year 1950,
-  :cites ["FR870982A" "US2392314"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:united-states-rubber],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US2528168/en",
-  :title "Method of making resin impregnated fabrics",
-  :status :granted,
-  :id "US2528168",
-  :sourcing :authoritative,
-  :filing-year 1943,
-  :assignee :united-states-rubber,
-  :grant-year 1950,
-  :cites
-  ["US1308111"
-   "US1361970"
-   "US1519239"
-   "US1829802"
-   "US2064162"
-   "US2067580"
-   "US2135763"
-   "US2224992"
-   "US2264376"
-   "US2267470"
-   "US2270285"
-   "US2345013"
-   "US2348740"
-   "US2414125"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:general-aniline-and-film],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US2533182/en",
-  :title
-  "Preparation of colored metallo-alpha-oximino ketone complex images",
-  :status :granted,
-  :id "US2533182",
-  :sourcing :authoritative,
-  :filing-year 1949,
-  :assignee :general-aniline-and-film,
-  :grant-year 1950,
-  :term-years 20,
-  :open-license :none}
- {:assignees [:patchogue-plymouth-mills],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US2536656/en",
-  :title "Method of waterproofing paper textile fabrics",
-  :status :granted,
-  :id "US2536656",
-  :sourcing :authoritative,
-  :filing-year 1945,
-  :assignee :patchogue-plymouth-mills,
-  :grant-year 1951,
-  :cites
-  ["GB227527A"
-   "US143122"
-   "US1900904"
-   "US2133933"
-   "US2176981"
-   "US2298147"
-   "US2420974"
-   "US2426300"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:ei-du-pont-de-nemours-and],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US2541167/en",
-  :title
-  "Vinylidene chloride interpolymer as a coating for regenerated cellulose film",
-  :status :granted,
-  :id "US2541167",
-  :sourcing :authoritative,
-  :filing-year 1948,
-  :assignee :ei-du-pont-de-nemours-and,
-  :grant-year 1951,
-  :term-years 20,
-  :open-license :none}
- {:assignees [:ei-du-pont-de-nemours-and],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US2551365/en",
-  :title
-  "Polymerization of formaldehyde to paraformaldehyde with alkaline catalyst",
-  :status :granted,
-  :id "US2551365",
-  :sourcing :authoritative,
-  :filing-year 1949,
-  :assignee :ei-du-pont-de-nemours-and,
-  :grant-year 1951,
-  :cites ["GB303258A" "US1905290" "US2267290" "US2318341"],
+  :cites ["US2049765" "US2144943" "US2237042" "US2326012" "US2422472"],
   :term-years 20,
   :open-license :none}]

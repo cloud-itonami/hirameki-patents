@@ -1,4 +1,139 @@
-[{:assignees [:socony-vacuum-oil],
+[{:assignees [:ei-du-pont-de-nemours-and],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2519550/en",
+  :title "Formaldehyde polymers",
+  :status :granted,
+  :id "US2519550",
+  :sourcing :authoritative,
+  :filing-year 1948,
+  :assignee :ei-du-pont-de-nemours-and,
+  :grant-year 1950,
+  :cites ["US2369504"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:motor-products],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2525920/en",
+  :title "Surface coating apparatus",
+  :status :granted,
+  :id "US2525920",
+  :sourcing :authoritative,
+  :filing-year 1947,
+  :assignee :motor-products,
+  :grant-year 1950,
+  :cites ["US2097428" "US2161187" "US2163712" "US2294520" "US676237"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:corning-glass-works],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2527693/en",
+  :title "Soft glass having wide working range",
+  :status :granted,
+  :id "US2527693",
+  :sourcing :authoritative,
+  :filing-year 1946,
+  :assignee :corning-glass-works,
+  :grant-year 1950,
+  :cites ["FR870982A" "US2392314"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:united-states-rubber],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2528168/en",
+  :title "Method of making resin impregnated fabrics",
+  :status :granted,
+  :id "US2528168",
+  :sourcing :authoritative,
+  :filing-year 1943,
+  :assignee :united-states-rubber,
+  :grant-year 1950,
+  :cites
+  ["US1308111"
+   "US1361970"
+   "US1519239"
+   "US1829802"
+   "US2064162"
+   "US2067580"
+   "US2135763"
+   "US2224992"
+   "US2264376"
+   "US2267470"
+   "US2270285"
+   "US2345013"
+   "US2348740"
+   "US2414125"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:general-aniline-and-film],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2533182/en",
+  :title
+  "Preparation of colored metallo-alpha-oximino ketone complex images",
+  :status :granted,
+  :id "US2533182",
+  :sourcing :authoritative,
+  :filing-year 1949,
+  :assignee :general-aniline-and-film,
+  :grant-year 1950,
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:patchogue-plymouth-mills],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2536656/en",
+  :title "Method of waterproofing paper textile fabrics",
+  :status :granted,
+  :id "US2536656",
+  :sourcing :authoritative,
+  :filing-year 1945,
+  :assignee :patchogue-plymouth-mills,
+  :grant-year 1951,
+  :cites
+  ["GB227527A"
+   "US143122"
+   "US1900904"
+   "US2133933"
+   "US2176981"
+   "US2298147"
+   "US2420974"
+   "US2426300"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:ei-du-pont-de-nemours-and],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2541167/en",
+  :title
+  "Vinylidene chloride interpolymer as a coating for regenerated cellulose film",
+  :status :granted,
+  :id "US2541167",
+  :sourcing :authoritative,
+  :filing-year 1948,
+  :assignee :ei-du-pont-de-nemours-and,
+  :grant-year 1951,
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:ei-du-pont-de-nemours-and],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2551365/en",
+  :title
+  "Polymerization of formaldehyde to paraformaldehyde with alkaline catalyst",
+  :status :granted,
+  :id "US2551365",
+  :sourcing :authoritative,
+  :filing-year 1949,
+  :assignee :ei-du-pont-de-nemours-and,
+  :grant-year 1951,
+  :cites ["GB303258A" "US1905290" "US2267290" "US2318341"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:socony-vacuum-oil],
   :jurisdiction :us,
   :field "UNKNOWN",
   :source "https://patents.google.com/patent/US2554321/en",
@@ -407,6 +542,20 @@
   :grant-year 1952,
   :term-years 20,
   :open-license :none}
+ {:assignees [:eastman-kodak],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2604388/en",
+  :title "Photosensitive coating",
+  :status :granted,
+  :id "US2604388",
+  :sourcing :authoritative,
+  :filing-year 1951,
+  :assignee :eastman-kodak,
+  :grant-year 1952,
+  :cites ["GB458421A" "US1981102" "US2184310" "US2313848"],
+  :term-years 20,
+  :open-license :none}
  {:assignees [:canadian-industries],
   :jurisdiction :us,
   :field "UNKNOWN",
@@ -555,6 +704,31 @@
   :cites ["US1967863" "US2311489" "US2385320" "US2428716" "US2431745"],
   :term-years 20,
   :open-license :none}
+ {:assignees [:american-television],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2634510/en",
+  :title "Method for drying tenuous films",
+  :status :granted,
+  :id "US2634510",
+  :sourcing :authoritative,
+  :filing-year 1950,
+  :assignee :american-television,
+  :grant-year 1953,
+  :cites
+  ["GB189626075A"
+   "US1348757"
+   "US1512909"
+   "US2063350"
+   "US2077378"
+   "US2285261"
+   "US2391573"
+   "US2444572"
+   "US2519728"
+   "US2537416"
+   "US560561"],
+  :term-years 20,
+  :open-license :none}
  {:assignees [:emhart-manufacturing],
   :jurisdiction :us,
   :field "UNKNOWN",
@@ -606,6 +780,27 @@
    "US2045866"
    "US2485739"
    "US411596"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:general-electric],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2643956/en",
+  :title "Coating method and apparatus for luminescent tubes",
+  :status :granted,
+  :id "US2643956",
+  :sourcing :authoritative,
+  :filing-year 1950,
+  :assignee :general-electric,
+  :grant-year 1953,
+  :cites
+  ["GB586613A"
+   "US1511835"
+   "US2287024"
+   "US2317977"
+   "US2318060"
+   "US2337740"
+   "US2415512"],
   :term-years 20,
   :open-license :none}
  {:assignees [:monsanto-chemicals],
@@ -2192,6 +2387,26 @@
   :cites ["CA500178A" "US2698240"],
   :term-years 20,
   :open-license :none}
+ {:assignees [:thomas-electronics],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2827390/en",
+  :title "Production of kinescope targets",
+  :status :granted,
+  :id "US2827390",
+  :sourcing :authoritative,
+  :filing-year 1955,
+  :assignee :thomas-electronics,
+  :grant-year 1958,
+  :cites
+  ["GB713908A"
+   "US2404953"
+   "US2528969"
+   "US2685530"
+   "US2687360"
+   "US2769733"],
+  :term-years 20,
+  :open-license :none}
  {:assignees [:us-philips],
   :jurisdiction :us,
   :field "UNKNOWN",
@@ -2252,6 +2467,20 @@
    "US2509068"],
   :term-years 20,
   :open-license :none}
+ {:assignees [:jones-graphic-products],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2830899/en",
+  :title "Method for producing a printing plate",
+  :status :granted,
+  :id "US2830899",
+  :sourcing :authoritative,
+  :filing-year 1955,
+  :assignee :jones-graphic-products,
+  :grant-year 1958,
+  :cites ["US2174629" "US2184311" "US2702243"],
+  :term-years 20,
+  :open-license :none}
  {:assignees [:phillips-petroleum],
   :jurisdiction :us,
   :field "UNKNOWN",
@@ -2286,6 +2515,20 @@
    "US2430479"
    "US2650212"
    "US2713884"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:wr-grace-and],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2845400/en",
+  :title "Hydrazine resins",
+  :status :granted,
+  :id "US2845400",
+  :sourcing :authoritative,
+  :filing-year 1955,
+  :assignee :wr-grace-and,
+  :grant-year 1958,
+  :cites ["FR826512A"],
   :term-years 20,
   :open-license :none}
  {:assignees [:phillips-petroleum],
@@ -2727,6 +2970,19 @@
   :cites ["US2706181" "US2706182" "US2706189" "US2716123"],
   :term-years 20,
   :open-license :none}
+ {:jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2895944/en",
+  :title "Novel condensation products",
+  :status :granted,
+  :id "US2895944",
+  :sourcing :authoritative,
+  :filing-year 1955,
+  :assignee :unassigned,
+  :grant-year 1959,
+  :cites ["GB474601A"],
+  :term-years 20,
+  :open-license :none}
  {:assignees [:ei-du-pont-de-nemours-and],
   :jurisdiction :us,
   :field "UNKNOWN",
@@ -3085,6 +3341,26 @@
    "US2744130"
    "US2777872"
    "US2834758"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:bell-telephone-laboratories],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2935781/en",
+  :title "Manufacture of germanium translators",
+  :status :granted,
+  :id "US2935781",
+  :sourcing :authoritative,
+  :filing-year 1955,
+  :assignee :bell-telephone-laboratories,
+  :grant-year 1960,
+  :cites
+  ["US2577803"
+   "US2650311"
+   "US2673312"
+   "US2686279"
+   "US2695852"
+   "US2812480"],
   :term-years 20,
   :open-license :none}
  {:assignees [:union-carbide],
@@ -3732,6 +4008,20 @@
    "US2821500"],
   :term-years 20,
   :open-license :none}
+ {:assignees [:ozalid],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2997387/en",
+  :title "Photographic reproduction",
+  :status :granted,
+  :id "US2997387",
+  :sourcing :authoritative,
+  :filing-year 1958,
+  :assignee :ozalid,
+  :grant-year 1961,
+  :cites ["US1846853" "US2875054" "US2901348"],
+  :term-years 20,
+  :open-license :none}
  {:assignees [:us-philips],
   :jurisdiction :us,
   :field "UNKNOWN",
@@ -3988,6 +4278,27 @@
    "US2825721"
    "US2855517"
    "US2877500"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:fairchild-camera-and-instrument],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3025589/en",
+  :title "Method of manufacturing semiconductor devices",
+  :status :granted,
+  :id "US3025589",
+  :sourcing :authoritative,
+  :filing-year 1959,
+  :assignee :fairchild-camera-and-instrument,
+  :grant-year 1962,
+  :cites
+  ["US2653374"
+   "US2680220"
+   "US2695852"
+   "US2697269"
+   "US2796562"
+   "US2862160"
+   "US2866140"],
   :term-years 20,
   :open-license :none}
  {:assignees [:allied-kid],
@@ -4585,6 +4896,28 @@
   :filing-year 1960,
   :assignee :takeda-pharmaceutical,
   :grant-year 1963,
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:xerox],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3081165/en",
+  :title "Xerographic chemography",
+  :status :granted,
+  :id "US3081165",
+  :sourcing :authoritative,
+  :filing-year 1957,
+  :assignee :xerox,
+  :grant-year 1963,
+  :cites
+  ["US1574357"
+   "US1902213"
+   "US2297691"
+   "US2663636"
+   "US2692178"
+   "US2744859"
+   "US2756676"
+   "US2845348"],
   :term-years 20,
   :open-license :none}
  {:assignees [:deutsche-itt-industries],
@@ -9337,313 +9670,5 @@
   :assignee :abbott-laboratories,
   :grant-year 1973,
   :cites ["US3057775"],
-  :term-years 20,
-  :open-license :none}
- {:jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3715872/en",
-  :title "Mowing apparatus",
-  :status :granted,
-  :id "US3715872",
-  :sourcing :authoritative,
-  :filing-year 1971,
-  :assignee :unassigned,
-  :grant-year 1973,
-  :term-years 20,
-  :open-license :none}
- {:jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3716369/en",
-  :title
-  "Process for cooking foods in polyalkylene teraphalate film bag",
-  :status :granted,
-  :id "US3716369",
-  :sourcing :authoritative,
-  :filing-year 1970,
-  :assignee :unassigned,
-  :grant-year 1973,
-  :cites
-  ["CA703413A"
-   "US3008837"
-   "US3108881"
-   "US3132029"
-   "US3204760"
-   "US3262787"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:kuraray :sud-west-chemie],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3716395/en",
-  :title
-  "Process of producing pigmented, a hardenable resin containing paper sheets, and products",
-  :status :granted,
-  :id "US3716395",
-  :sourcing :authoritative,
-  :filing-year 1968,
-  :assignee :kuraray,
-  :grant-year 1973,
-  :cites ["US3197331" "US3200008" "US3288632" "US3326712" "US3493419"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:farrand-optical],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3719410/en",
-  :title "Mixing and measuring apparatus",
-  :status :granted,
-  :id "US3719410",
-  :sourcing :authoritative,
-  :filing-year 1971,
-  :assignee :farrand-optical,
-  :grant-year 1973,
-  :cites
-  ["US1660974"
-   "US2587221"
-   "US2643940"
-   "US2971429"
-   "US3193357"
-   "US3585007"
-   "US3586064"
-   "US3679312"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:sun-oil],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3719454/en",
-  :title "Laser controlled chemical reactor",
-  :status :granted,
-  :id "US3719454",
-  :sourcing :authoritative,
-  :filing-year 1970,
-  :assignee :sun-oil,
-  :grant-year 1973,
-  :term-years 20,
-  :open-license :none}
- {:assignees [:pharmacia],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3720760/en",
-  :title
-  "Method for determining the presence of reagin-immunoglobulins(reagin-ig)directed against certain allergens,in aqueous samples",
-  :status :granted,
-  :id "US3720760",
-  :sourcing :authoritative,
-  :filing-year 1968,
-  :assignee :pharmacia,
-  :grant-year 1973,
-  :term-years 20,
-  :open-license :none}
- {:assignees [:us-department-of-navy],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3724383/en",
-  :title "Lasser stimulated ordnance initiation device",
-  :status :granted,
-  :id "US3724383",
-  :sourcing :authoritative,
-  :filing-year 1971,
-  :assignee :us-department-of-navy,
-  :grant-year 1973,
-  :term-years 20,
-  :open-license :none}
- {:assignees [:north-american-rockwell],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3728227/en",
-  :title "Microorganism culture apparatus",
-  :status :granted,
-  :id "US3728227",
-  :sourcing :authoritative,
-  :filing-year 1968,
-  :assignee :north-american-rockwell,
-  :grant-year 1973,
-  :term-years 20,
-  :open-license :none}
- {:assignees [:purdue-research-foundation],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3730844/en",
-  :title "Polynucleotide analysis",
-  :status :granted,
-  :id "US3730844",
-  :sourcing :authoritative,
-  :filing-year 1971,
-  :assignee :purdue-research-foundation,
-  :grant-year 1973,
-  :term-years 20,
-  :open-license :none}
- {:assignees [:massachusetts-institute-of-technology],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3742230/en",
-  :title "Soft x-ray mask support substrate",
-  :status :granted,
-  :id "US3742230",
-  :sourcing :authoritative,
-  :filing-year 1972,
-  :assignee :massachusetts-institute-of-technology,
-  :grant-year 1973,
-  :cites ["US3637380"],
-  :term-years 20,
-  :open-license :none}
- {:jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3743090/en",
-  :title
-  "Method and apparatus for selectively removing pre-identified articles from a conveyor system",
-  :status :granted,
-  :id "US3743090",
-  :sourcing :authoritative,
-  :filing-year 1971,
-  :assignee :unassigned,
-  :grant-year 1973,
-  :cites ["US3144926" "US3460673" "US3463566" "US3516654" "US3612250"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:massachusetts-institute-of-technology],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3743842/en",
-  :title "Soft x-ray lithographic apparatus and process",
-  :status :granted,
-  :id "US3743842",
-  :sourcing :authoritative,
-  :filing-year 1972,
-  :assignee :massachusetts-institute-of-technology,
-  :grant-year 1973,
-  :cites
-  ["US1933652"
-   "US2382674"
-   "US3118786"
-   "US3447924"
-   "US3518083"
-   "US3637380"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:eastman-kodak],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3746564/en",
-  :title "Photographic diffusion transfer product and process",
-  :status :granted,
-  :id "US3746564",
-  :sourcing :authoritative,
-  :filing-year 1970,
-  :assignee :eastman-kodak,
-  :grant-year 1973,
-  :term-years 20,
-  :open-license :none}
- {:assignees [:coulter-electronics],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3746976/en",
-  :title "Self-cleaning aperture tube for coulter study apparatus",
-  :status :granted,
-  :id "US3746976",
-  :sourcing :authoritative,
-  :filing-year 1971,
-  :assignee :coulter-electronics,
-  :grant-year 1973,
-  :cites ["US3299354" "US3583209"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:phillips-petroleum],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3749593/en",
-  :title "Laminated materials and method of preparation",
-  :status :granted,
-  :id "US3749593",
-  :sourcing :authoritative,
-  :filing-year 1971,
-  :assignee :phillips-petroleum,
-  :grant-year 1973,
-  :term-years 20,
-  :open-license :none}
- {:assignees [:f-hoffmann-la-roche],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3755086/en",
-  :title
-  "Diagnostic method utilizing synthetic deoxyrilionucleotide oligomer template",
-  :status :granted,
-  :id "US3755086",
-  :sourcing :authoritative,
-  :filing-year 1971,
-  :assignee :f-hoffmann-la-roche,
-  :grant-year 1973,
-  :cites ["US3597318"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:baxter-laboratories],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3764214/en",
-  :title "Photometer apparatus",
-  :status :granted,
-  :id "US3764214",
-  :sourcing :authoritative,
-  :filing-year 1972,
-  :assignee :baxter-laboratories,
-  :grant-year 1973,
-  :cites ["US3319512"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:f-hoffmann-la-roche],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3766162/en",
-  :title "Barbituric acid antigens and antibodies specific therefor",
-  :status :granted,
-  :id "US3766162",
-  :sourcing :authoritative,
-  :filing-year 1971,
-  :assignee :f-hoffmann-la-roche,
-  :grant-year 1973,
-  :term-years 20,
-  :open-license :none}
- {:assignees [:international-business-machines],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3767490/en",
-  :title "Process for etching organic coating layers",
-  :status :granted,
-  :id "US3767490",
-  :sourcing :authoritative,
-  :filing-year 1971,
-  :assignee :international-business-machines,
-  :grant-year 1973,
-  :cites ["US2443373" "US3705055"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:tokyo-shibaura-electric],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3767494/en",
-  :title
-  "Method for manufacturing a semiconductor photosensitive device",
-  :status :granted,
-  :id "US3767494",
-  :sourcing :authoritative,
-  :filing-year 1971,
-  :assignee :tokyo-shibaura-electric,
-  :grant-year 1973,
-  :cites ["US3616345" "US3616348"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:united-states-department-of-the-army],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3770380/en",
-  :title "Article and method for multiple immune adherence assay",
-  :status :granted,
-  :id "US3770380",
-  :sourcing :authoritative,
-  :filing-year 1971,
-  :assignee :united-states-department-of-the-army,
-  :grant-year 1973,
-  :cites ["US3415361" "US3502437" "US3666421"],
   :term-years 20,
   :open-license :none}]
