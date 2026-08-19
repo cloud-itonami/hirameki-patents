@@ -1,4 +1,52 @@
-[{:assignees [:canadian-industries],
+[{:assignees [:champion-paper-and-fibre],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2598733/en",
+  :title "Wiping blade for coating devices",
+  :status :granted,
+  :id "US2598733",
+  :sourcing :authoritative,
+  :filing-year 1949,
+  :assignee :champion-paper-and-fibre,
+  :grant-year 1952,
+  :cites
+  ["US1956561"
+   "US1959027"
+   "US2033379"
+   "US2221441"
+   "US2326283"
+   "US2334102"
+   "US2354033"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:tate-and-lyle-ingredients-americas],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2599947/en",
+  :title "Paper coating apparatus",
+  :status :granted,
+  :id "US2599947",
+  :sourcing :authoritative,
+  :filing-year 1950,
+  :assignee :tate-and-lyle-ingredients-americas,
+  :grant-year 1952,
+  :cites ["GB136307A" "US1853569" "US2146507" "US2334102" "US781659"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:bell-telephone-laboratories],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2603694/en",
+  :title "Semiconductor signal translating device",
+  :status :granted,
+  :id "US2603694",
+  :sourcing :authoritative,
+  :filing-year 1951,
+  :assignee :bell-telephone-laboratories,
+  :grant-year 1952,
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:canadian-industries],
   :jurisdiction :us,
   :field "UNKNOWN",
   :source "https://patents.google.com/patent/US2604457/en",
@@ -2909,6 +2957,27 @@
   :cites ["DE913911C" "GB521773A" "US2384463" "US2830109" "US2914596"],
   :term-years 20,
   :open-license :none}
+ {:jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2980809/en",
+  :title
+  "Semi-conductor devices for rectifying and clipping large electrical currents",
+  :status :granted,
+  :id "US2980809",
+  :sourcing :authoritative,
+  :filing-year 1957,
+  :assignee :unassigned,
+  :grant-year 1961,
+  :cites
+  ["US2666814"
+   "US2825822"
+   "US2836797"
+   "US2868455"
+   "US2869000"
+   "US2885572"
+   "US2891171"],
+  :term-years 20,
+  :open-license :none}
  {:assignees [:general-electric],
   :jurisdiction :us,
   :field "UNKNOWN",
@@ -3565,6 +3634,20 @@
    "US2938876"],
   :term-years 20,
   :open-license :none}
+ {:assignees [:beckman-instruments],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3049118/en",
+  :title "Ion electrode assembly",
+  :status :granted,
+  :id "US3049118",
+  :sourcing :authoritative,
+  :filing-year 1961,
+  :assignee :beckman-instruments,
+  :grant-year 1962,
+  :cites ["US2755243" "US2886771"],
+  :term-years 20,
+  :open-license :none}
  {:jurisdiction :us,
   :field "UNKNOWN",
   :source "https://patents.google.com/patent/US3049411/en",
@@ -4199,6 +4282,20 @@
    "US2888902"],
   :term-years 20,
   :open-license :none}
+ {:assignees [:north-american-refractories],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3148230/en",
+  :title "Refractory structure",
+  :status :granted,
+  :id "US3148230",
+  :sourcing :authoritative,
+  :filing-year 1961,
+  :assignee :north-american-refractories,
+  :grant-year 1964,
+  :cites ["FR1184625A"],
+  :term-years 20,
+  :open-license :none}
  {:assignees [:shell-oil],
   :jurisdiction :us,
   :field "UNKNOWN",
@@ -4513,6 +4610,21 @@
   :cites ["US3051603"],
   :term-years 20,
   :open-license :none}
+ {:assignees [:rca],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3177100/en",
+  :title
+  "Depositing epitaxial layer of silicon from a vapor mixture of sih4 and h3",
+  :status :granted,
+  :id "US3177100",
+  :sourcing :authoritative,
+  :filing-year 1963,
+  :assignee :rca,
+  :grant-year 1965,
+  :cites ["GB745698A" "US2916359" "US2993762" "US3078150"],
+  :term-years 20,
+  :open-license :none}
  {:assignees [:ei-du-pont-de-nemours-and],
   :jurisdiction :us,
   :field "UNKNOWN",
@@ -4565,6 +4677,31 @@
   :cites ["US2710853" "US2867609"],
   :term-years 20,
   :open-license :none}
+ {:assignees [:fairchild-camera-and-instrument],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3183128/en",
+  :title "Method of making field-effect transistors",
+  :status :granted,
+  :id "US3183128",
+  :sourcing :authoritative,
+  :filing-year 1962,
+  :assignee :fairchild-camera-and-instrument,
+  :grant-year 1965,
+  :cites
+  ["US2754431"
+   "US2804405"
+   "US2815303"
+   "US2861018"
+   "US2953486"
+   "US2967985"
+   "US2980560"
+   "US2997634"
+   "US3079287"
+   "US3085033"
+   "US3108915"],
+  :term-years 20,
+  :open-license :none}
  {:jurisdiction :us,
   :field "UNKNOWN",
   :source "https://patents.google.com/patent/US318910/en",
@@ -4574,6 +4711,21 @@
   :sourcing :authoritative,
   :assignee :unassigned,
   :grant-year 1885,
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:rca],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3191061/en",
+  :title
+  "Insulated gate field effect devices and electrical circuits employing such devices",
+  :status :granted,
+  :id "US3191061",
+  :sourcing :authoritative,
+  :filing-year 1962,
+  :assignee :rca,
+  :grant-year 1965,
+  :cites ["US3040266" "US3115581" "US3134912"],
   :term-years 20,
   :open-license :none}
  {:assignees [:usines-decoufle],
@@ -4685,6 +4837,21 @@
   :cites ["US2964426"],
   :term-years 20,
   :open-license :none}
+ {:assignees [:rca],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3202840/en",
+  :title
+  "Frequency doubler employing two push-pull pulsed internal field effect devices",
+  :status :granted,
+  :id "US3202840",
+  :sourcing :authoritative,
+  :filing-year 1963,
+  :assignee :rca,
+  :grant-year 1965,
+  :cites ["US3093752"],
+  :term-years 20,
+  :open-license :none}
  {:assignees [:jm-huber],
   :jurisdiction :us,
   :field "UNKNOWN",
@@ -4757,6 +4924,20 @@
   :assignee :sankyo,
   :grant-year 1965,
   :cites ["US2719843" "US2906756"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:rca],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3213299/en",
+  :title "Linearized field-effect transistor circuit",
+  :status :granted,
+  :id "US3213299",
+  :sourcing :authoritative,
+  :filing-year 1963,
+  :assignee :rca,
+  :grant-year 1965,
+  :cites ["US3102230" "US3131312"],
   :term-years 20,
   :open-license :none}
  {:assignees [:pacific-industries],
@@ -4871,6 +5052,20 @@
   :assignee :trw,
   :grant-year 1966,
   :cites ["US2497852" "US329724"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:rca],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3229218/en",
+  :title "Field-effect transistor circuit",
+  :status :granted,
+  :id "US3229218",
+  :sourcing :authoritative,
+  :filing-year 1963,
+  :assignee :rca,
+  :grant-year 1966,
+  :cites ["US2021920" "US2879344" "US2939916" "US3056888" "US3117287"],
   :term-years 20,
   :open-license :none}
  {:assignees [:harris-intertype],
@@ -5498,6 +5693,20 @@
    "US2932300"],
   :term-years 20,
   :open-license :none}
+ {:assignees [:hewlett-packard],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3294988/en",
+  :title "Transducers",
+  :status :granted,
+  :id "US3294988",
+  :sourcing :authoritative,
+  :filing-year 1964,
+  :assignee :hewlett-packard,
+  :grant-year 1966,
+  :cites ["US2554270" "US2952786" "US3164004" "US3209081"],
+  :term-years 20,
+  :open-license :none}
  {:assignees [:marconi],
   :jurisdiction :us,
   :field "UNKNOWN",
@@ -5658,6 +5867,27 @@
    "US3084286"
    "US3149286"
    "US3189873"],
+  :term-years 20,
+  :open-license :none}
+ {:jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3315424/en",
+  :title "Building construction",
+  :status :granted,
+  :id "US3315424",
+  :sourcing :authoritative,
+  :filing-year 1963,
+  :assignee :unassigned,
+  :grant-year 1967,
+  :cites
+  ["US1510224"
+   "US2576073"
+   "US2595123"
+   "US2928360"
+   "US2995784"
+   "US3003199"
+   "US3085365"
+   "US951031"],
   :term-years 20,
   :open-license :none}
  {:assignees [:ajinomoto],
@@ -7871,6 +8101,19 @@
   :cites ["US3372992" "US3380888" "US3451777"],
   :term-years 20,
   :open-license :none}
+ {:assignees [:beckman-instruments],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3649505/en",
+  :title "Ammonia sensor",
+  :status :granted,
+  :id "US3649505",
+  :sourcing :authoritative,
+  :filing-year 1969,
+  :assignee :beckman-instruments,
+  :grant-year 1972,
+  :term-years 20,
+  :open-license :none}
  {:assignees [:technicon],
   :jurisdiction :us,
   :field "UNKNOWN",
@@ -8838,6 +9081,19 @@
   :grant-year 1973,
   :term-years 20,
   :open-license :none}
+ {:assignees [:monsanto],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3776819/en",
+  :title "Urea determination and electrode therefor",
+  :status :granted,
+  :id "US3776819",
+  :sourcing :authoritative,
+  :filing-year 1969,
+  :assignee :monsanto,
+  :grant-year 1973,
+  :term-years 20,
+  :open-license :none}
  {:assignees [:international-business-machines],
   :jurisdiction :us,
   :field "UNKNOWN",
@@ -8894,6 +9150,20 @@
    "US3389966"
    "US3480400"
    "US3509026"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:beckman-instruments],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3787309/en",
+  :title "Specific ion electrode and method of making said electrode",
+  :status :granted,
+  :id "US3787309",
+  :sourcing :authoritative,
+  :filing-year 1972,
+  :assignee :beckman-instruments,
+  :grant-year 1974,
+  :cites ["FR1402343A" "FR1505744A"],
   :term-years 20,
   :open-license :none}
  {:assignees [:abbott-laboratories],
@@ -9298,261 +9568,5 @@
   :filing-year 1972,
   :assignee :us-atomic-energy-commission-aec,
   :grant-year 1974,
-  :term-years 20,
-  :open-license :none}
- {:assignees [:bio-physics-systems],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3827555/en",
-  :title "Particle sorter with segregation indicator",
-  :status :granted,
-  :id "US3827555",
-  :sourcing :authoritative,
-  :filing-year 1973,
-  :assignee :bio-physics-systems,
-  :grant-year 1974,
-  :cites
-  ["US2333791"
-   "US3269419"
-   "US3362421"
-   "US3508654"
-   "US3508655"
-   "US3560754"
-   "US3710933"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:geometric-data],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3827804/en",
-  :title
-  "Color separation for discrimination in pattern recognition systems",
-  :status :granted,
-  :id "US3827804",
-  :sourcing :authoritative,
-  :filing-year 1972,
-  :assignee :geometric-data,
-  :grant-year 1974,
-  :cites
-  ["US3188907"
-   "US3284566"
-   "US3315229"
-   "US3330904"
-   "US3497690"
-   "US3657537"
-   "US3663801"
-   "US3675768"
-   "US3699336"
-   "US3703337"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:texas-instruments],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3831432/en",
-  :title "Environment monitoring device and system",
-  :status :granted,
-  :id "US3831432",
-  :sourcing :authoritative,
-  :filing-year 1972,
-  :assignee :texas-instruments,
-  :grant-year 1974,
-  :cites
-  ["US2975362"
-   "US2998554"
-   "US3329004"
-   "US3469147"
-   "US3507145"
-   "US3586554"
-   "US3685140"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:fuji-photo-film],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3838926/en",
-  :title
-  "Method of continuously determining the absorbance light of a chemical reaction mixture",
-  :status :granted,
-  :id "US3838926",
-  :sourcing :authoritative,
-  :filing-year 1973,
-  :assignee :fuji-photo-film,
-  :grant-year 1974,
-  :cites ["CH192183A" "DE675911C" "US2707900" "US3700335"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:akzona],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3839153/en",
-  :title
-  "Process for the detection and determination of specific binding proteins and their corresponding bindable substances",
-  :status :granted,
-  :id "US3839153",
-  :sourcing :authoritative,
-  :filing-year 1971,
-  :assignee :akzona,
-  :grant-year 1974,
-  :cites ["US3652761" "US3654090"],
-  :term-years 20,
-  :open-license :none}
- {:jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3843450/en",
-  :title
-  "Magnetically responsive,biologically active substance and associated methods",
-  :status :granted,
-  :id "US3843450",
-  :sourcing :authoritative,
-  :filing-year 1971,
-  :assignee :unassigned,
-  :grant-year 1974,
-  :term-years 20,
-  :open-license :none}
- {:assignees [:syva],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3843696/en",
-  :title "Methadone analog compounds",
-  :status :granted,
-  :id "US3843696",
-  :sourcing :authoritative,
-  :filing-year 1972,
-  :assignee :syva,
-  :grant-year 1974,
-  :term-years 20,
-  :open-license :none}
- {:assignees [:baxter-laboratories],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3843777/en",
-  :title "Hemolytic assay system",
-  :status :granted,
-  :id "US3843777",
-  :sourcing :authoritative,
-  :filing-year 1972,
-  :assignee :baxter-laboratories,
-  :grant-year 1974,
-  :term-years 20,
-  :open-license :none}
- {:assignees [:lever-brothers],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3844896/en",
-  :title
-  "Apparatus for performing bacteriological tests automatically",
-  :status :granted,
-  :id "US3844896",
-  :sourcing :authoritative,
-  :filing-year 1973,
-  :assignee :lever-brothers,
-  :grant-year 1974,
-  :cites ["US3050915" "US3501379"],
-  :term-years 20,
-  :open-license :none}
- {:assignees
-  [:max-planck-gesellschaft-zur-foerderung-der-wissenschaften-ev],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3846402/en",
-  :title
-  "Thiophosphate analogues of the nucleoside diphosphates and triphosphates and a method for the preparation thereof",
-  :status :granted,
-  :id "US3846402",
-  :sourcing :authoritative,
-  :filing-year 1972,
-  :assignee
-  :max-planck-gesellschaft-zur-foerderung-der-wissenschaften-ev,
-  :grant-year 1974,
-  :cites ["US3687808" "US3709873"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:duke-university],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3847749/en",
-  :title
-  "Apparatus and method for rapid harvesting of roller culture supernatant fluid",
-  :status :granted,
-  :id "US3847749",
-  :sourcing :authoritative,
-  :filing-year 1973,
-  :assignee :duke-university,
-  :grant-year 1974,
-  :cites ["US3711379"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:basf-se],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3849137/en",
-  :title
-  "Lithographic printing plates and photoresists comprising a photosensitive polymer",
-  :status :granted,
-  :id "US3849137",
-  :sourcing :authoritative,
-  :filing-year 1972,
-  :assignee :basf-se,
-  :grant-year 1974,
-  :cites ["US3615629"],
-  :term-years 20,
-  :open-license :none}
- {:assignees
-  [:institut-national-de-la-sante-et-de-la-recherche-medicale-inserm],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3849546/en",
-  :title "Process for obtaining abtigenlipoid emulsions",
-  :status :granted,
-  :id "US3849546",
-  :sourcing :authoritative,
-  :filing-year 1972,
-  :assignee
-  :institut-national-de-la-sante-et-de-la-recherche-medicale-inserm,
-  :grant-year 1974,
-  :term-years 20,
-  :open-license :none}
- {:assignees [:yeda-research-and-development],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3850749/en",
-  :title "Preparation of oligoribonucleotides",
-  :status :granted,
-  :id "US3850749",
-  :sourcing :authoritative,
-  :filing-year 1972,
-  :assignee :yeda-research-and-development,
-  :grant-year 1974,
-  :cites ["US3594278"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:akzona],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3850752/en",
-  :title
-  "Process for the demonstration and determination of low molecular compounds and of proteins capable of binding these compounds specifically",
-  :status :granted,
-  :id "US3850752",
-  :sourcing :authoritative,
-  :filing-year 1971,
-  :assignee :akzona,
-  :grant-year 1974,
-  :cites ["US3615222" "US3654090"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:syva],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3852157/en",
-  :title "Compounds for enzyme amplification assay",
-  :status :granted,
-  :id "US3852157",
-  :sourcing :authoritative,
-  :filing-year 1972,
-  :assignee :syva,
-  :grant-year 1974,
-  :cites ["US3639558" "US3654090"],
   :term-years 20,
   :open-license :none}]
