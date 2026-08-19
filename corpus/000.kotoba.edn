@@ -5791,6 +5791,18 @@
   :cites ["US4759961" "US6541070"],
   :term-years 20,
   :open-license :none}
+ {:jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2007324/en",
+  :title "Means for indicating scent conditions",
+  :status :granted,
+  :id "US2007324",
+  :sourcing :authoritative,
+  :filing-year 1933,
+  :assignee :unassigned,
+  :grant-year 1935,
+  :term-years 20,
+  :open-license :none}
  {:assignees [:champion-coated-paper],
   :jurisdiction :us,
   :field "UNKNOWN",
@@ -5930,6 +5942,19 @@
   :grant-year 1936,
   :term-years 20,
   :open-license :none}
+ {:assignees [:ion],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2047638/en",
+  :title "Humidity measuring device",
+  :status :granted,
+  :id "US2047638",
+  :sourcing :authoritative,
+  :filing-year 1934,
+  :assignee :ion,
+  :grant-year 1936,
+  :term-years 20,
+  :open-license :none}
  {:assignees [:william-m-mccaskell],
   :jurisdiction :us,
   :field "UNKNOWN",
@@ -5993,6 +6018,19 @@
   :sourcing :authoritative,
   :filing-year 1932,
   :assignee :richardson,
+  :grant-year 1936,
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:general-electric],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2064651/en",
+  :title "Humidity responsive device",
+  :status :granted,
+  :id "US2064651",
+  :sourcing :authoritative,
+  :filing-year 1931,
+  :assignee :general-electric,
   :grant-year 1936,
   :term-years 20,
   :open-license :none}
@@ -7425,6 +7463,18 @@
   :grant-year 1945,
   :term-years 20,
   :open-license :none}
+ {:jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2377426/en",
+  :title "Humidity responsive device",
+  :status :granted,
+  :id "US2377426",
+  :sourcing :authoritative,
+  :filing-year 1943,
+  :assignee :unassigned,
+  :grant-year 1945,
+  :term-years 20,
+  :open-license :none}
  {:assignees [:general-electric],
   :jurisdiction :us,
   :field "UNKNOWN",
@@ -8270,6 +8320,20 @@
    "US2365374"],
   :term-years 20,
   :open-license :none}
+ {:assignees [:california-research],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2504965/en",
+  :title "Electrical bridge network",
+  :status :granted,
+  :id "US2504965",
+  :sourcing :authoritative,
+  :filing-year 1949,
+  :assignee :california-research,
+  :grant-year 1950,
+  :cites ["US2112228" "US2456499"],
+  :term-years 20,
+  :open-license :none}
  {:assignees [:bendix-aviation],
   :jurisdiction :us,
   :field "UNKNOWN",
@@ -8634,6 +8698,20 @@
    "US2425231"],
   :term-years 20,
   :open-license :none}
+ {:assignees [:airborne-instr-lab],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2585353/en",
+  :title "Apparatus for testing crystal rectifiers",
+  :status :granted,
+  :id "US2585353",
+  :sourcing :authoritative,
+  :filing-year 1950,
+  :assignee :airborne-instr-lab,
+  :grant-year 1952,
+  :cites ["US2459849"],
+  :term-years 20,
+  :open-license :none}
  {:assignees [:chicago-endocrine-research],
   :jurisdiction :us,
   :field "UNKNOWN",
@@ -8816,91 +8894,16 @@
   :cites ["GB136307A" "US1853569" "US2146507" "US2334102" "US781659"],
   :term-years 20,
   :open-license :none}
- {:assignees [:canadian-industries],
+ {:assignees [:bell-telephone-laboratories],
   :jurisdiction :us,
   :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US2604457/en",
-  :title
-  "Styrene-acrylic acid copolymers reacted with polymeric 4-vinylcyclohexene diepoxide",
+  :source "https://patents.google.com/patent/US2603694/en",
+  :title "Semiconductor signal translating device",
   :status :granted,
-  :id "US2604457",
+  :id "US2603694",
   :sourcing :authoritative,
   :filing-year 1951,
-  :assignee :canadian-industries,
+  :assignee :bell-telephone-laboratories,
   :grant-year 1952,
-  :cites ["US2131120" "US2527806" "US2530983"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:ei-du-pont-de-nemours-and],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US2606845/en",
-  :title
-  "Process for adhering polyvinyl chloride coatings to nylon fabric",
-  :status :granted,
-  :id "US2606845",
-  :sourcing :authoritative,
-  :filing-year 1949,
-  :assignee :ei-du-pont-de-nemours-and,
-  :grant-year 1952,
-  :cites ["US2253146" "US2265119" "US2322953" "US2332373" "US2443450"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:directie-van-de-staatsmijnen-in-limburg],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US2616950/en",
-  :title
-  "Apparatus for continuously determining the electrical conductivity of a liquid",
-  :status :granted,
-  :id "US2616950",
-  :sourcing :authoritative,
-  :filing-year 1951,
-  :assignee :directie-van-de-staatsmijnen-in-limburg,
-  :grant-year 1952,
-  :cites ["US2370609" "US2547440" "US2563729"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:british-artificial-resin-compa],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US2623239/en",
-  :title
-  "Method and apparatus for feeding comminuted board-forming material for pressing",
-  :status :granted,
-  :id "US2623239",
-  :sourcing :authoritative,
-  :filing-year 1949,
-  :assignee :british-artificial-resin-compa,
-  :grant-year 1952,
-  :cites
-  ["US1342192"
-   "US2039204"
-   "US2161308"
-   "US2340834"
-   "US2463288"
-   "US813171"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:grizzly-manufacturing],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US2624160/en",
-  :title "Platen lubricating means",
-  :status :granted,
-  :id "US2624160",
-  :sourcing :authoritative,
-  :filing-year 1950,
-  :assignee :grizzly-manufacturing,
-  :grant-year 1953,
-  :cites
-  ["US1036783"
-   "US1434334"
-   "US1877495"
-   "US2162279"
-   "US2212159"
-   "US2231196"
-   "US2296990"
-   "US2367107"],
   :term-years 20,
   :open-license :none}]
