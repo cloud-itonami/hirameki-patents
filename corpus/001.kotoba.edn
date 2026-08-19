@@ -1,4 +1,177 @@
-[{:assignees [:minnesota-and-ontario-paper],
+[{:assignees [:socony-vacuum-oil],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2554321/en",
+  :title "Measurement of fluorescence",
+  :status :granted,
+  :id "US2554321",
+  :sourcing :authoritative,
+  :filing-year 1948,
+  :assignee :socony-vacuum-oil,
+  :grant-year 1951,
+  :cites ["US2051320" "US2265357" "US2286985" "US2403631" "US2459512"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:elizabeth-r-b-stuart],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2555380/en",
+  :title "Container",
+  :status :granted,
+  :id "US2555380",
+  :sourcing :authoritative,
+  :filing-year 1946,
+  :assignee :elizabeth-r-b-stuart,
+  :grant-year 1951,
+  :cites
+  ["US1299031"
+   "US1558804"
+   "US1597889"
+   "US2006548"
+   "US2085034"
+   "US2131343"
+   "US2163316"
+   "US2163317"
+   "US2173585"
+   "US2183093"
+   "US2227138"
+   "US2262242"
+   "US2281889"
+   "US2314338"
+   "US485158"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:polaroid],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2558857/en",
+  :title "Photographic developer element",
+  :status :granted,
+  :id "US2558857",
+  :sourcing :authoritative,
+  :filing-year 1947,
+  :assignee :polaroid,
+  :grant-year 1951,
+  :cites
+  ["AT141872B"
+   "CH115331A"
+   "DE121593C"
+   "DE43521C"
+   "FR635715A"
+   "FR662060A"
+   "FR879995A"
+   "GB189917738A"
+   "GB190609248A"
+   "US1207042"
+   "US1261748"
+   "US1911955"
+   "US2221873"
+   "US2312854"
+   "US2352014"
+   "US2360216"],
+  :term-years 20,
+  :open-license :none}
+ {:jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2565491/en",
+  :title "Film structure and method for producing the same",
+  :status :granted,
+  :id "US2565491",
+  :sourcing :authoritative,
+  :filing-year 1945,
+  :assignee :unassigned,
+  :grant-year 1951,
+  :cites
+  ["US1146855"
+   "US1258840"
+   "US1732661"
+   "US1864763"
+   "US1921819"
+   "US2064143"
+   "US2085875"
+   "US2122251"
+   "US2245289"
+   "US2279366"
+   "US2304632"
+   "US2314975"
+   "US2327765"
+   "US2344807"
+   "US2360650"
+   "US2404073"
+   "US2440039"
+   "US376350"
+   "US988981"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:bf-goodrich],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2568658/en",
+  :title "Method of polymerizing polyunsaturated esters",
+  :status :granted,
+  :id "US2568658",
+  :sourcing :authoritative,
+  :filing-year 1947,
+  :assignee :bf-goodrich,
+  :grant-year 1951,
+  :cites ["US2340111" "US2385931" "US2403112" "US2455652" "US2482825"],
+  :term-years 20,
+  :open-license :none}
+ {:jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2571171/en",
+  :title "Dew point hygrometer",
+  :status :granted,
+  :id "US2571171",
+  :sourcing :authoritative,
+  :filing-year 1945,
+  :assignee :unassigned,
+  :grant-year 1951,
+  :cites
+  ["US1951276"
+   "US2011710"
+   "US2017859"
+   "US2230649"
+   "US2361634"
+   "US2375273"
+   "US2412782"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:corning-glass-works],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2571242/en",
+  :title "Opal glass and method of controlling fire thereof",
+  :status :granted,
+  :id "US2571242",
+  :sourcing :authoritative,
+  :filing-year 1948,
+  :assignee :corning-glass-works,
+  :grant-year 1951,
+  :cites ["US1305793" "US2097275" "US2097602" "US2440048"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:eastman-kodak],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2571725/en",
+  :title "Eliminating stain in photographic color material",
+  :status :granted,
+  :id "US2571725",
+  :sourcing :authoritative,
+  :filing-year 1946,
+  :assignee :eastman-kodak,
+  :grant-year 1951,
+  :cites
+  ["GB190713835A"
+   "US1763533"
+   "US1954452"
+   "US2304940"
+   "US2309492"
+   "US2360290"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:minnesota-and-ontario-paper],
   :jurisdiction :us,
   :field "UNKNOWN",
   :source "https://patents.google.com/patent/US2582407/en",
@@ -490,6 +663,20 @@
    "US2589302"],
   :term-years 20,
   :open-license :none}
+ {:assignees [:rohm-and-haas],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2653143/en",
+  :title "Condensation products of bis-aminotriazines",
+  :status :granted,
+  :id "US2653143",
+  :sourcing :authoritative,
+  :filing-year 1952,
+  :assignee :rohm-and-haas,
+  :grant-year 1953,
+  :cites ["GB608186A" "US2524727"],
+  :term-years 20,
+  :open-license :none}
  {:jurisdiction :us,
   :field "UNKNOWN",
   :source "https://patents.google.com/patent/US2653566/en",
@@ -613,6 +800,30 @@
    "US844783"],
   :term-years 20,
   :open-license :none}
+ {:assignees [:xerox],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2663636/en",
+  :title "Electrophotographic plate and method of producing same",
+  :status :granted,
+  :id "US2663636",
+  :sourcing :authoritative,
+  :filing-year 1949,
+  :assignee :xerox,
+  :grant-year 1953,
+  :cites
+  ["DE725286C"
+   "US2067576"
+   "US2168259"
+   "US2178018"
+   "US2197552"
+   "US2199104"
+   "US2297691"
+   "US2433401"
+   "US2436578"
+   "US2485589"],
+  :term-years 20,
+  :open-license :none}
  {:assignees [:crown-zellerbach],
   :jurisdiction :us,
   :field "UNKNOWN",
@@ -726,6 +937,30 @@
   :assignee :unassigned,
   :grant-year 1954,
   :cites ["US1223516" "US2236239" "US2424323" "US2542804"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees
+  [:office-national-detudes-et-de-recherches-aerospatiales-onera],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2692178/en",
+  :title
+  "Method and material for graphical registering or direct recording",
+  :status :granted,
+  :id "US2692178",
+  :sourcing :authoritative,
+  :filing-year 1949,
+  :assignee
+  :office-national-detudes-et-de-recherches-aerospatiales-onera,
+  :grant-year 1954,
+  :cites
+  ["GB188030A"
+   "GB375639A"
+   "GB391100A"
+   "US2221776"
+   "US2432303"
+   "US2461403"
+   "US2501790"],
   :term-years 20,
   :open-license :none}
  {:assignees [:standard-oil],
@@ -1809,6 +2044,27 @@
   :cites ["US2536018" "US2536470" "US2570253"],
   :term-years 20,
   :open-license :none}
+ {:assignees [:nat-res-dev],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2800559/en",
+  :title
+  "Electrical semi-conductors comprising organo metallic compounds and process of producing same",
+  :status :granted,
+  :id "US2800559",
+  :sourcing :authoritative,
+  :filing-year 1953,
+  :assignee :nat-res-dev,
+  :grant-year 1957,
+  :cites
+  ["US2027000"
+   "US2108277"
+   "US2164595"
+   "US2239642"
+   "US2451739"
+   "US2454082"],
+  :term-years 20,
+  :open-license :none}
  {:assignees [:firestone-tire-and-rubber],
   :jurisdiction :us,
   :field "UNKNOWN",
@@ -2495,6 +2751,32 @@
    "US2805191"],
   :term-years 20,
   :open-license :none}
+ {:assignees [:xerox],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2901348/en",
+  :title "Radiation sensitive photoconductive member",
+  :status :granted,
+  :id "US2901348",
+  :sourcing :authoritative,
+  :filing-year 1953,
+  :assignee :xerox,
+  :grant-year 1959,
+  :cites
+  ["US2139731"
+   "US2189576"
+   "US2199104"
+   "US2277013"
+   "US2297691"
+   "US2337329"
+   "US2554225"
+   "US2613301"
+   "US2619418"
+   "US2654853"
+   "US2659670"
+   "US2662832"],
+  :term-years 20,
+  :open-license :none}
  {:assignees [:ei-du-pont-de-nemours-and],
   :jurisdiction :us,
   :field "UNKNOWN",
@@ -2782,6 +3064,29 @@
   :cites ["US2466963" "US2824816"],
   :term-years 20,
   :open-license :none}
+ {:assignees [:american-cyanamid],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2935493/en",
+  :title
+  "Composition comprising a reaction product of formaldehyde and a copolymer of acrylamide and an unsaturated betaine",
+  :status :granted,
+  :id "US2935493",
+  :sourcing :authoritative,
+  :filing-year 1955,
+  :assignee :american-cyanamid,
+  :grant-year 1960,
+  :cites
+  ["DE716322C"
+   "US2082275"
+   "US2548428"
+   "US2563289"
+   "US2595575"
+   "US2744130"
+   "US2777872"
+   "US2834758"],
+  :term-years 20,
+  :open-license :none}
  {:assignees [:union-carbide],
   :jurisdiction :us,
   :field "UNKNOWN",
@@ -2960,6 +3265,51 @@
    "US2860073"],
   :term-years 20,
   :open-license :none}
+ {:assignees [:american-cyanamid],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2953546/en",
+  :title "Polymerization of solid monomers in suspension",
+  :status :granted,
+  :id "US2953546",
+  :sourcing :authoritative,
+  :filing-year 1957,
+  :assignee :american-cyanamid,
+  :grant-year 1960,
+  :cites
+  ["GB648252A"
+   "US2471959"
+   "US2521902"
+   "US2584306"
+   "US2672480"
+   "US2743297"
+   "US2769786"
+   "US2831841"
+   "US2904541"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:xerox],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2954291/en",
+  :title "Method for preparing a spirit duplicating master",
+  :status :granted,
+  :id "US2954291",
+  :sourcing :authoritative,
+  :filing-year 1957,
+  :assignee :xerox,
+  :grant-year 1960,
+  :cites
+  ["US2067435"
+   "US2297691"
+   "US2305799"
+   "US2519321"
+   "US2528496"
+   "US2598732"
+   "US2663636"
+   "US2676887"],
+  :term-years 20,
+  :open-license :none}
  {:assignees [:minnesota-mining-and-manufacturing],
   :jurisdiction :us,
   :field "UNKNOWN",
@@ -2996,6 +3346,20 @@
   :assignee :unassigned,
   :grant-year 1960,
   :cites ["US2533089" "US2871168"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:xerox],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2962376/en",
+  :title "Xerographic member",
+  :status :granted,
+  :id "US2962376",
+  :sourcing :authoritative,
+  :filing-year 1958,
+  :assignee :xerox,
+  :grant-year 1960,
+  :cites ["US2687484" "US2803541" "US2803542"],
   :term-years 20,
   :open-license :none}
  {:assignees [:th-goldschmidt],
@@ -9281,312 +9645,5 @@
   :assignee :united-states-department-of-the-army,
   :grant-year 1973,
   :cites ["US3415361" "US3502437" "US3666421"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:akzona],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3770383/en",
-  :title "Diagnostic test slide",
-  :status :granted,
-  :id "US3770383",
-  :sourcing :authoritative,
-  :filing-year 1971,
-  :assignee :akzona,
-  :grant-year 1973,
-  :cites
-  ["GB953414A"
-   "US3502437"
-   "US3549328"
-   "US3616251"
-   "US3672845"
-   "US3697227"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:rca],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3770434/en",
-  :title
-  "Method for making an image screen structure for an apertured-mask cathode-ray tube using a mask having temporary apertures",
-  :status :granted,
-  :id "US3770434",
-  :sourcing :authoritative,
-  :filing-year 1971,
-  :assignee :rca,
-  :grant-year 1973,
-  :cites
-  ["US2750524"
-   "US2961314"
-   "US2971117"
-   "US3070441"
-   "US3231380"
-   "US3574013"
-   "US3600213"
-   "US3653901"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:technicon-instruments],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3772154/en",
-  :title
-  "Method and apparatus for automated antibiotic susceptibility analysis of bacteria samples",
-  :status :granted,
-  :id "US3772154",
-  :sourcing :authoritative,
-  :filing-year 1971,
-  :assignee :technicon-instruments,
-  :grant-year 1973,
-  :cites ["US3014848" "US3437447" "US3511573"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:united-states-department-of-the-army],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3773625/en",
-  :title "Soluble antigen-antibody complexes",
-  :status :granted,
-  :id "US3773625",
-  :sourcing :authoritative,
-  :filing-year 1971,
-  :assignee :united-states-department-of-the-army,
-  :grant-year 1973,
-  :term-years 20,
-  :open-license :none}
- {:assignees [:ei-du-pont-de-nemours-and],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3773919/en",
-  :title "Polylactide-drug mixtures",
-  :status :granted,
-  :id "US3773919",
-  :sourcing :authoritative,
-  :filing-year 1970,
-  :assignee :ei-du-pont-de-nemours-and,
-  :grant-year 1973,
-  :term-years 20,
-  :open-license :none}
- {:assignees [:f-hoffmann-la-roche],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3775536/en",
-  :title "Opium alkaloid antigens and antibodies specific therefor",
-  :status :granted,
-  :id "US3775536",
-  :sourcing :authoritative,
-  :filing-year 1972,
-  :assignee :f-hoffmann-la-roche,
-  :grant-year 1973,
-  :term-years 20,
-  :open-license :none}
- {:assignees [:monsanto],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3776819/en",
-  :title "Urea determination and electrode therefor",
-  :status :granted,
-  :id "US3776819",
-  :sourcing :authoritative,
-  :filing-year 1969,
-  :assignee :monsanto,
-  :grant-year 1973,
-  :term-years 20,
-  :open-license :none}
- {:assignees [:international-business-machines],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3779806/en",
-  :title "Electron beam sensitive polymer t-butyl methacrylate resist",
-  :status :granted,
-  :id "US3779806",
-  :sourcing :authoritative,
-  :filing-year 1972,
-  :assignee :international-business-machines,
-  :grant-year 1973,
-  :cites
-  ["US3392051"
-   "US3436468"
-   "US3535137"
-   "US3607382"
-   "US3650796"
-   "US3696742"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:american-optical],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3782823/en",
-  :title "Laser microprobe",
-  :status :granted,
-  :id "US3782823",
-  :sourcing :authoritative,
-  :filing-year 1972,
-  :assignee :american-optical,
-  :grant-year 1974,
-  :cites ["US3348547" "US3463594"],
-  :term-years 20,
-  :open-license :none}
- {:jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3787290/en",
-  :title
-  "Method and means for assaying biological factors demonstrating quantal response",
-  :status :granted,
-  :id "US3787290",
-  :sourcing :authoritative,
-  :filing-year 1972,
-  :assignee :unassigned,
-  :grant-year 1974,
-  :cites
-  ["US2129754"
-   "US2771398"
-   "US2904474"
-   "US2956931"
-   "US3001914"
-   "US3043669"
-   "US3107204"
-   "US3389966"
-   "US3480400"
-   "US3509026"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:beckman-instruments],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3787309/en",
-  :title "Specific ion electrode and method of making said electrode",
-  :status :granted,
-  :id "US3787309",
-  :sourcing :authoritative,
-  :filing-year 1972,
-  :assignee :beckman-instruments,
-  :grant-year 1974,
-  :cites ["FR1402343A" "FR1505744A"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:abbott-laboratories],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3789116/en",
-  :title "Fluorescent labeled antibody reagent",
-  :status :granted,
-  :id "US3789116",
-  :sourcing :authoritative,
-  :filing-year 1970,
-  :assignee :abbott-laboratories,
-  :grant-year 1974,
-  :cites ["FR1299171A" "GB1180957A" "US3551296"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:us-department-of-health-and-human-services],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3790663/en",
-  :title
-  "Preparation of dry antiserum coated solid-phase for radioimmunoassay of antigens",
-  :status :granted,
-  :id "US3790663",
-  :sourcing :authoritative,
-  :filing-year 1970,
-  :assignee :us-department-of-health-and-human-services,
-  :grant-year 1974,
-  :term-years 20,
-  :open-license :none}
- {:assignees [:bio-physics-systems],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3791517/en",
-  :title "Digital fluidic amplifier particle sorter",
-  :status :granted,
-  :id "US3791517",
-  :sourcing :authoritative,
-  :filing-year 1973,
-  :assignee :bio-physics-systems,
-  :grant-year 1974,
-  :cites ["US3560754" "US3710933"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:akzona],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3791932/en",
-  :title
-  "Process for the demonstration and determination of reaction components having specific binding affinity for each other",
-  :status :granted,
-  :id "US3791932",
-  :sourcing :authoritative,
-  :filing-year 1972,
-  :assignee :akzona,
-  :grant-year 1974,
-  :cites ["US3654090"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:geomet],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3791933/en",
-  :title
-  "Rapid methods for assay of enzyme substrates and metabolites",
-  :status :granted,
-  :id "US3791933",
-  :sourcing :authoritative,
-  :filing-year 1971,
-  :assignee :geomet,
-  :grant-year 1974,
-  :cites ["US3367841" "US3526480" "US3663374"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:miles-laboratories],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3792039/en",
-  :title "Poly 2&#39;-fluoro-2&#39;-deoxyuridylic acid",
-  :status :granted,
-  :id "US3792039",
-  :sourcing :authoritative,
-  :filing-year 1971,
-  :assignee :miles-laboratories,
-  :grant-year 1974,
-  :term-years 20,
-  :open-license :none}
- {:assignees [:howson-algraphy],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3796603/en",
-  :title
-  "Method of removing insolubilized light sensitized poly(vinyl alcohol) from a surface utilizing periodate ions",
-  :status :granted,
-  :id "US3796603",
-  :sourcing :authoritative,
-  :filing-year 1972,
-  :assignee :howson-algraphy,
-  :grant-year 1974,
-  :term-years 20,
-  :open-license :none}
- {:assignees [:us-department-of-health-and-human-services],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3796634/en",
-  :title "Insolubilized biologically active enzymes",
-  :status :granted,
-  :id "US3796634",
-  :sourcing :authoritative,
-  :filing-year 1970,
-  :assignee :us-department-of-health-and-human-services,
-  :grant-year 1974,
-  :term-years 20,
-  :open-license :none}
- {:assignees [:avco],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3796660/en",
-  :title "Separation of liquid-liquid multiphase mixtures",
-  :status :granted,
-  :id "US3796660",
-  :sourcing :authoritative,
-  :filing-year 1971,
-  :assignee :avco,
-  :grant-year 1974,
   :term-years 20,
   :open-license :none}]

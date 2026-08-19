@@ -47,6 +47,16 @@
   :open-license :none}
  {:jurisdiction :be,
   :field "UNKNOWN",
+  :source "https://patents.google.com/patent/BE562336A/en",
+  :title "",
+  :status :pending,
+  :id "BE562336A",
+  :sourcing :authoritative,
+  :assignee :unassigned,
+  :term-years 20,
+  :open-license :none}
+ {:jurisdiction :be,
+  :field "UNKNOWN",
   :source "https://patents.google.com/patent/BE622556A/en",
   :title "",
   :status :pending,
@@ -5435,6 +5445,60 @@
   :grant-year 1925,
   :term-years 20,
   :open-license :none}
+ {:assignees [:wadsworth-watch-case],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US1587269/en",
+  :title "Synthetic resins, photographic process, and media",
+  :status :granted,
+  :id "US1587269",
+  :sourcing :authoritative,
+  :filing-year 1922,
+  :assignee :wadsworth-watch-case,
+  :grant-year 1926,
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:wadsworth-watch-case],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US1587272/en",
+  :title
+  "Synthetic resins, photographic process, photographic media, and method of preparing same",
+  :status :granted,
+  :id "US1587272",
+  :sourcing :authoritative,
+  :filing-year 1923,
+  :assignee :wadsworth-watch-case,
+  :grant-year 1926,
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:wadsworth-watch-case],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US1587273/en",
+  :title
+  "Synthetic resins photographic process, media, and process of preparing same",
+  :status :granted,
+  :id "US1587273",
+  :sourcing :authoritative,
+  :filing-year 1923,
+  :assignee :wadsworth-watch-case,
+  :grant-year 1926,
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:wadsworth-watch-case],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US1587274/en",
+  :title "Photographic media and process",
+  :status :granted,
+  :id "US1587274",
+  :sourcing :authoritative,
+  :filing-year 1923,
+  :assignee :wadsworth-watch-case,
+  :grant-year 1926,
+  :term-years 20,
+  :open-license :none}
  {:assignees [:whitfield-paper-works],
   :jurisdiction :us,
   :field "UNKNOWN",
@@ -7633,6 +7697,19 @@
   :grant-year 1945,
   :term-years 20,
   :open-license :none}
+ {:assignees [:general-electric],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2377868/en",
+  :title "Synthetic compositions",
+  :status :granted,
+  :id "US2377868",
+  :sourcing :authoritative,
+  :filing-year 1941,
+  :assignee :general-electric,
+  :grant-year 1945,
+  :term-years 20,
+  :open-license :none}
  {:assignees [:nat-technical-lab],
   :jurisdiction :us,
   :field "UNKNOWN",
@@ -7853,6 +7930,30 @@
   :cites ["US1037901" "US2020085" "US2199803"],
   :term-years 20,
   :open-license :none}
+ {:assignees [:general-aniline-and-film],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2418747/en",
+  :title "Nondiffusing phenolic color couplers",
+  :status :granted,
+  :id "US2418747",
+  :sourcing :authoritative,
+  :filing-year 1944,
+  :assignee :general-aniline-and-film,
+  :grant-year 1947,
+  :cites
+  ["GB478985A"
+   "GB496195A"
+   "GB503752A"
+   "US2179239"
+   "US2186719"
+   "US2186732"
+   "US2276254"
+   "US2279411"
+   "US2295008"
+   "US2307399"],
+  :term-years 20,
+  :open-license :none}
  {:assignees [:continental-can],
   :jurisdiction :us,
   :field "UNKNOWN",
@@ -7923,6 +8024,20 @@
    "US2094702"
    "US2131662"
    "US2218808"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:ei-du-pont-de-nemours-and],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2426766/en",
+  :title "Stabilization of organic substances",
+  :status :granted,
+  :id "US2426766",
+  :sourcing :authoritative,
+  :filing-year 1941,
+  :assignee :ei-du-pont-de-nemours-and,
+  :grant-year 1947,
+  :cites ["US2249602" "US2282936"],
   :term-years 20,
   :open-license :none}
  {:jurisdiction :us,
@@ -8352,6 +8467,21 @@
    "US2429137"],
   :term-years 20,
   :open-license :none}
+ {:assignees [:ei-du-pont-de-nemours-and],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2477462/en",
+  :title
+  "Polymeric color formers from hydroxyl polymers containing reactive ketaldone groups with reactive methylene and amino color formers",
+  :status :granted,
+  :id "US2477462",
+  :sourcing :authoritative,
+  :filing-year 1946,
+  :assignee :ei-du-pont-de-nemours-and,
+  :grant-year 1949,
+  :cites ["US2332897"],
+  :term-years 20,
+  :open-license :none}
  {:assignees [:monsanto-chemicals],
   :jurisdiction :us,
   :field "UNKNOWN",
@@ -8401,6 +8531,20 @@
    "US2323562"
    "US2377867"
    "US2428654"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:universal-oil-products],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2495890/en",
+  :title
+  "Resinous condensation products from an aldehyde or a ketone and an n-alkenylarylamine",
+  :status :granted,
+  :id "US2495890",
+  :sourcing :authoritative,
+  :filing-year 1948,
+  :assignee :universal-oil-products,
+  :grant-year 1950,
   :term-years 20,
   :open-license :none}
  {:jurisdiction :us,
@@ -8577,6 +8721,19 @@
    "US2416789"],
   :term-years 20,
   :open-license :none}
+ {:assignees [:shell-development],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2513996/en",
+  :title "Reaction of a primary amine with an imine",
+  :status :granted,
+  :id "US2513996",
+  :sourcing :authoritative,
+  :filing-year 1947,
+  :assignee :shell-development,
+  :grant-year 1950,
+  :term-years 20,
+  :open-license :none}
  {:assignees [:ei-du-pont-de-nemours-and],
   :jurisdiction :us,
   :field "UNKNOWN",
@@ -8710,178 +8867,5 @@
   :assignee :ei-du-pont-de-nemours-and,
   :grant-year 1951,
   :cites ["GB303258A" "US1905290" "US2267290" "US2318341"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:socony-vacuum-oil],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US2554321/en",
-  :title "Measurement of fluorescence",
-  :status :granted,
-  :id "US2554321",
-  :sourcing :authoritative,
-  :filing-year 1948,
-  :assignee :socony-vacuum-oil,
-  :grant-year 1951,
-  :cites ["US2051320" "US2265357" "US2286985" "US2403631" "US2459512"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:elizabeth-r-b-stuart],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US2555380/en",
-  :title "Container",
-  :status :granted,
-  :id "US2555380",
-  :sourcing :authoritative,
-  :filing-year 1946,
-  :assignee :elizabeth-r-b-stuart,
-  :grant-year 1951,
-  :cites
-  ["US1299031"
-   "US1558804"
-   "US1597889"
-   "US2006548"
-   "US2085034"
-   "US2131343"
-   "US2163316"
-   "US2163317"
-   "US2173585"
-   "US2183093"
-   "US2227138"
-   "US2262242"
-   "US2281889"
-   "US2314338"
-   "US485158"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:polaroid],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US2558857/en",
-  :title "Photographic developer element",
-  :status :granted,
-  :id "US2558857",
-  :sourcing :authoritative,
-  :filing-year 1947,
-  :assignee :polaroid,
-  :grant-year 1951,
-  :cites
-  ["AT141872B"
-   "CH115331A"
-   "DE121593C"
-   "DE43521C"
-   "FR635715A"
-   "FR662060A"
-   "FR879995A"
-   "GB189917738A"
-   "GB190609248A"
-   "US1207042"
-   "US1261748"
-   "US1911955"
-   "US2221873"
-   "US2312854"
-   "US2352014"
-   "US2360216"],
-  :term-years 20,
-  :open-license :none}
- {:jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US2565491/en",
-  :title "Film structure and method for producing the same",
-  :status :granted,
-  :id "US2565491",
-  :sourcing :authoritative,
-  :filing-year 1945,
-  :assignee :unassigned,
-  :grant-year 1951,
-  :cites
-  ["US1146855"
-   "US1258840"
-   "US1732661"
-   "US1864763"
-   "US1921819"
-   "US2064143"
-   "US2085875"
-   "US2122251"
-   "US2245289"
-   "US2279366"
-   "US2304632"
-   "US2314975"
-   "US2327765"
-   "US2344807"
-   "US2360650"
-   "US2404073"
-   "US2440039"
-   "US376350"
-   "US988981"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:bf-goodrich],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US2568658/en",
-  :title "Method of polymerizing polyunsaturated esters",
-  :status :granted,
-  :id "US2568658",
-  :sourcing :authoritative,
-  :filing-year 1947,
-  :assignee :bf-goodrich,
-  :grant-year 1951,
-  :cites ["US2340111" "US2385931" "US2403112" "US2455652" "US2482825"],
-  :term-years 20,
-  :open-license :none}
- {:jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US2571171/en",
-  :title "Dew point hygrometer",
-  :status :granted,
-  :id "US2571171",
-  :sourcing :authoritative,
-  :filing-year 1945,
-  :assignee :unassigned,
-  :grant-year 1951,
-  :cites
-  ["US1951276"
-   "US2011710"
-   "US2017859"
-   "US2230649"
-   "US2361634"
-   "US2375273"
-   "US2412782"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:corning-glass-works],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US2571242/en",
-  :title "Opal glass and method of controlling fire thereof",
-  :status :granted,
-  :id "US2571242",
-  :sourcing :authoritative,
-  :filing-year 1948,
-  :assignee :corning-glass-works,
-  :grant-year 1951,
-  :cites ["US1305793" "US2097275" "US2097602" "US2440048"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:eastman-kodak],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US2571725/en",
-  :title "Eliminating stain in photographic color material",
-  :status :granted,
-  :id "US2571725",
-  :sourcing :authoritative,
-  :filing-year 1946,
-  :assignee :eastman-kodak,
-  :grant-year 1951,
-  :cites
-  ["GB190713835A"
-   "US1763533"
-   "US1954452"
-   "US2304940"
-   "US2309492"
-   "US2360290"],
   :term-years 20,
   :open-license :none}]

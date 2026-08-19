@@ -155,6 +155,40 @@
   "hirameki-patent:BE553720A"
   ":hirameki/source"
   "https://patents.google.com/patent/BE553720A/en"]
+ [":db/add" "hirameki-patent:BE562336A" ":hirameki.patent/title" ""]
+ [":db/add"
+  "hirameki-patent:BE562336A"
+  ":hirameki.patent/jurisdiction"
+  ":be"]
+ [":db/add"
+  "hirameki-patent:BE562336A"
+  ":hirameki.patent/field"
+  "UNKNOWN"]
+ [":db/add"
+  "hirameki-patent:BE562336A"
+  ":hirameki.patent/assignee"
+  ":unassigned"]
+ [":db/add"
+  "hirameki-patent:BE562336A"
+  ":hirameki.patent/status"
+  ":pending"]
+ [":db/add"
+  "hirameki-patent:BE562336A"
+  ":hirameki.patent/open-license"
+  ":none"]
+ [":db/add"
+  "hirameki-patent:BE562336A"
+  ":hirameki.obs/release-status"
+  ":pending"]
+ [":db/add"
+  "hirameki-patent:BE562336A"
+  ":hirameki/sourcing"
+  ":authoritative"]
+ [":db/add" "hirameki-patent:BE562336A" ":hirameki/derived" true]
+ [":db/add"
+  "hirameki-patent:BE562336A"
+  ":hirameki/source"
+  "https://patents.google.com/patent/BE562336A/en"]
  [":db/add" "hirameki-patent:BE622556A" ":hirameki.patent/title" ""]
  [":db/add"
   "hirameki-patent:BE622556A"
@@ -9953,37 +9987,4 @@
  [":db/add"
   "hirameki-patent:JP2001246313A"
   ":hirameki.patent/field"
-  "UNKNOWN"]
- [":db/add"
-  "hirameki-patent:JP2001246313A"
-  ":hirameki.patent/assignee"
-  ":kansai-paint"]
- [":db/add"
-  "hirameki-patent:JP2001246313A"
-  ":hirameki.patent/status"
-  ":pending"]
- [":db/add"
-  "hirameki-patent:JP2001246313A"
-  ":hirameki.patent/open-license"
-  ":none"]
- [":db/add"
-  "hirameki-patent:JP2001246313A"
-  ":hirameki.obs/release-status"
-  ":pending"]
- [":db/add"
-  "hirameki-patent:JP2001246313A"
-  ":hirameki/sourcing"
-  ":authoritative"]
- [":db/add" "hirameki-patent:JP2001246313A" ":hirameki/derived" true]
- [":db/add"
-  "hirameki-patent:JP2001246313A"
-  ":hirameki.obs/years-to-expiry"
-  -6]
- [":db/add"
-  "hirameki-patent:JP2001246313A"
-  ":hirameki/source"
-  "https://patents.google.com/patent/JP2001246313A/en"]
- [":db/add"
-  "hirameki-patent:JP2001262053A"
-  ":hirameki.patent/title"
-  "Aqueous two-component primer coating composition"]]
+  "UNKNOWN"]]
