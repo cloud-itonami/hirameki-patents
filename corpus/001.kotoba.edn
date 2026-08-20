@@ -1,4 +1,18 @@
-[{:assignees [:bendix-aviation],
+[{:assignees [:california-research],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2504965/en",
+  :title "Electrical bridge network",
+  :status :granted,
+  :id "US2504965",
+  :sourcing :authoritative,
+  :filing-year 1949,
+  :assignee :california-research,
+  :grant-year 1950,
+  :cites ["US2112228" "US2456499"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:bendix-aviation],
   :jurisdiction :us,
   :field "UNKNOWN",
   :source "https://patents.google.com/patent/US2508588/en",
@@ -3933,6 +3947,21 @@
   :cites ["US2533089" "US2871168"],
   :term-years 20,
   :open-license :none}
+ {:assignees [:california-institute-research-foundation],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2957808/en",
+  :title
+  "Process for the isolation of diagnostic and immunizing proteinaceous materials",
+  :status :granted,
+  :id "US2957808",
+  :sourcing :authoritative,
+  :filing-year 1958,
+  :assignee :california-institute-research-foundation,
+  :grant-year 1960,
+  :cites ["US2128202" "US2205882" "US2243213"],
+  :term-years 20,
+  :open-license :none}
  {:assignees [:zenith-radio],
   :jurisdiction :us,
   :field "UNKNOWN",
@@ -5306,6 +5335,20 @@
   :cites ["US2621171" "US2658058" "US2920065"],
   :term-years 20,
   :open-license :none}
+ {:assignees [:hynson-westcott-and-dunning],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3074853/en",
+  :title "Serological test card with color solid as visualizing agent",
+  :status :granted,
+  :id "US3074853",
+  :sourcing :authoritative,
+  :filing-year 1961,
+  :assignee :hynson-westcott-and-dunning,
+  :grant-year 1963,
+  :cites ["US2143088" "US2342409" "US2770372" "US2952585"],
+  :term-years 20,
+  :open-license :none}
  {:assignees [:swift-and],
   :jurisdiction :us,
   :field "UNKNOWN",
@@ -5455,6 +5498,20 @@
   :cites ["FR1179992A" "GB854736A" "US1808795" "US2660178"],
   :term-years 20,
   :open-license :none}
+ {:assignees [:hyland-laboratories],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3088875/en",
+  :title
+  "Immunological diagnostics utilizing polystyrene latex particles of 0.15 to 0.25 micron",
+  :status :granted,
+  :id "US3088875",
+  :sourcing :authoritative,
+  :filing-year 1959,
+  :assignee :hyland-laboratories,
+  :grant-year 1963,
+  :term-years 20,
+  :open-license :none}
  {:assignees [:jagenberg-werke],
   :jurisdiction :us,
   :field "UNKNOWN",
@@ -5479,6 +5536,42 @@
    "US2923404"
    "US2936261"
    "US2937066"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:indiana-university-foundation],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3096250/en",
+  :title "Novel particulate antigens and process",
+  :status :granted,
+  :id "US3096250",
+  :sourcing :authoritative,
+  :filing-year 1959,
+  :assignee :indiana-university-foundation,
+  :grant-year 1963,
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:beckman-instruments],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3098813/en",
+  :title "Electrode",
+  :status :granted,
+  :id "US3098813",
+  :sourcing :authoritative,
+  :filing-year 1959,
+  :assignee :beckman-instruments,
+  :grant-year 1963,
+  :cites
+  ["GB397303A"
+   "GB628840A"
+   "US2215213"
+   "US2416949"
+   "US2437697"
+   "US2651612"
+   "US2805191"
+   "US2913386"
+   "US3000805"],
   :term-years 20,
   :open-license :none}
  {:assignees [:national-distillers-and-chemical],
@@ -9335,6 +9428,32 @@
   :grant-year 1971,
   :term-years 20,
   :open-license :none}
+ {:assignees [:hazleton-laboratories],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3575812/en",
+  :title "Method for the detection of virus",
+  :status :granted,
+  :id "US3575812",
+  :sourcing :authoritative,
+  :filing-year 1968,
+  :assignee :hazleton-laboratories,
+  :grant-year 1971,
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:beckman-instruments],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3575836/en",
+  :title "Polarographic sensor",
+  :status :granted,
+  :id "US3575836",
+  :sourcing :authoritative,
+  :filing-year 1969,
+  :assignee :beckman-instruments,
+  :grant-year 1971,
+  :term-years 20,
+  :open-license :none}
  {:assignees [:morton-e-frank],
   :jurisdiction :us,
   :field "UNKNOWN",
@@ -9610,129 +9729,5 @@
   :filing-year 1968,
   :assignee :goodyear-tire-and-rubber,
   :grant-year 1971,
-  :term-years 20,
-  :open-license :none}
- {:assignees [:miles-laboratories],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3616251/en",
-  :title "Test device",
-  :status :granted,
-  :id "US3616251",
-  :sourcing :authoritative,
-  :filing-year 1968,
-  :assignee :miles-laboratories,
-  :grant-year 1971,
-  :term-years 20,
-  :open-license :none}
- {:jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3619073/en",
-  :title "Sample holder for optical measurements at low temperatures",
-  :status :granted,
-  :id "US3619073",
-  :sourcing :authoritative,
-  :filing-year 1969,
-  :assignee :unassigned,
-  :grant-year 1971,
-  :term-years 20,
-  :open-license :none}
- {:assignees [:ppg-industries],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3619398/en",
-  :title "Electrodeposition process",
-  :status :granted,
-  :id "US3619398",
-  :sourcing :authoritative,
-  :filing-year 1968,
-  :assignee :ppg-industries,
-  :grant-year 1971,
-  :cites ["US3301804" "US3410773" "US3450655" "US3455805" "US3468779"],
-  :term-years 20,
-  :open-license :none}
- {:jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3620678/en",
-  :title "Installation for multiple and automatic analyses",
-  :status :granted,
-  :id "US3620678",
-  :sourcing :authoritative,
-  :filing-year 1967,
-  :assignee :unassigned,
-  :grant-year 1971,
-  :cites
-  ["US3036893"
-   "US3036894"
-   "US3260413"
-   "US3261668"
-   "US3266298"
-   "US3368872"
-   "US3476515"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:formica],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3620899/en",
-  :title
-  "Decorative laminate back coated with a polyvinyl acetate composition",
-  :status :granted,
-  :id "US3620899",
-  :sourcing :authoritative,
-  :filing-year 1968,
-  :assignee :formica,
-  :grant-year 1971,
-  :cites ["US2804418" "US3067085" "US3166435"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:coulter-electronics],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3622795/en",
-  :title
-  "Colorimetric fluid test apparatus having plural fluid sequential control",
-  :status :granted,
-  :id "US3622795",
-  :sourcing :authoritative,
-  :filing-year 1968,
-  :assignee :coulter-electronics,
-  :grant-year 1971,
-  :cites
-  ["US2320065"
-   "US2983184"
-   "US3177898"
-   "US3225645"
-   "US3240110"
-   "US3401591"
-   "US3418061"
-   "US3435239"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:dow-corning],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3628996/en",
-  :title "Polydimethylsiloxane release agent",
-  :status :granted,
-  :id "US3628996",
-  :sourcing :authoritative,
-  :filing-year 1969,
-  :assignee :dow-corning,
-  :grant-year 1971,
-  :cites ["US2985545" "US2985546" "US3046160" "US3061567" "US3070566"],
-  :term-years 20,
-  :open-license :none}
- {:jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3631436/en",
-  :title "Gas-detecting device",
-  :status :granted,
-  :id "US3631436",
-  :sourcing :authoritative,
-  :filing-year 1970,
-  :assignee :unassigned,
-  :grant-year 1971,
-  :cites ["GB754087A" "US2533339" "US2666105" "US3479257"],
   :term-years 20,
   :open-license :none}]

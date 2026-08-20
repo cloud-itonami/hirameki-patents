@@ -7825,6 +7825,19 @@
   :grant-year 1945,
   :term-years 20,
   :open-license :none}
+ {:assignees [:westinghouse-electric],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2379158/en",
+  :title "Particle size determination",
+  :status :granted,
+  :id "US2379158",
+  :sourcing :authoritative,
+  :filing-year 1943,
+  :assignee :westinghouse-electric,
+  :grant-year 1945,
+  :term-years 20,
+  :open-license :none}
  {:assignees [:nat-technical-lab],
   :jurisdiction :us,
   :field "UNKNOWN",
@@ -8837,19 +8850,5 @@
    "US2261977"
    "US2320115"
    "US2365374"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:california-research],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US2504965/en",
-  :title "Electrical bridge network",
-  :status :granted,
-  :id "US2504965",
-  :sourcing :authoritative,
-  :filing-year 1949,
-  :assignee :california-research,
-  :grant-year 1950,
-  :cites ["US2112228" "US2456499"],
   :term-years 20,
   :open-license :none}]

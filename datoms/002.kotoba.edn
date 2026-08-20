@@ -4232,6 +4232,47 @@
   ":hirameki/source"
   "https://patents.google.com/patent/US2377868/en"]
  [":db/add"
+  "hirameki-patent:US2379158"
+  ":hirameki.patent/title"
+  "Particle size determination"]
+ [":db/add"
+  "hirameki-patent:US2379158"
+  ":hirameki.patent/jurisdiction"
+  ":us"]
+ [":db/add"
+  "hirameki-patent:US2379158"
+  ":hirameki.patent/field"
+  "UNKNOWN"]
+ [":db/add"
+  "hirameki-patent:US2379158"
+  ":hirameki.patent/assignee"
+  ":westinghouse-electric"]
+ [":db/add"
+  "hirameki-patent:US2379158"
+  ":hirameki.patent/status"
+  ":granted"]
+ [":db/add"
+  "hirameki-patent:US2379158"
+  ":hirameki.patent/open-license"
+  ":none"]
+ [":db/add"
+  "hirameki-patent:US2379158"
+  ":hirameki.obs/release-status"
+  ":public-domain"]
+ [":db/add"
+  "hirameki-patent:US2379158"
+  ":hirameki/sourcing"
+  ":authoritative"]
+ [":db/add" "hirameki-patent:US2379158" ":hirameki/derived" true]
+ [":db/add"
+  "hirameki-patent:US2379158"
+  ":hirameki.obs/years-to-expiry"
+  -63]
+ [":db/add"
+  "hirameki-patent:US2379158"
+  ":hirameki/source"
+  "https://patents.google.com/patent/US2379158/en"]
+ [":db/add"
   "hirameki-patent:US2383709"
   ":hirameki.patent/title"
   "Glass electrode and method"]
@@ -10331,45 +10372,4 @@
  [":db/add"
   "hirameki-patent:US2734377"
   ":hirameki.patent/title"
-  "E traver"]
- [":db/add"
-  "hirameki-patent:US2734377"
-  ":hirameki.patent/jurisdiction"
-  ":us"]
- [":db/add"
-  "hirameki-patent:US2734377"
-  ":hirameki.patent/field"
-  "UNKNOWN"]
- [":db/add"
-  "hirameki-patent:US2734377"
-  ":hirameki.patent/assignee"
-  ":unassigned"]
- [":db/add"
-  "hirameki-patent:US2734377"
-  ":hirameki.patent/status"
-  ":granted"]
- [":db/add"
-  "hirameki-patent:US2734377"
-  ":hirameki.patent/open-license"
-  ":none"]
- [":db/add"
-  "hirameki-patent:US2734377"
-  ":hirameki.obs/release-status"
-  ":in-force"]
- [":db/add"
-  "hirameki-patent:US2734377"
-  ":hirameki/sourcing"
-  ":authoritative"]
- [":db/add" "hirameki-patent:US2734377" ":hirameki/derived" true]
- [":db/add"
-  "hirameki-patent:US2734377"
-  ":hirameki/source"
-  "https://patents.google.com/patent/US2734377/en"]
- [":db/add"
-  "hirameki-patent:US2734889"
-  ":hirameki.patent/title"
-  "Process for the polymerization of form-"]
- [":db/add"
-  "hirameki-patent:US2734889"
-  ":hirameki.patent/jurisdiction"
-  ":us"]]
+  "E traver"]]
