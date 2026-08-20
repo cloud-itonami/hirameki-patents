@@ -1,4 +1,32 @@
-[{:assignees [:minnesota-and-ontario-paper],
+[{:assignees [:rohm-and-haas],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2509183/en",
+  :title "Dihydrazide-formaldehyde resins",
+  :status :granted,
+  :id "US2509183",
+  :sourcing :authoritative,
+  :filing-year 1949,
+  :assignee :rohm-and-haas,
+  :grant-year 1950,
+  :cites ["US2210442"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:sears-roebuck-and],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2510018/en",
+  :title "Electrolytic humidostat",
+  :status :granted,
+  :id "US2510018",
+  :sourcing :authoritative,
+  :filing-year 1947,
+  :assignee :sears-roebuck-and,
+  :grant-year 1950,
+  :cites ["US2295570" "US2398333"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:minnesota-and-ontario-paper],
   :jurisdiction :us,
   :field "UNKNOWN",
   :source "https://patents.google.com/patent/US2513394/en",
@@ -1065,6 +1093,27 @@
    "US844783"],
   :term-years 20,
   :open-license :none}
+ {:assignees [:detrex],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2662837/en",
+  :title
+  "Composition and method for removing hardened silicone resin glazes from metal surfaces",
+  :status :granted,
+  :id "US2662837",
+  :sourcing :authoritative,
+  :filing-year 1949,
+  :assignee :detrex,
+  :grant-year 1953,
+  :cites
+  ["GB190205541A"
+   "US1501086"
+   "US2206776"
+   "US2212761"
+   "US2432665"
+   "US2445064"],
+  :term-years 20,
+  :open-license :none}
  {:assignees [:xerox],
   :jurisdiction :us,
   :field "UNKNOWN",
@@ -1403,6 +1452,27 @@
    "US2493745"
    "US2526636"
    "US2609688"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:hartford-national-bank-and-trust],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2709666/en",
+  :title
+  "Method of locally removing the insulation layer of enamelled wire",
+  :status :granted,
+  :id "US2709666",
+  :sourcing :authoritative,
+  :filing-year 1951,
+  :assignee :hartford-national-bank-and-trust,
+  :grant-year 1955,
+  :cites
+  ["US2083014"
+   "US2208294"
+   "US2360509"
+   "US2432868"
+   "US244146"
+   "US2495729"],
   :term-years 20,
   :open-license :none}
  {:jurisdiction :us,
@@ -3413,6 +3483,20 @@
   :cites ["US2375256" "US2608554" "US2608555" "US2675372"],
   :term-years 20,
   :open-license :none}
+ {:assignees [:garden-photoengraving],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2925332/en",
+  :title "Method of etching printing plates",
+  :status :granted,
+  :id "US2925332",
+  :sourcing :authoritative,
+  :filing-year 1956,
+  :assignee :garden-photoengraving,
+  :grant-year 1960,
+  :cites ["US1709327" "US2314285" "US2640765"],
+  :term-years 20,
+  :open-license :none}
  {:jurisdiction :us,
   :field "UNKNOWN",
   :source "https://patents.google.com/patent/US2926072/en",
@@ -3821,6 +3905,27 @@
   :cites ["US2533089" "US2871168"],
   :term-years 20,
   :open-license :none}
+ {:assignees [:zenith-radio],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2961314/en",
+  :title "Method of manufacturing color image reproducer",
+  :status :granted,
+  :id "US2961314",
+  :sourcing :authoritative,
+  :filing-year 1956,
+  :assignee :zenith-radio,
+  :grant-year 1960,
+  :cites
+  ["GB713908A"
+   "US2315367"
+   "US2625734"
+   "US2728024"
+   "US2750524"
+   "US2754449"
+   "US2755402"],
+  :term-years 20,
+  :open-license :none}
  {:assignees [:xerox],
   :jurisdiction :us,
   :field "UNKNOWN",
@@ -3936,6 +4041,32 @@
    "US2665616"
    "US2808192"
    "US2829701"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:rca],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2971117/en",
+  :title "Color-kinescopes, etc.",
+  :status :granted,
+  :id "US2971117",
+  :sourcing :authoritative,
+  :filing-year 1956,
+  :assignee :rca,
+  :grant-year 1961,
+  :cites
+  ["US2219117"
+   "US2227087"
+   "US2240186"
+   "US2444221"
+   "US2580250"
+   "US2584814"
+   "US2590764"
+   "US2734146"
+   "US2741720"
+   "US2754449"
+   "US2777084"
+   "US2889483"],
   :term-years 20,
   :open-license :none}
  {:assignees [:american-instr],
@@ -4869,6 +5000,27 @@
   :open-license :none}
  {:jurisdiction :us,
   :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3051603/en",
+  :title "Descumming preparation and process",
+  :status :granted,
+  :id "US3051603",
+  :sourcing :authoritative,
+  :filing-year 1959,
+  :assignee :unassigned,
+  :grant-year 1962,
+  :cites
+  ["GB360126A"
+   "US1106107"
+   "US1717869"
+   "US2211400"
+   "US2529549"
+   "US2888391"
+   "US795216"
+   "US936842"],
+  :term-years 20,
+  :open-license :none}
+ {:jurisdiction :us,
+  :field "UNKNOWN",
   :source "https://patents.google.com/patent/US3056935/en",
   :title "Feeler element for a humidostat",
   :status :granted,
@@ -5076,6 +5228,29 @@
    "US2666042"],
   :term-years 20,
   :open-license :none}
+ {:assignees [:rca],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3070441/en",
+  :title
+  "Art of manufacturing cathode-ray tubes of the focus-mask variety",
+  :status :granted,
+  :id "US3070441",
+  :sourcing :authoritative,
+  :filing-year 1958,
+  :assignee :rca,
+  :grant-year 1962,
+  :cites
+  ["FR866065A"
+   "GB634217A"
+   "US2376047"
+   "US2539442"
+   "US2755402"
+   "US2767457"
+   "US2851408"
+   "US2910617"],
+  :term-years 20,
+  :open-license :none}
  {:jurisdiction :us,
   :field "UNKNOWN",
   :source "https://patents.google.com/patent/US3070566/en",
@@ -5142,6 +5317,28 @@
   :filing-year 1960,
   :assignee :takeda-pharmaceutical,
   :grant-year 1963,
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:purex],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3080262/en",
+  :title
+  "Process for removal of radioactive contaminants from surfaces",
+  :status :granted,
+  :id "US3080262",
+  :sourcing :authoritative,
+  :filing-year 1959,
+  :assignee :purex,
+  :grant-year 1963,
+  :cites
+  ["US1899734"
+   "US2408096"
+   "US2584017"
+   "US2653860"
+   "US2843509"
+   "US2924576"
+   "US2952419"],
   :term-years 20,
   :open-license :none}
  {:assignees [:xerox],
@@ -6377,6 +6574,20 @@
   :assignee :wacker-chemie,
   :grant-year 1966,
   :cites ["US2588367" "US2768906" "US2869722" "US3061567"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:rca],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3231380/en",
+  :title "Art of making electron-optical reticles",
+  :status :granted,
+  :id "US3231380",
+  :sourcing :authoritative,
+  :filing-year 1960,
+  :assignee :rca,
+  :grant-year 1966,
+  :cites ["FR866065A" "GB634217A" "US2539442" "US2961313" "US3070441"],
   :term-years 20,
   :open-license :none}
  {:assignees [:combined-locks-paper],
@@ -7690,6 +7901,29 @@
   :cites ["US2670328" "US2723761"],
   :term-years 20,
   :open-license :none}
+ {:assignees [:army-usa],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3391084/en",
+  :title
+  "Organic stripper, radiation decontaminant, passivator and rust remover",
+  :status :granted,
+  :id "US3391084",
+  :sourcing :authoritative,
+  :filing-year 1965,
+  :assignee :army-usa,
+  :grant-year 1968,
+  :cites
+  ["US1884164"
+   "US2433517"
+   "US2443173"
+   "US2495728"
+   "US2614992"
+   "US2924576"
+   "US3060125"
+   "US3094491"],
+  :term-years 20,
+  :open-license :none}
  {:assignees [:ruth-l-christensen],
   :jurisdiction :us,
   :field "UNKNOWN",
@@ -8801,6 +9035,46 @@
   :cites ["US3409405" "US3411887" "US3434801" "US3453180"],
   :term-years 20,
   :open-license :none}
+ {:assignees [:amicon],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3551204/en",
+  :title
+  "Process and composition for recovering electronic devices from encapsulation in potting compounds",
+  :status :granted,
+  :id "US3551204",
+  :sourcing :authoritative,
+  :filing-year 1967,
+  :assignee :amicon,
+  :grant-year 1970,
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:nippon-electric],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3551221/en",
+  :title "Method of manufacturing a semiconductor integrated circuit",
+  :status :granted,
+  :id "US3551221",
+  :sourcing :authoritative,
+  :filing-year 1968,
+  :assignee :nippon-electric,
+  :grant-year 1970,
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:purex],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3553143/en",
+  :title "Ammonium hydroxide containing wax stripper",
+  :status :granted,
+  :id "US3553143",
+  :sourcing :authoritative,
+  :filing-year 1967,
+  :assignee :purex,
+  :grant-year 1971,
+  :term-years 20,
+  :open-license :none}
  {:assignees [:miles-laboratories],
   :jurisdiction :us,
   :field "UNKNOWN",
@@ -8890,6 +9164,20 @@
   :sourcing :authoritative,
   :filing-year 1968,
   :assignee :engelhard-minerals-and-chemicals,
+  :grant-year 1971,
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:buckbee-mears],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3574013/en",
+  :title
+  "Aperture mask for color tv picture tubes and method for making same",
+  :status :granted,
+  :id "US3574013",
+  :sourcing :authoritative,
+  :filing-year 1969,
+  :assignee :buckbee-mears,
   :grant-year 1971,
   :term-years 20,
   :open-license :none}
@@ -9051,6 +9339,19 @@
   :sourcing :authoritative,
   :filing-year 1967,
   :assignee :hitachi,
+  :grant-year 1971,
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:buckbee-mears],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3600213/en",
+  :title "Aperture masks",
+  :status :granted,
+  :id "US3600213",
+  :sourcing :authoritative,
+  :filing-year 1969,
+  :assignee :buckbee-mears,
   :grant-year 1971,
   :term-years 20,
   :open-license :none}
@@ -9414,278 +9715,6 @@
   :sourcing :authoritative,
   :filing-year 1969,
   :assignee :beckman-instruments,
-  :grant-year 1972,
-  :term-years 20,
-  :open-license :none}
- {:assignees [:technicon],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3650698/en",
-  :title
-  "Apparatus for the automatic determination of the coagulation, aggregation and or flocculation, or the like, rates of fluids, and novel reaction intensifying agent for use therewith",
-  :status :granted,
-  :id "US3650698",
-  :sourcing :authoritative,
-  :filing-year 1969,
-  :assignee :technicon,
-  :grant-year 1972,
-  :cites
-  ["US2113063"
-   "US2678729"
-   "US3146163"
-   "US3395210"
-   "US3470067"
-   "US3492096"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:corning-glass-works],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3652761/en",
-  :title
-  "Immunochemical composites and antigen or antibody purification therewith",
-  :status :granted,
-  :id "US3652761",
-  :sourcing :authoritative,
-  :filing-year 1969,
-  :assignee :corning-glass-works,
-  :grant-year 1972,
-  :term-years 20,
-  :open-license :none}
- {:assignees [:organon],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3654090/en",
-  :title "Method for the determination of antigens and antibodies",
-  :status :granted,
-  :id "US3654090",
-  :sourcing :authoritative,
-  :filing-year 1968,
-  :assignee :organon,
-  :grant-year 1972,
-  :term-years 20,
-  :open-license :none}
- {:assignees [:bausch-and-lomb],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3657537/en",
-  :title
-  "Computerized slit-scan cyto-fluorometer for automated cell recognition",
-  :status :granted,
-  :id "US3657537",
-  :sourcing :authoritative,
-  :filing-year 1970,
-  :assignee :bausch-and-lomb,
-  :grant-year 1972,
-  :cites ["US3327117" "US3470373" "US3497690"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:university-of-illinois-at-urbana-champaign],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3661893/en",
-  :title
-  "Synthesis in vitro of nucleic acids and products used therein and products produced therefrom",
-  :status :granted,
-  :id "US3661893",
-  :sourcing :authoritative,
-  :filing-year 1968,
-  :assignee :university-of-illinois-at-urbana-champaign,
-  :grant-year 1972,
-  :term-years 20,
-  :open-license :none}
- {:assignees [:schlumberger-technology],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3664421/en",
-  :title
-  "Methods for inhibiting the production of loose formation materials",
-  :status :granted,
-  :id "US3664421",
-  :sourcing :authoritative,
-  :filing-year 1970,
-  :assignee :schlumberger-technology,
-  :grant-year 1972,
-  :cites
-  ["US2725107"
-   "US2745496"
-   "US2775303"
-   "US2911048"
-   "US2927640"
-   "US2978029"
-   "US3130787"
-   "US3460618"
-   "US3559736"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:organon],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3666421/en",
-  :title "Diagnostic test slide",
-  :status :granted,
-  :id "US3666421",
-  :sourcing :authoritative,
-  :filing-year 1971,
-  :assignee :organon,
-  :grant-year 1972,
-  :term-years 20,
-  :open-license :none}
- {:assignees [:monsanto],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3669841/en",
-  :title "Attachment of enzymes to siliceous materials",
-  :status :granted,
-  :id "US3669841",
-  :sourcing :authoritative,
-  :filing-year 1970,
-  :assignee :monsanto,
-  :grant-year 1972,
-  :cites ["US3502545" "US3519538"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:f-hoffmann-la-roche],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3671400/en",
-  :title "Bacterial controls and preparation thereof",
-  :status :granted,
-  :id "US3671400",
-  :sourcing :authoritative,
-  :filing-year 1969,
-  :assignee :f-hoffmann-la-roche,
-  :grant-year 1972,
-  :cites ["US3340156"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:miles-laboratories],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3672845/en",
-  :title "Test device for albumin",
-  :status :granted,
-  :id "US3672845",
-  :sourcing :authoritative,
-  :filing-year 1970,
-  :assignee :miles-laboratories,
-  :grant-year 1972,
-  :term-years 20,
-  :open-license :none}
- {:assignees [:zenith-radio],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3672893/en",
-  :title "Process of manufacturing screens for shadow-mask tubes",
-  :status :granted,
-  :id "US3672893",
-  :sourcing :authoritative,
-  :filing-year 1970,
-  :assignee :zenith-radio,
-  :grant-year 1972,
-  :term-years 20,
-  :open-license :none}
- {:assignees [:medstar-research-institute],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3675488/en",
-  :title
-  "Apparatus for transport and storage of liquid specimens for radio-immunoassay for insulin",
-  :status :granted,
-  :id "US3675488",
-  :sourcing :authoritative,
-  :filing-year 1969,
-  :assignee :medstar-research-institute,
-  :grant-year 1972,
-  :cites ["US2734377" "US3131521" "US3368872"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:f-hoffmann-la-roche],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3676080/en",
-  :title "Device for automatically analyzing liquids",
-  :status :granted,
-  :id "US3676080",
-  :sourcing :authoritative,
-  :filing-year 1968,
-  :assignee :f-hoffmann-la-roche,
-  :grant-year 1972,
-  :term-years 20,
-  :open-license :none}
- {:assignees [:combined-paper-mills],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3676184/en",
-  :title
-  "Method for controlling varying liquid penetration of a continuous paper web",
-  :status :granted,
-  :id "US3676184",
-  :sourcing :authoritative,
-  :filing-year 1969,
-  :assignee :combined-paper-mills,
-  :grant-year 1972,
-  :term-years 20,
-  :open-license :none}
- {:assignees [:westinghouse-electric],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3676383/en",
-  :title
-  "Non-aqueous electrophoretic compositions comprising liquid nitroalkanes as a solvent",
-  :status :granted,
-  :id "US3676383",
-  :sourcing :authoritative,
-  :filing-year 1969,
-  :assignee :westinghouse-electric,
-  :grant-year 1972,
-  :cites
-  ["US2843541"
-   "US2947677"
-   "US2982707"
-   "US3093511"
-   "US3450655"
-   "US3554984"],
-  :term-years 20,
-  :open-license :none}
- {:jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3676820/en",
-  :title "Gas detecting element and method of manufacturing same",
-  :status :granted,
-  :id "US3676820",
-  :sourcing :authoritative,
-  :filing-year 1970,
-  :assignee :unassigned,
-  :grant-year 1972,
-  :cites ["US3092799" "US3138948" "US3437446" "US3479257"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:technicon-instruments],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3679312/en",
-  :title
-  "Method and apparatus for measuring bioluminescence or chemiluminescence for quantitative analysis of samples",
-  :status :granted,
-  :id "US3679312",
-  :sourcing :authoritative,
-  :filing-year 1971,
-  :assignee :technicon-instruments,
-  :grant-year 1972,
-  :cites ["US2549574"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:dainippon-screen-manufacturing],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3679500/en",
-  :title "Method for forming perforations in metal sheets by etching",
-  :status :granted,
-  :id "US3679500",
-  :sourcing :authoritative,
-  :filing-year 1970,
-  :assignee :dainippon-screen-manufacturing,
   :grant-year 1972,
   :term-years 20,
   :open-license :none}]

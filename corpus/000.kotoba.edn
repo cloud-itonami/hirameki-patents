@@ -102,6 +102,18 @@
   :grant-year 1954,
   :term-years 20,
   :open-license :none}
+ {:assignees [:dow-corning-silicones],
+  :jurisdiction :ca,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/CA536441A/en",
+  :title "Method of cleaning tin surfaces",
+  :status :granted,
+  :id "CA536441A",
+  :sourcing :authoritative,
+  :assignee :dow-corning-silicones,
+  :grant-year 1957,
+  :term-years 20,
+  :open-license :none}
  {:assignees [:union-carbide],
   :jurisdiction :ca,
   :field "UNKNOWN",
@@ -8424,6 +8436,25 @@
    "US2376535"],
   :term-years 20,
   :open-license :none}
+ {:jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2443373/en",
+  :title "Method of removing carbon and carbonaceous matter",
+  :status :granted,
+  :id "US2443373",
+  :sourcing :authoritative,
+  :filing-year 1943,
+  :assignee :unassigned,
+  :grant-year 1948,
+  :cites
+  ["US1081950"
+   "US1901803"
+   "US1982484"
+   "US2313730"
+   "US503556"
+   "US731055"],
+  :term-years 20,
+  :open-license :none}
  {:assignees [:paper-patents],
   :jurisdiction :us,
   :field "UNKNOWN",
@@ -8822,33 +8853,5 @@
   :assignee :bendix-aviation,
   :grant-year 1950,
   :cites ["US1888984" "US970122"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:rohm-and-haas],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US2509183/en",
-  :title "Dihydrazide-formaldehyde resins",
-  :status :granted,
-  :id "US2509183",
-  :sourcing :authoritative,
-  :filing-year 1949,
-  :assignee :rohm-and-haas,
-  :grant-year 1950,
-  :cites ["US2210442"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:sears-roebuck-and],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US2510018/en",
-  :title "Electrolytic humidostat",
-  :status :granted,
-  :id "US2510018",
-  :sourcing :authoritative,
-  :filing-year 1947,
-  :assignee :sears-roebuck-and,
-  :grant-year 1950,
-  :cites ["US2295570" "US2398333"],
   :term-years 20,
   :open-license :none}]

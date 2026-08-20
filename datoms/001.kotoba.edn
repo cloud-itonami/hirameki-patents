@@ -1,4 +1,37 @@
 [[":db/add"
+  "hirameki-patent:JP2001220409A"
+  ":hirameki.patent/open-license"
+  ":none"]
+ [":db/add"
+  "hirameki-patent:JP2001220409A"
+  ":hirameki.obs/release-status"
+  ":pending"]
+ [":db/add"
+  "hirameki-patent:JP2001220409A"
+  ":hirameki/sourcing"
+  ":authoritative"]
+ [":db/add" "hirameki-patent:JP2001220409A" ":hirameki/derived" true]
+ [":db/add"
+  "hirameki-patent:JP2001220409A"
+  ":hirameki.obs/years-to-expiry"
+  -6]
+ [":db/add"
+  "hirameki-patent:JP2001220409A"
+  ":hirameki/source"
+  "https://patents.google.com/patent/JP2001220409A/en"]
+ [":db/add"
+  "hirameki-patent:JP2001226545A"
+  ":hirameki.patent/title"
+  "Aqueous dispersion and its use"]
+ [":db/add"
+  "hirameki-patent:JP2001226545A"
+  ":hirameki.patent/jurisdiction"
+  ":jp"]
+ [":db/add"
+  "hirameki-patent:JP2001226545A"
+  ":hirameki.patent/field"
+  "UNKNOWN"]
+ [":db/add"
   "hirameki-patent:JP2001226545A"
   ":hirameki.patent/assignee"
   ":jujo-paper"]
@@ -10027,37 +10060,4 @@
  [":db/add"
   "hirameki-patent:US2156693"
   ":hirameki.patent/open-license"
-  ":none"]
- [":db/add"
-  "hirameki-patent:US2156693"
-  ":hirameki.obs/release-status"
-  ":public-domain"]
- [":db/add"
-  "hirameki-patent:US2156693"
-  ":hirameki/sourcing"
-  ":authoritative"]
- [":db/add" "hirameki-patent:US2156693" ":hirameki/derived" true]
- [":db/add"
-  "hirameki-patent:US2156693"
-  ":hirameki.obs/years-to-expiry"
-  -70]
- [":db/add"
-  "hirameki-patent:US2156693"
-  ":hirameki/source"
-  "https://patents.google.com/patent/US2156693/en"]
- [":db/add"
-  "hirameki-patent:US2157438"
-  ":hirameki.patent/title"
-  "Device for counting bacteria and the like"]
- [":db/add"
-  "hirameki-patent:US2157438"
-  ":hirameki.patent/jurisdiction"
-  ":us"]
- [":db/add"
-  "hirameki-patent:US2157438"
-  ":hirameki.patent/field"
-  "UNKNOWN"]
- [":db/add"
-  "hirameki-patent:US2157438"
-  ":hirameki.patent/assignee"
-  ":unassigned"]]
+  ":none"]]

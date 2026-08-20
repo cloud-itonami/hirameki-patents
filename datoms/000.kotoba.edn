@@ -339,6 +339,43 @@
   ":hirameki/source"
   "https://patents.google.com/patent/CA500178A/en"]
  [":db/add"
+  "hirameki-patent:CA536441A"
+  ":hirameki.patent/title"
+  "Method of cleaning tin surfaces"]
+ [":db/add"
+  "hirameki-patent:CA536441A"
+  ":hirameki.patent/jurisdiction"
+  ":ca"]
+ [":db/add"
+  "hirameki-patent:CA536441A"
+  ":hirameki.patent/field"
+  "UNKNOWN"]
+ [":db/add"
+  "hirameki-patent:CA536441A"
+  ":hirameki.patent/assignee"
+  ":dow-corning-silicones"]
+ [":db/add"
+  "hirameki-patent:CA536441A"
+  ":hirameki.patent/status"
+  ":granted"]
+ [":db/add"
+  "hirameki-patent:CA536441A"
+  ":hirameki.patent/open-license"
+  ":none"]
+ [":db/add"
+  "hirameki-patent:CA536441A"
+  ":hirameki.obs/release-status"
+  ":in-force"]
+ [":db/add"
+  "hirameki-patent:CA536441A"
+  ":hirameki/sourcing"
+  ":authoritative"]
+ [":db/add" "hirameki-patent:CA536441A" ":hirameki/derived" true]
+ [":db/add"
+  "hirameki-patent:CA536441A"
+  ":hirameki/source"
+  "https://patents.google.com/patent/CA536441A/en"]
+ [":db/add"
   "hirameki-patent:CA703413A"
   ":hirameki.patent/title"
   "Food packaging article"]
@@ -9954,37 +9991,4 @@
  [":db/add"
   "hirameki-patent:JP2001220409A"
   ":hirameki.patent/status"
-  ":pending"]
- [":db/add"
-  "hirameki-patent:JP2001220409A"
-  ":hirameki.patent/open-license"
-  ":none"]
- [":db/add"
-  "hirameki-patent:JP2001220409A"
-  ":hirameki.obs/release-status"
-  ":pending"]
- [":db/add"
-  "hirameki-patent:JP2001220409A"
-  ":hirameki/sourcing"
-  ":authoritative"]
- [":db/add" "hirameki-patent:JP2001220409A" ":hirameki/derived" true]
- [":db/add"
-  "hirameki-patent:JP2001220409A"
-  ":hirameki.obs/years-to-expiry"
-  -6]
- [":db/add"
-  "hirameki-patent:JP2001220409A"
-  ":hirameki/source"
-  "https://patents.google.com/patent/JP2001220409A/en"]
- [":db/add"
-  "hirameki-patent:JP2001226545A"
-  ":hirameki.patent/title"
-  "Aqueous dispersion and its use"]
- [":db/add"
-  "hirameki-patent:JP2001226545A"
-  ":hirameki.patent/jurisdiction"
-  ":jp"]
- [":db/add"
-  "hirameki-patent:JP2001226545A"
-  ":hirameki.patent/field"
-  "UNKNOWN"]]
+  ":pending"]]
