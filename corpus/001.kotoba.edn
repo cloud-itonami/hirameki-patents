@@ -1,4 +1,61 @@
-[{:assignees [:ei-du-pont-de-nemours-and],
+[{:assignees [:minnesota-and-ontario-paper],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2513394/en",
+  :title "Apparatus for coating paper",
+  :status :granted,
+  :id "US2513394",
+  :sourcing :authoritative,
+  :filing-year 1945,
+  :assignee :minnesota-and-ontario-paper,
+  :grant-year 1950,
+  :cites
+  ["US1202165"
+   "US1212854"
+   "US1556087"
+   "US2064776"
+   "US2105488"
+   "US2263131"
+   "US2277287"
+   "US2287905"
+   "US2312927"
+   "US2316176"
+   "US2355919"
+   "US2369378"
+   "US2398844"
+   "US2406056"
+   "US2406057"
+   "US2416789"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:shell-development],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2513996/en",
+  :title "Reaction of a primary amine with an imine",
+  :status :granted,
+  :id "US2513996",
+  :sourcing :authoritative,
+  :filing-year 1947,
+  :assignee :shell-development,
+  :grant-year 1950,
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:corning-glass-works],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2515940/en",
+  :title "Photosensitive opal glass",
+  :status :granted,
+  :id "US2515940",
+  :sourcing :authoritative,
+  :filing-year 1946,
+  :assignee :corning-glass-works,
+  :grant-year 1950,
+  :cites ["US2049765" "US2144943" "US2237042" "US2326012" "US2422472"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:ei-du-pont-de-nemours-and],
   :jurisdiction :us,
   :field "UNKNOWN",
   :source "https://patents.google.com/patent/US2519550/en",
@@ -858,6 +915,19 @@
    "US2589302"],
   :term-years 20,
   :open-license :none}
+ {:assignees [:eastman-kodak],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2652345/en",
+  :title "Method of setting protein containing coatings with ammonium",
+  :status :granted,
+  :id "US2652345",
+  :sourcing :authoritative,
+  :filing-year 1952,
+  :assignee :eastman-kodak,
+  :grant-year 1953,
+  :term-years 20,
+  :open-license :none}
  {:assignees [:rohm-and-haas],
   :jurisdiction :us,
   :field "UNKNOWN",
@@ -1132,6 +1202,31 @@
   :assignee :unassigned,
   :grant-year 1954,
   :cites ["US1223516" "US2236239" "US2424323" "US2542804"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:eastman-kodak],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2691582/en",
+  :title
+  "Peptizing of silver halides with oxidized proteins or oxidized protein derivatives",
+  :status :granted,
+  :id "US2691582",
+  :sourcing :authoritative,
+  :filing-year 1947,
+  :assignee :eastman-kodak,
+  :grant-year 1954,
+  :cites
+  ["US1896300"
+   "US2245610"
+   "US2305745"
+   "US2311059"
+   "US2343650"
+   "US2401051"
+   "US2414207"
+   "US2436138"
+   "US797458"
+   "US967584"],
   :term-years 20,
   :open-license :none}
  {:assignees
@@ -1549,6 +1644,26 @@
   :cites ["US2296249"],
   :term-years 20,
   :open-license :none}
+ {:assignees [:rca],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2737465/en",
+  :title "Synthetic resin enamel stripping compositions",
+  :status :granted,
+  :id "US2737465",
+  :sourcing :authoritative,
+  :filing-year 1948,
+  :assignee :rca,
+  :grant-year 1956,
+  :cites
+  ["US1095270"
+   "US1884765"
+   "US2435239"
+   "US2507985"
+   "US2563417"
+   "US871750"],
+  :term-years 20,
+  :open-license :none}
  {:assignees [:phillips-petroleum],
   :jurisdiction :us,
   :field "UNKNOWN",
@@ -1639,6 +1754,30 @@
   :assignee :ei-du-pont-de-nemours-and,
   :grant-year 1956,
   :cites ["US2541167" "US2633434"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:mergenthaler-linotype],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2750524/en",
+  :title
+  "Perforate mask for multicolor television apparatus and method of producting same",
+  :status :granted,
+  :id "US2750524",
+  :sourcing :authoritative,
+  :filing-year 1951,
+  :assignee :mergenthaler-linotype,
+  :grant-year 1956,
+  :cites
+  ["US2171276"
+   "US2186636"
+   "US2267752"
+   "US2536383"
+   "US2547638"
+   "US2581487"
+   "US2619608"
+   "US2625734"
+   "US2663821"],
   :term-years 20,
   :open-license :none}
  {:assignees [:beckman-instruments],
@@ -2136,6 +2275,20 @@
    "US2706674"],
   :term-years 20,
   :open-license :none}
+ {:jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2788336/en",
+  :title
+  "Carboxymethyl protein as a stabilizer for a butadiene-styrene latex emulsion paint",
+  :status :granted,
+  :id "US2788336",
+  :sourcing :authoritative,
+  :filing-year 1952,
+  :assignee :unassigned,
+  :grant-year 1957,
+  :cites ["US2188167" "US2363892" "US2398317" "US2636819" "US2719837"],
+  :term-years 20,
+  :open-license :none}
  {:assignees [:polaroid],
   :jurisdiction :us,
   :field "UNKNOWN",
@@ -2258,6 +2411,21 @@
    "US2239642"
    "US2451739"
    "US2454082"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:bell-telephone-laboratories],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2802760/en",
+  :title
+  "Oxidation of semiconductive surfaces for controlled diffusion",
+  :status :granted,
+  :id "US2802760",
+  :sourcing :authoritative,
+  :filing-year 1955,
+  :assignee :bell-telephone-laboratories,
+  :grant-year 1957,
+  :cites ["US2485069" "US2583681" "US2683676"],
   :term-years 20,
   :open-license :none}
  {:assignees [:firestone-tire-and-rubber],
@@ -2733,6 +2901,21 @@
   :assignee :unassigned,
   :grant-year 1958,
   :cites ["US1831894" "US691249"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:eastman-kodak],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2865753/en",
+  :title
+  "Photographic emulsions containing a styrene-butadiene latex and photographic paper made therewith",
+  :status :granted,
+  :id "US2865753",
+  :sourcing :authoritative,
+  :filing-year 1955,
+  :assignee :eastman-kodak,
+  :grant-year 1958,
+  :cites ["US2284877" "US2410792" "US2604388"],
   :term-years 20,
   :open-license :none}
  {:assignees [:fibreboard-paper-products],
@@ -3363,6 +3546,20 @@
    "US2812480"],
   :term-years 20,
   :open-license :none}
+ {:assignees [:sylvania-electric-products],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2937353/en",
+  :title "Photoconductive devices",
+  :status :granted,
+  :id "US2937353",
+  :sourcing :authoritative,
+  :filing-year 1959,
+  :assignee :sylvania-electric-products,
+  :grant-year 1960,
+  :cites ["US2843914" "US2844640" "US2876202" "US2879182" "US2879362"],
+  :term-years 20,
+  :open-license :none}
  {:assignees [:union-carbide],
   :jurisdiction :us,
   :field "UNKNOWN",
@@ -3917,6 +4114,20 @@
    "US2891171"],
   :term-years 20,
   :open-license :none}
+ {:assignees [:fairchild-semiconductor],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2981877/en",
+  :title "Semiconductor device-and-lead structure",
+  :status :granted,
+  :id "US2981877",
+  :sourcing :authoritative,
+  :filing-year 1959,
+  :assignee :fairchild-semiconductor,
+  :grant-year 1961,
+  :cites ["US2813326" "US2836878" "US2842723" "US2849664"],
+  :term-years 20,
+  :open-license :none}
  {:assignees [:general-electric],
   :jurisdiction :us,
   :field "UNKNOWN",
@@ -4418,6 +4629,27 @@
   :grant-year 1860,
   :term-years 20,
   :open-license :none}
+ {:assignees [:siemens],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3036006/en",
+  :title "Method of doping a silicon monocrystal",
+  :status :granted,
+  :id "US3036006",
+  :sourcing :authoritative,
+  :filing-year 1959,
+  :assignee :siemens,
+  :grant-year 1962,
+  :cites
+  ["US2419237"
+   "US2437269"
+   "US2785095"
+   "US2810870"
+   "US2873221"
+   "US2879190"
+   "US2906647"],
+  :term-years 20,
+  :open-license :none}
  {:assignees [:scientific-industries],
   :jurisdiction :us,
   :field "UNKNOWN",
@@ -4770,6 +5002,20 @@
    "US2989423"],
   :term-years 20,
   :open-license :none}
+ {:assignees [:bell-telephone-laboratories],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3066052/en",
+  :title "Vapor-solid diffusion of semiconductive material",
+  :status :granted,
+  :id "US3066052",
+  :sourcing :authoritative,
+  :filing-year 1958,
+  :assignee :bell-telephone-laboratories,
+  :grant-year 1962,
+  :cites ["US2802760"],
+  :term-years 20,
+  :open-license :none}
  {:assignees [:ei-du-pont-de-nemours-and],
   :jurisdiction :us,
   :field "UNKNOWN",
@@ -5060,6 +5306,26 @@
   :cites ["FR1132791A"],
   :term-years 20,
   :open-license :none}
+ {:assignees [:raytheon],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3104991/en",
+  :title "Method of preparing semiconductor material",
+  :status :granted,
+  :id "US3104991",
+  :sourcing :authoritative,
+  :filing-year 1958,
+  :assignee :raytheon,
+  :grant-year 1963,
+  :cites
+  ["US2697269"
+   "US2771382"
+   "US2794846"
+   "US2804405"
+   "US2816850"
+   "US2861018"],
+  :term-years 20,
+  :open-license :none}
  {:assignees [:hoechst],
   :jurisdiction :us,
   :field "UNKNOWN",
@@ -5121,6 +5387,20 @@
   :assignee :general-tire-and-rubber,
   :grant-year 1964,
   :cites ["US2332896" "US2388167" "US2569932"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:bell-telephone-laboratories],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3122817/en",
+  :title "Fabrication of semiconductor devices",
+  :status :granted,
+  :id "US3122817",
+  :sourcing :authoritative,
+  :filing-year 1963,
+  :assignee :bell-telephone-laboratories,
+  :grant-year 1964,
+  :cites ["US2411298" "US2506604" "US2802760" "US3025589"],
   :term-years 20,
   :open-license :none}
  {:jurisdiction :us,
@@ -6978,6 +7258,20 @@
   :cites ["US1559461" "US2571171" "US2768069" "US3164004" "US3194053"],
   :term-years 20,
   :open-license :none}
+ {:assignees [:buckbee-mears],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3329541/en",
+  :title "Method of forming fine mesh screens",
+  :status :granted,
+  :id "US3329541",
+  :sourcing :authoritative,
+  :filing-year 1964,
+  :assignee :buckbee-mears,
+  :grant-year 1967,
+  :cites ["US2536383" "US2596617" "US378423"],
+  :term-years 20,
+  :open-license :none}
  {:assignees [:union-carbide],
   :jurisdiction :us,
   :field "UNKNOWN",
@@ -8800,6 +9094,19 @@
   :grant-year 1971,
   :term-years 20,
   :open-license :none}
+ {:assignees [:buckbee-mears],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3609033/en",
+  :title "Mask for etching enlargement",
+  :status :granted,
+  :id "US3609033",
+  :sourcing :authoritative,
+  :filing-year 1969,
+  :assignee :buckbee-mears,
+  :grant-year 1971,
+  :term-years 20,
+  :open-license :none}
  {:assignees [:deutsche-itt-industries],
   :jurisdiction :us,
   :field "UNKNOWN",
@@ -9369,306 +9676,16 @@
   :cites ["US2549574"],
   :term-years 20,
   :open-license :none}
- {:assignees [:biophysics-systems],
+ {:assignees [:dainippon-screen-manufacturing],
   :jurisdiction :us,
   :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3684377/en",
-  :title
-  "Method for analysis of blood by optical analysis of living cells",
+  :source "https://patents.google.com/patent/US3679500/en",
+  :title "Method for forming perforations in metal sheets by etching",
   :status :granted,
-  :id "US3684377",
+  :id "US3679500",
   :sourcing :authoritative,
   :filing-year 1970,
-  :assignee :biophysics-systems,
+  :assignee :dainippon-screen-manufacturing,
   :grant-year 1972,
-  :cites ["US2875666" "US3497690"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:general-electric],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3685140/en",
-  :title "Short channel field-effect transistors",
-  :status :granted,
-  :id "US3685140",
-  :sourcing :authoritative,
-  :filing-year 1969,
-  :assignee :general-electric,
-  :grant-year 1972,
-  :term-years 20,
-  :open-license :none}
- {:jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3686046/en",
-  :title
-  "Method of producing a needle punched non-cellular backed carpet",
-  :status :granted,
-  :id "US3686046",
-  :sourcing :authoritative,
-  :filing-year 1969,
-  :assignee :unassigned,
-  :grant-year 1972,
-  :term-years 20,
-  :open-license :none}
- {:assignees [:leland-stanford-junior-university],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3687808/en",
-  :title "Synthetic polynucleotides",
-  :status :granted,
-  :id "US3687808",
-  :sourcing :authoritative,
-  :filing-year 1969,
-  :assignee :leland-stanford-junior-university,
-  :grant-year 1972,
-  :term-years 20,
-  :open-license :none}
- {:jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3695848/en",
-  :title "Gas detecting device",
-  :status :granted,
-  :id "US3695848",
-  :sourcing :authoritative,
-  :filing-year 1970,
-  :assignee :unassigned,
-  :grant-year 1972,
-  :term-years 20,
-  :open-license :none}
- {:assignees [:westinghouse-electric],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3697227/en",
-  :title "Chemical constituent sampler",
-  :status :granted,
-  :id "US3697227",
-  :sourcing :authoritative,
-  :filing-year 1966,
-  :assignee :westinghouse-electric,
-  :grant-year 1972,
-  :term-years 20,
-  :open-license :none}
- {:assignees [:nat-res-dev],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3699222/en",
-  :title "Production of viral interfering substances",
-  :status :granted,
-  :id "US3699222",
-  :sourcing :authoritative,
-  :filing-year 1968,
-  :assignee :nat-res-dev,
-  :grant-year 1972,
-  :term-years 20,
-  :open-license :none}
- {:assignees [:carl-zeiss],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3699348/en",
-  :title
-  "Radiation sensitive device for the successive investigation of several samples",
-  :status :granted,
-  :id "US3699348",
-  :sourcing :authoritative,
-  :filing-year 1971,
-  :assignee :carl-zeiss,
-  :grant-year 1972,
-  :cites ["US3246559" "US3266322" "US3418080" "US3607094"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:shiney],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3699803/en",
-  :title
-  "Semiconductor element for detecting gases and meter for measuring component concentration of a gas mixture",
-  :status :granted,
-  :id "US3699803",
-  :sourcing :authoritative,
-  :filing-year 1971,
-  :assignee :shiney,
-  :grant-year 1972,
-  :cites ["DE2005497A1" "US3039053" "US3507145"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:technicon-instruments],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3700555/en",
-  :title "Method and apparatus for lymphocyte separation from blood",
-  :status :granted,
-  :id "US3700555",
-  :sourcing :authoritative,
-  :filing-year 1970,
-  :assignee :technicon-instruments,
-  :grant-year 1972,
-  :term-years 20,
-  :open-license :none}
- {:assignees [:ici-australia],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3700609/en",
-  :title "Graft copolymers",
-  :status :granted,
-  :id "US3700609",
-  :sourcing :authoritative,
-  :filing-year 1971,
-  :assignee :ici-australia,
-  :grant-year 1972,
-  :term-years 20,
-  :open-license :none}
- {:assignees [:yamasa-shoyu],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3701772/en",
-  :title "Production of nucleotide anhydrides",
-  :status :granted,
-  :id "US3701772",
-  :sourcing :authoritative,
-  :filing-year 1970,
-  :assignee :yamasa-shoyu,
-  :grant-year 1972,
-  :term-years 20,
-  :open-license :none}
- {:assignees [:avco],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3702973/en",
-  :title
-  "Laser or ozone generator in which a broad electron beam with a sustainer field produce a large area, uniform discharge",
-  :status :granted,
-  :id "US3702973",
-  :sourcing :authoritative,
-  :filing-year 1970,
-  :assignee :avco,
-  :grant-year 1972,
-  :cites
-  ["US2030492"
-   "US2333842"
-   "US2373661"
-   "US2429217"
-   "US2686275"
-   "US3403353"
-   "US3555451"
-   "US3576583"
-   "US3641454"],
-  :term-years 20,
-  :open-license :none}
- {:jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3704282/en",
-  :title "Catecholamine antigens and antibodies specific therefor",
-  :status :granted,
-  :id "US3704282",
-  :sourcing :authoritative,
-  :filing-year 1971,
-  :assignee :unassigned,
-  :grant-year 1972,
-  :term-years 20,
-  :open-license :none}
- {:assignees [:f-hoffmann-la-roche],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3709868/en",
-  :title "Opium alkaloid antigens and antibodies specific therefor",
-  :status :granted,
-  :id "US3709868",
-  :sourcing :authoritative,
-  :filing-year 1971,
-  :assignee :f-hoffmann-la-roche,
-  :grant-year 1973,
-  :cites ["DE116806C" "US1906236" "US2301532" "US2372066"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:kyowa-hakko-kogyo],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3709873/en",
-  :title
-  "Process for synthesizing the di-esters of condensed phosphoric acid",
-  :status :granted,
-  :id "US3709873",
-  :sourcing :authoritative,
-  :filing-year 1969,
-  :assignee :kyowa-hakko-kogyo,
-  :grant-year 1973,
-  :term-years 20,
-  :open-license :none}
- {:assignees [:us-atomic-energy-commission-aec],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3710933/en",
-  :title "Multisensor particle sorter",
-  :status :granted,
-  :id "US3710933",
-  :sourcing :authoritative,
-  :filing-year 1971,
-  :assignee :us-atomic-energy-commission-aec,
-  :grant-year 1973,
-  :cites ["US3380584" "US3560754" "US3675768"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:optical-coating-laboratory],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3711708/en",
-  :title
-  "Rapid scan identifier for use in infrared absorption spectroscopy",
-  :status :granted,
-  :id "US3711708",
-  :sourcing :authoritative,
-  :filing-year 1971,
-  :assignee :optical-coating-laboratory,
-  :grant-year 1973,
-  :cites
-  ["US2970513"
-   "US3120608"
-   "US3144498"
-   "US3497302"
-   "US3536558"
-   "US3537797"
-   "US3554648"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:general-electric],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3712746/en",
-  :title
-  "Device for optically determining microbial colony population on growth surface",
-  :status :granted,
-  :id "US3712746",
-  :sourcing :authoritative,
-  :filing-year 1971,
-  :assignee :general-electric,
-  :grant-year 1973,
-  :cites ["US2157438" "US2427790" "US2495912"],
-  :term-years 20,
-  :open-license :none}
- {:jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3712885/en",
-  :title
-  "Purine-ribofuranoside-3&#39;,5&#39;-cyclophosphates and process for their preparation",
-  :status :granted,
-  :id "US3712885",
-  :sourcing :authoritative,
-  :filing-year 1969,
-  :assignee :unassigned,
-  :grant-year 1973,
-  :term-years 20,
-  :open-license :none}
- {:assignees [:abbott-laboratories],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3715427/en",
-  :title "Stabilized erythrocytes and methods therefor",
-  :status :granted,
-  :id "US3715427",
-  :sourcing :authoritative,
-  :filing-year 1970,
-  :assignee :abbott-laboratories,
-  :grant-year 1973,
-  :cites ["US3057775"],
   :term-years 20,
   :open-license :none}]

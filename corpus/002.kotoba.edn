@@ -1,4 +1,307 @@
-[{:jurisdiction :us,
+[{:assignees [:biophysics-systems],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3684377/en",
+  :title
+  "Method for analysis of blood by optical analysis of living cells",
+  :status :granted,
+  :id "US3684377",
+  :sourcing :authoritative,
+  :filing-year 1970,
+  :assignee :biophysics-systems,
+  :grant-year 1972,
+  :cites ["US2875666" "US3497690"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:general-electric],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3685140/en",
+  :title "Short channel field-effect transistors",
+  :status :granted,
+  :id "US3685140",
+  :sourcing :authoritative,
+  :filing-year 1969,
+  :assignee :general-electric,
+  :grant-year 1972,
+  :term-years 20,
+  :open-license :none}
+ {:jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3686046/en",
+  :title
+  "Method of producing a needle punched non-cellular backed carpet",
+  :status :granted,
+  :id "US3686046",
+  :sourcing :authoritative,
+  :filing-year 1969,
+  :assignee :unassigned,
+  :grant-year 1972,
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:leland-stanford-junior-university],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3687808/en",
+  :title "Synthetic polynucleotides",
+  :status :granted,
+  :id "US3687808",
+  :sourcing :authoritative,
+  :filing-year 1969,
+  :assignee :leland-stanford-junior-university,
+  :grant-year 1972,
+  :term-years 20,
+  :open-license :none}
+ {:jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3695848/en",
+  :title "Gas detecting device",
+  :status :granted,
+  :id "US3695848",
+  :sourcing :authoritative,
+  :filing-year 1970,
+  :assignee :unassigned,
+  :grant-year 1972,
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:westinghouse-electric],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3697227/en",
+  :title "Chemical constituent sampler",
+  :status :granted,
+  :id "US3697227",
+  :sourcing :authoritative,
+  :filing-year 1966,
+  :assignee :westinghouse-electric,
+  :grant-year 1972,
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:nat-res-dev],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3699222/en",
+  :title "Production of viral interfering substances",
+  :status :granted,
+  :id "US3699222",
+  :sourcing :authoritative,
+  :filing-year 1968,
+  :assignee :nat-res-dev,
+  :grant-year 1972,
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:carl-zeiss],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3699348/en",
+  :title
+  "Radiation sensitive device for the successive investigation of several samples",
+  :status :granted,
+  :id "US3699348",
+  :sourcing :authoritative,
+  :filing-year 1971,
+  :assignee :carl-zeiss,
+  :grant-year 1972,
+  :cites ["US3246559" "US3266322" "US3418080" "US3607094"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:shiney],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3699803/en",
+  :title
+  "Semiconductor element for detecting gases and meter for measuring component concentration of a gas mixture",
+  :status :granted,
+  :id "US3699803",
+  :sourcing :authoritative,
+  :filing-year 1971,
+  :assignee :shiney,
+  :grant-year 1972,
+  :cites ["DE2005497A1" "US3039053" "US3507145"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:technicon-instruments],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3700555/en",
+  :title "Method and apparatus for lymphocyte separation from blood",
+  :status :granted,
+  :id "US3700555",
+  :sourcing :authoritative,
+  :filing-year 1970,
+  :assignee :technicon-instruments,
+  :grant-year 1972,
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:ici-australia],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3700609/en",
+  :title "Graft copolymers",
+  :status :granted,
+  :id "US3700609",
+  :sourcing :authoritative,
+  :filing-year 1971,
+  :assignee :ici-australia,
+  :grant-year 1972,
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:yamasa-shoyu],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3701772/en",
+  :title "Production of nucleotide anhydrides",
+  :status :granted,
+  :id "US3701772",
+  :sourcing :authoritative,
+  :filing-year 1970,
+  :assignee :yamasa-shoyu,
+  :grant-year 1972,
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:avco],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3702973/en",
+  :title
+  "Laser or ozone generator in which a broad electron beam with a sustainer field produce a large area, uniform discharge",
+  :status :granted,
+  :id "US3702973",
+  :sourcing :authoritative,
+  :filing-year 1970,
+  :assignee :avco,
+  :grant-year 1972,
+  :cites
+  ["US2030492"
+   "US2333842"
+   "US2373661"
+   "US2429217"
+   "US2686275"
+   "US3403353"
+   "US3555451"
+   "US3576583"
+   "US3641454"],
+  :term-years 20,
+  :open-license :none}
+ {:jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3704282/en",
+  :title "Catecholamine antigens and antibodies specific therefor",
+  :status :granted,
+  :id "US3704282",
+  :sourcing :authoritative,
+  :filing-year 1971,
+  :assignee :unassigned,
+  :grant-year 1972,
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:f-hoffmann-la-roche],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3709868/en",
+  :title "Opium alkaloid antigens and antibodies specific therefor",
+  :status :granted,
+  :id "US3709868",
+  :sourcing :authoritative,
+  :filing-year 1971,
+  :assignee :f-hoffmann-la-roche,
+  :grant-year 1973,
+  :cites ["DE116806C" "US1906236" "US2301532" "US2372066"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:kyowa-hakko-kogyo],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3709873/en",
+  :title
+  "Process for synthesizing the di-esters of condensed phosphoric acid",
+  :status :granted,
+  :id "US3709873",
+  :sourcing :authoritative,
+  :filing-year 1969,
+  :assignee :kyowa-hakko-kogyo,
+  :grant-year 1973,
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:us-atomic-energy-commission-aec],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3710933/en",
+  :title "Multisensor particle sorter",
+  :status :granted,
+  :id "US3710933",
+  :sourcing :authoritative,
+  :filing-year 1971,
+  :assignee :us-atomic-energy-commission-aec,
+  :grant-year 1973,
+  :cites ["US3380584" "US3560754" "US3675768"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:optical-coating-laboratory],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3711708/en",
+  :title
+  "Rapid scan identifier for use in infrared absorption spectroscopy",
+  :status :granted,
+  :id "US3711708",
+  :sourcing :authoritative,
+  :filing-year 1971,
+  :assignee :optical-coating-laboratory,
+  :grant-year 1973,
+  :cites
+  ["US2970513"
+   "US3120608"
+   "US3144498"
+   "US3497302"
+   "US3536558"
+   "US3537797"
+   "US3554648"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:general-electric],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3712746/en",
+  :title
+  "Device for optically determining microbial colony population on growth surface",
+  :status :granted,
+  :id "US3712746",
+  :sourcing :authoritative,
+  :filing-year 1971,
+  :assignee :general-electric,
+  :grant-year 1973,
+  :cites ["US2157438" "US2427790" "US2495912"],
+  :term-years 20,
+  :open-license :none}
+ {:jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3712885/en",
+  :title
+  "Purine-ribofuranoside-3&#39;,5&#39;-cyclophosphates and process for their preparation",
+  :status :granted,
+  :id "US3712885",
+  :sourcing :authoritative,
+  :filing-year 1969,
+  :assignee :unassigned,
+  :grant-year 1973,
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:abbott-laboratories],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3715427/en",
+  :title "Stabilized erythrocytes and methods therefor",
+  :status :granted,
+  :id "US3715427",
+  :sourcing :authoritative,
+  :filing-year 1970,
+  :assignee :abbott-laboratories,
+  :grant-year 1973,
+  :cites ["US3057775"],
+  :term-years 20,
+  :open-license :none}
+ {:jurisdiction :us,
   :field "UNKNOWN",
   :source "https://patents.google.com/patent/US3715872/en",
   :title "Mowing apparatus",
@@ -9187,408 +9490,5 @@
    "US4751177"
    "WO1985002628A1"
    "WO1986003227A1"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:sherwin-williams],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US4871806/en",
-  :title
-  "Reactive coatings comprising an acid-functional compound, an anhydride-functional compound, an epoxy-functional compound and a hydroxy-functional compound",
-  :status :granted,
-  :id "US4871806",
-  :sourcing :authoritative,
-  :filing-year 1987,
-  :assignee :sherwin-williams,
-  :grant-year 1989,
-  :cites
-  ["EP0123793A1"
-   "EP0134691A2"
-   "GB1583316A"
-   "GB994907A"
-   "US2712535"
-   "US2884408"
-   "US2890194"
-   "US2890210"
-   "US3027279"
-   "US3215756"
-   "US3218274"
-   "US3242142"
-   "US3247144"
-   "US3247283"
-   "US3280077"
-   "US3427255"
-   "US3523143"
-   "US3557035"
-   "US3624180"
-   "US3639345"
-   "US3897514"
-   "US3925507"
-   "US3932367"
-   "US3953644"
-   "US3954712"
-   "US3975314"
-   "US3978026"
-   "US3979477"
-   "US4046727"
-   "US4069275"
-   "US4076674"
-   "US4086293"
-   "US4086294"
-   "US4156700"
-   "US4176143"
-   "US4226755"
-   "US4261871"
-   "US4294939"
-   "US4322325"
-   "US4327200"
-   "US4346144"
-   "US4391965"
-   "US4403091"
-   "US4403093"
-   "US4415697"
-   "US4418182"
-   "US4452948"
-   "US4465815"
-   "US4471025"
-   "US4507411"
-   "US4511682"
-   "US4535148"
-   "US4548963"
-   "US4620994"
-   "US4650718"
-   "US4681811"
-   "US4703101"
-   "US4732790"
-   "US4732791"
-   "US4798745"
-   "US4798746"
-   "WO1984000770A1"
-   "WO1984000771A1"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:applied-biosystems],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US4883750/en",
-  :title "Detection of specific sequences in nucleic acids",
-  :status :granted,
-  :id "US4883750",
-  :sourcing :authoritative,
-  :filing-year 1984,
-  :assignee :applied-biosystems,
-  :grant-year 1989,
-  :cites
-  ["EP0070685A2"
-   "EP0154505A2"
-   "US4358535"
-   "US4395486"
-   "US4486539"
-   "US4563419"
-   "US4710465"
-   "WO1985004902A1"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:microprobe],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US4886741/en",
-  :title
-  "Use of volume exclusion agents for the enhancement of in situ hybridization",
-  :status :granted,
-  :id "US4886741",
-  :sourcing :authoritative,
-  :filing-year 1987,
-  :assignee :microprobe,
-  :grant-year 1989,
-  :cites ["EP0098373A2" "WO1986005816A1"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:umass-memorial-medical-center],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US4888278/en",
-  :title
-  "In-situ hybridization to detect nucleic acid sequences in morphologically intact cells",
-  :status :granted,
-  :id "US4888278",
-  :sourcing :authoritative,
-  :filing-year 1988,
-  :assignee :umass-memorial-medical-center,
-  :grant-year 1989,
-  :cites ["US4419446" "US4652517"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:cetus],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US4889818/en",
-  :title "Purified thermostable enzyme",
-  :status :granted,
-  :id "US4889818",
-  :sourcing :authoritative,
-  :filing-year 1987,
-  :assignee :cetus,
-  :grant-year 1989,
-  :cites ["US4683194" "US4683195" "US4683202"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:varian-associates],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US4895809/en",
-  :title "Immobilized antigen-antibody displacement process",
-  :status :granted,
-  :id "US4895809",
-  :sourcing :authoritative,
-  :filing-year 1984,
-  :assignee :varian-associates,
-  :grant-year 1990,
-  :cites
-  ["US4036946"
-   "US4108603"
-   "US4251360"
-   "US4264327"
-   "US4277560"
-   "US4456689"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:hoechst-celanese],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US4898916/en",
-  :title
-  "Process for the preparation of poly(vinylphenol) from poly(acetoxystyrene) by acid catalyzed transesterification",
-  :status :granted,
-  :id "US4898916",
-  :sourcing :authoritative,
-  :filing-year 1988,
-  :assignee :hoechst-celanese,
-  :grant-year 1990,
-  :cites ["US3970534" "US4129617" "US4678843" "US4689371"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:bresatac],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US4898951/en",
-  :title
-  "Compounds used as intermediates in the preparations of non-radioactive biological probes",
-  :status :granted,
-  :id "US4898951",
-  :sourcing :authoritative,
-  :filing-year 1988,
-  :assignee :bresatac,
-  :grant-year 1990,
-  :cites
-  ["EP0119448A1"
-   "EP0127438B1"
-   "US4282287"
-   "US4487838"
-   "WO1983002277A1"
-   "WO1984003285A1"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:ei-du-pont-de-nemours-and],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US4906677/en",
-  :title
-  "Multi-component coating composition comprising an anhydride containing polymer, a glycidyl component and a phosphonium catalyst",
-  :status :granted,
-  :id "US4906677",
-  :sourcing :authoritative,
-  :filing-year 1988,
-  :assignee :ei-du-pont-de-nemours-and,
-  :grant-year 1990,
-  :cites
-  ["EP0123793A1"
-   "GB994881A"
-   "US3136736"
-   "US3591533"
-   "US4452948"
-   "US4507411"
-   "US4732791"
-   "US4816500"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:harvard-university],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US4921794/en",
-  :title "T7 DNA polymerase",
-  :status :granted,
-  :id "US4921794",
-  :sourcing :authoritative,
-  :filing-year 1988,
-  :assignee :harvard-university,
-  :grant-year 1990,
-  :cites
-  ["EP0258017A2"
-   "US4224408"
-   "US4331589"
-   "US4394443"
-   "US4395486"
-   "US4555486"
-   "US4663290"
-   "US4683195"
-   "US4683202"
-   "US4767708"
-   "US4786600"
-   "US4795699"
-   "US4800159"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:millipore],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US4923901/en",
-  :title "Membranes with bound oligonucleotides and peptides",
-  :status :granted,
-  :id "US4923901",
-  :sourcing :authoritative,
-  :filing-year 1987,
-  :assignee :millipore,
-  :grant-year 1990,
-  :cites
-  ["US4415732"
-   "US4458066"
-   "US4500707"
-   "US4591614"
-   "US4667025"
-   "US4668777"
-   "US4689405"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:harvard-university],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US4942130/en",
-  :title "T7 DNA polymerase",
-  :status :granted,
-  :id "US4942130",
-  :sourcing :authoritative,
-  :filing-year 1987,
-  :assignee :harvard-university,
-  :grant-year 1990,
-  :cites
-  ["EP0258017A2"
-   "US3444041"
-   "US3444042"
-   "US3661893"
-   "US4072574"
-   "US4224408"
-   "US4331589"
-   "US4363877"
-   "US4394443"
-   "US4395486"
-   "US4483920"
-   "US4483922"
-   "US4486539"
-   "US4521509"
-   "US4555486"
-   "US4556643"
-   "US4563419"
-   "US4591565"
-   "US4656127"
-   "US4663283"
-   "US4663290"
-   "US4670379"
-   "US4675283"
-   "US4683195"
-   "US4683202"
-   "US4707235"
-   "US4729947"
-   "US4767708"
-   "US4786600"
-   "US4795699"
-   "US4795700"
-   "US4800159"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:harvard-university],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US4946786/en",
-  :title "T7 DNA polymerase",
-  :status :granted,
-  :id "US4946786",
-  :sourcing :authoritative,
-  :filing-year 1990,
-  :assignee :harvard-university,
-  :grant-year 1990,
-  :cites
-  ["EP0258017A2"
-   "US3444041"
-   "US3444042"
-   "US3661893"
-   "US4072574"
-   "US4224408"
-   "US4331589"
-   "US4363877"
-   "US4394443"
-   "US4395486"
-   "US4483920"
-   "US4483922"
-   "US4486539"
-   "US4521509"
-   "US4555486"
-   "US4556643"
-   "US4563419"
-   "US4591565"
-   "US4656127"
-   "US4663283"
-   "US4663290"
-   "US4670379"
-   "US4675283"
-   "US4683195"
-   "US4683202"
-   "US4707235"
-   "US4729947"
-   "US4767708"
-   "US4786600"
-   "US4795699"
-   "US4795700"
-   "US4800159"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:government-of-the-united-states-of-america],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US4962037/en",
-  :title "Method for rapid base sequencing in DNA and RNA",
-  :status :granted,
-  :id "US4962037",
-  :sourcing :authoritative,
-  :filing-year 1987,
-  :assignee :government-of-the-united-states-of-america,
-  :grant-year 1990,
-  :cites ["EP0251575A1" "US3730844" "US4521509"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:cetus],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US4965188/en",
-  :title
-  "Process for amplifying, detecting, and/or cloning nucleic acid sequences using a thermostable enzyme",
-  :status :granted,
-  :id "US4965188",
-  :sourcing :authoritative,
-  :filing-year 1987,
-  :assignee :cetus,
-  :grant-year 1990,
-  :cites
-  ["EP0086548A2"
-   "EP0138242A1"
-   "EP0200362B1"
-   "EP0201184B1"
-   "EP0258017A2"
-   "US4351901"
-   "US4683194"
-   "US4683195"
-   "US4683202"
-   "US4800159"
-   "US4889818"],
   :term-years 20,
   :open-license :none}]

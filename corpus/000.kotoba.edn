@@ -7477,6 +7477,19 @@
   :grant-year 1943,
   :term-years 20,
   :open-license :none}
+ {:assignees [:eastman-kodak],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2338673/en",
+  :title "Method of recovering film scrap",
+  :status :granted,
+  :id "US2338673",
+  :sourcing :authoritative,
+  :filing-year 1943,
+  :assignee :eastman-kodak,
+  :grant-year 1944,
+  :term-years 20,
+  :open-license :none}
  {:assignees [:united-gas-improvement],
   :jurisdiction :us,
   :field "UNKNOWN",
@@ -8022,6 +8035,20 @@
   :cites ["US1037901" "US2020085" "US2199803"],
   :term-years 20,
   :open-license :none}
+ {:assignees [:fairchild-camera-and-instrument],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2417468/en",
+  :title "Method of removing plastic coating from a metal article",
+  :status :granted,
+  :id "US2417468",
+  :sourcing :authoritative,
+  :filing-year 1944,
+  :assignee :fairchild-camera-and-instrument,
+  :grant-year 1947,
+  :cites ["US1875552"],
+  :term-years 20,
+  :open-license :none}
  {:assignees [:general-aniline-and-film],
   :jurisdiction :us,
   :field "UNKNOWN",
@@ -8283,6 +8310,20 @@
    "US814060"],
   :term-years 20,
   :open-license :none}
+ {:assignees [:joe-a-stone],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2435239/en",
+  :title "Process for removing resin coating from copper wire",
+  :status :granted,
+  :id "US2435239",
+  :sourcing :authoritative,
+  :filing-year 1945,
+  :assignee :joe-a-stone,
+  :grant-year 1948,
+  :cites ["US1813636" "US2318559" "US2360308"],
+  :term-years 20,
+  :open-license :none}
  {:assignees [:johns-manville],
   :jurisdiction :us,
   :field "UNKNOWN",
@@ -8303,6 +8344,20 @@
    "US2254782"
    "US2263938"
    "US2301367"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:buckbee-mears],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2437228/en",
+  :title "Reticle",
+  :status :granted,
+  :id "US2437228",
+  :sourcing :authoritative,
+  :filing-year 1944,
+  :assignee :buckbee-mears,
+  :grant-year 1948,
+  :cites ["US1380333" "US1958456" "US2177094" "US2339723" "US378423"],
   :term-years 20,
   :open-license :none}
  {:assignees [:united-states-rubber],
@@ -8795,62 +8850,5 @@
   :assignee :sears-roebuck-and,
   :grant-year 1950,
   :cites ["US2295570" "US2398333"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:minnesota-and-ontario-paper],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US2513394/en",
-  :title "Apparatus for coating paper",
-  :status :granted,
-  :id "US2513394",
-  :sourcing :authoritative,
-  :filing-year 1945,
-  :assignee :minnesota-and-ontario-paper,
-  :grant-year 1950,
-  :cites
-  ["US1202165"
-   "US1212854"
-   "US1556087"
-   "US2064776"
-   "US2105488"
-   "US2263131"
-   "US2277287"
-   "US2287905"
-   "US2312927"
-   "US2316176"
-   "US2355919"
-   "US2369378"
-   "US2398844"
-   "US2406056"
-   "US2406057"
-   "US2416789"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:shell-development],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US2513996/en",
-  :title "Reaction of a primary amine with an imine",
-  :status :granted,
-  :id "US2513996",
-  :sourcing :authoritative,
-  :filing-year 1947,
-  :assignee :shell-development,
-  :grant-year 1950,
-  :term-years 20,
-  :open-license :none}
- {:assignees [:corning-glass-works],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US2515940/en",
-  :title "Photosensitive opal glass",
-  :status :granted,
-  :id "US2515940",
-  :sourcing :authoritative,
-  :filing-year 1946,
-  :assignee :corning-glass-works,
-  :grant-year 1950,
-  :cites ["US2049765" "US2144943" "US2237042" "US2326012" "US2422472"],
   :term-years 20,
   :open-license :none}]
