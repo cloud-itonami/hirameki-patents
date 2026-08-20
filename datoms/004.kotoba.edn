@@ -1,4 +1,168 @@
 [[":db/add"
+  "hirameki-patent:US3183128"
+  ":hirameki.patent/assignee"
+  ":fairchild-camera-and-instrument"]
+ [":db/add"
+  "hirameki-patent:US3183128"
+  ":hirameki.patent/status"
+  ":granted"]
+ [":db/add"
+  "hirameki-patent:US3183128"
+  ":hirameki.patent/open-license"
+  ":none"]
+ [":db/add"
+  "hirameki-patent:US3183128"
+  ":hirameki.obs/release-status"
+  ":public-domain"]
+ [":db/add"
+  "hirameki-patent:US3183128"
+  ":hirameki/sourcing"
+  ":authoritative"]
+ [":db/add" "hirameki-patent:US3183128" ":hirameki/derived" true]
+ [":db/add"
+  "hirameki-patent:US3183128"
+  ":hirameki.obs/years-to-expiry"
+  -44]
+ [":db/add"
+  "hirameki-patent:US3183128"
+  ":hirameki/source"
+  "https://patents.google.com/patent/US3183128/en"]
+ [":db/add"
+  "hirameki-patent:US318910"
+  ":hirameki.patent/title"
+  "Roofing-felt and its manufacture"]
+ [":db/add"
+  "hirameki-patent:US318910"
+  ":hirameki.patent/jurisdiction"
+  ":us"]
+ [":db/add"
+  "hirameki-patent:US318910"
+  ":hirameki.patent/field"
+  "UNKNOWN"]
+ [":db/add"
+  "hirameki-patent:US318910"
+  ":hirameki.patent/assignee"
+  ":unassigned"]
+ [":db/add"
+  "hirameki-patent:US318910"
+  ":hirameki.patent/status"
+  ":granted"]
+ [":db/add"
+  "hirameki-patent:US318910"
+  ":hirameki.patent/open-license"
+  ":none"]
+ [":db/add"
+  "hirameki-patent:US318910"
+  ":hirameki.obs/release-status"
+  ":in-force"]
+ [":db/add"
+  "hirameki-patent:US318910"
+  ":hirameki/sourcing"
+  ":authoritative"]
+ [":db/add" "hirameki-patent:US318910" ":hirameki/derived" true]
+ [":db/add"
+  "hirameki-patent:US318910"
+  ":hirameki/source"
+  "https://patents.google.com/patent/US318910/en"]
+ [":db/add"
+  "hirameki-patent:US3191061"
+  ":hirameki.patent/title"
+  "Insulated gate field effect devices and electrical circuits employing such devices"]
+ [":db/add"
+  "hirameki-patent:US3191061"
+  ":hirameki.patent/jurisdiction"
+  ":us"]
+ [":db/add"
+  "hirameki-patent:US3191061"
+  ":hirameki.patent/field"
+  "UNKNOWN"]
+ [":db/add"
+  "hirameki-patent:US3191061"
+  ":hirameki.patent/assignee"
+  ":rca"]
+ [":db/add"
+  "hirameki-patent:US3191061"
+  ":hirameki.patent/status"
+  ":granted"]
+ [":db/add"
+  "hirameki-patent:US3191061"
+  ":hirameki.patent/open-license"
+  ":none"]
+ [":db/add"
+  "hirameki-patent:US3191061"
+  ":hirameki.obs/release-status"
+  ":public-domain"]
+ [":db/add"
+  "hirameki-patent:US3191061"
+  ":hirameki/sourcing"
+  ":authoritative"]
+ [":db/add" "hirameki-patent:US3191061" ":hirameki/derived" true]
+ [":db/add"
+  "hirameki-patent:US3191061"
+  ":hirameki.obs/years-to-expiry"
+  -44]
+ [":db/add"
+  "hirameki-patent:US3191061"
+  ":hirameki/source"
+  "https://patents.google.com/patent/US3191061/en"]
+ [":db/add"
+  "hirameki-patent:US3192931"
+  ":hirameki.patent/title"
+  "Tobacco-manipulating machines"]
+ [":db/add"
+  "hirameki-patent:US3192931"
+  ":hirameki.patent/jurisdiction"
+  ":us"]
+ [":db/add"
+  "hirameki-patent:US3192931"
+  ":hirameki.patent/field"
+  "UNKNOWN"]
+ [":db/add"
+  "hirameki-patent:US3192931"
+  ":hirameki.patent/assignee"
+  ":usines-decoufle"]
+ [":db/add"
+  "hirameki-patent:US3192931"
+  ":hirameki.patent/status"
+  ":granted"]
+ [":db/add"
+  "hirameki-patent:US3192931"
+  ":hirameki.patent/open-license"
+  ":none"]
+ [":db/add"
+  "hirameki-patent:US3192931"
+  ":hirameki.obs/release-status"
+  ":public-domain"]
+ [":db/add"
+  "hirameki-patent:US3192931"
+  ":hirameki/sourcing"
+  ":authoritative"]
+ [":db/add" "hirameki-patent:US3192931" ":hirameki/derived" true]
+ [":db/add"
+  "hirameki-patent:US3192931"
+  ":hirameki.obs/years-to-expiry"
+  -45]
+ [":db/add"
+  "hirameki-patent:US3192931"
+  ":hirameki/source"
+  "https://patents.google.com/patent/US3192931/en"]
+ [":db/add"
+  "hirameki-patent:US3193357"
+  ":hirameki.patent/title"
+  "Miniaturized reaction vessel with reaction injection means, and method of mixing small quantities of liquids"]
+ [":db/add"
+  "hirameki-patent:US3193357"
+  ":hirameki.patent/jurisdiction"
+  ":us"]
+ [":db/add"
+  "hirameki-patent:US3193357"
+  ":hirameki.patent/field"
+  "UNKNOWN"]
+ [":db/add"
+  "hirameki-patent:US3193357"
+  ":hirameki.patent/assignee"
+  ":unassigned"]
+ [":db/add"
   "hirameki-patent:US3193357"
   ":hirameki.patent/status"
   ":granted"]
@@ -1295,6 +1459,47 @@
   ":hirameki/source"
   "https://patents.google.com/patent/US3246559/en"]
  [":db/add"
+  "hirameki-patent:US3247078"
+  ":hirameki.patent/title"
+  "Process for the propagation of microorganisms using a matrix of poly"]
+ [":db/add"
+  "hirameki-patent:US3247078"
+  ":hirameki.patent/jurisdiction"
+  ":us"]
+ [":db/add"
+  "hirameki-patent:US3247078"
+  ":hirameki.patent/field"
+  "UNKNOWN"]
+ [":db/add"
+  "hirameki-patent:US3247078"
+  ":hirameki.patent/assignee"
+  ":union-carbide"]
+ [":db/add"
+  "hirameki-patent:US3247078"
+  ":hirameki.patent/status"
+  ":granted"]
+ [":db/add"
+  "hirameki-patent:US3247078"
+  ":hirameki.patent/open-license"
+  ":none"]
+ [":db/add"
+  "hirameki-patent:US3247078"
+  ":hirameki.obs/release-status"
+  ":public-domain"]
+ [":db/add"
+  "hirameki-patent:US3247078"
+  ":hirameki/sourcing"
+  ":authoritative"]
+ [":db/add" "hirameki-patent:US3247078" ":hirameki/derived" true]
+ [":db/add"
+  "hirameki-patent:US3247078"
+  ":hirameki.obs/years-to-expiry"
+  -43]
+ [":db/add"
+  "hirameki-patent:US3247078"
+  ":hirameki/source"
+  "https://patents.google.com/patent/US3247078/en"]
+ [":db/add"
   "hirameki-patent:US3249830"
   ":hirameki.patent/title"
   "Organic semi-conductor materials and contact rectifier employing the same"]
@@ -1950,6 +2155,47 @@
   "hirameki-patent:US3275534"
   ":hirameki/source"
   "https://patents.google.com/patent/US3275534/en"]
+ [":db/add"
+  "hirameki-patent:US3275834"
+  ":hirameki.patent/title"
+  "Apparatus for analyzing the size and number of particles in suspension"]
+ [":db/add"
+  "hirameki-patent:US3275834"
+  ":hirameki.patent/jurisdiction"
+  ":us"]
+ [":db/add"
+  "hirameki-patent:US3275834"
+  ":hirameki.patent/field"
+  "UNKNOWN"]
+ [":db/add"
+  "hirameki-patent:US3275834"
+  ":hirameki.patent/assignee"
+  ":unassigned"]
+ [":db/add"
+  "hirameki-patent:US3275834"
+  ":hirameki.patent/status"
+  ":granted"]
+ [":db/add"
+  "hirameki-patent:US3275834"
+  ":hirameki.patent/open-license"
+  ":none"]
+ [":db/add"
+  "hirameki-patent:US3275834"
+  ":hirameki.obs/release-status"
+  ":public-domain"]
+ [":db/add"
+  "hirameki-patent:US3275834"
+  ":hirameki/sourcing"
+  ":authoritative"]
+ [":db/add" "hirameki-patent:US3275834" ":hirameki/derived" true]
+ [":db/add"
+  "hirameki-patent:US3275834"
+  ":hirameki.obs/years-to-expiry"
+  -43]
+ [":db/add"
+  "hirameki-patent:US3275834"
+  ":hirameki/source"
+  "https://patents.google.com/patent/US3275834/en"]
  [":db/add"
   "hirameki-patent:US3278392"
   ":hirameki.patent/title"
@@ -7314,6 +7560,47 @@
   ":hirameki/source"
   "https://patents.google.com/patent/US3551221/en"]
  [":db/add"
+  "hirameki-patent:US3551555"
+  ":hirameki.patent/title"
+  "Coated immunochemical reagent particles and process of preparation"]
+ [":db/add"
+  "hirameki-patent:US3551555"
+  ":hirameki.patent/jurisdiction"
+  ":us"]
+ [":db/add"
+  "hirameki-patent:US3551555"
+  ":hirameki.patent/field"
+  "UNKNOWN"]
+ [":db/add"
+  "hirameki-patent:US3551555"
+  ":hirameki.patent/assignee"
+  ":organon"]
+ [":db/add"
+  "hirameki-patent:US3551555"
+  ":hirameki.patent/status"
+  ":granted"]
+ [":db/add"
+  "hirameki-patent:US3551555"
+  ":hirameki.patent/open-license"
+  ":none"]
+ [":db/add"
+  "hirameki-patent:US3551555"
+  ":hirameki.obs/release-status"
+  ":public-domain"]
+ [":db/add"
+  "hirameki-patent:US3551555"
+  ":hirameki/sourcing"
+  ":authoritative"]
+ [":db/add" "hirameki-patent:US3551555" ":hirameki/derived" true]
+ [":db/add"
+  "hirameki-patent:US3551555"
+  ":hirameki.obs/years-to-expiry"
+  -40]
+ [":db/add"
+  "hirameki-patent:US3551555"
+  ":hirameki/source"
+  "https://patents.google.com/patent/US3551555/en"]
+ [":db/add"
   "hirameki-patent:US3553143"
   ":hirameki.patent/title"
   "Ammonium hydroxide containing wax stripper"]
@@ -9651,6 +9938,47 @@
   ":hirameki/source"
   "https://patents.google.com/patent/US3661893/en"]
  [":db/add"
+  "hirameki-patent:US3663684"
+  ":hirameki.patent/title"
+  "Carcinoembryonic antigen and diagnostic method using radioactive iodine"]
+ [":db/add"
+  "hirameki-patent:US3663684"
+  ":hirameki.patent/jurisdiction"
+  ":us"]
+ [":db/add"
+  "hirameki-patent:US3663684"
+  ":hirameki.patent/field"
+  "UNKNOWN"]
+ [":db/add"
+  "hirameki-patent:US3663684"
+  ":hirameki.patent/assignee"
+  ":f-hoffmann-la-roche"]
+ [":db/add"
+  "hirameki-patent:US3663684"
+  ":hirameki.patent/status"
+  ":granted"]
+ [":db/add"
+  "hirameki-patent:US3663684"
+  ":hirameki.patent/open-license"
+  ":none"]
+ [":db/add"
+  "hirameki-patent:US3663684"
+  ":hirameki.obs/release-status"
+  ":public-domain"]
+ [":db/add"
+  "hirameki-patent:US3663684"
+  ":hirameki/sourcing"
+  ":authoritative"]
+ [":db/add" "hirameki-patent:US3663684" ":hirameki/derived" true]
+ [":db/add"
+  "hirameki-patent:US3663684"
+  ":hirameki.obs/years-to-expiry"
+  -36]
+ [":db/add"
+  "hirameki-patent:US3663684"
+  ":hirameki/source"
+  "https://patents.google.com/patent/US3663684/en"]
+ [":db/add"
   "hirameki-patent:US3664421"
   ":hirameki.patent/title"
   "Methods for inhibiting the production of loose formation materials"]
@@ -9927,328 +10255,4 @@
  [":db/add"
   "hirameki-patent:US3675488"
   ":hirameki/sourcing"
-  ":authoritative"]
- [":db/add" "hirameki-patent:US3675488" ":hirameki/derived" true]
- [":db/add"
-  "hirameki-patent:US3675488"
-  ":hirameki.obs/years-to-expiry"
-  -37]
- [":db/add"
-  "hirameki-patent:US3675488"
-  ":hirameki/source"
-  "https://patents.google.com/patent/US3675488/en"]
- [":db/add"
-  "hirameki-patent:US3676080"
-  ":hirameki.patent/title"
-  "Device for automatically analyzing liquids"]
- [":db/add"
-  "hirameki-patent:US3676080"
-  ":hirameki.patent/jurisdiction"
-  ":us"]
- [":db/add"
-  "hirameki-patent:US3676080"
-  ":hirameki.patent/field"
-  "UNKNOWN"]
- [":db/add"
-  "hirameki-patent:US3676080"
-  ":hirameki.patent/assignee"
-  ":f-hoffmann-la-roche"]
- [":db/add"
-  "hirameki-patent:US3676080"
-  ":hirameki.patent/status"
-  ":granted"]
- [":db/add"
-  "hirameki-patent:US3676080"
-  ":hirameki.patent/open-license"
-  ":none"]
- [":db/add"
-  "hirameki-patent:US3676080"
-  ":hirameki.obs/release-status"
-  ":public-domain"]
- [":db/add"
-  "hirameki-patent:US3676080"
-  ":hirameki/sourcing"
-  ":authoritative"]
- [":db/add" "hirameki-patent:US3676080" ":hirameki/derived" true]
- [":db/add"
-  "hirameki-patent:US3676080"
-  ":hirameki.obs/years-to-expiry"
-  -38]
- [":db/add"
-  "hirameki-patent:US3676080"
-  ":hirameki/source"
-  "https://patents.google.com/patent/US3676080/en"]
- [":db/add"
-  "hirameki-patent:US3676184"
-  ":hirameki.patent/title"
-  "Method for controlling varying liquid penetration of a continuous paper web"]
- [":db/add"
-  "hirameki-patent:US3676184"
-  ":hirameki.patent/jurisdiction"
-  ":us"]
- [":db/add"
-  "hirameki-patent:US3676184"
-  ":hirameki.patent/field"
-  "UNKNOWN"]
- [":db/add"
-  "hirameki-patent:US3676184"
-  ":hirameki.patent/assignee"
-  ":combined-paper-mills"]
- [":db/add"
-  "hirameki-patent:US3676184"
-  ":hirameki.patent/status"
-  ":granted"]
- [":db/add"
-  "hirameki-patent:US3676184"
-  ":hirameki.patent/open-license"
-  ":none"]
- [":db/add"
-  "hirameki-patent:US3676184"
-  ":hirameki.obs/release-status"
-  ":public-domain"]
- [":db/add"
-  "hirameki-patent:US3676184"
-  ":hirameki/sourcing"
-  ":authoritative"]
- [":db/add" "hirameki-patent:US3676184" ":hirameki/derived" true]
- [":db/add"
-  "hirameki-patent:US3676184"
-  ":hirameki.obs/years-to-expiry"
-  -37]
- [":db/add"
-  "hirameki-patent:US3676184"
-  ":hirameki/source"
-  "https://patents.google.com/patent/US3676184/en"]
- [":db/add"
-  "hirameki-patent:US3676383"
-  ":hirameki.patent/title"
-  "Non-aqueous electrophoretic compositions comprising liquid nitroalkanes as a solvent"]
- [":db/add"
-  "hirameki-patent:US3676383"
-  ":hirameki.patent/jurisdiction"
-  ":us"]
- [":db/add"
-  "hirameki-patent:US3676383"
-  ":hirameki.patent/field"
-  "UNKNOWN"]
- [":db/add"
-  "hirameki-patent:US3676383"
-  ":hirameki.patent/assignee"
-  ":westinghouse-electric"]
- [":db/add"
-  "hirameki-patent:US3676383"
-  ":hirameki.patent/status"
-  ":granted"]
- [":db/add"
-  "hirameki-patent:US3676383"
-  ":hirameki.patent/open-license"
-  ":none"]
- [":db/add"
-  "hirameki-patent:US3676383"
-  ":hirameki.obs/release-status"
-  ":public-domain"]
- [":db/add"
-  "hirameki-patent:US3676383"
-  ":hirameki/sourcing"
-  ":authoritative"]
- [":db/add" "hirameki-patent:US3676383" ":hirameki/derived" true]
- [":db/add"
-  "hirameki-patent:US3676383"
-  ":hirameki.obs/years-to-expiry"
-  -37]
- [":db/add"
-  "hirameki-patent:US3676383"
-  ":hirameki/source"
-  "https://patents.google.com/patent/US3676383/en"]
- [":db/add"
-  "hirameki-patent:US3676820"
-  ":hirameki.patent/title"
-  "Gas detecting element and method of manufacturing same"]
- [":db/add"
-  "hirameki-patent:US3676820"
-  ":hirameki.patent/jurisdiction"
-  ":us"]
- [":db/add"
-  "hirameki-patent:US3676820"
-  ":hirameki.patent/field"
-  "UNKNOWN"]
- [":db/add"
-  "hirameki-patent:US3676820"
-  ":hirameki.patent/assignee"
-  ":unassigned"]
- [":db/add"
-  "hirameki-patent:US3676820"
-  ":hirameki.patent/status"
-  ":granted"]
- [":db/add"
-  "hirameki-patent:US3676820"
-  ":hirameki.patent/open-license"
-  ":none"]
- [":db/add"
-  "hirameki-patent:US3676820"
-  ":hirameki.obs/release-status"
-  ":public-domain"]
- [":db/add"
-  "hirameki-patent:US3676820"
-  ":hirameki/sourcing"
-  ":authoritative"]
- [":db/add" "hirameki-patent:US3676820" ":hirameki/derived" true]
- [":db/add"
-  "hirameki-patent:US3676820"
-  ":hirameki.obs/years-to-expiry"
-  -36]
- [":db/add"
-  "hirameki-patent:US3676820"
-  ":hirameki/source"
-  "https://patents.google.com/patent/US3676820/en"]
- [":db/add"
-  "hirameki-patent:US3679312"
-  ":hirameki.patent/title"
-  "Method and apparatus for measuring bioluminescence or chemiluminescence for quantitative analysis of samples"]
- [":db/add"
-  "hirameki-patent:US3679312"
-  ":hirameki.patent/jurisdiction"
-  ":us"]
- [":db/add"
-  "hirameki-patent:US3679312"
-  ":hirameki.patent/field"
-  "UNKNOWN"]
- [":db/add"
-  "hirameki-patent:US3679312"
-  ":hirameki.patent/assignee"
-  ":technicon-instruments"]
- [":db/add"
-  "hirameki-patent:US3679312"
-  ":hirameki.patent/status"
-  ":granted"]
- [":db/add"
-  "hirameki-patent:US3679312"
-  ":hirameki.patent/open-license"
-  ":none"]
- [":db/add"
-  "hirameki-patent:US3679312"
-  ":hirameki.obs/release-status"
-  ":public-domain"]
- [":db/add"
-  "hirameki-patent:US3679312"
-  ":hirameki/sourcing"
-  ":authoritative"]
- [":db/add" "hirameki-patent:US3679312" ":hirameki/derived" true]
- [":db/add"
-  "hirameki-patent:US3679312"
-  ":hirameki.obs/years-to-expiry"
-  -35]
- [":db/add"
-  "hirameki-patent:US3679312"
-  ":hirameki/source"
-  "https://patents.google.com/patent/US3679312/en"]
- [":db/add"
-  "hirameki-patent:US3679500"
-  ":hirameki.patent/title"
-  "Method for forming perforations in metal sheets by etching"]
- [":db/add"
-  "hirameki-patent:US3679500"
-  ":hirameki.patent/jurisdiction"
-  ":us"]
- [":db/add"
-  "hirameki-patent:US3679500"
-  ":hirameki.patent/field"
-  "UNKNOWN"]
- [":db/add"
-  "hirameki-patent:US3679500"
-  ":hirameki.patent/assignee"
-  ":dainippon-screen-manufacturing"]
- [":db/add"
-  "hirameki-patent:US3679500"
-  ":hirameki.patent/status"
-  ":granted"]
- [":db/add"
-  "hirameki-patent:US3679500"
-  ":hirameki.patent/open-license"
-  ":none"]
- [":db/add"
-  "hirameki-patent:US3679500"
-  ":hirameki.obs/release-status"
-  ":public-domain"]
- [":db/add"
-  "hirameki-patent:US3679500"
-  ":hirameki/sourcing"
-  ":authoritative"]
- [":db/add" "hirameki-patent:US3679500" ":hirameki/derived" true]
- [":db/add"
-  "hirameki-patent:US3679500"
-  ":hirameki.obs/years-to-expiry"
-  -36]
- [":db/add"
-  "hirameki-patent:US3679500"
-  ":hirameki/source"
-  "https://patents.google.com/patent/US3679500/en"]
- [":db/add"
-  "hirameki-patent:US3684377"
-  ":hirameki.patent/title"
-  "Method for analysis of blood by optical analysis of living cells"]
- [":db/add"
-  "hirameki-patent:US3684377"
-  ":hirameki.patent/jurisdiction"
-  ":us"]
- [":db/add"
-  "hirameki-patent:US3684377"
-  ":hirameki.patent/field"
-  "UNKNOWN"]
- [":db/add"
-  "hirameki-patent:US3684377"
-  ":hirameki.patent/assignee"
-  ":biophysics-systems"]
- [":db/add"
-  "hirameki-patent:US3684377"
-  ":hirameki.patent/status"
-  ":granted"]
- [":db/add"
-  "hirameki-patent:US3684377"
-  ":hirameki.patent/open-license"
-  ":none"]
- [":db/add"
-  "hirameki-patent:US3684377"
-  ":hirameki.obs/release-status"
-  ":public-domain"]
- [":db/add"
-  "hirameki-patent:US3684377"
-  ":hirameki/sourcing"
-  ":authoritative"]
- [":db/add" "hirameki-patent:US3684377" ":hirameki/derived" true]
- [":db/add"
-  "hirameki-patent:US3684377"
-  ":hirameki.obs/years-to-expiry"
-  -36]
- [":db/add"
-  "hirameki-patent:US3684377"
-  ":hirameki/source"
-  "https://patents.google.com/patent/US3684377/en"]
- [":db/add"
-  "hirameki-patent:US3685140"
-  ":hirameki.patent/title"
-  "Short channel field-effect transistors"]
- [":db/add"
-  "hirameki-patent:US3685140"
-  ":hirameki.patent/jurisdiction"
-  ":us"]
- [":db/add"
-  "hirameki-patent:US3685140"
-  ":hirameki.patent/field"
-  "UNKNOWN"]
- [":db/add"
-  "hirameki-patent:US3685140"
-  ":hirameki.patent/assignee"
-  ":general-electric"]
- [":db/add"
-  "hirameki-patent:US3685140"
-  ":hirameki.patent/status"
-  ":granted"]
- [":db/add"
-  "hirameki-patent:US3685140"
-  ":hirameki.patent/open-license"
-  ":none"]
- [":db/add"
-  "hirameki-patent:US3685140"
-  ":hirameki.obs/release-status"
-  ":public-domain"]]
+  ":authoritative"]]

@@ -1,4 +1,71 @@
-[{:assignees [:california-research],
+[{:assignees [:paper-patents],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2497712/en",
+  :title "Process of manufacturing a fibrous sheet covered plywood",
+  :status :granted,
+  :id "US2497712",
+  :sourcing :authoritative,
+  :filing-year 1944,
+  :assignee :paper-patents,
+  :grant-year 1950,
+  :cites
+  ["US1160365"
+   "US1904087"
+   "US1937317"
+   "US1986961"
+   "US2077015"
+   "US2343740"
+   "US2370090"
+   "US2378113"
+   "US2391489"
+   "US2463856"],
+  :term-years 20,
+  :open-license :none}
+ {:jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2497852/en",
+  :title "Transmitter buoy",
+  :status :granted,
+  :id "US2497852",
+  :sourcing :authoritative,
+  :filing-year 1945,
+  :assignee :unassigned,
+  :grant-year 1950,
+  :cites
+  ["US1417692"
+   "US1485776"
+   "US1503380"
+   "US2115744"
+   "US2281284"
+   "US2293949"
+   "US2310017"
+   "US740317"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:nat-plastic-products],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2499421/en",
+  :title "Polyethylene tape extrusion",
+  :status :granted,
+  :id "US2499421",
+  :sourcing :authoritative,
+  :filing-year 1946,
+  :assignee :nat-plastic-products,
+  :grant-year 1950,
+  :cites
+  ["US2174779"
+   "US2177658"
+   "US2212770"
+   "US2219700"
+   "US2242364"
+   "US2261977"
+   "US2320115"
+   "US2365374"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:california-research],
   :jurisdiction :us,
   :field "UNKNOWN",
   :source "https://patents.google.com/patent/US2504965/en",
@@ -4534,6 +4601,21 @@
    "US2881078"],
   :term-years 20,
   :open-license :none}
+ {:assignees [:becton-dickinson-and],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3010875/en",
+  :title
+  "Lyophilized syphilis complement fixation antigen and its preparation",
+  :status :granted,
+  :id "US3010875",
+  :sourcing :authoritative,
+  :filing-year 1958,
+  :assignee :becton-dickinson-and,
+  :grant-year 1961,
+  :cites ["US2892755"],
+  :term-years 20,
+  :open-license :none}
  {:assignees [:eastman-kodak],
   :jurisdiction :us,
   :field "UNKNOWN",
@@ -6875,6 +6957,21 @@
   :cites ["US2660342" "US2940448" "US3053138" "US890018"],
   :term-years 20,
   :open-license :none}
+ {:assignees [:union-carbide],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3247078/en",
+  :title
+  "Process for the propagation of microorganisms using a matrix of poly",
+  :status :granted,
+  :id "US3247078",
+  :sourcing :authoritative,
+  :filing-year 1963,
+  :assignee :union-carbide,
+  :grant-year 1966,
+  :cites ["US2970948" "US3046201"],
+  :term-years 20,
+  :open-license :none}
  {:assignees [:electro-organics],
   :jurisdiction :us,
   :field "UNKNOWN",
@@ -7183,6 +7280,26 @@
   :assignee :unassigned,
   :grant-year 1966,
   :cites ["US2757132" "US2926072" "US3049411"],
+  :term-years 20,
+  :open-license :none}
+ {:jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3275834/en",
+  :title
+  "Apparatus for analyzing the size and number of particles in suspension",
+  :status :granted,
+  :id "US3275834",
+  :sourcing :authoritative,
+  :filing-year 1963,
+  :assignee :unassigned,
+  :grant-year 1966,
+  :cites
+  ["FR1227526A"
+   "US2731202"
+   "US2850239"
+   "US2875666"
+   "US3084591"
+   "US3094625"],
   :term-years 20,
   :open-license :none}
  {:assignees [:yeda-research-and-development],
@@ -9283,6 +9400,20 @@
   :grant-year 1970,
   :term-years 20,
   :open-license :none}
+ {:assignees [:organon],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3551555/en",
+  :title
+  "Coated immunochemical reagent particles and process of preparation",
+  :status :granted,
+  :id "US3551555",
+  :sourcing :authoritative,
+  :filing-year 1966,
+  :assignee :organon,
+  :grant-year 1970,
+  :term-years 20,
+  :open-license :none}
  {:assignees [:purex],
   :jurisdiction :us,
   :field "UNKNOWN",
@@ -9612,122 +9743,6 @@
   :sourcing :authoritative,
   :filing-year 1969,
   :assignee :buckbee-mears,
-  :grant-year 1971,
-  :term-years 20,
-  :open-license :none}
- {:assignees [:us-atomic-energy-commission-aec],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3600291/en",
-  :title "Method of producing dense carbon from anthracene",
-  :status :granted,
-  :id "US3600291",
-  :sourcing :authoritative,
-  :filing-year 1969,
-  :assignee :us-atomic-energy-commission-aec,
-  :grant-year 1971,
-  :term-years 20,
-  :open-license :none}
- {:assignees [:scientific-industries],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3607079/en",
-  :title "Analysis arrangement for chemical analyzing apparatus",
-  :status :granted,
-  :id "US3607079",
-  :sourcing :authoritative,
-  :filing-year 1969,
-  :assignee :scientific-industries,
-  :grant-year 1971,
-  :cites ["US3036893" "US3036894" "US3502438" "US3508879"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:ilford],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3607997/en",
-  :title "Method for producing an x-ray intensifying screen",
-  :status :granted,
-  :id "US3607997",
-  :sourcing :authoritative,
-  :filing-year 1968,
-  :assignee :ilford,
-  :grant-year 1971,
-  :term-years 20,
-  :open-license :none}
- {:assignees [:buckbee-mears],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3609033/en",
-  :title "Mask for etching enlargement",
-  :status :granted,
-  :id "US3609033",
-  :sourcing :authoritative,
-  :filing-year 1969,
-  :assignee :buckbee-mears,
-  :grant-year 1971,
-  :term-years 20,
-  :open-license :none}
- {:assignees [:deutsche-itt-industries],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3614449/en",
-  :title "Optical tracking system utilizing a coaxial lens system",
-  :status :granted,
-  :id "US3614449",
-  :sourcing :authoritative,
-  :filing-year 1969,
-  :assignee :deutsche-itt-industries,
-  :grant-year 1971,
-  :cites
-  ["US2504383"
-   "US2753760"
-   "US2798961"
-   "US3173012"
-   "US3244885"
-   "US3398285"
-   "US3497696"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:new-england-nuclear],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3615222/en",
-  :title
-  "Method and apparatus for measuring the amount of a component in a biological fluid",
-  :status :granted,
-  :id "US3615222",
-  :sourcing :authoritative,
-  :filing-year 1968,
-  :assignee :new-england-nuclear,
-  :grant-year 1971,
-  :cites ["US3072362" "US3397965"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:basf-se],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3615629/en",
-  :title
-  "Photosensitive compositions for production of relief-bearing plates sheets or films",
-  :status :granted,
-  :id "US3615629",
-  :sourcing :authoritative,
-  :filing-year 1968,
-  :assignee :basf-se,
-  :grant-year 1971,
-  :term-years 20,
-  :open-license :none}
- {:assignees [:goodyear-tire-and-rubber],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3616171/en",
-  :title "Method of making a foamed article and said article",
-  :status :granted,
-  :id "US3616171",
-  :sourcing :authoritative,
-  :filing-year 1968,
-  :assignee :goodyear-tire-and-rubber,
   :grant-year 1971,
   :term-years 20,
   :open-license :none}]

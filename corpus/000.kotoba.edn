@@ -2055,6 +2055,18 @@
   :assignee :radiometer-as,
   :term-years 20,
   :open-license :none}
+ {:assignees [:ohio-state-university],
+  :jurisdiction :gb,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/GB1473601A/en",
+  :title "Antigenic modification of polypeptides",
+  :status :pending,
+  :id "GB1473601A",
+  :sourcing :authoritative,
+  :filing-year 1974,
+  :assignee :ohio-state-university,
+  :term-years 20,
+  :open-license :none}
  {:assignees [:general-electric],
   :jurisdiction :gb,
   :field "UNKNOWN",
@@ -5905,6 +5917,19 @@
   :grant-year 1934,
   :term-years 20,
   :open-license :none}
+ {:jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US1971443/en",
+  :title
+  "Electrooptical method and means for measuring concentrations, colors, dispersions, etc. of fluids and similar substances",
+  :status :granted,
+  :id "US1971443",
+  :sourcing :authoritative,
+  :filing-year 1930,
+  :assignee :unassigned,
+  :grant-year 1934,
+  :term-years 20,
+  :open-license :none}
  {:assignees [:swann-res],
   :jurisdiction :us,
   :field "UNKNOWN",
@@ -5915,6 +5940,17 @@
   :sourcing :authoritative,
   :filing-year 1932,
   :assignee :swann-res,
+  :grant-year 1934,
+  :term-years 20,
+  :open-license :none}
+ {:jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US1974522/en",
+  :title "Counting op microscopic bodies-",
+  :status :granted,
+  :id "US1974522",
+  :sourcing :authoritative,
+  :assignee :unassigned,
   :grant-year 1934,
   :term-years 20,
   :open-license :none}
@@ -8783,72 +8819,5 @@
    "US2367670"
    "US2402631"
    "US2429177"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:paper-patents],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US2497712/en",
-  :title "Process of manufacturing a fibrous sheet covered plywood",
-  :status :granted,
-  :id "US2497712",
-  :sourcing :authoritative,
-  :filing-year 1944,
-  :assignee :paper-patents,
-  :grant-year 1950,
-  :cites
-  ["US1160365"
-   "US1904087"
-   "US1937317"
-   "US1986961"
-   "US2077015"
-   "US2343740"
-   "US2370090"
-   "US2378113"
-   "US2391489"
-   "US2463856"],
-  :term-years 20,
-  :open-license :none}
- {:jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US2497852/en",
-  :title "Transmitter buoy",
-  :status :granted,
-  :id "US2497852",
-  :sourcing :authoritative,
-  :filing-year 1945,
-  :assignee :unassigned,
-  :grant-year 1950,
-  :cites
-  ["US1417692"
-   "US1485776"
-   "US1503380"
-   "US2115744"
-   "US2281284"
-   "US2293949"
-   "US2310017"
-   "US740317"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:nat-plastic-products],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US2499421/en",
-  :title "Polyethylene tape extrusion",
-  :status :granted,
-  :id "US2499421",
-  :sourcing :authoritative,
-  :filing-year 1946,
-  :assignee :nat-plastic-products,
-  :grant-year 1950,
-  :cites
-  ["US2174779"
-   "US2177658"
-   "US2212770"
-   "US2219700"
-   "US2242364"
-   "US2261977"
-   "US2320115"
-   "US2365374"],
   :term-years 20,
   :open-license :none}]

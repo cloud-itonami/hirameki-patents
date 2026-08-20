@@ -6320,6 +6320,47 @@
   ":hirameki/source"
   "https://patents.google.com/patent/GB1442303A/en"]
  [":db/add"
+  "hirameki-patent:GB1473601A"
+  ":hirameki.patent/title"
+  "Antigenic modification of polypeptides"]
+ [":db/add"
+  "hirameki-patent:GB1473601A"
+  ":hirameki.patent/jurisdiction"
+  ":gb"]
+ [":db/add"
+  "hirameki-patent:GB1473601A"
+  ":hirameki.patent/field"
+  "UNKNOWN"]
+ [":db/add"
+  "hirameki-patent:GB1473601A"
+  ":hirameki.patent/assignee"
+  ":ohio-state-university"]
+ [":db/add"
+  "hirameki-patent:GB1473601A"
+  ":hirameki.patent/status"
+  ":pending"]
+ [":db/add"
+  "hirameki-patent:GB1473601A"
+  ":hirameki.patent/open-license"
+  ":none"]
+ [":db/add"
+  "hirameki-patent:GB1473601A"
+  ":hirameki.obs/release-status"
+  ":pending"]
+ [":db/add"
+  "hirameki-patent:GB1473601A"
+  ":hirameki/sourcing"
+  ":authoritative"]
+ [":db/add" "hirameki-patent:GB1473601A" ":hirameki/derived" true]
+ [":db/add"
+  "hirameki-patent:GB1473601A"
+  ":hirameki.obs/years-to-expiry"
+  -32]
+ [":db/add"
+  "hirameki-patent:GB1473601A"
+  ":hirameki/source"
+  "https://patents.google.com/patent/GB1473601A/en"]
+ [":db/add"
   "hirameki-patent:GB1486826A"
   ":hirameki.patent/title"
   "Method for conducting surface immunological tests"]
@@ -9949,46 +9990,5 @@
   ":pending"]
  [":db/add"
   "hirameki-patent:JP2001200213A"
-  ":hirameki.patent/open-license"
-  ":none"]
- [":db/add"
-  "hirameki-patent:JP2001200213A"
-  ":hirameki.obs/release-status"
-  ":pending"]
- [":db/add"
-  "hirameki-patent:JP2001200213A"
-  ":hirameki/sourcing"
-  ":authoritative"]
- [":db/add" "hirameki-patent:JP2001200213A" ":hirameki/derived" true]
- [":db/add"
-  "hirameki-patent:JP2001200213A"
-  ":hirameki.obs/years-to-expiry"
-  -6]
- [":db/add"
-  "hirameki-patent:JP2001200213A"
-  ":hirameki/source"
-  "https://patents.google.com/patent/JP2001200213A/en"]
- [":db/add"
-  "hirameki-patent:JP2001205175A"
-  ":hirameki.patent/title"
-  "Coating method"]
- [":db/add"
-  "hirameki-patent:JP2001205175A"
-  ":hirameki.patent/jurisdiction"
-  ":jp"]
- [":db/add"
-  "hirameki-patent:JP2001205175A"
-  ":hirameki.patent/field"
-  "UNKNOWN"]
- [":db/add"
-  "hirameki-patent:JP2001205175A"
-  ":hirameki.patent/assignee"
-  ":nippon-paint"]
- [":db/add"
-  "hirameki-patent:JP2001205175A"
-  ":hirameki.patent/status"
-  ":pending"]
- [":db/add"
-  "hirameki-patent:JP2001205175A"
   ":hirameki.patent/open-license"
   ":none"]]
