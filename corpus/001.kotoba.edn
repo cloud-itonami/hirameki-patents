@@ -1,4 +1,104 @@
-[{:assignees [:paper-patents],
+[{:assignees [:monsanto-chemicals],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2486665/en",
+  :title
+  "Coating composition comprising an alkyd resin and an alkoxy methylolmelamine",
+  :status :granted,
+  :id "US2486665",
+  :sourcing :authoritative,
+  :filing-year 1946,
+  :assignee :monsanto-chemicals,
+  :grant-year 1949,
+  :cites ["US2125484" "US2218474" "US2426379"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:armstrong-cork],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2491530/en",
+  :title "Hard surface wall and floor covering",
+  :status :granted,
+  :id "US2491530",
+  :sourcing :authoritative,
+  :filing-year 1944,
+  :assignee :armstrong-cork,
+  :grant-year 1949,
+  :cites ["US1606735" "US1978549" "US2272144" "US2274642"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:bb-chemical],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2494848/en",
+  :title
+  "Method of laminating flock coated vinyl resin sheet and resulting product",
+  :status :granted,
+  :id "US2494848",
+  :sourcing :authoritative,
+  :filing-year 1946,
+  :assignee :bb-chemical,
+  :grant-year 1950,
+  :cites
+  ["US2176837"
+   "US2261264"
+   "US2275989"
+   "US2290238"
+   "US2323562"
+   "US2377867"
+   "US2428654"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:universal-oil-products],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2495890/en",
+  :title
+  "Resinous condensation products from an aldehyde or a ketone and an n-alkenylarylamine",
+  :status :granted,
+  :id "US2495890",
+  :sourcing :authoritative,
+  :filing-year 1948,
+  :assignee :universal-oil-products,
+  :grant-year 1950,
+  :term-years 20,
+  :open-license :none}
+ {:jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2495912/en",
+  :title
+  "Bacteriological colony counting device having a light-conducting member for transverse illumination",
+  :status :granted,
+  :id "US2495912",
+  :sourcing :authoritative,
+  :filing-year 1946,
+  :assignee :unassigned,
+  :grant-year 1950,
+  :cites ["US2214595" "US2247737" "US2259910"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:shellmar-products],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2496911/en",
+  :title "Method and apparatus for forming plastic laminates",
+  :status :granted,
+  :id "US2496911",
+  :sourcing :authoritative,
+  :filing-year 1945,
+  :assignee :shellmar-products,
+  :grant-year 1950,
+  :cites
+  ["US2224922"
+   "US2264376"
+   "US2268611"
+   "US2320513"
+   "US2367670"
+   "US2402631"
+   "US2429177"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:paper-patents],
   :jurisdiction :us,
   :field "UNKNOWN",
   :source "https://patents.google.com/patent/US2497712/en",
@@ -190,6 +290,28 @@
   :assignee :ei-du-pont-de-nemours-and,
   :grant-year 1950,
   :cites ["US2369504"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:american-optical],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2519997/en",
+  :title
+  "Comparison method for measuring the hemoglobin content of blood",
+  :status :granted,
+  :id "US2519997",
+  :sourcing :authoritative,
+  :filing-year 1945,
+  :assignee :american-optical,
+  :grant-year 1950,
+  :cites
+  ["DE290014C"
+   "US1205838"
+   "US1861121"
+   "US2102785"
+   "US2163467"
+   "US2209764"
+   "US2396260"],
   :term-years 20,
   :open-license :none}
  {:assignees [:motor-products],
@@ -511,6 +633,25 @@
    "US2406056"
    "US2406057"
    "US2425231"],
+  :term-years 20,
+  :open-license :none}
+ {:jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2584052/en",
+  :title "Apparatus for counting blood corpuscles",
+  :status :granted,
+  :id "US2584052",
+  :sourcing :authoritative,
+  :filing-year 1949,
+  :assignee :unassigned,
+  :grant-year 1952,
+  :cites
+  ["US1455795"
+   "US1974522"
+   "US2037044"
+   "US2105470"
+   "US2183606"
+   "US2369577"],
   :term-years 20,
   :open-license :none}
  {:assignees [:airborne-instr-lab],
@@ -1186,6 +1327,26 @@
    "US554635"
    "US671417"
    "US844783"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:nat-res-dev],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2661902/en",
+  :title "Apparatus for counting microscopic particles",
+  :status :granted,
+  :id "US2661902",
+  :sourcing :authoritative,
+  :filing-year 1951,
+  :assignee :nat-res-dev,
+  :grant-year 1953,
+  :cites
+  ["US1974522"
+   "US2037044"
+   "US2073246"
+   "US2088297"
+   "US2369577"
+   "US2413965"],
   :term-years 20,
   :open-license :none}
  {:assignees [:detrex],
@@ -2510,6 +2671,19 @@
   :assignee :rohm-and-haas,
   :grant-year 1957,
   :cites ["US2577624" "US2583274" "US2661308" "US2685538"],
+  :term-years 20,
+  :open-license :none}
+ {:jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2791150/en",
+  :title "Device for determining the red blood cell count",
+  :status :granted,
+  :id "US2791150",
+  :sourcing :authoritative,
+  :filing-year 1952,
+  :assignee :unassigned,
+  :grant-year 1957,
+  :cites ["US1974522" "US2369577" "US2480312" "US2584052" "US2661902"],
   :term-years 20,
   :open-license :none}
  {:assignees [:general-electric],
@@ -5594,6 +5768,33 @@
   :grant-year 1963,
   :term-years 20,
   :open-license :none}
+ {:assignees [:american-instr],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3092722/en",
+  :title "Spectro-phosphorescence measuring instrument",
+  :status :granted,
+  :id "US3092722",
+  :sourcing :authoritative,
+  :filing-year 1960,
+  :assignee :american-instr,
+  :grant-year 1963,
+  :cites
+  ["US2240844"
+   "US2303688"
+   "US2351539"
+   "US2381414"
+   "US2757568"
+   "US2794945"
+   "US2825817"
+   "US2837655"
+   "US2856531"
+   "US2867728"
+   "US2901625"
+   "US2936371"
+   "US2984744"],
+  :term-years 20,
+  :open-license :none}
  {:assignees [:jagenberg-werke],
   :jurisdiction :us,
   :field "UNKNOWN",
@@ -7583,6 +7784,31 @@
   :grant-year 1967,
   :term-years 20,
   :open-license :none}
+ {:assignees [:ei-du-pont-de-nemours-and],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3306156/en",
+  :title "Method and apparatus for photometric analysis",
+  :status :granted,
+  :id "US3306156",
+  :sourcing :authoritative,
+  :filing-year 1957,
+  :assignee :ei-du-pont-de-nemours-and,
+  :grant-year 1967,
+  :cites
+  ["US2503165"
+   "US2620444"
+   "US2679185"
+   "US2694335"
+   "US2703844"
+   "US2718597"
+   "US2737591"
+   "US2775160"
+   "US2823800"
+   "US2849618"
+   "US2987182"],
+  :term-years 20,
+  :open-license :none}
  {:assignees [:hitachi],
   :jurisdiction :us,
   :field "UNKNOWN",
@@ -7649,6 +7875,20 @@
    "US951031"],
   :term-years 20,
   :open-license :none}
+ {:jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3316896/en",
+  :title
+  "Apparatus and methods for the measure of the electrical impedance of living organisms",
+  :status :granted,
+  :id "US3316896",
+  :sourcing :authoritative,
+  :filing-year 1963,
+  :assignee :unassigned,
+  :grant-year 1967,
+  :cites ["US2298506" "US2535249" "US3064641" "US3085566" "US3207151"],
+  :term-years 20,
+  :open-license :none}
  {:assignees [:ajinomoto],
   :jurisdiction :us,
   :field "UNKNOWN",
@@ -7711,6 +7951,34 @@
   :assignee :mead,
   :grant-year 1967,
   :cites ["US2558857" "US2759825" "US2789054" "US2949382" "US3174859"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:international-business-machines],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3327117/en",
+  :title "Cancer cell detector using two wavelengths for comparison",
+  :status :granted,
+  :id "US3327117",
+  :sourcing :authoritative,
+  :filing-year 1963,
+  :assignee :international-business-machines,
+  :grant-year 1967,
+  :cites ["US2395489" "US2790438" "US3210546"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:international-business-machines],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3327119/en",
+  :title "Method and apparatus for detecting cancer cells",
+  :status :granted,
+  :id "US3327119",
+  :sourcing :authoritative,
+  :filing-year 1964,
+  :assignee :international-business-machines,
+  :grant-year 1967,
+  :cites ["US2395489" "US2790438" "US3210546"],
   :term-years 20,
   :open-license :none}
  {:assignees [:honeywell],
@@ -8058,6 +8326,20 @@
   :filing-year 1965,
   :assignee :ajinomoto,
   :grant-year 1968,
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:english-electric],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3364358/en",
+  :title
+  "Measuring apparatus for measuring a linear dimension of a body",
+  :status :granted,
+  :id "US3364358",
+  :sourcing :authoritative,
+  :assignee :english-electric,
+  :grant-year 1968,
+  :cites ["US2659823" "US2848921" "US2941086" "US3003066" "US3066226"],
   :term-years 20,
   :open-license :none}
  {:assignees [:atomic-energy-commission-usa],
@@ -9489,260 +9771,6 @@
   :sourcing :authoritative,
   :filing-year 1968,
   :assignee :motorola,
-  :grant-year 1971,
-  :term-years 20,
-  :open-license :none}
- {:assignees [:international-business-machines],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3560754/en",
-  :title "Photoelectric particle separator using time delay",
-  :status :granted,
-  :id "US3560754",
-  :sourcing :authoritative,
-  :filing-year 1965,
-  :assignee :international-business-machines,
-  :grant-year 1971,
-  :cites ["US2387952" "US2417877" "US3052353" "US3161589" "US3320428"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:organon],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3565987/en",
-  :title "Immunochemical determinations of antigens and antibodies",
-  :status :granted,
-  :id "US3565987",
-  :sourcing :authoritative,
-  :filing-year 1967,
-  :assignee :organon,
-  :grant-year 1971,
-  :term-years 20,
-  :open-license :none}
- {:assignees [:engelhard-minerals-and-chemicals],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3567383/en",
-  :title "Hydrogen detectors",
-  :status :granted,
-  :id "US3567383",
-  :sourcing :authoritative,
-  :filing-year 1968,
-  :assignee :engelhard-minerals-and-chemicals,
-  :grant-year 1971,
-  :term-years 20,
-  :open-license :none}
- {:assignees [:buckbee-mears],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3574013/en",
-  :title
-  "Aperture mask for color tv picture tubes and method for making same",
-  :status :granted,
-  :id "US3574013",
-  :sourcing :authoritative,
-  :filing-year 1969,
-  :assignee :buckbee-mears,
-  :grant-year 1971,
-  :term-years 20,
-  :open-license :none}
- {:assignees [:texas-instruments],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3575733/en",
-  :title "Electron beam techniques in integrated circuits",
-  :status :granted,
-  :id "US3575733",
-  :sourcing :authoritative,
-  :filing-year 1968,
-  :assignee :texas-instruments,
-  :grant-year 1971,
-  :term-years 20,
-  :open-license :none}
- {:assignees [:hazleton-laboratories],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3575812/en",
-  :title "Method for the detection of virus",
-  :status :granted,
-  :id "US3575812",
-  :sourcing :authoritative,
-  :filing-year 1968,
-  :assignee :hazleton-laboratories,
-  :grant-year 1971,
-  :term-years 20,
-  :open-license :none}
- {:assignees [:beckman-instruments],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3575836/en",
-  :title "Polarographic sensor",
-  :status :granted,
-  :id "US3575836",
-  :sourcing :authoritative,
-  :filing-year 1969,
-  :assignee :beckman-instruments,
-  :grant-year 1971,
-  :term-years 20,
-  :open-license :none}
- {:assignees [:morton-e-frank],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3585007/en",
-  :title "Gas generator",
-  :status :granted,
-  :id "US3585007",
-  :sourcing :authoritative,
-  :filing-year 1968,
-  :assignee :morton-e-frank,
-  :grant-year 1971,
-  :term-years 20,
-  :open-license :none}
- {:assignees [:metropolitan-pathology-lab],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3586064/en",
-  :title "Blood serum collection tube and method of collection",
-  :status :granted,
-  :id "US3586064",
-  :sourcing :authoritative,
-  :filing-year 1969,
-  :assignee :metropolitan-pathology-lab,
-  :grant-year 1971,
-  :term-years 20,
-  :open-license :none}
- {:assignees [:international-business-machines],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3586554/en",
-  :title
-  "Process for increasing photoresist adhesion to a semiconductor by treating the semiconductor with a disilylamide",
-  :status :granted,
-  :id "US3586554",
-  :sourcing :authoritative,
-  :filing-year 1969,
-  :assignee :international-business-machines,
-  :grant-year 1971,
-  :term-years 20,
-  :open-license :none}
- {:jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3586859/en",
-  :title "Fluorescent cell viability counter",
-  :status :granted,
-  :id "US3586859",
-  :sourcing :authoritative,
-  :filing-year 1970,
-  :assignee :unassigned,
-  :grant-year 1971,
-  :term-years 20,
-  :open-license :none}
- {:assignees [:us-philips],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3589907/en",
-  :title
-  "Photosensitive lacquer and the use of this lacquer in manufacturing picture screens for cathode-ray tubes",
-  :status :granted,
-  :id "US3589907",
-  :sourcing :authoritative,
-  :filing-year 1967,
-  :assignee :us-philips,
-  :grant-year 1971,
-  :term-years 20,
-  :open-license :none}
- {:assignees [:formica],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3589974/en",
-  :title
-  "Decorative laminate surfaced with a compressed layer of a fibrillated acrylic fiber paper,said paper having been transparentized during a heat and pressure consolidation step and having been substantially free of any impregnating resin",
-  :status :granted,
-  :id "US3589974",
-  :sourcing :authoritative,
-  :filing-year 1968,
-  :assignee :formica,
-  :grant-year 1971,
-  :term-years 20,
-  :open-license :none}
- {:assignees [:bayer],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3591444/en",
-  :title "Heavy-duty foam laminates",
-  :status :granted,
-  :id "US3591444",
-  :sourcing :authoritative,
-  :filing-year 1968,
-  :assignee :bayer,
-  :grant-year 1971,
-  :term-years 20,
-  :open-license :none}
- {:assignees [:hawker-siddeley-dynamics],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3591810/en",
-  :title
-  "Temperature monitoring apparatus using a photochromic heat sensor",
-  :status :granted,
-  :id "US3591810",
-  :sourcing :authoritative,
-  :filing-year 1969,
-  :assignee :hawker-siddeley-dynamics,
-  :grant-year 1971,
-  :cites ["US2792484" "US2824235" "US2945954" "US3134019" "US3327120"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:pabst-brewing],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3594278/en",
-  :title "Preparation of polynucleotides",
-  :status :granted,
-  :id "US3594278",
-  :sourcing :authoritative,
-  :filing-year 1968,
-  :assignee :pabst-brewing,
-  :grant-year 1971,
-  :term-years 20,
-  :open-license :none}
- {:assignees [:glaxo-laboratories],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3597318/en",
-  :title "Production of double stranded hibonucleic acid",
-  :status :granted,
-  :id "US3597318",
-  :sourcing :authoritative,
-  :filing-year 1969,
-  :assignee :glaxo-laboratories,
-  :grant-year 1971,
-  :term-years 20,
-  :open-license :none}
- {:assignees [:hitachi],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3598762/en",
-  :title
-  "Vanadium oxide semiconductors and method of manufacturing same",
-  :status :granted,
-  :id "US3598762",
-  :sourcing :authoritative,
-  :filing-year 1967,
-  :assignee :hitachi,
-  :grant-year 1971,
-  :term-years 20,
-  :open-license :none}
- {:assignees [:buckbee-mears],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3600213/en",
-  :title "Aperture masks",
-  :status :granted,
-  :id "US3600213",
-  :sourcing :authoritative,
-  :filing-year 1969,
-  :assignee :buckbee-mears,
   :grant-year 1971,
   :term-years 20,
   :open-license :none}]
