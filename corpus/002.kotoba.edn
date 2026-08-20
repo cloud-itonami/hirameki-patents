@@ -1,4 +1,127 @@
-[{:assignees [:technicon],
+[{:assignees [:miles-laboratories],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3635681/en",
+  :title "Differential conductivity-measuring apparatus",
+  :status :granted,
+  :id "US3635681",
+  :sourcing :authoritative,
+  :filing-year 1969,
+  :assignee :miles-laboratories,
+  :grant-year 1972,
+  :cites ["GB1054626A" "US1951035"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:eastman-kodak],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3635853/en",
+  :title
+  "A copolymer latex of polyvinyl acetate and an alkyl ester of an unsaturated carboxylic acid",
+  :status :granted,
+  :id "US3635853",
+  :sourcing :authoritative,
+  :filing-year 1969,
+  :assignee :eastman-kodak,
+  :grant-year 1972,
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:nippon-kayaku :osaka-seika-kogyo],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3637672/en",
+  :title "Azole compounds",
+  :status :granted,
+  :id "US3637672",
+  :sourcing :authoritative,
+  :filing-year 1968,
+  :assignee :nippon-kayaku,
+  :grant-year 1972,
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:shell-oil],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3639163/en",
+  :title "Block polymer insulation for electric conductors",
+  :status :granted,
+  :id "US3639163",
+  :sourcing :authoritative,
+  :filing-year 1969,
+  :assignee :shell-oil,
+  :grant-year 1972,
+  :cites
+  ["US2458600"
+   "US2761854"
+   "US2813809"
+   "US3030237"
+   "US3251905"
+   "US3333024"
+   "US3401213"
+   "US3427264"
+   "US3433855"
+   "US3441530"
+   "US3476530"
+   "US3493369"
+   "US3515528"],
+  :term-years 20,
+  :open-license :none}
+ {:jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3639558/en",
+  :title
+  "Immunological reagent particles having proteinaceous materials covalently bonded thereto",
+  :status :granted,
+  :id "US3639558",
+  :sourcing :authoritative,
+  :filing-year 1968,
+  :assignee :unassigned,
+  :grant-year 1972,
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:pharmacia],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3645852/en",
+  :title
+  "Method of binding water-soluble proteins and water-soluble peptides to water-insoluble polymers using cyanogen halide",
+  :status :granted,
+  :id "US3645852",
+  :sourcing :authoritative,
+  :filing-year 1970,
+  :assignee :pharmacia,
+  :grant-year 1972,
+  :cites ["GB993961A" "US2882250" "US3167485" "US3278392" "US3507661"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:pharmacia],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3646346/en",
+  :title "Antibody-coated tube system for radioimmunoassay",
+  :status :granted,
+  :id "US3646346",
+  :sourcing :authoritative,
+  :filing-year 1968,
+  :assignee :pharmacia,
+  :grant-year 1972,
+  :cites ["US3372992" "US3380888" "US3451777"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:beckman-instruments],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3649505/en",
+  :title "Ammonia sensor",
+  :status :granted,
+  :id "US3649505",
+  :sourcing :authoritative,
+  :filing-year 1969,
+  :assignee :beckman-instruments,
+  :grant-year 1972,
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:technicon],
   :jurisdiction :us,
   :field "UNKNOWN",
   :source "https://patents.google.com/patent/US3650698/en",
@@ -57,6 +180,20 @@
   :sourcing :authoritative,
   :filing-year 1968,
   :assignee :organon,
+  :grant-year 1972,
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:arthur-d-little],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3656906/en",
+  :title
+  "Method for detecting and quantitating the presence of cannabinoids and analogs thereof in biological materials and resulting products",
+  :status :granted,
+  :id "US3656906",
+  :sourcing :authoritative,
+  :filing-year 1970,
+  :assignee :arthur-d-little,
   :grant-year 1972,
   :term-years 20,
   :open-license :none}
@@ -1175,6 +1312,26 @@
   :grant-year 1974,
   :term-years 20,
   :open-license :none}
+ {:assignees [:bell-telephone-laboratories],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3793088/en",
+  :title "Compatible pnp and npn devices in an integrated circuit",
+  :status :granted,
+  :id "US3793088",
+  :sourcing :authoritative,
+  :filing-year 1972,
+  :assignee :bell-telephone-laboratories,
+  :grant-year 1974,
+  :cites
+  ["US3617824"
+   "US3648130"
+   "US3723199"
+   "US3729811"
+   "US3747203"
+   "US3748545"],
+  :term-years 20,
+  :open-license :none}
  {:assignees [:howson-algraphy],
   :jurisdiction :us,
   :field "UNKNOWN",
@@ -1303,6 +1460,20 @@
   :grant-year 1974,
   :term-years 20,
   :open-license :none}
+ {:assignees [:f-hoffmann-la-roche],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3809782/en",
+  :title "Tubocurarine antigens and antibodies specific therefor",
+  :status :granted,
+  :id "US3809782",
+  :sourcing :authoritative,
+  :filing-year 1972,
+  :assignee :f-hoffmann-la-roche,
+  :grant-year 1974,
+  :cites ["US2388260" "US2957808"],
+  :term-years 20,
+  :open-license :none}
  {:assignees [:rhone-poulenc],
   :jurisdiction :us,
   :field "UNKNOWN",
@@ -1366,6 +1537,19 @@
   :sourcing :authoritative,
   :filing-year 1971,
   :assignee :filtering-materials,
+  :grant-year 1974,
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:gd-searle],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3817706/en",
+  :title "Fluorescence quantitative thin layer chromatographic method",
+  :status :granted,
+  :id "US3817706",
+  :sourcing :authoritative,
+  :filing-year 1972,
+  :assignee :gd-searle,
   :grant-year 1974,
   :term-years 20,
   :open-license :none}
@@ -1823,6 +2007,20 @@
    "US3652761"
    "US3709868"
    "US3720760"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:polymeric-enzymes],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3859169/en",
+  :title "Enzymes entrapped in gels",
+  :status :granted,
+  :id "US3859169",
+  :sourcing :authoritative,
+  :filing-year 1973,
+  :assignee :polymeric-enzymes,
+  :grant-year 1975,
+  :cites ["US3540984" "US3576760" "US3577512"],
   :term-years 20,
   :open-license :none}
  {:assignees [:us-department-of-navy],
@@ -2474,6 +2672,20 @@
   :cites ["US2768906" "US3163968" "US3432333"],
   :term-years 20,
   :open-license :none}
+ {:assignees [:biological-developments],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3901654/en",
+  :title
+  "Receptor assays of biologically active compounds employing biologically specific receptors",
+  :status :granted,
+  :id "US3901654",
+  :sourcing :authoritative,
+  :filing-year 1971,
+  :assignee :biological-developments,
+  :grant-year 1975,
+  :term-years 20,
+  :open-license :none}
  {:assignees [:coulter-electronics],
   :jurisdiction :us,
   :field "UNKNOWN",
@@ -2664,6 +2876,29 @@
   :cites ["US3368872" "US3497320" "US3554700" "US3607090" "US3620678"],
   :term-years 20,
   :open-license :none}
+ {:assignees [:international-business-machines],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3920483/en",
+  :title "Method of ion implantation through a photoresist mask",
+  :status :granted,
+  :id "US3920483",
+  :sourcing :authoritative,
+  :filing-year 1974,
+  :assignee :international-business-machines,
+  :grant-year 1975,
+  :cites
+  ["US3113896"
+   "US3410776"
+   "US3570112"
+   "US3575745"
+   "US3615956"
+   "US3653977"
+   "US3663265"
+   "US3771948"
+   "US3793088"],
+  :term-years 20,
+  :open-license :none}
  {:assignees [:technicon-instruments],
   :jurisdiction :us,
   :field "UNKNOWN",
@@ -2684,6 +2919,21 @@
    "US3275834"
    "US3492396"
    "US3794467"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:texas-instruments],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3925105/en",
+  :title
+  "Process for fabricating integrated circuits utilizing ion implantation",
+  :status :granted,
+  :id "US3925105",
+  :sourcing :authoritative,
+  :filing-year 1974,
+  :assignee :texas-instruments,
+  :grant-year 1975,
+  :cites ["US3602781" "US3756861" "US3793088" "US3853634"],
   :term-years 20,
   :open-license :none}
  {:jurisdiction :us,
@@ -2718,6 +2968,35 @@
   :assignee :f-hoffmann-la-roche,
   :grant-year 1975,
   :cites ["US3663684" "US3697638" "US3718737" "US3735001" "US3812245"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:signetics],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3928081/en",
+  :title
+  "Method for fabricating semiconductor devices using composite mask and ion implantation",
+  :status :granted,
+  :id "US3928081",
+  :sourcing :authoritative,
+  :filing-year 1973,
+  :assignee :signetics,
+  :grant-year 1975,
+  :cites ["US3791885"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:texas-instruments],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3928082/en",
+  :title "Self-aligned transistor process",
+  :status :granted,
+  :id "US3928082",
+  :sourcing :authoritative,
+  :filing-year 1973,
+  :assignee :texas-instruments,
+  :grant-year 1975,
+  :cites ["US3533857" "US3756861" "US3793088"],
   :term-years 20,
   :open-license :none}
  {:assignees [:rca],
@@ -2824,6 +3103,21 @@
   :assignee :national-research-development-uk,
   :grant-year 1976,
   :cites ["US3695848" "US3699803"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:texas-instruments],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3933528/en",
+  :title
+  "Process for fabricating integrated circuits utilizing ion implantation",
+  :status :granted,
+  :id "US3933528",
+  :sourcing :authoritative,
+  :filing-year 1974,
+  :assignee :texas-instruments,
+  :grant-year 1976,
+  :cites ["US3756861" "US3793088"],
   :term-years 20,
   :open-license :none}
  {:assignees [:corning-glass-works],
@@ -9126,368 +9420,5 @@
   :assignee :molecular-diagnostics,
   :grant-year 1987,
   :cites ["EP0131830A1" "US4542102" "US4582789" "US4592998"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:fuji-photo-film],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US4720786/en",
-  :title
-  "Method of compensating for offset distortion in rows of electrophoretic patterns",
-  :status :granted,
-  :id "US4720786",
-  :sourcing :authoritative,
-  :filing-year 1986,
-  :assignee :fuji-photo-film,
-  :grant-year 1988,
-  :cites ["EP0113672A2" "EP0141382A2" "EP0157280A2" "WO1986005817A1"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:bio-metric-systems],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US4722906/en",
-  :title "Binding reagents and methods",
-  :status :granted,
-  :id "US4722906",
-  :sourcing :authoritative,
-  :filing-year 1982,
-  :assignee :bio-metric-systems,
-  :grant-year 1988,
-  :cites ["US3959078" "US4007089" "US4434150"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:boston-university :university-of-colorado-foundation],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US4728591/en",
-  :title
-  "Self-assembled nanometer lithographic masks and templates and method for parallel fabrication of nanometer scale multi-device structures",
-  :status :granted,
-  :id "US4728591",
-  :sourcing :authoritative,
-  :filing-year 1986,
-  :assignee :boston-university,
-  :grant-year 1988,
-  :cites ["US4103064" "US4103073" "US4170512" "US4254174"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:ppg-industries],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US4732790/en",
-  :title
-  "Color plus clear application of thermosetting high solids coating composition of hydroxy-functional epoxies and anhydrides",
-  :status :granted,
-  :id "US4732790",
-  :sourcing :authoritative,
-  :filing-year 1986,
-  :assignee :ppg-industries,
-  :grant-year 1988,
-  :cites
-  ["GB994907A"
-   "US2683131"
-   "US2712535"
-   "US2857354"
-   "US2890194"
-   "US2890210"
-   "US3008914"
-   "US3179714"
-   "US3215756"
-   "US3218274"
-   "US3269975"
-   "US3408215"
-   "US3523143"
-   "US3528935"
-   "US3781380"
-   "US3785635"
-   "US3787521"
-   "US3925507"
-   "US3932367"
-   "US3953644"
-   "US3954712"
-   "US3975314"
-   "US4046727"
-   "US4076676"
-   "US4102942"
-   "US4220679"
-   "US4226755"
-   "US4291137"
-   "US4322456"
-   "US4346144"
-   "US4350790"
-   "US4352842"
-   "US4359554"
-   "US4403003"
-   "US4403093"
-   "US4418182"
-   "US4452948"
-   "US4465815"
-   "US4471025"
-   "US4481239"
-   "US4508767"
-   "US4548963"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:ppg-industries],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US4732791/en",
-  :title
-  "Color plus clear application of thermosetting high solids coating composition of epoxies, polyols and anhydrides",
-  :status :granted,
-  :id "US4732791",
-  :sourcing :authoritative,
-  :filing-year 1986,
-  :assignee :ppg-industries,
-  :grant-year 1988,
-  :cites
-  ["GB994907A"
-   "US2683131"
-   "US2712535"
-   "US2857354"
-   "US2890194"
-   "US2890210"
-   "US3008914"
-   "US3179714"
-   "US3215756"
-   "US3218274"
-   "US3269975"
-   "US3408215"
-   "US3523143"
-   "US3528935"
-   "US3781380"
-   "US3785635"
-   "US3787521"
-   "US3925507"
-   "US3932367"
-   "US3953644"
-   "US3954712"
-   "US3975314"
-   "US4046727"
-   "US4076676"
-   "US4102942"
-   "US4220679"
-   "US4226755"
-   "US4291137"
-   "US4322456"
-   "US4346144"
-   "US4350790"
-   "US4352842"
-   "US4359554"
-   "US4403003"
-   "US4403093"
-   "US4418182"
-   "US4452948"
-   "US4465815"
-   "US4471025"
-   "US4481239"
-   "US4508767"
-   "US4548963"
-   "WO1984000768A1"
-   "WO1984000770A1"
-   "WO1984000771A1"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:molecular-diagnostics],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US4737454/en",
-  :title
-  "Fast photochemical method of labelling nucleic acids for detection purposes in hybridization assays",
-  :status :granted,
-  :id "US4737454",
-  :sourcing :authoritative,
-  :filing-year 1984,
-  :assignee :molecular-diagnostics,
-  :grant-year 1988,
-  :cites
-  ["EP0156287A2"
-   "GB2019408A"
-   "US4218539"
-   "US4358535"
-   "US4486539"
-   "US4582789"
-   "US4617261"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:genetic-systems],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US4749647/en",
-  :title
-  "Polymerization-induced separation assay using recognition pairs",
-  :status :granted,
-  :id "US4749647",
-  :sourcing :authoritative,
-  :filing-year 1984,
-  :assignee :genetic-systems,
-  :grant-year 1988,
-  :cites
-  ["EP0044988A2"
-   "US3969287"
-   "US4292296"
-   "US4373071"
-   "US4469796"
-   "US4474892"
-   "US4486539"
-   "US4506009"
-   "US4511478"
-   "US4522922"
-   "US4530900"
-   "US4609707"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:amgen],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US4751177/en",
-  :title
-  "Methods and kits for performing nucleic acid hybridization assays",
-  :status :granted,
-  :id "US4751177",
-  :sourcing :authoritative,
-  :filing-year 1985,
-  :assignee :amgen,
-  :grant-year 1988,
-  :cites
-  ["EP0062286A1"
-   "EP0130515A2"
-   "EP0153873A2"
-   "US4358535"
-   "US4415732"
-   "US4486539"
-   "US4522922"
-   "WO1984003520A1"
-   "WO1985004674A1"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:kansai-paint],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US4759961/en",
-  :title
-  "Coating method with crosslinked coatings from two coat-one bake systems",
-  :status :granted,
-  :id "US4759961",
-  :sourcing :authoritative,
-  :filing-year 1987,
-  :assignee :kansai-paint,
-  :grant-year 1988,
-  :cites
-  ["US3619398"
-   "US3676383"
-   "US3998716"
-   "US4315959"
-   "US4382114"
-   "US4463038"
-   "US4514445"
-   "US4529632"
-   "US4533703"
-   "US4536558"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:kansai-paint],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US4761212/en",
-  :title "Multiple coating method",
-  :status :granted,
-  :id "US4761212",
-  :sourcing :authoritative,
-  :filing-year 1986,
-  :assignee :kansai-paint,
-  :grant-year 1988,
-  :cites
-  ["US3619398"
-   "US3676383"
-   "US3998716"
-   "US4375498"
-   "US4463038"
-   "US4529632"
-   "US4536558"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:uniroyal-plastics],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US4762880/en",
-  :title "Water-based thermoforming adhesives",
-  :status :granted,
-  :id "US4762880",
-  :sourcing :authoritative,
-  :filing-year 1987,
-  :assignee :uniroyal-plastics,
-  :grant-year 1988,
-  :cites
-  ["US3948708"
-   "US4084996"
-   "US4225372"
-   "US4465534"
-   "US4465537"
-   "US4507413"
-   "US4526828"
-   "US4543144"
-   "US4643785"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:allied :genetics-institute],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US4766062/en",
-  :title
-  "Displacement polynucleotide assay method and polynucleotide complex reagent therefor",
-  :status :granted,
-  :id "US4766062",
-  :sourcing :authoritative,
-  :filing-year 1984,
-  :assignee :allied,
-  :grant-year 1988,
-  :cites
-  ["EP0063879A2"
-   "EP0070687B1"
-   "EP0097373B1"
-   "EP0124221A1"
-   "EP0127327A1"
-   "EP0133288A2"
-   "EP0139489A2"
-   "GB2125964A"
-   "US4205952"
-   "US4358535"
-   "US4388295"
-   "US4395486"
-   "US4434236"
-   "US4486539"
-   "US4568649"
-   "US4629689"
-   "WO1983001459A1"
-   "WO1983002277A1"
-   "WO1984002721A1"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:carnegie-mellon-university],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US4767708/en",
-  :title "Enzyme amplification and purification",
-  :status :granted,
-  :id "US4767708",
-  :sourcing :authoritative,
-  :filing-year 1984,
-  :assignee :carnegie-mellon-university,
-  :grant-year 1988,
-  :term-years 20,
-  :open-license :none}
- {:jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US4770992/en",
-  :title "Detection of specific DNA sequences by flow cytometry",
-  :status :granted,
-  :id "US4770992",
-  :sourcing :authoritative,
-  :filing-year 1985,
-  :assignee :unassigned,
-  :grant-year 1988,
-  :cites ["US4585736"],
   :term-years 20,
   :open-license :none}]

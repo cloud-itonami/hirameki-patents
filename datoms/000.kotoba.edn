@@ -376,6 +376,43 @@
   ":hirameki/source"
   "https://patents.google.com/patent/CA536441A/en"]
  [":db/add"
+  "hirameki-patent:CA659059A"
+  ":hirameki.patent/title"
+  "Shaped structures for biological processes"]
+ [":db/add"
+  "hirameki-patent:CA659059A"
+  ":hirameki.patent/jurisdiction"
+  ":ca"]
+ [":db/add"
+  "hirameki-patent:CA659059A"
+  ":hirameki.patent/field"
+  "UNKNOWN"]
+ [":db/add"
+  "hirameki-patent:CA659059A"
+  ":hirameki.patent/assignee"
+  ":deutsche-gold-und-silber-scheideanstalt"]
+ [":db/add"
+  "hirameki-patent:CA659059A"
+  ":hirameki.patent/status"
+  ":granted"]
+ [":db/add"
+  "hirameki-patent:CA659059A"
+  ":hirameki.patent/open-license"
+  ":none"]
+ [":db/add"
+  "hirameki-patent:CA659059A"
+  ":hirameki.obs/release-status"
+  ":in-force"]
+ [":db/add"
+  "hirameki-patent:CA659059A"
+  ":hirameki/sourcing"
+  ":authoritative"]
+ [":db/add" "hirameki-patent:CA659059A" ":hirameki/derived" true]
+ [":db/add"
+  "hirameki-patent:CA659059A"
+  ":hirameki/source"
+  "https://patents.google.com/patent/CA659059A/en"]
+ [":db/add"
   "hirameki-patent:CA703413A"
   ":hirameki.patent/title"
   "Food packaging article"]
@@ -9954,41 +9991,4 @@
  [":db/add"
   "hirameki-patent:JP2001205175A"
   ":hirameki.patent/open-license"
-  ":none"]
- [":db/add"
-  "hirameki-patent:JP2001205175A"
-  ":hirameki.obs/release-status"
-  ":pending"]
- [":db/add"
-  "hirameki-patent:JP2001205175A"
-  ":hirameki/sourcing"
-  ":authoritative"]
- [":db/add" "hirameki-patent:JP2001205175A" ":hirameki/derived" true]
- [":db/add"
-  "hirameki-patent:JP2001205175A"
-  ":hirameki.obs/years-to-expiry"
-  -6]
- [":db/add"
-  "hirameki-patent:JP2001205175A"
-  ":hirameki/source"
-  "https://patents.google.com/patent/JP2001205175A/en"]
- [":db/add"
-  "hirameki-patent:JP2001220409A"
-  ":hirameki.patent/title"
-  "Synthetic resin emulsion composition and method for producing the same"]
- [":db/add"
-  "hirameki-patent:JP2001220409A"
-  ":hirameki.patent/jurisdiction"
-  ":jp"]
- [":db/add"
-  "hirameki-patent:JP2001220409A"
-  ":hirameki.patent/field"
-  "UNKNOWN"]
- [":db/add"
-  "hirameki-patent:JP2001220409A"
-  ":hirameki.patent/assignee"
-  ":unitika-chemical"]
- [":db/add"
-  "hirameki-patent:JP2001220409A"
-  ":hirameki.patent/status"
-  ":pending"]]
+  ":none"]]

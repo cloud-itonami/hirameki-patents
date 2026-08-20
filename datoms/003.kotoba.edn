@@ -1,4 +1,45 @@
 [[":db/add"
+  "hirameki-patent:US2734889"
+  ":hirameki.patent/field"
+  "UNKNOWN"]
+ [":db/add"
+  "hirameki-patent:US2734889"
+  ":hirameki.patent/assignee"
+  ":unassigned"]
+ [":db/add"
+  "hirameki-patent:US2734889"
+  ":hirameki.patent/status"
+  ":granted"]
+ [":db/add"
+  "hirameki-patent:US2734889"
+  ":hirameki.patent/open-license"
+  ":none"]
+ [":db/add"
+  "hirameki-patent:US2734889"
+  ":hirameki.obs/release-status"
+  ":public-domain"]
+ [":db/add"
+  "hirameki-patent:US2734889"
+  ":hirameki/sourcing"
+  ":authoritative"]
+ [":db/add" "hirameki-patent:US2734889" ":hirameki/derived" true]
+ [":db/add"
+  "hirameki-patent:US2734889"
+  ":hirameki.obs/years-to-expiry"
+  -52]
+ [":db/add"
+  "hirameki-patent:US2734889"
+  ":hirameki/source"
+  "https://patents.google.com/patent/US2734889/en"]
+ [":db/add"
+  "hirameki-patent:US2737465"
+  ":hirameki.patent/title"
+  "Synthetic resin enamel stripping compositions"]
+ [":db/add"
+  "hirameki-patent:US2737465"
+  ":hirameki.patent/jurisdiction"
+  ":us"]
+ [":db/add"
   "hirameki-patent:US2737465"
   ":hirameki.patent/field"
   "UNKNOWN"]
@@ -1753,6 +1794,47 @@
   "hirameki-patent:US2804441"
   ":hirameki/source"
   "https://patents.google.com/patent/US2804441/en"]
+ [":db/add"
+  "hirameki-patent:US2805191"
+  ":hirameki.patent/title"
+  "Oxygen analysis of gases"]
+ [":db/add"
+  "hirameki-patent:US2805191"
+  ":hirameki.patent/jurisdiction"
+  ":us"]
+ [":db/add"
+  "hirameki-patent:US2805191"
+  ":hirameki.patent/field"
+  "UNKNOWN"]
+ [":db/add"
+  "hirameki-patent:US2805191"
+  ":hirameki.patent/assignee"
+  ":international-nickel"]
+ [":db/add"
+  "hirameki-patent:US2805191"
+  ":hirameki.patent/status"
+  ":granted"]
+ [":db/add"
+  "hirameki-patent:US2805191"
+  ":hirameki.patent/open-license"
+  ":none"]
+ [":db/add"
+  "hirameki-patent:US2805191"
+  ":hirameki.obs/release-status"
+  ":public-domain"]
+ [":db/add"
+  "hirameki-patent:US2805191"
+  ":hirameki/sourcing"
+  ":authoritative"]
+ [":db/add" "hirameki-patent:US2805191" ":hirameki/derived" true]
+ [":db/add"
+  "hirameki-patent:US2805191"
+  ":hirameki.obs/years-to-expiry"
+  -52]
+ [":db/add"
+  "hirameki-patent:US2805191"
+  ":hirameki/source"
+  "https://patents.google.com/patent/US2805191/en"]
  [":db/add"
   "hirameki-patent:US2808352"
   ":hirameki.patent/title"
@@ -10194,86 +10276,4 @@
  [":db/add"
   "hirameki-patent:US3202840"
   ":hirameki.patent/assignee"
-  ":rca"]
- [":db/add"
-  "hirameki-patent:US3202840"
-  ":hirameki.patent/status"
-  ":granted"]
- [":db/add"
-  "hirameki-patent:US3202840"
-  ":hirameki.patent/open-license"
-  ":none"]
- [":db/add"
-  "hirameki-patent:US3202840"
-  ":hirameki.obs/release-status"
-  ":public-domain"]
- [":db/add"
-  "hirameki-patent:US3202840"
-  ":hirameki/sourcing"
-  ":authoritative"]
- [":db/add" "hirameki-patent:US3202840" ":hirameki/derived" true]
- [":db/add"
-  "hirameki-patent:US3202840"
-  ":hirameki.obs/years-to-expiry"
-  -43]
- [":db/add"
-  "hirameki-patent:US3202840"
-  ":hirameki/source"
-  "https://patents.google.com/patent/US3202840/en"]
- [":db/add"
-  "hirameki-patent:US3203916"
-  ":hirameki.patent/title"
-  "Masterbatches made from polymer solutions and carbon black pelleted with oleaginous materials"]
- [":db/add"
-  "hirameki-patent:US3203916"
-  ":hirameki.patent/jurisdiction"
-  ":us"]
- [":db/add"
-  "hirameki-patent:US3203916"
-  ":hirameki.patent/field"
-  "UNKNOWN"]
- [":db/add"
-  "hirameki-patent:US3203916"
-  ":hirameki.patent/assignee"
-  ":jm-huber"]
- [":db/add"
-  "hirameki-patent:US3203916"
-  ":hirameki.patent/status"
-  ":granted"]
- [":db/add"
-  "hirameki-patent:US3203916"
-  ":hirameki.patent/open-license"
-  ":none"]
- [":db/add"
-  "hirameki-patent:US3203916"
-  ":hirameki.obs/release-status"
-  ":public-domain"]
- [":db/add"
-  "hirameki-patent:US3203916"
-  ":hirameki/sourcing"
-  ":authoritative"]
- [":db/add" "hirameki-patent:US3203916" ":hirameki/derived" true]
- [":db/add"
-  "hirameki-patent:US3203916"
-  ":hirameki.obs/years-to-expiry"
-  -43]
- [":db/add"
-  "hirameki-patent:US3203916"
-  ":hirameki/source"
-  "https://patents.google.com/patent/US3203916/en"]
- [":db/add"
-  "hirameki-patent:US3204760"
-  ":hirameki.patent/title"
-  "Packages"]
- [":db/add"
-  "hirameki-patent:US3204760"
-  ":hirameki.patent/jurisdiction"
-  ":us"]
- [":db/add"
-  "hirameki-patent:US3204760"
-  ":hirameki.patent/field"
-  "UNKNOWN"]
- [":db/add"
-  "hirameki-patent:US3204760"
-  ":hirameki.patent/assignee"
-  ":poly-pak-of-america"]]
+  ":rca"]]

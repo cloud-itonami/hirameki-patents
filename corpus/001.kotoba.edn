@@ -1,4 +1,18 @@
-[{:assignees [:rohm-and-haas],
+[{:assignees [:bendix-aviation],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2508588/en",
+  :title "Protective apparatus",
+  :status :granted,
+  :id "US2508588",
+  :sourcing :authoritative,
+  :filing-year 1947,
+  :assignee :bendix-aviation,
+  :grant-year 1950,
+  :cites ["US1888984" "US970122"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:rohm-and-haas],
   :jurisdiction :us,
   :field "UNKNOWN",
   :source "https://patents.google.com/patent/US2509183/en",
@@ -2546,6 +2560,20 @@
    "US2582961"
    "US2645625"
    "US2684346"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:international-nickel],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2805191/en",
+  :title "Oxygen analysis of gases",
+  :status :granted,
+  :id "US2805191",
+  :sourcing :authoritative,
+  :filing-year 1954,
+  :assignee :international-nickel,
+  :grant-year 1957,
+  :cites ["US2069562" "US2430895" "US2508238" "US2651612"],
   :term-years 20,
   :open-license :none}
  {:assignees [:burgess-battery],
@@ -6385,6 +6413,26 @@
    "US3100556"],
   :term-years 20,
   :open-license :none}
+ {:assignees [:leeds-and-northrup],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3208926/en",
+  :title "Coulometric systems",
+  :status :granted,
+  :id "US3208926",
+  :sourcing :authoritative,
+  :filing-year 1960,
+  :assignee :leeds-and-northrup,
+  :grant-year 1965,
+  :cites
+  ["GB704552A"
+   "US1954336"
+   "US2621671"
+   "US2741595"
+   "US2851654"
+   "US3032493"],
+  :term-years 20,
+  :open-license :none}
  {:assignees [:sankyo],
   :jurisdiction :us,
   :field "UNKNOWN",
@@ -7180,6 +7228,20 @@
    "US2932300"],
   :term-years 20,
   :open-license :none}
+ {:assignees [:continental-oil],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3294652/en",
+  :title "Measurement of sulfuric acid and oleum concentration",
+  :status :granted,
+  :id "US3294652",
+  :sourcing :authoritative,
+  :filing-year 1963,
+  :assignee :continental-oil,
+  :grant-year 1966,
+  :cites ["US2912367" "US2930967"],
+  :term-years 20,
+  :open-license :none}
  {:assignees [:hewlett-packard],
   :jurisdiction :us,
   :field "UNKNOWN",
@@ -7441,6 +7503,20 @@
   :cites ["US2558857" "US2759825" "US2789054" "US2949382" "US3174859"],
   :term-years 20,
   :open-license :none}
+ {:assignees [:honeywell],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3328277/en",
+  :title "Oxygen sensor with a scavenger electrode",
+  :status :granted,
+  :id "US3328277",
+  :sourcing :authoritative,
+  :filing-year 1964,
+  :assignee :honeywell,
+  :grant-year 1967,
+  :cites ["US2805191" "US3071530" "US3260656" "US3272725"],
+  :term-years 20,
+  :open-license :none}
  {:assignees [:sankyo],
   :jurisdiction :us,
   :field "UNKNOWN",
@@ -7524,6 +7600,30 @@
   :assignee :shell-oil,
   :grant-year 1967,
   :cites ["US3030346" "US3239478"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:abbott-laboratories],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3334039/en",
+  :title "Electrode construction in oxygen sensor",
+  :status :granted,
+  :id "US3334039",
+  :sourcing :authoritative,
+  :filing-year 1964,
+  :assignee :abbott-laboratories,
+  :grant-year 1967,
+  :cites
+  ["US2281594"
+   "US2480557"
+   "US2816739"
+   "US2906801"
+   "US2928782"
+   "US2960455"
+   "US2964941"
+   "US3224436"
+   "US3227643"
+   "US7799793"],
   :term-years 20,
   :open-license :none}
  {:assignees [:warren-sd],
@@ -7748,6 +7848,20 @@
   :filing-year 1965,
   :assignee :ajinomoto,
   :grant-year 1968,
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:atomic-energy-commission-usa],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3367849/en",
+  :title "Amperometric determination of glucose",
+  :status :granted,
+  :id "US3367849",
+  :sourcing :authoritative,
+  :filing-year 1964,
+  :assignee :atomic-energy-commission-usa,
+  :grant-year 1968,
+  :cites ["US3208926"],
   :term-years 20,
   :open-license :none}
  {:assignees [:westinghouse-electric],
@@ -8986,6 +9100,20 @@
    "US3479255"],
   :term-years 20,
   :open-license :none}
+ {:assignees [:trw-semiconductors],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3542551/en",
+  :title "Method of etching patterns into solid state devices",
+  :status :granted,
+  :id "US3542551",
+  :sourcing :authoritative,
+  :filing-year 1968,
+  :assignee :trw-semiconductors,
+  :grant-year 1970,
+  :cites ["US2854336" "US3352726"],
+  :term-years 20,
+  :open-license :none}
  {:assignees [:ei-du-pont-de-nemours-and],
   :jurisdiction :us,
   :field "UNKNOWN",
@@ -9124,6 +9252,19 @@
   :sourcing :authoritative,
   :filing-year 1969,
   :assignee :exxon-production-research,
+  :grant-year 1971,
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:motorola],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3560278/en",
+  :title "Alignment process for fabricating semiconductor devices",
+  :status :granted,
+  :id "US3560278",
+  :sourcing :authoritative,
+  :filing-year 1968,
+  :assignee :motorola,
   :grant-year 1971,
   :term-years 20,
   :open-license :none}
@@ -9593,128 +9734,5 @@
   :assignee :unassigned,
   :grant-year 1971,
   :cites ["GB754087A" "US2533339" "US2666105" "US3479257"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:miles-laboratories],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3635681/en",
-  :title "Differential conductivity-measuring apparatus",
-  :status :granted,
-  :id "US3635681",
-  :sourcing :authoritative,
-  :filing-year 1969,
-  :assignee :miles-laboratories,
-  :grant-year 1972,
-  :cites ["GB1054626A" "US1951035"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:eastman-kodak],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3635853/en",
-  :title
-  "A copolymer latex of polyvinyl acetate and an alkyl ester of an unsaturated carboxylic acid",
-  :status :granted,
-  :id "US3635853",
-  :sourcing :authoritative,
-  :filing-year 1969,
-  :assignee :eastman-kodak,
-  :grant-year 1972,
-  :term-years 20,
-  :open-license :none}
- {:assignees [:nippon-kayaku :osaka-seika-kogyo],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3637672/en",
-  :title "Azole compounds",
-  :status :granted,
-  :id "US3637672",
-  :sourcing :authoritative,
-  :filing-year 1968,
-  :assignee :nippon-kayaku,
-  :grant-year 1972,
-  :term-years 20,
-  :open-license :none}
- {:assignees [:shell-oil],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3639163/en",
-  :title "Block polymer insulation for electric conductors",
-  :status :granted,
-  :id "US3639163",
-  :sourcing :authoritative,
-  :filing-year 1969,
-  :assignee :shell-oil,
-  :grant-year 1972,
-  :cites
-  ["US2458600"
-   "US2761854"
-   "US2813809"
-   "US3030237"
-   "US3251905"
-   "US3333024"
-   "US3401213"
-   "US3427264"
-   "US3433855"
-   "US3441530"
-   "US3476530"
-   "US3493369"
-   "US3515528"],
-  :term-years 20,
-  :open-license :none}
- {:jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3639558/en",
-  :title
-  "Immunological reagent particles having proteinaceous materials covalently bonded thereto",
-  :status :granted,
-  :id "US3639558",
-  :sourcing :authoritative,
-  :filing-year 1968,
-  :assignee :unassigned,
-  :grant-year 1972,
-  :term-years 20,
-  :open-license :none}
- {:assignees [:pharmacia],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3645852/en",
-  :title
-  "Method of binding water-soluble proteins and water-soluble peptides to water-insoluble polymers using cyanogen halide",
-  :status :granted,
-  :id "US3645852",
-  :sourcing :authoritative,
-  :filing-year 1970,
-  :assignee :pharmacia,
-  :grant-year 1972,
-  :cites ["GB993961A" "US2882250" "US3167485" "US3278392" "US3507661"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:pharmacia],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3646346/en",
-  :title "Antibody-coated tube system for radioimmunoassay",
-  :status :granted,
-  :id "US3646346",
-  :sourcing :authoritative,
-  :filing-year 1968,
-  :assignee :pharmacia,
-  :grant-year 1972,
-  :cites ["US3372992" "US3380888" "US3451777"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:beckman-instruments],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3649505/en",
-  :title "Ammonia sensor",
-  :status :granted,
-  :id "US3649505",
-  :sourcing :authoritative,
-  :filing-year 1969,
-  :assignee :beckman-instruments,
-  :grant-year 1972,
   :term-years 20,
   :open-license :none}]

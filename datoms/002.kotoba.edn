@@ -1,4 +1,45 @@
 [[":db/add"
+  "hirameki-patent:US2150217"
+  ":hirameki.obs/release-status"
+  ":public-domain"]
+ [":db/add"
+  "hirameki-patent:US2150217"
+  ":hirameki/sourcing"
+  ":authoritative"]
+ [":db/add" "hirameki-patent:US2150217" ":hirameki/derived" true]
+ [":db/add"
+  "hirameki-patent:US2150217"
+  ":hirameki.obs/years-to-expiry"
+  -68]
+ [":db/add"
+  "hirameki-patent:US2150217"
+  ":hirameki/source"
+  "https://patents.google.com/patent/US2150217/en"]
+ [":db/add"
+  "hirameki-patent:US2156693"
+  ":hirameki.patent/title"
+  "Gas testing"]
+ [":db/add"
+  "hirameki-patent:US2156693"
+  ":hirameki.patent/jurisdiction"
+  ":us"]
+ [":db/add"
+  "hirameki-patent:US2156693"
+  ":hirameki.patent/field"
+  "UNKNOWN"]
+ [":db/add"
+  "hirameki-patent:US2156693"
+  ":hirameki.patent/assignee"
+  ":mine-safety-appliances"]
+ [":db/add"
+  "hirameki-patent:US2156693"
+  ":hirameki.patent/status"
+  ":granted"]
+ [":db/add"
+  "hirameki-patent:US2156693"
+  ":hirameki.patent/open-license"
+  ":none"]
+ [":db/add"
   "hirameki-patent:US2156693"
   ":hirameki.obs/release-status"
   ":public-domain"]
@@ -10330,46 +10371,5 @@
   "Process for the polymerization of form-"]
  [":db/add"
   "hirameki-patent:US2734889"
-  ":hirameki.patent/jurisdiction"
-  ":us"]
- [":db/add"
-  "hirameki-patent:US2734889"
-  ":hirameki.patent/field"
-  "UNKNOWN"]
- [":db/add"
-  "hirameki-patent:US2734889"
-  ":hirameki.patent/assignee"
-  ":unassigned"]
- [":db/add"
-  "hirameki-patent:US2734889"
-  ":hirameki.patent/status"
-  ":granted"]
- [":db/add"
-  "hirameki-patent:US2734889"
-  ":hirameki.patent/open-license"
-  ":none"]
- [":db/add"
-  "hirameki-patent:US2734889"
-  ":hirameki.obs/release-status"
-  ":public-domain"]
- [":db/add"
-  "hirameki-patent:US2734889"
-  ":hirameki/sourcing"
-  ":authoritative"]
- [":db/add" "hirameki-patent:US2734889" ":hirameki/derived" true]
- [":db/add"
-  "hirameki-patent:US2734889"
-  ":hirameki.obs/years-to-expiry"
-  -52]
- [":db/add"
-  "hirameki-patent:US2734889"
-  ":hirameki/source"
-  "https://patents.google.com/patent/US2734889/en"]
- [":db/add"
-  "hirameki-patent:US2737465"
-  ":hirameki.patent/title"
-  "Synthetic resin enamel stripping compositions"]
- [":db/add"
-  "hirameki-patent:US2737465"
   ":hirameki.patent/jurisdiction"
   ":us"]]
