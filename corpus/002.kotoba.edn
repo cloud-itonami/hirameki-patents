@@ -1,4 +1,275 @@
-[{:assignees [:international-business-machines],
+[{:assignees [:xerox],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3526480/en",
+  :title "Automated chemical analyzer",
+  :status :granted,
+  :id "US3526480",
+  :sourcing :authoritative,
+  :filing-year 1966,
+  :assignee :xerox,
+  :grant-year 1970,
+  :cites
+  ["US3036893"
+   "US3036894"
+   "US3232710"
+   "US3260413"
+   "US3266298"
+   "US3368872"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:kyowa-hakko-kogyo],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3534017/en",
+  :title
+  "Process for the preparation of nucleoside-5&#39;-diphosphates and triphosphates and mono- and oligo-nucleotidyl-nucleoside-5&#39;-diphosphates and triphosphates",
+  :status :granted,
+  :id "US3534017",
+  :sourcing :authoritative,
+  :filing-year 1968,
+  :assignee :kyowa-hakko-kogyo,
+  :grant-year 1970,
+  :cites ["US3299043" "US3347846" "US3413282"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:international-business-machines],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3535137/en",
+  :title "Method of fabricating etch resistant masks",
+  :status :granted,
+  :id "US3535137",
+  :sourcing :authoritative,
+  :filing-year 1967,
+  :assignee :international-business-machines,
+  :grant-year 1970,
+  :cites ["US2892712" "US2895891" "US2989492" "US3196008"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:ajinomoto],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3535207/en",
+  :title
+  "Method of converting heterocyclic bases into the corresponding nucleosides by bacterial action",
+  :status :granted,
+  :id "US3535207",
+  :sourcing :authoritative,
+  :filing-year 1969,
+  :assignee :ajinomoto,
+  :grant-year 1970,
+  :cites ["US3111459" "US3135666" "US3258408" "US3269917"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:leland-c-clark-jr],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3539455/en",
+  :title
+  "Membrane polarographic electrode system and method with electrochemical compensation",
+  :status :granted,
+  :id "US3539455",
+  :sourcing :authoritative,
+  :filing-year 1965,
+  :assignee :leland-c-clark-jr,
+  :grant-year 1970,
+  :cites
+  ["US2805191"
+   "US2851654"
+   "US2913386"
+   "US3208926"
+   "US3275534"
+   "US3294652"
+   "US3296113"
+   "US3334039"
+   "US3367849"
+   "US3479255"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:trw-semiconductors],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3542551/en",
+  :title "Method of etching patterns into solid state devices",
+  :status :granted,
+  :id "US3542551",
+  :sourcing :authoritative,
+  :filing-year 1968,
+  :assignee :trw-semiconductors,
+  :grant-year 1970,
+  :cites ["US2854336" "US3352726"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:ei-du-pont-de-nemours-and],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3542662/en",
+  :title "Enzyme electrode",
+  :status :granted,
+  :id "US3542662",
+  :sourcing :authoritative,
+  :filing-year 1967,
+  :assignee :ei-du-pont-de-nemours-and,
+  :grant-year 1970,
+  :cites ["CA659059A" "US3296113" "US3328277"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:bayer],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3546060/en",
+  :title "Fiber-reinforced foam plastic shaped articles",
+  :status :granted,
+  :id "US3546060",
+  :sourcing :authoritative,
+  :filing-year 1967,
+  :assignee :bayer,
+  :grant-year 1970,
+  :cites
+  ["US2763624"
+   "US3025202"
+   "US3050427"
+   "US3223576"
+   "US3340335"
+   "US3382302"
+   "US3483069"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:us-department-of-health-and-human-services],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3549328/en",
+  :title "Test paper for detector of niacin",
+  :status :granted,
+  :id "US3549328",
+  :sourcing :authoritative,
+  :filing-year 1967,
+  :assignee :us-department-of-health-and-human-services,
+  :grant-year 1970,
+  :cites ["US3409405" "US3411887" "US3434801" "US3453180"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:amicon],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3551204/en",
+  :title
+  "Process and composition for recovering electronic devices from encapsulation in potting compounds",
+  :status :granted,
+  :id "US3551204",
+  :sourcing :authoritative,
+  :filing-year 1967,
+  :assignee :amicon,
+  :grant-year 1970,
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:nippon-electric],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3551221/en",
+  :title "Method of manufacturing a semiconductor integrated circuit",
+  :status :granted,
+  :id "US3551221",
+  :sourcing :authoritative,
+  :filing-year 1968,
+  :assignee :nippon-electric,
+  :grant-year 1970,
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:organon],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3551555/en",
+  :title
+  "Coated immunochemical reagent particles and process of preparation",
+  :status :granted,
+  :id "US3551555",
+  :sourcing :authoritative,
+  :filing-year 1966,
+  :assignee :organon,
+  :grant-year 1970,
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:purex],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3553143/en",
+  :title "Ammonium hydroxide containing wax stripper",
+  :status :granted,
+  :id "US3553143",
+  :sourcing :authoritative,
+  :filing-year 1967,
+  :assignee :purex,
+  :grant-year 1971,
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:miles-laboratories],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3553310/en",
+  :title "Immunologically reactive particles",
+  :status :granted,
+  :id "US3553310",
+  :sourcing :authoritative,
+  :filing-year 1967,
+  :assignee :miles-laboratories,
+  :grant-year 1971,
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:pharmacia],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3555143/en",
+  :title "Method for the determination of proteins and polypeptides",
+  :status :granted,
+  :id "US3555143",
+  :sourcing :authoritative,
+  :filing-year 1967,
+  :assignee :pharmacia,
+  :grant-year 1971,
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:westinghouse-electric],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3558280/en",
+  :title "Solid state oxygen gauge",
+  :status :granted,
+  :id "US3558280",
+  :sourcing :authoritative,
+  :filing-year 1968,
+  :assignee :westinghouse-electric,
+  :grant-year 1971,
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:exxon-production-research],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3559736/en",
+  :title "Well completion method",
+  :status :granted,
+  :id "US3559736",
+  :sourcing :authoritative,
+  :filing-year 1969,
+  :assignee :exxon-production-research,
+  :grant-year 1971,
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:motorola],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3560278/en",
+  :title "Alignment process for fabricating semiconductor devices",
+  :status :granted,
+  :id "US3560278",
+  :sourcing :authoritative,
+  :filing-year 1968,
+  :assignee :motorola,
+  :grant-year 1971,
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:international-business-machines],
   :jurisdiction :us,
   :field "UNKNOWN",
   :source "https://patents.google.com/patent/US3560754/en",
@@ -9009,300 +9280,5 @@
    "US4034017"
    "US4205115"
    "US4208495"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:massachusetts-institute-of-technology],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US4535058/en",
-  :title "Characterization of oncogenes and assays based thereon",
-  :status :granted,
-  :id "US4535058",
-  :sourcing :authoritative,
-  :filing-year 1982,
-  :assignee :massachusetts-institute-of-technology,
-  :grant-year 1985,
-  :cites ["US4299815" "US4368262" "US4395486"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:ford-motor],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US4536558/en",
-  :title
-  "Chain extended epoxy-ester polymeric compositions for cationic electrodeposition",
-  :status :granted,
-  :id "US4536558",
-  :sourcing :authoritative,
-  :filing-year 1983,
-  :assignee :ford-motor,
-  :grant-year 1985,
-  :cites
-  ["US3640926"
-   "US3719626"
-   "US3922253"
-   "US3947338"
-   "US4093594"
-   "US4104147"
-   "US4116900"
-   "US4120768"
-   "US4137140"
-   "US4139510"
-   "US4148772"
-   "US4182831"
-   "US4182833"
-   "US4212779"
-   "US4246087"
-   "US4292155"
-   "US4294940"
-   "US4302373"
-   "US4396649"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:yeda-research-and-development],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US4539061/en",
-  :title
-  "Process for the production of built-up films by the stepwise adsorption of individual monolayers",
-  :status :granted,
-  :id "US4539061",
-  :sourcing :authoritative,
-  :filing-year 1983,
-  :assignee :yeda-research-and-development,
-  :grant-year 1985,
-  :cites ["US4337111"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:shionogi-and],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US4539148/en",
-  :title "Production of 1-oxacephams and intermediates",
-  :status :granted,
-  :id "US4539148",
-  :sourcing :authoritative,
-  :filing-year 1983,
-  :assignee :shionogi-and,
-  :grant-year 1985,
-  :term-years 20,
-  :open-license :none}
- {:assignees [:molecular-diagnostics],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US4542102/en",
-  :title
-  "Coupling of nucleic acids to solid support by photochemical methods",
-  :status :granted,
-  :id "US4542102",
-  :sourcing :authoritative,
-  :filing-year 1983,
-  :assignee :molecular-diagnostics,
-  :grant-year 1985,
-  :cites ["US4302204" "US4358535"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:takeda-chemical-industries],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US4546153/en",
-  :title "Method for curing polyurethane compounds",
-  :status :granted,
-  :id "US4546153",
-  :sourcing :authoritative,
-  :filing-year 1984,
-  :assignee :takeda-chemical-industries,
-  :grant-year 1985,
-  :cites
-  ["US3730953"
-   "US3874898"
-   "US4408034"
-   "US4443590"
-   "US4443597"
-   "US4456744"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:cetus],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US4555486/en",
-  :title
-  "Method for using an amino-terminus DNA sequence to synthesize a specific double-stranded DNA",
-  :status :granted,
-  :id "US4555486",
-  :sourcing :authoritative,
-  :filing-year 1983,
-  :assignee :cetus,
-  :grant-year 1985,
-  :cites ["US4401759"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:meiji-seika-kaisha],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US4556513/en",
-  :title
-  "Process for the production of antibiotic 1-oxadethiacephalosporins, and intermediate",
-  :status :granted,
-  :id "US4556513",
-  :sourcing :authoritative,
-  :filing-year 1984,
-  :assignee :meiji-seika-kaisha,
-  :grant-year 1985,
-  :term-years 20,
-  :open-license :none}
- {:assignees [:agracetus],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US4556643/en",
-  :title "Assay method and probe for polynucleotide sequences",
-  :status :granted,
-  :id "US4556643",
-  :sourcing :authoritative,
-  :filing-year 1983,
-  :assignee :agracetus,
-  :grant-year 1985,
-  :cites ["GB2019408A" "US4446237"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:eastman-kodak],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US4557998/en",
-  :title
-  "Colorless ligand-releasing monomers and polymers and their use to provide dyes with metal ions",
-  :status :granted,
-  :id "US4557998",
-  :sourcing :authoritative,
-  :filing-year 1985,
-  :assignee :eastman-kodak,
-  :grant-year 1985,
-  :cites
-  ["GB701843A"
-   "US2449966"
-   "US2533182"
-   "US2633422"
-   "US2697662"
-   "US3451820"
-   "US3515557"
-   "US3926436"
-   "US4142891"
-   "US4340664"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:basf-farben-und-fasern],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US4558090/en",
-  :title
-  "Water-dilutable coating agent for preparing the base layer of a multilayer coating",
-  :status :granted,
-  :id "US4558090",
-  :sourcing :authoritative,
-  :filing-year 1984,
-  :assignee :basf-farben-und-fasern,
-  :grant-year 1985,
-  :cites
-  ["US4092286"
-   "US4132686"
-   "US4254168"
-   "US4321173"
-   "US4375498"
-   "US4382114"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:brown-university-research-foundation],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US4559299/en",
-  :title "Cytotoxicity assays in cell culturing devices",
-  :status :granted,
-  :id "US4559299",
-  :sourcing :authoritative,
-  :filing-year 1983,
-  :assignee :brown-university-research-foundation,
-  :grant-year 1985,
-  :cites
-  ["GB916373A"
-   "US2996426"
-   "US3476514"
-   "US3586859"
-   "US3657537"
-   "US3821087"
-   "US3853712"
-   "US3883393"
-   "US3948732"
-   "US4184922"
-   "US4201845"
-   "US4220725"
-   "US4225229"
-   "US4241187"
-   "US4308351"
-   "US4343782"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:national-research-development-uk],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US4562157/en",
-  :title "Diagnostic device incorporating a biochemical ligand",
-  :status :granted,
-  :id "US4562157",
-  :sourcing :authoritative,
-  :filing-year 1984,
-  :assignee :national-research-development-uk,
-  :grant-year 1985,
-  :cites ["US4072576" "US4238757" "US4314821" "US4444878" "US4444892"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:albert-einstein-college-of-medicine],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US4562159/en",
-  :title "Diagnostic test for hepatitis B virus",
-  :status :granted,
-  :id "US4562159",
-  :sourcing :authoritative,
-  :filing-year 1981,
-  :assignee :albert-einstein-college-of-medicine,
-  :grant-year 1985,
-  :cites
-  ["GB2043323A"
-   "US4034072"
-   "US4038378"
-   "US4139346"
-   "US4237224"
-   "US4241175"
-   "US4302204"
-   "US4358535"
-   "US4379839"
-   "US4393201"
-   "US4395486"
-   "US4396713"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:miles-laboratories],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US4563417/en",
-  :title
-  "Nucleic acid hybridization assay employing antibodies to intercalation complexes",
-  :status :granted,
-  :id "US4563417",
-  :sourcing :authoritative,
-  :filing-year 1984,
-  :assignee :miles-laboratories,
-  :grant-year 1986,
-  :cites
-  ["EP0063879A2"
-   "EP0070865A1"
-   "EP0070867A1"
-   "GB2019408A"
-   "US4257774"
-   "US4358535"
-   "US4423153"
-   "US4493899"
-   "WO1983001459A1"
-   "WO1983002286A1"],
   :term-years 20,
   :open-license :none}]

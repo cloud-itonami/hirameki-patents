@@ -1,4 +1,299 @@
-[{:assignees [:orion],
+[{:assignees [:massachusetts-institute-of-technology],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US4535058/en",
+  :title "Characterization of oncogenes and assays based thereon",
+  :status :granted,
+  :id "US4535058",
+  :sourcing :authoritative,
+  :filing-year 1982,
+  :assignee :massachusetts-institute-of-technology,
+  :grant-year 1985,
+  :cites ["US4299815" "US4368262" "US4395486"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:ford-motor],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US4536558/en",
+  :title
+  "Chain extended epoxy-ester polymeric compositions for cationic electrodeposition",
+  :status :granted,
+  :id "US4536558",
+  :sourcing :authoritative,
+  :filing-year 1983,
+  :assignee :ford-motor,
+  :grant-year 1985,
+  :cites
+  ["US3640926"
+   "US3719626"
+   "US3922253"
+   "US3947338"
+   "US4093594"
+   "US4104147"
+   "US4116900"
+   "US4120768"
+   "US4137140"
+   "US4139510"
+   "US4148772"
+   "US4182831"
+   "US4182833"
+   "US4212779"
+   "US4246087"
+   "US4292155"
+   "US4294940"
+   "US4302373"
+   "US4396649"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:yeda-research-and-development],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US4539061/en",
+  :title
+  "Process for the production of built-up films by the stepwise adsorption of individual monolayers",
+  :status :granted,
+  :id "US4539061",
+  :sourcing :authoritative,
+  :filing-year 1983,
+  :assignee :yeda-research-and-development,
+  :grant-year 1985,
+  :cites ["US4337111"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:shionogi-and],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US4539148/en",
+  :title "Production of 1-oxacephams and intermediates",
+  :status :granted,
+  :id "US4539148",
+  :sourcing :authoritative,
+  :filing-year 1983,
+  :assignee :shionogi-and,
+  :grant-year 1985,
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:molecular-diagnostics],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US4542102/en",
+  :title
+  "Coupling of nucleic acids to solid support by photochemical methods",
+  :status :granted,
+  :id "US4542102",
+  :sourcing :authoritative,
+  :filing-year 1983,
+  :assignee :molecular-diagnostics,
+  :grant-year 1985,
+  :cites ["US4302204" "US4358535"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:takeda-chemical-industries],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US4546153/en",
+  :title "Method for curing polyurethane compounds",
+  :status :granted,
+  :id "US4546153",
+  :sourcing :authoritative,
+  :filing-year 1984,
+  :assignee :takeda-chemical-industries,
+  :grant-year 1985,
+  :cites
+  ["US3730953"
+   "US3874898"
+   "US4408034"
+   "US4443590"
+   "US4443597"
+   "US4456744"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:cetus],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US4555486/en",
+  :title
+  "Method for using an amino-terminus DNA sequence to synthesize a specific double-stranded DNA",
+  :status :granted,
+  :id "US4555486",
+  :sourcing :authoritative,
+  :filing-year 1983,
+  :assignee :cetus,
+  :grant-year 1985,
+  :cites ["US4401759"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:meiji-seika-kaisha],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US4556513/en",
+  :title
+  "Process for the production of antibiotic 1-oxadethiacephalosporins, and intermediate",
+  :status :granted,
+  :id "US4556513",
+  :sourcing :authoritative,
+  :filing-year 1984,
+  :assignee :meiji-seika-kaisha,
+  :grant-year 1985,
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:agracetus],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US4556643/en",
+  :title "Assay method and probe for polynucleotide sequences",
+  :status :granted,
+  :id "US4556643",
+  :sourcing :authoritative,
+  :filing-year 1983,
+  :assignee :agracetus,
+  :grant-year 1985,
+  :cites ["GB2019408A" "US4446237"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:eastman-kodak],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US4557998/en",
+  :title
+  "Colorless ligand-releasing monomers and polymers and their use to provide dyes with metal ions",
+  :status :granted,
+  :id "US4557998",
+  :sourcing :authoritative,
+  :filing-year 1985,
+  :assignee :eastman-kodak,
+  :grant-year 1985,
+  :cites
+  ["GB701843A"
+   "US2449966"
+   "US2533182"
+   "US2633422"
+   "US2697662"
+   "US3451820"
+   "US3515557"
+   "US3926436"
+   "US4142891"
+   "US4340664"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:basf-farben-und-fasern],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US4558090/en",
+  :title
+  "Water-dilutable coating agent for preparing the base layer of a multilayer coating",
+  :status :granted,
+  :id "US4558090",
+  :sourcing :authoritative,
+  :filing-year 1984,
+  :assignee :basf-farben-und-fasern,
+  :grant-year 1985,
+  :cites
+  ["US4092286"
+   "US4132686"
+   "US4254168"
+   "US4321173"
+   "US4375498"
+   "US4382114"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:brown-university-research-foundation],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US4559299/en",
+  :title "Cytotoxicity assays in cell culturing devices",
+  :status :granted,
+  :id "US4559299",
+  :sourcing :authoritative,
+  :filing-year 1983,
+  :assignee :brown-university-research-foundation,
+  :grant-year 1985,
+  :cites
+  ["GB916373A"
+   "US2996426"
+   "US3476514"
+   "US3586859"
+   "US3657537"
+   "US3821087"
+   "US3853712"
+   "US3883393"
+   "US3948732"
+   "US4184922"
+   "US4201845"
+   "US4220725"
+   "US4225229"
+   "US4241187"
+   "US4308351"
+   "US4343782"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:national-research-development-uk],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US4562157/en",
+  :title "Diagnostic device incorporating a biochemical ligand",
+  :status :granted,
+  :id "US4562157",
+  :sourcing :authoritative,
+  :filing-year 1984,
+  :assignee :national-research-development-uk,
+  :grant-year 1985,
+  :cites ["US4072576" "US4238757" "US4314821" "US4444878" "US4444892"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:albert-einstein-college-of-medicine],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US4562159/en",
+  :title "Diagnostic test for hepatitis B virus",
+  :status :granted,
+  :id "US4562159",
+  :sourcing :authoritative,
+  :filing-year 1981,
+  :assignee :albert-einstein-college-of-medicine,
+  :grant-year 1985,
+  :cites
+  ["GB2043323A"
+   "US4034072"
+   "US4038378"
+   "US4139346"
+   "US4237224"
+   "US4241175"
+   "US4302204"
+   "US4358535"
+   "US4379839"
+   "US4393201"
+   "US4395486"
+   "US4396713"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:miles-laboratories],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US4563417/en",
+  :title
+  "Nucleic acid hybridization assay employing antibodies to intercalation complexes",
+  :status :granted,
+  :id "US4563417",
+  :sourcing :authoritative,
+  :filing-year 1984,
+  :assignee :miles-laboratories,
+  :grant-year 1986,
+  :cites
+  ["EP0063879A2"
+   "EP0070865A1"
+   "EP0070867A1"
+   "GB2019408A"
+   "US4257774"
+   "US4358535"
+   "US4423153"
+   "US4493899"
+   "WO1983001459A1"
+   "WO1983002286A1"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:orion],
   :jurisdiction :us,
   :field "UNKNOWN",
   :source "https://patents.google.com/patent/US4563419/en",
