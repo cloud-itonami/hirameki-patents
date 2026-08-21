@@ -5919,6 +5919,40 @@
   "hirameki-patent:FR333561A"
   ":hirameki/source"
   "https://patents.google.com/patent/FR333561A/en"]
+ [":db/add" "hirameki-patent:FR852120A" ":hirameki.patent/title" ""]
+ [":db/add"
+  "hirameki-patent:FR852120A"
+  ":hirameki.patent/jurisdiction"
+  ":fr"]
+ [":db/add"
+  "hirameki-patent:FR852120A"
+  ":hirameki.patent/field"
+  "UNKNOWN"]
+ [":db/add"
+  "hirameki-patent:FR852120A"
+  ":hirameki.patent/assignee"
+  ":unassigned"]
+ [":db/add"
+  "hirameki-patent:FR852120A"
+  ":hirameki.patent/status"
+  ":granted"]
+ [":db/add"
+  "hirameki-patent:FR852120A"
+  ":hirameki.patent/open-license"
+  ":none"]
+ [":db/add"
+  "hirameki-patent:FR852120A"
+  ":hirameki.obs/release-status"
+  ":in-force"]
+ [":db/add"
+  "hirameki-patent:FR852120A"
+  ":hirameki/sourcing"
+  ":authoritative"]
+ [":db/add" "hirameki-patent:FR852120A" ":hirameki/derived" true]
+ [":db/add"
+  "hirameki-patent:FR852120A"
+  ":hirameki/source"
+  "https://patents.google.com/patent/FR852120A/en"]
  [":db/add"
   "hirameki-patent:FR885615A"
   ":hirameki.patent/title"
@@ -9963,41 +9997,4 @@
  [":db/add"
   "hirameki-patent:JP2001139875A"
   ":hirameki.obs/years-to-expiry"
-  -7]
- [":db/add"
-  "hirameki-patent:JP2001139875A"
-  ":hirameki/source"
-  "https://patents.google.com/patent/JP2001139875A/en"]
- [":db/add"
-  "hirameki-patent:JP2001149853A"
-  ":hirameki.patent/title"
-  "Method of forming metallic coating film"]
- [":db/add"
-  "hirameki-patent:JP2001149853A"
-  ":hirameki.patent/jurisdiction"
-  ":jp"]
- [":db/add"
-  "hirameki-patent:JP2001149853A"
-  ":hirameki.patent/field"
-  "UNKNOWN"]
- [":db/add"
-  "hirameki-patent:JP2001149853A"
-  ":hirameki.patent/assignee"
-  ":nippon-paint"]
- [":db/add"
-  "hirameki-patent:JP2001149853A"
-  ":hirameki.patent/status"
-  ":pending"]
- [":db/add"
-  "hirameki-patent:JP2001149853A"
-  ":hirameki.patent/open-license"
-  ":none"]
- [":db/add"
-  "hirameki-patent:JP2001149853A"
-  ":hirameki.obs/release-status"
-  ":pending"]
- [":db/add"
-  "hirameki-patent:JP2001149853A"
-  ":hirameki/sourcing"
-  ":authoritative"]
- [":db/add" "hirameki-patent:JP2001149853A" ":hirameki/derived" true]]
+  -7]]
