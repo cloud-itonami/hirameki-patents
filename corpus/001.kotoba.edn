@@ -1,4 +1,277 @@
-[{:assignees [:buckbee-mears],
+[{:assignees [:continental-can],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2421154/en",
+  :title "Aluminum powder and resin spot facing material",
+  :status :granted,
+  :id "US2421154",
+  :sourcing :authoritative,
+  :filing-year 1943,
+  :assignee :continental-can,
+  :grant-year 1947,
+  :cites
+  ["US1699274"
+   "US1899782"
+   "US2054454"
+   "US2111058"
+   "US2111395"
+   "US2234317"
+   "US2300373"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:philip-carey-manufacturing],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2422345/en",
+  :title "Manufacture of hydraulic cement products",
+  :status :granted,
+  :id "US2422345",
+  :sourcing :authoritative,
+  :filing-year 1940,
+  :assignee :philip-carey-manufacturing,
+  :grant-year 1947,
+  :cites
+  ["FR678640A"
+   "US1039266"
+   "US1039413"
+   "US1140601"
+   "US1143931"
+   "US1463961"
+   "US1544843"
+   "US1687681"
+   "US1799350"
+   "US1804560"
+   "US1819840"
+   "US1829187"
+   "US1880692"
+   "US2018382"
+   "US2177643"
+   "US2184619"
+   "US940449"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:arco],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2423969/en",
+  :title "Dispensing apparatus",
+  :status :granted,
+  :id "US2423969",
+  :sourcing :authoritative,
+  :filing-year 1944,
+  :assignee :arco,
+  :grant-year 1947,
+  :cites
+  ["US1678735"
+   "US1842939"
+   "US2065440"
+   "US2094702"
+   "US2131662"
+   "US2218808"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:ei-du-pont-de-nemours-and],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2426766/en",
+  :title "Stabilization of organic substances",
+  :status :granted,
+  :id "US2426766",
+  :sourcing :authoritative,
+  :filing-year 1941,
+  :assignee :ei-du-pont-de-nemours-and,
+  :grant-year 1947,
+  :cites ["US2249602" "US2282936"],
+  :term-years 20,
+  :open-license :none}
+ {:jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2427790/en",
+  :title "Light beam comparator",
+  :status :granted,
+  :id "US2427790",
+  :sourcing :authoritative,
+  :filing-year 1945,
+  :assignee :unassigned,
+  :grant-year 1947,
+  :cites
+  ["FR548488A"
+   "FR712909A"
+   "US1675967"
+   "US2045124"
+   "US2068301"
+   "US2193437"
+   "US2227881"
+   "US2341810"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:owens-corning-fiberglas],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2428654/en",
+  :title "Reinforced plastic",
+  :status :granted,
+  :id "US2428654",
+  :sourcing :authoritative,
+  :filing-year 1944,
+  :assignee :owens-corning-fiberglas,
+  :grant-year 1947,
+  :cites
+  ["US1726634"
+   "US1759976"
+   "US2053123"
+   "US2176837"
+   "US2217049"
+   "US2230271"
+   "US2261264"
+   "US2311613"
+   "US2314701"
+   "US2328577"
+   "US2344733"
+   "US2351174"
+   "US2354110"
+   "US2377867"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:wingfoot],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2429177/en",
+  :title "Stretching and laminating film",
+  :status :granted,
+  :id "US2429177",
+  :sourcing :authoritative,
+  :filing-year 1940,
+  :assignee :wingfoot,
+  :grant-year 1947,
+  :cites
+  ["GB497788A"
+   "US1126753"
+   "US1784758"
+   "US1894467"
+   "US2047497"
+   "US2074285"
+   "US2109382"
+   "US2123155"
+   "US2256159"
+   "US2259347"
+   "US2273466"
+   "US2335190"
+   "US671213"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:monsanto-chemicals],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2431873/en",
+  :title "Method of coating thermoplastics with silica",
+  :status :granted,
+  :id "US2431873",
+  :sourcing :authoritative,
+  :filing-year 1944,
+  :assignee :monsanto-chemicals,
+  :grant-year 1947,
+  :cites
+  ["GB317936A"
+   "GB466482A"
+   "GB492985A"
+   "GB502978A"
+   "GB505502A"
+   "US2008815"
+   "US2027931"
+   "US2329632"
+   "US2386259"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:american-cyanamid],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2434190/en",
+  :title "Purification of fluids with silvered resins",
+  :status :granted,
+  :id "US2434190",
+  :sourcing :authoritative,
+  :filing-year 1942,
+  :assignee :american-cyanamid,
+  :grant-year 1948,
+  :cites
+  ["GB427199A"
+   "US1642089"
+   "US1978447"
+   "US1988246"
+   "US2008131"
+   "US2066271"
+   "US2198378"
+   "US2251234"
+   "US2285750"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:westfield-river-paper],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2434795/en",
+  :title "Method and machine for laminating",
+  :status :granted,
+  :id "US2434795",
+  :sourcing :authoritative,
+  :filing-year 1944,
+  :assignee :westfield-river-paper,
+  :grant-year 1948,
+  :cites
+  ["US1095757"
+   "US1693934"
+   "US1902713"
+   "US2047372"
+   "US2050382"
+   "US2068893"
+   "US2207073"
+   "US2334485"
+   "US302938"
+   "US318910"
+   "US444821"
+   "US601317"
+   "US695239"
+   "US809375"
+   "US814060"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:joe-a-stone],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2435239/en",
+  :title "Process for removing resin coating from copper wire",
+  :status :granted,
+  :id "US2435239",
+  :sourcing :authoritative,
+  :filing-year 1945,
+  :assignee :joe-a-stone,
+  :grant-year 1948,
+  :cites ["US1813636" "US2318559" "US2360308"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:johns-manville],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2436262/en",
+  :title "Apparatus for measuring turbidity photoelectrically",
+  :status :granted,
+  :id "US2436262",
+  :sourcing :authoritative,
+  :filing-year 1944,
+  :assignee :johns-manville,
+  :grant-year 1948,
+  :cites
+  ["FR852120A"
+   "US1864092"
+   "US1971443"
+   "US2045124"
+   "US2165054"
+   "US2254782"
+   "US2263938"
+   "US2301367"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:buckbee-mears],
   :jurisdiction :us,
   :field "UNKNOWN",
   :source "https://patents.google.com/patent/US2437228/en",
@@ -149,6 +422,21 @@
   :assignee :eastman-kodak,
   :grant-year 1948,
   :cites ["GB503824A" "US2193931" "US2241413" "US2307162"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:eastman-kodak],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2450761/en",
+  :title
+  "Flicker photometers, particularly for measuring the contrast of a lens",
+  :status :granted,
+  :id "US2450761",
+  :sourcing :authoritative,
+  :filing-year 1945,
+  :assignee :eastman-kodak,
+  :grant-year 1948,
+  :cites ["US1987441"],
   :term-years 20,
   :open-license :none}
  {:assignees [:square-d],
@@ -506,6 +794,20 @@
    "US2261977"
    "US2320115"
    "US2365374"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:spreckels-sugar],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2503808/en",
+  :title "Photoelectric automatically balancing polariscope",
+  :status :granted,
+  :id "US2503808",
+  :sourcing :authoritative,
+  :filing-year 1948,
+  :assignee :spreckels-sugar,
+  :grant-year 1950,
+  :cites ["GB540876A" "US2076553" "US2107836" "US2376311" "US2471249"],
   :term-years 20,
   :open-license :none}
  {:assignees [:california-research],
@@ -1339,6 +1641,26 @@
   :assignee :ei-du-pont-de-nemours-and,
   :grant-year 1952,
   :cites ["US2377779" "US2458355" "US2475424" "US2478416"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:jouan],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2613572/en",
+  :title "Apparatus for spectrophotometry",
+  :status :granted,
+  :id "US2613572",
+  :sourcing :authoritative,
+  :filing-year 1951,
+  :assignee :jouan,
+  :grant-year 1952,
+  :cites
+  ["US1746525"
+   "US2342771"
+   "US2408512"
+   "US2411741"
+   "US2427996"
+   "US2499322"],
   :term-years 20,
   :open-license :none}
  {:assignees [:directie-van-de-staatsmijnen-in-limburg],
@@ -9587,281 +9909,5 @@
   :assignee :us-department-of-navy,
   :grant-year 1969,
   :cites ["US2971429" "US3092722" "US3264474"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:ajinomoto],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3450693/en",
-  :title
-  "Method of synthesizing adenosine,2&#39;,3&#39;-o-isopropylidene-adenosine and intermediates thereof",
-  :status :granted,
-  :id "US3450693",
-  :sourcing :authoritative,
-  :filing-year 1968,
-  :assignee :ajinomoto,
-  :grant-year 1969,
-  :cites ["US3332935" "US3337528"],
-  :term-years 20,
-  :open-license :none}
- {:jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3451777/en",
-  :title
-  "Method and apparatus for determining the thyroid hormone content of blood",
-  :status :granted,
-  :id "US3451777",
-  :sourcing :authoritative,
-  :filing-year 1965,
-  :assignee :unassigned,
-  :grant-year 1969,
-  :cites ["US2702034" "US2935194" "US3206602"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:ei-du-pont-de-nemours-and],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3451820/en",
-  :title "Dispersions of lipophilic colorcoupling copolymers",
-  :status :granted,
-  :id "US3451820",
-  :sourcing :authoritative,
-  :filing-year 1965,
-  :assignee :ei-du-pont-de-nemours-and,
-  :grant-year 1969,
-  :cites ["US2801171" "US3163625"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:ajinomoto],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3454559/en",
-  :title "Preparation of guanosine and intermediates obtained thereby",
-  :status :granted,
-  :id "US3454559",
-  :sourcing :authoritative,
-  :filing-year 1968,
-  :assignee :ajinomoto,
-  :grant-year 1969,
-  :cites ["US3116282" "US3332935"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:schlumberger-technology],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3460618/en",
-  :title "Thru-tubing bridge plug",
-  :status :granted,
-  :id "US3460618",
-  :sourcing :authoritative,
-  :filing-year 1967,
-  :assignee :schlumberger-technology,
-  :grant-year 1969,
-  :cites
-  ["US2222750"
-   "US2618344"
-   "US2629446"
-   "US2717644"
-   "US2769498"
-   "US2978029"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:upjohn],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3462416/en",
-  :title "Hydrogenated pyrimidine nucleosides and nucleotides",
-  :status :granted,
-  :id "US3462416",
-  :sourcing :authoritative,
-  :filing-year 1967,
-  :assignee :upjohn,
-  :grant-year 1969,
-  :cites ["US3328388"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:alpana-aluminum-products],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3462884/en",
-  :title "Insulated metal frame and sliding closure",
-  :status :granted,
-  :id "US3462884",
-  :sourcing :authoritative,
-  :filing-year 1968,
-  :assignee :alpana-aluminum-products,
-  :grant-year 1969,
-  :cites ["US2843233" "US2912077" "US2952883" "US3336719"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:union-carbide],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3469147/en",
-  :title "Dielectrically isolated structures and method",
-  :status :granted,
-  :id "US3469147",
-  :sourcing :authoritative,
-  :filing-year 1966,
-  :assignee :union-carbide,
-  :grant-year 1969,
-  :cites ["US3368113" "US3381182"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:pfizer],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3470067/en",
-  :title
-  "Concentration and purification of viruses from particulate magnetic iron oxide-virus complexes",
-  :status :granted,
-  :id "US3470067",
-  :sourcing :authoritative,
-  :filing-year 1967,
-  :assignee :pfizer,
-  :grant-year 1969,
-  :cites
-  ["GB876027A"
-   "GB887339A"
-   "US2125846"
-   "US2351160"
-   "US2461505"
-   "US2642514"
-   "US2749306"
-   "US2999792"
-   "US3078224"
-   "US3139401"
-   "US3197374"
-   "US3256152"
-   "US3351203"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:boehringer-mannheim],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3475408/en",
-  :title "N(6) alkenyl 5-substituted adenosine",
-  :status :granted,
-  :id "US3475408",
-  :sourcing :authoritative,
-  :filing-year 1966,
-  :assignee :boehringer-mannheim,
-  :grant-year 1969,
-  :cites ["US3346560"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:daniel-roth],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3476514/en",
-  :title "Cancer cytoscreening",
-  :status :granted,
-  :id "US3476514",
-  :sourcing :authoritative,
-  :filing-year 1966,
-  :assignee :daniel-roth,
-  :grant-year 1969,
-  :term-years 20,
-  :open-license :none}
- {:assignees [:ralph-j-de-falco],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3477817/en",
-  :title "Diagnostic test for presence of galactose",
-  :status :granted,
-  :id "US3477817",
-  :sourcing :authoritative,
-  :filing-year 1966,
-  :assignee :ralph-j-de-falco,
-  :grant-year 1969,
-  :cites ["US2418033" "US2608533" "US2659700"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:beckman-instruments],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3479255/en",
-  :title "Electrochemical transducer",
-  :status :granted,
-  :id "US3479255",
-  :sourcing :authoritative,
-  :filing-year 1964,
-  :assignee :beckman-instruments,
-  :grant-year 1969,
-  :cites
-  ["US2755243"
-   "US2829090"
-   "US3075887"
-   "US3228799"
-   "US3296113"
-   "US3403081"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:general-electric],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3479257/en",
-  :title
-  "Methods and apparatus for measuring the content of hydrogen or reducing gases in an atmosphere",
-  :status :granted,
-  :id "US3479257",
-  :sourcing :authoritative,
-  :filing-year 1966,
-  :assignee :general-electric,
-  :grant-year 1969,
-  :cites
-  ["US1077920"
-   "US1968570"
-   "US1970804"
-   "US2305539"
-   "US2517382"
-   "US3038849"
-   "US3133872"
-   "US3377697"
-   "US3386894"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:merck-and],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3480613/en",
-  :title
-  "2-c or 3-c-alkylribofuranosyl - 1-substituted compounds and the nucleosides thereof",
-  :status :granted,
-  :id "US3480613",
-  :sourcing :authoritative,
-  :filing-year 1967,
-  :assignee :merck-and,
-  :grant-year 1969,
-  :cites
-  ["US2876230"
-   "US2881164"
-   "US3074929"
-   "US3116282"
-   "US3225029"
-   "US3300478"
-   "US3328389"
-   "US3380996"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:johnson-and-johnson],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3483017/en",
-  :title "Method of unifying bibulous papers",
-  :status :granted,
-  :id "US3483017",
-  :sourcing :authoritative,
-  :filing-year 1966,
-  :assignee :johnson-and-johnson,
-  :grant-year 1969,
-  :cites
-  ["US2253922"
-   "US2954868"
-   "US3020169"
-   "US3036927"
-   "US3066043"
-   "US3068117"
-   "US3133825"],
   :term-years 20,
   :open-license :none}]
