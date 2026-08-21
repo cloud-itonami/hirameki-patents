@@ -981,6 +981,26 @@
   :cites ["GB540876A" "US2076553" "US2107836" "US2376311" "US2471249"],
   :term-years 20,
   :open-license :none}
+ {:assignees [:optische-industrie-de-oude-delft],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2504383/en",
+  :title "Reflecting type telescope having a spherical mirror",
+  :status :granted,
+  :id "US2504383",
+  :sourcing :authoritative,
+  :filing-year 1945,
+  :assignee :optische-industrie-de-oude-delft,
+  :grant-year 1950,
+  :cites
+  ["CH190465A"
+   "DE82671C"
+   "GB544694A"
+   "US1060469"
+   "US2153198"
+   "US2403660"],
+  :term-years 20,
+  :open-license :none}
  {:assignees [:california-research],
   :jurisdiction :us,
   :field "UNKNOWN",
@@ -3148,6 +3168,33 @@
    "US2663821"],
   :term-years 20,
   :open-license :none}
+ {:jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2753760/en",
+  :title "Multiple image telescope",
+  :status :granted,
+  :id "US2753760",
+  :sourcing :authoritative,
+  :filing-year 1948,
+  :assignee :unassigned,
+  :grant-year 1956,
+  :cites
+  ["AT49621B"
+   "DE578361C"
+   "DE646440C"
+   "FR37558E"
+   "FR686007A"
+   "GB167443A"
+   "GB190009072A"
+   "US1159731"
+   "US1679661"
+   "US2413286"
+   "US2504383"
+   "US2536866"
+   "US2604932"
+   "US828511"],
+  :term-years 20,
+  :open-license :none}
  {:assignees [:beckman-instruments],
   :jurisdiction :us,
   :field "UNKNOWN",
@@ -3792,6 +3839,20 @@
   :assignee :rohm-and-haas,
   :grant-year 1957,
   :cites ["US2536018" "US2536470" "US2570253"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:servo-of-america],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2798961/en",
+  :title "Total-radiation pyrometer",
+  :status :granted,
+  :id "US2798961",
+  :sourcing :authoritative,
+  :filing-year 1956,
+  :assignee :servo-of-america,
+  :grant-year 1957,
+  :cites ["US2612610" "US2679010"],
   :term-years 20,
   :open-license :none}
  {:assignees [:nat-res-dev],
@@ -6599,6 +6660,19 @@
   :open-license :none}
  {:jurisdiction :us,
   :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3057953/en",
+  :title "Target tracking system",
+  :status :granted,
+  :id "US3057953",
+  :sourcing :authoritative,
+  :filing-year 1960,
+  :assignee :unassigned,
+  :grant-year 1962,
+  :cites ["US2734269" "US2842760" "US2917737" "US2938949"],
+  :term-years 20,
+  :open-license :none}
+ {:jurisdiction :us,
+  :field "UNKNOWN",
   :source "https://patents.google.com/patent/US3058079/en",
   :title "Hygrometer elements",
   :status :granted,
@@ -7000,6 +7074,26 @@
   :grant-year 1963,
   :term-years 20,
   :open-license :none}
+ {:assignees [:shell-oil],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3089382/en",
+  :title "Method and apparatus for analyzing fluids",
+  :status :granted,
+  :id "US3089382",
+  :sourcing :authoritative,
+  :filing-year 1959,
+  :assignee :shell-oil,
+  :grant-year 1963,
+  :cites
+  ["CA466113A"
+   "US1840500"
+   "US2648253"
+   "US2764692"
+   "US2774277"
+   "US2775160"],
+  :term-years 20,
+  :open-license :none}
  {:assignees [:american-instr],
   :jurisdiction :us,
   :field "UNKNOWN",
@@ -7206,6 +7300,20 @@
    "US2951443"
    "US2956874"
    "US2956878"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:harvey-wells],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3114859/en",
+  :title "Tracking error measuring device",
+  :status :granted,
+  :id "US3114859",
+  :sourcing :authoritative,
+  :filing-year 1958,
+  :assignee :harvey-wells,
+  :grant-year 1963,
+  :cites ["US2491684" "US2779817" "US2798115" "US2807750" "US2838602"],
   :term-years 20,
   :open-license :none}
  {:assignees [:general-tire-and-rubber],
@@ -7516,6 +7624,20 @@
   :assignee :upjohn,
   :grant-year 1964,
   :cites ["US2885396"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:optron],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3161725/en",
+  :title "Optical displacement follower",
+  :status :granted,
+  :id "US3161725",
+  :sourcing :authoritative,
+  :filing-year 1961,
+  :assignee :optron,
+  :grant-year 1964,
+  :cites ["US2304755" "US2692945"],
   :term-years 20,
   :open-license :none}
  {:assignees [:owens-illinois-glass],
@@ -8459,6 +8581,21 @@
    "US2876368"
    "US2998550"
    "US837616"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:farrand-optical],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3250174/en",
+  :title
+  "Method and apparatus for comparing radiation in one spectral region with radiation in another spectral region",
+  :status :granted,
+  :id "US3250174",
+  :sourcing :authoritative,
+  :filing-year 1961,
+  :assignee :farrand-optical,
+  :grant-year 1966,
+  :cites ["US2517554"],
   :term-years 20,
   :open-license :none}
  {:assignees [:boehringer-mannheim],
@@ -9809,134 +9946,5 @@
    "US2924576"
    "US3060125"
    "US3094491"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:ruth-l-christensen],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3392834/en",
-  :title "Packaged serum treater",
-  :status :granted,
-  :id "US3392834",
-  :sourcing :authoritative,
-  :filing-year 1967,
-  :assignee :ruth-l-christensen,
-  :grant-year 1968,
-  :term-years 20,
-  :open-license :none}
- {:assignees [:notraco-internat],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3394388/en",
-  :title
-  "Container, package or carton for comestibles and non-edible products",
-  :status :granted,
-  :id "US3394388",
-  :sourcing :authoritative,
-  :filing-year 1966,
-  :assignee :notraco-internat,
-  :grant-year 1968,
-  :cites ["US2223240" "US2555380" "US2970736"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:monsanto],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3401213/en",
-  :title
-  "Graft copolymers of diene rubber substrate and hydroxylic polymer superstrate",
-  :status :granted,
-  :id "US3401213",
-  :sourcing :authoritative,
-  :filing-year 1963,
-  :assignee :monsanto,
-  :grant-year 1968,
-  :cites
-  ["US2695834"
-   "US2802808"
-   "US3038890"
-   "US3085074"
-   "US3119785"
-   "US3223655"
-   "US3255276"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:albemarle-paper-manufacturing],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3403045/en",
-  :title "Coated release paper",
-  :status :granted,
-  :id "US3403045",
-  :sourcing :authoritative,
-  :filing-year 1967,
-  :assignee :albemarle-paper-manufacturing,
-  :grant-year 1968,
-  :cites ["US2885074" "US3094432" "US3162543" "US3230289"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:trw],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3403081/en",
-  :title "Bio-chemical sensor and method of using same",
-  :status :granted,
-  :id "US3403081",
-  :sourcing :authoritative,
-  :filing-year 1967,
-  :assignee :trw,
-  :grant-year 1968,
-  :cites ["US2898282" "US2913386" "US3022241" "US3058894"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:amerace],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3411247/en",
-  :title "Refrigerator door frame",
-  :status :granted,
-  :id "US3411247",
-  :sourcing :authoritative,
-  :filing-year 1966,
-  :assignee :amerace,
-  :grant-year 1968,
-  :cites
-  ["US2286890"
-   "US2933779"
-   "US2993242"
-   "US3012642"
-   "US3063524"
-   "US3090083"
-   "US3177989"
-   "US3302354"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:ajinomoto],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3413282/en",
-  :title "Method of preparing 5&#39;-nucleotides",
-  :status :granted,
-  :id "US3413282",
-  :sourcing :authoritative,
-  :filing-year 1966,
-  :assignee :ajinomoto,
-  :grant-year 1968,
-  :cites ["US3201389" "US3282920" "US3288780" "US3290285"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:international-business-machines],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3413464/en",
-  :title
-  "Method for measuring the nucleic acid in biological cells after enhancement in an acidic solution",
-  :status :granted,
-  :id "US3413464",
-  :sourcing :authoritative,
-  :filing-year 1965,
-  :assignee :international-business-machines,
-  :grant-year 1968,
-  :cites ["GB679711A" "US2690093" "US2807416" "US2974227"],
   :term-years 20,
   :open-license :none}]
