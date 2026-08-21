@@ -1,4 +1,299 @@
-[{:assignees [:ei-du-pont-de-nemours-and],
+[{:assignees [:yale-university],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US4394443/en",
+  :title "Method for cloning genes",
+  :status :granted,
+  :id "US4394443",
+  :sourcing :authoritative,
+  :filing-year 1980,
+  :assignee :yale-university,
+  :grant-year 1983,
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:medical-college-of-georgia-research-institute],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US4395486/en",
+  :title "Method for the direct analysis of sickle cell anemia",
+  :status :granted,
+  :id "US4395486",
+  :sourcing :authoritative,
+  :filing-year 1981,
+  :assignee :medical-college-of-georgia-research-institute,
+  :grant-year 1983,
+  :cites ["US4298685"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:university-of-california-berkeley],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US4396713/en",
+  :title
+  "Restriction endonuclease fingerprinting of kinetoplast DNA minicircles",
+  :status :granted,
+  :id "US4396713",
+  :sourcing :authoritative,
+  :filing-year 1980,
+  :assignee :university-of-california-berkeley,
+  :grant-year 1983,
+  :term-years 20,
+  :open-license :none}
+ {:jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US4397955/en",
+  :title "Transfer apparatus for microorganisms",
+  :status :granted,
+  :id "US4397955",
+  :sourcing :authoritative,
+  :filing-year 1981,
+  :assignee :unassigned,
+  :grant-year 1983,
+  :cites
+  ["US3661718"
+   "US3684660"
+   "US3694317"
+   "US3729382"
+   "US3897688"
+   "US3929583"
+   "US4237223"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:beckman-research-institute-of-city-of-hope],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US4401796/en",
+  :title "Solid-phase synthesis of polynucleotides",
+  :status :granted,
+  :id "US4401796",
+  :sourcing :authoritative,
+  :filing-year 1981,
+  :assignee :beckman-research-institute-of-city-of-hope,
+  :grant-year 1983,
+  :cites
+  ["US3985690"
+   "US4037037"
+   "US4043948"
+   "US4066827"
+   "US4217421"
+   "US4276395"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:imperial-chemical-industries],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US4403003/en",
+  :title "Article having basecoat/clearcoat and process for coating",
+  :status :granted,
+  :id "US4403003",
+  :sourcing :authoritative,
+  :filing-year 1981,
+  :assignee :imperial-chemical-industries,
+  :grant-year 1983,
+  :cites
+  ["GB1517834A" "US3953643" "US3953644" "US3967045" "US4220675"],
+  :term-years 20,
+  :open-license :none}
+ {:jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US4404368/en",
+  :title "Lyophilized phosphorylated nucleosides",
+  :status :granted,
+  :id "US4404368",
+  :sourcing :authoritative,
+  :filing-year 1981,
+  :assignee :unassigned,
+  :grant-year 1983,
+  :cites ["US3338882" "US3433782"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:yeda-research-and-development],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US4405771/en",
+  :title
+  "Organometallic polymers, their preparation and compositions containing them",
+  :status :granted,
+  :id "US4405771",
+  :sourcing :authoritative,
+  :filing-year 1981,
+  :assignee :yeda-research-and-development,
+  :grant-year 1983,
+  :cites
+  ["US3166532"
+   "US3370041"
+   "US3503739"
+   "US3516971"
+   "US3810848"
+   "US4172937"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:university-patents],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US4415732/en",
+  :title "Phosphoramidite compounds and processes",
+  :status :granted,
+  :id "US4415732",
+  :sourcing :authoritative,
+  :filing-year 1981,
+  :assignee :university-patents,
+  :grant-year 1983,
+  :cites ["US3534017"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:university-of-delaware],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US4419340/en",
+  :title
+  "Controlled release of anticancer agents from biodegradable polymers",
+  :status :granted,
+  :id "US4419340",
+  :sourcing :authoritative,
+  :filing-year 1980,
+  :assignee :university-of-delaware,
+  :grant-year 1983,
+  :cites ["US3773919" "US3887699" "US3904663" "US3976071" "US3991766"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees
+  [:institut-national-de-la-sante-et-de-la-recherche-medicale-inserm],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US4419444/en",
+  :title
+  "Novel supports carrying side chains, processes for obtaining these supports, process for attaching organic compounds having carbohydrate residues one said supports, products and reagents resulting from said chemical fixation",
+  :status :granted,
+  :id "US4419444",
+  :sourcing :authoritative,
+  :filing-year 1980,
+  :assignee
+  :institut-national-de-la-sante-et-de-la-recherche-medicale-inserm,
+  :grant-year 1983,
+  :cites
+  ["US3553310"
+   "US3947352"
+   "US3956113"
+   "US3970521"
+   "US4177038"
+   "US4217338"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:us-department-of-health-and-human-services],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US4419446/en",
+  :title
+  "Recombinant DNA process utilizing a papilloma virus DNA as a vector",
+  :status :granted,
+  :id "US4419446",
+  :sourcing :authoritative,
+  :filing-year 1980,
+  :assignee :us-department-of-health-and-human-services,
+  :grant-year 1983,
+  :cites ["US4237224"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:inmont],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US4423179/en",
+  :title "Dimer acid based polyurethane coating compositions",
+  :status :granted,
+  :id "US4423179",
+  :sourcing :authoritative,
+  :filing-year 1983,
+  :assignee :inmont,
+  :grant-year 1983,
+  :cites
+  ["US2429219"
+   "US3267080"
+   "US3383343"
+   "US3578612"
+   "US3954899"
+   "US4045431"
+   "US4096102"
+   "US4155889"
+   "US4225645"
+   "US4352924"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:asahi-kasei-kogyo],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US4423185/en",
+  :title "Thermoplastic resinous composition",
+  :status :granted,
+  :id "US4423185",
+  :sourcing :authoritative,
+  :filing-year 1980,
+  :assignee :asahi-kasei-kogyo,
+  :grant-year 1983,
+  :cites
+  ["GB1440030A"
+   "US3271342"
+   "US3426099"
+   "US3646158"
+   "US3658635"
+   "US3833708"
+   "US3970715"
+   "US4223099"
+   "US4238574"
+   "US4284734"
+   "US4287314"],
+  :term-years 20,
+  :open-license :none}
+ {:jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US4423208/en",
+  :title "Affinity gel-adsorbent",
+  :status :granted,
+  :id "US4423208",
+  :sourcing :authoritative,
+  :filing-year 1982,
+  :assignee :unassigned,
+  :grant-year 1983,
+  :cites ["GB805830A"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:ortho-diagnostic-systems],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US4434150/en",
+  :title
+  "Immunological reagents employing polymeric backbone possessing reactive functional groups",
+  :status :granted,
+  :id "US4434150",
+  :sourcing :authoritative,
+  :filing-year 1981,
+  :assignee :ortho-diagnostic-systems,
+  :grant-year 1984,
+  :cites
+  ["CA1107644A"
+   "US3641235"
+   "US3652492"
+   "US3761357"
+   "US3764477"
+   "US3853987"
+   "US3857931"
+   "US3970597"
+   "US3996345"
+   "US4035316"
+   "US4108972"
+   "US4166105"
+   "US4169137"
+   "US4174384"
+   "US4199559"
+   "US4220722"
+   "US4225784"
+   "US4228237"
+   "US4231999"
+   "US4254096"
+   "US4267234"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:ei-du-pont-de-nemours-and],
   :jurisdiction :us,
   :field "UNKNOWN",
   :source "https://patents.google.com/patent/US4434236/en",
