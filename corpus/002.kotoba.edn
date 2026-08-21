@@ -1,4 +1,163 @@
-[{:assignees [:ruth-l-christensen],
+[{:assignees [:scientific-industries],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3368872/en",
+  :title "Automatic chemical analyzer",
+  :status :granted,
+  :id "US3368872",
+  :sourcing :authoritative,
+  :filing-year 1966,
+  :assignee :scientific-industries,
+  :grant-year 1968,
+  :cites ["US3036893" "US3092465" "US3261668"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:monsanto],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3370041/en",
+  :title
+  "Polymerization process employing transition metal compounds as catalysts",
+  :status :granted,
+  :id "US3370041",
+  :sourcing :authoritative,
+  :filing-year 1966,
+  :assignee :monsanto,
+  :grant-year 1968,
+  :cites ["US2734047" "US2887473" "US2924589" "US2972607"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:abbott-laboratories],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3372992/en",
+  :title "Method for determining blood serum iron-binding capacity",
+  :status :granted,
+  :id "US3372992",
+  :sourcing :authoritative,
+  :filing-year 1964,
+  :assignee :abbott-laboratories,
+  :grant-year 1968,
+  :cites ["US3206602"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:general-electric],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3373141/en",
+  :title
+  "Photoconductive copolymers of styrene and acrolein derivatized with aryl amines",
+  :status :granted,
+  :id "US3373141",
+  :sourcing :authoritative,
+  :filing-year 1964,
+  :assignee :general-electric,
+  :grant-year 1968,
+  :cites ["US3163531"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:er-squibb-and-sons],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3380888/en",
+  :title "Test units",
+  :status :granted,
+  :id "US3380888",
+  :sourcing :authoritative,
+  :filing-year 1963,
+  :assignee :er-squibb-and-sons,
+  :grant-year 1968,
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:takeda-chemical-industries],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3380996/en",
+  :title "Method for producing purine nucleosides",
+  :status :granted,
+  :id "US3380996",
+  :sourcing :authoritative,
+  :filing-year 1966,
+  :assignee :takeda-chemical-industries,
+  :grant-year 1968,
+  :cites ["US2482069" "US3225029"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:philco-ford],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3381182/en",
+  :title "Microcircuits having buried conductive layers",
+  :status :granted,
+  :id "US3381182",
+  :sourcing :authoritative,
+  :filing-year 1964,
+  :assignee :philco-ford,
+  :grant-year 1968,
+  :cites
+  ["US3114865"
+   "US3210620"
+   "US3236701"
+   "US3254277"
+   "US3260902"
+   "US3290753"
+   "US3312879"
+   "US3312882"
+   "US3320485"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:inventor-s-group],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3381432/en",
+  :title "Stressed-skin span structure",
+  :status :granted,
+  :id "US3381432",
+  :sourcing :authoritative,
+  :filing-year 1966,
+  :assignee :inventor-s-group,
+  :grant-year 1968,
+  :cites ["US2150217" "US3148230" "US3315424"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:dixie-entpr],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3382983/en",
+  :title "Multi-layered filter apparatus",
+  :status :granted,
+  :id "US3382983",
+  :sourcing :authoritative,
+  :filing-year 1964,
+  :assignee :dixie-entpr,
+  :grant-year 1968,
+  :cites ["US2670328" "US2723761"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:army-usa],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3391084/en",
+  :title
+  "Organic stripper, radiation decontaminant, passivator and rust remover",
+  :status :granted,
+  :id "US3391084",
+  :sourcing :authoritative,
+  :filing-year 1965,
+  :assignee :army-usa,
+  :grant-year 1968,
+  :cites
+  ["US1884164"
+   "US2433517"
+   "US2443173"
+   "US2495728"
+   "US2614992"
+   "US2924576"
+   "US3060125"
+   "US3094491"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:ruth-l-christensen],
   :jurisdiction :us,
   :field "UNKNOWN",
   :source "https://patents.google.com/patent/US3392834/en",
@@ -24,6 +183,37 @@
   :assignee :notraco-internat,
   :grant-year 1968,
   :cites ["US2223240" "US2555380" "US2970736"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:perkin-elmer],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3398285/en",
+  :title
+  "Spectro-radiometer with means for eliminating background noise",
+  :status :granted,
+  :id "US3398285",
+  :sourcing :authoritative,
+  :filing-year 1961,
+  :assignee :perkin-elmer,
+  :grant-year 1968,
+  :cites
+  ["US2219775"
+   "US2474098"
+   "US2483008"
+   "US2674700"
+   "US2702494"
+   "US2817769"
+   "US2948185"
+   "US2952781"
+   "US2961545"
+   "US3010024"
+   "US3011389"
+   "US3012473"
+   "US3025023"
+   "US3035175"
+   "US3039006"
+   "US3143588"],
   :term-years 20,
   :open-license :none}
  {:assignees [:monsanto],
@@ -344,6 +534,20 @@
   :cites ["GB888624A" "US2945020" "US3203916" "US3214407" "US3265765"],
   :term-years 20,
   :open-license :none}
+ {:assignees [:united-states-department-of-the-army],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3443110/en",
+  :title "Scanner having rotating double-sided reflector",
+  :status :granted,
+  :id "US3443110",
+  :sourcing :authoritative,
+  :filing-year 1966,
+  :assignee :united-states-department-of-the-army,
+  :grant-year 1969,
+  :cites ["US2683220"],
+  :term-years 20,
+  :open-license :none}
  {:assignees [:university-of-illinois-at-urbana-champaign],
   :jurisdiction :us,
   :field "UNKNOWN",
@@ -503,6 +707,21 @@
   :assignee :alpana-aluminum-products,
   :grant-year 1969,
   :cites ["US2843233" "US2912077" "US2952883" "US3336719"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:international-business-machines],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3466514/en",
+  :title
+  "Method and apparatus for positioning objects in preselected orientations",
+  :status :granted,
+  :id "US3466514",
+  :sourcing :authoritative,
+  :filing-year 1967,
+  :assignee :international-business-machines,
+  :grant-year 1969,
+  :cites ["US3188879" "US3371256" "US3390315"],
   :term-years 20,
   :open-license :none}
  {:assignees [:union-carbide],
@@ -781,6 +1000,21 @@
    "US3413464"],
   :term-years 20,
   :open-license :none}
+ {:assignees [:kollsman-instrument],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3497696/en",
+  :title
+  "Star tracker assembly using mangin mirror and field scanning device",
+  :status :granted,
+  :id "US3497696",
+  :sourcing :authoritative,
+  :filing-year 1966,
+  :assignee :kollsman-instrument,
+  :grant-year 1970,
+  :cites ["US2997598" "US3206608" "US3326621"],
+  :term-years 20,
+  :open-license :none}
  {:assignees [:haematronics],
   :jurisdiction :us,
   :field "UNKNOWN",
@@ -999,6 +1233,34 @@
   :open-license :none}
  {:jurisdiction :us,
   :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3515877/en",
+  :title "Electro-optical positioner",
+  :status :granted,
+  :id "US3515877",
+  :sourcing :authoritative,
+  :filing-year 1965,
+  :assignee :unassigned,
+  :grant-year 1970,
+  :cites ["US2532063" "US3038369" "US3039002" "US3230308" "US3372266"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:voigtlander],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3516742/en",
+  :title
+  "Method and apparatus for focussing an optical device on an object distant therefrom",
+  :status :granted,
+  :id "US3516742",
+  :sourcing :authoritative,
+  :filing-year 1966,
+  :assignee :voigtlander,
+  :grant-year 1970,
+  :cites ["US2831057" "US3035176" "US3041459"],
+  :term-years 20,
+  :open-license :none}
+ {:jurisdiction :us,
+  :field "UNKNOWN",
   :source "https://patents.google.com/patent/US3516971/en",
   :title
   "Aromatic diamine-aromatic dialdehyde high - molecular - weight schiff - base polymers prepared in a monofunctional schiff-base",
@@ -1042,6 +1304,19 @@
    "US3260413"
    "US3266298"
    "US3368872"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:jos-schneider-optische-werke],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3532045/en",
+  :title "Method of and means for focusing an optical system",
+  :status :granted,
+  :id "US3532045",
+  :sourcing :authoritative,
+  :filing-year 1968,
+  :assignee :jos-schneider-optische-werke,
+  :grant-year 1970,
   :term-years 20,
   :open-license :none}
  {:assignees [:kyowa-hakko-kogyo],
@@ -1138,6 +1413,26 @@
    "US3334039"
    "US3367849"
    "US3479255"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:international-business-machines],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3541338/en",
+  :title "Positioning system",
+  :status :granted,
+  :id "US3541338",
+  :sourcing :authoritative,
+  :filing-year 1967,
+  :assignee :international-business-machines,
+  :grant-year 1970,
+  :cites
+  ["US2998746"
+   "US3107170"
+   "US3324764"
+   "US3354806"
+   "US3358202"
+   "US3403260"],
   :term-years 20,
   :open-license :none}
  {:assignees [:trw-semiconductors],
@@ -2151,6 +2446,20 @@
   :cites ["US3502545" "US3519538"],
   :term-years 20,
   :open-license :none}
+ {:assignees [:national-aeronautics-and-space-administration-nasa],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3670097/en",
+  :title "Stereoscopic television system and apparatus",
+  :status :granted,
+  :id "US3670097",
+  :sourcing :authoritative,
+  :filing-year 1969,
+  :assignee :national-aeronautics-and-space-administration-nasa,
+  :grant-year 1972,
+  :cites ["GB505602A" "US3205303"],
+  :term-years 20,
+  :open-license :none}
  {:assignees [:f-hoffmann-la-roche],
   :jurisdiction :us,
   :field "UNKNOWN",
@@ -2293,6 +2602,33 @@
   :filing-year 1970,
   :assignee :dainippon-screen-manufacturing,
   :grant-year 1972,
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:canon],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3682071/en",
+  :title "Automatic focusing device for cameras",
+  :status :granted,
+  :id "US3682071",
+  :sourcing :authoritative,
+  :filing-year 1970,
+  :assignee :canon,
+  :grant-year 1972,
+  :cites
+  ["US3029348"
+   "US3035176"
+   "US3127463"
+   "US3130305"
+   "US3315153"
+   "US3333105"
+   "US3443502"
+   "US3445665"
+   "US3511155"
+   "US3512888"
+   "US3529528"
+   "US3578975"
+   "US3600099"],
   :term-years 20,
   :open-license :none}
  {:assignees [:biophysics-systems],
@@ -2794,6 +3130,19 @@
   :filing-year 1968,
   :assignee :pharmacia,
   :grant-year 1973,
+  :term-years 20,
+  :open-license :none}
+ {:jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3723003/en",
+  :title "Rangefinder",
+  :status :granted,
+  :id "US3723003",
+  :sourcing :authoritative,
+  :filing-year 1969,
+  :assignee :unassigned,
+  :grant-year 1973,
+  :cites ["CA728860A" "CA790879A" "FR822388A" "US3435744" "US3493769"],
   :term-years 20,
   :open-license :none}
  {:assignees [:us-department-of-navy],
@@ -8862,342 +9211,5 @@
    "US4061141"
    "US4169014"
    "US4178368"],
-  :term-years 20,
-  :open-license :none}
- {:jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US4307189/en",
-  :title
-  "Method for the quantitative determination of terminal deoxynucleotidyl transferase in biological samples",
-  :status :granted,
-  :id "US4307189",
-  :sourcing :authoritative,
-  :filing-year 1980,
-  :assignee :unassigned,
-  :grant-year 1981,
-  :term-years 20,
-  :open-license :none}
- {:assignees [:genentech],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US4310662/en",
-  :title "Nucleosidic phosphorylating agent and methods",
-  :status :granted,
-  :id "US4310662",
-  :sourcing :authoritative,
-  :filing-year 1979,
-  :assignee :genentech,
-  :grant-year 1982,
-  :term-years 20,
-  :open-license :none}
- {:assignees [:american-hospital-supply],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US4311573/en",
-  :title
-  "Process for graft copolymerization of a pre-formed substrate",
-  :status :granted,
-  :id "US4311573",
-  :sourcing :authoritative,
-  :filing-year 1980,
-  :assignee :american-hospital-supply,
-  :grant-year 1982,
-  :cites
-  ["US3008920"
-   "US3070573"
-   "US3107206"
-   "US3453194"
-   "US3700573"
-   "US3959102"
-   "US4099859"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:akzona],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US4313734/en",
-  :title "Metal sol particle immunoassay",
-  :status :granted,
-  :id "US4313734",
-  :sourcing :authoritative,
-  :filing-year 1979,
-  :assignee :akzona,
-  :grant-year 1982,
-  :cites
-  ["US3551555"
-   "US3933997"
-   "US3970518"
-   "US4018886"
-   "US4020151"
-   "US4067959"
-   "US4108972"
-   "US4177253"
-   "US4205952"
-   "US4219335"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:minnesota-mining-and-manufacturing],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US4314821/en",
-  :title "Sandwich immunoassay using piezoelectric oscillator",
-  :status :granted,
-  :id "US4314821",
-  :sourcing :authoritative,
-  :filing-year 1980,
-  :assignee :minnesota-mining-and-manufacturing,
-  :grant-year 1982,
-  :cites ["US4236893"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:trimetal-paint :wyns-bristol-peintures],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US4315959/en",
-  :title
-  "Process for coating mineral, organic or metallic microscopic or macroscopic substrates",
-  :status :granted,
-  :id "US4315959",
-  :sourcing :authoritative,
-  :filing-year 1980,
-  :assignee :trimetal-paint,
-  :grant-year 1982,
-  :cites
-  ["US2943955"
-   "US3560254"
-   "US3878183"
-   "US3905936"
-   "US3993835"
-   "US4241112"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:syva],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US4318846/en",
-  :title
-  "Novel ether substituted fluorescein polyamino acid compounds as fluorescers and quenchers",
-  :status :granted,
-  :id "US4318846",
-  :sourcing :authoritative,
-  :filing-year 1979,
-  :assignee :syva,
-  :grant-year 1982,
-  :cites ["US4174384" "US4220450" "US4220722"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:research],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US4321365/en",
-  :title
-  "Oligonucleotides useful as adaptors in DNA cloning, adapted DNA molecules, and methods of preparing adaptors and adapted molecules",
-  :status :granted,
-  :id "US4321365",
-  :sourcing :authoritative,
-  :filing-year 1977,
-  :assignee :research,
-  :grant-year 1982,
-  :cites ["US4237224"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:kendrew-biosystems-a-of],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US4327073/en",
-  :title
-  "Automated method for quantitative analysis of biological fluids",
-  :status :granted,
-  :id "US4327073",
-  :sourcing :authoritative,
-  :filing-year 1980,
-  :assignee :kendrew-biosystems-a-of,
-  :grant-year 1982,
-  :cites
-  ["US3260413"
-   "US3526480"
-   "US3645852"
-   "US3675488"
-   "US3952091"
-   "US4071315"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:abbott-laboratories],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US4331589/en",
-  :title
-  "Deoxyribonucleic acid synthesis using binding protein extracted from chick embryo fibroblasts",
-  :status :granted,
-  :id "US4331589",
-  :sourcing :authoritative,
-  :filing-year 1981,
-  :assignee :abbott-laboratories,
-  :grant-year 1982,
-  :term-years 20,
-  :open-license :none}
- {:jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US4331647/en",
-  :title
-  "Tumor localization and therapy with labeled antibody fragments specific to tumor-associated markers",
-  :status :granted,
-  :id "US4331647",
-  :sourcing :authoritative,
-  :filing-year 1980,
-  :assignee :unassigned,
-  :grant-year 1982,
-  :cites ["US3927193" "US4036945" "US4146603" "US4234561"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:rca],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US4339528/en",
-  :title "Etching method using a hardened PVA stencil",
-  :status :granted,
-  :id "US4339528",
-  :sourcing :authoritative,
-  :filing-year 1981,
-  :assignee :rca,
-  :grant-year 1982,
-  :cites ["US3415648" "US3589907" "US4061529" "US4208242"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:cm-industries],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US4340535/en",
-  :title
-  "Cytotoxic products formed by covalent bonding of the A chain of ricin with an antibody and the process for their preparation and use",
-  :status :granted,
-  :id "US4340535",
-  :sourcing :authoritative,
-  :filing-year 1979,
-  :assignee :cm-industries,
-  :grant-year 1982,
-  :cites ["US4046722" "US4093607"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:agfa-gevaert],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US4340664/en",
-  :title
-  "Copolymer latex and photographic silver halide materials containing such latex",
-  :status :granted,
-  :id "US4340664",
-  :sourcing :authoritative,
-  :filing-year 1980,
-  :assignee :agfa-gevaert,
-  :grant-year 1982,
-  :cites
-  ["GB1453057A" "US3356686" "US3926436" "US4080211" "US4128427"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:bethesda-research-laboratories],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US4342833/en",
-  :title "Immobilized restriction endonucleases",
-  :status :granted,
-  :id "US4342833",
-  :sourcing :authoritative,
-  :filing-year 1978,
-  :assignee :bethesda-research-laboratories,
-  :grant-year 1982,
-  :cites ["US3909358" "US4013514" "US4039382"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:nippon-kogaku],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US4342905/en",
-  :title "Automatic focusing device of a microscope",
-  :status :granted,
-  :id "US4342905",
-  :sourcing :authoritative,
-  :filing-year 1980,
-  :assignee :nippon-kogaku,
-  :grant-year 1982,
-  :cites ["US3970841" "US4254330" "US4297571"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:us-department-of-health-and-human-services],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US4344438/en",
-  :title "Optical sensor of plasma constituents",
-  :status :granted,
-  :id "US4344438",
-  :sourcing :authoritative,
-  :filing-year 1980,
-  :assignee :us-department-of-health-and-human-services,
-  :grant-year 1982,
-  :cites
-  ["US3123066"
-   "US3638639"
-   "US3785772"
-   "US3787119"
-   "US3837339"
-   "US3939350"
-   "US3992631"],
-  :term-years 20,
-  :open-license :none}
- {:jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US4348376/en",
-  :title
-  "Tumor localization and therapy with labeled anti-CEA antibody",
-  :status :granted,
-  :id "US4348376",
-  :sourcing :authoritative,
-  :filing-year 1980,
-  :assignee :unassigned,
-  :grant-year 1982,
-  :cites ["US3927193" "US4160817" "US4174385" "US4211766"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:teijin],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US4350626/en",
-  :title "Antitumor hybrid and process for the preparation thereof",
-  :status :granted,
-  :id "US4350626",
-  :sourcing :authoritative,
-  :filing-year 1980,
-  :assignee :teijin,
-  :grant-year 1982,
-  :cites
-  ["GB2034324A" "US4160018" "US4160019" "US4174385" "US4201770"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:cetus],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US4351901/en",
-  :title "Method for single nucleotide alteration",
-  :status :granted,
-  :id "US4351901",
-  :sourcing :authoritative,
-  :filing-year 1980,
-  :assignee :cetus,
-  :grant-year 1982,
-  :cites ["US4264731" "US4293652"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:warner-lambert],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US4357311/en",
-  :title "Substrate for immunoassay and means of preparing same",
-  :status :granted,
-  :id "US4357311",
-  :sourcing :authoritative,
-  :filing-year 1980,
-  :assignee :warner-lambert,
-  :grant-year 1982,
-  :cites ["US3619371" "US3824150" "US4007089" "US4119494" "US4229537"],
   :term-years 20,
   :open-license :none}]

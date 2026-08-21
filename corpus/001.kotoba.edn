@@ -1,4 +1,17 @@
-[{:jurisdiction :us,
+[{:assignees [:bell-telephone-laboratories],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2402662/en",
+  :title "Light-sensitive electric device",
+  :status :granted,
+  :id "US2402662",
+  :sourcing :authoritative,
+  :filing-year 1941,
+  :assignee :bell-telephone-laboratories,
+  :grant-year 1946,
+  :term-years 20,
+  :open-license :none}
+ {:jurisdiction :us,
   :field "UNKNOWN",
   :source "https://patents.google.com/patent/US2403631/en",
   :title
@@ -2131,6 +2144,29 @@
    "US2429314"
    "US2506153"
    "US2589302"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:sperry],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2651771/en",
+  :title "Angular motion detector and position indicator",
+  :status :granted,
+  :id "US2651771",
+  :sourcing :authoritative,
+  :filing-year 1949,
+  :assignee :sperry,
+  :grant-year 1953,
+  :cites
+  ["US1931852"
+   "US2167484"
+   "US2227147"
+   "US2309117"
+   "US2358103"
+   "US2402719"
+   "US2420013"
+   "US2420509"
+   "US2503023"],
   :term-years 20,
   :open-license :none}
  {:assignees [:eastman-kodak],
@@ -4402,6 +4438,28 @@
    "US2436262"],
   :term-years 20,
   :open-license :none}
+ {:assignees [:servo-of-america],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2859653/en",
+  :title "Wide-angle prism scanner",
+  :status :granted,
+  :id "US2859653",
+  :sourcing :authoritative,
+  :filing-year 1955,
+  :assignee :servo-of-america,
+  :grant-year 1958,
+  :cites
+  ["GB670960A"
+   "US1697941"
+   "US2408115"
+   "US2465957"
+   "US2490899"
+   "US2506946"
+   "US2597001"
+   "US2779819"],
+  :term-years 20,
+  :open-license :none}
  {:jurisdiction :us,
   :field "UNKNOWN",
   :source "https://patents.google.com/patent/US2865719/en",
@@ -5477,6 +5535,20 @@
    "US2804952"
    "US2818610"
    "US2861659"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:servo-of-america],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2967211/en",
+  :title "Optical scanning mechanism",
+  :status :granted,
+  :id "US2967211",
+  :sourcing :authoritative,
+  :filing-year 1952,
+  :assignee :servo-of-america,
+  :grant-year 1961,
+  :cites ["US1787920" "US2298911" "US2361447" "US2465957" "US2477821"],
   :term-years 20,
   :open-license :none}
  {:assignees [:universal-metal-products],
@@ -7282,6 +7354,20 @@
   :cites ["US2160367" "US2361344" "US2380134" "US2555230" "US2679969"],
   :term-years 20,
   :open-license :none}
+ {:assignees [:hrb-singer],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3109057/en",
+  :title "Stereo scanning unit and system",
+  :status :granted,
+  :id "US3109057",
+  :sourcing :authoritative,
+  :filing-year 1960,
+  :assignee :hrb-singer,
+  :grant-year 1963,
+  :cites ["US1841487" "US2415981" "US2798115" "US2856809" "US2859653"],
+  :term-years 20,
+  :open-license :none}
  {:assignees [:gevaert-photo-producten],
   :jurisdiction :us,
   :field "UNKNOWN",
@@ -7836,6 +7922,21 @@
   :cites ["DE485041C" "US2658310" "US2975553"],
   :term-years 20,
   :open-license :none}
+ {:assignees [:optische-industrie-de-oude-delft],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3173012/en",
+  :title
+  "Telescope system for simultaneously viewing two superposed images of the same objectat different magnifications",
+  :status :granted,
+  :id "US3173012",
+  :sourcing :authoritative,
+  :filing-year 1962,
+  :assignee :optische-industrie-de-oude-delft,
+  :grant-year 1965,
+  :cites ["DE1087366B" "US1966823" "US3054899"],
+  :term-years 20,
+  :open-license :none}
  {:assignees [:gevaert-photo-producten],
   :jurisdiction :us,
   :field "UNKNOWN",
@@ -8254,6 +8355,18 @@
   :cites ["US3112292"],
   :term-years 20,
   :open-license :none}
+ {:jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3219642/en",
+  :title "Infraxred v viewing system",
+  :status :granted,
+  :id "US3219642",
+  :sourcing :authoritative,
+  :assignee :unassigned,
+  :grant-year 1965,
+  :cites ["US2923202" "US2985783" "US3081632" "US3097298" "US3151247"],
+  :term-years 20,
+  :open-license :none}
  {:assignees [:formica],
   :jurisdiction :us,
   :field "UNKNOWN",
@@ -8505,6 +8618,26 @@
    "US3163531"],
   :term-years 20,
   :open-license :none}
+ {:assignees [:barnes-engineering],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3244885/en",
+  :title "High resolution frequency modulated tracker",
+  :status :granted,
+  :id "US3244885",
+  :sourcing :authoritative,
+  :filing-year 1962,
+  :assignee :barnes-engineering,
+  :grant-year 1966,
+  :cites
+  ["US2490052"
+   "US2961545"
+   "US2997539"
+   "US3061730"
+   "US3091690"
+   "US3099748"],
+  :term-years 20,
+  :open-license :none}
  {:assignees [:mct-enterprises],
   :jurisdiction :us,
   :field "UNKNOWN",
@@ -8635,6 +8768,20 @@
    "US3070574"
    "US3140278"
    "US3149182"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:vare-ind],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3251933/en",
+  :title "Three-dimensional television system",
+  :status :granted,
+  :id "US3251933",
+  :sourcing :authoritative,
+  :filing-year 1962,
+  :assignee :vare-ind,
+  :grant-year 1966,
+  :cites ["US1841487" "US2508920" "US2571612" "US2578970" "US2665335"],
   :term-years 20,
   :open-license :none}
  {:assignees [:tung-sol-electric],
@@ -9787,164 +9934,5 @@
   :assignee :westinghouse-electric,
   :grant-year 1968,
   :cites ["US3206647" "US3295031" "US3312871"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:scientific-industries],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3368872/en",
-  :title "Automatic chemical analyzer",
-  :status :granted,
-  :id "US3368872",
-  :sourcing :authoritative,
-  :filing-year 1966,
-  :assignee :scientific-industries,
-  :grant-year 1968,
-  :cites ["US3036893" "US3092465" "US3261668"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:monsanto],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3370041/en",
-  :title
-  "Polymerization process employing transition metal compounds as catalysts",
-  :status :granted,
-  :id "US3370041",
-  :sourcing :authoritative,
-  :filing-year 1966,
-  :assignee :monsanto,
-  :grant-year 1968,
-  :cites ["US2734047" "US2887473" "US2924589" "US2972607"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:abbott-laboratories],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3372992/en",
-  :title "Method for determining blood serum iron-binding capacity",
-  :status :granted,
-  :id "US3372992",
-  :sourcing :authoritative,
-  :filing-year 1964,
-  :assignee :abbott-laboratories,
-  :grant-year 1968,
-  :cites ["US3206602"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:general-electric],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3373141/en",
-  :title
-  "Photoconductive copolymers of styrene and acrolein derivatized with aryl amines",
-  :status :granted,
-  :id "US3373141",
-  :sourcing :authoritative,
-  :filing-year 1964,
-  :assignee :general-electric,
-  :grant-year 1968,
-  :cites ["US3163531"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:er-squibb-and-sons],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3380888/en",
-  :title "Test units",
-  :status :granted,
-  :id "US3380888",
-  :sourcing :authoritative,
-  :filing-year 1963,
-  :assignee :er-squibb-and-sons,
-  :grant-year 1968,
-  :term-years 20,
-  :open-license :none}
- {:assignees [:takeda-chemical-industries],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3380996/en",
-  :title "Method for producing purine nucleosides",
-  :status :granted,
-  :id "US3380996",
-  :sourcing :authoritative,
-  :filing-year 1966,
-  :assignee :takeda-chemical-industries,
-  :grant-year 1968,
-  :cites ["US2482069" "US3225029"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:philco-ford],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3381182/en",
-  :title "Microcircuits having buried conductive layers",
-  :status :granted,
-  :id "US3381182",
-  :sourcing :authoritative,
-  :filing-year 1964,
-  :assignee :philco-ford,
-  :grant-year 1968,
-  :cites
-  ["US3114865"
-   "US3210620"
-   "US3236701"
-   "US3254277"
-   "US3260902"
-   "US3290753"
-   "US3312879"
-   "US3312882"
-   "US3320485"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:inventor-s-group],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3381432/en",
-  :title "Stressed-skin span structure",
-  :status :granted,
-  :id "US3381432",
-  :sourcing :authoritative,
-  :filing-year 1966,
-  :assignee :inventor-s-group,
-  :grant-year 1968,
-  :cites ["US2150217" "US3148230" "US3315424"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:dixie-entpr],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3382983/en",
-  :title "Multi-layered filter apparatus",
-  :status :granted,
-  :id "US3382983",
-  :sourcing :authoritative,
-  :filing-year 1964,
-  :assignee :dixie-entpr,
-  :grant-year 1968,
-  :cites ["US2670328" "US2723761"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:army-usa],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3391084/en",
-  :title
-  "Organic stripper, radiation decontaminant, passivator and rust remover",
-  :status :granted,
-  :id "US3391084",
-  :sourcing :authoritative,
-  :filing-year 1965,
-  :assignee :army-usa,
-  :grant-year 1968,
-  :cites
-  ["US1884164"
-   "US2433517"
-   "US2443173"
-   "US2495728"
-   "US2614992"
-   "US2924576"
-   "US3060125"
-   "US3094491"],
   :term-years 20,
   :open-license :none}]

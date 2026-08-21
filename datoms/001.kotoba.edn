@@ -1,4 +1,45 @@
 [[":db/add"
+  "hirameki-patent:JP2001031893A"
+  ":hirameki.obs/years-to-expiry"
+  -7]
+ [":db/add"
+  "hirameki-patent:JP2001031893A"
+  ":hirameki/source"
+  "https://patents.google.com/patent/JP2001031893A/en"]
+ [":db/add"
+  "hirameki-patent:JP2001038849A"
+  ":hirameki.patent/title"
+  "Decorative sheet"]
+ [":db/add"
+  "hirameki-patent:JP2001038849A"
+  ":hirameki.patent/jurisdiction"
+  ":jp"]
+ [":db/add"
+  "hirameki-patent:JP2001038849A"
+  ":hirameki.patent/field"
+  "UNKNOWN"]
+ [":db/add"
+  "hirameki-patent:JP2001038849A"
+  ":hirameki.patent/assignee"
+  ":dai-nippon-printing"]
+ [":db/add"
+  "hirameki-patent:JP2001038849A"
+  ":hirameki.patent/status"
+  ":pending"]
+ [":db/add"
+  "hirameki-patent:JP2001038849A"
+  ":hirameki.patent/open-license"
+  ":none"]
+ [":db/add"
+  "hirameki-patent:JP2001038849A"
+  ":hirameki.obs/release-status"
+  ":pending"]
+ [":db/add"
+  "hirameki-patent:JP2001038849A"
+  ":hirameki/sourcing"
+  ":authoritative"]
+ [":db/add" "hirameki-patent:JP2001038849A" ":hirameki/derived" true]
+ [":db/add"
   "hirameki-patent:JP2001038849A"
   ":hirameki.obs/years-to-expiry"
   -7]
@@ -9991,49 +10032,4 @@
   "hirameki-patent:US2027296"
   ":hirameki/sourcing"
   ":authoritative"]
- [":db/add" "hirameki-patent:US2027296" ":hirameki/derived" true]
- [":db/add"
-  "hirameki-patent:US2027296"
-  ":hirameki.obs/years-to-expiry"
-  -71]
- [":db/add"
-  "hirameki-patent:US2027296"
-  ":hirameki/source"
-  "https://patents.google.com/patent/US2027296/en"]
- [":db/add"
-  "hirameki-patent:US2027518"
-  ":hirameki.patent/title"
-  "Lubricating oil testing apparatus"]
- [":db/add"
-  "hirameki-patent:US2027518"
-  ":hirameki.patent/jurisdiction"
-  ":us"]
- [":db/add"
-  "hirameki-patent:US2027518"
-  ":hirameki.patent/field"
-  "UNKNOWN"]
- [":db/add"
-  "hirameki-patent:US2027518"
-  ":hirameki.patent/assignee"
-  ":charles-c-broadwater"]
- [":db/add"
-  "hirameki-patent:US2027518"
-  ":hirameki.patent/status"
-  ":granted"]
- [":db/add"
-  "hirameki-patent:US2027518"
-  ":hirameki.patent/open-license"
-  ":none"]
- [":db/add"
-  "hirameki-patent:US2027518"
-  ":hirameki.obs/release-status"
-  ":public-domain"]
- [":db/add"
-  "hirameki-patent:US2027518"
-  ":hirameki/sourcing"
-  ":authoritative"]
- [":db/add" "hirameki-patent:US2027518" ":hirameki/derived" true]
- [":db/add"
-  "hirameki-patent:US2027518"
-  ":hirameki.obs/years-to-expiry"
-  -74]]
+ [":db/add" "hirameki-patent:US2027296" ":hirameki/derived" true]]
