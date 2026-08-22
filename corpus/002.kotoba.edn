@@ -1,4 +1,344 @@
-[{:assignees [:burroughs-wellcome-usa],
+[{:assignees [:upjohn],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3287352/en",
+  :title "Nu6-(2-hydroxyethyl) tubercidin and process therefor",
+  :status :granted,
+  :id "US3287352",
+  :sourcing :authoritative,
+  :filing-year 1964,
+  :assignee :upjohn,
+  :grant-year 1966,
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:consolidated-papers],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3288632/en",
+  :title "Production of coated paper",
+  :status :granted,
+  :id "US3288632",
+  :sourcing :authoritative,
+  :filing-year 1962,
+  :assignee :consolidated-papers,
+  :grant-year 1966,
+  :cites
+  ["US2177580"
+   "US2746878"
+   "US2795564"
+   "US2949382"
+   "US3005727"
+   "US3044896"
+   "US3222209"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:molins-machine],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3291137/en",
+  :title "Tobacco manipulating machinery",
+  :status :granted,
+  :id "US3291137",
+  :sourcing :authoritative,
+  :filing-year 1965,
+  :assignee :molins-machine,
+  :grant-year 1966,
+  :cites
+  ["FR1179992A"
+   "GB764551A"
+   "US1808795"
+   "US2467248"
+   "US2617426"
+   "US2932300"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:continental-oil],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3294652/en",
+  :title "Measurement of sulfuric acid and oleum concentration",
+  :status :granted,
+  :id "US3294652",
+  :sourcing :authoritative,
+  :filing-year 1963,
+  :assignee :continental-oil,
+  :grant-year 1966,
+  :cites ["US2912367" "US2930967"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:hewlett-packard],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3294988/en",
+  :title "Transducers",
+  :status :granted,
+  :id "US3294988",
+  :sourcing :authoritative,
+  :filing-year 1964,
+  :assignee :hewlett-packard,
+  :grant-year 1966,
+  :cites ["US2554270" "US2952786" "US3164004" "US3209081"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:marconi],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3295022/en",
+  :title
+  "Apparatus for the detection of discharges in high-power transmission channels",
+  :status :granted,
+  :id "US3295022",
+  :sourcing :authoritative,
+  :filing-year 1963,
+  :assignee :marconi,
+  :grant-year 1966,
+  :term-years 20,
+  :open-license :none}
+ {:jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3295283/en",
+  :title "Panel structure and frame member therefor",
+  :status :granted,
+  :id "US3295283",
+  :sourcing :authoritative,
+  :filing-year 1963,
+  :assignee :unassigned,
+  :grant-year 1967,
+  :cites ["CH281053A" "US2872713" "US3221453" "US3226903" "US834968"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:kimberly-clark],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3295967/en",
+  :title "Electrophotographic recording member",
+  :status :granted,
+  :id "US3295967",
+  :sourcing :authoritative,
+  :filing-year 1963,
+  :assignee :kimberly-clark,
+  :grant-year 1967,
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:union-carbide],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3296113/en",
+  :title "Gas-stream monitor",
+  :status :granted,
+  :id "US3296113",
+  :sourcing :authoritative,
+  :filing-year 1963,
+  :assignee :union-carbide,
+  :grant-year 1967,
+  :cites
+  ["US2616950"
+   "US2722658"
+   "US2758079"
+   "US2851654"
+   "US2938064"
+   "US2980749"
+   "US2991412"
+   "US3060374"
+   "US819355"],
+  :term-years 20,
+  :open-license :none}
+ {:jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US329724/en",
+  :title "dieckmann",
+  :status :granted,
+  :id "US329724",
+  :sourcing :authoritative,
+  :assignee :unassigned,
+  :grant-year 1885,
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:hoechst],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3299043/en",
+  :title "Process for preparing polynucleotides",
+  :status :granted,
+  :id "US3299043",
+  :sourcing :authoritative,
+  :filing-year 1964,
+  :assignee :hoechst,
+  :grant-year 1967,
+  :cites ["US3079379" "US3118876"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:american-cyanamid],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3300428/en",
+  :title
+  "Hammer finish from aqueous composition containing non-leafing aluminum particles",
+  :status :granted,
+  :id "US3300428",
+  :sourcing :authoritative,
+  :filing-year 1964,
+  :assignee :american-cyanamid,
+  :grant-year 1967,
+  :cites ["US2574659" "US2906724"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:upjohn],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3300479/en",
+  :title
+  "Deazapurine riboside cyclic 3&#39;, 5&#39;-phosphates and process therefor",
+  :status :granted,
+  :id "US3300479",
+  :sourcing :authoritative,
+  :filing-year 1965,
+  :assignee :upjohn,
+  :grant-year 1967,
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:ei-du-pont-de-nemours-and],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3306156/en",
+  :title "Method and apparatus for photometric analysis",
+  :status :granted,
+  :id "US3306156",
+  :sourcing :authoritative,
+  :filing-year 1957,
+  :assignee :ei-du-pont-de-nemours-and,
+  :grant-year 1967,
+  :cites
+  ["US2503165"
+   "US2620444"
+   "US2679185"
+   "US2694335"
+   "US2703844"
+   "US2718597"
+   "US2737591"
+   "US2775160"
+   "US2823800"
+   "US2849618"
+   "US2987182"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:hitachi],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3311756/en",
+  :title "Electronic circuit having a fieldeffect transistor therein",
+  :status :granted,
+  :id "US3311756",
+  :sourcing :authoritative,
+  :filing-year 1964,
+  :assignee :hitachi,
+  :grant-year 1967,
+  :cites
+  ["US2980809"
+   "US3177100"
+   "US3183128"
+   "US3191061"
+   "US3202840"
+   "US3213299"
+   "US3229218"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:international-business-machines],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3315229/en",
+  :title "Blood cell recognizer",
+  :status :granted,
+  :id "US3315229",
+  :sourcing :authoritative,
+  :filing-year 1963,
+  :assignee :international-business-machines,
+  :grant-year 1967,
+  :cites
+  ["GB948498A"
+   "US2791150"
+   "US2875666"
+   "US2969708"
+   "US2978675"
+   "US2983822"
+   "US3064519"
+   "US3084286"
+   "US3149286"
+   "US3189873"],
+  :term-years 20,
+  :open-license :none}
+ {:jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3315424/en",
+  :title "Building construction",
+  :status :granted,
+  :id "US3315424",
+  :sourcing :authoritative,
+  :filing-year 1963,
+  :assignee :unassigned,
+  :grant-year 1967,
+  :cites
+  ["US1510224"
+   "US2576073"
+   "US2595123"
+   "US2928360"
+   "US2995784"
+   "US3003199"
+   "US3085365"
+   "US951031"],
+  :term-years 20,
+  :open-license :none}
+ {:jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3316896/en",
+  :title
+  "Apparatus and methods for the measure of the electrical impedance of living organisms",
+  :status :granted,
+  :id "US3316896",
+  :sourcing :authoritative,
+  :filing-year 1963,
+  :assignee :unassigned,
+  :grant-year 1967,
+  :cites ["US2298506" "US2535249" "US3064641" "US3085566" "US3207151"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:ajinomoto],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3317511/en",
+  :title "Preparation of hypoxanthine 1-n-oxide and its derivatives",
+  :status :granted,
+  :id "US3317511",
+  :sourcing :authoritative,
+  :filing-year 1964,
+  :assignee :ajinomoto,
+  :grant-year 1967,
+  :cites ["US2719843" "US3167540" "US3180859"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:british-cellophane],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3320086/en",
+  :title "Coating travelling webs",
+  :status :granted,
+  :id "US3320086",
+  :sourcing :authoritative,
+  :filing-year 1962,
+  :assignee :british-cellophane,
+  :grant-year 1967,
+  :cites
+  ["GB774352A"
+   "US2325798"
+   "US2748027"
+   "US2762720"
+   "US2819984"
+   "US2919205"
+   "US3044896"
+   "US3108017"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:burroughs-wellcome-usa],
   :jurisdiction :us,
   :field "UNKNOWN",
   :source "https://patents.google.com/patent/US3322634/en",
@@ -8869,330 +9209,5 @@
    "US3847749"
    "US3853712"
    "US3883393"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:canon],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US4189232/en",
-  :title "Range detecting method and apparatus",
-  :status :granted,
-  :id "US4189232",
-  :sourcing :authoritative,
-  :filing-year 1978,
-  :assignee :canon,
-  :grant-year 1980,
-  :cites ["US3898676" "US3945023" "US4004852"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:research],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US4190495/en",
-  :title
-  "Modified microorganisms and method of preparing and using same",
-  :status :granted,
-  :id "US4190495",
-  :sourcing :authoritative,
-  :filing-year 1976,
-  :assignee :research,
-  :grant-year 1980,
-  :term-years 20,
-  :open-license :none}
- {:jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US4192748/en",
-  :title "Dialysis apparatus with selective chemical activity",
-  :status :granted,
-  :id "US4192748",
-  :sourcing :authoritative,
-  :filing-year 1976,
-  :assignee :unassigned,
-  :grant-year 1980,
-  :cites
-  ["US3503877"
-   "US3522346"
-   "US3579441"
-   "US3608729"
-   "US3619423"
-   "US3645852"
-   "US3703959"
-   "US3880760"
-   "US3888250"
-   "US4061141"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:institut-pasteur],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US4193982/en",
-  :title
-  "Process for coupling biological substances by covalent bonds",
-  :status :granted,
-  :id "US4193982",
-  :sourcing :authoritative,
-  :filing-year 1976,
-  :assignee :institut-pasteur,
-  :grant-year 1980,
-  :cites ["GB1257263A" "US3322634"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:syva],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US4193983/en",
-  :title
-  "Labeled liposome particle compositions and immunoassays therewith",
-  :status :granted,
-  :id "US4193983",
-  :sourcing :authoritative,
-  :filing-year 1978,
-  :assignee :syva,
-  :grant-year 1980,
-  :cites
-  ["US3849546"
-   "US3882224"
-   "US3887698"
-   "US3949065"
-   "US3996345"
-   "US4104029"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:bard-laboratories],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US4199649/en",
-  :title "Amorphous monomolecular surface coatings",
-  :status :granted,
-  :id "US4199649",
-  :sourcing :authoritative,
-  :filing-year 1978,
-  :assignee :bard-laboratories,
-  :grant-year 1980,
-  :cites
-  ["US3115424"
-   "US3455736"
-   "US3628996"
-   "US3873499"
-   "US3896254"
-   "US3916035"
-   "US3942982"
-   "US4001870"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:government-of-the-united-states-of-america],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US4200110/en",
-  :title "Fiber optic pH probe",
-  :status :granted,
-  :id "US4200110",
-  :sourcing :authoritative,
-  :filing-year 1977,
-  :assignee :government-of-the-united-states-of-america,
-  :grant-year 1980,
-  :cites
-  ["GB770889A"
-   "US2084399"
-   "US3164663"
-   "US3183208"
-   "US3787119"
-   "US3814081"
-   "US4016133"
-   "US4016863"
-   "US4033330"
-   "US4041932"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:mochida-pharmaceutical],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US4200436/en",
-  :title "Immunochemical measuring process",
-  :status :granted,
-  :id "US4200436",
-  :sourcing :authoritative,
-  :filing-year 1977,
-  :assignee :mochida-pharmaceutical,
-  :grant-year 1980,
-  :cites ["US3654090" "US3992516" "US4002532" "US4067959"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:millipore],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US4200690/en",
-  :title "Immunoassay with membrane immobilized antibody",
-  :status :granted,
-  :id "US4200690",
-  :sourcing :authoritative,
-  :filing-year 1978,
-  :assignee :millipore,
-  :grant-year 1980,
-  :cites ["US3839153" "US3951748" "US4066512"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:ohio-state-university],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US4201770/en",
-  :title "Antigenic modification of polypeptides",
-  :status :granted,
-  :id "US4201770",
-  :sourcing :authoritative,
-  :filing-year 1978,
-  :assignee :ohio-state-university,
-  :grant-year 1980,
-  :term-years 20,
-  :open-license :none}
- {:assignees [:monsanto],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US4201845/en",
-  :title "Cell culture reactor",
-  :status :granted,
-  :id "US4201845",
-  :sourcing :authoritative,
-  :filing-year 1978,
-  :assignee :monsanto,
-  :grant-year 1980,
-  :cites
-  ["US3342729"
-   "US3746175"
-   "US3821087"
-   "US3843454"
-   "US3883393"
-   "US3997396"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:leybold-heraeus],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US4204117/en",
-  :title "Sample analyzer",
-  :status :granted,
-  :id "US4204117",
-  :sourcing :authoritative,
-  :filing-year 1978,
-  :assignee :leybold-heraeus,
-  :grant-year 1980,
-  :cites ["US3782823" "US3972616" "US4018530"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:technion-research-and-development-foundation],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US4205952/en",
-  :title "Specific binding assay method and reagent means",
-  :status :granted,
-  :id "US4205952",
-  :sourcing :authoritative,
-  :filing-year 1977,
-  :assignee :technion-research-and-development-foundation,
-  :grant-year 1980,
-  :cites ["US3899298" "US3966556" "US4022876" "US4036823"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:gte-laboratories],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US4208242/en",
-  :title
-  "Method for color television picture tube aperture mask production employing PVA and removing the PVA by partial carmelizing and washing",
-  :status :granted,
-  :id "US4208242",
-  :sourcing :authoritative,
-  :filing-year 1978,
-  :assignee :gte-laboratories,
-  :grant-year 1980,
-  :cites
-  ["US3081203"
-   "US3175907"
-   "US3415648"
-   "US3672893"
-   "US3767490"
-   "US3770434"
-   "US3796603"
-   "US3980587"
-   "US4018627"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:syva],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US4208479/en",
-  :title "Label modified immunoassays",
-  :status :granted,
-  :id "US4208479",
-  :sourcing :authoritative,
-  :filing-year 1977,
-  :assignee :syva,
-  :grant-year 1980,
-  :cites ["US3996345" "US3998943" "US4036946"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:rohm-and-haas],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US4217421/en",
-  :title
-  "Anion exchange resins prepared from crosslinked polystyrenesulfonylchloride",
-  :status :granted,
-  :id "US4217421",
-  :sourcing :authoritative,
-  :filing-year 1978,
-  :assignee :rohm-and-haas,
-  :grant-year 1980,
-  :cites ["US2778813" "US2867611" "US2906715" "US3128257" "US3133030"],
-  :term-years 20,
-  :open-license :none}
- {:jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US4218539/en",
-  :title "Enzyme conjugates and method of preparation and use",
-  :status :granted,
-  :id "US4218539",
-  :sourcing :authoritative,
-  :filing-year 1978,
-  :assignee :unassigned,
-  :grant-year 1980,
-  :cites ["US4144131"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:syva],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US4220450/en",
-  :title "Chemically induced fluorescence immunoassay",
-  :status :granted,
-  :id "US4220450",
-  :sourcing :authoritative,
-  :filing-year 1978,
-  :assignee :syva,
-  :grant-year 1980,
-  :cites
-  ["US3575812"
-   "US3660240"
-   "US3852157"
-   "US3996345"
-   "US3998943"
-   "US3999298"
-   "US4043872"
-   "US4104029"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:syva],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US4220722/en",
-  :title
-  "Method for conjugating to polyamino compounds employing haloacyl groups and compositions prepared thereby",
-  :status :granted,
-  :id "US4220722",
-  :sourcing :authoritative,
-  :filing-year 1978,
-  :assignee :syva,
-  :grant-year 1980,
-  :cites ["US4067774" "US4100268" "US4144131"],
   :term-years 20,
   :open-license :none}]
