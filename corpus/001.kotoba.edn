@@ -1,4 +1,69 @@
-[{:assignees [:ei-du-pont-de-nemours-and],
+[{:assignees [:laucks-i-f],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2357880/en",
+  :title "Apparatus for making plywood and the like",
+  :status :granted,
+  :id "US2357880",
+  :sourcing :authoritative,
+  :filing-year 1939,
+  :assignee :laucks-i-f,
+  :grant-year 1944,
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:beutex],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2359314/en",
+  :title "Adhesive sheet",
+  :status :granted,
+  :id "US2359314",
+  :sourcing :authoritative,
+  :filing-year 1939,
+  :assignee :beutex,
+  :grant-year 1944,
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:ei-du-pont-de-nemours-and],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2360673/en",
+  :title "Oxidized polymers and process for their preparation",
+  :status :granted,
+  :id "US2360673",
+  :sourcing :authoritative,
+  :filing-year 1942,
+  :assignee :ei-du-pont-de-nemours-and,
+  :grant-year 1944,
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:goss-printing-press],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2363817/en",
+  :title "Printing process and mechanism",
+  :status :granted,
+  :id "US2363817",
+  :sourcing :authoritative,
+  :filing-year 1942,
+  :assignee :goss-printing-press,
+  :grant-year 1944,
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:champion-paper-and-fibre],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2364505/en",
+  :title "Method of making coated paper",
+  :status :granted,
+  :id "US2364505",
+  :sourcing :authoritative,
+  :filing-year 1940,
+  :assignee :champion-paper-and-fibre,
+  :grant-year 1944,
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:ei-du-pont-de-nemours-and],
   :jurisdiction :us,
   :field "UNKNOWN",
   :source "https://patents.google.com/patent/US2367670/en",
@@ -1687,6 +1752,21 @@
    "US2426300"],
   :term-years 20,
   :open-license :none}
+ {:assignees [:socony-vacuum-oil],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2539355/en",
+  :title
+  "Apparatus for measuring interstitial water content, permeability, and electrical conductivity of well cores",
+  :status :granted,
+  :id "US2539355",
+  :sourcing :authoritative,
+  :filing-year 1947,
+  :assignee :socony-vacuum-oil,
+  :grant-year 1951,
+  :cites ["US2064651" "US2293488" "US2330721" "US2345935" "US2437935"],
+  :term-years 20,
+  :open-license :none}
  {:assignees [:american-cyanamid],
   :jurisdiction :us,
   :field "UNKNOWN",
@@ -2031,6 +2111,20 @@
    "US2136566"],
   :term-years 20,
   :open-license :none}
+ {:assignees [:devoe-and-raynolds],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2581464/en",
+  :title "Epoxide compositions",
+  :status :granted,
+  :id "US2581464",
+  :sourcing :authoritative,
+  :filing-year 1947,
+  :assignee :devoe-and-raynolds,
+  :grant-year 1952,
+  :cites ["GB518057A" "US2061377" "US2070990" "US2314039" "US2327053"],
+  :term-years 20,
+  :open-license :none}
  {:assignees [:minnesota-and-ontario-paper],
   :jurisdiction :us,
   :field "UNKNOWN",
@@ -2179,6 +2273,18 @@
    "US2443450"
    "US2504857"
    "US2526637"],
+  :term-years 20,
+  :open-license :none}
+ {:jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2594293/en",
+  :title "Acrylonitrile peotein derivatives",
+  :status :granted,
+  :id "US2594293",
+  :sourcing :authoritative,
+  :assignee :unassigned,
+  :grant-year 1952,
+  :cites ["US2399084" "US2406958" "US2562534"],
   :term-years 20,
   :open-license :none}
  {:assignees [:shell-development],
@@ -2988,6 +3094,20 @@
    "US2442422"],
   :term-years 20,
   :open-license :none}
+ {:assignees [:sherwin-williams],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2675129/en",
+  :title "Continuous filter",
+  :status :granted,
+  :id "US2675129",
+  :sourcing :authoritative,
+  :filing-year 1951,
+  :assignee :sherwin-williams,
+  :grant-year 1954,
+  :cites ["GB190222852A" "US2330542" "US794631"],
+  :term-years 20,
+  :open-license :none}
  {:assignees [:eastman-kodak],
   :jurisdiction :us,
   :field "UNKNOWN",
@@ -3044,6 +3164,56 @@
    "US2176093"
    "US2511415"
    "US2545266"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:general-electric],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2681571/en",
+  :title "Electrical moisture indicator",
+  :status :granted,
+  :id "US2681571",
+  :sourcing :authoritative,
+  :filing-year 1949,
+  :assignee :general-electric,
+  :grant-year 1954,
+  :cites
+  ["GB186052A"
+   "GB437821A"
+   "US1395282"
+   "US2047638"
+   "US2265920"
+   "US2506478"
+   "US336773"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:shell-development],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2682514/en",
+  :title
+  "Compositions containing glycidyl polyether of a polyhydric phenol and an epoxidizedester",
+  :status :granted,
+  :id "US2682514",
+  :sourcing :authoritative,
+  :filing-year 1952,
+  :assignee :shell-development,
+  :grant-year 1954,
+  :cites ["US2485160" "US2528932"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:shell-development],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2682515/en",
+  :title "Adhesive composition containing polyepoxide materials",
+  :status :granted,
+  :id "US2682515",
+  :sourcing :authoritative,
+  :filing-year 1952,
+  :assignee :shell-development,
+  :grant-year 1954,
+  :cites ["US2575558" "US2602785"],
   :term-years 20,
   :open-license :none}
  {:jurisdiction :us,
@@ -3334,6 +3504,35 @@
    "US2493745"
    "US2526636"
    "US2609688"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:general-mills],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2705223/en",
+  :title
+  "Thermosetting resinous compositions from epoxy resins and polyamides derived from polymeric fat acids",
+  :status :granted,
+  :id "US2705223",
+  :sourcing :authoritative,
+  :filing-year 1952,
+  :assignee :general-mills,
+  :grant-year 1955,
+  :cites ["US2450940" "US2589245" "US2626223"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:general-electric],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2707177/en",
+  :title "Ethoxyline-triallyl cyanurate resinous compositions",
+  :status :granted,
+  :id "US2707177",
+  :sourcing :authoritative,
+  :filing-year 1952,
+  :assignee :general-electric,
+  :grant-year 1955,
+  :cites ["GB630647A" "US2324483" "US2510503" "US2557667"],
   :term-years 20,
   :open-license :none}
  {:assignees [:hartford-national-bank-and-trust],
@@ -3675,6 +3874,21 @@
    "US2386830"
    "US2386831"
    "US2525445"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:hermorion],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2738631/en",
+  :title
+  "Apparatus for continuously producing packages from a tube or sleeve",
+  :status :granted,
+  :id "US2738631",
+  :sourcing :authoritative,
+  :filing-year 1951,
+  :assignee :hermorion,
+  :grant-year 1956,
+  :cites ["US1036399" "US1485141" "US2083618" "US2484780"],
   :term-years 20,
   :open-license :none}
  {:assignees [:phillips-petroleum],
@@ -7987,6 +8201,20 @@
    "US2775160"],
   :term-years 20,
   :open-license :none}
+ {:assignees [:miles-laboratories],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3092465/en",
+  :title "Diagnostic test device for blood sugar",
+  :status :granted,
+  :id "US3092465",
+  :sourcing :authoritative,
+  :filing-year 1960,
+  :assignee :miles-laboratories,
+  :grant-year 1963,
+  :cites ["GB571181A" "US2140341" "US2567445" "US2912309"],
+  :term-years 20,
+  :open-license :none}
  {:assignees [:american-instr],
   :jurisdiction :us,
   :field "UNKNOWN",
@@ -8288,6 +8516,29 @@
    "US2843555"],
   :term-years 20,
   :open-license :none}
+ {:assignees [:baxter-laboratories],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3127892/en",
+  :title "Blood handling apparatus",
+  :status :granted,
+  :id "US3127892",
+  :sourcing :authoritative,
+  :filing-year 1960,
+  :assignee :baxter-laboratories,
+  :grant-year 1964,
+  :cites
+  ["FR1082035A"
+   "FR1107207A"
+   "US2371086"
+   "US2674265"
+   "US2737951"
+   "US2780225"
+   "US2836942"
+   "US2847995"
+   "US2896619"],
+  :term-years 20,
+  :open-license :none}
  {:jurisdiction :us,
   :field "UNKNOWN",
   :source "https://patents.google.com/patent/US3130787/en",
@@ -8533,6 +8784,20 @@
   :cites ["US2885396"],
   :term-years 20,
   :open-license :none}
+ {:assignees [:gevaert-photo-producten],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3158484/en",
+  :title "Light-sensitive colloid silver halide photographic elements",
+  :status :granted,
+  :id "US3158484",
+  :sourcing :authoritative,
+  :filing-year 1961,
+  :assignee :gevaert-photo-producten,
+  :grant-year 1964,
+  :cites ["US1970578" "US2630424" "US2716062"],
+  :term-years 20,
+  :open-license :none}
  {:assignees [:optron],
   :jurisdiction :us,
   :field "UNKNOWN",
@@ -8673,6 +8938,21 @@
   :assignee :ei-du-pont-de-nemours-and,
   :grant-year 1965,
   :cites ["US2848437"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:technicon-chromatography],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3166929/en",
+  :title
+  "Chromatography analysis apparatus with standardization provision",
+  :status :granted,
+  :id "US3166929",
+  :sourcing :authoritative,
+  :filing-year 1961,
+  :assignee :technicon-chromatography,
+  :grant-year 1965,
+  :cites ["US2797149" "US2890617"],
   :term-years 20,
   :open-license :none}
  {:jurisdiction :us,
@@ -9665,323 +9945,5 @@
    "US2870306"
    "US3056935"
    "US3058079"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:scientific-industries],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3260413/en",
-  :title "Automatic chemical analyzer",
-  :status :granted,
-  :id "US3260413",
-  :sourcing :authoritative,
-  :filing-year 1964,
-  :assignee :scientific-industries,
-  :grant-year 1966,
-  :cites
-  ["US1383270"
-   "US2423969"
-   "US2642212"
-   "US2763417"
-   "US2967644"
-   "US3036893"
-   "US678699"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:scientific-industries],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3261668/en",
-  :title "Chemical analyzer tape",
-  :status :granted,
-  :id "US3261668",
-  :sourcing :authoritative,
-  :filing-year 1962,
-  :assignee :scientific-industries,
-  :grant-year 1966,
-  :cites ["US2129754" "US2249867" "US2692830" "US2918033" "US3036893"],
-  :term-years 20,
-  :open-license :none}
- {:jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3262787/en",
-  :title "Process of preparing packaged cooked foods",
-  :status :granted,
-  :id "US3262787",
-  :sourcing :authoritative,
-  :filing-year 1962,
-  :assignee :unassigned,
-  :grant-year 1966,
-  :cites ["US2380134" "US2687961"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:dow-corning],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3262830/en",
-  :title
-  "Organosilicon molding compositions containing orthotitanate catalysts",
-  :status :granted,
-  :id "US3262830",
-  :sourcing :authoritative,
-  :filing-year 1961,
-  :assignee :dow-corning,
-  :grant-year 1966,
-  :cites ["US2486162" "US2718483" "US2970126" "US2993809"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:ei-du-pont-de-nemours-and],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3264272/en",
-  :title "Ionic hydrocarbon polymers",
-  :status :granted,
-  :id "US3264272",
-  :sourcing :authoritative,
-  :filing-year 1963,
-  :assignee :ei-du-pont-de-nemours-and,
-  :grant-year 1966,
-  :cites ["US2599123" "US2646425" "US2798053" "US2854357" "US3132120"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:american-instr],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3264474/en",
-  :title "Phosphorimeter attachment for fluorometer",
-  :status :granted,
-  :id "US3264474",
-  :sourcing :authoritative,
-  :filing-year 1963,
-  :assignee :american-instr,
-  :grant-year 1966,
-  :cites ["US2948127" "US3049620" "US3092722" "US3092974"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:renker-belipa-fa],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3265497/en",
-  :title "Electrophotographic material",
-  :status :granted,
-  :id "US3265497",
-  :sourcing :authoritative,
-  :filing-year 1962,
-  :assignee :renker-belipa-fa,
-  :grant-year 1966,
-  :cites
-  ["BE562336A"
-   "DE1060259B"
-   "DE1060713B"
-   "DE1105713B"
-   "US2710274"
-   "US3025160"
-   "US3155503"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:shell-oil],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3265765/en",
-  :title
-  "Block polymers of monovinyl aromatic hydrocarbons and conjugated dienes",
-  :status :granted,
-  :id "US3265765",
-  :sourcing :authoritative,
-  :filing-year 1962,
-  :assignee :shell-oil,
-  :grant-year 1966,
-  :cites
-  ["FR1270016A"
-   "GB838996A"
-   "GB856581A"
-   "US2666042"
-   "US3041310"
-   "US3078254"
-   "US3149182"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:technicon-instruments],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3266298/en",
-  :title
-  "Means and method for the identification of samples for blood typing",
-  :status :granted,
-  :id "US3266298",
-  :sourcing :authoritative,
-  :filing-year 1963,
-  :assignee :technicon-instruments,
-  :grant-year 1966,
-  :cites
-  ["US1384457"
-   "US2725782"
-   "US2780225"
-   "US2878574"
-   "US2896619"
-   "US2950716"
-   "US3080746"
-   "US3127892"
-   "US3166929"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:general-electric],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3269419/en",
-  :title "Fluid amplifiers",
-  :status :granted,
-  :id "US3269419",
-  :sourcing :authoritative,
-  :filing-year 1963,
-  :assignee :general-electric,
-  :grant-year 1966,
-  :cites
-  ["DE1083607B"
-   "US1477645"
-   "US1549196"
-   "US1628723"
-   "US2132961"
-   "US3001539"
-   "US3122062"
-   "US3122165"
-   "US3123900"
-   "US3144037"
-   "US3144208"
-   "US3159208"
-   "US3168897"
-   "US3182674"
-   "US3182686"
-   "US3187762"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:agfa],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3274914/en",
-  :title "Camera focusing devices",
-  :status :granted,
-  :id "US3274914",
-  :sourcing :authoritative,
-  :filing-year 1964,
-  :assignee :agfa,
-  :grant-year 1966,
-  :cites ["US2968994" "US3143588"],
-  :term-years 20,
-  :open-license :none}
- {:jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3275534/en",
-  :title
-  "Bioelectric method for the detection of anticholinester-ases",
-  :status :granted,
-  :id "US3275534",
-  :sourcing :authoritative,
-  :filing-year 1963,
-  :assignee :unassigned,
-  :grant-year 1966,
-  :cites ["US2757132" "US2926072" "US3049411"],
-  :term-years 20,
-  :open-license :none}
- {:jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3275834/en",
-  :title
-  "Apparatus for analyzing the size and number of particles in suspension",
-  :status :granted,
-  :id "US3275834",
-  :sourcing :authoritative,
-  :filing-year 1963,
-  :assignee :unassigned,
-  :grant-year 1966,
-  :cites
-  ["FR1227526A"
-   "US2731202"
-   "US2850239"
-   "US2875666"
-   "US3084591"
-   "US3094625"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:yeda-research-and-development],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3278392/en",
-  :title "Water insoluble enzymes",
-  :status :granted,
-  :id "US3278392",
-  :sourcing :authoritative,
-  :filing-year 1963,
-  :assignee :yeda-research-and-development,
-  :grant-year 1966,
-  :term-years 20,
-  :open-license :none}
- {:assignees [:roche-palo-alto],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3280104/en",
-  :title
-  "2&#39;, 3&#39;-dideoxyribonucleoside and 2&#39;, 3&#39;-dideoxyribonucleotide derivatives",
-  :status :granted,
-  :id "US3280104",
-  :sourcing :authoritative,
-  :filing-year 1964,
-  :assignee :roche-palo-alto,
-  :grant-year 1966,
-  :cites ["US3079379" "US3155646" "US3171833"],
-  :term-years 20,
-  :open-license :none}
- {:jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3282726/en",
-  :title "Method of impregnating leather and resultant article",
-  :status :granted,
-  :id "US3282726",
-  :sourcing :authoritative,
-  :filing-year 1963,
-  :assignee :unassigned,
-  :grant-year 1966,
-  :cites ["US1203303" "US2159704" "US2933418" "US3027276" "US3178310"],
-  :term-years 20,
-  :open-license :none}
- {:jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3282761/en",
-  :title "Molding method, apparatus and product",
-  :status :granted,
-  :id "US3282761",
-  :sourcing :authoritative,
-  :filing-year 1963,
-  :assignee :unassigned,
-  :grant-year 1966,
-  :cites
-  ["US1277845"
-   "US1322034"
-   "US1463841"
-   "US2417586"
-   "US2420488"
-   "US2809415"
-   "US2811408"
-   "US2815309"
-   "US2868684"
-   "US2905579"
-   "US2956292"
-   "US3070817"
-   "US3083665"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:merck-and],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3284440/en",
-  :title
-  "Phosphate esters of cytosine arabinoide and process for preparing same",
-  :status :granted,
-  :id "US3284440",
-  :sourcing :authoritative,
-  :filing-year 1964,
-  :assignee :merck-and,
-  :grant-year 1966,
-  :cites ["US2844514" "US3116282" "US3201389"],
   :term-years 20,
   :open-license :none}]
