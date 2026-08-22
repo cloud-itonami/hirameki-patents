@@ -1,4 +1,56 @@
-[{:assignees [:laucks-i-f],
+[{:assignees [:copeman-laboratories],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2348740/en",
+  :title "Diaphragm and method of forming same",
+  :status :granted,
+  :id "US2348740",
+  :sourcing :authoritative,
+  :filing-year 1938,
+  :assignee :copeman-laboratories,
+  :grant-year 1944,
+  :term-years 20,
+  :open-license :none}
+ {:jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2349979/en",
+  :title
+  "Polymerization or polycondensation product and the method for producing the same",
+  :status :granted,
+  :id "US2349979",
+  :sourcing :authoritative,
+  :filing-year 1941,
+  :assignee :unassigned,
+  :grant-year 1944,
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:spencer-lens],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2351539/en",
+  :title "Polarimeter apparatus",
+  :status :granted,
+  :id "US2351539",
+  :sourcing :authoritative,
+  :filing-year 1941,
+  :assignee :spencer-lens,
+  :grant-year 1944,
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:jasco],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2356367/en",
+  :title "High temperature lubricant",
+  :status :granted,
+  :id "US2356367",
+  :sourcing :authoritative,
+  :filing-year 1940,
+  :assignee :jasco,
+  :grant-year 1944,
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:laucks-i-f],
   :jurisdiction :us,
   :field "UNKNOWN",
   :source "https://patents.google.com/patent/US2357880/en",
@@ -124,6 +176,19 @@
   :sourcing :authoritative,
   :filing-year 1942,
   :assignee :wallace-and-tiernan,
+  :grant-year 1945,
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:parke-davis-and],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2372066/en",
+  :title "Biological product and process of obtaining same",
+  :status :granted,
+  :id "US2372066",
+  :sourcing :authoritative,
+  :filing-year 1940,
+  :assignee :parke-davis-and,
   :grant-year 1945,
   :term-years 20,
   :open-license :none}
@@ -3336,6 +3401,20 @@
   :cites ["US2153553" "US2259961" "US2393288" "US2487564" "US2572300"],
   :term-years 20,
   :open-license :none}
+ {:assignees [:polaroid],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2692830/en",
+  :title "Photographic silver halide transfer process",
+  :status :granted,
+  :id "US2692830",
+  :sourcing :authoritative,
+  :filing-year 1950,
+  :assignee :polaroid,
+  :grant-year 1954,
+  :cites ["FR873507A" "FR879995A" "GB361873A" "US2352014"],
+  :term-years 20,
+  :open-license :none}
  {:assignees [:phillips-petroleum],
   :jurisdiction :us,
   :field "UNKNOWN",
@@ -5491,6 +5570,26 @@
   :open-license :none}
  {:jurisdiction :us,
   :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2877121/en",
+  :title "Method of forming frozen confection packages",
+  :status :granted,
+  :id "US2877121",
+  :sourcing :authoritative,
+  :filing-year 1954,
+  :assignee :unassigned,
+  :grant-year 1959,
+  :cites
+  ["US1618324"
+   "US1986589"
+   "US2227236"
+   "US2450364"
+   "US2582655"
+   "US2627472"
+   "US2691259"],
+  :term-years 20,
+  :open-license :none}
+ {:jurisdiction :us,
+  :field "UNKNOWN",
   :source "https://patents.google.com/patent/US2878388/en",
   :title "Gas analyzing system",
   :status :granted,
@@ -5694,6 +5793,25 @@
   :cites ["GB474601A"],
   :term-years 20,
   :open-license :none}
+ {:jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2896387/en",
+  :title "Machine for packaging articles",
+  :status :granted,
+  :id "US2896387",
+  :sourcing :authoritative,
+  :filing-year 1957,
+  :assignee :unassigned,
+  :grant-year 1959,
+  :cites
+  ["US2530306"
+   "US2546059"
+   "US2549122"
+   "US2549123"
+   "US2597041"
+   "US2736150"],
+  :term-years 20,
+  :open-license :none}
  {:assignees [:fenwal-laboratories],
   :jurisdiction :us,
   :field "UNKNOWN",
@@ -5895,6 +6013,33 @@
   :assignee :bf-goodrich,
   :grant-year 1959,
   :cites ["US1058056" "US2377779" "US2506857" "US2699457"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:american-viscose],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2916864/en",
+  :title "Packaging apparatus",
+  :status :granted,
+  :id "US2916864",
+  :sourcing :authoritative,
+  :filing-year 1957,
+  :assignee :american-viscose,
+  :grant-year 1959,
+  :cites ["US2146308" "US2146831" "US2693067" "US2761264" "US2828591"],
+  :term-years 20,
+  :open-license :none}
+ {:jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2918033/en",
+  :title "Pipe leakage detector",
+  :status :granted,
+  :id "US2918033",
+  :sourcing :authoritative,
+  :filing-year 1957,
+  :assignee :unassigned,
+  :grant-year 1959,
+  :cites ["US2133609" "US2490933" "US2708896" "US2782749"],
   :term-years 20,
   :open-license :none}
  {:assignees [:american-cyanamid],
@@ -7068,6 +7213,28 @@
    "US2797149"],
   :term-years 20,
   :open-license :none}
+ {:jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3001348/en",
+  :title
+  "Apparatus for the continuous production of filled containers",
+  :status :granted,
+  :id "US3001348",
+  :sourcing :authoritative,
+  :filing-year 1957,
+  :assignee :unassigned,
+  :grant-year 1961,
+  :cites
+  ["US2106740"
+   "US2134862"
+   "US2347439"
+   "US2492530"
+   "US2530400"
+   "US2702971"
+   "US2738631"
+   "US2793481"],
+  :term-years 20,
+  :open-license :none}
  {:assignees [:miles-laboratories],
   :jurisdiction :us,
   :field "UNKNOWN",
@@ -7188,6 +7355,31 @@
   :sourcing :authoritative,
   :assignee :unassigned,
   :grant-year 1884,
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:ekco-alcoa-containers],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3018594/en",
+  :title "Container filling and sealing machines",
+  :status :granted,
+  :id "US3018594",
+  :sourcing :authoritative,
+  :filing-year 1959,
+  :assignee :ekco-alcoa-containers,
+  :grant-year 1962,
+  :cites
+  ["US2551477"
+   "US2645396"
+   "US2744367"
+   "US2744368"
+   "US2765606"
+   "US2825194"
+   "US2879918"
+   "US2910211"
+   "US2934867"
+   "US2934869"
+   "US2972216"],
   :term-years 20,
   :open-license :none}
  {:assignees [:bb-chemical],
@@ -7319,6 +7511,26 @@
    "US2825721"
    "US2855517"
    "US2877500"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:pyronics],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3025405/en",
+  :title "High sensitivity control device",
+  :status :granted,
+  :id "US3025405",
+  :sourcing :authoritative,
+  :filing-year 1958,
+  :assignee :pyronics,
+  :grant-year 1962,
+  :cites
+  ["US1002635"
+   "US2118029"
+   "US2193315"
+   "US2197190"
+   "US2240988"
+   "US2490627"],
   :term-years 20,
   :open-license :none}
  {:assignees [:fairchild-camera-and-instrument],
@@ -8648,6 +8860,20 @@
   :grant-year 1964,
   :term-years 20,
   :open-license :none}
+ {:jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3143393/en",
+  :title
+  "Apparatus for automatically performing chemical operations and similar or related operations",
+  :status :granted,
+  :id "US3143393",
+  :sourcing :authoritative,
+  :filing-year 1960,
+  :assignee :unassigned,
+  :grant-year 1964,
+  :cites ["US2332157" "US2550701" "US2624656" "US2710715" "US2950177"],
+  :term-years 20,
+  :open-license :none}
  {:assignees [:perkin-elmer],
   :jurisdiction :us,
   :field "UNKNOWN",
@@ -9679,6 +9905,19 @@
   :cites ["GB356783A" "US2138839" "US2219348" "US2585103"],
   :term-years 20,
   :open-license :none}
+ {:assignees [:ortho-pharmaceutical],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3234096/en",
+  :title "Compositions and method for performing pregnancy tests",
+  :status :granted,
+  :id "US3234096",
+  :sourcing :authoritative,
+  :filing-year 1961,
+  :assignee :ortho-pharmaceutical,
+  :grant-year 1966,
+  :term-years 20,
+  :open-license :none}
  {:assignees [:shell-oil],
   :jurisdiction :us,
   :field "UNKNOWN",
@@ -9717,233 +9956,5 @@
    "US3041165"
    "US3081165"
    "US3163531"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:barnes-engineering],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3244885/en",
-  :title "High resolution frequency modulated tracker",
-  :status :granted,
-  :id "US3244885",
-  :sourcing :authoritative,
-  :filing-year 1962,
-  :assignee :barnes-engineering,
-  :grant-year 1966,
-  :cites
-  ["US2490052"
-   "US2961545"
-   "US2997539"
-   "US3061730"
-   "US3091690"
-   "US3099748"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:mct-enterprises],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3245198/en",
-  :title "Method for packaging articles with transparent film",
-  :status :granted,
-  :id "US3245198",
-  :sourcing :authoritative,
-  :filing-year 1964,
-  :assignee :mct-enterprises,
-  :grant-year 1966,
-  :cites ["US1597528" "US2218293" "US2439164" "US2718107" "US3134679"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:eastman-kodak],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3245833/en",
-  :title "Electrically conductive coatings",
-  :status :granted,
-  :id "US3245833",
-  :sourcing :authoritative,
-  :filing-year 1964,
-  :assignee :eastman-kodak,
-  :grant-year 1966,
-  :cites ["GB586322A" "US2463282"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:beckman-instruments],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3246559/en",
-  :title "Force feed cuvette",
-  :status :granted,
-  :id "US3246559",
-  :sourcing :authoritative,
-  :filing-year 1961,
-  :assignee :beckman-instruments,
-  :grant-year 1966,
-  :cites ["US2660342" "US2940448" "US3053138" "US890018"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:union-carbide],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3247078/en",
-  :title
-  "Process for the propagation of microorganisms using a matrix of poly",
-  :status :granted,
-  :id "US3247078",
-  :sourcing :authoritative,
-  :filing-year 1963,
-  :assignee :union-carbide,
-  :grant-year 1966,
-  :cites ["US2970948" "US3046201"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:electro-organics],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3249830/en",
-  :title
-  "Organic semi-conductor materials and contact rectifier employing the same",
-  :status :granted,
-  :id "US3249830",
-  :sourcing :authoritative,
-  :filing-year 1962,
-  :assignee :electro-organics,
-  :grant-year 1966,
-  :cites
-  ["US2745973"
-   "US2789240"
-   "US2847585"
-   "US2876368"
-   "US2998550"
-   "US837616"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:farrand-optical],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3250174/en",
-  :title
-  "Method and apparatus for comparing radiation in one spectral region with radiation in another spectral region",
-  :status :granted,
-  :id "US3250174",
-  :sourcing :authoritative,
-  :filing-year 1961,
-  :assignee :farrand-optical,
-  :grant-year 1966,
-  :cites ["US2517554"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:boehringer-mannheim],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3250596/en",
-  :title
-  "Method for determining the virus adsorptive capacity of aluminum oxide",
-  :status :granted,
-  :id "US3250596",
-  :sourcing :authoritative,
-  :filing-year 1963,
-  :assignee :boehringer-mannheim,
-  :grant-year 1966,
-  :cites ["US2712986"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:phillips-petroleum],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3251905/en",
-  :title
-  "Method of preparing block copolymers of conjugated dienes and vinyl-substituted aromatic compounds using dilithio catalysts and diluent mixture of hydrocarbon and ether",
-  :status :granted,
-  :id "US3251905",
-  :sourcing :authoritative,
-  :filing-year 1963,
-  :assignee :phillips-petroleum,
-  :grant-year 1966,
-  :cites
-  ["BE553720A"
-   "US2181771"
-   "US2338741"
-   "US2694692"
-   "US2913444"
-   "US3069380"
-   "US3070574"
-   "US3140278"
-   "US3149182"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:vare-ind],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3251933/en",
-  :title "Three-dimensional television system",
-  :status :granted,
-  :id "US3251933",
-  :sourcing :authoritative,
-  :filing-year 1962,
-  :assignee :vare-ind,
-  :grant-year 1966,
-  :cites ["US1841487" "US2508920" "US2571612" "US2578970" "US2665335"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:tung-sol-electric],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3255005/en",
-  :title "Masking process for semiconductor elements",
-  :status :granted,
-  :id "US3255005",
-  :sourcing :authoritative,
-  :filing-year 1962,
-  :assignee :tung-sol-electric,
-  :grant-year 1966,
-  :cites
-  ["US2515940"
-   "US2802760"
-   "US2935781"
-   "US2937353"
-   "US2981877"
-   "US3025589"
-   "US3036006"
-   "US3055776"
-   "US3066052"
-   "US3104991"
-   "US3122817"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:hoechst],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3255276/en",
-  :title
-  "Process for the manufacture of hydrocarbons modified with vinyl phosphonic acid",
-  :status :granted,
-  :id "US3255276",
-  :sourcing :authoritative,
-  :filing-year 1962,
-  :assignee :hoechst,
-  :grant-year 1966,
-  :cites ["DE1023033B" "US2854434" "US2888434" "US3043821"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:energy-conversion-devices],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3255324/en",
-  :title "Moisture responsive resistance device",
-  :status :granted,
-  :id "US3255324",
-  :sourcing :authoritative,
-  :filing-year 1962,
-  :assignee :energy-conversion-devices,
-  :grant-year 1966,
-  :cites
-  ["US2127538"
-   "US2454584"
-   "US2458348"
-   "US2510018"
-   "US2715667"
-   "US2870306"
-   "US3056935"
-   "US3058079"],
   :term-years 20,
   :open-license :none}]

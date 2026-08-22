@@ -1,5 +1,38 @@
 [[":db/add"
   "hirameki-patent:JP2001009357A"
+  ":hirameki.patent/jurisdiction"
+  ":jp"]
+ [":db/add"
+  "hirameki-patent:JP2001009357A"
+  ":hirameki.patent/field"
+  "UNKNOWN"]
+ [":db/add"
+  "hirameki-patent:JP2001009357A"
+  ":hirameki.patent/assignee"
+  ":nippon-paint"]
+ [":db/add"
+  "hirameki-patent:JP2001009357A"
+  ":hirameki.patent/status"
+  ":pending"]
+ [":db/add"
+  "hirameki-patent:JP2001009357A"
+  ":hirameki.patent/open-license"
+  ":none"]
+ [":db/add"
+  "hirameki-patent:JP2001009357A"
+  ":hirameki.obs/release-status"
+  ":pending"]
+ [":db/add"
+  "hirameki-patent:JP2001009357A"
+  ":hirameki/sourcing"
+  ":authoritative"]
+ [":db/add" "hirameki-patent:JP2001009357A" ":hirameki/derived" true]
+ [":db/add"
+  "hirameki-patent:JP2001009357A"
+  ":hirameki.obs/years-to-expiry"
+  -6]
+ [":db/add"
+  "hirameki-patent:JP2001009357A"
   ":hirameki/source"
   "https://patents.google.com/patent/JP2001009357A/en"]
  [":db/add"
@@ -9703,6 +9736,47 @@
   ":hirameki/source"
   "https://patents.google.com/patent/US1902713/en"]
  [":db/add"
+  "hirameki-patent:US1906236"
+  ":hirameki.patent/title"
+  "Reenforced, stable, and sterile aqueous protein preparations"]
+ [":db/add"
+  "hirameki-patent:US1906236"
+  ":hirameki.patent/jurisdiction"
+  ":us"]
+ [":db/add"
+  "hirameki-patent:US1906236"
+  ":hirameki.patent/field"
+  "UNKNOWN"]
+ [":db/add"
+  "hirameki-patent:US1906236"
+  ":hirameki.patent/assignee"
+  ":h-a-metz-lab"]
+ [":db/add"
+  "hirameki-patent:US1906236"
+  ":hirameki.patent/status"
+  ":granted"]
+ [":db/add"
+  "hirameki-patent:US1906236"
+  ":hirameki.patent/open-license"
+  ":none"]
+ [":db/add"
+  "hirameki-patent:US1906236"
+  ":hirameki.obs/release-status"
+  ":public-domain"]
+ [":db/add"
+  "hirameki-patent:US1906236"
+  ":hirameki/sourcing"
+  ":authoritative"]
+ [":db/add" "hirameki-patent:US1906236" ":hirameki/derived" true]
+ [":db/add"
+  "hirameki-patent:US1906236"
+  ":hirameki.obs/years-to-expiry"
+  -75]
+ [":db/add"
+  "hirameki-patent:US1906236"
+  ":hirameki/source"
+  "https://patents.google.com/patent/US1906236/en"]
+ [":db/add"
   "hirameki-patent:US1921368"
   ":hirameki.patent/title"
   "Process of coating paper"]
@@ -9959,78 +10033,4 @@
  [":db/add"
   "hirameki-patent:US1939691"
   ":hirameki.patent/assignee"
-  ":ciba-products"]
- [":db/add"
-  "hirameki-patent:US1939691"
-  ":hirameki.patent/status"
-  ":granted"]
- [":db/add"
-  "hirameki-patent:US1939691"
-  ":hirameki.patent/open-license"
-  ":none"]
- [":db/add"
-  "hirameki-patent:US1939691"
-  ":hirameki.obs/release-status"
-  ":public-domain"]
- [":db/add"
-  "hirameki-patent:US1939691"
-  ":hirameki/sourcing"
-  ":authoritative"]
- [":db/add" "hirameki-patent:US1939691" ":hirameki/derived" true]
- [":db/add"
-  "hirameki-patent:US1939691"
-  ":hirameki.obs/years-to-expiry"
-  -79]
- [":db/add"
-  "hirameki-patent:US1939691"
-  ":hirameki/source"
-  "https://patents.google.com/patent/US1939691/en"]
- [":db/add"
-  "hirameki-patent:US1951035"
-  ":hirameki.patent/title"
-  "Apparatus for recording and controlling"]
- [":db/add"
-  "hirameki-patent:US1951035"
-  ":hirameki.patent/jurisdiction"
-  ":us"]
- [":db/add"
-  "hirameki-patent:US1951035"
-  ":hirameki.patent/field"
-  "UNKNOWN"]
- [":db/add"
-  "hirameki-patent:US1951035"
-  ":hirameki.patent/assignee"
-  ":leeds-and-northrup"]
- [":db/add"
-  "hirameki-patent:US1951035"
-  ":hirameki.patent/status"
-  ":granted"]
- [":db/add"
-  "hirameki-patent:US1951035"
-  ":hirameki.patent/open-license"
-  ":none"]
- [":db/add"
-  "hirameki-patent:US1951035"
-  ":hirameki.obs/release-status"
-  ":public-domain"]
- [":db/add"
-  "hirameki-patent:US1951035"
-  ":hirameki/sourcing"
-  ":authoritative"]
- [":db/add" "hirameki-patent:US1951035" ":hirameki/derived" true]
- [":db/add"
-  "hirameki-patent:US1951035"
-  ":hirameki.obs/years-to-expiry"
-  -78]
- [":db/add"
-  "hirameki-patent:US1951035"
-  ":hirameki/source"
-  "https://patents.google.com/patent/US1951035/en"]
- [":db/add"
-  "hirameki-patent:US1968131"
-  ":hirameki.patent/title"
-  "Liquid separating device"]
- [":db/add"
-  "hirameki-patent:US1968131"
-  ":hirameki.patent/jurisdiction"
-  ":us"]]
+  ":ciba-products"]]

@@ -486,6 +486,40 @@
   "hirameki-patent:CA729581A"
   ":hirameki/source"
   "https://patents.google.com/patent/CA729581A/en"]
+ [":db/add" "hirameki-patent:DE116806C" ":hirameki.patent/title" ""]
+ [":db/add"
+  "hirameki-patent:DE116806C"
+  ":hirameki.patent/jurisdiction"
+  ":de"]
+ [":db/add"
+  "hirameki-patent:DE116806C"
+  ":hirameki.patent/field"
+  "UNKNOWN"]
+ [":db/add"
+  "hirameki-patent:DE116806C"
+  ":hirameki.patent/assignee"
+  ":unassigned"]
+ [":db/add"
+  "hirameki-patent:DE116806C"
+  ":hirameki.patent/status"
+  ":pending"]
+ [":db/add"
+  "hirameki-patent:DE116806C"
+  ":hirameki.patent/open-license"
+  ":none"]
+ [":db/add"
+  "hirameki-patent:DE116806C"
+  ":hirameki.obs/release-status"
+  ":pending"]
+ [":db/add"
+  "hirameki-patent:DE116806C"
+  ":hirameki/sourcing"
+  ":authoritative"]
+ [":db/add" "hirameki-patent:DE116806C" ":hirameki/derived" true]
+ [":db/add"
+  "hirameki-patent:DE116806C"
+  ":hirameki/source"
+  "https://patents.google.com/patent/DE116806C/en"]
  [":db/add" "hirameki-patent:DE139666C" ":hirameki.patent/title" ""]
  [":db/add"
   "hirameki-patent:DE139666C"
@@ -9964,37 +9998,4 @@
  [":db/add"
   "hirameki-patent:JP2001009357A"
   ":hirameki.patent/title"
-  "Coating method"]
- [":db/add"
-  "hirameki-patent:JP2001009357A"
-  ":hirameki.patent/jurisdiction"
-  ":jp"]
- [":db/add"
-  "hirameki-patent:JP2001009357A"
-  ":hirameki.patent/field"
-  "UNKNOWN"]
- [":db/add"
-  "hirameki-patent:JP2001009357A"
-  ":hirameki.patent/assignee"
-  ":nippon-paint"]
- [":db/add"
-  "hirameki-patent:JP2001009357A"
-  ":hirameki.patent/status"
-  ":pending"]
- [":db/add"
-  "hirameki-patent:JP2001009357A"
-  ":hirameki.patent/open-license"
-  ":none"]
- [":db/add"
-  "hirameki-patent:JP2001009357A"
-  ":hirameki.obs/release-status"
-  ":pending"]
- [":db/add"
-  "hirameki-patent:JP2001009357A"
-  ":hirameki/sourcing"
-  ":authoritative"]
- [":db/add" "hirameki-patent:JP2001009357A" ":hirameki/derived" true]
- [":db/add"
-  "hirameki-patent:JP2001009357A"
-  ":hirameki.obs/years-to-expiry"
-  -6]]
+  "Coating method"]]
