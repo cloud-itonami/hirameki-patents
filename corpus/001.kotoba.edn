@@ -1,4 +1,80 @@
-[{:assignees [:general-electric],
+[{:jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2369577/en",
+  :title "Method and apparatus for counting blood corpuscles",
+  :status :granted,
+  :id "US2369577",
+  :sourcing :authoritative,
+  :filing-year 1941,
+  :assignee :unassigned,
+  :grant-year 1945,
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:wallace-and-tiernan],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2370871/en",
+  :title "Chlorine detection by electrode depolarization",
+  :status :granted,
+  :id "US2370871",
+  :sourcing :authoritative,
+  :filing-year 1942,
+  :assignee :wallace-and-tiernan,
+  :grant-year 1945,
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:western-union-telegraph],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2374214/en",
+  :title "Conductive papers",
+  :status :granted,
+  :id "US2374214",
+  :sourcing :authoritative,
+  :filing-year 1939,
+  :assignee :western-union-telegraph,
+  :grant-year 1945,
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:united-gas-improvement],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2375256/en",
+  :title "Process for controlling polymerization reactions",
+  :status :granted,
+  :id "US2375256",
+  :sourcing :authoritative,
+  :filing-year 1939,
+  :assignee :united-gas-improvement,
+  :grant-year 1945,
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:callenders-cable-and-construction],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2377153/en",
+  :title "Electric cable",
+  :status :granted,
+  :id "US2377153",
+  :sourcing :authoritative,
+  :filing-year 1942,
+  :assignee :callenders-cable-and-construction,
+  :grant-year 1945,
+  :term-years 20,
+  :open-license :none}
+ {:jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2377426/en",
+  :title "Humidity responsive device",
+  :status :granted,
+  :id "US2377426",
+  :sourcing :authoritative,
+  :filing-year 1943,
+  :assignee :unassigned,
+  :grant-year 1945,
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:general-electric],
   :jurisdiction :us,
   :field "UNKNOWN",
   :source "https://patents.google.com/patent/US2377867/en",
@@ -34,6 +110,18 @@
   :sourcing :authoritative,
   :filing-year 1943,
   :assignee :westinghouse-electric,
+  :grant-year 1945,
+  :term-years 20,
+  :open-license :none}
+ {:jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2379459/en",
+  :title "Temperature indicator",
+  :status :granted,
+  :id "US2379459",
+  :sourcing :authoritative,
+  :filing-year 1944,
+  :assignee :unassigned,
   :grant-year 1945,
   :term-years 20,
   :open-license :none}
@@ -266,6 +354,18 @@
   :sourcing :authoritative,
   :filing-year 1943,
   :assignee :bird-and-son,
+  :grant-year 1946,
+  :term-years 20,
+  :open-license :none}
+ {:jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2408058/en",
+  :title "Hygroscopic material dispenser",
+  :status :granted,
+  :id "US2408058",
+  :sourcing :authoritative,
+  :filing-year 1944,
+  :assignee :unassigned,
   :grant-year 1946,
   :term-years 20,
   :open-license :none}
@@ -827,6 +927,17 @@
   :assignee :unassigned,
   :grant-year 1948,
   :cites ["US1891870" "US2015089" "US556188"],
+  :term-years 20,
+  :open-license :none}
+ {:jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US245270/en",
+  :title "Can-filling machine",
+  :status :granted,
+  :id "US245270",
+  :sourcing :authoritative,
+  :assignee :unassigned,
+  :grant-year 1881,
   :term-years 20,
   :open-license :none}
  {:assignees [:square-d],
@@ -1503,6 +1614,25 @@
   :grant-year 1951,
   :term-years 20,
   :open-license :none}
+ {:jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2542133/en",
+  :title "Apparatus and method for canning fish",
+  :status :granted,
+  :id "US2542133",
+  :sourcing :authoritative,
+  :filing-year 1948,
+  :assignee :unassigned,
+  :grant-year 1951,
+  :cites
+  ["US2015089"
+   "US2037724"
+   "US2041986"
+   "US2044813"
+   "US227283"
+   "US2411188"],
+  :term-years 20,
+  :open-license :none}
  {:assignees [:archer-daniels-midland],
   :jurisdiction :us,
   :field "UNKNOWN",
@@ -1554,6 +1684,30 @@
   :assignee :socony-vacuum-oil,
   :grant-year 1951,
   :cites ["US2051320" "US2265357" "US2286985" "US2403631" "US2459512"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:phillips-petroleum],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2554414/en",
+  :title "Apparatus for determining a chemically reactive gas",
+  :status :granted,
+  :id "US2554414",
+  :sourcing :authoritative,
+  :filing-year 1945,
+  :assignee :phillips-petroleum,
+  :grant-year 1951,
+  :cites
+  ["DE565192C"
+   "DE639177C"
+   "GB190225958A"
+   "GB191500379A"
+   "US1711742"
+   "US2113063"
+   "US2153568"
+   "US2232622"
+   "US2345090"
+   "US2382381"],
   :term-years 20,
   :open-license :none}
  {:assignees [:elizabeth-r-b-stuart],
@@ -1645,6 +1799,43 @@
    "US2440039"
    "US376350"
    "US988981"],
+  :term-years 20,
+  :open-license :none}
+ {:jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2567445/en",
+  :title
+  "Method of measuring the ph of aqueous liquids, moist foodstuffs, and the like",
+  :status :granted,
+  :id "US2567445",
+  :sourcing :authoritative,
+  :filing-year 1946,
+  :assignee :unassigned,
+  :grant-year 1951,
+  :cites
+  ["GB412952A"
+   "US1238123"
+   "US1538277"
+   "US1831894"
+   "US1936312"
+   "US2038298"
+   "US2046267"
+   "US2063245"
+   "US2099341"
+   "US2115318"
+   "US2128338"
+   "US2129406"
+   "US2156880"
+   "US2182964"
+   "US2214354"
+   "US2229155"
+   "US2249867"
+   "US2250980"
+   "US2271724"
+   "US2313076"
+   "US2411012"
+   "US2460215"
+   "US2485566"],
   :term-years 20,
   :open-license :none}
  {:assignees [:bf-goodrich],
@@ -1980,6 +2171,39 @@
    "US2388727"
    "US2411741"
    "US2484618"],
+  :term-years 20,
+  :open-license :none}
+ {:jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2602729/en",
+  :title
+  "Apparatus for determining the concentration of a chemically active gas in an atmosphere",
+  :status :granted,
+  :id "US2602729",
+  :sourcing :authoritative,
+  :filing-year 1946,
+  :assignee :unassigned,
+  :grant-year 1952,
+  :cites
+  ["GB191500379A"
+   "GB264820A"
+   "GB396672A"
+   "GB494882A"
+   "US1512893"
+   "US1919858"
+   "US1977002"
+   "US2049947"
+   "US2056663"
+   "US2073531"
+   "US2105226"
+   "US2113063"
+   "US2129754"
+   "US2153568"
+   "US2174349"
+   "US2176462"
+   "US2229155"
+   "US2232622"
+   "US2345090"],
   :term-years 20,
   :open-license :none}
  {:assignees [:bell-telephone-laboratories],
@@ -4052,6 +4276,17 @@
   :cites ["US1974522" "US2369577" "US2480312" "US2584052" "US2661902"],
   :term-years 20,
   :open-license :none}
+ {:jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US279135/en",
+  :title "William h",
+  :status :granted,
+  :id "US279135",
+  :sourcing :authoritative,
+  :assignee :unassigned,
+  :grant-year 1883,
+  :term-years 20,
+  :open-license :none}
  {:assignees [:general-electric],
   :jurisdiction :us,
   :field "UNKNOWN",
@@ -4452,6 +4687,20 @@
    "US2430479"
    "US2650212"
    "US2713884"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:miles-laboratories],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2838377/en",
+  :title "Blood test",
+  :status :granted,
+  :id "US2838377",
+  :sourcing :authoritative,
+  :filing-year 1953,
+  :assignee :miles-laboratories,
+  :grant-year 1958,
+  :cites ["DE592923C" "US2290436" "US2387244" "US2418392" "US2567445"],
   :term-years 20,
   :open-license :none}
  {:assignees [:wr-grace-and],
@@ -6387,6 +6636,17 @@
   :assignee :eastman-kodak,
   :grant-year 1961,
   :cites ["US2652345" "US2691582" "US2788336" "US2865753"],
+  :term-years 20,
+  :open-license :none}
+ {:jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US301598/en",
+  :title "Thony r",
+  :status :granted,
+  :id "US301598",
+  :sourcing :authoritative,
+  :assignee :unassigned,
+  :grant-year 1884,
   :term-years 20,
   :open-license :none}
  {:assignees [:bb-chemical],
@@ -9722,227 +9982,5 @@
    "US2919205"
    "US3044896"
    "US3108017"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:burroughs-wellcome-usa],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3322634/en",
-  :title
-  "Method of bonding protein antigen to mammalian red blood cells",
-  :status :granted,
-  :id "US3322634",
-  :sourcing :authoritative,
-  :filing-year 1963,
-  :assignee :burroughs-wellcome-usa,
-  :grant-year 1967,
-  :term-years 20,
-  :open-license :none}
- {:assignees [:mead],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3326712/en",
-  :title "Transfer print receiving paper and method of producing same",
-  :status :granted,
-  :id "US3326712",
-  :sourcing :authoritative,
-  :filing-year 1964,
-  :assignee :mead,
-  :grant-year 1967,
-  :cites ["US2558857" "US2759825" "US2789054" "US2949382" "US3174859"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:international-business-machines],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3327117/en",
-  :title "Cancer cell detector using two wavelengths for comparison",
-  :status :granted,
-  :id "US3327117",
-  :sourcing :authoritative,
-  :filing-year 1963,
-  :assignee :international-business-machines,
-  :grant-year 1967,
-  :cites ["US2395489" "US2790438" "US3210546"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:international-business-machines],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3327119/en",
-  :title "Method and apparatus for detecting cancer cells",
-  :status :granted,
-  :id "US3327119",
-  :sourcing :authoritative,
-  :filing-year 1964,
-  :assignee :international-business-machines,
-  :grant-year 1967,
-  :cites ["US2395489" "US2790438" "US3210546"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:honeywell],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3328277/en",
-  :title "Oxygen sensor with a scavenger electrode",
-  :status :granted,
-  :id "US3328277",
-  :sourcing :authoritative,
-  :filing-year 1964,
-  :assignee :honeywell,
-  :grant-year 1967,
-  :cites ["US2805191" "US3071530" "US3260656" "US3272725"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:sankyo],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3328389/en",
-  :title "Process for preparing nucleotide derivatives",
-  :status :granted,
-  :id "US3328389",
-  :sourcing :authoritative,
-  :filing-year 1965,
-  :assignee :sankyo,
-  :grant-year 1967,
-  :cites ["US3208997"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:exxon-research-and-engineering],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3329004/en",
-  :title "Coated piezoelectric analyzer",
-  :status :granted,
-  :id "US3329004",
-  :sourcing :authoritative,
-  :filing-year 1963,
-  :assignee :exxon-research-and-engineering,
-  :grant-year 1967,
-  :cites ["US1559461" "US2571171" "US2768069" "US3164004" "US3194053"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:buckbee-mears],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3329541/en",
-  :title "Method of forming fine mesh screens",
-  :status :granted,
-  :id "US3329541",
-  :sourcing :authoritative,
-  :filing-year 1964,
-  :assignee :buckbee-mears,
-  :grant-year 1967,
-  :cites ["US2536383" "US2596617" "US378423"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:union-carbide],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3330796/en",
-  :title "Non-blocking polyolefin compositions",
-  :status :granted,
-  :id "US3330796",
-  :sourcing :authoritative,
-  :filing-year 1957,
-  :assignee :union-carbide,
-  :grant-year 1967,
-  :cites ["FR1132791A" "US2770608" "US2770609"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:ajinomoto],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3332935/en",
-  :title "Preparation of guanosine and intermediates therein",
-  :status :granted,
-  :id "US3332935",
-  :sourcing :authoritative,
-  :filing-year 1964,
-  :assignee :ajinomoto,
-  :grant-year 1967,
-  :cites ["US3082203" "US3170917" "US3201388" "US3208997"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:shell-oil],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3333024/en",
-  :title
-  "Block polymers, compositions containing them and process of their preparation",
-  :status :granted,
-  :id "US3333024",
-  :sourcing :authoritative,
-  :filing-year 1963,
-  :assignee :shell-oil,
-  :grant-year 1967,
-  :cites ["US3030346" "US3239478"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:abbott-laboratories],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3334039/en",
-  :title "Electrode construction in oxygen sensor",
-  :status :granted,
-  :id "US3334039",
-  :sourcing :authoritative,
-  :filing-year 1964,
-  :assignee :abbott-laboratories,
-  :grant-year 1967,
-  :cites
-  ["US2281594"
-   "US2480557"
-   "US2816739"
-   "US2906801"
-   "US2928782"
-   "US2960455"
-   "US2964941"
-   "US3224436"
-   "US3227643"
-   "US7799793"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:warren-sd],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3335017/en",
-  :title "Paper with release coating and process for making same",
-  :status :granted,
-  :id "US3335017",
-  :sourcing :authoritative,
-  :filing-year 1962,
-  :assignee :warren-sd,
-  :grant-year 1967,
-  :cites ["US2507200" "US2739910" "US2970932"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:pittsburgh-plate-glass],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3335524/en",
-  :title "Thermal break door",
-  :status :granted,
-  :id "US3335524",
-  :sourcing :authoritative,
-  :filing-year 1965,
-  :assignee :pittsburgh-plate-glass,
-  :grant-year 1967,
-  :cites ["AT225395B" "US1832847" "US2163566" "US2877876" "US3055468"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:upjohn],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3336289/en",
-  :title
-  "9-beta-d-ribofuranosyl-7-deazapurine 5&#39;-phosphate esters",
-  :status :granted,
-  :id "US3336289",
-  :sourcing :authoritative,
-  :filing-year 1965,
-  :assignee :upjohn,
-  :grant-year 1967,
-  :cites ["US3170835" "US3284440" "US3300479"],
   :term-years 20,
   :open-license :none}]
