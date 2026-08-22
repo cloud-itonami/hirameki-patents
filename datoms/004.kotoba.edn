@@ -6552,6 +6552,47 @@
   ":hirameki/source"
   "https://patents.google.com/patent/US3269419/en"]
  [":db/add"
+  "hirameki-patent:US3274914"
+  ":hirameki.patent/title"
+  "Camera focusing devices"]
+ [":db/add"
+  "hirameki-patent:US3274914"
+  ":hirameki.patent/jurisdiction"
+  ":us"]
+ [":db/add"
+  "hirameki-patent:US3274914"
+  ":hirameki.patent/field"
+  "UNKNOWN"]
+ [":db/add"
+  "hirameki-patent:US3274914"
+  ":hirameki.patent/assignee"
+  ":agfa"]
+ [":db/add"
+  "hirameki-patent:US3274914"
+  ":hirameki.patent/status"
+  ":granted"]
+ [":db/add"
+  "hirameki-patent:US3274914"
+  ":hirameki.patent/open-license"
+  ":none"]
+ [":db/add"
+  "hirameki-patent:US3274914"
+  ":hirameki.obs/release-status"
+  ":public-domain"]
+ [":db/add"
+  "hirameki-patent:US3274914"
+  ":hirameki/sourcing"
+  ":authoritative"]
+ [":db/add" "hirameki-patent:US3274914" ":hirameki/derived" true]
+ [":db/add"
+  "hirameki-patent:US3274914"
+  ":hirameki.obs/years-to-expiry"
+  -42]
+ [":db/add"
+  "hirameki-patent:US3274914"
+  ":hirameki/source"
+  "https://patents.google.com/patent/US3274914/en"]
+ [":db/add"
   "hirameki-patent:US3275534"
   ":hirameki.patent/title"
   "Bioelectric method for the detection of anticholinester-ases"]
@@ -10248,41 +10289,4 @@
  [":db/add"
   "hirameki-patent:US3443110"
   ":hirameki.patent/status"
-  ":granted"]
- [":db/add"
-  "hirameki-patent:US3443110"
-  ":hirameki.patent/open-license"
-  ":none"]
- [":db/add"
-  "hirameki-patent:US3443110"
-  ":hirameki.obs/release-status"
-  ":public-domain"]
- [":db/add"
-  "hirameki-patent:US3443110"
-  ":hirameki/sourcing"
-  ":authoritative"]
- [":db/add" "hirameki-patent:US3443110" ":hirameki/derived" true]
- [":db/add"
-  "hirameki-patent:US3443110"
-  ":hirameki.obs/years-to-expiry"
-  -40]
- [":db/add"
-  "hirameki-patent:US3443110"
-  ":hirameki/source"
-  "https://patents.google.com/patent/US3443110/en"]
- [":db/add"
-  "hirameki-patent:US3444041"
-  ":hirameki.patent/title"
-  "In vitro synthesis of ribonucleic acids and enzyme therefor"]
- [":db/add"
-  "hirameki-patent:US3444041"
-  ":hirameki.patent/jurisdiction"
-  ":us"]
- [":db/add"
-  "hirameki-patent:US3444041"
-  ":hirameki.patent/field"
-  "UNKNOWN"]
- [":db/add"
-  "hirameki-patent:US3444041"
-  ":hirameki.patent/assignee"
-  ":university-of-illinois-at-urbana-champaign"]]
+  ":granted"]]
