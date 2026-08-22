@@ -6084,6 +6084,47 @@
   ":hirameki/source"
   "https://patents.google.com/patent/FR501330A/en"]
  [":db/add"
+  "hirameki-patent:FR657831A"
+  ":hirameki.patent/title"
+  "Device for automatic unloading of bottles"]
+ [":db/add"
+  "hirameki-patent:FR657831A"
+  ":hirameki.patent/jurisdiction"
+  ":fr"]
+ [":db/add"
+  "hirameki-patent:FR657831A"
+  ":hirameki.patent/field"
+  "UNKNOWN"]
+ [":db/add"
+  "hirameki-patent:FR657831A"
+  ":hirameki.patent/assignee"
+  ":miller-manufacturing"]
+ [":db/add"
+  "hirameki-patent:FR657831A"
+  ":hirameki.patent/status"
+  ":granted"]
+ [":db/add"
+  "hirameki-patent:FR657831A"
+  ":hirameki.patent/open-license"
+  ":none"]
+ [":db/add"
+  "hirameki-patent:FR657831A"
+  ":hirameki.obs/release-status"
+  ":public-domain"]
+ [":db/add"
+  "hirameki-patent:FR657831A"
+  ":hirameki/sourcing"
+  ":authoritative"]
+ [":db/add" "hirameki-patent:FR657831A" ":hirameki/derived" true]
+ [":db/add"
+  "hirameki-patent:FR657831A"
+  ":hirameki.obs/years-to-expiry"
+  -78]
+ [":db/add"
+  "hirameki-patent:FR657831A"
+  ":hirameki/source"
+  "https://patents.google.com/patent/FR657831A/en"]
+ [":db/add"
   "hirameki-patent:FR837918A"
   ":hirameki.patent/title"
   "Device for the continuous detection of the variation of opacity or color of a liquid"]
@@ -9956,41 +9997,4 @@
  [":db/add"
   "hirameki-patent:JP2001026751A"
   ":hirameki.obs/years-to-expiry"
-  -7]
- [":db/add"
-  "hirameki-patent:JP2001026751A"
-  ":hirameki/source"
-  "https://patents.google.com/patent/JP2001026751A/en"]
- [":db/add"
-  "hirameki-patent:JP2001031893A"
-  ":hirameki.patent/title"
-  "Coating composition containing aluminum pigment"]
- [":db/add"
-  "hirameki-patent:JP2001031893A"
-  ":hirameki.patent/jurisdiction"
-  ":jp"]
- [":db/add"
-  "hirameki-patent:JP2001031893A"
-  ":hirameki.patent/field"
-  "UNKNOWN"]
- [":db/add"
-  "hirameki-patent:JP2001031893A"
-  ":hirameki.patent/assignee"
-  ":kansai-paint"]
- [":db/add"
-  "hirameki-patent:JP2001031893A"
-  ":hirameki.patent/status"
-  ":pending"]
- [":db/add"
-  "hirameki-patent:JP2001031893A"
-  ":hirameki.patent/open-license"
-  ":none"]
- [":db/add"
-  "hirameki-patent:JP2001031893A"
-  ":hirameki.obs/release-status"
-  ":pending"]
- [":db/add"
-  "hirameki-patent:JP2001031893A"
-  ":hirameki/sourcing"
-  ":authoritative"]
- [":db/add" "hirameki-patent:JP2001031893A" ":hirameki/derived" true]]
+  -7]]
