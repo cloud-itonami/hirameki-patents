@@ -1,4 +1,56 @@
-[{:assignees [:johns-manville],
+[{:assignees [:buffalo-foundry-&-machine],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2316176/en",
+  :title "Atmospheric drum drier",
+  :status :granted,
+  :id "US2316176",
+  :sourcing :authoritative,
+  :filing-year 1940,
+  :assignee :buffalo-foundry-&-machine,
+  :grant-year 1943,
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:champion-paper-and-fibre],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2316202/en",
+  :title "Method for coating paper",
+  :status :granted,
+  :id "US2316202",
+  :sourcing :authoritative,
+  :filing-year 1940,
+  :assignee :champion-paper-and-fibre,
+  :grant-year 1943,
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:canal-nat-bank-of-portland],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2319267/en",
+  :title "Individual multilayer fibrous resinbearing article",
+  :status :granted,
+  :id "US2319267",
+  :sourcing :authoritative,
+  :filing-year 1941,
+  :assignee :canal-nat-bank-of-portland,
+  :grant-year 1943,
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:new-wrinkle],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2320513/en",
+  :title "Machine for coating absorbent surfaces",
+  :status :granted,
+  :id "US2320513",
+  :sourcing :authoritative,
+  :filing-year 1941,
+  :assignee :new-wrinkle,
+  :grant-year 1943,
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:johns-manville],
   :jurisdiction :us,
   :field "UNKNOWN",
   :source "https://patents.google.com/patent/US2321938/en",
@@ -318,6 +370,18 @@
   :id "US2349979",
   :sourcing :authoritative,
   :filing-year 1941,
+  :assignee :unassigned,
+  :grant-year 1944,
+  :term-years 20,
+  :open-license :none}
+ {:jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2350239/en",
+  :title "Sediment test record card",
+  :status :granted,
+  :id "US2350239",
+  :sourcing :authoritative,
+  :filing-year 1942,
   :assignee :unassigned,
   :grant-year 1944,
   :term-years 20,
@@ -730,6 +794,19 @@
   :sourcing :authoritative,
   :filing-year 1944,
   :assignee :combined-locks-paper,
+  :grant-year 1946,
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:dow-chemical],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2399125/en",
+  :title "Well packer",
+  :status :granted,
+  :id "US2399125",
+  :sourcing :authoritative,
+  :filing-year 1939,
+  :assignee :dow-chemical,
   :grant-year 1946,
   :term-years 20,
   :open-license :none}
@@ -1191,6 +1268,26 @@
   :assignee :joe-a-stone,
   :grant-year 1948,
   :cites ["US1813636" "US2318559" "US2360308"],
+  :term-years 20,
+  :open-license :none}
+ {:jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2436252/en",
+  :title "Grinding apparatus and process",
+  :status :granted,
+  :id "US2436252",
+  :sourcing :authoritative,
+  :filing-year 1946,
+  :assignee :unassigned,
+  :grant-year 1948,
+  :cites
+  ["GB311931A"
+   "US1757612"
+   "US1850054"
+   "US2032901"
+   "US2091655"
+   "US2386623"
+   "US344777"],
   :term-years 20,
   :open-license :none}
  {:assignees [:johns-manville],
@@ -2625,6 +2722,20 @@
   :cites ["FR743994A" "US2256642" "US2438205" "US2461310" "US2471601"],
   :term-years 20,
   :open-license :none}
+ {:assignees [:baker-oil-tools],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2591603/en",
+  :title "Plug catcher and indicator",
+  :status :granted,
+  :id "US2591603",
+  :sourcing :authoritative,
+  :filing-year 1946,
+  :assignee :baker-oil-tools,
+  :grant-year 1952,
+  :cites ["US2310483"],
+  :term-years 20,
+  :open-license :none}
  {:assignees [:blaw-knox],
   :jurisdiction :us,
   :field "UNKNOWN",
@@ -2836,6 +2947,18 @@
    "US2345090"],
   :term-years 20,
   :open-license :none}
+ {:jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2603293/en",
+  :title "Lynes",
+  :status :granted,
+  :id "US2603293",
+  :sourcing :authoritative,
+  :assignee :unassigned,
+  :grant-year 1952,
+  :cites ["US2177601" "US2187480" "US2201096" "US2344120"],
+  :term-years 20,
+  :open-license :none}
  {:assignees [:bell-telephone-laboratories],
   :jurisdiction :us,
   :field "UNKNOWN",
@@ -2876,6 +2999,19 @@
   :assignee :canadian-industries,
   :grant-year 1952,
   :cites ["US2131120" "US2527806" "US2530983"],
+  :term-years 20,
+  :open-license :none}
+ {:jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2606616/en",
+  :title "Well treating and flow controlling device",
+  :status :granted,
+  :id "US2606616",
+  :sourcing :authoritative,
+  :filing-year 1948,
+  :assignee :unassigned,
+  :grant-year 1952,
+  :cites ["US2118428" "US2352612" "US2447546"],
   :term-years 20,
   :open-license :none}
  {:assignees [:ei-du-pont-de-nemours-and],
@@ -2969,6 +3105,28 @@
   :cites ["US2395489" "US2411672" "US2421382" "US2452122"],
   :term-years 20,
   :open-license :none}
+ {:assignees [:lane-wells],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2618344/en",
+  :title "Bridging plug",
+  :status :granted,
+  :id "US2618344",
+  :sourcing :authoritative,
+  :filing-year 1946,
+  :assignee :lane-wells,
+  :grant-year 1952,
+  :cites
+  ["US1342927"
+   "US1497629"
+   "US1549168"
+   "US2050970"
+   "US2053448"
+   "US2207448"
+   "US2229635"
+   "US2248908"],
+  :term-years 20,
+  :open-license :none}
  {:assignees [:british-artificial-resin-compa],
   :jurisdiction :us,
   :field "UNKNOWN",
@@ -3010,6 +3168,20 @@
    "US2231196"
    "US2296990"
    "US2367107"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:phillips-petroleum],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2629446/en",
+  :title "Drilling hole packer",
+  :status :granted,
+  :id "US2629446",
+  :sourcing :authoritative,
+  :filing-year 1949,
+  :assignee :phillips-petroleum,
+  :grant-year 1953,
+  :cites ["US1384305" "US1406682" "US2503719"],
   :term-years 20,
   :open-license :none}
  {:assignees [:ei-du-pont-de-nemours-and],
@@ -3927,6 +4099,31 @@
    "US2576134"],
   :term-years 20,
   :open-license :none}
+ {:assignees [:baker-oil-tools],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2695065/en",
+  :title "Well packer, setting apparatus, and dump bailer",
+  :status :granted,
+  :id "US2695065",
+  :sourcing :authoritative,
+  :filing-year 1950,
+  :assignee :baker-oil-tools,
+  :grant-year 1954,
+  :cites
+  ["US1196920"
+   "US1515066"
+   "US1693619"
+   "US1720993"
+   "US1850218"
+   "US2177601"
+   "US2186230"
+   "US2202173"
+   "US2370832"
+   "US2373005"
+   "US2618344"],
+  :term-years 20,
+  :open-license :none}
  {:assignees [:shell-development],
   :jurisdiction :us,
   :field "UNKNOWN",
@@ -4056,6 +4253,31 @@
   :assignee :general-electric,
   :grant-year 1955,
   :cites ["GB630647A" "US2324483" "US2510503" "US2557667"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:baker-oil-tools],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2707998/en",
+  :title "Setting tool, dump bailer, and well packer apparatus",
+  :status :granted,
+  :id "US2707998",
+  :sourcing :authoritative,
+  :filing-year 1950,
+  :assignee :baker-oil-tools,
+  :grant-year 1955,
+  :cites
+  ["US1913548"
+   "US1954608"
+   "US2017451"
+   "US2189445"
+   "US2189703"
+   "US2207478"
+   "US2235318"
+   "US2312862"
+   "US2357589"
+   "US2373006"
+   "US2618345"],
   :term-years 20,
   :open-license :none}
  {:assignees [:hartford-national-bank-and-trust],
@@ -4244,6 +4466,25 @@
    "US2458348"
    "US2481728"
    "US2542944"],
+  :term-years 20,
+  :open-license :none}
+ {:jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2717644/en",
+  :title "Plug for oil wells",
+  :status :granted,
+  :id "US2717644",
+  :sourcing :authoritative,
+  :filing-year 1952,
+  :assignee :unassigned,
+  :grant-year 1955,
+  :cites
+  ["GB618997A"
+   "US1342927"
+   "US1834434"
+   "US1913548"
+   "US2196658"
+   "US2216067"],
   :term-years 20,
   :open-license :none}
  {:jurisdiction :us,
@@ -4891,6 +5132,34 @@
    "US2654681"],
   :term-years 20,
   :open-license :none}
+ {:assignees [:exxon-research-and-engineering],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2769498/en",
+  :title "Apparatus for squeeze cementing well perforations",
+  :status :granted,
+  :id "US2769498",
+  :sourcing :authoritative,
+  :filing-year 1954,
+  :assignee :exxon-research-and-engineering,
+  :grant-year 1956,
+  :cites ["US2290141" "US2347729" "US2381929" "US2696259"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:nordisk-insulinlaboratorium],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2770572/en",
+  :title "Blood grouping card",
+  :status :granted,
+  :id "US2770572",
+  :sourcing :authoritative,
+  :filing-year 1952,
+  :assignee :nordisk-insulinlaboratorium,
+  :grant-year 1956,
+  :cites ["US1839573" "US2194131" "US2334636" "US2357253" "US2561339"],
+  :term-years 20,
+  :open-license :none}
  {:assignees [:aloe-as],
   :jurisdiction :us,
   :field "UNKNOWN",
@@ -5439,6 +5708,31 @@
   :cites ["US2069562" "US2430895" "US2508238" "US2651612"],
   :term-years 20,
   :open-license :none}
+ {:assignees [:exxon-research-and-engineering],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2805718/en",
+  :title "Method for running a tubular member in a well",
+  :status :granted,
+  :id "US2805718",
+  :sourcing :authoritative,
+  :filing-year 1954,
+  :assignee :exxon-research-and-engineering,
+  :grant-year 1957,
+  :cites
+  ["US2058825"
+   "US2171416"
+   "US2179017"
+   "US2352744"
+   "US2571478"
+   "US2636563"
+   "US2656151"
+   "US2673614"
+   "US2690123"
+   "US2698056"
+   "US2749989"],
+  :term-years 20,
+  :open-license :none}
  {:assignees [:commonwealth-engineering-company-of-ohio],
   :jurisdiction :us,
   :field "UNKNOWN",
@@ -5485,6 +5779,32 @@
    "US2312024"
    "US2693461"
    "US2743233"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:baker-oil-tools],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2815817/en",
+  :title "Well packer and setting apparatus therefor",
+  :status :granted,
+  :id "US2815817",
+  :sourcing :authoritative,
+  :filing-year 1950,
+  :assignee :baker-oil-tools,
+  :grant-year 1957,
+  :cites
+  ["US1342927"
+   "US1850218"
+   "US2177601"
+   "US2189937"
+   "US2201096"
+   "US2202173"
+   "US2222750"
+   "US2228243"
+   "US2338369"
+   "US2467801"
+   "US2492212"
+   "US2618344"],
   :term-years 20,
   :open-license :none}
  {:assignees [:shawinigan-resins],
@@ -6616,6 +6936,27 @@
   :assignee :warren-sd,
   :grant-year 1959,
   :cites ["US2597087" "US2711156" "US2772184" "US2776912" "US2790736"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:halliburton-oil-well-cementing],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2922478/en",
+  :title "Well packer",
+  :status :granted,
+  :id "US2922478",
+  :sourcing :authoritative,
+  :filing-year 1956,
+  :assignee :halliburton-oil-well-cementing,
+  :grant-year 1960,
+  :cites
+  ["US1842107"
+   "US2029380"
+   "US2155609"
+   "US2602511"
+   "US2611436"
+   "US2618344"
+   "US2633916"],
   :term-years 20,
   :open-license :none}
  {:assignees [:glanzstoff],
@@ -9643,314 +9984,5 @@
   :assignee :optron,
   :grant-year 1964,
   :cites ["US2304755" "US2692945"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:owens-illinois-glass],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3162543/en",
-  :title
-  "Coated paper products and coating compositions and method therefor",
-  :status :granted,
-  :id "US3162543",
-  :sourcing :authoritative,
-  :filing-year 1960,
-  :assignee :owens-illinois-glass,
-  :grant-year 1964,
-  :cites
-  ["US1956866"
-   "US2458191"
-   "US2869722"
-   "US2885074"
-   "US2996462"
-   "US3022289"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:azoplate],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3163531/en",
-  :title "Photoconductive layers for electrophotographic purposes",
-  :status :granted,
-  :id "US3163531",
-  :sourcing :authoritative,
-  :filing-year 1960,
-  :assignee :azoplate,
-  :grant-year 1964,
-  :cites
-  ["BE562336A"
-   "US2377868"
-   "US2477462"
-   "US2495890"
-   "US2935493"
-   "US2953546"
-   "US2954291"
-   "US2962376"],
-  :term-years 20,
-  :open-license :none}
- {:jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3163968/en",
-  :title "Graphite coated abrasive belts",
-  :status :granted,
-  :id "US3163968",
-  :sourcing :authoritative,
-  :filing-year 1962,
-  :assignee :unassigned,
-  :grant-year 1965,
-  :cites ["US2356367" "US2624160" "US2700623" "US2854351" "US3047526"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:exxon-research-and-engineering],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3164004/en",
-  :title "Coated piezoelectric analyzers",
-  :status :granted,
-  :id "US3164004",
-  :sourcing :authoritative,
-  :filing-year 1961,
-  :assignee :exxon-research-and-engineering,
-  :grant-year 1965,
-  :cites ["US1559461" "US2571171" "US2740032" "US2857532" "US2937524"],
-  :term-years 20,
-  :open-license :none}
- {:jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3166186/en",
-  :title
-  "Pressure sensitive labels, label stocks, and methods for manufacturing the same",
-  :status :granted,
-  :id "US3166186",
-  :sourcing :authoritative,
-  :filing-year 1962,
-  :assignee :unassigned,
-  :grant-year 1965,
-  :cites
-  ["US1996835"
-   "US2679928"
-   "US2732065"
-   "US2831277"
-   "US2883044"
-   "US3032463"
-   "US3038597"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:ei-du-pont-de-nemours-and],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3166435/en",
-  :title "Drying process for hydrophilic films",
-  :status :granted,
-  :id "US3166435",
-  :sourcing :authoritative,
-  :filing-year 1961,
-  :assignee :ei-du-pont-de-nemours-and,
-  :grant-year 1965,
-  :cites
-  ["US1978341"
-   "US2098534"
-   "US2201747"
-   "US2281496"
-   "US2321938"
-   "US2593207"
-   "US2597625"
-   "US2971857"
-   "US2977243"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:ei-du-pont-de-nemours-and],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3166532/en",
-  :title "Process for polymerizing an aromatic dialdehyde",
-  :status :granted,
-  :id "US3166532",
-  :sourcing :authoritative,
-  :filing-year 1961,
-  :assignee :ei-du-pont-de-nemours-and,
-  :grant-year 1965,
-  :cites ["US2848437"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:technicon-chromatography],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3166929/en",
-  :title
-  "Chromatography analysis apparatus with standardization provision",
-  :status :granted,
-  :id "US3166929",
-  :sourcing :authoritative,
-  :filing-year 1961,
-  :assignee :technicon-chromatography,
-  :grant-year 1965,
-  :cites ["US2797149" "US2890617"],
-  :term-years 20,
-  :open-license :none}
- {:jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3167485/en",
-  :title "Water insoluble modified enzymes",
-  :status :granted,
-  :id "US3167485",
-  :sourcing :authoritative,
-  :filing-year 1961,
-  :assignee :unassigned,
-  :grant-year 1965,
-  :term-years 20,
-  :open-license :none}
- {:assignees [:upjohn],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3167540/en",
-  :title "Derivatives of 7-d-ribofuranosyl-pyrrolopyrimidines",
-  :status :granted,
-  :id "US3167540",
-  :sourcing :authoritative,
-  :filing-year 1963,
-  :assignee :upjohn,
-  :grant-year 1965,
-  :cites ["US3049536"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:monsanto],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3170835/en",
-  :title
-  "Nitromethylbenzyl-phosphorothioic acid diesters and nematocidal methods employing same",
-  :status :granted,
-  :id "US3170835",
-  :sourcing :authoritative,
-  :filing-year 1957,
-  :assignee :monsanto,
-  :grant-year 1965,
-  :cites
-  ["CH257649A"
-   "US2177757"
-   "US2266514"
-   "US2494283"
-   "US2506344"
-   "US2526179"
-   "US2632020"
-   "US2679508"
-   "US2724719"
-   "US2758954"
-   "US2789124"
-   "US2802856"
-   "US2841520"
-   "US2979522"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:schwarz-biores],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3170917/en",
-  :title "Deamination of heterocyclic amino containing compounds",
-  :status :granted,
-  :id "US3170917",
-  :sourcing :authoritative,
-  :filing-year 1962,
-  :assignee :schwarz-biores,
-  :grant-year 1965,
-  :cites ["US3049536"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:spofa-vereinigte-pharma-werke],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3171833/en",
-  :title "Method of preparing 1-glucosyl-6-azauracils",
-  :status :granted,
-  :id "US3171833",
-  :sourcing :authoritative,
-  :filing-year 1962,
-  :assignee :spofa-vereinigte-pharma-werke,
-  :grant-year 1965,
-  :cites ["US3041335"],
-  :term-years 20,
-  :open-license :none}
- {:jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3172235/en",
-  :title "Apparatus for live cell propagation",
-  :status :granted,
-  :id "US3172235",
-  :sourcing :authoritative,
-  :filing-year 1961,
-  :assignee :unassigned,
-  :grant-year 1965,
-  :cites ["DE485041C" "US2658310" "US2975553"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:optische-industrie-de-oude-delft],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3173012/en",
-  :title
-  "Telescope system for simultaneously viewing two superposed images of the same objectat different magnifications",
-  :status :granted,
-  :id "US3173012",
-  :sourcing :authoritative,
-  :filing-year 1962,
-  :assignee :optische-industrie-de-oude-delft,
-  :grant-year 1965,
-  :cites ["DE1087366B" "US1966823" "US3054899"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:gevaert-photo-producten],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3174859/en",
-  :title
-  "Process for obtaining multiple photographic positive images by diffusiontransfer",
-  :status :granted,
-  :id "US3174859",
-  :sourcing :authoritative,
-  :filing-year 1960,
-  :assignee :gevaert-photo-producten,
-  :grant-year 1965,
-  :cites
-  ["GB805854A"
-   "GB830189A"
-   "US2484423"
-   "US2518698"
-   "US2753263"
-   "US2834676"
-   "US2857274"
-   "US2857276"
-   "US2983606"
-   "US3017270"
-   "US3075841"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:talb-ind],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3175907/en",
-  :title "Stripping resists from printing plates",
-  :status :granted,
-  :id "US3175907",
-  :sourcing :authoritative,
-  :filing-year 1963,
-  :assignee :talb-ind,
-  :grant-year 1965,
-  :cites ["US3051603"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:rca],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3177100/en",
-  :title
-  "Depositing epitaxial layer of silicon from a vapor mixture of sih4 and h3",
-  :status :granted,
-  :id "US3177100",
-  :sourcing :authoritative,
-  :filing-year 1963,
-  :assignee :rca,
-  :grant-year 1965,
-  :cites ["GB745698A" "US2916359" "US2993762" "US3078150"],
   :term-years 20,
   :open-license :none}]

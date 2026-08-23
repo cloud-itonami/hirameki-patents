@@ -1,4 +1,314 @@
-[{:assignees [:coulter-electronics],
+[{:assignees [:pharmacia],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3995018/en",
+  :title
+  "Method of binding immunoglobulin employing a polypeptide from microorganisms",
+  :status :granted,
+  :id "US3995018",
+  :sourcing :authoritative,
+  :filing-year 1973,
+  :assignee :pharmacia,
+  :grant-year 1976,
+  :cites ["US3555143" "US3788948" "US3790663" "US3850798"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:baxter-travenol-laboratories],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3995019/en",
+  :title "Diagnostic reagent system",
+  :status :granted,
+  :id "US3995019",
+  :sourcing :authoritative,
+  :filing-year 1975,
+  :assignee :baxter-travenol-laboratories,
+  :grant-year 1976,
+  :cites ["US3415804" "US3862302"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:syva],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3996345/en",
+  :title
+  "Fluorescence quenching with immunological pairs in immunoassays",
+  :status :granted,
+  :id "US3996345",
+  :sourcing :authoritative,
+  :filing-year 1975,
+  :assignee :syva,
+  :grant-year 1976,
+  :cites ["US3901654" "US3935074"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:inmont],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3998716/en",
+  :title "Method of applying coatings",
+  :status :granted,
+  :id "US3998716",
+  :sourcing :authoritative,
+  :filing-year 1974,
+  :assignee :inmont,
+  :grant-year 1976,
+  :cites
+  ["US3290235"
+   "US3326848"
+   "US3340172"
+   "US3499852"
+   "US3532613"
+   "US3541274"
+   "US3575909"
+   "US3658763"
+   "US3663383"
+   "US3819586"
+   "US3822240"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:syva],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3998943/en",
+  :title "Double receptor fluorescent immunoassay",
+  :status :granted,
+  :id "US3998943",
+  :sourcing :authoritative,
+  :filing-year 1973,
+  :assignee :syva,
+  :grant-year 1976,
+  :cites
+  ["US3656906"
+   "US3709868"
+   "US3766162"
+   "US3775536"
+   "US3789116"
+   "US3809782"
+   "US3817706"
+   "US3901654"
+   "US3935074"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:siemens],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3999122/en",
+  :title "Semiconductor sensing device for fluids",
+  :status :granted,
+  :id "US3999122",
+  :sourcing :authoritative,
+  :filing-year 1975,
+  :assignee :siemens,
+  :grant-year 1976,
+  :cites ["US3045198" "US3255324" "US3428892" "US3831432" "US3865550"],
+  :term-years 20,
+  :open-license :none}
+ {:jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US4000252/en",
+  :title "Immunoscintillation cell",
+  :status :granted,
+  :id "US4000252",
+  :sourcing :authoritative,
+  :filing-year 1974,
+  :assignee :unassigned,
+  :grant-year 1976,
+  :cites ["US3206602" "US3404270" "US3573220" "US3758412" "US3798448"],
+  :term-years 20,
+  :open-license :none}
+ {:jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US4002532/en",
+  :title "Enzyme conjugates",
+  :status :granted,
+  :id "US4002532",
+  :sourcing :authoritative,
+  :filing-year 1974,
+  :assignee :unassigned,
+  :grant-year 1977,
+  :cites ["US3639558" "US3654090" "US3839153" "US3859169"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:honeywell],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US4002899/en",
+  :title "Focus detecting apparatus",
+  :status :granted,
+  :id "US4002899",
+  :sourcing :authoritative,
+  :filing-year 1975,
+  :assignee :honeywell,
+  :grant-year 1977,
+  :cites ["US3450883" "US3493764" "US3610934" "US3684374" "US3844658"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:miles-laboratories],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US4003792/en",
+  :title
+  "Conjugates of acid polysaccharides and complex organic substances",
+  :status :granted,
+  :id "US4003792",
+  :sourcing :authoritative,
+  :filing-year 1972,
+  :assignee :miles-laboratories,
+  :grant-year 1977,
+  :cites ["GB1174854A"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:warner-lambert],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US4003988/en",
+  :title "Direct agglutination test for pregnancy",
+  :status :granted,
+  :id "US4003988",
+  :sourcing :authoritative,
+  :filing-year 1976,
+  :assignee :warner-lambert,
+  :grant-year 1977,
+  :cites
+  ["US3088875"
+   "US3171783"
+   "US3234096"
+   "US3236732"
+   "US3309275"
+   "US3551555"
+   "US3565987"
+   "US3862302"],
+  :term-years 20,
+  :open-license :none}
+ {:jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US4007008/en",
+  :title "Preparation of reference serum from animal blood",
+  :status :granted,
+  :id "US4007008",
+  :sourcing :authoritative,
+  :filing-year 1975,
+  :assignee :unassigned,
+  :grant-year 1977,
+  :cites ["US3269911" "US3298789" "US3640896" "US3682835" "US3873467"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:nelson-research-and-development],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US4007089/en",
+  :title "Method for binding biologically active compounds",
+  :status :granted,
+  :id "US4007089",
+  :sourcing :authoritative,
+  :filing-year 1975,
+  :assignee :nelson-research-and-development,
+  :grant-year 1977,
+  :cites ["US3824150" "US3843447"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:snamprogetti-spa],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US4008363/en",
+  :title
+  "Process for the preparation of adenine derivatives made functional and products obtained therefrom",
+  :status :granted,
+  :id "US4008363",
+  :sourcing :authoritative,
+  :filing-year 1975,
+  :assignee :snamprogetti-spa,
+  :grant-year 1977,
+  :cites ["US3287352" "US3475408"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:hoffmann-la-roche],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US4008397/en",
+  :title "Fluorometer flow cell",
+  :status :granted,
+  :id "US4008397",
+  :sourcing :authoritative,
+  :filing-year 1975,
+  :assignee :hoffmann-la-roche,
+  :grant-year 1977,
+  :cites ["US3413464" "US3586859" "US3917404"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:roe],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US4009782/en",
+  :title "Method and apparatus for sorting and counting fish eggs",
+  :status :granted,
+  :id "US4009782",
+  :sourcing :authoritative,
+  :filing-year 1975,
+  :assignee :roe,
+  :grant-year 1977,
+  :cites
+  ["US2961046"
+   "US3297157"
+   "US3517807"
+   "US3613884"
+   "US3746166"
+   "US3791517"
+   "US3827555"],
+  :term-years 20,
+  :open-license :none}
+ {:jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US4010251/en",
+  :title
+  "Scanning agent composition and use in imaging liver and for biliary function",
+  :status :granted,
+  :id "US4010251",
+  :sourcing :authoritative,
+  :filing-year 1974,
+  :assignee :unassigned,
+  :grant-year 1977,
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:general-electric],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US4011308/en",
+  :title
+  "Method for surface immunological detection of biological particles by the use of tagged antibodies",
+  :status :granted,
+  :id "US4011308",
+  :sourcing :authoritative,
+  :filing-year 1976,
+  :assignee :general-electric,
+  :grant-year 1977,
+  :cites
+  ["US3206602"
+   "US3592888"
+   "US3646346"
+   "US3790663"
+   "US3793445"
+   "US3826619"
+   "US3843775"
+   "US3935074"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:abbott-laboratories],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US4012494/en",
+  :title "Direct radioimmunoassay for antigens and their antibodies",
+  :status :granted,
+  :id "US4012494",
+  :sourcing :authoritative,
+  :filing-year 1974,
+  :assignee :abbott-laboratories,
+  :grant-year 1977,
+  :cites ["US3646346" "US3790663" "US3867517"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:coulter-electronics],
   :jurisdiction :us,
   :field "UNKNOWN",
   :source "https://patents.google.com/patent/US4014611/en",
