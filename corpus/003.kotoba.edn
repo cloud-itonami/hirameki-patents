@@ -1,4 +1,293 @@
-[{:assignees [:biological-developments],
+[{:assignees [:medical-products],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3951748/en",
+  :title "Sensitized matrix for detection of disease",
+  :status :granted,
+  :id "US3951748",
+  :sourcing :authoritative,
+  :filing-year 1974,
+  :assignee :medical-products,
+  :grant-year 1976,
+  :cites ["US3791932"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:hoffmann-la-roche],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3952091/en",
+  :title "Simultaneous multiple radioimmunoassay",
+  :status :granted,
+  :id "US3952091",
+  :sourcing :authoritative,
+  :filing-year 1974,
+  :assignee :hoffmann-la-roche,
+  :grant-year 1976,
+  :cites
+  ["US3704282"
+   "US3709868"
+   "US3766162"
+   "US3775536"
+   "US3799741"
+   "US3826619"
+   "US3843696"
+   "US3853987"
+   "US3867366"
+   "US3878187"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:union-carbide],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3953172/en",
+  :title "Method and apparatus for assaying liquid materials",
+  :status :granted,
+  :id "US3953172",
+  :sourcing :authoritative,
+  :filing-year 1974,
+  :assignee :union-carbide,
+  :grant-year 1976,
+  :cites
+  ["US3532470"
+   "US3555284"
+   "US3586484"
+   "US3721528"
+   "US3759666"
+   "US3763374"
+   "US3798459"
+   "US3804533"
+   "US3829223"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:ppg-industries],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3954899/en",
+  :title "Extensible coatings",
+  :status :granted,
+  :id "US3954899",
+  :sourcing :authoritative,
+  :filing-year 1975,
+  :assignee :ppg-industries,
+  :grant-year 1976,
+  :cites
+  ["US2625535"
+   "US2850474"
+   "US3148173"
+   "US3368988"
+   "US3384606"
+   "US3457324"
+   "US3759873"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:research-institute-for-production-development],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3955012/en",
+  :title
+  "Method for manufacturing medical articles composed of silicone rubber coated with collagen",
+  :status :granted,
+  :id "US3955012",
+  :sourcing :authoritative,
+  :filing-year 1973,
+  :assignee :research-institute-for-production-development,
+  :grant-year 1976,
+  :cites
+  ["GB751991A"
+   "GB900181A"
+   "US3188229"
+   "US3451394"
+   "US3632386"
+   "US3649347"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:honeywell],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3958117/en",
+  :title "Distance determining and automatic focusing apparatus",
+  :status :granted,
+  :id "US3958117",
+  :sourcing :authoritative,
+  :filing-year 1975,
+  :assignee :honeywell,
+  :grant-year 1976,
+  :cites
+  ["US3274914"
+   "US3450883"
+   "US3493764"
+   "US3610934"
+   "US3682071"
+   "US3684374"
+   "US3708619"
+   "US3723003"
+   "US3733989"
+   "US3792260"
+   "US3846628"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:midwest-research-institute],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3959078/en",
+  :title
+  "Enzyme immobilization with a thermochemical-photochemical bifunctional agent",
+  :status :granted,
+  :id "US3959078",
+  :sourcing :authoritative,
+  :filing-year 1973,
+  :assignee :midwest-research-institute,
+  :grant-year 1976,
+  :cites ["US3479183" "US3519538" "US3639558" "US3817837" "US3843447"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:university-of-illinois-foundation],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3960840/en",
+  :title "Fluorescent derivatives of adenine-containing compounds",
+  :status :granted,
+  :id "US3960840",
+  :sourcing :authoritative,
+  :filing-year 1972,
+  :assignee :university-of-illinois-foundation,
+  :grant-year 1976,
+  :cites ["US3462416" "US3701772" "US3712885" "US3872098"],
+  :term-years 20,
+  :open-license :none}
+ {:jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3960884/en",
+  :title "Method of preparing racemic biotin",
+  :status :granted,
+  :id "US3960884",
+  :sourcing :authoritative,
+  :filing-year 1974,
+  :assignee :unassigned,
+  :grant-year 1976,
+  :cites ["US2460225" "US2508457" "US2571238"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:sigma-chemical],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3964865/en",
+  :title
+  "Lyophilized human hemoglobin standard for colorimetric determination of total hemoglobin",
+  :status :granted,
+  :id "US3964865",
+  :sourcing :authoritative,
+  :filing-year 1975,
+  :assignee :sigma-chemical,
+  :grant-year 1976,
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:marine-colloids],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3966897/en",
+  :title "Medium for use in bioassay and method of using same",
+  :status :granted,
+  :id "US3966897",
+  :sourcing :authoritative,
+  :filing-year 1973,
+  :assignee :marine-colloids,
+  :grant-year 1976,
+  :cites
+  ["GB1248764A"
+   "GB1248765A"
+   "GB953414A"
+   "US2358549"
+   "US2385363"
+   "US2487077"
+   "US3043751"
+   "US3063916"
+   "US3179600"
+   "US3453180"
+   "US3527712"
+   "US3531254"
+   "US3553310"
+   "US3578604"
+   "US3639558"
+   "US3641235"
+   "US3646346"
+   "US3654090"
+   "US3714344"
+   "US3793445"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:pharmacia-diagnostics],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3966898/en",
+  :title "Method and reagent for determining immunologic materials",
+  :status :granted,
+  :id "US3966898",
+  :sourcing :authoritative,
+  :filing-year 1974,
+  :assignee :pharmacia-diagnostics,
+  :grant-year 1976,
+  :cites ["US3859430"],
+  :term-years 20,
+  :open-license :none}
+ {:jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3968827/en",
+  :title
+  "Method of preparing ceramic casting moulds for pouring metal therein",
+  :status :granted,
+  :id "US3968827",
+  :sourcing :authoritative,
+  :filing-year 1975,
+  :assignee :unassigned,
+  :grant-year 1976,
+  :cites ["GB711940A" "GB785228A" "US3204303" "US3478815"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:general-electric],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3970518/en",
+  :title "Magnetic separation of biological particles",
+  :status :granted,
+  :id "US3970518",
+  :sourcing :authoritative,
+  :filing-year 1975,
+  :assignee :general-electric,
+  :grant-year 1976,
+  :cites ["US3470067" "US3539509" "US3657119" "US3843324"],
+  :term-years 20,
+  :open-license :none}
+ {:jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3970841/en",
+  :title
+  "Method and apparatus for dual resolution analysis of a scene",
+  :status :granted,
+  :id "US3970841",
+  :sourcing :authoritative,
+  :filing-year 1974,
+  :assignee :unassigned,
+  :grant-year 1976,
+  :cites ["US3448271" "US3614449" "US3804976" "US3864564"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:tokyo-shibaura-electric],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3972616/en",
+  :title
+  "Apparatus for detecting the defects of the mask pattern using spatial filtering",
+  :status :granted,
+  :id "US3972616",
+  :sourcing :authoritative,
+  :filing-year 1975,
+  :assignee :tokyo-shibaura-electric,
+  :grant-year 1976,
+  :cites ["US3614232" "US3658420" "US3738752"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:biological-developments],
   :jurisdiction :us,
   :field "UNKNOWN",
   :source "https://patents.google.com/patent/US3975342/en",
@@ -604,6 +893,21 @@
    "US3935074"],
   :term-years 20,
   :open-license :none}
+ {:assignees [:autochem-instrument],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US4012200/en",
+  :title
+  "Apparatus for removing liquid from the inside of a test tube",
+  :status :granted,
+  :id "US4012200",
+  :sourcing :authoritative,
+  :filing-year 1976,
+  :assignee :autochem-instrument,
+  :grant-year 1977,
+  :cites ["US2259367" "US3572998" "US3836329"],
+  :term-years 20,
+  :open-license :none}
  {:assignees [:abbott-laboratories],
   :jurisdiction :us,
   :field "UNKNOWN",
@@ -711,6 +1015,21 @@
    "US3928081"
    "US3928082"
    "US3933528"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:international-diagnostic-technologies],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US4020151/en",
+  :title
+  "Method for quantitation of antigens or antibodies on a solid surface",
+  :status :granted,
+  :id "US4020151",
+  :sourcing :authoritative,
+  :filing-year 1976,
+  :assignee :international-diagnostic-technologies,
+  :grant-year 1977,
+  :cites ["US3551555" "US3555143" "US3646346" "US3790663"],
   :term-years 20,
   :open-license :none}
  {:assignees [:university-of-utah],
@@ -9485,189 +9804,5 @@
   :filing-year 2003,
   :assignee :nippon-paint,
   :cites ["GB2360227A" "US5635251" "WO1996022339A1"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:kansai-paint],
-  :jurisdiction :wo,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/WO2004074327A1/en",
-  :title "Process for producing aqueous resin dispersion",
-  :status :pending,
-  :id "WO2004074327A1",
-  :sourcing :authoritative,
-  :filing-year 2004,
-  :assignee :kansai-paint,
-  :cites ["JP2000095980A" "JP2000226537A" "JP2003231859A"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:ishihara-sangyo-kaisha :kansai-paint],
-  :jurisdiction :wo,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/WO2005012449A1/en",
-  :title
-  "White electrically conducting primer composition and process for forming multilayer coating films",
-  :status :pending,
-  :id "WO2005012449A1",
-  :sourcing :authoritative,
-  :filing-year 2004,
-  :assignee :ishihara-sangyo-kaisha,
-  :cites
-  ["JP2001139875A" "JP2002020107A" "JP2002121462A" "JP2004075735A"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:kansai-paint],
-  :jurisdiction :wo,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/WO2006009219A1/en",
-  :title
-  "Thermosetting water-based coating composition and method of forming coating film",
-  :status :pending,
-  :id "WO2006009219A1",
-  :sourcing :authoritative,
-  :filing-year 2005,
-  :assignee :kansai-paint,
-  :cites
-  ["JP2002179988A"
-   "JP2002273332A"
-   "JP2003053255A"
-   "JP2003117481A"
-   "JP2004051784A"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:kansai-paint],
-  :jurisdiction :wo,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/WO2006019171A1/en",
-  :title "Water-based primer composition",
-  :status :pending,
-  :id "WO2006019171A1",
-  :sourcing :authoritative,
-  :filing-year 2005,
-  :assignee :kansai-paint,
-  :cites
-  ["JP2004018635A"
-   "JP2004051808A"
-   "JP2004115712A"
-   "JP2004156029A"
-   "JP2004331911A"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:kansai-paint],
-  :jurisdiction :wo,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/WO2007119760A1/en",
-  :title "Aqueous primer composition",
-  :status :pending,
-  :id "WO2007119760A1",
-  :sourcing :authoritative,
-  :filing-year 2007,
-  :assignee :kansai-paint,
-  :cites ["JP2005112953A" "JP2005126615A" "WO2005012449A1"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:kansai-paint],
-  :jurisdiction :wo,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/WO2007119762A1/en",
-  :title "Aqueous coating composition",
-  :status :pending,
-  :id "WO2007119762A1",
-  :sourcing :authoritative,
-  :filing-year 2007,
-  :assignee :kansai-paint,
-  :cites
-  ["JP2000154204A" "JP2005343966A" "JP2006176618A" "WO2006009219A1"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:microsoft],
-  :jurisdiction :wo,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/WO2010062607A2/en",
-  :title "Surfacing and management of window-specific controls",
-  :status :pending,
-  :id "WO2010062607A2",
-  :sourcing :authoritative,
-  :filing-year 2009,
-  :assignee :microsoft,
-  :term-years 20,
-  :open-license :none}
- {:assignees [:asahi-kasei-chemicals],
-  :jurisdiction :wo,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/WO2011096559A1/en",
-  :title
-  "Block polyisocyanate composition and coating composition containing same",
-  :status :pending,
-  :id "WO2011096559A1",
-  :sourcing :authoritative,
-  :filing-year 2011,
-  :assignee :asahi-kasei-chemicals,
-  :cites
-  ["EP0096210A1"
-   "EP0159117B1"
-   "EP0600314A1"
-   "JP2002521541A"
-   "JP2004528415A"
-   "JP2009155408A"
-   "JP2009155409A"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:kansai-paint],
-  :jurisdiction :wo,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/WO2012137881A1/en",
-  :title "Blocked polyisocyanate compound",
-  :status :pending,
-  :id "WO2012137881A1",
-  :sourcing :authoritative,
-  :filing-year 2012,
-  :assignee :kansai-paint,
-  :cites
-  ["JP2000290493A"
-   "JP2000327647A"
-   "JP2002322238A"
-   "JP2004026958A"
-   "JP2006160936A"
-   "JP2009155409A"
-   "JP2009191127A"
-   "WO2011096559A1"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:kansai-paint],
-  :jurisdiction :wo,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/WO2013151050A1/en",
-  :title "Aqueous paint composition and method for forming coating",
-  :status :pending,
-  :id "WO2013151050A1",
-  :sourcing :authoritative,
-  :filing-year 2013,
-  :assignee :kansai-paint,
-  :cites
-  ["JP2001205175A"
-   "JP2002153806A"
-   "JP2002322238A"
-   "JP2003105258A"
-   "JP2004026958A"
-   "JP2004358462A"
-   "JP2006056973A"
-   "JP2009155409A"
-   "JP2011016957A"
-   "JP2011506620A"
-   "WO2004061025A1"
-   "WO2012137881A1"
-   "WO2012137884A1"],
-  :term-years 20,
-  :open-license :none}
- {:jurisdiction :wo,
-  :essentiality 0.65,
-  :field "H01M",
-  :title "Solid-state battery electrolyte composition",
-  :status :pending,
-  :id "WO2020100000A1",
-  :sourcing :representative,
-  :filing-year 2019,
-  :assignee :toyota,
-  :grant-year nil,
   :term-years 20,
   :open-license :none}]

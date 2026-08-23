@@ -1,4 +1,45 @@
 [[":db/add"
+  "hirameki-patent:US2417321"
+  ":hirameki.obs/years-to-expiry"
+  -65]
+ [":db/add"
+  "hirameki-patent:US2417321"
+  ":hirameki/source"
+  "https://patents.google.com/patent/US2417321/en"]
+ [":db/add"
+  "hirameki-patent:US2417468"
+  ":hirameki.patent/title"
+  "Method of removing plastic coating from a metal article"]
+ [":db/add"
+  "hirameki-patent:US2417468"
+  ":hirameki.patent/jurisdiction"
+  ":us"]
+ [":db/add"
+  "hirameki-patent:US2417468"
+  ":hirameki.patent/field"
+  "UNKNOWN"]
+ [":db/add"
+  "hirameki-patent:US2417468"
+  ":hirameki.patent/assignee"
+  ":fairchild-camera-and-instrument"]
+ [":db/add"
+  "hirameki-patent:US2417468"
+  ":hirameki.patent/status"
+  ":granted"]
+ [":db/add"
+  "hirameki-patent:US2417468"
+  ":hirameki.patent/open-license"
+  ":none"]
+ [":db/add"
+  "hirameki-patent:US2417468"
+  ":hirameki.obs/release-status"
+  ":public-domain"]
+ [":db/add"
+  "hirameki-patent:US2417468"
+  ":hirameki/sourcing"
+  ":authoritative"]
+ [":db/add" "hirameki-patent:US2417468" ":hirameki/derived" true]
+ [":db/add"
   "hirameki-patent:US2417468"
   ":hirameki.obs/years-to-expiry"
   -62]
@@ -10260,45 +10301,4 @@
  [":db/add"
   "hirameki-patent:US2802808"
   ":hirameki.obs/years-to-expiry"
-  -53]
- [":db/add"
-  "hirameki-patent:US2802808"
-  ":hirameki/source"
-  "https://patents.google.com/patent/US2802808/en"]
- [":db/add"
-  "hirameki-patent:US2804418"
-  ":hirameki.patent/title"
-  "Overlaid woody material and method of making the same"]
- [":db/add"
-  "hirameki-patent:US2804418"
-  ":hirameki.patent/jurisdiction"
-  ":us"]
- [":db/add"
-  "hirameki-patent:US2804418"
-  ":hirameki.patent/field"
-  "UNKNOWN"]
- [":db/add"
-  "hirameki-patent:US2804418"
-  ":hirameki.patent/assignee"
-  ":crown-zellerbach"]
- [":db/add"
-  "hirameki-patent:US2804418"
-  ":hirameki.patent/status"
-  ":granted"]
- [":db/add"
-  "hirameki-patent:US2804418"
-  ":hirameki.patent/open-license"
-  ":none"]
- [":db/add"
-  "hirameki-patent:US2804418"
-  ":hirameki.obs/release-status"
-  ":public-domain"]
- [":db/add"
-  "hirameki-patent:US2804418"
-  ":hirameki/sourcing"
-  ":authoritative"]
- [":db/add" "hirameki-patent:US2804418" ":hirameki/derived" true]
- [":db/add"
-  "hirameki-patent:US2804418"
-  ":hirameki.obs/years-to-expiry"
-  -51]]
+  -53]]

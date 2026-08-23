@@ -1,4 +1,18 @@
-[{:assignees [:shell-oil],
+[{:assignees [:north-american-refractories],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3148230/en",
+  :title "Refractory structure",
+  :status :granted,
+  :id "US3148230",
+  :sourcing :authoritative,
+  :filing-year 1961,
+  :assignee :north-american-refractories,
+  :grant-year 1964,
+  :cites ["FR1184625A"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:shell-oil],
   :jurisdiction :us,
   :field "UNKNOWN",
   :source "https://patents.google.com/patent/US3149182/en",
@@ -1552,6 +1566,21 @@
    "US3187762"],
   :term-years 20,
   :open-license :none}
+ {:assignees [:rohm-and-haas],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3269911/en",
+  :title
+  "Restoration of blood to biochemical normalcy by treatment with ion exchange resins",
+  :status :granted,
+  :id "US3269911",
+  :sourcing :authoritative,
+  :filing-year 1962,
+  :assignee :rohm-and-haas,
+  :grant-year 1966,
+  :cites ["GB636172A" "US2673827" "US2684321" "US2833691" "US2879166"],
+  :term-years 20,
+  :open-license :none}
  {:assignees [:takeda-chemical-industries],
   :jurisdiction :us,
   :field "UNKNOWN",
@@ -1850,6 +1879,30 @@
   :sourcing :authoritative,
   :assignee :unassigned,
   :grant-year 1885,
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:miles-laboratories],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3298789/en",
+  :title "Test article for the detection of glucose",
+  :status :granted,
+  :id "US3298789",
+  :sourcing :authoritative,
+  :filing-year 1964,
+  :assignee :miles-laboratories,
+  :grant-year 1967,
+  :cites
+  ["US2872369"
+   "US2893844"
+   "US3008879"
+   "US3050373"
+   "US3066081"
+   "US3069330"
+   "US3092465"
+   "US3140256"
+   "US3145086"
+   "US3183173"],
   :term-years 20,
   :open-license :none}
  {:assignees [:hoechst],
@@ -3333,6 +3386,19 @@
   :cites ["US2843233" "US2912077" "US2952883" "US3336719"],
   :term-years 20,
   :open-license :none}
+ {:jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3464798/en",
+  :title "Ion-exchange or chemical interaction plastic form",
+  :status :granted,
+  :id "US3464798",
+  :sourcing :authoritative,
+  :filing-year 1965,
+  :assignee :unassigned,
+  :grant-year 1969,
+  :cites ["US2587221" "US3206602"],
+  :term-years 20,
+  :open-license :none}
  {:assignees [:international-business-machines],
   :jurisdiction :us,
   :field "UNKNOWN",
@@ -4505,6 +4571,19 @@
   :grant-year 1971,
   :term-years 20,
   :open-license :none}
+ {:assignees [:us-atomic-energy-commission-aec],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3586484/en",
+  :title "Multistation analytical photometer and method of use",
+  :status :granted,
+  :id "US3586484",
+  :sourcing :authoritative,
+  :filing-year 1969,
+  :assignee :us-atomic-energy-commission-aec,
+  :grant-year 1971,
+  :term-years 20,
+  :open-license :none}
  {:assignees [:international-business-machines],
   :jurisdiction :us,
   :field "UNKNOWN",
@@ -5067,6 +5146,19 @@
   :grant-year 1972,
   :term-years 20,
   :open-license :none}
+ {:assignees [:pfizer],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3640896/en",
+  :title "Process for stabilizing fowl red blood cells",
+  :status :granted,
+  :id "US3640896",
+  :sourcing :authoritative,
+  :filing-year 1970,
+  :assignee :pfizer,
+  :grant-year 1972,
+  :term-years 20,
+  :open-license :none}
  {:assignees [:pharmacia],
   :jurisdiction :us,
   :field "UNKNOWN",
@@ -5478,6 +5570,19 @@
    "US3600099"],
   :term-years 20,
   :open-license :none}
+ {:assignees [:baxter-laboratories],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3682835/en",
+  :title "Liquid blood serum control standard",
+  :status :granted,
+  :id "US3682835",
+  :sourcing :authoritative,
+  :filing-year 1970,
+  :assignee :baxter-laboratories,
+  :grant-year 1972,
+  :term-years 20,
+  :open-license :none}
  {:assignees [:humphrey-research-associates],
   :jurisdiction :us,
   :field "UNKNOWN",
@@ -5861,6 +5966,29 @@
    "US3554648"],
   :term-years 20,
   :open-license :none}
+ {:assignees [:sherwood-medical-industries],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3712465/en",
+  :title "Tray for use in sealing capillary tubes",
+  :status :granted,
+  :id "US3712465",
+  :sourcing :authoritative,
+  :filing-year 1970,
+  :assignee :sherwood-medical-industries,
+  :grant-year 1973,
+  :cites
+  ["GB1116157A"
+   "US1822487"
+   "US3135383"
+   "US3219421"
+   "US3234593"
+   "US3351210"
+   "US3416361"
+   "US3441383"
+   "US3589511"],
+  :term-years 20,
+  :open-license :none}
  {:assignees [:general-electric],
   :jurisdiction :us,
   :field "UNKNOWN",
@@ -6023,6 +6151,19 @@
   :sourcing :authoritative,
   :filing-year 1968,
   :assignee :pharmacia,
+  :grant-year 1973,
+  :term-years 20,
+  :open-license :none}
+ {:jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3721528/en",
+  :title
+  "Method and apparatus for measuring the amount of a component in a biological fluid",
+  :status :granted,
+  :id "US3721528",
+  :sourcing :authoritative,
+  :filing-year 1970,
+  :assignee :unassigned,
   :grant-year 1973,
   :term-years 20,
   :open-license :none}
@@ -6248,6 +6389,19 @@
   :grant-year 1973,
   :term-years 20,
   :open-license :none}
+ {:assignees [:union-carbide],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3759666/en",
+  :title "Analytical process",
+  :status :granted,
+  :id "US3759666",
+  :sourcing :authoritative,
+  :filing-year 1971,
+  :assignee :union-carbide,
+  :grant-year 1973,
+  :term-years 20,
+  :open-license :none}
  {:assignees [:minolta],
   :jurisdiction :us,
   :field "UNKNOWN",
@@ -6268,6 +6422,20 @@
    "US3555280"
    "US3562785"
    "US3571598"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:us-atomic-energy-commission-aec],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3763374/en",
+  :title "Dynamic multistation photometer-fluorometer",
+  :status :granted,
+  :id "US3763374",
+  :sourcing :authoritative,
+  :filing-year 1972,
+  :assignee :us-atomic-energy-commission-aec,
+  :grant-year 1973,
+  :cites ["US3547547" "US3649833"],
   :term-years 20,
   :open-license :none}
  {:assignees [:baxter-laboratories],
@@ -6743,6 +6911,21 @@
   :grant-year 1974,
   :term-years 20,
   :open-license :none}
+ {:assignees [:us-atomic-energy-commission-aec],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3798459/en",
+  :title
+  "Compact dynamic multistation photometer utilizing disposable cuvette rotor",
+  :status :granted,
+  :id "US3798459",
+  :sourcing :authoritative,
+  :filing-year 1972,
+  :assignee :us-atomic-energy-commission-aec,
+  :grant-year 1974,
+  :cites ["US3215849" "US3555284" "US3576441"],
+  :term-years 20,
+  :open-license :none}
  {:assignees [:wtc-chemical],
   :jurisdiction :us,
   :field "UNKNOWN",
@@ -6754,6 +6937,21 @@
   :filing-year 1972,
   :assignee :wtc-chemical,
   :grant-year 1974,
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:us-atomic-energy-commission-aec],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3804533/en",
+  :title
+  "Rotor for fluorometric measurements in fast analyzer of rotary",
+  :status :granted,
+  :id "US3804533",
+  :sourcing :authoritative,
+  :filing-year 1972,
+  :assignee :us-atomic-energy-commission-aec,
+  :grant-year 1974,
+  :cites ["US3547547" "US3555284" "US3576441" "US3669551"],
   :term-years 20,
   :open-license :none}
  {:assignees [:merck-patent],
@@ -7165,6 +7363,20 @@
    "US3703337"],
   :term-years 20,
   :open-license :none}
+ {:assignees [:us-atomic-energy-commission-aec],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3829223/en",
+  :title
+  "Mixing rotor for fast analyzer of rotary cuvette type with means for enhancing the mixing of sample and reagent liquids",
+  :status :granted,
+  :id "US3829223",
+  :sourcing :authoritative,
+  :filing-year 1973,
+  :assignee :us-atomic-energy-commission-aec,
+  :grant-year 1974,
+  :term-years 20,
+  :open-license :none}
  {:assignees [:aerospace],
   :jurisdiction :us,
   :field "UNKNOWN",
@@ -7253,6 +7465,18 @@
   :assignee :unassigned,
   :grant-year 1974,
   :cites ["US2929789" "US3696042"],
+  :term-years 20,
+  :open-license :none}
+ {:jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3843444/en",
+  :title "Membrane separation process",
+  :status :granted,
+  :id "US3843444",
+  :sourcing :authoritative,
+  :filing-year 1972,
+  :assignee :unassigned,
+  :grant-year 1974,
   :term-years 20,
   :open-license :none}
  {:assignees [:research],
@@ -7395,6 +7619,26 @@
   :assignee
   :institut-national-de-la-sante-et-de-la-recherche-medicale-inserm,
   :grant-year 1974,
+  :term-years 20,
+  :open-license :none}
+ {:jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3849830/en",
+  :title "Test tube washer",
+  :status :granted,
+  :id "US3849830",
+  :sourcing :authoritative,
+  :filing-year 1973,
+  :assignee :unassigned,
+  :grant-year 1974,
+  :cites
+  ["DE1942201A1"
+   "DE595019C"
+   "US1854471"
+   "US2302078"
+   "US2309290"
+   "US2779358"
+   "US3751755"],
   :term-years 20,
   :open-license :none}
  {:assignees [:yeda-research-and-development],
@@ -7786,6 +8030,42 @@
   :assignee :syntex-usa,
   :grant-year 1975,
   :cites ["US3558595" "US3712885"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:united-medical-laboratories],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3873467/en",
+  :title "Hematologic reference control",
+  :status :granted,
+  :id "US3873467",
+  :sourcing :authoritative,
+  :filing-year 1974,
+  :assignee :united-medical-laboratories,
+  :grant-year 1975,
+  :cites ["US3558522" "US3574137" "US3632735" "US3640896"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:mochida-pharmaceutical],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3873682/en",
+  :title
+  "Filter for urine samples to be used in pregnancy tests and method of using same",
+  :status :granted,
+  :id "US3873682",
+  :sourcing :authoritative,
+  :filing-year 1972,
+  :assignee :mochida-pharmaceutical,
+  :grant-year 1975,
+  :cites
+  ["US3228877"
+   "US3462361"
+   "US3485751"
+   "US3488768"
+   "US3593854"
+   "US3616930"
+   "US3674865"],
   :term-years 20,
   :open-license :none}
  {:assignees [:fujizoki-pharmaceutical],
@@ -8912,294 +9192,5 @@
   :assignee :olympus-optical,
   :grant-year 1976,
   :cites ["US3497690"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:medical-products],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3951748/en",
-  :title "Sensitized matrix for detection of disease",
-  :status :granted,
-  :id "US3951748",
-  :sourcing :authoritative,
-  :filing-year 1974,
-  :assignee :medical-products,
-  :grant-year 1976,
-  :cites ["US3791932"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:hoffmann-la-roche],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3952091/en",
-  :title "Simultaneous multiple radioimmunoassay",
-  :status :granted,
-  :id "US3952091",
-  :sourcing :authoritative,
-  :filing-year 1974,
-  :assignee :hoffmann-la-roche,
-  :grant-year 1976,
-  :cites
-  ["US3704282"
-   "US3709868"
-   "US3766162"
-   "US3775536"
-   "US3799741"
-   "US3826619"
-   "US3843696"
-   "US3853987"
-   "US3867366"
-   "US3878187"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:union-carbide],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3953172/en",
-  :title "Method and apparatus for assaying liquid materials",
-  :status :granted,
-  :id "US3953172",
-  :sourcing :authoritative,
-  :filing-year 1974,
-  :assignee :union-carbide,
-  :grant-year 1976,
-  :cites
-  ["US3532470"
-   "US3555284"
-   "US3586484"
-   "US3721528"
-   "US3759666"
-   "US3763374"
-   "US3798459"
-   "US3804533"
-   "US3829223"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:ppg-industries],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3954899/en",
-  :title "Extensible coatings",
-  :status :granted,
-  :id "US3954899",
-  :sourcing :authoritative,
-  :filing-year 1975,
-  :assignee :ppg-industries,
-  :grant-year 1976,
-  :cites
-  ["US2625535"
-   "US2850474"
-   "US3148173"
-   "US3368988"
-   "US3384606"
-   "US3457324"
-   "US3759873"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:research-institute-for-production-development],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3955012/en",
-  :title
-  "Method for manufacturing medical articles composed of silicone rubber coated with collagen",
-  :status :granted,
-  :id "US3955012",
-  :sourcing :authoritative,
-  :filing-year 1973,
-  :assignee :research-institute-for-production-development,
-  :grant-year 1976,
-  :cites
-  ["GB751991A"
-   "GB900181A"
-   "US3188229"
-   "US3451394"
-   "US3632386"
-   "US3649347"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:honeywell],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3958117/en",
-  :title "Distance determining and automatic focusing apparatus",
-  :status :granted,
-  :id "US3958117",
-  :sourcing :authoritative,
-  :filing-year 1975,
-  :assignee :honeywell,
-  :grant-year 1976,
-  :cites
-  ["US3274914"
-   "US3450883"
-   "US3493764"
-   "US3610934"
-   "US3682071"
-   "US3684374"
-   "US3708619"
-   "US3723003"
-   "US3733989"
-   "US3792260"
-   "US3846628"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:midwest-research-institute],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3959078/en",
-  :title
-  "Enzyme immobilization with a thermochemical-photochemical bifunctional agent",
-  :status :granted,
-  :id "US3959078",
-  :sourcing :authoritative,
-  :filing-year 1973,
-  :assignee :midwest-research-institute,
-  :grant-year 1976,
-  :cites ["US3479183" "US3519538" "US3639558" "US3817837" "US3843447"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:university-of-illinois-foundation],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3960840/en",
-  :title "Fluorescent derivatives of adenine-containing compounds",
-  :status :granted,
-  :id "US3960840",
-  :sourcing :authoritative,
-  :filing-year 1972,
-  :assignee :university-of-illinois-foundation,
-  :grant-year 1976,
-  :cites ["US3462416" "US3701772" "US3712885" "US3872098"],
-  :term-years 20,
-  :open-license :none}
- {:jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3960884/en",
-  :title "Method of preparing racemic biotin",
-  :status :granted,
-  :id "US3960884",
-  :sourcing :authoritative,
-  :filing-year 1974,
-  :assignee :unassigned,
-  :grant-year 1976,
-  :cites ["US2460225" "US2508457" "US2571238"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:sigma-chemical],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3964865/en",
-  :title
-  "Lyophilized human hemoglobin standard for colorimetric determination of total hemoglobin",
-  :status :granted,
-  :id "US3964865",
-  :sourcing :authoritative,
-  :filing-year 1975,
-  :assignee :sigma-chemical,
-  :grant-year 1976,
-  :term-years 20,
-  :open-license :none}
- {:assignees [:marine-colloids],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3966897/en",
-  :title "Medium for use in bioassay and method of using same",
-  :status :granted,
-  :id "US3966897",
-  :sourcing :authoritative,
-  :filing-year 1973,
-  :assignee :marine-colloids,
-  :grant-year 1976,
-  :cites
-  ["GB1248764A"
-   "GB1248765A"
-   "GB953414A"
-   "US2358549"
-   "US2385363"
-   "US2487077"
-   "US3043751"
-   "US3063916"
-   "US3179600"
-   "US3453180"
-   "US3527712"
-   "US3531254"
-   "US3553310"
-   "US3578604"
-   "US3639558"
-   "US3641235"
-   "US3646346"
-   "US3654090"
-   "US3714344"
-   "US3793445"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:pharmacia-diagnostics],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3966898/en",
-  :title "Method and reagent for determining immunologic materials",
-  :status :granted,
-  :id "US3966898",
-  :sourcing :authoritative,
-  :filing-year 1974,
-  :assignee :pharmacia-diagnostics,
-  :grant-year 1976,
-  :cites ["US3859430"],
-  :term-years 20,
-  :open-license :none}
- {:jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3968827/en",
-  :title
-  "Method of preparing ceramic casting moulds for pouring metal therein",
-  :status :granted,
-  :id "US3968827",
-  :sourcing :authoritative,
-  :filing-year 1975,
-  :assignee :unassigned,
-  :grant-year 1976,
-  :cites ["GB711940A" "GB785228A" "US3204303" "US3478815"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:general-electric],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3970518/en",
-  :title "Magnetic separation of biological particles",
-  :status :granted,
-  :id "US3970518",
-  :sourcing :authoritative,
-  :filing-year 1975,
-  :assignee :general-electric,
-  :grant-year 1976,
-  :cites ["US3470067" "US3539509" "US3657119" "US3843324"],
-  :term-years 20,
-  :open-license :none}
- {:jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3970841/en",
-  :title
-  "Method and apparatus for dual resolution analysis of a scene",
-  :status :granted,
-  :id "US3970841",
-  :sourcing :authoritative,
-  :filing-year 1974,
-  :assignee :unassigned,
-  :grant-year 1976,
-  :cites ["US3448271" "US3614449" "US3804976" "US3864564"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:tokyo-shibaura-electric],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3972616/en",
-  :title
-  "Apparatus for detecting the defects of the mask pattern using spatial filtering",
-  :status :granted,
-  :id "US3972616",
-  :sourcing :authoritative,
-  :filing-year 1975,
-  :assignee :tokyo-shibaura-electric,
-  :grant-year 1976,
-  :cites ["US3614232" "US3658420" "US3738752"],
   :term-years 20,
   :open-license :none}]

@@ -1,4 +1,45 @@
 [[":db/add"
+  "hirameki-patent:JP2000351805A"
+  ":hirameki.patent/assignee"
+  ":kuraray"]
+ [":db/add"
+  "hirameki-patent:JP2000351805A"
+  ":hirameki.patent/status"
+  ":pending"]
+ [":db/add"
+  "hirameki-patent:JP2000351805A"
+  ":hirameki.patent/open-license"
+  ":none"]
+ [":db/add"
+  "hirameki-patent:JP2000351805A"
+  ":hirameki.obs/release-status"
+  ":pending"]
+ [":db/add"
+  "hirameki-patent:JP2000351805A"
+  ":hirameki/sourcing"
+  ":authoritative"]
+ [":db/add" "hirameki-patent:JP2000351805A" ":hirameki/derived" true]
+ [":db/add"
+  "hirameki-patent:JP2000351805A"
+  ":hirameki.obs/years-to-expiry"
+  -7]
+ [":db/add"
+  "hirameki-patent:JP2000351805A"
+  ":hirameki/source"
+  "https://patents.google.com/patent/JP2000351805A/en"]
+ [":db/add"
+  "hirameki-patent:JP2000505352A"
+  ":hirameki.patent/title"
+  "Multi-layer lacquer coating method"]
+ [":db/add"
+  "hirameki-patent:JP2000505352A"
+  ":hirameki.patent/jurisdiction"
+  ":jp"]
+ [":db/add"
+  "hirameki-patent:JP2000505352A"
+  ":hirameki.patent/field"
+  "UNKNOWN"]
+ [":db/add"
   "hirameki-patent:JP2000505352A"
   ":hirameki.patent/assignee"
   ":ヘルバーツ・ゲゼルシヤフト・ミツト・ベシユレンクテル・ハフツング"]
@@ -9988,45 +10029,4 @@
  [":db/add"
   "hirameki-patent:US1916875"
   ":hirameki.patent/assignee"
-  ":yowell-&-yarbrough"]
- [":db/add"
-  "hirameki-patent:US1916875"
-  ":hirameki.patent/status"
-  ":granted"]
- [":db/add"
-  "hirameki-patent:US1916875"
-  ":hirameki.patent/open-license"
-  ":none"]
- [":db/add"
-  "hirameki-patent:US1916875"
-  ":hirameki.obs/release-status"
-  ":public-domain"]
- [":db/add"
-  "hirameki-patent:US1916875"
-  ":hirameki/sourcing"
-  ":authoritative"]
- [":db/add" "hirameki-patent:US1916875" ":hirameki/derived" true]
- [":db/add"
-  "hirameki-patent:US1916875"
-  ":hirameki.obs/years-to-expiry"
-  -74]
- [":db/add"
-  "hirameki-patent:US1916875"
-  ":hirameki/source"
-  "https://patents.google.com/patent/US1916875/en"]
- [":db/add"
-  "hirameki-patent:US1921368"
-  ":hirameki.patent/title"
-  "Process of coating paper"]
- [":db/add"
-  "hirameki-patent:US1921368"
-  ":hirameki.patent/jurisdiction"
-  ":us"]
- [":db/add"
-  "hirameki-patent:US1921368"
-  ":hirameki.patent/field"
-  "UNKNOWN"]
- [":db/add"
-  "hirameki-patent:US1921368"
-  ":hirameki.patent/assignee"
-  ":unassigned"]]
+  ":yowell-&-yarbrough"]]

@@ -1,4 +1,17 @@
-[{:assignees [:baker-oil-tools],
+[{:assignees [:murray-liquafilm],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2312927/en",
+  :title "Coating of paper",
+  :status :granted,
+  :id "US2312927",
+  :sourcing :authoritative,
+  :filing-year 1938,
+  :assignee :murray-liquafilm,
+  :grant-year 1943,
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:baker-oil-tools],
   :jurisdiction :us,
   :field "UNKNOWN",
   :source "https://patents.google.com/patent/US2315931/en",
@@ -9964,19 +9977,5 @@
    "US2772604"
    "US2870738"
    "US2888902"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:north-american-refractories],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3148230/en",
-  :title "Refractory structure",
-  :status :granted,
-  :id "US3148230",
-  :sourcing :authoritative,
-  :filing-year 1961,
-  :assignee :north-american-refractories,
-  :grant-year 1964,
-  :cites ["FR1184625A"],
   :term-years 20,
   :open-license :none}]
