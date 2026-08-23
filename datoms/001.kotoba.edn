@@ -1,4 +1,41 @@
 [[":db/add"
+  "hirameki-patent:JP2001002977A"
+  ":hirameki.patent/field"
+  "UNKNOWN"]
+ [":db/add"
+  "hirameki-patent:JP2001002977A"
+  ":hirameki.patent/assignee"
+  ":honda-motor"]
+ [":db/add"
+  "hirameki-patent:JP2001002977A"
+  ":hirameki.patent/status"
+  ":pending"]
+ [":db/add"
+  "hirameki-patent:JP2001002977A"
+  ":hirameki.patent/open-license"
+  ":none"]
+ [":db/add"
+  "hirameki-patent:JP2001002977A"
+  ":hirameki.obs/release-status"
+  ":pending"]
+ [":db/add"
+  "hirameki-patent:JP2001002977A"
+  ":hirameki/sourcing"
+  ":authoritative"]
+ [":db/add" "hirameki-patent:JP2001002977A" ":hirameki/derived" true]
+ [":db/add"
+  "hirameki-patent:JP2001002977A"
+  ":hirameki.obs/years-to-expiry"
+  -7]
+ [":db/add"
+  "hirameki-patent:JP2001002977A"
+  ":hirameki/source"
+  "https://patents.google.com/patent/JP2001002977A/en"]
+ [":db/add"
+  "hirameki-patent:JP2001009357A"
+  ":hirameki.patent/title"
+  "Coating method"]
+ [":db/add"
   "hirameki-patent:JP2001009357A"
   ":hirameki.patent/jurisdiction"
   ":jp"]
@@ -9996,41 +10033,4 @@
  [":db/add"
   "hirameki-patent:US1933963"
   ":hirameki.patent/status"
-  ":granted"]
- [":db/add"
-  "hirameki-patent:US1933963"
-  ":hirameki.patent/open-license"
-  ":none"]
- [":db/add"
-  "hirameki-patent:US1933963"
-  ":hirameki.obs/release-status"
-  ":public-domain"]
- [":db/add"
-  "hirameki-patent:US1933963"
-  ":hirameki/sourcing"
-  ":authoritative"]
- [":db/add" "hirameki-patent:US1933963" ":hirameki/derived" true]
- [":db/add"
-  "hirameki-patent:US1933963"
-  ":hirameki.obs/years-to-expiry"
-  -75]
- [":db/add"
-  "hirameki-patent:US1933963"
-  ":hirameki/source"
-  "https://patents.google.com/patent/US1933963/en"]
- [":db/add"
-  "hirameki-patent:US1939691"
-  ":hirameki.patent/title"
-  "Infusible synthetic resins and a process of making same"]
- [":db/add"
-  "hirameki-patent:US1939691"
-  ":hirameki.patent/jurisdiction"
-  ":us"]
- [":db/add"
-  "hirameki-patent:US1939691"
-  ":hirameki.patent/field"
-  "UNKNOWN"]
- [":db/add"
-  "hirameki-patent:US1939691"
-  ":hirameki.patent/assignee"
-  ":ciba-products"]]
+  ":granted"]]

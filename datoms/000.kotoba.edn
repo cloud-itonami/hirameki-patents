@@ -265,6 +265,43 @@
   ":hirameki/source"
   "https://patents.google.com/patent/CA1104110A/en"]
  [":db/add"
+  "hirameki-patent:CA470229A"
+  ":hirameki.patent/title"
+  "Gravel pack washing assemblies"]
+ [":db/add"
+  "hirameki-patent:CA470229A"
+  ":hirameki.patent/jurisdiction"
+  ":ca"]
+ [":db/add"
+  "hirameki-patent:CA470229A"
+  ":hirameki.patent/field"
+  "UNKNOWN"]
+ [":db/add"
+  "hirameki-patent:CA470229A"
+  ":hirameki.patent/assignee"
+  ":texaco-development"]
+ [":db/add"
+  "hirameki-patent:CA470229A"
+  ":hirameki.patent/status"
+  ":granted"]
+ [":db/add"
+  "hirameki-patent:CA470229A"
+  ":hirameki.patent/open-license"
+  ":none"]
+ [":db/add"
+  "hirameki-patent:CA470229A"
+  ":hirameki.obs/release-status"
+  ":in-force"]
+ [":db/add"
+  "hirameki-patent:CA470229A"
+  ":hirameki/sourcing"
+  ":authoritative"]
+ [":db/add" "hirameki-patent:CA470229A" ":hirameki/derived" true]
+ [":db/add"
+  "hirameki-patent:CA470229A"
+  ":hirameki/source"
+  "https://patents.google.com/patent/CA470229A/en"]
+ [":db/add"
   "hirameki-patent:CA479968A"
   ":hirameki.patent/title"
   "Method of treating foodstuff"]
@@ -9961,41 +9998,4 @@
  [":db/add"
   "hirameki-patent:JP2001002977A"
   ":hirameki.patent/jurisdiction"
-  ":jp"]
- [":db/add"
-  "hirameki-patent:JP2001002977A"
-  ":hirameki.patent/field"
-  "UNKNOWN"]
- [":db/add"
-  "hirameki-patent:JP2001002977A"
-  ":hirameki.patent/assignee"
-  ":honda-motor"]
- [":db/add"
-  "hirameki-patent:JP2001002977A"
-  ":hirameki.patent/status"
-  ":pending"]
- [":db/add"
-  "hirameki-patent:JP2001002977A"
-  ":hirameki.patent/open-license"
-  ":none"]
- [":db/add"
-  "hirameki-patent:JP2001002977A"
-  ":hirameki.obs/release-status"
-  ":pending"]
- [":db/add"
-  "hirameki-patent:JP2001002977A"
-  ":hirameki/sourcing"
-  ":authoritative"]
- [":db/add" "hirameki-patent:JP2001002977A" ":hirameki/derived" true]
- [":db/add"
-  "hirameki-patent:JP2001002977A"
-  ":hirameki.obs/years-to-expiry"
-  -7]
- [":db/add"
-  "hirameki-patent:JP2001002977A"
-  ":hirameki/source"
-  "https://patents.google.com/patent/JP2001002977A/en"]
- [":db/add"
-  "hirameki-patent:JP2001009357A"
-  ":hirameki.patent/title"
-  "Coating method"]]
+  ":jp"]]
