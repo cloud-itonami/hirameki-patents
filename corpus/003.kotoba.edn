@@ -1,4 +1,314 @@
-[{:assignees [:pharmacia],
+[{:assignees [:biological-developments],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3975342/en",
+  :title
+  "Tyrosyl-class antigenic conjugates, their preparation and antibodies raised thereto",
+  :status :granted,
+  :id "US3975342",
+  :sourcing :authoritative,
+  :filing-year 1974,
+  :assignee :biological-developments,
+  :grant-year 1976,
+  :cites ["US3809782"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:corning-glass-works],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3975511/en",
+  :title "Solid phase radioimmunoassay",
+  :status :granted,
+  :id "US3975511",
+  :sourcing :authoritative,
+  :filing-year 1974,
+  :assignee :corning-glass-works,
+  :grant-year 1976,
+  :cites ["US3519538" "US3652761" "US3669841"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:dynatech],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3976071/en",
+  :title
+  "Methods of improving control of release rates and products useful in same",
+  :status :granted,
+  :id "US3976071",
+  :sourcing :authoritative,
+  :filing-year 1974,
+  :assignee :dynatech,
+  :grant-year 1976,
+  :cites
+  ["DE2218200A1"
+   "US3225766"
+   "US3435008"
+   "US3545439"
+   "US3630200"
+   "US3641237"
+   "US3773919"
+   "US3810458"
+   "US3811444"
+   "US3887699"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:yellow-springs-instrument],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3979274/en",
+  :title "Membrane for enzyme electrodes",
+  :status :granted,
+  :id "US3979274",
+  :sourcing :authoritative,
+  :filing-year 1975,
+  :assignee :yellow-springs-instrument,
+  :grant-year 1976,
+  :cites
+  ["US3098813"
+   "US3539455"
+   "US3542662"
+   "US3575836"
+   "US3707455"
+   "US3718563"
+   "US3776819"
+   "US3838033"
+   "US3869354"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:general-electric],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3979509/en",
+  :title "Opaque layer method for detecting biological particles",
+  :status :granted,
+  :id "US3979509",
+  :sourcing :authoritative,
+  :filing-year 1974,
+  :assignee :general-electric,
+  :grant-year 1976,
+  :cites ["US3853467"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:gt-schjeldahl],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3980587/en",
+  :title "Stripper composition",
+  :status :granted,
+  :id "US3980587",
+  :sourcing :authoritative,
+  :filing-year 1974,
+  :assignee :gt-schjeldahl,
+  :grant-year 1976,
+  :cites
+  ["CA536441A"
+   "US2662837"
+   "US3080262"
+   "US3391084"
+   "US3551204"
+   "US3553143"
+   "US3839234"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:ei-du-pont-de-nemours-and],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3980602/en",
+  :title
+  "Acrylic polymer dispersant for aqueous acrylic coating compositions",
+  :status :granted,
+  :id "US3980602",
+  :sourcing :authoritative,
+  :filing-year 1975,
+  :assignee :ei-du-pont-de-nemours-and,
+  :grant-year 1976,
+  :cites ["US3692726" "US3769251" "US3784498" "US3875099"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:curtis-nuclear],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3980764/en",
+  :title
+  "Polymeric competitive protein binding adsorbents for radioassey",
+  :status :granted,
+  :id "US3980764",
+  :sourcing :authoritative,
+  :filing-year 1973,
+  :assignee :curtis-nuclear,
+  :grant-year 1976,
+  :cites ["US2957808" "US3410839"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:abbott-laboratories],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3981982/en",
+  :title
+  "Radioimmunoassay for determining the digoxin content of a sample",
+  :status :granted,
+  :id "US3981982",
+  :sourcing :authoritative,
+  :filing-year 1974,
+  :assignee :abbott-laboratories,
+  :grant-year 1976,
+  :cites ["CH459997A"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:formica],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3983307/en",
+  :title "Thin, tough, stable laminate",
+  :status :granted,
+  :id "US3983307",
+  :sourcing :authoritative,
+  :filing-year 1975,
+  :assignee :formica,
+  :grant-year 1976,
+  :cites ["US2918452" "US3220916" "US3589974"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:biophysics-systems],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3984307/en",
+  :title "Combined particle sorter and segregation indicator",
+  :status :granted,
+  :id "US3984307",
+  :sourcing :authoritative,
+  :filing-year 1974,
+  :assignee :biophysics-systems,
+  :grant-year 1976,
+  :cites
+  ["US2333791"
+   "US2656508"
+   "US3269419"
+   "US3362421"
+   "US3426879"
+   "US3508654"
+   "US3508655"
+   "US3560754"
+   "US3710933"
+   "US3743090"
+   "US3827555"],
+  :term-years 20,
+  :open-license :none}
+ {:jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3985649/en",
+  :title "Ferromagnetic separation process and material",
+  :status :granted,
+  :id "US3985649",
+  :sourcing :authoritative,
+  :filing-year 1974,
+  :assignee :unassigned,
+  :grant-year 1976,
+  :cites
+  ["US3219318"
+   "US3428179"
+   "US3487939"
+   "US3712472"
+   "US3793886"
+   "US3869251"
+   "US3892908"],
+  :term-years 20,
+  :open-license :none}
+ {:jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3985690/en",
+  :title "Enzyme separation",
+  :status :granted,
+  :id "US3985690",
+  :sourcing :authoritative,
+  :filing-year 1974,
+  :assignee :unassigned,
+  :grant-year 1976,
+  :cites ["DE1959169A1"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:american-cyanamid],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3991766/en",
+  :title
+  "Controlled release of medicaments using polymers from glycolic acid",
+  :status :granted,
+  :id "US3991766",
+  :sourcing :authoritative,
+  :filing-year 1975,
+  :assignee :american-cyanamid,
+  :grant-year 1976,
+  :cites ["US3297033" "US3773919" "US3887699"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:istituto-farmacologico-serono-spa],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3992514/en",
+  :title
+  "Radioimmunoassay method for human chorionic gonadotropin in the presence of luteinizing hormone",
+  :status :granted,
+  :id "US3992514",
+  :sourcing :authoritative,
+  :filing-year 1974,
+  :assignee :istituto-farmacologico-serono-spa,
+  :grant-year 1976,
+  :term-years 20,
+  :open-license :none}
+ {:jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3992516/en",
+  :title
+  "Direct fluorescent antibody composition and method for P. Pneumocystis carinii",
+  :status :granted,
+  :id "US3992516",
+  :sourcing :authoritative,
+  :filing-year 1974,
+  :assignee :unassigned,
+  :grant-year 1976,
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:international-diagnostic-technologies],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3992631/en",
+  :title "Fluorometric system, method and test article",
+  :status :granted,
+  :id "US3992631",
+  :sourcing :authoritative,
+  :filing-year 1975,
+  :assignee :international-diagnostic-technologies,
+  :grant-year 1976,
+  :cites
+  ["US3074853"
+   "US3449488"
+   "US3449571"
+   "US3473027"
+   "US3666421"
+   "US3770383"
+   "US3806256"
+   "US3826619"
+   "US3831137"
+   "US3916205"
+   "US3918812"
+   "US3941876"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:community-blood-concil-of-greater-new-york],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3994870/en",
+  :title "Purification of hepatitis B surface antigen",
+  :status :granted,
+  :id "US3994870",
+  :sourcing :authoritative,
+  :filing-year 1974,
+  :assignee :community-blood-concil-of-greater-new-york,
+  :grant-year 1976,
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:pharmacia],
   :jurisdiction :us,
   :field "UNKNOWN",
   :source "https://patents.google.com/patent/US3995018/en",

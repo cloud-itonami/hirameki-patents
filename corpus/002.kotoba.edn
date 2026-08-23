@@ -1,4 +1,110 @@
-[{:assignees [:owens-illinois-glass],
+[{:assignees [:shell-oil],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3149182/en",
+  :title
+  "Process for preparing block copolymers utilizing organolithium catalysts",
+  :status :granted,
+  :id "US3149182",
+  :sourcing :authoritative,
+  :filing-year 1957,
+  :assignee :shell-oil,
+  :grant-year 1964,
+  :cites
+  ["CA499577A"
+   "GB339243A"
+   "US2338741"
+   "US2377779"
+   "US2608555"
+   "US2694692"
+   "US2797208"
+   "US3031432"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:phillips-petroleum],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3151204/en",
+  :title "Measurement of fluorescent materials",
+  :status :granted,
+  :id "US3151204",
+  :sourcing :authoritative,
+  :filing-year 1959,
+  :assignee :phillips-petroleum,
+  :grant-year 1964,
+  :cites
+  ["GB813579A"
+   "US1717702"
+   "US1755834"
+   "US2403631"
+   "US2436262"
+   "US2459512"
+   "US2554321"
+   "US2761067"
+   "US2829555"
+   "US2858727"
+   "US2971429"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:upjohn],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3152251/en",
+  :title
+  "Apparatus for automatically determining ultraviolet absorbance in a system",
+  :status :granted,
+  :id "US3152251",
+  :sourcing :authoritative,
+  :filing-year 1961,
+  :assignee :upjohn,
+  :grant-year 1964,
+  :cites ["US2540780" "US2976761" "US2977199" "US2984988"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:upjohn],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3155646/en",
+  :title
+  "1-arabinofuranosyl-5-halouracil and process for the preparation thereof",
+  :status :granted,
+  :id "US3155646",
+  :sourcing :authoritative,
+  :filing-year 1960,
+  :assignee :upjohn,
+  :grant-year 1964,
+  :cites ["US2885396"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:gevaert-photo-producten],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3158484/en",
+  :title "Light-sensitive colloid silver halide photographic elements",
+  :status :granted,
+  :id "US3158484",
+  :sourcing :authoritative,
+  :filing-year 1961,
+  :assignee :gevaert-photo-producten,
+  :grant-year 1964,
+  :cites ["US1970578" "US2630424" "US2716062"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:optron],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3161725/en",
+  :title "Optical displacement follower",
+  :status :granted,
+  :id "US3161725",
+  :sourcing :authoritative,
+  :filing-year 1961,
+  :assignee :optron,
+  :grant-year 1964,
+  :cites ["US2304755" "US2692945"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:owens-illinois-glass],
   :jurisdiction :us,
   :field "UNKNOWN",
   :source "https://patents.google.com/patent/US3162543/en",
@@ -1943,6 +2049,21 @@
    "US3108017"],
   :term-years 20,
   :open-license :none}
+ {:assignees [:behringwerke],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3322632/en",
+  :title
+  "Process for stabilizing biologically active materials with modified collagen hydrolyzate",
+  :status :granted,
+  :id "US3322632",
+  :sourcing :authoritative,
+  :filing-year 1963,
+  :assignee :behringwerke,
+  :grant-year 1967,
+  :cites ["US2166074" "US3057782"],
+  :term-years 20,
+  :open-license :none}
  {:assignees [:burroughs-wellcome-usa],
   :jurisdiction :us,
   :field "UNKNOWN",
@@ -2604,6 +2725,20 @@
   :cites ["US2223240" "US2555380" "US2970736"],
   :term-years 20,
   :open-license :none}
+ {:assignees [:robert-r-berueffy],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3397965/en",
+  :title "Gas analysis unit",
+  :status :granted,
+  :id "US3397965",
+  :sourcing :authoritative,
+  :filing-year 1965,
+  :assignee :robert-r-berueffy,
+  :grant-year 1968,
+  :cites ["US3215500" "US3223488" "US3249403"],
+  :term-years 20,
+  :open-license :none}
  {:assignees [:perkin-elmer],
   :jurisdiction :us,
   :field "UNKNOWN",
@@ -2685,6 +2820,19 @@
   :cites ["US2898282" "US2913386" "US3022241" "US3058894"],
   :term-years 20,
   :open-license :none}
+ {:jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3409405/en",
+  :title "Diagnostic preparation for the detection of formaldehyde",
+  :status :granted,
+  :id "US3409405",
+  :sourcing :authoritative,
+  :filing-year 1965,
+  :assignee :unassigned,
+  :grant-year 1968,
+  :cites ["US2314548"],
+  :term-years 20,
+  :open-license :none}
  {:assignees [:amerace],
   :jurisdiction :us,
   :field "UNKNOWN",
@@ -2705,6 +2853,20 @@
    "US3090083"
    "US3177989"
    "US3302354"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:miles-laboratories],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3411887/en",
+  :title "Diagnostic composition",
+  :status :granted,
+  :id "US3411887",
+  :sourcing :authoritative,
+  :filing-year 1964,
+  :assignee :miles-laboratories,
+  :grant-year 1968,
+  :cites ["US2799660" "US2850359" "US3104209" "US3235337" "US3266868"],
   :term-years 20,
   :open-license :none}
  {:assignees [:ajinomoto],
@@ -2910,6 +3072,21 @@
   :grant-year 1886,
   :term-years 20,
   :open-license :none}
+ {:assignees [:colab-lab],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3434801/en",
+  :title
+  "Diagnostic test material for determination of ovulatory function and method for production of said test material",
+  :status :granted,
+  :id "US3434801",
+  :sourcing :authoritative,
+  :filing-year 1964,
+  :assignee :colab-lab,
+  :grant-year 1969,
+  :cites ["US2676874" "US3021257"],
+  :term-years 20,
+  :open-license :none}
  {:assignees [:weather-proof],
   :jurisdiction :us,
   :field "UNKNOWN",
@@ -3078,6 +3255,20 @@
   :assignee :ei-du-pont-de-nemours-and,
   :grant-year 1969,
   :cites ["US2801171" "US3163625"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:miles-laboratories],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3453180/en",
+  :title "Test article",
+  :status :granted,
+  :id "US3453180",
+  :sourcing :authoritative,
+  :filing-year 1965,
+  :assignee :miles-laboratories,
+  :grant-year 1969,
+  :cites ["US3016292" "US3123443" "US3298789"],
   :term-years 20,
   :open-license :none}
  {:assignees [:ajinomoto],
@@ -3827,6 +4018,20 @@
   :grant-year 1970,
   :term-years 20,
   :open-license :none}
+ {:assignees [:beckman-instruments],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3532470/en",
+  :title "Sample holder with centrifugation means",
+  :status :granted,
+  :id "US3532470",
+  :sourcing :authoritative,
+  :filing-year 1968,
+  :assignee :beckman-instruments,
+  :grant-year 1970,
+  :cites ["US3081029" "US3115460" "US3151073" "US3266298" "US3415627"],
+  :term-years 20,
+  :open-license :none}
  {:assignees [:kyowa-hakko-kogyo],
   :jurisdiction :us,
   :field "UNKNOWN",
@@ -4112,6 +4317,20 @@
   :filing-year 1967,
   :assignee :pharmacia,
   :grant-year 1971,
+  :term-years 20,
+  :open-license :none}
+ {:jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3555284/en",
+  :title
+  "Multistation, single channel analytical photometer and method of use",
+  :status :granted,
+  :id "US3555284",
+  :sourcing :authoritative,
+  :filing-year 1968,
+  :assignee :unassigned,
+  :grant-year 1971,
+  :cites ["US2543303" "US2552107" "US3217877" "US3322956" "US3418053"],
   :term-years 20,
   :open-license :none}
  {:assignees [:westinghouse-electric],
@@ -5552,6 +5771,19 @@
   :grant-year 1972,
   :term-years 20,
   :open-license :none}
+ {:assignees [:monsanto],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3705084/en",
+  :title "Macroporous enzyme reactor",
+  :status :granted,
+  :id "US3705084",
+  :sourcing :authoritative,
+  :filing-year 1971,
+  :assignee :monsanto,
+  :grant-year 1972,
+  :term-years 20,
+  :open-license :none}
  {:assignees [:international-business-machines],
   :jurisdiction :us,
   :field "UNKNOWN",
@@ -6000,6 +6232,20 @@
   :assignee :f-hoffmann-la-roche,
   :grant-year 1973,
   :cites ["US3597318"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:research],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3758396/en",
+  :title
+  "Ition preparation of immobilized enzymemembrane complexes by electrocodepos",
+  :status :granted,
+  :id "US3758396",
+  :sourcing :authoritative,
+  :filing-year 1971,
+  :assignee :research,
+  :grant-year 1973,
   :term-years 20,
   :open-license :none}
  {:assignees [:minolta],
@@ -6571,6 +6817,19 @@
   :grant-year 1974,
   :term-years 20,
   :open-license :none}
+ {:assignees [:research],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3809613/en",
+  :title "Biocatalytic module",
+  :status :granted,
+  :id "US3809613",
+  :sourcing :authoritative,
+  :filing-year 1971,
+  :assignee :research,
+  :grant-year 1974,
+  :term-years 20,
+  :open-license :none}
  {:assignees [:f-hoffmann-la-roche],
   :jurisdiction :us,
   :field "UNKNOWN",
@@ -6996,6 +7255,19 @@
   :cites ["US2929789" "US3696042"],
   :term-years 20,
   :open-license :none}
+ {:assignees [:research],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3843446/en",
+  :title "Preparation of enzymatically active membranes",
+  :status :granted,
+  :id "US3843446",
+  :sourcing :authoritative,
+  :filing-year 1971,
+  :assignee :research,
+  :grant-year 1974,
+  :term-years 20,
+  :open-license :none}
  {:jurisdiction :us,
   :field "UNKNOWN",
   :source "https://patents.google.com/patent/US3843450/en",
@@ -7341,6 +7613,32 @@
   :assignee :corning-glass-works,
   :grant-year 1975,
   :cites ["US2859653" "US3466514" "US3515877" "US3541338"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:albert-einstein-college-of-medicine],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3865548/en",
+  :title "Analytical apparatus and process",
+  :status :granted,
+  :id "US3865548",
+  :sourcing :authoritative,
+  :filing-year 1973,
+  :assignee :albert-einstein-college-of-medicine,
+  :grant-year 1975,
+  :cites
+  ["US2888331"
+   "US3000706"
+   "US3123444"
+   "US3227523"
+   "US3367850"
+   "US3480399"
+   "US3539300"
+   "US3573470"
+   "US3657073"
+   "US3660037"
+   "US3706381"
+   "US3748098"],
   :term-years 20,
   :open-license :none}
  {:assignees [:nat-res-dev],
@@ -8903,315 +9201,5 @@
   :assignee :tokyo-shibaura-electric,
   :grant-year 1976,
   :cites ["US3614232" "US3658420" "US3738752"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:biological-developments],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3975342/en",
-  :title
-  "Tyrosyl-class antigenic conjugates, their preparation and antibodies raised thereto",
-  :status :granted,
-  :id "US3975342",
-  :sourcing :authoritative,
-  :filing-year 1974,
-  :assignee :biological-developments,
-  :grant-year 1976,
-  :cites ["US3809782"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:corning-glass-works],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3975511/en",
-  :title "Solid phase radioimmunoassay",
-  :status :granted,
-  :id "US3975511",
-  :sourcing :authoritative,
-  :filing-year 1974,
-  :assignee :corning-glass-works,
-  :grant-year 1976,
-  :cites ["US3519538" "US3652761" "US3669841"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:dynatech],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3976071/en",
-  :title
-  "Methods of improving control of release rates and products useful in same",
-  :status :granted,
-  :id "US3976071",
-  :sourcing :authoritative,
-  :filing-year 1974,
-  :assignee :dynatech,
-  :grant-year 1976,
-  :cites
-  ["DE2218200A1"
-   "US3225766"
-   "US3435008"
-   "US3545439"
-   "US3630200"
-   "US3641237"
-   "US3773919"
-   "US3810458"
-   "US3811444"
-   "US3887699"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:yellow-springs-instrument],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3979274/en",
-  :title "Membrane for enzyme electrodes",
-  :status :granted,
-  :id "US3979274",
-  :sourcing :authoritative,
-  :filing-year 1975,
-  :assignee :yellow-springs-instrument,
-  :grant-year 1976,
-  :cites
-  ["US3098813"
-   "US3539455"
-   "US3542662"
-   "US3575836"
-   "US3707455"
-   "US3718563"
-   "US3776819"
-   "US3838033"
-   "US3869354"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:general-electric],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3979509/en",
-  :title "Opaque layer method for detecting biological particles",
-  :status :granted,
-  :id "US3979509",
-  :sourcing :authoritative,
-  :filing-year 1974,
-  :assignee :general-electric,
-  :grant-year 1976,
-  :cites ["US3853467"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:gt-schjeldahl],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3980587/en",
-  :title "Stripper composition",
-  :status :granted,
-  :id "US3980587",
-  :sourcing :authoritative,
-  :filing-year 1974,
-  :assignee :gt-schjeldahl,
-  :grant-year 1976,
-  :cites
-  ["CA536441A"
-   "US2662837"
-   "US3080262"
-   "US3391084"
-   "US3551204"
-   "US3553143"
-   "US3839234"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:ei-du-pont-de-nemours-and],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3980602/en",
-  :title
-  "Acrylic polymer dispersant for aqueous acrylic coating compositions",
-  :status :granted,
-  :id "US3980602",
-  :sourcing :authoritative,
-  :filing-year 1975,
-  :assignee :ei-du-pont-de-nemours-and,
-  :grant-year 1976,
-  :cites ["US3692726" "US3769251" "US3784498" "US3875099"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:curtis-nuclear],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3980764/en",
-  :title
-  "Polymeric competitive protein binding adsorbents for radioassey",
-  :status :granted,
-  :id "US3980764",
-  :sourcing :authoritative,
-  :filing-year 1973,
-  :assignee :curtis-nuclear,
-  :grant-year 1976,
-  :cites ["US2957808" "US3410839"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:abbott-laboratories],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3981982/en",
-  :title
-  "Radioimmunoassay for determining the digoxin content of a sample",
-  :status :granted,
-  :id "US3981982",
-  :sourcing :authoritative,
-  :filing-year 1974,
-  :assignee :abbott-laboratories,
-  :grant-year 1976,
-  :cites ["CH459997A"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:formica],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3983307/en",
-  :title "Thin, tough, stable laminate",
-  :status :granted,
-  :id "US3983307",
-  :sourcing :authoritative,
-  :filing-year 1975,
-  :assignee :formica,
-  :grant-year 1976,
-  :cites ["US2918452" "US3220916" "US3589974"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:biophysics-systems],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3984307/en",
-  :title "Combined particle sorter and segregation indicator",
-  :status :granted,
-  :id "US3984307",
-  :sourcing :authoritative,
-  :filing-year 1974,
-  :assignee :biophysics-systems,
-  :grant-year 1976,
-  :cites
-  ["US2333791"
-   "US2656508"
-   "US3269419"
-   "US3362421"
-   "US3426879"
-   "US3508654"
-   "US3508655"
-   "US3560754"
-   "US3710933"
-   "US3743090"
-   "US3827555"],
-  :term-years 20,
-  :open-license :none}
- {:jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3985649/en",
-  :title "Ferromagnetic separation process and material",
-  :status :granted,
-  :id "US3985649",
-  :sourcing :authoritative,
-  :filing-year 1974,
-  :assignee :unassigned,
-  :grant-year 1976,
-  :cites
-  ["US3219318"
-   "US3428179"
-   "US3487939"
-   "US3712472"
-   "US3793886"
-   "US3869251"
-   "US3892908"],
-  :term-years 20,
-  :open-license :none}
- {:jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3985690/en",
-  :title "Enzyme separation",
-  :status :granted,
-  :id "US3985690",
-  :sourcing :authoritative,
-  :filing-year 1974,
-  :assignee :unassigned,
-  :grant-year 1976,
-  :cites ["DE1959169A1"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:american-cyanamid],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3991766/en",
-  :title
-  "Controlled release of medicaments using polymers from glycolic acid",
-  :status :granted,
-  :id "US3991766",
-  :sourcing :authoritative,
-  :filing-year 1975,
-  :assignee :american-cyanamid,
-  :grant-year 1976,
-  :cites ["US3297033" "US3773919" "US3887699"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:istituto-farmacologico-serono-spa],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3992514/en",
-  :title
-  "Radioimmunoassay method for human chorionic gonadotropin in the presence of luteinizing hormone",
-  :status :granted,
-  :id "US3992514",
-  :sourcing :authoritative,
-  :filing-year 1974,
-  :assignee :istituto-farmacologico-serono-spa,
-  :grant-year 1976,
-  :term-years 20,
-  :open-license :none}
- {:jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3992516/en",
-  :title
-  "Direct fluorescent antibody composition and method for P. Pneumocystis carinii",
-  :status :granted,
-  :id "US3992516",
-  :sourcing :authoritative,
-  :filing-year 1974,
-  :assignee :unassigned,
-  :grant-year 1976,
-  :term-years 20,
-  :open-license :none}
- {:assignees [:international-diagnostic-technologies],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3992631/en",
-  :title "Fluorometric system, method and test article",
-  :status :granted,
-  :id "US3992631",
-  :sourcing :authoritative,
-  :filing-year 1975,
-  :assignee :international-diagnostic-technologies,
-  :grant-year 1976,
-  :cites
-  ["US3074853"
-   "US3449488"
-   "US3449571"
-   "US3473027"
-   "US3666421"
-   "US3770383"
-   "US3806256"
-   "US3826619"
-   "US3831137"
-   "US3916205"
-   "US3918812"
-   "US3941876"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:community-blood-concil-of-greater-new-york],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3994870/en",
-  :title "Purification of hepatitis B surface antigen",
-  :status :granted,
-  :id "US3994870",
-  :sourcing :authoritative,
-  :filing-year 1974,
-  :assignee :community-blood-concil-of-greater-new-york,
-  :grant-year 1976,
   :term-years 20,
   :open-license :none}]

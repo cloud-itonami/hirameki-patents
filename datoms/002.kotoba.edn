@@ -1,4 +1,49 @@
 [[":db/add"
+  "hirameki-patent:US1921368"
+  ":hirameki.patent/status"
+  ":granted"]
+ [":db/add"
+  "hirameki-patent:US1921368"
+  ":hirameki.patent/open-license"
+  ":none"]
+ [":db/add"
+  "hirameki-patent:US1921368"
+  ":hirameki.obs/release-status"
+  ":public-domain"]
+ [":db/add"
+  "hirameki-patent:US1921368"
+  ":hirameki/sourcing"
+  ":authoritative"]
+ [":db/add" "hirameki-patent:US1921368" ":hirameki/derived" true]
+ [":db/add"
+  "hirameki-patent:US1921368"
+  ":hirameki.obs/years-to-expiry"
+  -76]
+ [":db/add"
+  "hirameki-patent:US1921368"
+  ":hirameki/source"
+  "https://patents.google.com/patent/US1921368/en"]
+ [":db/add"
+  "hirameki-patent:US1921369"
+  ":hirameki.patent/title"
+  "Method of coating paper"]
+ [":db/add"
+  "hirameki-patent:US1921369"
+  ":hirameki.patent/jurisdiction"
+  ":us"]
+ [":db/add"
+  "hirameki-patent:US1921369"
+  ":hirameki.patent/field"
+  "UNKNOWN"]
+ [":db/add"
+  "hirameki-patent:US1921369"
+  ":hirameki.patent/assignee"
+  ":unassigned"]
+ [":db/add"
+  "hirameki-patent:US1921369"
+  ":hirameki.patent/status"
+  ":granted"]
+ [":db/add"
   "hirameki-patent:US1921369"
   ":hirameki.patent/open-license"
   ":none"]
@@ -10401,45 +10446,4 @@
   "hirameki-patent:US2417468"
   ":hirameki/sourcing"
   ":authoritative"]
- [":db/add" "hirameki-patent:US2417468" ":hirameki/derived" true]
- [":db/add"
-  "hirameki-patent:US2417468"
-  ":hirameki.obs/years-to-expiry"
-  -62]
- [":db/add"
-  "hirameki-patent:US2417468"
-  ":hirameki/source"
-  "https://patents.google.com/patent/US2417468/en"]
- [":db/add"
-  "hirameki-patent:US2418747"
-  ":hirameki.patent/title"
-  "Nondiffusing phenolic color couplers"]
- [":db/add"
-  "hirameki-patent:US2418747"
-  ":hirameki.patent/jurisdiction"
-  ":us"]
- [":db/add"
-  "hirameki-patent:US2418747"
-  ":hirameki.patent/field"
-  "UNKNOWN"]
- [":db/add"
-  "hirameki-patent:US2418747"
-  ":hirameki.patent/assignee"
-  ":general-aniline-and-film"]
- [":db/add"
-  "hirameki-patent:US2418747"
-  ":hirameki.patent/status"
-  ":granted"]
- [":db/add"
-  "hirameki-patent:US2418747"
-  ":hirameki.patent/open-license"
-  ":none"]
- [":db/add"
-  "hirameki-patent:US2418747"
-  ":hirameki.obs/release-status"
-  ":public-domain"]
- [":db/add"
-  "hirameki-patent:US2418747"
-  ":hirameki/sourcing"
-  ":authoritative"]
- [":db/add" "hirameki-patent:US2418747" ":hirameki/derived" true]]
+ [":db/add" "hirameki-patent:US2417468" ":hirameki/derived" true]]

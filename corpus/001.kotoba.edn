@@ -1,4 +1,17 @@
-[{:assignees [:buffalo-foundry-&-machine],
+[{:assignees [:baker-oil-tools],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2315931/en",
+  :title "Liner hanger apparatus",
+  :status :granted,
+  :id "US2315931",
+  :sourcing :authoritative,
+  :filing-year 1940,
+  :assignee :baker-oil-tools,
+  :grant-year 1943,
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:buffalo-foundry-&-machine],
   :jurisdiction :us,
   :field "UNKNOWN",
   :source "https://patents.google.com/patent/US2316176/en",
@@ -979,6 +992,19 @@
   :assignee :fairchild-camera-and-instrument,
   :grant-year 1947,
   :cites ["US1875552"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:miles-laboratories],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2418033/en",
+  :title "Diagnostic compositions",
+  :status :granted,
+  :id "US2418033",
+  :sourcing :authoritative,
+  :filing-year 1946,
+  :assignee :miles-laboratories,
+  :grant-year 1947,
   :term-years 20,
   :open-license :none}
  {:assignees [:general-aniline-and-film],
@@ -3029,6 +3055,19 @@
   :cites ["US2253146" "US2265119" "US2322953" "US2332373" "US2443450"],
   :term-years 20,
   :open-license :none}
+ {:jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2608533/en",
+  :title "Composition and method for testing biological fluids",
+  :status :granted,
+  :id "US2608533",
+  :sourcing :authoritative,
+  :filing-year 1951,
+  :assignee :unassigned,
+  :grant-year 1952,
+  :cites ["US500697" "US588613"],
+  :term-years 20,
+  :open-license :none}
  {:assignees [:ei-du-pont-de-nemours-and],
   :jurisdiction :us,
   :field "UNKNOWN",
@@ -3608,6 +3647,19 @@
    "US2262370"
    "US2349992"
    "US2492768"],
+  :term-years 20,
+  :open-license :none}
+ {:jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2659700/en",
+  :title "Composition for testing for glucose in biological fluids",
+  :status :granted,
+  :id "US2659700",
+  :sourcing :authoritative,
+  :filing-year 1952,
+  :assignee :unassigned,
+  :grant-year 1953,
+  :cites ["US2608533"],
   :term-years 20,
   :open-license :none}
  {:assignees [:usines-deeoufle],
@@ -5850,6 +5902,27 @@
   :cites ["CA500178A" "US2698240"],
   :term-years 20,
   :open-license :none}
+ {:assignees [:stamford-engineered-products-c],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2822476/en",
+  :title "Sterilizer",
+  :status :granted,
+  :id "US2822476",
+  :sourcing :authoritative,
+  :filing-year 1952,
+  :assignee :stamford-engineered-products-c,
+  :grant-year 1958,
+  :cites
+  ["US2146688"
+   "US2245762"
+   "US2273449"
+   "US2484559"
+   "US2536613"
+   "US2554156"
+   "US2596219"],
+  :term-years 20,
+  :open-license :none}
  {:assignees [:boyce-thompson-institute-for-plant-research],
   :jurisdiction :us,
   :field "UNKNOWN",
@@ -7062,6 +7135,20 @@
    "US2769796"
    "US2773793"
    "US2773794"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:national-drug],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2930736/en",
+  :title
+  "Stabilized trypsin compositions containing partially hydrolyzed gelatin and method of making",
+  :status :granted,
+  :id "US2930736",
+  :sourcing :authoritative,
+  :filing-year 1957,
+  :assignee :national-drug,
+  :grant-year 1960,
   :term-years 20,
   :open-license :none}
  {:jurisdiction :us,
@@ -9069,6 +9156,19 @@
   :cites ["US2621171" "US2658058" "US2920065"],
   :term-years 20,
   :open-license :none}
+ {:jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3072362/en",
+  :title "Vial holder",
+  :status :granted,
+  :id "US3072362",
+  :sourcing :authoritative,
+  :filing-year 1962,
+  :assignee :unassigned,
+  :grant-year 1963,
+  :cites ["GB348858A" "US1870258" "US2919796"],
+  :term-years 20,
+  :open-license :none}
  {:assignees [:hynson-westcott-and-dunning],
   :jurisdiction :us,
   :field "UNKNOWN",
@@ -9878,111 +9978,5 @@
   :assignee :north-american-refractories,
   :grant-year 1964,
   :cites ["FR1184625A"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:shell-oil],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3149182/en",
-  :title
-  "Process for preparing block copolymers utilizing organolithium catalysts",
-  :status :granted,
-  :id "US3149182",
-  :sourcing :authoritative,
-  :filing-year 1957,
-  :assignee :shell-oil,
-  :grant-year 1964,
-  :cites
-  ["CA499577A"
-   "GB339243A"
-   "US2338741"
-   "US2377779"
-   "US2608555"
-   "US2694692"
-   "US2797208"
-   "US3031432"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:phillips-petroleum],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3151204/en",
-  :title "Measurement of fluorescent materials",
-  :status :granted,
-  :id "US3151204",
-  :sourcing :authoritative,
-  :filing-year 1959,
-  :assignee :phillips-petroleum,
-  :grant-year 1964,
-  :cites
-  ["GB813579A"
-   "US1717702"
-   "US1755834"
-   "US2403631"
-   "US2436262"
-   "US2459512"
-   "US2554321"
-   "US2761067"
-   "US2829555"
-   "US2858727"
-   "US2971429"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:upjohn],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3152251/en",
-  :title
-  "Apparatus for automatically determining ultraviolet absorbance in a system",
-  :status :granted,
-  :id "US3152251",
-  :sourcing :authoritative,
-  :filing-year 1961,
-  :assignee :upjohn,
-  :grant-year 1964,
-  :cites ["US2540780" "US2976761" "US2977199" "US2984988"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:upjohn],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3155646/en",
-  :title
-  "1-arabinofuranosyl-5-halouracil and process for the preparation thereof",
-  :status :granted,
-  :id "US3155646",
-  :sourcing :authoritative,
-  :filing-year 1960,
-  :assignee :upjohn,
-  :grant-year 1964,
-  :cites ["US2885396"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:gevaert-photo-producten],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3158484/en",
-  :title "Light-sensitive colloid silver halide photographic elements",
-  :status :granted,
-  :id "US3158484",
-  :sourcing :authoritative,
-  :filing-year 1961,
-  :assignee :gevaert-photo-producten,
-  :grant-year 1964,
-  :cites ["US1970578" "US2630424" "US2716062"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:optron],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3161725/en",
-  :title "Optical displacement follower",
-  :status :granted,
-  :id "US3161725",
-  :sourcing :authoritative,
-  :filing-year 1961,
-  :assignee :optron,
-  :grant-year 1964,
-  :cites ["US2304755" "US2692945"],
   :term-years 20,
   :open-license :none}]

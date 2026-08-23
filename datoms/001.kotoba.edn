@@ -1,4 +1,41 @@
 [[":db/add"
+  "hirameki-patent:JP2000505352A"
+  ":hirameki.patent/assignee"
+  ":ヘルバーツ・ゲゼルシヤフト・ミツト・ベシユレンクテル・ハフツング"]
+ [":db/add"
+  "hirameki-patent:JP2000505352A"
+  ":hirameki.patent/status"
+  ":pending"]
+ [":db/add"
+  "hirameki-patent:JP2000505352A"
+  ":hirameki.patent/open-license"
+  ":none"]
+ [":db/add"
+  "hirameki-patent:JP2000505352A"
+  ":hirameki.obs/release-status"
+  ":pending"]
+ [":db/add"
+  "hirameki-patent:JP2000505352A"
+  ":hirameki/sourcing"
+  ":authoritative"]
+ [":db/add" "hirameki-patent:JP2000505352A" ":hirameki/derived" true]
+ [":db/add"
+  "hirameki-patent:JP2000505352A"
+  ":hirameki.obs/years-to-expiry"
+  -9]
+ [":db/add"
+  "hirameki-patent:JP2000505352A"
+  ":hirameki/source"
+  "https://patents.google.com/patent/JP2000505352A/en"]
+ [":db/add"
+  "hirameki-patent:JP2001002977A"
+  ":hirameki.patent/title"
+  "Aqueous paint composition for automotive interior materials"]
+ [":db/add"
+  "hirameki-patent:JP2001002977A"
+  ":hirameki.patent/jurisdiction"
+  ":jp"]
+ [":db/add"
   "hirameki-patent:JP2001002977A"
   ":hirameki.patent/field"
   "UNKNOWN"]
@@ -9992,49 +10029,4 @@
  [":db/add"
   "hirameki-patent:US1921368"
   ":hirameki.patent/assignee"
-  ":unassigned"]
- [":db/add"
-  "hirameki-patent:US1921368"
-  ":hirameki.patent/status"
-  ":granted"]
- [":db/add"
-  "hirameki-patent:US1921368"
-  ":hirameki.patent/open-license"
-  ":none"]
- [":db/add"
-  "hirameki-patent:US1921368"
-  ":hirameki.obs/release-status"
-  ":public-domain"]
- [":db/add"
-  "hirameki-patent:US1921368"
-  ":hirameki/sourcing"
-  ":authoritative"]
- [":db/add" "hirameki-patent:US1921368" ":hirameki/derived" true]
- [":db/add"
-  "hirameki-patent:US1921368"
-  ":hirameki.obs/years-to-expiry"
-  -76]
- [":db/add"
-  "hirameki-patent:US1921368"
-  ":hirameki/source"
-  "https://patents.google.com/patent/US1921368/en"]
- [":db/add"
-  "hirameki-patent:US1921369"
-  ":hirameki.patent/title"
-  "Method of coating paper"]
- [":db/add"
-  "hirameki-patent:US1921369"
-  ":hirameki.patent/jurisdiction"
-  ":us"]
- [":db/add"
-  "hirameki-patent:US1921369"
-  ":hirameki.patent/field"
-  "UNKNOWN"]
- [":db/add"
-  "hirameki-patent:US1921369"
-  ":hirameki.patent/assignee"
-  ":unassigned"]
- [":db/add"
-  "hirameki-patent:US1921369"
-  ":hirameki.patent/status"
-  ":granted"]]
+  ":unassigned"]]

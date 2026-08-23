@@ -592,6 +592,47 @@
   ":hirameki/source"
   "https://patents.google.com/patent/DE139666C/en"]
  [":db/add"
+  "hirameki-patent:DE1598859B2"
+  ":hirameki.patent/title"
+  "Process for the preparation of reagents for immunochemical determinations"]
+ [":db/add"
+  "hirameki-patent:DE1598859B2"
+  ":hirameki.patent/jurisdiction"
+  ":de"]
+ [":db/add"
+  "hirameki-patent:DE1598859B2"
+  ":hirameki.patent/field"
+  "UNKNOWN"]
+ [":db/add"
+  "hirameki-patent:DE1598859B2"
+  ":hirameki.patent/assignee"
+  ":organon"]
+ [":db/add"
+  "hirameki-patent:DE1598859B2"
+  ":hirameki.patent/status"
+  ":pending"]
+ [":db/add"
+  "hirameki-patent:DE1598859B2"
+  ":hirameki.patent/open-license"
+  ":none"]
+ [":db/add"
+  "hirameki-patent:DE1598859B2"
+  ":hirameki.obs/release-status"
+  ":pending"]
+ [":db/add"
+  "hirameki-patent:DE1598859B2"
+  ":hirameki/sourcing"
+  ":authoritative"]
+ [":db/add" "hirameki-patent:DE1598859B2" ":hirameki/derived" true]
+ [":db/add"
+  "hirameki-patent:DE1598859B2"
+  ":hirameki.obs/years-to-expiry"
+  -40]
+ [":db/add"
+  "hirameki-patent:DE1598859B2"
+  ":hirameki/source"
+  "https://patents.google.com/patent/DE1598859B2/en"]
+ [":db/add"
   "hirameki-patent:DE19914896A1"
   ":hirameki.patent/title"
   "Aqueous coating material, e.g. for painting cars or industrial substrates, contains a polyurethane binder based on bis-4-isocyanato-cyclohexyl-methane with a low trans-trans content, plus a crosslinker"]
@@ -9961,41 +10002,4 @@
  [":db/add"
   "hirameki-patent:JP2000505352A"
   ":hirameki.patent/field"
-  "UNKNOWN"]
- [":db/add"
-  "hirameki-patent:JP2000505352A"
-  ":hirameki.patent/assignee"
-  ":ヘルバーツ・ゲゼルシヤフト・ミツト・ベシユレンクテル・ハフツング"]
- [":db/add"
-  "hirameki-patent:JP2000505352A"
-  ":hirameki.patent/status"
-  ":pending"]
- [":db/add"
-  "hirameki-patent:JP2000505352A"
-  ":hirameki.patent/open-license"
-  ":none"]
- [":db/add"
-  "hirameki-patent:JP2000505352A"
-  ":hirameki.obs/release-status"
-  ":pending"]
- [":db/add"
-  "hirameki-patent:JP2000505352A"
-  ":hirameki/sourcing"
-  ":authoritative"]
- [":db/add" "hirameki-patent:JP2000505352A" ":hirameki/derived" true]
- [":db/add"
-  "hirameki-patent:JP2000505352A"
-  ":hirameki.obs/years-to-expiry"
-  -9]
- [":db/add"
-  "hirameki-patent:JP2000505352A"
-  ":hirameki/source"
-  "https://patents.google.com/patent/JP2000505352A/en"]
- [":db/add"
-  "hirameki-patent:JP2001002977A"
-  ":hirameki.patent/title"
-  "Aqueous paint composition for automotive interior materials"]
- [":db/add"
-  "hirameki-patent:JP2001002977A"
-  ":hirameki.patent/jurisdiction"
-  ":jp"]]
+  "UNKNOWN"]]
