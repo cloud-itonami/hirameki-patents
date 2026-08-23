@@ -1,4 +1,164 @@
 [[":db/add"
+  "hirameki-patent:US2901348"
+  ":hirameki.patent/jurisdiction"
+  ":us"]
+ [":db/add"
+  "hirameki-patent:US2901348"
+  ":hirameki.patent/field"
+  "UNKNOWN"]
+ [":db/add"
+  "hirameki-patent:US2901348"
+  ":hirameki.patent/assignee"
+  ":xerox"]
+ [":db/add"
+  "hirameki-patent:US2901348"
+  ":hirameki.patent/status"
+  ":granted"]
+ [":db/add"
+  "hirameki-patent:US2901348"
+  ":hirameki.patent/open-license"
+  ":none"]
+ [":db/add"
+  "hirameki-patent:US2901348"
+  ":hirameki.obs/release-status"
+  ":public-domain"]
+ [":db/add"
+  "hirameki-patent:US2901348"
+  ":hirameki/sourcing"
+  ":authoritative"]
+ [":db/add" "hirameki-patent:US2901348" ":hirameki/derived" true]
+ [":db/add"
+  "hirameki-patent:US2901348"
+  ":hirameki.obs/years-to-expiry"
+  -53]
+ [":db/add"
+  "hirameki-patent:US2901348"
+  ":hirameki/source"
+  "https://patents.google.com/patent/US2901348/en"]
+ [":db/add"
+  "hirameki-patent:US2905645"
+  ":hirameki.patent/title"
+  "Polymerization catalysts"]
+ [":db/add"
+  "hirameki-patent:US2905645"
+  ":hirameki.patent/jurisdiction"
+  ":us"]
+ [":db/add"
+  "hirameki-patent:US2905645"
+  ":hirameki.patent/field"
+  "UNKNOWN"]
+ [":db/add"
+  "hirameki-patent:US2905645"
+  ":hirameki.patent/assignee"
+  ":ei-du-pont-de-nemours-and"]
+ [":db/add"
+  "hirameki-patent:US2905645"
+  ":hirameki.patent/status"
+  ":granted"]
+ [":db/add"
+  "hirameki-patent:US2905645"
+  ":hirameki.patent/open-license"
+  ":none"]
+ [":db/add"
+  "hirameki-patent:US2905645"
+  ":hirameki.obs/release-status"
+  ":public-domain"]
+ [":db/add"
+  "hirameki-patent:US2905645"
+  ":hirameki/sourcing"
+  ":authoritative"]
+ [":db/add" "hirameki-patent:US2905645" ":hirameki/derived" true]
+ [":db/add"
+  "hirameki-patent:US2905645"
+  ":hirameki.obs/years-to-expiry"
+  -52]
+ [":db/add"
+  "hirameki-patent:US2905645"
+  ":hirameki/source"
+  "https://patents.google.com/patent/US2905645/en"]
+ [":db/add"
+  "hirameki-patent:US2906724"
+  ":hirameki.patent/title"
+  "Composition containing polymethylol melamine and an ammonium salt of a copolymer of an unsaturated monocarboxylic acid and an alkyl ester of such an acid"]
+ [":db/add"
+  "hirameki-patent:US2906724"
+  ":hirameki.patent/jurisdiction"
+  ":us"]
+ [":db/add"
+  "hirameki-patent:US2906724"
+  ":hirameki.patent/field"
+  "UNKNOWN"]
+ [":db/add"
+  "hirameki-patent:US2906724"
+  ":hirameki.patent/assignee"
+  ":american-cyanamid"]
+ [":db/add"
+  "hirameki-patent:US2906724"
+  ":hirameki.patent/status"
+  ":granted"]
+ [":db/add"
+  "hirameki-patent:US2906724"
+  ":hirameki.patent/open-license"
+  ":none"]
+ [":db/add"
+  "hirameki-patent:US2906724"
+  ":hirameki.obs/release-status"
+  ":public-domain"]
+ [":db/add"
+  "hirameki-patent:US2906724"
+  ":hirameki/sourcing"
+  ":authoritative"]
+ [":db/add" "hirameki-patent:US2906724" ":hirameki/derived" true]
+ [":db/add"
+  "hirameki-patent:US2906724"
+  ":hirameki.obs/years-to-expiry"
+  -49]
+ [":db/add"
+  "hirameki-patent:US2906724"
+  ":hirameki/source"
+  "https://patents.google.com/patent/US2906724/en"]
+ [":db/add"
+  "hirameki-patent:US2906756"
+  ":hirameki.patent/title"
+  "New organic silicon compounds and methods of making them"]
+ [":db/add"
+  "hirameki-patent:US2906756"
+  ":hirameki.patent/jurisdiction"
+  ":us"]
+ [":db/add"
+  "hirameki-patent:US2906756"
+  ":hirameki.patent/field"
+  "UNKNOWN"]
+ [":db/add"
+  "hirameki-patent:US2906756"
+  ":hirameki.patent/assignee"
+  ":rohm-and-haas"]
+ [":db/add"
+  "hirameki-patent:US2906756"
+  ":hirameki.patent/status"
+  ":granted"]
+ [":db/add"
+  "hirameki-patent:US2906756"
+  ":hirameki.patent/open-license"
+  ":none"]
+ [":db/add"
+  "hirameki-patent:US2906756"
+  ":hirameki.obs/release-status"
+  ":public-domain"]
+ [":db/add"
+  "hirameki-patent:US2906756"
+  ":hirameki/sourcing"
+  ":authoritative"]
+ [":db/add" "hirameki-patent:US2906756" ":hirameki/derived" true]
+ [":db/add"
+  "hirameki-patent:US2906756"
+  ":hirameki.obs/years-to-expiry"
+  -50]
+ [":db/add"
+  "hirameki-patent:US2906756"
+  ":hirameki/source"
+  "https://patents.google.com/patent/US2906756/en"]
+ [":db/add"
   "hirameki-patent:US2909449"
   ":hirameki.patent/title"
   "Vinylidene chloride copolymer coating compositions"]
@@ -5354,6 +5514,47 @@
   ":hirameki/source"
   "https://patents.google.com/patent/US3081203/en"]
  [":db/add"
+  "hirameki-patent:US3082203"
+  ":hirameki.patent/title"
+  "Novel nucleotide coenzymes"]
+ [":db/add"
+  "hirameki-patent:US3082203"
+  ":hirameki.patent/jurisdiction"
+  ":us"]
+ [":db/add"
+  "hirameki-patent:US3082203"
+  ":hirameki.patent/field"
+  "UNKNOWN"]
+ [":db/add"
+  "hirameki-patent:US3082203"
+  ":hirameki.patent/assignee"
+  ":american-cyanamid"]
+ [":db/add"
+  "hirameki-patent:US3082203"
+  ":hirameki.patent/status"
+  ":granted"]
+ [":db/add"
+  "hirameki-patent:US3082203"
+  ":hirameki.patent/open-license"
+  ":none"]
+ [":db/add"
+  "hirameki-patent:US3082203"
+  ":hirameki.obs/release-status"
+  ":public-domain"]
+ [":db/add"
+  "hirameki-patent:US3082203"
+  ":hirameki/sourcing"
+  ":authoritative"]
+ [":db/add" "hirameki-patent:US3082203" ":hirameki/derived" true]
+ [":db/add"
+  "hirameki-patent:US3082203"
+  ":hirameki.obs/years-to-expiry"
+  -46]
+ [":db/add"
+  "hirameki-patent:US3082203"
+  ":hirameki/source"
+  "https://patents.google.com/patent/US3082203/en"]
+ [":db/add"
   "hirameki-patent:US3085074"
   ":hirameki.patent/title"
   "Aqueous dispersions of halogenated, polymer modified butyl rubber, process of makingsame, and vulcanization thereof"]
@@ -5681,6 +5882,47 @@
   "hirameki-patent:US3096250"
   ":hirameki/source"
   "https://patents.google.com/patent/US3096250/en"]
+ [":db/add"
+  "hirameki-patent:US3098719"
+  ":hirameki.patent/title"
+  "Fluid processing system with continuous filter apparatus"]
+ [":db/add"
+  "hirameki-patent:US3098719"
+  ":hirameki.patent/jurisdiction"
+  ":us"]
+ [":db/add"
+  "hirameki-patent:US3098719"
+  ":hirameki.patent/field"
+  "UNKNOWN"]
+ [":db/add"
+  "hirameki-patent:US3098719"
+  ":hirameki.patent/assignee"
+  ":technicon-instruments"]
+ [":db/add"
+  "hirameki-patent:US3098719"
+  ":hirameki.patent/status"
+  ":granted"]
+ [":db/add"
+  "hirameki-patent:US3098719"
+  ":hirameki.patent/open-license"
+  ":none"]
+ [":db/add"
+  "hirameki-patent:US3098719"
+  ":hirameki.obs/release-status"
+  ":public-domain"]
+ [":db/add"
+  "hirameki-patent:US3098719"
+  ":hirameki/sourcing"
+  ":authoritative"]
+ [":db/add" "hirameki-patent:US3098719" ":hirameki/derived" true]
+ [":db/add"
+  "hirameki-patent:US3098719"
+  ":hirameki.obs/years-to-expiry"
+  -46]
+ [":db/add"
+  "hirameki-patent:US3098719"
+  ":hirameki/source"
+  "https://patents.google.com/patent/US3098719/en"]
  [":db/add"
   "hirameki-patent:US3098813"
   ":hirameki.patent/title"
@@ -6091,6 +6333,47 @@
   "hirameki-patent:US3114859"
   ":hirameki/source"
   "https://patents.google.com/patent/US3114859/en"]
+ [":db/add"
+  "hirameki-patent:US3116282"
+  ":hirameki.patent/title"
+  "Pyrimidine nucleosides and process"]
+ [":db/add"
+  "hirameki-patent:US3116282"
+  ":hirameki.patent/jurisdiction"
+  ":us"]
+ [":db/add"
+  "hirameki-patent:US3116282"
+  ":hirameki.patent/field"
+  "UNKNOWN"]
+ [":db/add"
+  "hirameki-patent:US3116282"
+  ":hirameki.patent/assignee"
+  ":upjohn"]
+ [":db/add"
+  "hirameki-patent:US3116282"
+  ":hirameki.patent/status"
+  ":granted"]
+ [":db/add"
+  "hirameki-patent:US3116282"
+  ":hirameki.patent/open-license"
+  ":none"]
+ [":db/add"
+  "hirameki-patent:US3116282"
+  ":hirameki.obs/release-status"
+  ":public-domain"]
+ [":db/add"
+  "hirameki-patent:US3116282"
+  ":hirameki/sourcing"
+  ":authoritative"]
+ [":db/add" "hirameki-patent:US3116282" ":hirameki/derived" true]
+ [":db/add"
+  "hirameki-patent:US3116282"
+  ":hirameki.obs/years-to-expiry"
+  -46]
+ [":db/add"
+  "hirameki-patent:US3116282"
+  ":hirameki/source"
+  "https://patents.google.com/patent/US3116282/en"]
  [":db/add"
   "hirameki-patent:US3119785"
   ":hirameki.patent/title"
@@ -7318,6 +7601,47 @@
   ":hirameki/source"
   "https://patents.google.com/patent/US3167485/en"]
  [":db/add"
+  "hirameki-patent:US3167540"
+  ":hirameki.patent/title"
+  "Derivatives of 7-d-ribofuranosyl-pyrrolopyrimidines"]
+ [":db/add"
+  "hirameki-patent:US3167540"
+  ":hirameki.patent/jurisdiction"
+  ":us"]
+ [":db/add"
+  "hirameki-patent:US3167540"
+  ":hirameki.patent/field"
+  "UNKNOWN"]
+ [":db/add"
+  "hirameki-patent:US3167540"
+  ":hirameki.patent/assignee"
+  ":upjohn"]
+ [":db/add"
+  "hirameki-patent:US3167540"
+  ":hirameki.patent/status"
+  ":granted"]
+ [":db/add"
+  "hirameki-patent:US3167540"
+  ":hirameki.patent/open-license"
+  ":none"]
+ [":db/add"
+  "hirameki-patent:US3167540"
+  ":hirameki.obs/release-status"
+  ":public-domain"]
+ [":db/add"
+  "hirameki-patent:US3167540"
+  ":hirameki/sourcing"
+  ":authoritative"]
+ [":db/add" "hirameki-patent:US3167540" ":hirameki/derived" true]
+ [":db/add"
+  "hirameki-patent:US3167540"
+  ":hirameki.obs/years-to-expiry"
+  -43]
+ [":db/add"
+  "hirameki-patent:US3167540"
+  ":hirameki/source"
+  "https://patents.google.com/patent/US3167540/en"]
+ [":db/add"
   "hirameki-patent:US3170835"
   ":hirameki.patent/title"
   "Nitromethylbenzyl-phosphorothioic acid diesters and nematocidal methods employing same"]
@@ -7358,6 +7682,47 @@
   "hirameki-patent:US3170835"
   ":hirameki/source"
   "https://patents.google.com/patent/US3170835/en"]
+ [":db/add"
+  "hirameki-patent:US3170917"
+  ":hirameki.patent/title"
+  "Deamination of heterocyclic amino containing compounds"]
+ [":db/add"
+  "hirameki-patent:US3170917"
+  ":hirameki.patent/jurisdiction"
+  ":us"]
+ [":db/add"
+  "hirameki-patent:US3170917"
+  ":hirameki.patent/field"
+  "UNKNOWN"]
+ [":db/add"
+  "hirameki-patent:US3170917"
+  ":hirameki.patent/assignee"
+  ":schwarz-biores"]
+ [":db/add"
+  "hirameki-patent:US3170917"
+  ":hirameki.patent/status"
+  ":granted"]
+ [":db/add"
+  "hirameki-patent:US3170917"
+  ":hirameki.patent/open-license"
+  ":none"]
+ [":db/add"
+  "hirameki-patent:US3170917"
+  ":hirameki.obs/release-status"
+  ":public-domain"]
+ [":db/add"
+  "hirameki-patent:US3170917"
+  ":hirameki/sourcing"
+  ":authoritative"]
+ [":db/add" "hirameki-patent:US3170917" ":hirameki/derived" true]
+ [":db/add"
+  "hirameki-patent:US3170917"
+  ":hirameki.obs/years-to-expiry"
+  -44]
+ [":db/add"
+  "hirameki-patent:US3170917"
+  ":hirameki/source"
+  "https://patents.google.com/patent/US3170917/en"]
  [":db/add"
   "hirameki-patent:US3171833"
   ":hirameki.patent/title"
@@ -7728,6 +8093,47 @@
   ":hirameki/source"
   "https://patents.google.com/patent/US3179635/en"]
  [":db/add"
+  "hirameki-patent:US3180859"
+  ":hirameki.patent/title"
+  "Derivatives of decoyinine and process for preparing same"]
+ [":db/add"
+  "hirameki-patent:US3180859"
+  ":hirameki.patent/jurisdiction"
+  ":us"]
+ [":db/add"
+  "hirameki-patent:US3180859"
+  ":hirameki.patent/field"
+  "UNKNOWN"]
+ [":db/add"
+  "hirameki-patent:US3180859"
+  ":hirameki.patent/assignee"
+  ":upjohn"]
+ [":db/add"
+  "hirameki-patent:US3180859"
+  ":hirameki.patent/status"
+  ":granted"]
+ [":db/add"
+  "hirameki-patent:US3180859"
+  ":hirameki.patent/open-license"
+  ":none"]
+ [":db/add"
+  "hirameki-patent:US3180859"
+  ":hirameki.obs/release-status"
+  ":public-domain"]
+ [":db/add"
+  "hirameki-patent:US3180859"
+  ":hirameki/sourcing"
+  ":authoritative"]
+ [":db/add" "hirameki-patent:US3180859" ":hirameki/derived" true]
+ [":db/add"
+  "hirameki-patent:US3180859"
+  ":hirameki.obs/years-to-expiry"
+  -44]
+ [":db/add"
+  "hirameki-patent:US3180859"
+  ":hirameki/source"
+  "https://patents.google.com/patent/US3180859/en"]
+ [":db/add"
   "hirameki-patent:US3183128"
   ":hirameki.patent/title"
   "Method of making field-effect transistors"]
@@ -7928,6 +8334,88 @@
   "hirameki-patent:US3193357"
   ":hirameki/source"
   "https://patents.google.com/patent/US3193357/en"]
+ [":db/add"
+  "hirameki-patent:US3193358"
+  ":hirameki.patent/title"
+  "Automated analytical apparatus"]
+ [":db/add"
+  "hirameki-patent:US3193358"
+  ":hirameki.patent/jurisdiction"
+  ":us"]
+ [":db/add"
+  "hirameki-patent:US3193358"
+  ":hirameki.patent/field"
+  "UNKNOWN"]
+ [":db/add"
+  "hirameki-patent:US3193358"
+  ":hirameki.patent/assignee"
+  ":warner-lambert-pharmaceutical"]
+ [":db/add"
+  "hirameki-patent:US3193358"
+  ":hirameki.patent/status"
+  ":granted"]
+ [":db/add"
+  "hirameki-patent:US3193358"
+  ":hirameki.patent/open-license"
+  ":none"]
+ [":db/add"
+  "hirameki-patent:US3193358"
+  ":hirameki.obs/release-status"
+  ":public-domain"]
+ [":db/add"
+  "hirameki-patent:US3193358"
+  ":hirameki/sourcing"
+  ":authoritative"]
+ [":db/add" "hirameki-patent:US3193358" ":hirameki/derived" true]
+ [":db/add"
+  "hirameki-patent:US3193358"
+  ":hirameki.obs/years-to-expiry"
+  -44]
+ [":db/add"
+  "hirameki-patent:US3193358"
+  ":hirameki/source"
+  "https://patents.google.com/patent/US3193358/en"]
+ [":db/add"
+  "hirameki-patent:US3193359"
+  ":hirameki.patent/title"
+  "Apparatus for conducting analytical procedural steps"]
+ [":db/add"
+  "hirameki-patent:US3193359"
+  ":hirameki.patent/jurisdiction"
+  ":us"]
+ [":db/add"
+  "hirameki-patent:US3193359"
+  ":hirameki.patent/field"
+  "UNKNOWN"]
+ [":db/add"
+  "hirameki-patent:US3193359"
+  ":hirameki.patent/assignee"
+  ":warner-lambert-pharmaceutical"]
+ [":db/add"
+  "hirameki-patent:US3193359"
+  ":hirameki.patent/status"
+  ":granted"]
+ [":db/add"
+  "hirameki-patent:US3193359"
+  ":hirameki.patent/open-license"
+  ":none"]
+ [":db/add"
+  "hirameki-patent:US3193359"
+  ":hirameki.obs/release-status"
+  ":public-domain"]
+ [":db/add"
+  "hirameki-patent:US3193359"
+  ":hirameki/sourcing"
+  ":authoritative"]
+ [":db/add" "hirameki-patent:US3193359" ":hirameki/derived" true]
+ [":db/add"
+  "hirameki-patent:US3193359"
+  ":hirameki.obs/years-to-expiry"
+  -44]
+ [":db/add"
+  "hirameki-patent:US3193359"
+  ":hirameki/source"
+  "https://patents.google.com/patent/US3193359/en"]
  [":db/add"
   "hirameki-patent:US3194053"
   ":hirameki.patent/title"
@@ -8133,6 +8621,47 @@
   "hirameki-patent:US3200008"
   ":hirameki/source"
   "https://patents.google.com/patent/US3200008/en"]
+ [":db/add"
+  "hirameki-patent:US3201388"
+  ":hirameki.patent/title"
+  "Method of preparing 5&#39;-ribonucleotides"]
+ [":db/add"
+  "hirameki-patent:US3201388"
+  ":hirameki.patent/jurisdiction"
+  ":us"]
+ [":db/add"
+  "hirameki-patent:US3201388"
+  ":hirameki.patent/field"
+  "UNKNOWN"]
+ [":db/add"
+  "hirameki-patent:US3201388"
+  ":hirameki.patent/assignee"
+  ":ajinomoto"]
+ [":db/add"
+  "hirameki-patent:US3201388"
+  ":hirameki.patent/status"
+  ":granted"]
+ [":db/add"
+  "hirameki-patent:US3201388"
+  ":hirameki.patent/open-license"
+  ":none"]
+ [":db/add"
+  "hirameki-patent:US3201388"
+  ":hirameki.obs/release-status"
+  ":public-domain"]
+ [":db/add"
+  "hirameki-patent:US3201388"
+  ":hirameki/sourcing"
+  ":authoritative"]
+ [":db/add" "hirameki-patent:US3201388" ":hirameki/derived" true]
+ [":db/add"
+  "hirameki-patent:US3201388"
+  ":hirameki.obs/years-to-expiry"
+  -43]
+ [":db/add"
+  "hirameki-patent:US3201388"
+  ":hirameki/source"
+  "https://patents.google.com/patent/US3201388/en"]
  [":db/add"
   "hirameki-patent:US3202840"
   ":hirameki.patent/title"
@@ -9772,533 +10301,4 @@
  [":db/add"
   "hirameki-patent:US3262787"
   ":hirameki.patent/title"
-  "Process of preparing packaged cooked foods"]
- [":db/add"
-  "hirameki-patent:US3262787"
-  ":hirameki.patent/jurisdiction"
-  ":us"]
- [":db/add"
-  "hirameki-patent:US3262787"
-  ":hirameki.patent/field"
-  "UNKNOWN"]
- [":db/add"
-  "hirameki-patent:US3262787"
-  ":hirameki.patent/assignee"
-  ":unassigned"]
- [":db/add"
-  "hirameki-patent:US3262787"
-  ":hirameki.patent/status"
-  ":granted"]
- [":db/add"
-  "hirameki-patent:US3262787"
-  ":hirameki.patent/open-license"
-  ":none"]
- [":db/add"
-  "hirameki-patent:US3262787"
-  ":hirameki.obs/release-status"
-  ":public-domain"]
- [":db/add"
-  "hirameki-patent:US3262787"
-  ":hirameki/sourcing"
-  ":authoritative"]
- [":db/add" "hirameki-patent:US3262787" ":hirameki/derived" true]
- [":db/add"
-  "hirameki-patent:US3262787"
-  ":hirameki.obs/years-to-expiry"
-  -44]
- [":db/add"
-  "hirameki-patent:US3262787"
-  ":hirameki/source"
-  "https://patents.google.com/patent/US3262787/en"]
- [":db/add"
-  "hirameki-patent:US3262830"
-  ":hirameki.patent/title"
-  "Organosilicon molding compositions containing orthotitanate catalysts"]
- [":db/add"
-  "hirameki-patent:US3262830"
-  ":hirameki.patent/jurisdiction"
-  ":us"]
- [":db/add"
-  "hirameki-patent:US3262830"
-  ":hirameki.patent/field"
-  "UNKNOWN"]
- [":db/add"
-  "hirameki-patent:US3262830"
-  ":hirameki.patent/assignee"
-  ":dow-corning"]
- [":db/add"
-  "hirameki-patent:US3262830"
-  ":hirameki.patent/status"
-  ":granted"]
- [":db/add"
-  "hirameki-patent:US3262830"
-  ":hirameki.patent/open-license"
-  ":none"]
- [":db/add"
-  "hirameki-patent:US3262830"
-  ":hirameki.obs/release-status"
-  ":public-domain"]
- [":db/add"
-  "hirameki-patent:US3262830"
-  ":hirameki/sourcing"
-  ":authoritative"]
- [":db/add" "hirameki-patent:US3262830" ":hirameki/derived" true]
- [":db/add"
-  "hirameki-patent:US3262830"
-  ":hirameki.obs/years-to-expiry"
-  -45]
- [":db/add"
-  "hirameki-patent:US3262830"
-  ":hirameki/source"
-  "https://patents.google.com/patent/US3262830/en"]
- [":db/add"
-  "hirameki-patent:US3264272"
-  ":hirameki.patent/title"
-  "Ionic hydrocarbon polymers"]
- [":db/add"
-  "hirameki-patent:US3264272"
-  ":hirameki.patent/jurisdiction"
-  ":us"]
- [":db/add"
-  "hirameki-patent:US3264272"
-  ":hirameki.patent/field"
-  "UNKNOWN"]
- [":db/add"
-  "hirameki-patent:US3264272"
-  ":hirameki.patent/assignee"
-  ":ei-du-pont-de-nemours-and"]
- [":db/add"
-  "hirameki-patent:US3264272"
-  ":hirameki.patent/status"
-  ":granted"]
- [":db/add"
-  "hirameki-patent:US3264272"
-  ":hirameki.patent/open-license"
-  ":none"]
- [":db/add"
-  "hirameki-patent:US3264272"
-  ":hirameki.obs/release-status"
-  ":public-domain"]
- [":db/add"
-  "hirameki-patent:US3264272"
-  ":hirameki/sourcing"
-  ":authoritative"]
- [":db/add" "hirameki-patent:US3264272" ":hirameki/derived" true]
- [":db/add"
-  "hirameki-patent:US3264272"
-  ":hirameki.obs/years-to-expiry"
-  -43]
- [":db/add"
-  "hirameki-patent:US3264272"
-  ":hirameki/source"
-  "https://patents.google.com/patent/US3264272/en"]
- [":db/add"
-  "hirameki-patent:US3264474"
-  ":hirameki.patent/title"
-  "Phosphorimeter attachment for fluorometer"]
- [":db/add"
-  "hirameki-patent:US3264474"
-  ":hirameki.patent/jurisdiction"
-  ":us"]
- [":db/add"
-  "hirameki-patent:US3264474"
-  ":hirameki.patent/field"
-  "UNKNOWN"]
- [":db/add"
-  "hirameki-patent:US3264474"
-  ":hirameki.patent/assignee"
-  ":american-instr"]
- [":db/add"
-  "hirameki-patent:US3264474"
-  ":hirameki.patent/status"
-  ":granted"]
- [":db/add"
-  "hirameki-patent:US3264474"
-  ":hirameki.patent/open-license"
-  ":none"]
- [":db/add"
-  "hirameki-patent:US3264474"
-  ":hirameki.obs/release-status"
-  ":public-domain"]
- [":db/add"
-  "hirameki-patent:US3264474"
-  ":hirameki/sourcing"
-  ":authoritative"]
- [":db/add" "hirameki-patent:US3264474" ":hirameki/derived" true]
- [":db/add"
-  "hirameki-patent:US3264474"
-  ":hirameki.obs/years-to-expiry"
-  -43]
- [":db/add"
-  "hirameki-patent:US3264474"
-  ":hirameki/source"
-  "https://patents.google.com/patent/US3264474/en"]
- [":db/add"
-  "hirameki-patent:US3265497"
-  ":hirameki.patent/title"
-  "Electrophotographic material"]
- [":db/add"
-  "hirameki-patent:US3265497"
-  ":hirameki.patent/jurisdiction"
-  ":us"]
- [":db/add"
-  "hirameki-patent:US3265497"
-  ":hirameki.patent/field"
-  "UNKNOWN"]
- [":db/add"
-  "hirameki-patent:US3265497"
-  ":hirameki.patent/assignee"
-  ":renker-belipa-fa"]
- [":db/add"
-  "hirameki-patent:US3265497"
-  ":hirameki.patent/status"
-  ":granted"]
- [":db/add"
-  "hirameki-patent:US3265497"
-  ":hirameki.patent/open-license"
-  ":none"]
- [":db/add"
-  "hirameki-patent:US3265497"
-  ":hirameki.obs/release-status"
-  ":public-domain"]
- [":db/add"
-  "hirameki-patent:US3265497"
-  ":hirameki/sourcing"
-  ":authoritative"]
- [":db/add" "hirameki-patent:US3265497" ":hirameki/derived" true]
- [":db/add"
-  "hirameki-patent:US3265497"
-  ":hirameki.obs/years-to-expiry"
-  -44]
- [":db/add"
-  "hirameki-patent:US3265497"
-  ":hirameki/source"
-  "https://patents.google.com/patent/US3265497/en"]
- [":db/add"
-  "hirameki-patent:US3265765"
-  ":hirameki.patent/title"
-  "Block polymers of monovinyl aromatic hydrocarbons and conjugated dienes"]
- [":db/add"
-  "hirameki-patent:US3265765"
-  ":hirameki.patent/jurisdiction"
-  ":us"]
- [":db/add"
-  "hirameki-patent:US3265765"
-  ":hirameki.patent/field"
-  "UNKNOWN"]
- [":db/add"
-  "hirameki-patent:US3265765"
-  ":hirameki.patent/assignee"
-  ":shell-oil"]
- [":db/add"
-  "hirameki-patent:US3265765"
-  ":hirameki.patent/status"
-  ":granted"]
- [":db/add"
-  "hirameki-patent:US3265765"
-  ":hirameki.patent/open-license"
-  ":none"]
- [":db/add"
-  "hirameki-patent:US3265765"
-  ":hirameki.obs/release-status"
-  ":public-domain"]
- [":db/add"
-  "hirameki-patent:US3265765"
-  ":hirameki/sourcing"
-  ":authoritative"]
- [":db/add" "hirameki-patent:US3265765" ":hirameki/derived" true]
- [":db/add"
-  "hirameki-patent:US3265765"
-  ":hirameki.obs/years-to-expiry"
-  -44]
- [":db/add"
-  "hirameki-patent:US3265765"
-  ":hirameki/source"
-  "https://patents.google.com/patent/US3265765/en"]
- [":db/add"
-  "hirameki-patent:US3266298"
-  ":hirameki.patent/title"
-  "Means and method for the identification of samples for blood typing"]
- [":db/add"
-  "hirameki-patent:US3266298"
-  ":hirameki.patent/jurisdiction"
-  ":us"]
- [":db/add"
-  "hirameki-patent:US3266298"
-  ":hirameki.patent/field"
-  "UNKNOWN"]
- [":db/add"
-  "hirameki-patent:US3266298"
-  ":hirameki.patent/assignee"
-  ":technicon-instruments"]
- [":db/add"
-  "hirameki-patent:US3266298"
-  ":hirameki.patent/status"
-  ":granted"]
- [":db/add"
-  "hirameki-patent:US3266298"
-  ":hirameki.patent/open-license"
-  ":none"]
- [":db/add"
-  "hirameki-patent:US3266298"
-  ":hirameki.obs/release-status"
-  ":public-domain"]
- [":db/add"
-  "hirameki-patent:US3266298"
-  ":hirameki/sourcing"
-  ":authoritative"]
- [":db/add" "hirameki-patent:US3266298" ":hirameki/derived" true]
- [":db/add"
-  "hirameki-patent:US3266298"
-  ":hirameki.obs/years-to-expiry"
-  -43]
- [":db/add"
-  "hirameki-patent:US3266298"
-  ":hirameki/source"
-  "https://patents.google.com/patent/US3266298/en"]
- [":db/add"
-  "hirameki-patent:US3269419"
-  ":hirameki.patent/title"
-  "Fluid amplifiers"]
- [":db/add"
-  "hirameki-patent:US3269419"
-  ":hirameki.patent/jurisdiction"
-  ":us"]
- [":db/add"
-  "hirameki-patent:US3269419"
-  ":hirameki.patent/field"
-  "UNKNOWN"]
- [":db/add"
-  "hirameki-patent:US3269419"
-  ":hirameki.patent/assignee"
-  ":general-electric"]
- [":db/add"
-  "hirameki-patent:US3269419"
-  ":hirameki.patent/status"
-  ":granted"]
- [":db/add"
-  "hirameki-patent:US3269419"
-  ":hirameki.patent/open-license"
-  ":none"]
- [":db/add"
-  "hirameki-patent:US3269419"
-  ":hirameki.obs/release-status"
-  ":public-domain"]
- [":db/add"
-  "hirameki-patent:US3269419"
-  ":hirameki/sourcing"
-  ":authoritative"]
- [":db/add" "hirameki-patent:US3269419" ":hirameki/derived" true]
- [":db/add"
-  "hirameki-patent:US3269419"
-  ":hirameki.obs/years-to-expiry"
-  -43]
- [":db/add"
-  "hirameki-patent:US3269419"
-  ":hirameki/source"
-  "https://patents.google.com/patent/US3269419/en"]
- [":db/add"
-  "hirameki-patent:US3274914"
-  ":hirameki.patent/title"
-  "Camera focusing devices"]
- [":db/add"
-  "hirameki-patent:US3274914"
-  ":hirameki.patent/jurisdiction"
-  ":us"]
- [":db/add"
-  "hirameki-patent:US3274914"
-  ":hirameki.patent/field"
-  "UNKNOWN"]
- [":db/add"
-  "hirameki-patent:US3274914"
-  ":hirameki.patent/assignee"
-  ":agfa"]
- [":db/add"
-  "hirameki-patent:US3274914"
-  ":hirameki.patent/status"
-  ":granted"]
- [":db/add"
-  "hirameki-patent:US3274914"
-  ":hirameki.patent/open-license"
-  ":none"]
- [":db/add"
-  "hirameki-patent:US3274914"
-  ":hirameki.obs/release-status"
-  ":public-domain"]
- [":db/add"
-  "hirameki-patent:US3274914"
-  ":hirameki/sourcing"
-  ":authoritative"]
- [":db/add" "hirameki-patent:US3274914" ":hirameki/derived" true]
- [":db/add"
-  "hirameki-patent:US3274914"
-  ":hirameki.obs/years-to-expiry"
-  -42]
- [":db/add"
-  "hirameki-patent:US3274914"
-  ":hirameki/source"
-  "https://patents.google.com/patent/US3274914/en"]
- [":db/add"
-  "hirameki-patent:US3275534"
-  ":hirameki.patent/title"
-  "Bioelectric method for the detection of anticholinester-ases"]
- [":db/add"
-  "hirameki-patent:US3275534"
-  ":hirameki.patent/jurisdiction"
-  ":us"]
- [":db/add"
-  "hirameki-patent:US3275534"
-  ":hirameki.patent/field"
-  "UNKNOWN"]
- [":db/add"
-  "hirameki-patent:US3275534"
-  ":hirameki.patent/assignee"
-  ":unassigned"]
- [":db/add"
-  "hirameki-patent:US3275534"
-  ":hirameki.patent/status"
-  ":granted"]
- [":db/add"
-  "hirameki-patent:US3275534"
-  ":hirameki.patent/open-license"
-  ":none"]
- [":db/add"
-  "hirameki-patent:US3275534"
-  ":hirameki.obs/release-status"
-  ":public-domain"]
- [":db/add"
-  "hirameki-patent:US3275534"
-  ":hirameki/sourcing"
-  ":authoritative"]
- [":db/add" "hirameki-patent:US3275534" ":hirameki/derived" true]
- [":db/add"
-  "hirameki-patent:US3275534"
-  ":hirameki.obs/years-to-expiry"
-  -43]
- [":db/add"
-  "hirameki-patent:US3275534"
-  ":hirameki/source"
-  "https://patents.google.com/patent/US3275534/en"]
- [":db/add"
-  "hirameki-patent:US3275834"
-  ":hirameki.patent/title"
-  "Apparatus for analyzing the size and number of particles in suspension"]
- [":db/add"
-  "hirameki-patent:US3275834"
-  ":hirameki.patent/jurisdiction"
-  ":us"]
- [":db/add"
-  "hirameki-patent:US3275834"
-  ":hirameki.patent/field"
-  "UNKNOWN"]
- [":db/add"
-  "hirameki-patent:US3275834"
-  ":hirameki.patent/assignee"
-  ":unassigned"]
- [":db/add"
-  "hirameki-patent:US3275834"
-  ":hirameki.patent/status"
-  ":granted"]
- [":db/add"
-  "hirameki-patent:US3275834"
-  ":hirameki.patent/open-license"
-  ":none"]
- [":db/add"
-  "hirameki-patent:US3275834"
-  ":hirameki.obs/release-status"
-  ":public-domain"]
- [":db/add"
-  "hirameki-patent:US3275834"
-  ":hirameki/sourcing"
-  ":authoritative"]
- [":db/add" "hirameki-patent:US3275834" ":hirameki/derived" true]
- [":db/add"
-  "hirameki-patent:US3275834"
-  ":hirameki.obs/years-to-expiry"
-  -43]
- [":db/add"
-  "hirameki-patent:US3275834"
-  ":hirameki/source"
-  "https://patents.google.com/patent/US3275834/en"]
- [":db/add"
-  "hirameki-patent:US3278392"
-  ":hirameki.patent/title"
-  "Water insoluble enzymes"]
- [":db/add"
-  "hirameki-patent:US3278392"
-  ":hirameki.patent/jurisdiction"
-  ":us"]
- [":db/add"
-  "hirameki-patent:US3278392"
-  ":hirameki.patent/field"
-  "UNKNOWN"]
- [":db/add"
-  "hirameki-patent:US3278392"
-  ":hirameki.patent/assignee"
-  ":yeda-research-and-development"]
- [":db/add"
-  "hirameki-patent:US3278392"
-  ":hirameki.patent/status"
-  ":granted"]
- [":db/add"
-  "hirameki-patent:US3278392"
-  ":hirameki.patent/open-license"
-  ":none"]
- [":db/add"
-  "hirameki-patent:US3278392"
-  ":hirameki.obs/release-status"
-  ":public-domain"]
- [":db/add"
-  "hirameki-patent:US3278392"
-  ":hirameki/sourcing"
-  ":authoritative"]
- [":db/add" "hirameki-patent:US3278392" ":hirameki/derived" true]
- [":db/add"
-  "hirameki-patent:US3278392"
-  ":hirameki.obs/years-to-expiry"
-  -43]
- [":db/add"
-  "hirameki-patent:US3278392"
-  ":hirameki/source"
-  "https://patents.google.com/patent/US3278392/en"]
- [":db/add"
-  "hirameki-patent:US3280104"
-  ":hirameki.patent/title"
-  "2&#39;, 3&#39;-dideoxyribonucleoside and 2&#39;, 3&#39;-dideoxyribonucleotide derivatives"]
- [":db/add"
-  "hirameki-patent:US3280104"
-  ":hirameki.patent/jurisdiction"
-  ":us"]
- [":db/add"
-  "hirameki-patent:US3280104"
-  ":hirameki.patent/field"
-  "UNKNOWN"]
- [":db/add"
-  "hirameki-patent:US3280104"
-  ":hirameki.patent/assignee"
-  ":roche-palo-alto"]
- [":db/add"
-  "hirameki-patent:US3280104"
-  ":hirameki.patent/status"
-  ":granted"]
- [":db/add"
-  "hirameki-patent:US3280104"
-  ":hirameki.patent/open-license"
-  ":none"]
- [":db/add"
-  "hirameki-patent:US3280104"
-  ":hirameki.obs/release-status"
-  ":public-domain"]
- [":db/add"
-  "hirameki-patent:US3280104"
-  ":hirameki/sourcing"
-  ":authoritative"]
- [":db/add" "hirameki-patent:US3280104" ":hirameki/derived" true]
- [":db/add"
-  "hirameki-patent:US3280104"
-  ":hirameki.obs/years-to-expiry"
-  -42]
- [":db/add"
-  "hirameki-patent:US3280104"
-  ":hirameki/source"
-  "https://patents.google.com/patent/US3280104/en"]]
+  "Process of preparing packaged cooked foods"]]

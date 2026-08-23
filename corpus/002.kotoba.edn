@@ -1,4 +1,217 @@
-[{:assignees [:barnes-engineering],
+[{:assignees [:organo-cerams],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3227589/en",
+  :title "Method of chemically milling a metallic workpiece",
+  :status :granted,
+  :id "US3227589",
+  :sourcing :authoritative,
+  :filing-year 1963,
+  :assignee :organo-cerams,
+  :grant-year 1966,
+  :cites
+  ["US2430987"
+   "US2610162"
+   "US2838463"
+   "US3014883"
+   "US3029223"
+   "US3079352"
+   "US3128202"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:trw],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3228799/en",
+  :title "Biological electrical power generation",
+  :status :granted,
+  :id "US3228799",
+  :sourcing :authoritative,
+  :filing-year 1960,
+  :assignee :trw,
+  :grant-year 1966,
+  :cites ["US2497852" "US329724"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:rca],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3229218/en",
+  :title "Field-effect transistor circuit",
+  :status :granted,
+  :id "US3229218",
+  :sourcing :authoritative,
+  :filing-year 1963,
+  :assignee :rca,
+  :grant-year 1966,
+  :cites ["US2021920" "US2879344" "US2939916" "US3056888" "US3117287"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:harris-intertype],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3230088/en",
+  :title
+  "Process for preparing printing plates from photosensitized polyvinyl alcohol compositions",
+  :status :granted,
+  :id "US3230088",
+  :sourcing :authoritative,
+  :filing-year 1961,
+  :assignee :harris-intertype,
+  :grant-year 1966,
+  :cites
+  ["US1751909"
+   "US2249514"
+   "US2393821"
+   "US2604388"
+   "US2827390"
+   "US2830899"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:wacker-chemie],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3230289/en",
+  :title "Silicone treatment for paper",
+  :status :granted,
+  :id "US3230289",
+  :sourcing :authoritative,
+  :filing-year 1962,
+  :assignee :wacker-chemie,
+  :grant-year 1966,
+  :cites ["US2588367" "US2768906" "US2869722" "US3061567"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:rca],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3231380/en",
+  :title "Art of making electron-optical reticles",
+  :status :granted,
+  :id "US3231380",
+  :sourcing :authoritative,
+  :filing-year 1960,
+  :assignee :rca,
+  :grant-year 1966,
+  :cites ["FR866065A" "GB634217A" "US2539442" "US2961313" "US3070441"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:combined-locks-paper],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3231418/en",
+  :title
+  "Coating a moving paper web with a coating roller having lower peripheral speed than web",
+  :status :granted,
+  :id "US3231418",
+  :sourcing :authoritative,
+  :filing-year 1964,
+  :assignee :combined-locks-paper,
+  :grant-year 1966,
+  :cites
+  ["US1838358"
+   "US1987183"
+   "US2009631"
+   "US2257373"
+   "US2316202"
+   "US2582407"
+   "US2712508"
+   "US2772604"
+   "US2946307"
+   "US3146159"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:boehringer-mannheim],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3232710/en",
+  :title "Indicator and method for manufacturing the same",
+  :status :granted,
+  :id "US3232710",
+  :sourcing :authoritative,
+  :filing-year 1963,
+  :assignee :boehringer-mannheim,
+  :grant-year 1966,
+  :cites
+  ["GB831894A"
+   "US2229155"
+   "US2379459"
+   "US2567445"
+   "US2823984"
+   "US2838377"
+   "US2981606"
+   "US2998306"
+   "US3001915"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:purac],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3233964/en",
+  :title "Means for sterilizing liquid",
+  :status :granted,
+  :id "US3233964",
+  :sourcing :authoritative,
+  :filing-year 1962,
+  :assignee :purac,
+  :grant-year 1966,
+  :cites ["GB356783A" "US2138839" "US2219348" "US2585103"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:ortho-pharmaceutical],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3234096/en",
+  :title "Compositions and method for performing pregnancy tests",
+  :status :granted,
+  :id "US3234096",
+  :sourcing :authoritative,
+  :filing-year 1961,
+  :assignee :ortho-pharmaceutical,
+  :grant-year 1966,
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:shell-oil],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3239478/en",
+  :title
+  "Block copolymer adhesive compositions and articles prepared therefrom",
+  :status :granted,
+  :id "US3239478",
+  :sourcing :authoritative,
+  :filing-year 1963,
+  :assignee :shell-oil,
+  :grant-year 1966,
+  :cites ["US2648650" "US2784165" "US2993874" "US3149182"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:azoplate],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3244517/en",
+  :title "Electrophotographic process",
+  :status :granted,
+  :id "US3244517",
+  :sourcing :authoritative,
+  :filing-year 1961,
+  :assignee :azoplate,
+  :grant-year 1966,
+  :cites
+  ["BE562336A"
+   "US1587269"
+   "US1587272"
+   "US1587273"
+   "US1587274"
+   "US1777140"
+   "US1939691"
+   "US2997387"
+   "US3041165"
+   "US3081165"
+   "US3163531"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:barnes-engineering],
   :jurisdiction :us,
   :field "UNKNOWN",
   :source "https://patents.google.com/patent/US3244885/en",
@@ -965,6 +1178,20 @@
   :assignee :honeywell,
   :grant-year 1967,
   :cites ["US2805191" "US3071530" "US3260656" "US3272725"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:merck-and],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3328388/en",
+  :title "Arabinofuranosyl pyrimidines and methods of preparing same",
+  :status :granted,
+  :id "US3328388",
+  :sourcing :authoritative,
+  :filing-year 1964,
+  :assignee :merck-and,
+  :grant-year 1967,
+  :cites ["US2885396" "US2949451" "US3040026" "US3135737"],
   :term-years 20,
   :open-license :none}
  {:assignees [:sankyo],
@@ -2436,6 +2663,20 @@
   :cites ["US2350239" "US2770572" "US2822476" "US3074853" "US3232710"],
   :term-years 20,
   :open-license :none}
+ {:assignees [:scientific-industries],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3502438/en",
+  :title "Automated tape chemical analyzer",
+  :status :granted,
+  :id "US3502438",
+  :sourcing :authoritative,
+  :filing-year 1967,
+  :assignee :scientific-industries,
+  :grant-year 1970,
+  :cites ["US3036893" "US3036894" "US3260413"],
+  :term-years 20,
+  :open-license :none}
  {:assignees [:eastman-kodak],
   :jurisdiction :us,
   :field "UNKNOWN",
@@ -2999,6 +3240,20 @@
   :grant-year 1971,
   :term-years 20,
   :open-license :none}
+ {:assignees [:scientific-industries],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3554700/en",
+  :title
+  "Method for obtaining a known volume of liquid and absorption apparatus therefor",
+  :status :granted,
+  :id "US3554700",
+  :sourcing :authoritative,
+  :filing-year 1968,
+  :assignee :scientific-industries,
+  :grant-year 1971,
+  :term-years 20,
+  :open-license :none}
  {:assignees [:pharmacia],
   :jurisdiction :us,
   :field "UNKNOWN",
@@ -3022,6 +3277,20 @@
   :sourcing :authoritative,
   :filing-year 1968,
   :assignee :westinghouse-electric,
+  :grant-year 1971,
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:roche-palo-alto],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3558595/en",
+  :title
+  "2&#39;-cyclic esters and 5&#39;-cyclic esters of 3&#39;-deoxy - 3&#39; - dihydroxyphosphinylmethyl - beta - d - ribofuranosylnucleoside derivatives and intermediates therefor",
+  :status :granted,
+  :id "US3558595",
+  :sourcing :authoritative,
+  :filing-year 1969,
+  :assignee :roche-palo-alto,
   :grant-year 1971,
   :term-years 20,
   :open-license :none}
@@ -3357,6 +3626,21 @@
   :assignee :scientific-industries,
   :grant-year 1971,
   :cites ["US3036893" "US3036894" "US3502438" "US3508879"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:scientific-industries],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3607090/en",
+  :title
+  "Analysis arrangment for multiple analyses of a single sample",
+  :status :granted,
+  :id "US3607090",
+  :sourcing :authoritative,
+  :filing-year 1969,
+  :assignee :scientific-industries,
+  :grant-year 1971,
+  :cites ["US3036894" "US3260413" "US3261668" "US3497320" "US3508879"],
   :term-years 20,
   :open-license :none}
  {:assignees [:ilford],
@@ -4689,6 +4973,19 @@
   :grant-year 1973,
   :term-years 20,
   :open-license :none}
+ {:assignees [:hycel],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3728080/en",
+  :title "Control apparatus for automatic chemical testing apparatus",
+  :status :granted,
+  :id "US3728080",
+  :sourcing :authoritative,
+  :filing-year 1971,
+  :assignee :hycel,
+  :grant-year 1973,
+  :term-years 20,
+  :open-license :none}
  {:assignees [:north-american-rockwell],
   :jurisdiction :us,
   :field "UNKNOWN",
@@ -4948,6 +5245,27 @@
   :assignee :united-states-department-of-the-army,
   :grant-year 1973,
   :cites ["US3415361" "US3502437" "US3666421"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:ei-du-pont-de-nemours-and],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3770382/en",
+  :title "Automatic clinical analyzer",
+  :status :granted,
+  :id "US3770382",
+  :sourcing :authoritative,
+  :filing-year 1971,
+  :assignee :ei-du-pont-de-nemours-and,
+  :grant-year 1973,
+  :cites
+  ["US3476515"
+   "US3497320"
+   "US3504376"
+   "US3532469"
+   "US3540858"
+   "US3556731"
+   "US3589867"],
   :term-years 20,
   :open-license :none}
  {:assignees [:akzona],
@@ -8896,326 +9214,5 @@
   :assignee :formica,
   :grant-year 1977,
   :cites ["US2491530" "US2494848" "US3900650" "US3900651"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:perkin-elmer],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US4066365/en",
-  :title "Temperature control apparatus",
-  :status :granted,
-  :id "US4066365",
-  :sourcing :authoritative,
-  :filing-year 1976,
-  :assignee :perkin-elmer,
-  :grant-year 1978,
-  :cites ["GB884570A"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:millipore],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US4066512/en",
-  :title "Biologically active membrane material",
-  :status :granted,
-  :id "US4066512",
-  :sourcing :authoritative,
-  :filing-year 1976,
-  :assignee :millipore,
-  :grant-year 1978,
-  :cites
-  ["US2930736"
-   "US3322632"
-   "US3705084"
-   "US3758396"
-   "US3809613"
-   "US3843446"
-   "US3865548"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:toyo-soda-manufacturing],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US4066827/en",
-  :title
-  "Process for producing a polyion complex having a nucleic acid base",
-  :status :granted,
-  :id "US4066827",
-  :sourcing :authoritative,
-  :filing-year 1976,
-  :assignee :toyo-soda-manufacturing,
-  :grant-year 1978,
-  :cites ["US3929750" "US3963662"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:international-diagnostic-technologies],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US4067959/en",
-  :title "Indirect solid surface test for antigens or antibodies",
-  :status :granted,
-  :id "US4067959",
-  :sourcing :authoritative,
-  :filing-year 1976,
-  :assignee :international-diagnostic-technologies,
-  :grant-year 1978,
-  :cites ["US3720760" "US3896217" "US3940475"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:baxter-travenol-laboratories],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US4069352/en",
-  :title
-  "Immunoadsorbent polymeric material and method of making same",
-  :status :granted,
-  :id "US4069352",
-  :sourcing :authoritative,
-  :filing-year 1976,
-  :assignee :baxter-travenol-laboratories,
-  :grant-year 1978,
-  :cites
-  ["GB1257263A"
-   "US3646346"
-   "US3826619"
-   "US3980764"
-   "US3995019"
-   "US4012494"],
-  :term-years 20,
-  :open-license :none}
- {:jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US4071315/en",
-  :title "Analytical tape medium",
-  :status :granted,
-  :id "US4071315",
-  :sourcing :authoritative,
-  :filing-year 1976,
-  :assignee :unassigned,
-  :grant-year 1978,
-  :cites
-  ["US3261668"
-   "US3497320"
-   "US3508879"
-   "US3607079"
-   "US3620678"
-   "US3676080"
-   "US3918910"
-   "US3932133"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:institute-for-cancer-research],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US4072574/en",
-  :title
-  "System for in vitro assay for mutagenicity and/or carcinogenicity of chemicals or other exogenous agents",
-  :status :granted,
-  :id "US4072574",
-  :sourcing :authoritative,
-  :filing-year 1976,
-  :assignee :institute-for-cancer-research,
-  :grant-year 1978,
-  :cites ["US3816263" "US3850749"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:kabi],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US4072576/en",
-  :title
-  "Method for studying enzymatic and other biochemical reactions",
-  :status :granted,
-  :id "US4072576",
-  :sourcing :authoritative,
-  :filing-year 1976,
-  :assignee :kabi,
-  :grant-year 1978,
-  :cites ["US3275534" "US3479255" "US3635681" "US3884896"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:yellow-springs-instrument],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US4073713/en",
-  :title "Membrane for enzyme electrodes",
-  :status :granted,
-  :id "US4073713",
-  :sourcing :authoritative,
-  :filing-year 1976,
-  :assignee :yellow-springs-instrument,
-  :grant-year 1978,
-  :cites
-  ["US3539455"
-   "US3542662"
-   "US3838033"
-   "US3869354"
-   "US3948745"
-   "US3979274"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:honeywell],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US4078172/en",
-  :title "Continuous automatic focus system",
-  :status :granted,
-  :id "US4078172",
-  :sourcing :authoritative,
-  :filing-year 1976,
-  :assignee :honeywell,
-  :grant-year 1978,
-  :cites ["US3781110" "US3958117" "US4031383"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:chemed],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US4082459/en",
-  :title "Analytical cell assembly for an analyzer",
-  :status :granted,
-  :id "US4082459",
-  :sourcing :authoritative,
-  :filing-year 1976,
-  :assignee :chemed,
-  :grant-year 1978,
-  :cites ["US2999417" "US3711708" "US3861809" "US3906226"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:asahi-kogaku-kogyo],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US4083056/en",
-  :title "Focus detecting device for single-lens reflex cameras",
-  :status :granted,
-  :id "US4083056",
-  :sourcing :authoritative,
-  :filing-year 1976,
-  :assignee :asahi-kogaku-kogyo,
-  :grant-year 1978,
-  :cites
-  ["US3274914"
-   "US3733989"
-   "US3762294"
-   "US3827064"
-   "US3860935"
-   "US3938894"
-   "US4047187"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:coulter-electronics],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US4090128/en",
-  :title "Aperture module for use in particle testing apparatus",
-  :status :granted,
-  :id "US4090128",
-  :sourcing :authoritative,
-  :filing-year 1977,
-  :assignee :coulter-electronics,
-  :grant-year 1978,
-  :cites ["US3622795" "US3746976" "US3902115" "US4014611"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:olympus-optical],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US4090921/en",
-  :title "Automatic cultivating apparatus",
-  :status :granted,
-  :id "US4090921",
-  :sourcing :authoritative,
-  :filing-year 1976,
-  :assignee :olympus-optical,
-  :grant-year 1978,
-  :cites
-  ["US2975553"
-   "US3172235"
-   "US3437447"
-   "US3728227"
-   "US3772154"
-   "US3844896"
-   "US3847749"
-   "US3887436"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:fisher-scientific],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US4092114/en",
-  :title "Indirect latex test for determination of immunoglobulins",
-  :status :granted,
-  :id "US4092114",
-  :sourcing :authoritative,
-  :filing-year 1976,
-  :assignee :fisher-scientific,
-  :grant-year 1978,
-  :cites ["US3565987" "US3857931" "US4003988"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:yeda-research-and-development],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US4093607/en",
-  :title
-  "Immunologic chemotherapeutic agents comprising antigen binding dimers covalently bound to drugs",
-  :status :granted,
-  :id "US4093607",
-  :sourcing :authoritative,
-  :filing-year 1976,
-  :assignee :yeda-research-and-development,
-  :grant-year 1978,
-  :cites ["US3850798" "US3928580" "US3966898" "US3995018"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:baxter-travenol-laboratories],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US4099920/en",
-  :title
-  "Temperature control and stirring apparatus for luminescence measuring photometer",
-  :status :granted,
-  :id "US4099920",
-  :sourcing :authoritative,
-  :filing-year 1977,
-  :assignee :baxter-travenol-laboratories,
-  :grant-year 1978,
-  :cites ["US2878106" "US3764214" "US3790346" "US3917404"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:dios],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US4103064/en",
-  :title
-  "Microdevice substrate and method for making micropattern devices",
-  :status :granted,
-  :id "US4103064",
-  :sourcing :authoritative,
-  :filing-year 1976,
-  :assignee :dios,
-  :grant-year 1978,
-  :cites
-  ["US2051603"
-   "US3535137"
-   "US3635853"
-   "US3746564"
-   "US3779806"
-   "US3883352"
-   "US3914462"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:dios],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US4103073/en",
-  :title "Microsubstrates and method for making micropattern devices",
-  :status :granted,
-  :id "US4103073",
-  :sourcing :authoritative,
-  :filing-year 1976,
-  :assignee :dios,
-  :grant-year 1978,
-  :cites ["US3575733" "US3885060" "US3914462"],
   :term-years 20,
   :open-license :none}]

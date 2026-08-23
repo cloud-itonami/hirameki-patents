@@ -1299,6 +1299,19 @@
   :cites ["US2332897"],
   :term-years 20,
   :open-license :none}
+ {:assignees [:frances-r-ruskin],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2482069/en",
+  :title "Preparation of adenylic and thio-adenylic acid",
+  :status :granted,
+  :id "US2482069",
+  :sourcing :authoritative,
+  :filing-year 1944,
+  :assignee :frances-r-ruskin,
+  :grant-year 1949,
+  :term-years 20,
+  :open-license :none}
  {:assignees [:monsanto-chemicals],
   :jurisdiction :us,
   :field "UNKNOWN",
@@ -3804,6 +3817,20 @@
   :open-license :none}
  {:jurisdiction :us,
   :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2719843/en",
+  :title
+  "Method of synthesizing nucleosides and analogous compounds and compounds prepared thereby",
+  :status :granted,
+  :id "US2719843",
+  :sourcing :authoritative,
+  :filing-year 1951,
+  :assignee :unassigned,
+  :grant-year 1955,
+  :cites ["DE281008C" "US2482069" "US2522854"],
+  :term-years 20,
+  :open-license :none}
+ {:jurisdiction :us,
+  :field "UNKNOWN",
   :source "https://patents.google.com/patent/US2722658/en",
   :title
   "Instrument for measuring electrical conductivity of test solutions",
@@ -5211,6 +5238,20 @@
   :cites ["DE592923C" "US2290436" "US2387244" "US2418392" "US2567445"],
   :term-years 20,
   :open-license :none}
+ {:assignees [:american-cyanamid],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2844576/en",
+  :title "Preparation of purines",
+  :status :granted,
+  :id "US2844576",
+  :sourcing :authoritative,
+  :filing-year 1955,
+  :assignee :american-cyanamid,
+  :grant-year 1958,
+  :cites ["GB713259A" "US2691654" "US2697709"],
+  :term-years 20,
+  :open-license :none}
  {:assignees [:wr-grace-and],
   :jurisdiction :us,
   :field "UNKNOWN",
@@ -5909,6 +5950,19 @@
   :assignee :american-cyanamid,
   :grant-year 1959,
   :cites ["US2469408" "US2653140"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:rohm-and-haas],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2906756/en",
+  :title "New organic silicon compounds and methods of making them",
+  :status :granted,
+  :id "US2906756",
+  :sourcing :authoritative,
+  :filing-year 1956,
+  :assignee :rohm-and-haas,
+  :grant-year 1959,
   :term-years 20,
   :open-license :none}
  {:assignees [:ei-du-pont-de-nemours-and],
@@ -8336,6 +8390,19 @@
    "US2925332"],
   :term-years 20,
   :open-license :none}
+ {:assignees [:american-cyanamid],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3082203/en",
+  :title "Novel nucleotide coenzymes",
+  :status :granted,
+  :id "US3082203",
+  :sourcing :authoritative,
+  :filing-year 1960,
+  :assignee :american-cyanamid,
+  :grant-year 1963,
+  :term-years 20,
+  :open-license :none}
  {:assignees [:burke],
   :jurisdiction :us,
   :field "UNKNOWN",
@@ -8491,6 +8558,32 @@
   :filing-year 1959,
   :assignee :indiana-university-foundation,
   :grant-year 1963,
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:technicon-instruments],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3098719/en",
+  :title "Fluid processing system with continuous filter apparatus",
+  :status :granted,
+  :id "US3098719",
+  :sourcing :authoritative,
+  :filing-year 1960,
+  :assignee :technicon-instruments,
+  :grant-year 1963,
+  :cites
+  ["US2201628"
+   "US2377252"
+   "US2457958"
+   "US2568420"
+   "US2665812"
+   "US2731108"
+   "US2734377"
+   "US2797149"
+   "US2895614"
+   "US2935200"
+   "US2963161"
+   "US3046869"],
   :term-years 20,
   :open-license :none}
  {:assignees [:beckman-instruments],
@@ -8661,6 +8754,20 @@
   :assignee :harvey-wells,
   :grant-year 1963,
   :cites ["US2491684" "US2779817" "US2798115" "US2807750" "US2838602"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:upjohn],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3116282/en",
+  :title "Pyrimidine nucleosides and process",
+  :status :granted,
+  :id "US3116282",
+  :sourcing :authoritative,
+  :filing-year 1960,
+  :assignee :upjohn,
+  :grant-year 1963,
+  :cites ["US2815342" "US3002965"],
   :term-years 20,
   :open-license :none}
  {:assignees [:general-tire-and-rubber],
@@ -9193,6 +9300,20 @@
   :grant-year 1965,
   :term-years 20,
   :open-license :none}
+ {:assignees [:upjohn],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3167540/en",
+  :title "Derivatives of 7-d-ribofuranosyl-pyrrolopyrimidines",
+  :status :granted,
+  :id "US3167540",
+  :sourcing :authoritative,
+  :filing-year 1963,
+  :assignee :upjohn,
+  :grant-year 1965,
+  :cites ["US3049536"],
+  :term-years 20,
+  :open-license :none}
  {:assignees [:monsanto],
   :jurisdiction :us,
   :field "UNKNOWN",
@@ -9220,6 +9341,20 @@
    "US2802856"
    "US2841520"
    "US2979522"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:schwarz-biores],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3170917/en",
+  :title "Deamination of heterocyclic amino containing compounds",
+  :status :granted,
+  :id "US3170917",
+  :sourcing :authoritative,
+  :filing-year 1962,
+  :assignee :schwarz-biores,
+  :grant-year 1965,
+  :cites ["US3049536"],
   :term-years 20,
   :open-license :none}
  {:assignees [:spofa-vereinigte-pharma-werke],
@@ -9371,6 +9506,20 @@
   :cites ["US2710853" "US2867609"],
   :term-years 20,
   :open-license :none}
+ {:assignees [:upjohn],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3180859/en",
+  :title "Derivatives of decoyinine and process for preparing same",
+  :status :granted,
+  :id "US3180859",
+  :sourcing :authoritative,
+  :filing-year 1962,
+  :assignee :upjohn,
+  :grant-year 1965,
+  :cites ["US2876230" "US3049536" "US3074930"],
+  :term-years 20,
+  :open-license :none}
  {:assignees [:fairchild-camera-and-instrument],
   :jurisdiction :us,
   :field "UNKNOWN",
@@ -9448,6 +9597,34 @@
   :assignee :unassigned,
   :grant-year 1965,
   :cites ["US1535927" "US1714197" "US1986196"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:warner-lambert-pharmaceutical],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3193358/en",
+  :title "Automated analytical apparatus",
+  :status :granted,
+  :id "US3193358",
+  :sourcing :authoritative,
+  :filing-year 1962,
+  :assignee :warner-lambert-pharmaceutical,
+  :grant-year 1965,
+  :cites ["US2879141" "US3081158" "US3098719"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:warner-lambert-pharmaceutical],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3193359/en",
+  :title "Apparatus for conducting analytical procedural steps",
+  :status :granted,
+  :id "US3193359",
+  :sourcing :authoritative,
+  :filing-year 1962,
+  :assignee :warner-lambert-pharmaceutical,
+  :grant-year 1965,
+  :cites ["US2624656" "US3081158" "US3098719"],
   :term-years 20,
   :open-license :none}
  {:assignees [:general-precision],
@@ -9529,6 +9706,20 @@
   :assignee :th-goldschmidt,
   :grant-year 1965,
   :cites ["US2964426"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:ajinomoto],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3201388/en",
+  :title "Method of preparing 5&#39;-ribonucleotides",
+  :status :granted,
+  :id "US3201388",
+  :sourcing :authoritative,
+  :filing-year 1963,
+  :assignee :ajinomoto,
+  :grant-year 1965,
+  :cites ["GB621094A" "US2482069" "US2795580" "US2946781" "US2970139"],
   :term-years 20,
   :open-license :none}
  {:assignees [:rca],
@@ -9743,218 +9934,5 @@
   :assignee :canadian-industries,
   :grant-year 1965,
   :cites ["GB867480A" "US2604464" "US2927095" "US3035008" "US3118853"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:organo-cerams],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3227589/en",
-  :title "Method of chemically milling a metallic workpiece",
-  :status :granted,
-  :id "US3227589",
-  :sourcing :authoritative,
-  :filing-year 1963,
-  :assignee :organo-cerams,
-  :grant-year 1966,
-  :cites
-  ["US2430987"
-   "US2610162"
-   "US2838463"
-   "US3014883"
-   "US3029223"
-   "US3079352"
-   "US3128202"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:trw],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3228799/en",
-  :title "Biological electrical power generation",
-  :status :granted,
-  :id "US3228799",
-  :sourcing :authoritative,
-  :filing-year 1960,
-  :assignee :trw,
-  :grant-year 1966,
-  :cites ["US2497852" "US329724"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:rca],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3229218/en",
-  :title "Field-effect transistor circuit",
-  :status :granted,
-  :id "US3229218",
-  :sourcing :authoritative,
-  :filing-year 1963,
-  :assignee :rca,
-  :grant-year 1966,
-  :cites ["US2021920" "US2879344" "US2939916" "US3056888" "US3117287"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:harris-intertype],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3230088/en",
-  :title
-  "Process for preparing printing plates from photosensitized polyvinyl alcohol compositions",
-  :status :granted,
-  :id "US3230088",
-  :sourcing :authoritative,
-  :filing-year 1961,
-  :assignee :harris-intertype,
-  :grant-year 1966,
-  :cites
-  ["US1751909"
-   "US2249514"
-   "US2393821"
-   "US2604388"
-   "US2827390"
-   "US2830899"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:wacker-chemie],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3230289/en",
-  :title "Silicone treatment for paper",
-  :status :granted,
-  :id "US3230289",
-  :sourcing :authoritative,
-  :filing-year 1962,
-  :assignee :wacker-chemie,
-  :grant-year 1966,
-  :cites ["US2588367" "US2768906" "US2869722" "US3061567"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:rca],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3231380/en",
-  :title "Art of making electron-optical reticles",
-  :status :granted,
-  :id "US3231380",
-  :sourcing :authoritative,
-  :filing-year 1960,
-  :assignee :rca,
-  :grant-year 1966,
-  :cites ["FR866065A" "GB634217A" "US2539442" "US2961313" "US3070441"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:combined-locks-paper],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3231418/en",
-  :title
-  "Coating a moving paper web with a coating roller having lower peripheral speed than web",
-  :status :granted,
-  :id "US3231418",
-  :sourcing :authoritative,
-  :filing-year 1964,
-  :assignee :combined-locks-paper,
-  :grant-year 1966,
-  :cites
-  ["US1838358"
-   "US1987183"
-   "US2009631"
-   "US2257373"
-   "US2316202"
-   "US2582407"
-   "US2712508"
-   "US2772604"
-   "US2946307"
-   "US3146159"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:boehringer-mannheim],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3232710/en",
-  :title "Indicator and method for manufacturing the same",
-  :status :granted,
-  :id "US3232710",
-  :sourcing :authoritative,
-  :filing-year 1963,
-  :assignee :boehringer-mannheim,
-  :grant-year 1966,
-  :cites
-  ["GB831894A"
-   "US2229155"
-   "US2379459"
-   "US2567445"
-   "US2823984"
-   "US2838377"
-   "US2981606"
-   "US2998306"
-   "US3001915"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:purac],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3233964/en",
-  :title "Means for sterilizing liquid",
-  :status :granted,
-  :id "US3233964",
-  :sourcing :authoritative,
-  :filing-year 1962,
-  :assignee :purac,
-  :grant-year 1966,
-  :cites ["GB356783A" "US2138839" "US2219348" "US2585103"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:ortho-pharmaceutical],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3234096/en",
-  :title "Compositions and method for performing pregnancy tests",
-  :status :granted,
-  :id "US3234096",
-  :sourcing :authoritative,
-  :filing-year 1961,
-  :assignee :ortho-pharmaceutical,
-  :grant-year 1966,
-  :term-years 20,
-  :open-license :none}
- {:assignees [:shell-oil],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3239478/en",
-  :title
-  "Block copolymer adhesive compositions and articles prepared therefrom",
-  :status :granted,
-  :id "US3239478",
-  :sourcing :authoritative,
-  :filing-year 1963,
-  :assignee :shell-oil,
-  :grant-year 1966,
-  :cites ["US2648650" "US2784165" "US2993874" "US3149182"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:azoplate],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3244517/en",
-  :title "Electrophotographic process",
-  :status :granted,
-  :id "US3244517",
-  :sourcing :authoritative,
-  :filing-year 1961,
-  :assignee :azoplate,
-  :grant-year 1966,
-  :cites
-  ["BE562336A"
-   "US1587269"
-   "US1587272"
-   "US1587273"
-   "US1587274"
-   "US1777140"
-   "US1939691"
-   "US2997387"
-   "US3041165"
-   "US3081165"
-   "US3163531"],
   :term-years 20,
   :open-license :none}]
