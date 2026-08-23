@@ -1,4 +1,147 @@
-[{:assignees [:potdevin-machine],
+[{:assignees [:johns-manville],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2321938/en",
+  :title "Coating process",
+  :status :granted,
+  :id "US2321938",
+  :sourcing :authoritative,
+  :filing-year 1940,
+  :assignee :johns-manville,
+  :grant-year 1943,
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:eastman-kodak],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2322048/en",
+  :title "Nontacky adhesive coated sheeting",
+  :status :granted,
+  :id "US2322048",
+  :sourcing :authoritative,
+  :filing-year 1938,
+  :assignee :eastman-kodak,
+  :grant-year 1943,
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:bb-chemical],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2323562/en",
+  :title "Shoe tread member",
+  :status :granted,
+  :id "US2323562",
+  :sourcing :authoritative,
+  :filing-year 1942,
+  :assignee :bb-chemical,
+  :grant-year 1943,
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:firestone-tire-and-rubber],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2324977/en",
+  :title "Latex depositing apparatus",
+  :status :granted,
+  :id "US2324977",
+  :sourcing :authoritative,
+  :filing-year 1939,
+  :assignee :firestone-tire-and-rubber,
+  :grant-year 1943,
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:warren-sd],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2325798/en",
+  :title "Coating flexible webs",
+  :status :granted,
+  :id "US2325798",
+  :sourcing :authoritative,
+  :filing-year 1940,
+  :assignee :warren-sd,
+  :grant-year 1943,
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:american-cyanamid],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2328461/en",
+  :title "Continuous recorder for color changes",
+  :status :granted,
+  :id "US2328461",
+  :sourcing :authoritative,
+  :filing-year 1941,
+  :assignee :american-cyanamid,
+  :grant-year 1943,
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:ralph-h-fash],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2329824/en",
+  :title "Method of determining suitable areas for oil exploration",
+  :status :granted,
+  :id "US2329824",
+  :sourcing :authoritative,
+  :filing-year 1940,
+  :assignee :ralph-h-fash,
+  :grant-year 1943,
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:firm-ciba-products],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2331446/en",
+  :title "Aldehyde condensation product and process of making same",
+  :status :granted,
+  :id "US2331446",
+  :sourcing :authoritative,
+  :filing-year 1940,
+  :assignee :firm-ciba-products,
+  :grant-year 1943,
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:eastman-kodak],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2333791/en",
+  :title "Liquid flowmeter",
+  :status :granted,
+  :id "US2333791",
+  :sourcing :authoritative,
+  :filing-year 1942,
+  :assignee :eastman-kodak,
+  :grant-year 1943,
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:dow-chemical],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2334102/en",
+  :title "Coating equipment",
+  :status :granted,
+  :id "US2334102",
+  :sourcing :authoritative,
+  :filing-year 1940,
+  :assignee :dow-chemical,
+  :grant-year 1943,
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:texaco],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2334270/en",
+  :title "Plywood binder",
+  :status :granted,
+  :id "US2334270",
+  :sourcing :authoritative,
+  :filing-year 1941,
+  :assignee :texaco,
+  :grant-year 1943,
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:potdevin-machine],
   :jurisdiction :us,
   :field "UNKNOWN",
   :source "https://patents.google.com/patent/US2334485/en",
@@ -2047,6 +2190,29 @@
    "US2411188"],
   :term-years 20,
   :open-license :none}
+ {:assignees [:welex-jet-services],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2543814/en",
+  :title "Means and method of tilting explosive charges in wells",
+  :status :granted,
+  :id "US2543814",
+  :sourcing :authoritative,
+  :filing-year 1946,
+  :assignee :welex-jet-services,
+  :grant-year 1951,
+  :cites
+  ["US2016919"
+   "US2033562"
+   "US2067408"
+   "US2228623"
+   "US2229493"
+   "US2371270"
+   "US2390676"
+   "US2399211"
+   "US2426517"],
+  :term-years 20,
+  :open-license :none}
  {:assignees [:archer-daniels-midland],
   :jurisdiction :us,
   :field "UNKNOWN",
@@ -2925,6 +3091,32 @@
    "US2540821"],
   :term-years 20,
   :open-license :none}
+ {:assignees [:carroll-v-radke :getty-manufacturing-&-tool],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2636563/en",
+  :title "Oil well finishing tool",
+  :status :granted,
+  :id "US2636563",
+  :sourcing :authoritative,
+  :filing-year 1948,
+  :assignee :carroll-v-radke,
+  :grant-year 1953,
+  :cites
+  ["US1920103"
+   "US2132081"
+   "US2133272"
+   "US2144850"
+   "US2152794"
+   "US2192236"
+   "US2241439"
+   "US2246811"
+   "US2374169"
+   "US2401119"
+   "US2431751"
+   "US2508286"],
+  :term-years 20,
+  :open-license :none}
  {:assignees [:emhart-manufacturing],
   :jurisdiction :us,
   :field "UNKNOWN",
@@ -2999,6 +3191,28 @@
    "US2415512"],
   :term-years 20,
   :open-license :none}
+ {:assignees [:standard-oil],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2645291/en",
+  :title "Hydraulically fracturing well formation",
+  :status :granted,
+  :id "US2645291",
+  :sourcing :authoritative,
+  :filing-year 1948,
+  :assignee :standard-oil,
+  :grant-year 1953,
+  :cites
+  ["GB471637A"
+   "US1382337"
+   "US1513371"
+   "US2010800"
+   "US2055666"
+   "US2354570"
+   "US2379516"
+   "US2596845"],
+  :term-years 20,
+  :open-license :none}
  {:assignees [:monsanto-chemicals],
   :jurisdiction :us,
   :field "UNKNOWN",
@@ -3052,6 +3266,19 @@
    "US2429314"
    "US2506153"
    "US2589302"],
+  :term-years 20,
+  :open-license :none}
+ {:jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2649916/en",
+  :title "Well packer",
+  :status :granted,
+  :id "US2649916",
+  :sourcing :authoritative,
+  :filing-year 1951,
+  :assignee :unassigned,
+  :grant-year 1953,
+  :cites ["US2189703" "US2403987" "US2433942" "US2531258"],
   :term-years 20,
   :open-license :none}
  {:assignees [:sperry],
@@ -3339,6 +3566,41 @@
    "US2245169"
    "US2343740"
    "US2442422"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:otis-engineering],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2673614/en",
+  :title "Anchoring assembly for oil tools",
+  :status :granted,
+  :id "US2673614",
+  :sourcing :authoritative,
+  :filing-year 1949,
+  :assignee :otis-engineering,
+  :grant-year 1954,
+  :cites
+  ["US1856469"
+   "US2144850"
+   "US2177172"
+   "US2191750"
+   "US2338370"
+   "US2342930"
+   "US2392244"
+   "US2571478"],
+  :term-years 20,
+  :open-license :none}
+ {:jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2674315/en",
+  :title "Differential pressure well packer",
+  :status :granted,
+  :id "US2674315",
+  :sourcing :authoritative,
+  :filing-year 1949,
+  :assignee :unassigned,
+  :grant-year 1954,
+  :cites ["US2305062" "US2343076" "US2496546"],
   :term-years 20,
   :open-license :none}
  {:assignees [:sherwin-williams],
@@ -4258,6 +4520,32 @@
   :cites ["US2541167" "US2633434"],
   :term-years 20,
   :open-license :none}
+ {:assignees [:exxon-research-and-engineering],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2749989/en",
+  :title "Method and means of completing a well",
+  :status :granted,
+  :id "US2749989",
+  :sourcing :authoritative,
+  :filing-year 1951,
+  :assignee :exxon-research-and-engineering,
+  :grant-year 1956,
+  :cites
+  ["US1400765"
+   "US2016919"
+   "US2064336"
+   "US2087297"
+   "US2156207"
+   "US2316402"
+   "US2347746"
+   "US2376878"
+   "US2381875"
+   "US2416842"
+   "US2436525"
+   "US2543814"],
+  :term-years 20,
+  :open-license :none}
  {:assignees [:mergenthaler-linotype],
   :jurisdiction :us,
   :field "UNKNOWN",
@@ -4416,6 +4704,21 @@
    "US2543181"
    "US2626858"
    "US2698537"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:exxon-research-and-engineering],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2760578/en",
+  :title
+  "Method for completion in a plurality of hydrocarbon productive strata",
+  :status :granted,
+  :id "US2760578",
+  :sourcing :authoritative,
+  :filing-year 1955,
+  :assignee :exxon-research-and-engineering,
+  :grant-year 1956,
+  :cites ["US2403987" "US2537066" "US2607425"],
   :term-years 20,
   :open-license :none}
  {:assignees [:ei-du-pont-de-nemours-and],
@@ -9649,288 +9952,5 @@
   :assignee :rca,
   :grant-year 1965,
   :cites ["GB745698A" "US2916359" "US2993762" "US3078150"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:ei-du-pont-de-nemours-and],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3178310/en",
-  :title "Aqueous polyurethane coating emulsions",
-  :status :granted,
-  :id "US3178310",
-  :sourcing :authoritative,
-  :filing-year 1962,
-  :assignee :ei-du-pont-de-nemours-and,
-  :grant-year 1965,
-  :cites ["CA583572A" "US2929800" "US2968575"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:ei-du-pont-de-nemours-and],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3179634/en",
-  :title "Aromatic polyimides and the process for preparing them",
-  :status :granted,
-  :id "US3179634",
-  :sourcing :authoritative,
-  :filing-year 1962,
-  :assignee :ei-du-pont-de-nemours-and,
-  :grant-year 1965,
-  :cites
-  ["US2071250"
-   "US2710853"
-   "US2712543"
-   "US2731447"
-   "US2880230"
-   "US2900369"
-   "US3037966"
-   "US3073784"
-   "US3073785"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:westinghouse-electric],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3179635/en",
-  :title
-  "Linear polymeric amide-modified polyimides and process of making same",
-  :status :granted,
-  :id "US3179635",
-  :sourcing :authoritative,
-  :filing-year 1963,
-  :assignee :westinghouse-electric,
-  :grant-year 1965,
-  :cites ["US2710853" "US2867609"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:upjohn],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3180859/en",
-  :title "Derivatives of decoyinine and process for preparing same",
-  :status :granted,
-  :id "US3180859",
-  :sourcing :authoritative,
-  :filing-year 1962,
-  :assignee :upjohn,
-  :grant-year 1965,
-  :cites ["US2876230" "US3049536" "US3074930"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:fairchild-camera-and-instrument],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3183128/en",
-  :title "Method of making field-effect transistors",
-  :status :granted,
-  :id "US3183128",
-  :sourcing :authoritative,
-  :filing-year 1962,
-  :assignee :fairchild-camera-and-instrument,
-  :grant-year 1965,
-  :cites
-  ["US2754431"
-   "US2804405"
-   "US2815303"
-   "US2861018"
-   "US2953486"
-   "US2967985"
-   "US2980560"
-   "US2997634"
-   "US3079287"
-   "US3085033"
-   "US3108915"],
-  :term-years 20,
-  :open-license :none}
- {:jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US318910/en",
-  :title "Roofing-felt and its manufacture",
-  :status :granted,
-  :id "US318910",
-  :sourcing :authoritative,
-  :assignee :unassigned,
-  :grant-year 1885,
-  :term-years 20,
-  :open-license :none}
- {:assignees [:rca],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3191061/en",
-  :title
-  "Insulated gate field effect devices and electrical circuits employing such devices",
-  :status :granted,
-  :id "US3191061",
-  :sourcing :authoritative,
-  :filing-year 1962,
-  :assignee :rca,
-  :grant-year 1965,
-  :cites ["US3040266" "US3115581" "US3134912"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:usines-decoufle],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3192931/en",
-  :title "Tobacco-manipulating machines",
-  :status :granted,
-  :id "US3192931",
-  :sourcing :authoritative,
-  :filing-year 1961,
-  :assignee :usines-decoufle,
-  :grant-year 1965,
-  :cites ["US1721117" "US1968018" "US2660177"],
-  :term-years 20,
-  :open-license :none}
- {:jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3193357/en",
-  :title
-  "Miniaturized reaction vessel with reaction injection means, and method of mixing small quantities of liquids",
-  :status :granted,
-  :id "US3193357",
-  :sourcing :authoritative,
-  :filing-year 1963,
-  :assignee :unassigned,
-  :grant-year 1965,
-  :cites ["US1535927" "US1714197" "US1986196"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:warner-lambert-pharmaceutical],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3193358/en",
-  :title "Automated analytical apparatus",
-  :status :granted,
-  :id "US3193358",
-  :sourcing :authoritative,
-  :filing-year 1962,
-  :assignee :warner-lambert-pharmaceutical,
-  :grant-year 1965,
-  :cites ["US2879141" "US3081158" "US3098719"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:warner-lambert-pharmaceutical],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3193359/en",
-  :title "Apparatus for conducting analytical procedural steps",
-  :status :granted,
-  :id "US3193359",
-  :sourcing :authoritative,
-  :filing-year 1962,
-  :assignee :warner-lambert-pharmaceutical,
-  :grant-year 1965,
-  :cites ["US2624656" "US3081158" "US3098719"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:general-precision],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3194053/en",
-  :title "Identification of chemical substances",
-  :status :granted,
-  :id "US3194053",
-  :sourcing :authoritative,
-  :filing-year 1962,
-  :assignee :general-precision,
-  :grant-year 1965,
-  :cites ["US2965842"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:zellsloff-fabrik-waldhof],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3196038/en",
-  :title
-  "Process and apparatus for the production of coated paper and the like",
-  :status :granted,
-  :id "US3196038",
-  :sourcing :authoritative,
-  :filing-year 1960,
-  :assignee :zellsloff-fabrik-waldhof,
-  :grant-year 1965,
-  :cites
-  ["US1985698"
-   "US2081320"
-   "US2130241"
-   "US2325798"
-   "US2513394"
-   "US2776236"
-   "US2874407"
-   "US3020224"
-   "US343387"
-   "US981383"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:johns-manville],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3197331/en",
-  :title "Resinous coating composition and methods of applying same",
-  :status :granted,
-  :id "US3197331",
-  :sourcing :authoritative,
-  :filing-year 1962,
-  :assignee :johns-manville,
-  :grant-year 1965,
-  :cites ["US2568658" "US2595852" "US2792871" "US2990388" "US3002869"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:american-cyanamid],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3198767/en",
-  :title "Conjugated organic polymers",
-  :status :granted,
-  :id "US3198767",
-  :sourcing :authoritative,
-  :filing-year 1961,
-  :assignee :american-cyanamid,
-  :grant-year 1965,
-  :cites ["GB774794A" "US2089302" "US2509183" "US2845400" "US2895944"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:th-goldschmidt],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3200008/en",
-  :title "Resin impregnated papers",
-  :status :granted,
-  :id "US3200008",
-  :sourcing :authoritative,
-  :filing-year 1962,
-  :assignee :th-goldschmidt,
-  :grant-year 1965,
-  :cites ["US2964426"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:ajinomoto],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3201388/en",
-  :title "Method of preparing 5&#39;-ribonucleotides",
-  :status :granted,
-  :id "US3201388",
-  :sourcing :authoritative,
-  :filing-year 1963,
-  :assignee :ajinomoto,
-  :grant-year 1965,
-  :cites ["GB621094A" "US2482069" "US2795580" "US2946781" "US2970139"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:rca],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3202840/en",
-  :title
-  "Frequency doubler employing two push-pull pulsed internal field effect devices",
-  :status :granted,
-  :id "US3202840",
-  :sourcing :authoritative,
-  :filing-year 1963,
-  :assignee :rca,
-  :grant-year 1965,
-  :cites ["US3093752"],
   :term-years 20,
   :open-license :none}]

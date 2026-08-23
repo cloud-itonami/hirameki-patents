@@ -1,4 +1,86 @@
 [[":db/add"
+  "hirameki-patent:US1923583"
+  ":hirameki.patent/status"
+  ":granted"]
+ [":db/add"
+  "hirameki-patent:US1923583"
+  ":hirameki.patent/open-license"
+  ":none"]
+ [":db/add"
+  "hirameki-patent:US1923583"
+  ":hirameki.obs/release-status"
+  ":public-domain"]
+ [":db/add"
+  "hirameki-patent:US1923583"
+  ":hirameki/sourcing"
+  ":authoritative"]
+ [":db/add" "hirameki-patent:US1923583" ":hirameki/derived" true]
+ [":db/add"
+  "hirameki-patent:US1923583"
+  ":hirameki.obs/years-to-expiry"
+  -75]
+ [":db/add"
+  "hirameki-patent:US1923583"
+  ":hirameki/source"
+  "https://patents.google.com/patent/US1923583/en"]
+ [":db/add"
+  "hirameki-patent:US1933739"
+  ":hirameki.patent/title"
+  "Process of producing glass"]
+ [":db/add"
+  "hirameki-patent:US1933739"
+  ":hirameki.patent/jurisdiction"
+  ":us"]
+ [":db/add"
+  "hirameki-patent:US1933739"
+  ":hirameki.patent/field"
+  "UNKNOWN"]
+ [":db/add"
+  "hirameki-patent:US1933739"
+  ":hirameki.patent/assignee"
+  ":unassigned"]
+ [":db/add"
+  "hirameki-patent:US1933739"
+  ":hirameki.patent/status"
+  ":granted"]
+ [":db/add"
+  "hirameki-patent:US1933739"
+  ":hirameki.patent/open-license"
+  ":none"]
+ [":db/add"
+  "hirameki-patent:US1933739"
+  ":hirameki.obs/release-status"
+  ":in-force"]
+ [":db/add"
+  "hirameki-patent:US1933739"
+  ":hirameki/sourcing"
+  ":authoritative"]
+ [":db/add" "hirameki-patent:US1933739" ":hirameki/derived" true]
+ [":db/add"
+  "hirameki-patent:US1933739"
+  ":hirameki/source"
+  "https://patents.google.com/patent/US1933739/en"]
+ [":db/add"
+  "hirameki-patent:US1933963"
+  ":hirameki.patent/title"
+  "Process for coating paper"]
+ [":db/add"
+  "hirameki-patent:US1933963"
+  ":hirameki.patent/jurisdiction"
+  ":us"]
+ [":db/add"
+  "hirameki-patent:US1933963"
+  ":hirameki.patent/field"
+  "UNKNOWN"]
+ [":db/add"
+  "hirameki-patent:US1933963"
+  ":hirameki.patent/assignee"
+  ":champion-coated-paper"]
+ [":db/add"
+  "hirameki-patent:US1933963"
+  ":hirameki.patent/status"
+  ":granted"]
+ [":db/add"
   "hirameki-patent:US1933963"
   ":hirameki.patent/open-license"
   ":none"]
@@ -753,6 +835,47 @@
   "hirameki-patent:US2016085"
   ":hirameki/source"
   "https://patents.google.com/patent/US2016085/en"]
+ [":db/add"
+  "hirameki-patent:US2016919"
+  ":hirameki.patent/title"
+  "Method for cementing and testing wells"]
+ [":db/add"
+  "hirameki-patent:US2016919"
+  ":hirameki.patent/jurisdiction"
+  ":us"]
+ [":db/add"
+  "hirameki-patent:US2016919"
+  ":hirameki.patent/field"
+  "UNKNOWN"]
+ [":db/add"
+  "hirameki-patent:US2016919"
+  ":hirameki.patent/assignee"
+  ":unassigned"]
+ [":db/add"
+  "hirameki-patent:US2016919"
+  ":hirameki.patent/status"
+  ":granted"]
+ [":db/add"
+  "hirameki-patent:US2016919"
+  ":hirameki.patent/open-license"
+  ":none"]
+ [":db/add"
+  "hirameki-patent:US2016919"
+  ":hirameki.obs/release-status"
+  ":public-domain"]
+ [":db/add"
+  "hirameki-patent:US2016919"
+  ":hirameki/sourcing"
+  ":authoritative"]
+ [":db/add" "hirameki-patent:US2016919" ":hirameki/derived" true]
+ [":db/add"
+  "hirameki-patent:US2016919"
+  ":hirameki.obs/years-to-expiry"
+  -72]
+ [":db/add"
+  "hirameki-patent:US2016919"
+  ":hirameki/source"
+  "https://patents.google.com/patent/US2016919/en"]
  [":db/add"
   "hirameki-patent:US2024819"
   ":hirameki.patent/title"
@@ -3411,6 +3534,88 @@
   ":hirameki/source"
   "https://patents.google.com/patent/US2172326/en"]
  [":db/add"
+  "hirameki-patent:US2176240"
+  ":hirameki.patent/title"
+  "Sampling device for wells"]
+ [":db/add"
+  "hirameki-patent:US2176240"
+  ":hirameki.patent/jurisdiction"
+  ":us"]
+ [":db/add"
+  "hirameki-patent:US2176240"
+  ":hirameki.patent/field"
+  "UNKNOWN"]
+ [":db/add"
+  "hirameki-patent:US2176240"
+  ":hirameki.patent/assignee"
+  ":unassigned"]
+ [":db/add"
+  "hirameki-patent:US2176240"
+  ":hirameki.patent/status"
+  ":granted"]
+ [":db/add"
+  "hirameki-patent:US2176240"
+  ":hirameki.patent/open-license"
+  ":none"]
+ [":db/add"
+  "hirameki-patent:US2176240"
+  ":hirameki.obs/release-status"
+  ":public-domain"]
+ [":db/add"
+  "hirameki-patent:US2176240"
+  ":hirameki/sourcing"
+  ":authoritative"]
+ [":db/add" "hirameki-patent:US2176240" ":hirameki/derived" true]
+ [":db/add"
+  "hirameki-patent:US2176240"
+  ":hirameki.obs/years-to-expiry"
+  -70]
+ [":db/add"
+  "hirameki-patent:US2176240"
+  ":hirameki/source"
+  "https://patents.google.com/patent/US2176240/en"]
+ [":db/add"
+  "hirameki-patent:US2176375"
+  ":hirameki.patent/title"
+  "Side wall sampler"]
+ [":db/add"
+  "hirameki-patent:US2176375"
+  ":hirameki.patent/jurisdiction"
+  ":us"]
+ [":db/add"
+  "hirameki-patent:US2176375"
+  ":hirameki.patent/field"
+  "UNKNOWN"]
+ [":db/add"
+  "hirameki-patent:US2176375"
+  ":hirameki.patent/assignee"
+  ":unassigned"]
+ [":db/add"
+  "hirameki-patent:US2176375"
+  ":hirameki.patent/status"
+  ":granted"]
+ [":db/add"
+  "hirameki-patent:US2176375"
+  ":hirameki.patent/open-license"
+  ":none"]
+ [":db/add"
+  "hirameki-patent:US2176375"
+  ":hirameki.obs/release-status"
+  ":public-domain"]
+ [":db/add"
+  "hirameki-patent:US2176375"
+  ":hirameki/sourcing"
+  ":authoritative"]
+ [":db/add" "hirameki-patent:US2176375" ":hirameki/derived" true]
+ [":db/add"
+  "hirameki-patent:US2176375"
+  ":hirameki.obs/years-to-expiry"
+  -68]
+ [":db/add"
+  "hirameki-patent:US2176375"
+  ":hirameki/source"
+  "https://patents.google.com/patent/US2176375/en"]
+ [":db/add"
   "hirameki-patent:US2176418"
   ":hirameki.patent/title"
   "Coating machine"]
@@ -3615,6 +3820,47 @@
   "hirameki-patent:US2181771"
   ":hirameki/source"
   "https://patents.google.com/patent/US2181771/en"]
+ [":db/add"
+  "hirameki-patent:US2192945"
+  ":hirameki.patent/title"
+  "Oil well bottom release valve"]
+ [":db/add"
+  "hirameki-patent:US2192945"
+  ":hirameki.patent/jurisdiction"
+  ":us"]
+ [":db/add"
+  "hirameki-patent:US2192945"
+  ":hirameki.patent/field"
+  "UNKNOWN"]
+ [":db/add"
+  "hirameki-patent:US2192945"
+  ":hirameki.patent/assignee"
+  ":john-r-beddingfield"]
+ [":db/add"
+  "hirameki-patent:US2192945"
+  ":hirameki.patent/status"
+  ":granted"]
+ [":db/add"
+  "hirameki-patent:US2192945"
+  ":hirameki.patent/open-license"
+  ":none"]
+ [":db/add"
+  "hirameki-patent:US2192945"
+  ":hirameki.obs/release-status"
+  ":public-domain"]
+ [":db/add"
+  "hirameki-patent:US2192945"
+  ":hirameki/sourcing"
+  ":authoritative"]
+ [":db/add" "hirameki-patent:US2192945" ":hirameki/derived" true]
+ [":db/add"
+  "hirameki-patent:US2192945"
+  ":hirameki.obs/years-to-expiry"
+  -68]
+ [":db/add"
+  "hirameki-patent:US2192945"
+  ":hirameki/source"
+  "https://patents.google.com/patent/US2192945/en"]
  [":db/add"
   "hirameki-patent:US2197190"
   ":hirameki.patent/title"
@@ -4149,6 +4395,88 @@
   ":hirameki/source"
   "https://patents.google.com/patent/US2216143/en"]
  [":db/add"
+  "hirameki-patent:US2216962"
+  ":hirameki.patent/title"
+  "Pressure coring device"]
+ [":db/add"
+  "hirameki-patent:US2216962"
+  ":hirameki.patent/jurisdiction"
+  ":us"]
+ [":db/add"
+  "hirameki-patent:US2216962"
+  ":hirameki.patent/field"
+  "UNKNOWN"]
+ [":db/add"
+  "hirameki-patent:US2216962"
+  ":hirameki.patent/assignee"
+  ":standard-oil-development"]
+ [":db/add"
+  "hirameki-patent:US2216962"
+  ":hirameki.patent/status"
+  ":granted"]
+ [":db/add"
+  "hirameki-patent:US2216962"
+  ":hirameki.patent/open-license"
+  ":none"]
+ [":db/add"
+  "hirameki-patent:US2216962"
+  ":hirameki.obs/release-status"
+  ":public-domain"]
+ [":db/add"
+  "hirameki-patent:US2216962"
+  ":hirameki/sourcing"
+  ":authoritative"]
+ [":db/add" "hirameki-patent:US2216962" ":hirameki/derived" true]
+ [":db/add"
+  "hirameki-patent:US2216962"
+  ":hirameki.obs/years-to-expiry"
+  -68]
+ [":db/add"
+  "hirameki-patent:US2216962"
+  ":hirameki/source"
+  "https://patents.google.com/patent/US2216962/en"]
+ [":db/add"
+  "hirameki-patent:US2217043"
+  ":hirameki.patent/title"
+  "Well testing tool"]
+ [":db/add"
+  "hirameki-patent:US2217043"
+  ":hirameki.patent/jurisdiction"
+  ":us"]
+ [":db/add"
+  "hirameki-patent:US2217043"
+  ":hirameki.patent/field"
+  "UNKNOWN"]
+ [":db/add"
+  "hirameki-patent:US2217043"
+  ":hirameki.patent/assignee"
+  ":unassigned"]
+ [":db/add"
+  "hirameki-patent:US2217043"
+  ":hirameki.patent/status"
+  ":granted"]
+ [":db/add"
+  "hirameki-patent:US2217043"
+  ":hirameki.patent/open-license"
+  ":none"]
+ [":db/add"
+  "hirameki-patent:US2217043"
+  ":hirameki.obs/release-status"
+  ":public-domain"]
+ [":db/add"
+  "hirameki-patent:US2217043"
+  ":hirameki/sourcing"
+  ":authoritative"]
+ [":db/add" "hirameki-patent:US2217043" ":hirameki/derived" true]
+ [":db/add"
+  "hirameki-patent:US2217043"
+  ":hirameki.obs/years-to-expiry"
+  -68]
+ [":db/add"
+  "hirameki-patent:US2217043"
+  ":hirameki/source"
+  "https://patents.google.com/patent/US2217043/en"]
+ [":db/add"
   "hirameki-patent:US2218808"
   ":hirameki.patent/title"
   "Multiple drink mixing machine"]
@@ -4517,6 +4845,47 @@
   "hirameki-patent:US2229155"
   ":hirameki/source"
   "https://patents.google.com/patent/US2229155/en"]
+ [":db/add"
+  "hirameki-patent:US2231282"
+  ":hirameki.patent/title"
+  "Removable bridging plug for oil wells"]
+ [":db/add"
+  "hirameki-patent:US2231282"
+  ":hirameki.patent/jurisdiction"
+  ":us"]
+ [":db/add"
+  "hirameki-patent:US2231282"
+  ":hirameki.patent/field"
+  "UNKNOWN"]
+ [":db/add"
+  "hirameki-patent:US2231282"
+  ":hirameki.patent/assignee"
+  ":unassigned"]
+ [":db/add"
+  "hirameki-patent:US2231282"
+  ":hirameki.patent/status"
+  ":granted"]
+ [":db/add"
+  "hirameki-patent:US2231282"
+  ":hirameki.patent/open-license"
+  ":none"]
+ [":db/add"
+  "hirameki-patent:US2231282"
+  ":hirameki.obs/release-status"
+  ":public-domain"]
+ [":db/add"
+  "hirameki-patent:US2231282"
+  ":hirameki/sourcing"
+  ":authoritative"]
+ [":db/add" "hirameki-patent:US2231282" ":hirameki/derived" true]
+ [":db/add"
+  "hirameki-patent:US2231282"
+  ":hirameki.obs/years-to-expiry"
+  -66]
+ [":db/add"
+  "hirameki-patent:US2231282"
+  ":hirameki/source"
+  "https://patents.google.com/patent/US2231282/en"]
  [":db/add"
   "hirameki-patent:US2232169"
   ":hirameki.patent/title"
@@ -5050,6 +5419,88 @@
   "hirameki-patent:US2261264"
   ":hirameki/source"
   "https://patents.google.com/patent/US2261264/en"]
+ [":db/add"
+  "hirameki-patent:US2261564"
+  ":hirameki.patent/title"
+  "Method of removing stuck pipe from wells"]
+ [":db/add"
+  "hirameki-patent:US2261564"
+  ":hirameki.patent/jurisdiction"
+  ":us"]
+ [":db/add"
+  "hirameki-patent:US2261564"
+  ":hirameki.patent/field"
+  "UNKNOWN"]
+ [":db/add"
+  "hirameki-patent:US2261564"
+  ":hirameki.patent/assignee"
+  ":unassigned"]
+ [":db/add"
+  "hirameki-patent:US2261564"
+  ":hirameki.patent/status"
+  ":granted"]
+ [":db/add"
+  "hirameki-patent:US2261564"
+  ":hirameki.patent/open-license"
+  ":none"]
+ [":db/add"
+  "hirameki-patent:US2261564"
+  ":hirameki.obs/release-status"
+  ":public-domain"]
+ [":db/add"
+  "hirameki-patent:US2261564"
+  ":hirameki/sourcing"
+  ":authoritative"]
+ [":db/add" "hirameki-patent:US2261564" ":hirameki/derived" true]
+ [":db/add"
+  "hirameki-patent:US2261564"
+  ":hirameki.obs/years-to-expiry"
+  -66]
+ [":db/add"
+  "hirameki-patent:US2261564"
+  ":hirameki/source"
+  "https://patents.google.com/patent/US2261564/en"]
+ [":db/add"
+  "hirameki-patent:US2262655"
+  ":hirameki.patent/title"
+  "Formation tester"]
+ [":db/add"
+  "hirameki-patent:US2262655"
+  ":hirameki.patent/jurisdiction"
+  ":us"]
+ [":db/add"
+  "hirameki-patent:US2262655"
+  ":hirameki.patent/field"
+  "UNKNOWN"]
+ [":db/add"
+  "hirameki-patent:US2262655"
+  ":hirameki.patent/assignee"
+  ":unassigned"]
+ [":db/add"
+  "hirameki-patent:US2262655"
+  ":hirameki.patent/status"
+  ":granted"]
+ [":db/add"
+  "hirameki-patent:US2262655"
+  ":hirameki.patent/open-license"
+  ":none"]
+ [":db/add"
+  "hirameki-patent:US2262655"
+  ":hirameki.obs/release-status"
+  ":public-domain"]
+ [":db/add"
+  "hirameki-patent:US2262655"
+  ":hirameki/sourcing"
+  ":authoritative"]
+ [":db/add" "hirameki-patent:US2262655" ":hirameki/derived" true]
+ [":db/add"
+  "hirameki-patent:US2262655"
+  ":hirameki.obs/years-to-expiry"
+  -66]
+ [":db/add"
+  "hirameki-patent:US2262655"
+  ":hirameki/source"
+  "https://patents.google.com/patent/US2262655/en"]
  [":db/add"
   "hirameki-patent:US2263131"
   ":hirameki.patent/title"
@@ -5740,6 +6191,47 @@
   "hirameki-patent:US2282375"
   ":hirameki/source"
   "https://patents.google.com/patent/US2282375/en"]
+ [":db/add"
+  "hirameki-patent:US2285024"
+  ":hirameki.patent/title"
+  "Sample taking apparatus"]
+ [":db/add"
+  "hirameki-patent:US2285024"
+  ":hirameki.patent/jurisdiction"
+  ":us"]
+ [":db/add"
+  "hirameki-patent:US2285024"
+  ":hirameki.patent/field"
+  "UNKNOWN"]
+ [":db/add"
+  "hirameki-patent:US2285024"
+  ":hirameki.patent/assignee"
+  ":unassigned"]
+ [":db/add"
+  "hirameki-patent:US2285024"
+  ":hirameki.patent/status"
+  ":granted"]
+ [":db/add"
+  "hirameki-patent:US2285024"
+  ":hirameki.patent/open-license"
+  ":none"]
+ [":db/add"
+  "hirameki-patent:US2285024"
+  ":hirameki.obs/release-status"
+  ":public-domain"]
+ [":db/add"
+  "hirameki-patent:US2285024"
+  ":hirameki/sourcing"
+  ":authoritative"]
+ [":db/add" "hirameki-patent:US2285024" ":hirameki/derived" true]
+ [":db/add"
+  "hirameki-patent:US2285024"
+  ":hirameki.obs/years-to-expiry"
+  -67]
+ [":db/add"
+  "hirameki-patent:US2285024"
+  ":hirameki/source"
+  "https://patents.google.com/patent/US2285024/en"]
  [":db/add"
   "hirameki-patent:US2286259"
   ":hirameki.patent/title"
@@ -9953,488 +10445,4 @@
  [":db/add"
   "hirameki-patent:US2428654"
   ":hirameki/sourcing"
-  ":authoritative"]
- [":db/add" "hirameki-patent:US2428654" ":hirameki/derived" true]
- [":db/add"
-  "hirameki-patent:US2428654"
-  ":hirameki.obs/years-to-expiry"
-  -62]
- [":db/add"
-  "hirameki-patent:US2428654"
-  ":hirameki/source"
-  "https://patents.google.com/patent/US2428654/en"]
- [":db/add"
-  "hirameki-patent:US2429177"
-  ":hirameki.patent/title"
-  "Stretching and laminating film"]
- [":db/add"
-  "hirameki-patent:US2429177"
-  ":hirameki.patent/jurisdiction"
-  ":us"]
- [":db/add"
-  "hirameki-patent:US2429177"
-  ":hirameki.patent/field"
-  "UNKNOWN"]
- [":db/add"
-  "hirameki-patent:US2429177"
-  ":hirameki.patent/assignee"
-  ":wingfoot"]
- [":db/add"
-  "hirameki-patent:US2429177"
-  ":hirameki.patent/status"
-  ":granted"]
- [":db/add"
-  "hirameki-patent:US2429177"
-  ":hirameki.patent/open-license"
-  ":none"]
- [":db/add"
-  "hirameki-patent:US2429177"
-  ":hirameki.obs/release-status"
-  ":public-domain"]
- [":db/add"
-  "hirameki-patent:US2429177"
-  ":hirameki/sourcing"
-  ":authoritative"]
- [":db/add" "hirameki-patent:US2429177" ":hirameki/derived" true]
- [":db/add"
-  "hirameki-patent:US2429177"
-  ":hirameki.obs/years-to-expiry"
-  -66]
- [":db/add"
-  "hirameki-patent:US2429177"
-  ":hirameki/source"
-  "https://patents.google.com/patent/US2429177/en"]
- [":db/add"
-  "hirameki-patent:US2431873"
-  ":hirameki.patent/title"
-  "Method of coating thermoplastics with silica"]
- [":db/add"
-  "hirameki-patent:US2431873"
-  ":hirameki.patent/jurisdiction"
-  ":us"]
- [":db/add"
-  "hirameki-patent:US2431873"
-  ":hirameki.patent/field"
-  "UNKNOWN"]
- [":db/add"
-  "hirameki-patent:US2431873"
-  ":hirameki.patent/assignee"
-  ":monsanto-chemicals"]
- [":db/add"
-  "hirameki-patent:US2431873"
-  ":hirameki.patent/status"
-  ":granted"]
- [":db/add"
-  "hirameki-patent:US2431873"
-  ":hirameki.patent/open-license"
-  ":none"]
- [":db/add"
-  "hirameki-patent:US2431873"
-  ":hirameki.obs/release-status"
-  ":public-domain"]
- [":db/add"
-  "hirameki-patent:US2431873"
-  ":hirameki/sourcing"
-  ":authoritative"]
- [":db/add" "hirameki-patent:US2431873" ":hirameki/derived" true]
- [":db/add"
-  "hirameki-patent:US2431873"
-  ":hirameki.obs/years-to-expiry"
-  -62]
- [":db/add"
-  "hirameki-patent:US2431873"
-  ":hirameki/source"
-  "https://patents.google.com/patent/US2431873/en"]
- [":db/add"
-  "hirameki-patent:US2433478"
-  ":hirameki.patent/title"
-  "Mixing and filling apparatus"]
- [":db/add"
-  "hirameki-patent:US2433478"
-  ":hirameki.patent/jurisdiction"
-  ":us"]
- [":db/add"
-  "hirameki-patent:US2433478"
-  ":hirameki.patent/field"
-  "UNKNOWN"]
- [":db/add"
-  "hirameki-patent:US2433478"
-  ":hirameki.patent/assignee"
-  ":general-foods"]
- [":db/add"
-  "hirameki-patent:US2433478"
-  ":hirameki.patent/status"
-  ":granted"]
- [":db/add"
-  "hirameki-patent:US2433478"
-  ":hirameki.patent/open-license"
-  ":none"]
- [":db/add"
-  "hirameki-patent:US2433478"
-  ":hirameki.obs/release-status"
-  ":public-domain"]
- [":db/add"
-  "hirameki-patent:US2433478"
-  ":hirameki/sourcing"
-  ":authoritative"]
- [":db/add" "hirameki-patent:US2433478" ":hirameki/derived" true]
- [":db/add"
-  "hirameki-patent:US2433478"
-  ":hirameki.obs/years-to-expiry"
-  -63]
- [":db/add"
-  "hirameki-patent:US2433478"
-  ":hirameki/source"
-  "https://patents.google.com/patent/US2433478/en"]
- [":db/add"
-  "hirameki-patent:US2434190"
-  ":hirameki.patent/title"
-  "Purification of fluids with silvered resins"]
- [":db/add"
-  "hirameki-patent:US2434190"
-  ":hirameki.patent/jurisdiction"
-  ":us"]
- [":db/add"
-  "hirameki-patent:US2434190"
-  ":hirameki.patent/field"
-  "UNKNOWN"]
- [":db/add"
-  "hirameki-patent:US2434190"
-  ":hirameki.patent/assignee"
-  ":american-cyanamid"]
- [":db/add"
-  "hirameki-patent:US2434190"
-  ":hirameki.patent/status"
-  ":granted"]
- [":db/add"
-  "hirameki-patent:US2434190"
-  ":hirameki.patent/open-license"
-  ":none"]
- [":db/add"
-  "hirameki-patent:US2434190"
-  ":hirameki.obs/release-status"
-  ":public-domain"]
- [":db/add"
-  "hirameki-patent:US2434190"
-  ":hirameki/sourcing"
-  ":authoritative"]
- [":db/add" "hirameki-patent:US2434190" ":hirameki/derived" true]
- [":db/add"
-  "hirameki-patent:US2434190"
-  ":hirameki.obs/years-to-expiry"
-  -64]
- [":db/add"
-  "hirameki-patent:US2434190"
-  ":hirameki/source"
-  "https://patents.google.com/patent/US2434190/en"]
- [":db/add"
-  "hirameki-patent:US2434795"
-  ":hirameki.patent/title"
-  "Method and machine for laminating"]
- [":db/add"
-  "hirameki-patent:US2434795"
-  ":hirameki.patent/jurisdiction"
-  ":us"]
- [":db/add"
-  "hirameki-patent:US2434795"
-  ":hirameki.patent/field"
-  "UNKNOWN"]
- [":db/add"
-  "hirameki-patent:US2434795"
-  ":hirameki.patent/assignee"
-  ":westfield-river-paper"]
- [":db/add"
-  "hirameki-patent:US2434795"
-  ":hirameki.patent/status"
-  ":granted"]
- [":db/add"
-  "hirameki-patent:US2434795"
-  ":hirameki.patent/open-license"
-  ":none"]
- [":db/add"
-  "hirameki-patent:US2434795"
-  ":hirameki.obs/release-status"
-  ":public-domain"]
- [":db/add"
-  "hirameki-patent:US2434795"
-  ":hirameki/sourcing"
-  ":authoritative"]
- [":db/add" "hirameki-patent:US2434795" ":hirameki/derived" true]
- [":db/add"
-  "hirameki-patent:US2434795"
-  ":hirameki.obs/years-to-expiry"
-  -62]
- [":db/add"
-  "hirameki-patent:US2434795"
-  ":hirameki/source"
-  "https://patents.google.com/patent/US2434795/en"]
- [":db/add"
-  "hirameki-patent:US2435239"
-  ":hirameki.patent/title"
-  "Process for removing resin coating from copper wire"]
- [":db/add"
-  "hirameki-patent:US2435239"
-  ":hirameki.patent/jurisdiction"
-  ":us"]
- [":db/add"
-  "hirameki-patent:US2435239"
-  ":hirameki.patent/field"
-  "UNKNOWN"]
- [":db/add"
-  "hirameki-patent:US2435239"
-  ":hirameki.patent/assignee"
-  ":joe-a-stone"]
- [":db/add"
-  "hirameki-patent:US2435239"
-  ":hirameki.patent/status"
-  ":granted"]
- [":db/add"
-  "hirameki-patent:US2435239"
-  ":hirameki.patent/open-license"
-  ":none"]
- [":db/add"
-  "hirameki-patent:US2435239"
-  ":hirameki.obs/release-status"
-  ":public-domain"]
- [":db/add"
-  "hirameki-patent:US2435239"
-  ":hirameki/sourcing"
-  ":authoritative"]
- [":db/add" "hirameki-patent:US2435239" ":hirameki/derived" true]
- [":db/add"
-  "hirameki-patent:US2435239"
-  ":hirameki.obs/years-to-expiry"
-  -61]
- [":db/add"
-  "hirameki-patent:US2435239"
-  ":hirameki/source"
-  "https://patents.google.com/patent/US2435239/en"]
- [":db/add"
-  "hirameki-patent:US2436262"
-  ":hirameki.patent/title"
-  "Apparatus for measuring turbidity photoelectrically"]
- [":db/add"
-  "hirameki-patent:US2436262"
-  ":hirameki.patent/jurisdiction"
-  ":us"]
- [":db/add"
-  "hirameki-patent:US2436262"
-  ":hirameki.patent/field"
-  "UNKNOWN"]
- [":db/add"
-  "hirameki-patent:US2436262"
-  ":hirameki.patent/assignee"
-  ":johns-manville"]
- [":db/add"
-  "hirameki-patent:US2436262"
-  ":hirameki.patent/status"
-  ":granted"]
- [":db/add"
-  "hirameki-patent:US2436262"
-  ":hirameki.patent/open-license"
-  ":none"]
- [":db/add"
-  "hirameki-patent:US2436262"
-  ":hirameki.obs/release-status"
-  ":public-domain"]
- [":db/add"
-  "hirameki-patent:US2436262"
-  ":hirameki/sourcing"
-  ":authoritative"]
- [":db/add" "hirameki-patent:US2436262" ":hirameki/derived" true]
- [":db/add"
-  "hirameki-patent:US2436262"
-  ":hirameki.obs/years-to-expiry"
-  -62]
- [":db/add"
-  "hirameki-patent:US2436262"
-  ":hirameki/source"
-  "https://patents.google.com/patent/US2436262/en"]
- [":db/add"
-  "hirameki-patent:US2437228"
-  ":hirameki.patent/title"
-  "Reticle"]
- [":db/add"
-  "hirameki-patent:US2437228"
-  ":hirameki.patent/jurisdiction"
-  ":us"]
- [":db/add"
-  "hirameki-patent:US2437228"
-  ":hirameki.patent/field"
-  "UNKNOWN"]
- [":db/add"
-  "hirameki-patent:US2437228"
-  ":hirameki.patent/assignee"
-  ":buckbee-mears"]
- [":db/add"
-  "hirameki-patent:US2437228"
-  ":hirameki.patent/status"
-  ":granted"]
- [":db/add"
-  "hirameki-patent:US2437228"
-  ":hirameki.patent/open-license"
-  ":none"]
- [":db/add"
-  "hirameki-patent:US2437228"
-  ":hirameki.obs/release-status"
-  ":public-domain"]
- [":db/add"
-  "hirameki-patent:US2437228"
-  ":hirameki/sourcing"
-  ":authoritative"]
- [":db/add" "hirameki-patent:US2437228" ":hirameki/derived" true]
- [":db/add"
-  "hirameki-patent:US2437228"
-  ":hirameki.obs/years-to-expiry"
-  -62]
- [":db/add"
-  "hirameki-patent:US2437228"
-  ":hirameki/source"
-  "https://patents.google.com/patent/US2437228/en"]
- [":db/add"
-  "hirameki-patent:US2441235"
-  ":hirameki.patent/title"
-  "Apparatus for making sponge rubber articles"]
- [":db/add"
-  "hirameki-patent:US2441235"
-  ":hirameki.patent/jurisdiction"
-  ":us"]
- [":db/add"
-  "hirameki-patent:US2441235"
-  ":hirameki.patent/field"
-  "UNKNOWN"]
- [":db/add"
-  "hirameki-patent:US2441235"
-  ":hirameki.patent/assignee"
-  ":united-states-rubber"]
- [":db/add"
-  "hirameki-patent:US2441235"
-  ":hirameki.patent/status"
-  ":granted"]
- [":db/add"
-  "hirameki-patent:US2441235"
-  ":hirameki.patent/open-license"
-  ":none"]
- [":db/add"
-  "hirameki-patent:US2441235"
-  ":hirameki.obs/release-status"
-  ":public-domain"]
- [":db/add"
-  "hirameki-patent:US2441235"
-  ":hirameki/sourcing"
-  ":authoritative"]
- [":db/add" "hirameki-patent:US2441235" ":hirameki/derived" true]
- [":db/add"
-  "hirameki-patent:US2441235"
-  ":hirameki.obs/years-to-expiry"
-  -65]
- [":db/add"
-  "hirameki-patent:US2441235"
-  ":hirameki/source"
-  "https://patents.google.com/patent/US2441235/en"]
- [":db/add"
-  "hirameki-patent:US2442863"
-  ":hirameki.patent/title"
-  "Electrophoresis coating of electron tube parts"]
- [":db/add"
-  "hirameki-patent:US2442863"
-  ":hirameki.patent/jurisdiction"
-  ":us"]
- [":db/add"
-  "hirameki-patent:US2442863"
-  ":hirameki.patent/field"
-  "UNKNOWN"]
- [":db/add"
-  "hirameki-patent:US2442863"
-  ":hirameki.patent/assignee"
-  ":sylvania-electric-products"]
- [":db/add"
-  "hirameki-patent:US2442863"
-  ":hirameki.patent/status"
-  ":granted"]
- [":db/add"
-  "hirameki-patent:US2442863"
-  ":hirameki.patent/open-license"
-  ":none"]
- [":db/add"
-  "hirameki-patent:US2442863"
-  ":hirameki.obs/release-status"
-  ":public-domain"]
- [":db/add"
-  "hirameki-patent:US2442863"
-  ":hirameki/sourcing"
-  ":authoritative"]
- [":db/add" "hirameki-patent:US2442863" ":hirameki/derived" true]
- [":db/add"
-  "hirameki-patent:US2442863"
-  ":hirameki.obs/years-to-expiry"
-  -62]
- [":db/add"
-  "hirameki-patent:US2442863"
-  ":hirameki/source"
-  "https://patents.google.com/patent/US2442863/en"]
- [":db/add"
-  "hirameki-patent:US2443373"
-  ":hirameki.patent/title"
-  "Method of removing carbon and carbonaceous matter"]
- [":db/add"
-  "hirameki-patent:US2443373"
-  ":hirameki.patent/jurisdiction"
-  ":us"]
- [":db/add"
-  "hirameki-patent:US2443373"
-  ":hirameki.patent/field"
-  "UNKNOWN"]
- [":db/add"
-  "hirameki-patent:US2443373"
-  ":hirameki.patent/assignee"
-  ":unassigned"]
- [":db/add"
-  "hirameki-patent:US2443373"
-  ":hirameki.patent/status"
-  ":granted"]
- [":db/add"
-  "hirameki-patent:US2443373"
-  ":hirameki.patent/open-license"
-  ":none"]
- [":db/add"
-  "hirameki-patent:US2443373"
-  ":hirameki.obs/release-status"
-  ":public-domain"]
- [":db/add"
-  "hirameki-patent:US2443373"
-  ":hirameki/sourcing"
-  ":authoritative"]
- [":db/add" "hirameki-patent:US2443373" ":hirameki/derived" true]
- [":db/add"
-  "hirameki-patent:US2443373"
-  ":hirameki.obs/years-to-expiry"
-  -63]
- [":db/add"
-  "hirameki-patent:US2443373"
-  ":hirameki/source"
-  "https://patents.google.com/patent/US2443373/en"]
- [":db/add"
-  "hirameki-patent:US2444560"
-  ":hirameki.patent/title"
-  "Cathode-ray tube spectrograph"]
- [":db/add"
-  "hirameki-patent:US2444560"
-  ":hirameki.patent/jurisdiction"
-  ":us"]
- [":db/add"
-  "hirameki-patent:US2444560"
-  ":hirameki.patent/field"
-  "UNKNOWN"]
- [":db/add"
-  "hirameki-patent:US2444560"
-  ":hirameki.patent/assignee"
-  ":allen-b-du-mont-laboratories"]
- [":db/add"
-  "hirameki-patent:US2444560"
-  ":hirameki.patent/status"
-  ":granted"]
- [":db/add"
-  "hirameki-patent:US2444560"
-  ":hirameki.patent/open-license"
-  ":none"]]
+  ":authoritative"]]
