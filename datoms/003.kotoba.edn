@@ -1,4 +1,49 @@
 [[":db/add"
+  "hirameki-patent:US2369577"
+  ":hirameki.patent/status"
+  ":granted"]
+ [":db/add"
+  "hirameki-patent:US2369577"
+  ":hirameki.patent/open-license"
+  ":none"]
+ [":db/add"
+  "hirameki-patent:US2369577"
+  ":hirameki.obs/release-status"
+  ":public-domain"]
+ [":db/add"
+  "hirameki-patent:US2369577"
+  ":hirameki/sourcing"
+  ":authoritative"]
+ [":db/add" "hirameki-patent:US2369577" ":hirameki/derived" true]
+ [":db/add"
+  "hirameki-patent:US2369577"
+  ":hirameki.obs/years-to-expiry"
+  -65]
+ [":db/add"
+  "hirameki-patent:US2369577"
+  ":hirameki/source"
+  "https://patents.google.com/patent/US2369577/en"]
+ [":db/add"
+  "hirameki-patent:US2370871"
+  ":hirameki.patent/title"
+  "Chlorine detection by electrode depolarization"]
+ [":db/add"
+  "hirameki-patent:US2370871"
+  ":hirameki.patent/jurisdiction"
+  ":us"]
+ [":db/add"
+  "hirameki-patent:US2370871"
+  ":hirameki.patent/field"
+  "UNKNOWN"]
+ [":db/add"
+  "hirameki-patent:US2370871"
+  ":hirameki.patent/assignee"
+  ":wallace-and-tiernan"]
+ [":db/add"
+  "hirameki-patent:US2370871"
+  ":hirameki.patent/status"
+  ":granted"]
+ [":db/add"
   "hirameki-patent:US2370871"
   ":hirameki.patent/open-license"
   ":none"]
@@ -10305,49 +10350,4 @@
  [":db/add"
   "hirameki-patent:US2758502"
   ":hirameki.patent/open-license"
-  ":none"]
- [":db/add"
-  "hirameki-patent:US2758502"
-  ":hirameki.obs/release-status"
-  ":public-domain"]
- [":db/add"
-  "hirameki-patent:US2758502"
-  ":hirameki/sourcing"
-  ":authoritative"]
- [":db/add" "hirameki-patent:US2758502" ":hirameki/derived" true]
- [":db/add"
-  "hirameki-patent:US2758502"
-  ":hirameki.obs/years-to-expiry"
-  -54]
- [":db/add"
-  "hirameki-patent:US2758502"
-  ":hirameki/source"
-  "https://patents.google.com/patent/US2758502/en"]
- [":db/add"
-  "hirameki-patent:US2759825"
-  ":hirameki.patent/title"
-  "Photographic image transfer process"]
- [":db/add"
-  "hirameki-patent:US2759825"
-  ":hirameki.patent/jurisdiction"
-  ":us"]
- [":db/add"
-  "hirameki-patent:US2759825"
-  ":hirameki.patent/field"
-  "UNKNOWN"]
- [":db/add"
-  "hirameki-patent:US2759825"
-  ":hirameki.patent/assignee"
-  ":polaroid"]
- [":db/add"
-  "hirameki-patent:US2759825"
-  ":hirameki.patent/status"
-  ":granted"]
- [":db/add"
-  "hirameki-patent:US2759825"
-  ":hirameki.patent/open-license"
-  ":none"]
- [":db/add"
-  "hirameki-patent:US2759825"
-  ":hirameki.obs/release-status"
-  ":public-domain"]]
+  ":none"]]

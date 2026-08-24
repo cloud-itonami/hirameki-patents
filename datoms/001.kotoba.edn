@@ -1,4 +1,45 @@
 [[":db/add"
+  "hirameki-patent:JP2000160059A"
+  ":hirameki.obs/release-status"
+  ":pending"]
+ [":db/add"
+  "hirameki-patent:JP2000160059A"
+  ":hirameki/sourcing"
+  ":authoritative"]
+ [":db/add" "hirameki-patent:JP2000160059A" ":hirameki/derived" true]
+ [":db/add"
+  "hirameki-patent:JP2000160059A"
+  ":hirameki.obs/years-to-expiry"
+  -8]
+ [":db/add"
+  "hirameki-patent:JP2000160059A"
+  ":hirameki/source"
+  "https://patents.google.com/patent/JP2000160059A/en"]
+ [":db/add"
+  "hirameki-patent:JP2000160094A"
+  ":hirameki.patent/title"
+  "Anti-chipping aqueous coating composition"]
+ [":db/add"
+  "hirameki-patent:JP2000160094A"
+  ":hirameki.patent/jurisdiction"
+  ":jp"]
+ [":db/add"
+  "hirameki-patent:JP2000160094A"
+  ":hirameki.patent/field"
+  "UNKNOWN"]
+ [":db/add"
+  "hirameki-patent:JP2000160094A"
+  ":hirameki.patent/assignee"
+  ":asahi-chemical-industry"]
+ [":db/add"
+  "hirameki-patent:JP2000160094A"
+  ":hirameki.patent/status"
+  ":pending"]
+ [":db/add"
+  "hirameki-patent:JP2000160094A"
+  ":hirameki.patent/open-license"
+  ":none"]
+ [":db/add"
   "hirameki-patent:JP2000160094A"
   ":hirameki.obs/release-status"
   ":pending"]
@@ -9960,49 +10001,4 @@
  [":db/add"
   "hirameki-patent:US1777140"
   ":hirameki.obs/years-to-expiry"
-  -80]
- [":db/add"
-  "hirameki-patent:US1777140"
-  ":hirameki/source"
-  "https://patents.google.com/patent/US1777140/en"]
- [":db/add"
-  "hirameki-patent:US1797248"
-  ":hirameki.patent/title"
-  "Filtering method and apparatus"]
- [":db/add"
-  "hirameki-patent:US1797248"
-  ":hirameki.patent/jurisdiction"
-  ":us"]
- [":db/add"
-  "hirameki-patent:US1797248"
-  ":hirameki.patent/field"
-  "UNKNOWN"]
- [":db/add"
-  "hirameki-patent:US1797248"
-  ":hirameki.patent/assignee"
-  ":american-anode"]
- [":db/add"
-  "hirameki-patent:US1797248"
-  ":hirameki.patent/status"
-  ":granted"]
- [":db/add"
-  "hirameki-patent:US1797248"
-  ":hirameki.patent/open-license"
-  ":none"]
- [":db/add"
-  "hirameki-patent:US1797248"
-  ":hirameki.obs/release-status"
-  ":public-domain"]
- [":db/add"
-  "hirameki-patent:US1797248"
-  ":hirameki/sourcing"
-  ":authoritative"]
- [":db/add" "hirameki-patent:US1797248" ":hirameki/derived" true]
- [":db/add"
-  "hirameki-patent:US1797248"
-  ":hirameki.obs/years-to-expiry"
-  -79]
- [":db/add"
-  "hirameki-patent:US1797248"
-  ":hirameki/source"
-  "https://patents.google.com/patent/US1797248/en"]]
+  -80]]
