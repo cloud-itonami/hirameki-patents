@@ -1,4 +1,66 @@
-[{:jurisdiction :us,
+[{:assignees [:armstrong-cork],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2274642/en",
+  :title "Hard surface covering",
+  :status :granted,
+  :id "US2274642",
+  :sourcing :authoritative,
+  :filing-year 1937,
+  :assignee :armstrong-cork,
+  :grant-year 1942,
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:westinghouse-electric],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2275989/en",
+  :title "Process for producing resinous products",
+  :status :granted,
+  :id "US2275989",
+  :sourcing :authoritative,
+  :filing-year 1938,
+  :assignee :westinghouse-electric,
+  :grant-year 1942,
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:gardner-richardson],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2276244/en",
+  :title "Waterproof and greaseproof paper",
+  :status :granted,
+  :id "US2276244",
+  :sourcing :authoritative,
+  :filing-year 1939,
+  :assignee :gardner-richardson,
+  :grant-year 1942,
+  :term-years 20,
+  :open-license :none}
+ {:jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2277/en",
+  :title "Island",
+  :status :granted,
+  :id "US2277",
+  :sourcing :authoritative,
+  :assignee :unassigned,
+  :grant-year 1841,
+  :term-years 20,
+  :open-license :none}
+ {:jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2277287/en",
+  :title "Manufacture of coated materials and product",
+  :status :granted,
+  :id "US2277287",
+  :sourcing :authoritative,
+  :filing-year 1939,
+  :assignee :unassigned,
+  :grant-year 1942,
+  :term-years 20,
+  :open-license :none}
+ {:jurisdiction :us,
   :field "UNKNOWN",
   :source "https://patents.google.com/patent/US2278248/en",
   :title "Process and apparatus for monitoring gases",
@@ -1114,6 +1176,19 @@
   :grant-year 1945,
   :term-years 20,
   :open-license :none}
+ {:assignees [:westinghouse-electric],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2387952/en",
+  :title "Electronic timing system for sorting apparatus",
+  :status :granted,
+  :id "US2387952",
+  :sourcing :authoritative,
+  :filing-year 1941,
+  :assignee :westinghouse-electric,
+  :grant-year 1945,
+  :term-years 20,
+  :open-license :none}
  {:jurisdiction :us,
   :field "UNKNOWN",
   :source "https://patents.google.com/patent/US2391767/en",
@@ -1386,6 +1461,29 @@
   :assignee :fairchild-camera-and-instrument,
   :grant-year 1947,
   :cites ["US1875552"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:standard-oil-development],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2417877/en",
+  :title "Automatic oxygen indicator",
+  :status :granted,
+  :id "US2417877",
+  :sourcing :authoritative,
+  :filing-year 1944,
+  :assignee :standard-oil-development,
+  :grant-year 1947,
+  :cites
+  ["DE309733C"
+   "DE359848C"
+   "US1905251"
+   "US1919858"
+   "US1977359"
+   "US2019871"
+   "US2036251"
+   "US2286985"
+   "US2389046"],
   :term-years 20,
   :open-license :none}
  {:assignees [:miles-laboratories],
@@ -8705,6 +8803,18 @@
    "US2793481"],
   :term-years 20,
   :open-license :none}
+ {:jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3001539/en",
+  :title "Suction amplifier",
+  :status :granted,
+  :id "US3001539",
+  :sourcing :authoritative,
+  :filing-year 1960,
+  :assignee :unassigned,
+  :grant-year 1961,
+  :term-years 20,
+  :open-license :none}
  {:assignees [:miles-laboratories],
   :jurisdiction :us,
   :field "UNKNOWN",
@@ -8996,6 +9106,18 @@
    "US2825721"
    "US2855517"
    "US2877500"],
+  :term-years 20,
+  :open-license :none}
+ {:jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3024805/en",
+  :title "Negative feedback fluid amplifier",
+  :status :granted,
+  :id "US3024805",
+  :sourcing :authoritative,
+  :filing-year 1960,
+  :assignee :unassigned,
+  :grant-year 1962,
   :term-years 20,
   :open-license :none}
  {:assignees [:pyronics],
@@ -9846,109 +9968,5 @@
    "US2709666"
    "US2737465"
    "US2925332"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:american-cyanamid],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3082203/en",
-  :title "Novel nucleotide coenzymes",
-  :status :granted,
-  :id "US3082203",
-  :sourcing :authoritative,
-  :filing-year 1960,
-  :assignee :american-cyanamid,
-  :grant-year 1963,
-  :term-years 20,
-  :open-license :none}
- {:assignees [:burke],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3085074/en",
-  :title
-  "Aqueous dispersions of halogenated, polymer modified butyl rubber, process of makingsame, and vulcanization thereof",
-  :status :granted,
-  :id "US3085074",
-  :sourcing :authoritative,
-  :filing-year 1959,
-  :assignee :burke,
-  :grant-year 1963,
-  :cites
-  ["FR1145258A"
-   "GB746692A"
-   "GB793581A"
-   "US2476430"
-   "US2586124"
-   "US2595797"
-   "US2609365"
-   "US2631984"
-   "US2732354"
-   "US2799662"
-   "US2883351"
-   "US2901458"
-   "US2943664"
-   "US2965620"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:usines-decoufle],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3088467/en",
-  :title "Method of forming a continuous tobacco filler",
-  :status :granted,
-  :id "US3088467",
-  :sourcing :authoritative,
-  :filing-year 1961,
-  :assignee :usines-decoufle,
-  :grant-year 1963,
-  :cites ["FR1179992A" "GB854736A" "US1808795" "US2660178"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:hyland-laboratories],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3088875/en",
-  :title
-  "Immunological diagnostics utilizing polystyrene latex particles of 0.15 to 0.25 micron",
-  :status :granted,
-  :id "US3088875",
-  :sourcing :authoritative,
-  :filing-year 1959,
-  :assignee :hyland-laboratories,
-  :grant-year 1963,
-  :term-years 20,
-  :open-license :none}
- {:assignees [:shell-oil],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3089382/en",
-  :title "Method and apparatus for analyzing fluids",
-  :status :granted,
-  :id "US3089382",
-  :sourcing :authoritative,
-  :filing-year 1959,
-  :assignee :shell-oil,
-  :grant-year 1963,
-  :cites
-  ["CA466113A"
-   "US1840500"
-   "US2648253"
-   "US2764692"
-   "US2774277"
-   "US2775160"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:miles-laboratories],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3092465/en",
-  :title "Diagnostic test device for blood sugar",
-  :status :granted,
-  :id "US3092465",
-  :sourcing :authoritative,
-  :filing-year 1960,
-  :assignee :miles-laboratories,
-  :grant-year 1963,
-  :cites ["GB571181A" "US2140341" "US2567445" "US2912309"],
   :term-years 20,
   :open-license :none}]

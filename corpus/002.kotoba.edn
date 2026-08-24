@@ -1,4 +1,108 @@
-[{:assignees [:american-instr],
+[{:assignees [:american-cyanamid],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3082203/en",
+  :title "Novel nucleotide coenzymes",
+  :status :granted,
+  :id "US3082203",
+  :sourcing :authoritative,
+  :filing-year 1960,
+  :assignee :american-cyanamid,
+  :grant-year 1963,
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:burke],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3085074/en",
+  :title
+  "Aqueous dispersions of halogenated, polymer modified butyl rubber, process of makingsame, and vulcanization thereof",
+  :status :granted,
+  :id "US3085074",
+  :sourcing :authoritative,
+  :filing-year 1959,
+  :assignee :burke,
+  :grant-year 1963,
+  :cites
+  ["FR1145258A"
+   "GB746692A"
+   "GB793581A"
+   "US2476430"
+   "US2586124"
+   "US2595797"
+   "US2609365"
+   "US2631984"
+   "US2732354"
+   "US2799662"
+   "US2883351"
+   "US2901458"
+   "US2943664"
+   "US2965620"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:usines-decoufle],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3088467/en",
+  :title "Method of forming a continuous tobacco filler",
+  :status :granted,
+  :id "US3088467",
+  :sourcing :authoritative,
+  :filing-year 1961,
+  :assignee :usines-decoufle,
+  :grant-year 1963,
+  :cites ["FR1179992A" "GB854736A" "US1808795" "US2660178"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:hyland-laboratories],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3088875/en",
+  :title
+  "Immunological diagnostics utilizing polystyrene latex particles of 0.15 to 0.25 micron",
+  :status :granted,
+  :id "US3088875",
+  :sourcing :authoritative,
+  :filing-year 1959,
+  :assignee :hyland-laboratories,
+  :grant-year 1963,
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:shell-oil],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3089382/en",
+  :title "Method and apparatus for analyzing fluids",
+  :status :granted,
+  :id "US3089382",
+  :sourcing :authoritative,
+  :filing-year 1959,
+  :assignee :shell-oil,
+  :grant-year 1963,
+  :cites
+  ["CA466113A"
+   "US1840500"
+   "US2648253"
+   "US2764692"
+   "US2774277"
+   "US2775160"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:miles-laboratories],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3092465/en",
+  :title "Diagnostic test device for blood sugar",
+  :status :granted,
+  :id "US3092465",
+  :sourcing :authoritative,
+  :filing-year 1960,
+  :assignee :miles-laboratories,
+  :grant-year 1963,
+  :cites ["GB571181A" "US2140341" "US2567445" "US2912309"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:american-instr],
   :jurisdiction :us,
   :field "UNKNOWN",
   :source "https://patents.google.com/patent/US3092722/en",
@@ -23,6 +127,25 @@
    "US2901625"
    "US2936371"
    "US2984744"],
+  :term-years 20,
+  :open-license :none}
+ {:jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3093306/en",
+  :title "Fluid-operated timer",
+  :status :granted,
+  :id "US3093306",
+  :sourcing :authoritative,
+  :filing-year 1961,
+  :assignee :unassigned,
+  :grant-year 1963,
+  :cites
+  ["CA606733A"
+   "US2760511"
+   "US2970226"
+   "US3006144"
+   "US3010649"
+   "US3016066"],
   :term-years 20,
   :open-license :none}
  {:assignees [:jagenberg-werke],
@@ -331,6 +454,44 @@
   :cites ["US2534657" "US2547212" "US2709751" "US2712211" "US3036215"],
   :term-years 20,
   :open-license :none}
+ {:assignees [:general-electric],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3122062/en",
+  :title "Arc discharge controlled fluid amplifier",
+  :status :granted,
+  :id "US3122062",
+  :sourcing :authoritative,
+  :filing-year 1962,
+  :assignee :general-electric,
+  :grant-year 1964,
+  :cites ["US2782863" "US3001539" "US3001698" "US3016066"],
+  :term-years 20,
+  :open-license :none}
+ {:jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3122165/en",
+  :title "Fluid-operated system",
+  :status :granted,
+  :id "US3122165",
+  :sourcing :authoritative,
+  :filing-year 1960,
+  :assignee :unassigned,
+  :grant-year 1964,
+  :cites
+  ["US1795694"
+   "US2408603"
+   "US2408705"
+   "US2520172"
+   "US2630873"
+   "US2727525"
+   "US2851230"
+   "US2871656"
+   "US2875578"
+   "US2889856"
+   "US2936974"],
+  :term-years 20,
+  :open-license :none}
  {:assignees [:bell-telephone-laboratories],
   :jurisdiction :us,
   :field "UNKNOWN",
@@ -362,6 +523,33 @@
    "US2893844"
    "US3001915"
    "US458244"],
+  :term-years 20,
+  :open-license :none}
+ {:jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3123900/en",
+  :title
+  "Method of manufacture of a flow element or pulsation dampener",
+  :status :granted,
+  :id "US3123900",
+  :sourcing :authoritative,
+  :assignee :unassigned,
+  :grant-year 1964,
+  :cites
+  ["GB191109228A"
+   "US1759239"
+   "US1806738"
+   "US1913860"
+   "US2212186"
+   "US2445766"
+   "US2457420"
+   "US2721952"
+   "US2752672"
+   "US2768431"
+   "US2824364"
+   "US2833027"
+   "US2890885"
+   "US2944504"],
   :term-years 20,
   :open-license :none}
  {:jurisdiction :us,
@@ -546,6 +734,34 @@
   :cites ["US2332157" "US2550701" "US2624656" "US2710715" "US2950177"],
   :term-years 20,
   :open-license :none}
+ {:assignees [:sperry-rand],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3144037/en",
+  :title "Electro-sonic fluid amplifier",
+  :status :granted,
+  :id "US3144037",
+  :sourcing :authoritative,
+  :filing-year 1961,
+  :assignee :sperry-rand,
+  :grant-year 1964,
+  :cites ["US1628723" "US3001539" "US3001698" "US3016063" "US3016066"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:honeywell],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3144208/en",
+  :title "Controlled fluid unit",
+  :status :granted,
+  :id "US3144208",
+  :sourcing :authoritative,
+  :filing-year 1962,
+  :assignee :honeywell,
+  :grant-year 1964,
+  :cites ["US2836197" "US3001539"],
+  :term-years 20,
+  :open-license :none}
  {:assignees [:perkin-elmer],
   :jurisdiction :us,
   :field "UNKNOWN",
@@ -694,6 +910,27 @@
   :assignee :gevaert-photo-producten,
   :grant-year 1964,
   :cites ["US1970578" "US2630424" "US2716062"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:honeywell],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3159208/en",
+  :title "Fluid flow control device",
+  :status :granted,
+  :id "US3159208",
+  :sourcing :authoritative,
+  :filing-year 1961,
+  :assignee :honeywell,
+  :grant-year 1964,
+  :cites
+  ["US1927215"
+   "US2517812"
+   "US2889856"
+   "US3001539"
+   "US3016063"
+   "US3016066"
+   "US3030979"],
   :term-years 20,
   :open-license :none}
  {:assignees [:optron],
@@ -877,6 +1114,20 @@
   :assignee :upjohn,
   :grant-year 1965,
   :cites ["US3049536"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:international-business-machines],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3168897/en",
+  :title "Fluid control apparatus",
+  :status :granted,
+  :id "US3168897",
+  :sourcing :authoritative,
+  :filing-year 1961,
+  :assignee :international-business-machines,
+  :grant-year 1965,
+  :cites ["US3001539" "US3071154"],
   :term-years 20,
   :open-license :none}
  {:assignees [:monsanto],
@@ -1085,6 +1336,44 @@
   :cites ["US2876230" "US3049536" "US3074930"],
   :term-years 20,
   :open-license :none}
+ {:assignees [:sperry-rand],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3182674/en",
+  :title
+  "System and apparatus for producing, maintaining and controlling laminar fluid streamflow",
+  :status :granted,
+  :id "US3182674",
+  :sourcing :authoritative,
+  :filing-year 1961,
+  :assignee :sperry-rand,
+  :grant-year 1965,
+  :cites
+  ["US2130498"
+   "US2517820"
+   "US2760518"
+   "US2821205"
+   "US2838073"
+   "US2843138"
+   "US2995933"
+   "US3040760"
+   "US3099993"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:sperry-rand],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3182686/en",
+  :title "Transducer",
+  :status :granted,
+  :id "US3182686",
+  :sourcing :authoritative,
+  :filing-year 1962,
+  :assignee :sperry-rand,
+  :grant-year 1965,
+  :cites ["US2702559" "US2887294" "US2902251" "US3055631"],
+  :term-years 20,
+  :open-license :none}
  {:assignees [:fairchild-camera-and-instrument],
   :jurisdiction :us,
   :field "UNKNOWN",
@@ -1108,6 +1397,20 @@
    "US3079287"
    "US3085033"
    "US3108915"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:international-business-machines],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3187762/en",
+  :title "Electro-fluid apparatus",
+  :status :granted,
+  :id "US3187762",
+  :sourcing :authoritative,
+  :filing-year 1962,
+  :assignee :international-business-machines,
+  :grant-year 1965,
+  :cites ["FR1041060A" "US2932307" "US3001539" "US3053276"],
   :term-years 20,
   :open-license :none}
  {:jurisdiction :us,
@@ -8917,292 +9220,5 @@
   :assignee :syntex-usa,
   :grant-year 1975,
   :cites ["US3558595" "US3712885"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:united-medical-laboratories],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3873467/en",
-  :title "Hematologic reference control",
-  :status :granted,
-  :id "US3873467",
-  :sourcing :authoritative,
-  :filing-year 1974,
-  :assignee :united-medical-laboratories,
-  :grant-year 1975,
-  :cites ["US3558522" "US3574137" "US3632735" "US3640896"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:mochida-pharmaceutical],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3873682/en",
-  :title
-  "Filter for urine samples to be used in pregnancy tests and method of using same",
-  :status :granted,
-  :id "US3873682",
-  :sourcing :authoritative,
-  :filing-year 1972,
-  :assignee :mochida-pharmaceutical,
-  :grant-year 1975,
-  :cites
-  ["US3228877"
-   "US3462361"
-   "US3485751"
-   "US3488768"
-   "US3593854"
-   "US3616930"
-   "US3674865"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:fujizoki-pharmaceutical],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3873684/en",
-  :title
-  "Sensitized cell for use in the passive agglutination and method of preparing the same",
-  :status :granted,
-  :id "US3873684",
-  :sourcing :authoritative,
-  :filing-year 1973,
-  :assignee :fujizoki-pharmaceutical,
-  :grant-year 1975,
-  :cites ["US3553310"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:texas-instruments],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3873824/en",
-  :title "X-ray lithography mask",
-  :status :granted,
-  :id "US3873824",
-  :sourcing :authoritative,
-  :filing-year 1973,
-  :assignee :texas-instruments,
-  :grant-year 1975,
-  :cites ["US3742230"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:geometric-data],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3873974/en",
-  :title "Scanning system for location and classification of patterns",
-  :status :granted,
-  :id "US3873974",
-  :sourcing :authoritative,
-  :filing-year 1973,
-  :assignee :geometric-data,
-  :grant-year 1975,
-  :cites
-  ["US3315229"
-   "US3497690"
-   "US3501623"
-   "US3526876"
-   "US3714372"
-   "US3795792"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:honeywell],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3875401/en",
-  :title "Focus detecting apparatus",
-  :status :granted,
-  :id "US3875401",
-  :sourcing :authoritative,
-  :filing-year 1973,
-  :assignee :honeywell,
-  :grant-year 1975,
-  :cites
-  ["US2651771"
-   "US3516742"
-   "US3532045"
-   "US3617761"
-   "US3622797"
-   "US3623811"
-   "US3682071"
-   "US3723003"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:early-warning],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3876504/en",
-  :title
-  "Procedure for determination of antigens and antibodies and articles for use therewith",
-  :status :granted,
-  :id "US3876504",
-  :sourcing :authoritative,
-  :filing-year 1974,
-  :assignee :early-warning,
-  :grant-year 1975,
-  :cites ["US3236732" "US3654090"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:amf],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3876738/en",
-  :title "Process for producing microporous films and products",
-  :status :granted,
-  :id "US3876738",
-  :sourcing :authoritative,
-  :filing-year 1973,
-  :assignee :amf,
-  :grant-year 1975,
-  :cites
-  ["US2783894"
-   "US3000757"
-   "US3190765"
-   "US3208875"
-   "US3642668"
-   "US3699038"
-   "US3703570"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:syva],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3878187/en",
-  :title
-  "Polypeptide derivatives of amphetamine and analogs for immunoassays",
-  :status :granted,
-  :id "US3878187",
-  :sourcing :authoritative,
-  :filing-year 1972,
-  :assignee :syva,
-  :grant-year 1975,
-  :cites ["US3690834" "US3704282" "US3817837"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:akzona],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3879262/en",
-  :title "Detection and determination of haptens",
-  :status :granted,
-  :id "US3879262",
-  :sourcing :authoritative,
-  :filing-year 1973,
-  :assignee :akzona,
-  :grant-year 1975,
-  :cites ["US3766162" "US3775536" "US3817837"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:syntex-usa],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3880934/en",
-  :title "Nitrophenyloxy-butanediols",
-  :status :granted,
-  :id "US3880934",
-  :sourcing :authoritative,
-  :filing-year 1972,
-  :assignee :syntex-usa,
-  :grant-year 1975,
-  :cites ["GB714617A"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:american-cyanamid],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3882224/en",
-  :title "Reagents and tests for syphilis",
-  :status :granted,
-  :id "US3882224",
-  :sourcing :authoritative,
-  :filing-year 1973,
-  :assignee :american-cyanamid,
-  :grant-year 1975,
-  :cites
-  ["US2111976"
-   "US2112496"
-   "US2301717"
-   "US2770572"
-   "US3074853"
-   "US3666421"
-   "US3689632"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:miles-laboratories],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3882225/en",
-  :title "Direct agglutination immunological reagent",
-  :status :granted,
-  :id "US3882225",
-  :sourcing :authoritative,
-  :filing-year 1968,
-  :assignee :miles-laboratories,
-  :grant-year 1975,
-  :cites ["US2957808" "US3074853" "US3096250"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:wr-grace-and],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3883352/en",
-  :title "Process for forming a photocured solder resist",
-  :status :granted,
-  :id "US3883352",
-  :sourcing :authoritative,
-  :filing-year 1974,
-  :assignee :wr-grace-and,
-  :grant-year 1975,
-  :cites
-  ["US3376139"
-   "US3462267"
-   "US3615450"
-   "US3619393"
-   "US3701721"
-   "US3708413"
-   "US3753720"
-   "US3767398"
-   "US3770491"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:us-department-of-health-and-human-services],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3883393/en",
-  :title "Cell culture on semi-permeable tubular membranes",
-  :status :granted,
-  :id "US3883393",
-  :sourcing :authoritative,
-  :filing-year 1974,
-  :assignee :us-department-of-health-and-human-services,
-  :grant-year 1975,
-  :cites ["US3223595" "US3583907"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:macdermid],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3884704/en",
-  :title
-  "Catalyst system for activating surfaces prior to electroless deposition",
-  :status :granted,
-  :id "US3884704",
-  :sourcing :authoritative,
-  :filing-year 1973,
-  :assignee :macdermid,
-  :grant-year 1975,
-  :cites ["US3532518" "US3632388"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:bofors],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3884896/en",
-  :title
-  "New substrates for diagnostic use, with high susceptibility to thrombin and other proteolytic",
-  :status :granted,
-  :id "US3884896",
-  :sourcing :authoritative,
-  :filing-year 1973,
-  :assignee :bofors,
-  :grant-year 1975,
   :term-years 20,
   :open-license :none}]
