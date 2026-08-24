@@ -1,4 +1,70 @@
 [[":db/add"
+  "hirameki-patent:JP2000202947A"
+  ":hirameki.obs/release-status"
+  ":pending"]
+ [":db/add"
+  "hirameki-patent:JP2000202947A"
+  ":hirameki/sourcing"
+  ":authoritative"]
+ [":db/add" "hirameki-patent:JP2000202947A" ":hirameki/derived" true]
+ [":db/add"
+  "hirameki-patent:JP2000202947A"
+  ":hirameki.obs/years-to-expiry"
+  -7]
+ [":db/add"
+  "hirameki-patent:JP2000202947A"
+  ":hirameki/source"
+  "https://patents.google.com/patent/JP2000202947A/en"]
+ [":db/add"
+  "hirameki-patent:JP2000230115A"
+  ":hirameki.patent/title"
+  "Urethane-acrylic aqueous dispersion and method for producing the same"]
+ [":db/add"
+  "hirameki-patent:JP2000230115A"
+  ":hirameki.patent/jurisdiction"
+  ":jp"]
+ [":db/add"
+  "hirameki-patent:JP2000230115A"
+  ":hirameki.patent/field"
+  "UNKNOWN"]
+ [":db/add"
+  "hirameki-patent:JP2000230115A"
+  ":hirameki.patent/assignee"
+  ":nitto-denko"]
+ [":db/add"
+  "hirameki-patent:JP2000230115A"
+  ":hirameki.patent/status"
+  ":pending"]
+ [":db/add"
+  "hirameki-patent:JP2000230115A"
+  ":hirameki.patent/open-license"
+  ":none"]
+ [":db/add"
+  "hirameki-patent:JP2000230115A"
+  ":hirameki.obs/release-status"
+  ":pending"]
+ [":db/add"
+  "hirameki-patent:JP2000230115A"
+  ":hirameki/sourcing"
+  ":authoritative"]
+ [":db/add" "hirameki-patent:JP2000230115A" ":hirameki/derived" true]
+ [":db/add"
+  "hirameki-patent:JP2000230115A"
+  ":hirameki.obs/years-to-expiry"
+  -7]
+ [":db/add"
+  "hirameki-patent:JP2000230115A"
+  ":hirameki/source"
+  "https://patents.google.com/patent/JP2000230115A/en"]
+ [":db/add"
+  "hirameki-patent:JP2000256615A"
+  ":hirameki.patent/title"
+  "Two-component type water-borne coating composition with visible pot life"]
+ [":db/add"
+  "hirameki-patent:JP2000256615A"
+  ":hirameki.patent/jurisdiction"
+  ":jp"]
+ [":db/add"
   "hirameki-patent:JP2000256615A"
   ":hirameki.patent/field"
   "UNKNOWN"]
@@ -7230,6 +7296,47 @@
   ":hirameki/source"
   "https://patents.google.com/patent/US10584378B2/en"]
  [":db/add"
+  "hirameki-patent:US1070556"
+  ":hirameki.patent/title"
+  "Device for detecting suspended matter in gases."]
+ [":db/add"
+  "hirameki-patent:US1070556"
+  ":hirameki.patent/jurisdiction"
+  ":us"]
+ [":db/add"
+  "hirameki-patent:US1070556"
+  ":hirameki.patent/field"
+  "UNKNOWN"]
+ [":db/add"
+  "hirameki-patent:US1070556"
+  ":hirameki.patent/assignee"
+  ":unassigned"]
+ [":db/add"
+  "hirameki-patent:US1070556"
+  ":hirameki.patent/status"
+  ":granted"]
+ [":db/add"
+  "hirameki-patent:US1070556"
+  ":hirameki.patent/open-license"
+  ":none"]
+ [":db/add"
+  "hirameki-patent:US1070556"
+  ":hirameki.obs/release-status"
+  ":public-domain"]
+ [":db/add"
+  "hirameki-patent:US1070556"
+  ":hirameki/sourcing"
+  ":authoritative"]
+ [":db/add" "hirameki-patent:US1070556" ":hirameki/derived" true]
+ [":db/add"
+  "hirameki-patent:US1070556"
+  ":hirameki.obs/years-to-expiry"
+  -93]
+ [":db/add"
+  "hirameki-patent:US1070556"
+  ":hirameki/source"
+  "https://patents.google.com/patent/US1070556/en"]
+ [":db/add"
   "hirameki-patent:US1084636"
   ":hirameki.patent/title"
   "Device for scattering handbills and the like."]
@@ -7311,6 +7418,47 @@
   "hirameki-patent:US1095757"
   ":hirameki/source"
   "https://patents.google.com/patent/US1095757/en"]
+ [":db/add"
+  "hirameki-patent:US1168227"
+  ":hirameki.patent/title"
+  "Method and means for indicating suspended matter in gases."]
+ [":db/add"
+  "hirameki-patent:US1168227"
+  ":hirameki.patent/jurisdiction"
+  ":us"]
+ [":db/add"
+  "hirameki-patent:US1168227"
+  ":hirameki.patent/field"
+  "UNKNOWN"]
+ [":db/add"
+  "hirameki-patent:US1168227"
+  ":hirameki.patent/assignee"
+  ":international-precipitation"]
+ [":db/add"
+  "hirameki-patent:US1168227"
+  ":hirameki.patent/status"
+  ":granted"]
+ [":db/add"
+  "hirameki-patent:US1168227"
+  ":hirameki.patent/open-license"
+  ":none"]
+ [":db/add"
+  "hirameki-patent:US1168227"
+  ":hirameki.obs/release-status"
+  ":public-domain"]
+ [":db/add"
+  "hirameki-patent:US1168227"
+  ":hirameki/sourcing"
+  ":authoritative"]
+ [":db/add" "hirameki-patent:US1168227" ":hirameki/derived" true]
+ [":db/add"
+  "hirameki-patent:US1168227"
+  ":hirameki.obs/years-to-expiry"
+  -93]
+ [":db/add"
+  "hirameki-patent:US1168227"
+  ":hirameki/source"
+  "https://patents.google.com/patent/US1168227/en"]
  [":db/add"
   "hirameki-patent:US1202165"
   ":hirameki.patent/title"
@@ -8924,6 +9072,47 @@
   ":hirameki/source"
   "https://patents.google.com/patent/US1660974/en"]
  [":db/add"
+  "hirameki-patent:US1675967"
+  ":hirameki.patent/title"
+  "Comparator"]
+ [":db/add"
+  "hirameki-patent:US1675967"
+  ":hirameki.patent/jurisdiction"
+  ":us"]
+ [":db/add"
+  "hirameki-patent:US1675967"
+  ":hirameki.patent/field"
+  "UNKNOWN"]
+ [":db/add"
+  "hirameki-patent:US1675967"
+  ":hirameki.patent/assignee"
+  ":unassigned"]
+ [":db/add"
+  "hirameki-patent:US1675967"
+  ":hirameki.patent/status"
+  ":granted"]
+ [":db/add"
+  "hirameki-patent:US1675967"
+  ":hirameki.patent/open-license"
+  ":none"]
+ [":db/add"
+  "hirameki-patent:US1675967"
+  ":hirameki.obs/release-status"
+  ":public-domain"]
+ [":db/add"
+  "hirameki-patent:US1675967"
+  ":hirameki/sourcing"
+  ":authoritative"]
+ [":db/add" "hirameki-patent:US1675967" ":hirameki/derived" true]
+ [":db/add"
+  "hirameki-patent:US1675967"
+  ":hirameki.obs/years-to-expiry"
+  -79]
+ [":db/add"
+  "hirameki-patent:US1675967"
+  ":hirameki/source"
+  "https://patents.google.com/patent/US1675967/en"]
+ [":db/add"
   "hirameki-patent:US1678735"
   ":hirameki.patent/title"
   "Mixing machine"]
@@ -9816,201 +10005,4 @@
  [":db/add"
   "hirameki-patent:US1829802"
   ":hirameki/source"
-  "https://patents.google.com/patent/US1829802/en"]
- [":db/add"
-  "hirameki-patent:US1835741"
-  ":hirameki.patent/title"
-  "Method of manufacturing linoleum"]
- [":db/add"
-  "hirameki-patent:US1835741"
-  ":hirameki.patent/jurisdiction"
-  ":us"]
- [":db/add"
-  "hirameki-patent:US1835741"
-  ":hirameki.patent/field"
-  "UNKNOWN"]
- [":db/add"
-  "hirameki-patent:US1835741"
-  ":hirameki.patent/assignee"
-  ":congoleum-nairn"]
- [":db/add"
-  "hirameki-patent:US1835741"
-  ":hirameki.patent/status"
-  ":granted"]
- [":db/add"
-  "hirameki-patent:US1835741"
-  ":hirameki.patent/open-license"
-  ":none"]
- [":db/add"
-  "hirameki-patent:US1835741"
-  ":hirameki.obs/release-status"
-  ":public-domain"]
- [":db/add"
-  "hirameki-patent:US1835741"
-  ":hirameki/sourcing"
-  ":authoritative"]
- [":db/add" "hirameki-patent:US1835741" ":hirameki/derived" true]
- [":db/add"
-  "hirameki-patent:US1835741"
-  ":hirameki.obs/years-to-expiry"
-  -78]
- [":db/add"
-  "hirameki-patent:US1835741"
-  ":hirameki/source"
-  "https://patents.google.com/patent/US1835741/en"]
- [":db/add"
-  "hirameki-patent:US1838358"
-  ":hirameki.patent/title"
-  "Process for making coated paper"]
- [":db/add"
-  "hirameki-patent:US1838358"
-  ":hirameki.patent/jurisdiction"
-  ":us"]
- [":db/add"
-  "hirameki-patent:US1838358"
-  ":hirameki.patent/field"
-  "UNKNOWN"]
- [":db/add"
-  "hirameki-patent:US1838358"
-  ":hirameki.patent/assignee"
-  ":champion-coated-paper"]
- [":db/add"
-  "hirameki-patent:US1838358"
-  ":hirameki.patent/status"
-  ":granted"]
- [":db/add"
-  "hirameki-patent:US1838358"
-  ":hirameki.patent/open-license"
-  ":none"]
- [":db/add"
-  "hirameki-patent:US1838358"
-  ":hirameki.obs/release-status"
-  ":public-domain"]
- [":db/add"
-  "hirameki-patent:US1838358"
-  ":hirameki/sourcing"
-  ":authoritative"]
- [":db/add" "hirameki-patent:US1838358" ":hirameki/derived" true]
- [":db/add"
-  "hirameki-patent:US1838358"
-  ":hirameki.obs/years-to-expiry"
-  -77]
- [":db/add"
-  "hirameki-patent:US1838358"
-  ":hirameki/source"
-  "https://patents.google.com/patent/US1838358/en"]
- [":db/add"
-  "hirameki-patent:US1839310"
-  ":hirameki.patent/title"
-  "Packer and setting tool"]
- [":db/add"
-  "hirameki-patent:US1839310"
-  ":hirameki.patent/jurisdiction"
-  ":us"]
- [":db/add"
-  "hirameki-patent:US1839310"
-  ":hirameki.patent/field"
-  "UNKNOWN"]
- [":db/add"
-  "hirameki-patent:US1839310"
-  ":hirameki.patent/assignee"
-  ":unassigned"]
- [":db/add"
-  "hirameki-patent:US1839310"
-  ":hirameki.patent/status"
-  ":granted"]
- [":db/add"
-  "hirameki-patent:US1839310"
-  ":hirameki.patent/open-license"
-  ":none"]
- [":db/add"
-  "hirameki-patent:US1839310"
-  ":hirameki.obs/release-status"
-  ":public-domain"]
- [":db/add"
-  "hirameki-patent:US1839310"
-  ":hirameki/sourcing"
-  ":authoritative"]
- [":db/add" "hirameki-patent:US1839310" ":hirameki/derived" true]
- [":db/add"
-  "hirameki-patent:US1839310"
-  ":hirameki.obs/years-to-expiry"
-  -77]
- [":db/add"
-  "hirameki-patent:US1839310"
-  ":hirameki/source"
-  "https://patents.google.com/patent/US1839310/en"]
- [":db/add"
-  "hirameki-patent:US1840529"
-  ":hirameki.patent/title"
-  "Method of treating photo-sensitive bodies"]
- [":db/add"
-  "hirameki-patent:US1840529"
-  ":hirameki.patent/jurisdiction"
-  ":us"]
- [":db/add"
-  "hirameki-patent:US1840529"
-  ":hirameki.patent/field"
-  "UNKNOWN"]
- [":db/add"
-  "hirameki-patent:US1840529"
-  ":hirameki.patent/assignee"
-  ":firm-silfree"]
- [":db/add"
-  "hirameki-patent:US1840529"
-  ":hirameki.patent/status"
-  ":granted"]
- [":db/add"
-  "hirameki-patent:US1840529"
-  ":hirameki.patent/open-license"
-  ":none"]
- [":db/add"
-  "hirameki-patent:US1840529"
-  ":hirameki.obs/release-status"
-  ":public-domain"]
- [":db/add"
-  "hirameki-patent:US1840529"
-  ":hirameki/sourcing"
-  ":authoritative"]
- [":db/add" "hirameki-patent:US1840529" ":hirameki/derived" true]
- [":db/add"
-  "hirameki-patent:US1840529"
-  ":hirameki.obs/years-to-expiry"
-  -77]
- [":db/add"
-  "hirameki-patent:US1840529"
-  ":hirameki/source"
-  "https://patents.google.com/patent/US1840529/en"]
- [":db/add"
-  "hirameki-patent:US1842939"
-  ":hirameki.patent/title"
-  "Apparatus jfor storing and dispensing"]
- [":db/add"
-  "hirameki-patent:US1842939"
-  ":hirameki.patent/jurisdiction"
-  ":us"]
- [":db/add"
-  "hirameki-patent:US1842939"
-  ":hirameki.patent/field"
-  "UNKNOWN"]
- [":db/add"
-  "hirameki-patent:US1842939"
-  ":hirameki.patent/assignee"
-  ":unassigned"]
- [":db/add"
-  "hirameki-patent:US1842939"
-  ":hirameki.patent/status"
-  ":granted"]
- [":db/add"
-  "hirameki-patent:US1842939"
-  ":hirameki.patent/open-license"
-  ":none"]
- [":db/add"
-  "hirameki-patent:US1842939"
-  ":hirameki.obs/release-status"
-  ":in-force"]
- [":db/add"
-  "hirameki-patent:US1842939"
-  ":hirameki/sourcing"
-  ":authoritative"]
- [":db/add" "hirameki-patent:US1842939" ":hirameki/derived" true]]
+  "https://patents.google.com/patent/US1829802/en"]]
