@@ -1,4 +1,151 @@
-[{:assignees [:american-cyanamid],
+[{:jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3072362/en",
+  :title "Vial holder",
+  :status :granted,
+  :id "US3072362",
+  :sourcing :authoritative,
+  :filing-year 1962,
+  :assignee :unassigned,
+  :grant-year 1963,
+  :cites ["GB348858A" "US1870258" "US2919796"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:hynson-westcott-and-dunning],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3074853/en",
+  :title "Serological test card with color solid as visualizing agent",
+  :status :granted,
+  :id "US3074853",
+  :sourcing :authoritative,
+  :filing-year 1961,
+  :assignee :hynson-westcott-and-dunning,
+  :grant-year 1963,
+  :cites ["US2143088" "US2342409" "US2770372" "US2952585"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:swift-and],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3075887/en",
+  :title "Drying of bacterial cultures",
+  :status :granted,
+  :id "US3075887",
+  :sourcing :authoritative,
+  :filing-year 1960,
+  :assignee :swift-and,
+  :grant-year 1963,
+  :cites ["US1694807" "US2710810" "US2919194"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:dow-corning],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3076726/en",
+  :title "Siloxane coating method and article obtained therefrom",
+  :status :granted,
+  :id "US3076726",
+  :sourcing :authoritative,
+  :filing-year 1960,
+  :assignee :dow-corning,
+  :grant-year 1963,
+  :cites ["US2732318"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:takeda-pharmaceutical],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3079379/en",
+  :title "Method for the preparation of adenosine 5&#39;-triphosphate",
+  :status :granted,
+  :id "US3079379",
+  :sourcing :authoritative,
+  :filing-year 1960,
+  :assignee :takeda-pharmaceutical,
+  :grant-year 1963,
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:purex],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3080262/en",
+  :title
+  "Process for removal of radioactive contaminants from surfaces",
+  :status :granted,
+  :id "US3080262",
+  :sourcing :authoritative,
+  :filing-year 1959,
+  :assignee :purex,
+  :grant-year 1963,
+  :cites
+  ["US1899734"
+   "US2408096"
+   "US2584017"
+   "US2653860"
+   "US2843509"
+   "US2924576"
+   "US2952419"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:standard-oil],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3080746/en",
+  :title "Apparatus and method for testing liquids",
+  :status :granted,
+  :id "US3080746",
+  :sourcing :authoritative,
+  :filing-year 1959,
+  :assignee :standard-oil,
+  :grant-year 1963,
+  :cites ["US2671343" "US2692820" "US2728219"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:xerox],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3081165/en",
+  :title "Xerographic chemography",
+  :status :granted,
+  :id "US3081165",
+  :sourcing :authoritative,
+  :filing-year 1957,
+  :assignee :xerox,
+  :grant-year 1963,
+  :cites
+  ["US1574357"
+   "US1902213"
+   "US2297691"
+   "US2663636"
+   "US2692178"
+   "US2744859"
+   "US2756676"
+   "US2845348"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:deutsche-itt-industries],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3081203/en",
+  :title
+  "Method of removing hardened photoresist material from printed circuit conductors",
+  :status :granted,
+  :id "US3081203",
+  :sourcing :authoritative,
+  :filing-year 1960,
+  :assignee :deutsche-itt-industries,
+  :grant-year 1963,
+  :cites
+  ["US2338673"
+   "US2417468"
+   "US2435239"
+   "US2709666"
+   "US2737465"
+   "US2925332"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:american-cyanamid],
   :jurisdiction :us,
   :field "UNKNOWN",
   :source "https://patents.google.com/patent/US3082203/en",
@@ -782,6 +929,28 @@
    "US2969692"],
   :term-years 20,
   :open-license :none}
+ {:jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3144926/en",
+  :title "Installation for selectively dispatching articles",
+  :status :granted,
+  :id "US3144926",
+  :sourcing :authoritative,
+  :filing-year 1961,
+  :assignee :unassigned,
+  :grant-year 1964,
+  :cites
+  ["US1992687"
+   "US2000403"
+   "US2043293"
+   "US2294930"
+   "US2502503"
+   "US2824235"
+   "US2922893"
+   "US2998117"
+   "US3086121"],
+  :term-years 20,
+  :open-license :none}
  {:assignees [:combined-locks-paper],
   :jurisdiction :us,
   :field "UNKNOWN",
@@ -931,6 +1100,20 @@
    "US3016063"
    "US3016066"
    "US3030979"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:commercial-filters],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3161589/en",
+  :title "By-pass assembly for filters",
+  :status :granted,
+  :id "US3161589",
+  :sourcing :authoritative,
+  :filing-year 1962,
+  :assignee :commercial-filters,
+  :grant-year 1964,
+  :cites ["US2369857" "US2401039" "US2773602"],
   :term-years 20,
   :open-license :none}
  {:assignees [:optron],
@@ -1753,6 +1936,43 @@
   :assignee :armstrong-cork,
   :grant-year 1965,
   :cites ["US3112292"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:fisher-governor],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3215900/en",
+  :title "Fluid monitoring system",
+  :status :granted,
+  :id "US3215900",
+  :sourcing :authoritative,
+  :filing-year 1961,
+  :assignee :fisher-governor,
+  :grant-year 1965,
+  :cites
+  ["US2422742"
+   "US2607830"
+   "US2654067"
+   "US2759134"
+   "US2773556"
+   "US2783420"
+   "US2924756"
+   "US3005554"
+   "US3012193"
+   "US3043993"],
+  :term-years 20,
+  :open-license :none}
+ {:jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3217727/en",
+  :title "Pneumatic relaxation oscillator",
+  :status :granted,
+  :id "US3217727",
+  :sourcing :authoritative,
+  :filing-year 1963,
+  :assignee :unassigned,
+  :grant-year 1965,
+  :cites ["US3001539" "US3144309" "US3153934"],
   :term-years 20,
   :open-license :none}
  {:jurisdiction :us,
@@ -3053,6 +3273,21 @@
    "US3108017"],
   :term-years 20,
   :open-license :none}
+ {:assignees [:bp],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3320428/en",
+  :title
+  "Photosensitive apparatus for detecting solid particles suspended in liquid",
+  :status :granted,
+  :id "US3320428",
+  :sourcing :authoritative,
+  :filing-year 1964,
+  :assignee :bp,
+  :grant-year 1967,
+  :cites ["US2873644" "US3111837" "US3138650" "US3202826" "US3234846"],
+  :term-years 20,
+  :open-license :none}
  {:assignees [:behringwerke],
   :jurisdiction :us,
   :field "UNKNOWN",
@@ -3287,6 +3522,20 @@
   :assignee :pittsburgh-plate-glass,
   :grant-year 1967,
   :cites ["AT225395B" "US1832847" "US2163566" "US2877876" "US3055468"],
+  :term-years 20,
+  :open-license :none}
+ {:jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3335724/en",
+  :title
+  "Remote control, repeating, variable stroke hypodermic syringe device",
+  :status :granted,
+  :id "US3335724",
+  :sourcing :authoritative,
+  :filing-year 1964,
+  :assignee :unassigned,
+  :grant-year 1967,
+  :cites ["US1966498" "US2435440" "US2602446" "US2644450" "US2645224"],
   :term-years 20,
   :open-license :none}
  {:assignees [:upjohn],
@@ -3619,6 +3868,20 @@
   :assignee :general-electric,
   :grant-year 1968,
   :cites ["US3163531"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:atomic-energy-commission-usa],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3380584/en",
+  :title "Particle separator",
+  :status :granted,
+  :id "US3380584",
+  :sourcing :authoritative,
+  :filing-year 1965,
+  :assignee :atomic-energy-commission-usa,
+  :grant-year 1968,
+  :cites ["US2646880" "US2656508" "US2756388" "US3123541" "US3124172"],
   :term-years 20,
   :open-license :none}
  {:assignees [:er-squibb-and-sons],
@@ -4359,6 +4622,20 @@
    "US2978029"],
   :term-years 20,
   :open-license :none}
+ {:assignees [:recognition-equipment],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3460673/en",
+  :title "Document sorting apparatus",
+  :status :granted,
+  :id "US3460673",
+  :sourcing :authoritative,
+  :filing-year 1967,
+  :assignee :recognition-equipment,
+  :grant-year 1969,
+  :cites ["US3038607" "US3352417" "US3368672"],
+  :term-years 20,
+  :open-license :none}
  {:assignees [:upjohn],
   :jurisdiction :us,
   :field "UNKNOWN",
@@ -4385,6 +4662,27 @@
   :assignee :alpana-aluminum-products,
   :grant-year 1969,
   :cites ["US2843233" "US2912077" "US2952883" "US3336719"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:sperry-rand],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3463566/en",
+  :title "Automatic article-handling system",
+  :status :granted,
+  :id "US3463566",
+  :sourcing :authoritative,
+  :filing-year 1967,
+  :assignee :sperry-rand,
+  :grant-year 1969,
+  :cites
+  ["US2386520"
+   "US2707666"
+   "US2965291"
+   "US2974803"
+   "US3049247"
+   "US3076566"
+   "US3297379"],
   :term-years 20,
   :open-license :none}
  {:jurisdiction :us,
@@ -5023,6 +5321,20 @@
   :assignee :unassigned,
   :grant-year 1970,
   :cites ["US2532063" "US3038369" "US3039002" "US3230308" "US3372266"],
+  :term-years 20,
+  :open-license :none}
+ {:jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3516654/en",
+  :title
+  "Sheet sorter having automatic sheet feed control and restart",
+  :status :granted,
+  :id "US3516654",
+  :sourcing :authoritative,
+  :filing-year 1968,
+  :assignee :unassigned,
+  :grant-year 1970,
+  :cites ["US3356362" "US3414254" "US3420517"],
   :term-years 20,
   :open-license :none}
  {:assignees [:voigtlander],
@@ -5908,6 +6220,20 @@
   :cites ["US2831057" "US2838600"],
   :term-years 20,
   :open-license :none}
+ {:assignees [:rapistan],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3612250/en",
+  :title "Recirculation limit system for conveyors",
+  :status :granted,
+  :id "US3612250",
+  :sourcing :authoritative,
+  :filing-year 1970,
+  :assignee :rapistan,
+  :grant-year 1971,
+  :cites ["US3075653"],
+  :term-years 20,
+  :open-license :none}
  {:assignees [:deutsche-itt-industries],
   :jurisdiction :us,
   :field "UNKNOWN",
@@ -6616,6 +6942,28 @@
   :assignee :medstar-research-institute,
   :grant-year 1972,
   :cites ["US2734377" "US3131521" "US3368872"],
+  :term-years 20,
+  :open-license :none}
+ {:jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3675768/en",
+  :title
+  "Method and apparatus for classifying and segregating particles with electrical and optical means",
+  :status :granted,
+  :id "US3675768",
+  :sourcing :authoritative,
+  :filing-year 1969,
+  :assignee :unassigned,
+  :grant-year 1972,
+  :cites
+  ["US2587686"
+   "US2920525"
+   "US2942689"
+   "US3025464"
+   "US3233173"
+   "US3259842"
+   "US3361965"
+   "US3390326"],
   :term-years 20,
   :open-license :none}
  {:assignees [:f-hoffmann-la-roche],
@@ -8885,340 +9233,5 @@
   :assignee :syva,
   :grant-year 1974,
   :cites ["US3639558" "US3654090"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:general-electric],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3853467/en",
-  :title
-  "Method and apparatus for immunological detection of biological particles",
-  :status :granted,
-  :id "US3853467",
-  :sourcing :authoritative,
-  :filing-year 1973,
-  :assignee :general-electric,
-  :grant-year 1974,
-  :cites ["US3250596" "US3492396" "US3646346" "US3770380"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:nat-res-dev],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3853712/en",
-  :title "Cell culture systems",
-  :status :granted,
-  :id "US3853712",
-  :sourcing :authoritative,
-  :filing-year 1972,
-  :assignee :nat-res-dev,
-  :grant-year 1974,
-  :cites ["US2522947" "US3102082" "US3281307" "US3740321"],
-  :term-years 20,
-  :open-license :none}
- {:jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3853987/en",
-  :title "Immunological reagent and radioimmuno assay",
-  :status :granted,
-  :id "US3853987",
-  :sourcing :authoritative,
-  :filing-year 1971,
-  :assignee :unassigned,
-  :grant-year 1974,
-  :cites ["US3234096" "US3505019" "US3555143" "US3592888" "US3646346"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:f-hoffmann-la-roche],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3857931/en",
-  :title "Latex polymer reagents for diagnostic tests",
-  :status :granted,
-  :id "US3857931",
-  :sourcing :authoritative,
-  :filing-year 1972,
-  :assignee :f-hoffmann-la-roche,
-  :grant-year 1974,
-  :cites
-  ["GB1172768A"
-   "US3502545"
-   "US3639558"
-   "US3652761"
-   "US3709868"
-   "US3720760"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:polymeric-enzymes],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3859169/en",
-  :title "Enzymes entrapped in gels",
-  :status :granted,
-  :id "US3859169",
-  :sourcing :authoritative,
-  :filing-year 1973,
-  :assignee :polymeric-enzymes,
-  :grant-year 1975,
-  :cites ["US3540984" "US3576760" "US3577512"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:us-department-of-navy],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3859430/en",
-  :title
-  "Radioactive iodine labeling of viruses, enzymes and flourescene isothyiocyanate",
-  :status :granted,
-  :id "US3859430",
-  :sourcing :authoritative,
-  :filing-year 1973,
-  :assignee :us-department-of-navy,
-  :grant-year 1975,
-  :cites ["DE1817308A1"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:honeywell],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3860935/en",
-  :title "Auto focus camera",
-  :status :granted,
-  :id "US3860935",
-  :sourcing :authoritative,
-  :filing-year 1973,
-  :assignee :honeywell,
-  :grant-year 1975,
-  :cites
-  ["US3336851"
-   "US3450883"
-   "US3571598"
-   "US3596101"
-   "US3610934"
-   "US3614456"
-   "US3691922"
-   "US3708619"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:perkin-elmer],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3861809/en",
-  :title "Confocal cavity optical gas sensor",
-  :status :granted,
-  :id "US3861809",
-  :sourcing :authoritative,
-  :filing-year 1973,
-  :assignee :perkin-elmer,
-  :grant-year 1975,
-  :cites
-  ["US3089382"
-   "US3250174"
-   "US3588496"
-   "US3696247"
-   "US3704951"
-   "US3728540"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:allied-chemical],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3862056/en",
-  :title
-  "Semiconductor polymer compositions comprising a grafted block copolymer of synthetic rubber and polyolefin and carbon black",
-  :status :granted,
-  :id "US3862056",
-  :sourcing :authoritative,
-  :filing-year 1972,
-  :assignee :allied-chemical,
-  :grant-year 1975,
-  :cites ["US2597741" "US3639163"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:corning-glass-works],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3864564/en",
-  :title "Acquisition system for slide analysis",
-  :status :granted,
-  :id "US3864564",
-  :sourcing :authoritative,
-  :filing-year 1973,
-  :assignee :corning-glass-works,
-  :grant-year 1975,
-  :cites ["US2859653" "US3466514" "US3515877" "US3541338"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:albert-einstein-college-of-medicine],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3865548/en",
-  :title "Analytical apparatus and process",
-  :status :granted,
-  :id "US3865548",
-  :sourcing :authoritative,
-  :filing-year 1973,
-  :assignee :albert-einstein-college-of-medicine,
-  :grant-year 1975,
-  :cites
-  ["US2888331"
-   "US3000706"
-   "US3123444"
-   "US3227523"
-   "US3367850"
-   "US3480399"
-   "US3539300"
-   "US3573470"
-   "US3657073"
-   "US3660037"
-   "US3706381"
-   "US3748098"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:nat-res-dev],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3865550/en",
-  :title "Semi-conducting gas sensitive devices",
-  :status :granted,
-  :id "US3865550",
-  :sourcing :authoritative,
-  :filing-year 1973,
-  :assignee :nat-res-dev,
-  :grant-year 1975,
-  :cites
-  ["US3036895"
-   "US3255324"
-   "US3340014"
-   "US3479257"
-   "US3558280"
-   "US3567383"
-   "US3598762"
-   "US3631436"
-   "US3676820"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:warren-industries],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3866380/en",
-  :title "Connector for window spacer assembly",
-  :status :granted,
-  :id "US3866380",
-  :sourcing :authoritative,
-  :filing-year 1974,
-  :assignee :warren-industries,
-  :grant-year 1975,
-  :cites
-  ["US2989788"
-   "US3105274"
-   "US3307316"
-   "US3356403"
-   "US3368836"
-   "US3435511"
-   "US3485519"
-   "US3546842"
-   "US3553913"
-   "US3606419"
-   "US3627359"
-   "US3643989"
-   "US3782054"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:synvar-associates-a-k-a-syva-c],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3867366/en",
-  :title "Opiate imidates and protein conjugates thereof",
-  :status :granted,
-  :id "US3867366",
-  :sourcing :authoritative,
-  :filing-year 1973,
-  :assignee :synvar-associates-a-k-a-syva-c,
-  :grant-year 1975,
-  :cites ["US3690834"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:abbott-laboratories],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3867517/en",
-  :title "Direct radioimmunoassay for antigens and their antibodies",
-  :status :granted,
-  :id "US3867517",
-  :sourcing :authoritative,
-  :filing-year 1971,
-  :assignee :abbott-laboratories,
-  :grant-year 1975,
-  :cites ["US3592888" "US3646346"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:akzona],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3868219/en",
-  :title
-  "Determination of HCG glucose and galactose in body fluids with chromogenic indicators",
-  :status :granted,
-  :id "US3868219",
-  :sourcing :authoritative,
-  :filing-year 1973,
-  :assignee :akzona,
-  :grant-year 1975,
-  :cites
-  ["US3008879"
-   "US3092465"
-   "US3099605"
-   "US3123443"
-   "US3411863"
-   "US3415361"
-   "US3453180"
-   "US3598704"
-   "US3619110"
-   "US3627698"
-   "US3663357"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:instrumentation-laboratory],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3869215/en",
-  :title
-  "Sample cell assembly having a heat conductive chamber surrounded by an electrothermal heating layer",
-  :status :granted,
-  :id "US3869215",
-  :sourcing :authoritative,
-  :filing-year 1974,
-  :assignee :instrumentation-laboratory,
-  :grant-year 1975,
-  :cites ["US3619073"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:us-department-of-navy],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3869354/en",
-  :title "Ammonium ion specific electrode and method therewith",
-  :status :granted,
-  :id "US3869354",
-  :sourcing :authoritative,
-  :filing-year 1973,
-  :assignee :us-department-of-navy,
-  :grant-year 1975,
-  :cites ["US3357908" "US3649505" "US3673069" "US3689222" "US3776819"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:syntex-usa],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3872098/en",
-  :title "1,n{hu 6{b ethenoadenosine cyclophosphate compounds",
-  :status :granted,
-  :id "US3872098",
-  :sourcing :authoritative,
-  :filing-year 1973,
-  :assignee :syntex-usa,
-  :grant-year 1975,
-  :cites ["US3558595" "US3712885"],
   :term-years 20,
   :open-license :none}]

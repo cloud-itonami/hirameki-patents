@@ -7352,6 +7352,37 @@
    "US2780225"],
   :term-years 20,
   :open-license :none}
+ {:assignees [:lehigh],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2896763/en",
+  :title "Vending machine",
+  :status :granted,
+  :id "US2896763",
+  :sourcing :authoritative,
+  :filing-year 1954,
+  :assignee :lehigh,
+  :grant-year 1959,
+  :cites
+  ["GB451694A"
+   "NL73584C"
+   "US1891908"
+   "US2153113"
+   "US2224646"
+   "US2231494"
+   "US2237132"
+   "US2295000"
+   "US2323981"
+   "US2333176"
+   "US2526512"
+   "US2552156"
+   "US2589214"
+   "US2615545"
+   "US2642974"
+   "US2659470"
+   "US2731621"],
+  :term-years 20,
+  :open-license :none}
  {:assignees [:ei-du-pont-de-nemours-and],
   :jurisdiction :us,
   :field "UNKNOWN",
@@ -7400,6 +7431,19 @@
    "US2654853"
    "US2659670"
    "US2662832"],
+  :term-years 20,
+  :open-license :none}
+ {:jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2905169/en",
+  :title "Device for cancer detection",
+  :status :granted,
+  :id "US2905169",
+  :sourcing :authoritative,
+  :filing-year 1955,
+  :assignee :unassigned,
+  :grant-year 1959,
+  :cites ["US2046566"],
   :term-years 20,
   :open-license :none}
  {:assignees [:ei-du-pont-de-nemours-and],
@@ -7644,6 +7688,19 @@
    "US2611436"
    "US2618344"
    "US2633916"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:philco-ford],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2922893/en",
+  :title "Document identifying system",
+  :status :granted,
+  :id "US2922893",
+  :sourcing :authoritative,
+  :filing-year 1954,
+  :assignee :philco-ford,
+  :grant-year 1960,
   :term-years 20,
   :open-license :none}
  {:assignees [:glanzstoff],
@@ -8035,6 +8092,56 @@
    "US815192"],
   :term-years 20,
   :open-license :none}
+ {:jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2950799/en",
+  :title
+  "Apparatus for identifying paper money, or the like, as genuine, and for making change or the like",
+  :status :granted,
+  :id "US2950799",
+  :sourcing :authoritative,
+  :filing-year 1952,
+  :assignee :unassigned,
+  :grant-year 1960,
+  :cites
+  ["GB722384A"
+   "US1341463"
+   "US1555249"
+   "US1634074"
+   "US1751120"
+   "US1756016"
+   "US1819719"
+   "US1824745"
+   "US1943940"
+   "US2114867"
+   "US2138645"
+   "US2160603"
+   "US2215805"
+   "US2246501"
+   "US2251828"
+   "US2263017"
+   "US2292628"
+   "US2293017"
+   "US2300695"
+   "US2311101"
+   "US2319108"
+   "US2319833"
+   "US2323647"
+   "US2352650"
+   "US2381990"
+   "US2399582"
+   "US2429159"
+   "US2454628"
+   "US2486845"
+   "US2522544"
+   "US2565734"
+   "US2627961"
+   "US2646717"
+   "US2659470"
+   "US2679317"
+   "US935963"],
+  :term-years 20,
+  :open-license :none}
  {:assignees [:american-cyanamid],
   :jurisdiction :us,
   :field "UNKNOWN",
@@ -8131,6 +8238,19 @@
   :assignee :california-institute-research-foundation,
   :grant-year 1960,
   :cites ["US2128202" "US2205882" "US2243213"],
+  :term-years 20,
+  :open-license :none}
+ {:jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2961302/en",
+  :title "Laboratory apparatus",
+  :status :granted,
+  :id "US2961302",
+  :sourcing :authoritative,
+  :filing-year 1957,
+  :assignee :unassigned,
+  :grant-year 1960,
+  :cites ["US1954093" "US2105056" "US2480083" "US2553463" "US9779"],
   :term-years 20,
   :open-license :none}
  {:assignees [:zenith-radio],
@@ -8585,6 +8705,20 @@
   :assignee :fairchild-semiconductor,
   :grant-year 1961,
   :cites ["US2813326" "US2836878" "US2842723" "US2849664"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:general-electric],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2983822/en",
+  :title "Form recognition method and system therefor",
+  :status :granted,
+  :id "US2983822",
+  :sourcing :authoritative,
+  :filing-year 1957,
+  :assignee :general-electric,
+  :grant-year 1961,
+  :cites ["US2610789" "US2738499" "US2781169"],
   :term-years 20,
   :open-license :none}
  {:assignees [:phillips-petroleum],
@@ -9537,6 +9671,20 @@
    "US936842"],
   :term-years 20,
   :open-license :none}
+ {:assignees [:floyd-v-richardson],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3052353/en",
+  :title "Ore sorting device",
+  :status :granted,
+  :id "US3052353",
+  :sourcing :authoritative,
+  :filing-year 1958,
+  :assignee :floyd-v-richardson,
+  :grant-year 1962,
+  :cites ["US2362774" "US2617526" "US2630043" "US2717693"],
+  :term-years 20,
+  :open-license :none}
  {:jurisdiction :us,
   :field "UNKNOWN",
   :source "https://patents.google.com/patent/US3056935/en",
@@ -9823,150 +9971,23 @@
   :cites ["US2621171" "US2658058" "US2920065"],
   :term-years 20,
   :open-license :none}
- {:jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3072362/en",
-  :title "Vial holder",
-  :status :granted,
-  :id "US3072362",
-  :sourcing :authoritative,
-  :filing-year 1962,
-  :assignee :unassigned,
-  :grant-year 1963,
-  :cites ["GB348858A" "US1870258" "US2919796"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:hynson-westcott-and-dunning],
+ {:assignees [:universal-match],
   :jurisdiction :us,
   :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3074853/en",
-  :title "Serological test card with color solid as visualizing agent",
+  :source "https://patents.google.com/patent/US3072237/en",
+  :title "Currency exchange apparatus",
   :status :granted,
-  :id "US3074853",
+  :id "US3072237",
   :sourcing :authoritative,
   :filing-year 1961,
-  :assignee :hynson-westcott-and-dunning,
-  :grant-year 1963,
-  :cites ["US2143088" "US2342409" "US2770372" "US2952585"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:swift-and],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3075887/en",
-  :title "Drying of bacterial cultures",
-  :status :granted,
-  :id "US3075887",
-  :sourcing :authoritative,
-  :filing-year 1960,
-  :assignee :swift-and,
-  :grant-year 1963,
-  :cites ["US1694807" "US2710810" "US2919194"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:dow-corning],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3076726/en",
-  :title "Siloxane coating method and article obtained therefrom",
-  :status :granted,
-  :id "US3076726",
-  :sourcing :authoritative,
-  :filing-year 1960,
-  :assignee :dow-corning,
-  :grant-year 1963,
-  :cites ["US2732318"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:takeda-pharmaceutical],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3079379/en",
-  :title "Method for the preparation of adenosine 5&#39;-triphosphate",
-  :status :granted,
-  :id "US3079379",
-  :sourcing :authoritative,
-  :filing-year 1960,
-  :assignee :takeda-pharmaceutical,
-  :grant-year 1963,
-  :term-years 20,
-  :open-license :none}
- {:assignees [:purex],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3080262/en",
-  :title
-  "Process for removal of radioactive contaminants from surfaces",
-  :status :granted,
-  :id "US3080262",
-  :sourcing :authoritative,
-  :filing-year 1959,
-  :assignee :purex,
+  :assignee :universal-match,
   :grant-year 1963,
   :cites
-  ["US1899734"
-   "US2408096"
-   "US2584017"
-   "US2653860"
-   "US2843509"
-   "US2924576"
-   "US2952419"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:standard-oil],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3080746/en",
-  :title "Apparatus and method for testing liquids",
-  :status :granted,
-  :id "US3080746",
-  :sourcing :authoritative,
-  :filing-year 1959,
-  :assignee :standard-oil,
-  :grant-year 1963,
-  :cites ["US2671343" "US2692820" "US2728219"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:xerox],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3081165/en",
-  :title "Xerographic chemography",
-  :status :granted,
-  :id "US3081165",
-  :sourcing :authoritative,
-  :filing-year 1957,
-  :assignee :xerox,
-  :grant-year 1963,
-  :cites
-  ["US1574357"
-   "US1902213"
-   "US2297691"
-   "US2663636"
-   "US2692178"
-   "US2744859"
-   "US2756676"
-   "US2845348"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:deutsche-itt-industries],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3081203/en",
-  :title
-  "Method of removing hardened photoresist material from printed circuit conductors",
-  :status :granted,
-  :id "US3081203",
-  :sourcing :authoritative,
-  :filing-year 1960,
-  :assignee :deutsche-itt-industries,
-  :grant-year 1963,
-  :cites
-  ["US2338673"
-   "US2417468"
-   "US2435239"
-   "US2709666"
-   "US2737465"
-   "US2925332"],
+  ["US1081958"
+   "US1827312"
+   "US2271397"
+   "US2909107"
+   "US2950799"
+   "US2995976"],
   :term-years 20,
   :open-license :none}]
