@@ -1,4 +1,79 @@
-[{:assignees [:murray-liquafilm],
+[{:jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2309268/en",
+  :title "Prismatic system",
+  :status :granted,
+  :id "US2309268",
+  :sourcing :authoritative,
+  :filing-year 1941,
+  :assignee :unassigned,
+  :grant-year 1943,
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:kobe],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2310397/en",
+  :title "Method of packing wells",
+  :status :granted,
+  :id "US2310397",
+  :sourcing :authoritative,
+  :filing-year 1940,
+  :assignee :kobe,
+  :grant-year 1943,
+  :term-years 20,
+  :open-license :none}
+ {:jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2311976/en",
+  :title "ph measurement and control device",
+  :status :granted,
+  :id "US2311976",
+  :sourcing :authoritative,
+  :filing-year 1939,
+  :assignee :unassigned,
+  :grant-year 1943,
+  :term-years 20,
+  :open-license :none}
+ {:jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2311977/en",
+  :title "Ion activity measurement device",
+  :status :granted,
+  :id "US2311977",
+  :sourcing :authoritative,
+  :filing-year 1940,
+  :assignee :unassigned,
+  :grant-year 1943,
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:okonite],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2312024/en",
+  :title "Insulated electric conductor",
+  :status :granted,
+  :id "US2312024",
+  :sourcing :authoritative,
+  :filing-year 1937,
+  :assignee :okonite,
+  :grant-year 1943,
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:texaco],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2312862/en",
+  :title "Method and apparatus for completing wells",
+  :status :granted,
+  :id "US2312862",
+  :sourcing :authoritative,
+  :filing-year 1940,
+  :assignee :texaco,
+  :grant-year 1943,
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:murray-liquafilm],
   :jurisdiction :us,
   :field "UNKNOWN",
   :source "https://patents.google.com/patent/US2312927/en",
@@ -5197,6 +5272,20 @@
    "US2654681"],
   :term-years 20,
   :open-license :none}
+ {:assignees [:precision-scientific],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2768948/en",
+  :title "Method and apparatus for ionography",
+  :status :granted,
+  :id "US2768948",
+  :sourcing :authoritative,
+  :filing-year 1952,
+  :assignee :precision-scientific,
+  :grant-year 1956,
+  :cites ["US2118957" "US2555487"],
+  :term-years 20,
+  :open-license :none}
  {:assignees [:exxon-research-and-engineering],
   :jurisdiction :us,
   :field "UNKNOWN",
@@ -6056,6 +6145,20 @@
   :assignee :phillips-petroleum,
   :grant-year 1958,
   :cites ["BE533362A" "CA502597A" "US2520601" "US2712189"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:beckman-instruments],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2834729/en",
+  :title "Electrophoresis apparatus",
+  :status :granted,
+  :id "US2834729",
+  :sourcing :authoritative,
+  :filing-year 1955,
+  :assignee :beckman-instruments,
+  :grant-year 1958,
+  :cites ["DE842863C" "DE865379C" "FR1057440A" "GB647630A"],
   :term-years 20,
   :open-license :none}
  {:assignees [:polaroid],
@@ -8284,6 +8387,21 @@
    "US2881078"],
   :term-years 20,
   :open-license :none}
+ {:assignees [:miles-laboratories],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3008879/en",
+  :title
+  "Diagnostic composition for the quantitative determination of glucose",
+  :status :granted,
+  :id "US3008879",
+  :sourcing :authoritative,
+  :filing-year 1960,
+  :assignee :miles-laboratories,
+  :grant-year 1961,
+  :cites ["US2893843"],
+  :term-years 20,
+  :open-license :none}
  {:assignees [:becton-dickinson-and],
   :jurisdiction :us,
   :field "UNKNOWN",
@@ -8930,6 +9048,20 @@
    "US2941894"],
   :term-years 20,
   :open-license :none}
+ {:assignees [:champion],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3057775/en",
+  :title "Embalming composition",
+  :status :granted,
+  :id "US3057775",
+  :sourcing :authoritative,
+  :filing-year 1959,
+  :assignee :champion,
+  :grant-year 1962,
+  :cites ["US2113842" "US2333182" "US2801216"],
+  :term-years 20,
+  :open-license :none}
  {:jurisdiction :us,
   :field "UNKNOWN",
   :source "https://patents.google.com/patent/US3057953/en",
@@ -9556,6 +9688,20 @@
    "US2979410"],
   :term-years 20,
   :open-license :none}
+ {:assignees [:miles-laboratories],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3099605/en",
+  :title "Diagnostic composition",
+  :status :granted,
+  :id "US3099605",
+  :sourcing :authoritative,
+  :filing-year 1960,
+  :assignee :miles-laboratories,
+  :grant-year 1963,
+  :cites ["US2848308"],
+  :term-years 20,
+  :open-license :none}
  {:assignees [:mead],
   :jurisdiction :us,
   :field "UNKNOWN",
@@ -9755,6 +9901,25 @@
   :open-license :none}
  {:jurisdiction :us,
   :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3123443/en",
+  :title "Composition for diagnosing glucose",
+  :status :granted,
+  :id "US3123443",
+  :sourcing :authoritative,
+  :assignee :unassigned,
+  :grant-year 1964,
+  :cites
+  ["US1103283"
+   "US2337562"
+   "US2768143"
+   "US2864725"
+   "US2893844"
+   "US3001915"
+   "US458244"],
+  :term-years 20,
+  :open-license :none}
+ {:jurisdiction :us,
+  :field "UNKNOWN",
   :source "https://patents.google.com/patent/US3127363/en",
   :title "Process for the manufacture of elasto-",
   :status :granted,
@@ -9809,173 +9974,5 @@
   :assignee :unassigned,
   :grant-year 1964,
   :cites ["US1523286" "US2399125" "US2603293" "US2922478"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:phillips-petroleum],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3131521/en",
-  :title "Heat sealing thermoplastic packages",
-  :status :granted,
-  :id "US3131521",
-  :sourcing :authoritative,
-  :filing-year 1961,
-  :assignee :phillips-petroleum,
-  :grant-year 1964,
-  :cites
-  ["US2738631"
-   "US2877121"
-   "US2896387"
-   "US2916864"
-   "US3001348"
-   "US3018594"],
-  :term-years 20,
-  :open-license :none}
- {:jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3132029/en",
-  :title "Method of providing a cooked meat and sauce package",
-  :status :granted,
-  :id "US3132029",
-  :sourcing :authoritative,
-  :filing-year 1961,
-  :assignee :unassigned,
-  :grant-year 1964,
-  :cites
-  ["US1058682"
-   "US2231791"
-   "US2369765"
-   "US2380134"
-   "US2398082"
-   "US2633284"
-   "US2807550"
-   "US2881078"
-   "US3037869"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:dow-chemical],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3133825/en",
-  :title
-  "Fluid vinyl chloride polymer compositions, and rigid cross-linked vinyl chloride polymeric products having reinforcing fibrous material embedded therein, and method of making the same",
-  :status :granted,
-  :id "US3133825",
-  :sourcing :authoritative,
-  :filing-year 1960,
-  :assignee :dow-chemical,
-  :grant-year 1964,
-  :cites ["US2567719" "US2922768" "US2951772"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:meiji-seika-kaisha],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3135666/en",
-  :title
-  "Process for the production of nucleosides and nucleotides by microorganisms",
-  :status :granted,
-  :id "US3135666",
-  :sourcing :authoritative,
-  :filing-year 1961,
-  :assignee :meiji-seika-kaisha,
-  :grant-year 1964,
-  :term-years 20,
-  :open-license :none}
- {:assignees [:entpr-paint-manufacturing],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3137666/en",
-  :title
-  "Modified high molecular weight polyvinyl chloride resin coatings for metal, compositions and method of coating",
-  :status :granted,
-  :id "US3137666",
-  :sourcing :authoritative,
-  :filing-year 1958,
-  :assignee :entpr-paint-manufacturing,
-  :grant-year 1964,
-  :cites
-  ["US2337424"
-   "US2411590"
-   "US2563898"
-   "US2581908"
-   "US2607754"
-   "US2637621"
-   "US2743192"
-   "US2795565"
-   "US2843557"
-   "US2844557"
-   "US2892808"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:exxon-research-and-engineering],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3140278/en",
-  :title "Block homopolymers of 1, 3 dienes",
-  :status :granted,
-  :id "US3140278",
-  :sourcing :authoritative,
-  :filing-year 1960,
-  :assignee :exxon-research-and-engineering,
-  :grant-year 1964,
-  :term-years 20,
-  :open-license :none}
- {:jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3143393/en",
-  :title
-  "Apparatus for automatically performing chemical operations and similar or related operations",
-  :status :granted,
-  :id "US3143393",
-  :sourcing :authoritative,
-  :filing-year 1960,
-  :assignee :unassigned,
-  :grant-year 1964,
-  :cites ["US2332157" "US2550701" "US2624656" "US2710715" "US2950177"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:perkin-elmer],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3144498/en",
-  :title "High resolution filter-grating spectrometer",
-  :status :granted,
-  :id "US3144498",
-  :sourcing :authoritative,
-  :filing-year 1961,
-  :assignee :perkin-elmer,
-  :grant-year 1964,
-  :cites
-  ["US2404064"
-   "US2704945"
-   "US2750836"
-   "US2775160"
-   "US2955508"
-   "US2969692"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:combined-locks-paper],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3146159/en",
-  :title
-  "Method of coating paper with high solids high viscosity coating in the wet end of the paper making machine",
-  :status :granted,
-  :id "US3146159",
-  :sourcing :authoritative,
-  :filing-year 1960,
-  :assignee :combined-locks-paper,
-  :grant-year 1964,
-  :cites
-  ["US1933963"
-   "US2205557"
-   "US2216143"
-   "US2398844"
-   "US2676563"
-   "US2772184"
-   "US2772604"
-   "US2870738"
-   "US2888902"],
   :term-years 20,
   :open-license :none}]

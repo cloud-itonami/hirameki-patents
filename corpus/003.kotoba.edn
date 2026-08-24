@@ -1,4 +1,323 @@
-[{:assignees [:medical-products],
+[{:assignees [:rca],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3929532/en",
+  :title "Method for etching apertured work piece",
+  :status :granted,
+  :id "US3929532",
+  :sourcing :authoritative,
+  :filing-year 1974,
+  :assignee :rca,
+  :grant-year 1975,
+  :cites ["US2437228" "US2750524" "US3329541" "US3609033" "US3679500"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:western-electric],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3930914/en",
+  :title "Thinning semiconductive substrates",
+  :status :granted,
+  :id "US3930914",
+  :sourcing :authoritative,
+  :filing-year 1974,
+  :assignee :western-electric,
+  :grant-year 1976,
+  :cites ["US2958147" "US3404049" "US3447985"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:university-of-michigan-system],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3930956/en",
+  :title "Method for the genetic detection of microorganisms",
+  :status :granted,
+  :id "US3930956",
+  :sourcing :authoritative,
+  :filing-year 1973,
+  :assignee :university-of-michigan-system,
+  :grant-year 1976,
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:olympus-optical],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3932133/en",
+  :title
+  "System for detecting the particular chemical component of a test fluid",
+  :status :granted,
+  :id "US3932133",
+  :sourcing :authoritative,
+  :filing-year 1974,
+  :assignee :olympus-optical,
+  :grant-year 1976,
+  :cites
+  ["US3368872"
+   "US3497320"
+   "US3526480"
+   "US3554700"
+   "US3607090"
+   "US3620678"
+   "US3676080"
+   "US3728080"
+   "US3770382"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:radiometer-as],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3932233/en",
+  :title
+  "Calcium electrode and membrane and composition for use therein",
+  :status :granted,
+  :id "US3932233",
+  :sourcing :authoritative,
+  :filing-year 1973,
+  :assignee :radiometer-as,
+  :grant-year 1976,
+  :cites
+  ["GB1100186A"
+   "GB1177406A"
+   "US3429785"
+   "US3438886"
+   "US3445365"
+   "US3446726"
+   "US3450631"
+   "US3691047"
+   "US3729401"
+   "US3753887"
+   "US3767553"
+   "US3787309"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:national-research-development-uk],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3932807/en",
+  :title "Gas sensitive devices",
+  :status :granted,
+  :id "US3932807",
+  :sourcing :authoritative,
+  :filing-year 1974,
+  :assignee :national-research-development-uk,
+  :grant-year 1976,
+  :cites ["US3695848" "US3699803"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:texas-instruments],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3933528/en",
+  :title
+  "Process for fabricating integrated circuits utilizing ion implantation",
+  :status :granted,
+  :id "US3933528",
+  :sourcing :authoritative,
+  :filing-year 1974,
+  :assignee :texas-instruments,
+  :grant-year 1976,
+  :cites ["US3756861" "US3793088"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:corning-glass-works],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3933997/en",
+  :title "Solid phase radioimmunoassay of digoxin",
+  :status :granted,
+  :id "US3933997",
+  :sourcing :authoritative,
+  :filing-year 1974,
+  :assignee :corning-glass-works,
+  :grant-year 1976,
+  :cites ["US3519538" "US3652761"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:syva],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3935074/en",
+  :title "Antibody steric hindrance immunoassay with two antibodies",
+  :status :granted,
+  :id "US3935074",
+  :sourcing :authoritative,
+  :filing-year 1973,
+  :assignee :syva,
+  :grant-year 1976,
+  :cites ["US3839153" "US3852157"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:takeda-chemical-industries],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3936439/en",
+  :title "2,6-Diaminonebularine derivatives",
+  :status :granted,
+  :id "US3936439",
+  :sourcing :authoritative,
+  :filing-year 1973,
+  :assignee :takeda-chemical-industries,
+  :grant-year 1976,
+  :cites ["US3040026" "US3404144" "US3431252" "US3590029" "US3752805"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:phillips-petroleum],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3936582/en",
+  :title "Differential release coated articles",
+  :status :granted,
+  :id "US3936582",
+  :sourcing :authoritative,
+  :filing-year 1974,
+  :assignee :phillips-petroleum,
+  :grant-year 1976,
+  :cites
+  ["US3403045"
+   "US3419508"
+   "US3432333"
+   "US3503782"
+   "US3628996"
+   "US3749593"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:minolta],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3938894/en",
+  :title "Focus detecting device",
+  :status :granted,
+  :id "US3938894",
+  :sourcing :authoritative,
+  :filing-year 1974,
+  :assignee :minolta,
+  :grant-year 1976,
+  :cites ["US3542475" "US3714524" "US3833806"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:leland-stanford-junior-university],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3939350/en",
+  :title
+  "Fluorescent immunoassay employing total reflection for activation",
+  :status :granted,
+  :id "US3939350",
+  :sourcing :authoritative,
+  :filing-year 1974,
+  :assignee :leland-stanford-junior-university,
+  :grant-year 1976,
+  :cites ["US3684377" "US3719410" "US3814939"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:biological-developments],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3940475/en",
+  :title "Radioimmune method of assaying quantitatively for a hapten",
+  :status :granted,
+  :id "US3940475",
+  :sourcing :authoritative,
+  :filing-year 1971,
+  :assignee :biological-developments,
+  :grant-year 1976,
+  :cites ["US3555143" "US3646346"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:massachusetts-institute-of-technology],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3941670/en",
+  :title
+  "Method of altering biological and chemical activity of molecular species",
+  :status :granted,
+  :id "US3941670",
+  :sourcing :authoritative,
+  :filing-year 1970,
+  :assignee :massachusetts-institute-of-technology,
+  :grant-year 1976,
+  :cites
+  ["GB671922A"
+   "US3233964"
+   "US3600291"
+   "US3702973"
+   "US3719454"
+   "US3817703"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:instrumentation-laboratory],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3948732/en",
+  :title "Cell culture assembly",
+  :status :granted,
+  :id "US3948732",
+  :sourcing :authoritative,
+  :filing-year 1974,
+  :assignee :instrumentation-laboratory,
+  :grant-year 1976,
+  :cites ["US3738813" "US3757955" "US3853712"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:us-department-of-health-and-human-services],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3948745/en",
+  :title "Enzyme electrode",
+  :status :granted,
+  :id "US3948745",
+  :sourcing :authoritative,
+  :filing-year 1973,
+  :assignee :us-department-of-health-and-human-services,
+  :grant-year 1976,
+  :cites
+  ["US3536587"
+   "US3539455"
+   "US3542662"
+   "US3623960"
+   "US3666733"
+   "US3707455"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:american-cyanamid],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3949065/en",
+  :title "Composition and method for the detection of syphilis",
+  :status :granted,
+  :id "US3949065",
+  :sourcing :authoritative,
+  :filing-year 1973,
+  :assignee :american-cyanamid,
+  :grant-year 1976,
+  :cites
+  ["US2111976"
+   "US2112496"
+   "US2301717"
+   "US2770572"
+   "US3074853"
+   "US3406114"
+   "US3647769"
+   "US3666421"
+   "US3695999"
+   "US3737037"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:olympus-optical],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3950649/en",
+  :title "Vertical reflection type fluorescence microphotometer",
+  :status :granted,
+  :id "US3950649",
+  :sourcing :authoritative,
+  :filing-year 1975,
+  :assignee :olympus-optical,
+  :grant-year 1976,
+  :cites ["US3497690"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:medical-products],
   :jurisdiction :us,
   :field "UNKNOWN",
   :source "https://patents.google.com/patent/US3951748/en",
@@ -9519,290 +9838,5 @@
   :filing-year 1989,
   :assignee :oxford-university-innovation,
   :cites ["EP0228075A2" "GB2156074A" "WO1985001051A1"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:cetus],
-  :jurisdiction :wo,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/WO1989011548A1/en",
-  :title "Immobilized sequence-specific probes",
-  :status :pending,
-  :id "WO1989011548A1",
-  :sourcing :authoritative,
-  :filing-year 1989,
-  :assignee :cetus,
-  :cites ["EP0130523A2" "EP0142299A2"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:baylor-college-of-medicine],
-  :jurisdiction :wo,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/WO1990000626A1/en",
-  :title "Solid phase assembly and reconstruction of biopolymers",
-  :status :pending,
-  :id "WO1990000626A1",
-  :sourcing :authoritative,
-  :filing-year 1989,
-  :assignee :baylor-college-of-medicine,
-  :term-years 20,
-  :open-license :none}
- {:assignees [:oxford-university-innovation],
-  :jurisdiction :wo,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/WO1990003382A1/en",
-  :title "Support-bound oligonucleotides",
-  :status :pending,
-  :id "WO1990003382A1",
-  :sourcing :authoritative,
-  :filing-year 1989,
-  :assignee :oxford-university-innovation,
-  :cites
-  ["DE3446635A1"
-   "EP0090789A1"
-   "EP0241363A1"
-   "EP0261283B1"
-   "WO1985001051A1"],
-  :term-years 20,
-  :open-license :none}
- {:assignees
-  [:dnax-research-institute-of-molecular-and-cellular-biology],
-  :jurisdiction :wo,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/WO1990004652A1/en",
-  :title "Dna sequencing by multiple mixed oligonucleotide probes",
-  :status :pending,
-  :id "WO1990004652A1",
-  :sourcing :authoritative,
-  :filing-year 1989,
-  :assignee :dnax-research-institute-of-molecular-and-cellular-biology,
-  :cites ["US4613566" "US4689295" "US4710465" "US4849332" "US4868104"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:eastman-kodak],
-  :jurisdiction :wo,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/WO1990008839A1/en",
-  :title "Thermostable polymerase dna sequencing reaction concentrate",
-  :status :pending,
-  :id "WO1990008839A1",
-  :sourcing :authoritative,
-  :filing-year 1990,
-  :assignee :eastman-kodak,
-  :cites ["EP0258017A2" "WO1988005470A1"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:amersham-international],
-  :jurisdiction :wo,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/WO1990013666A1/en",
-  :title "Sequencing method",
-  :status :pending,
-  :id "WO1990013666A1",
-  :sourcing :authoritative,
-  :filing-year 1990,
-  :assignee :amersham-international,
-  :cites ["EP0223618A2" "EP0233053A2" "US4770992" "WO1989003432A1"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:affymax-technologies],
-  :jurisdiction :wo,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/WO1990015070A1/en",
-  :title "Very large scale immobilized peptide synthesis",
-  :status :pending,
-  :id "WO1990015070A1",
-  :sourcing :authoritative,
-  :filing-year 1990,
-  :assignee :affymax-technologies,
-  :cites ["EP0328256A1"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:sri-international :stanford-research-institute],
-  :jurisdiction :wo,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/WO1991006678A1/en",
-  :title "Dna sequencing",
-  :status :pending,
-  :id "WO1991006678A1",
-  :sourcing :authoritative,
-  :filing-year 1990,
-  :assignee :sri-international,
-  :cites
-  ["EP0219342A2"
-   "EP0223618A2"
-   "WO1989003432A1"
-   "WO1989009283A1"
-   "WO1990013666A1"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:affymax-technologies],
-  :jurisdiction :wo,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/WO1991007087A1/en",
-  :title
-  "Spatially-addressable immobilization of anti-ligands on surfaces",
-  :status :pending,
-  :id "WO1991007087A1",
-  :sourcing :authoritative,
-  :filing-year 1990,
-  :assignee :affymax-technologies,
-  :cites
-  ["US4016043"
-   "US4371515"
-   "US4557998"
-   "US4567902"
-   "US4656252"
-   "US4709044"
-   "US4722906"
-   "US4775745"
-   "US4895809"
-   "US4898951"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:uniroyal-adhesives-and-sealants],
-  :jurisdiction :wo,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/WO1992002568A1/en",
-  :title
-  "Aqueous polyurethane dispersion synthesis for adhesive thermoforming applications",
-  :status :pending,
-  :id "WO1992002568A1",
-  :sourcing :authoritative,
-  :filing-year 1991,
-  :assignee :uniroyal-adhesives-and-sealants,
-  :cites ["US4558090" "US4762880"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:ei-du-pont-de-nemours-and :kansai-paint],
-  :jurisdiction :wo,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/WO1994027741A1/en",
-  :title "Process for forming overcoat",
-  :status :pending,
-  :id "WO1994027741A1",
-  :sourcing :authoritative,
-  :filing-year 1993,
-  :assignee :ei-du-pont-de-nemours-and,
-  :cites ["EP0263429A2" "EP0275138A2" "US4732790" "US4732791"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:basf-lacke-und-farben :nippon-oil-and-fats],
-  :jurisdiction :wo,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/WO1996022339A1/en",
-  :title "Water-based paint composition",
-  :status :pending,
-  :id "WO1996022339A1",
-  :sourcing :authoritative,
-  :filing-year 1996,
-  :assignee :basf-lacke-und-farben,
-  :cites ["EP0292004A2" "GB2060654A" "US3821145" "US5308890"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:avco :textron-automotive-interiors],
-  :jurisdiction :wo,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/WO1996033026A1/en",
-  :title "Radiation cured island coating system",
-  :status :pending,
-  :id "WO1996033026A1",
-  :sourcing :authoritative,
-  :filing-year 1996,
-  :assignee :avco,
-  :cites ["US4713143" "US5320869"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:kansai-paint],
-  :jurisdiction :wo,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/WO1997047396A1/en",
-  :title "Method for forming multi-layer metallic coating",
-  :status :pending,
-  :id "WO1997047396A1",
-  :sourcing :authoritative,
-  :filing-year 1997,
-  :assignee :kansai-paint,
-  :term-years 20,
-  :open-license :none}
- {:assignees [:basf-coatings],
-  :jurisdiction :wo,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/WO1998055526A1/en",
-  :title
-  "Coating agent, method for its production and its use as coating lacquer or transparent lacquer, in particular for coating plastics",
-  :status :pending,
-  :id "WO1998055526A1",
-  :sourcing :authoritative,
-  :filing-year 1998,
-  :assignee :basf-coatings,
-  :cites ["DE3109604A1" "EP0518779A1" "US5145893" "US5504178"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:ppg-industries-ohio],
-  :jurisdiction :wo,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/WO2000035600A1/en",
-  :title "Methods for forming composite coatings on substrates",
-  :status :pending,
-  :id "WO2000035600A1",
-  :sourcing :authoritative,
-  :filing-year 1999,
-  :assignee :ppg-industries-ohio,
-  :cites ["EP0238037A2" "EP0899314A1" "US4731290"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:mitsui-chemicals],
-  :jurisdiction :wo,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/WO2002010296A1/en",
-  :title
-  "Aqueous dispersion composition for imparting chipping resistance",
-  :status :pending,
-  :id "WO2002010296A1",
-  :sourcing :authoritative,
-  :filing-year 2001,
-  :assignee :mitsui-chemicals,
-  :cites ["JP2000160059A" "JP2000160094A" "JP2000345097A" "US4174335"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:idemitsu-petrochemical],
-  :jurisdiction :wo,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/WO2002024714A1/en",
-  :title
-  "Transition metal compounds, polymerization catalysts for olefins, olefin polymers and process for their production",
-  :status :pending,
-  :id "WO2002024714A1",
-  :sourcing :authoritative,
-  :filing-year 2001,
-  :assignee :idemitsu-petrochemical,
-  :cites ["JP2000095808A" "JP2001064314A"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:basf-coatings],
-  :jurisdiction :wo,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/WO2002096572A2/en",
-  :title
-  "Aqueous functional coating material and integrated method for production of coloured or effect-generating multi-layer coatings",
-  :status :pending,
-  :id "WO2002096572A2",
-  :sourcing :authoritative,
-  :filing-year 2002,
-  :assignee :basf-coatings,
-  :term-years 20,
-  :open-license :none}
- {:assignees [:nippon-paint],
-  :jurisdiction :wo,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/WO2004061025A1/en",
-  :title
-  "Aqueous intercoating composition and method for forming multilayer coating films",
-  :status :pending,
-  :id "WO2004061025A1",
-  :sourcing :authoritative,
-  :filing-year 2003,
-  :assignee :nippon-paint,
-  :cites ["GB2360227A" "US5635251" "WO1996022339A1"],
   :term-years 20,
   :open-license :none}]
