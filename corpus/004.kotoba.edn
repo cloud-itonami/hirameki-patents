@@ -1,4 +1,273 @@
-[{:assignees [:cetus],
+[{:assignees [:hri-research :hydrocarbon-research],
+  :jurisdiction :wo,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/WO1985002628A1/en",
+  :title "Nucleic acid hybridization assay",
+  :status :pending,
+  :id "WO1985002628A1",
+  :sourcing :authoritative,
+  :filing-year 1984,
+  :assignee :hri-research,
+  :cites ["EP0070687B1" "US3798131"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:life-technologies],
+  :jurisdiction :wo,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/WO1985004674A1/en",
+  :title "Immobilization of nucleic acids",
+  :status :pending,
+  :id "WO1985004674A1",
+  :sourcing :authoritative,
+  :filing-year 1984,
+  :assignee :life-technologies,
+  :cites
+  ["EP0035384A2" "US4139346" "US4321365" "US4342833" "WO1983003363A1"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:yale-university],
+  :jurisdiction :wo,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/WO1985004902A1/en",
+  :title "Junction-fragment dna probes and probe clusters",
+  :status :pending,
+  :id "WO1985004902A1",
+  :sourcing :authoritative,
+  :filing-year 1985,
+  :assignee :yale-university,
+  :cites ["US4394443" "US4395486"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees
+  [:university-of-california-berkeley
+   :university-of-california-san-diego-ucsd],
+  :jurisdiction :wo,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/WO1986001834A1/en",
+  :title
+  "Retroviral polypeptides associated with human cellular transformation",
+  :status :pending,
+  :id "WO1986001834A1",
+  :sourcing :authoritative,
+  :filing-year 1985,
+  :assignee :university-of-california-berkeley,
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:dgi :qiagen-gaithersburg],
+  :jurisdiction :wo,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/WO1986003227A1/en",
+  :title
+  "An assay for nucleic acid sequences, particularly genetic lesions",
+  :status :pending,
+  :id "WO1986003227A1",
+  :sourcing :authoritative,
+  :filing-year 1985,
+  :assignee :dgi,
+  :cites
+  ["EP0070685A2"
+   "EP0070686A2"
+   "EP0124221A1"
+   "EP0130515A2"
+   "EP0137515A2"
+   "EP0142299A2"
+   "EP0144913A2"
+   "EP0147665A1"
+   "EP0159719B1"],
+  :term-years 20,
+  :open-license :none}
+ {:jurisdiction :wo,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/WO1986003782A1/en",
+  :title
+  "Improved sandwich hybridisation technique for the detection of nucleotide sequences",
+  :status :pending,
+  :id "WO1986003782A1",
+  :sourcing :authoritative,
+  :filing-year 1985,
+  :assignee :unassigned,
+  :cites
+  ["EP0070687B1"
+   "EP0079139A1"
+   "EP0124221A1"
+   "EP0130515A2"
+   "EP0130523A2"
+   "US4395486"
+   "WO1984004332A1"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:georgetown-university],
+  :jurisdiction :wo,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/WO1986005816A1/en",
+  :title "Type-specific papillomavirus dna sequences and peptides",
+  :status :pending,
+  :id "WO1986005816A1",
+  :sourcing :authoritative,
+  :filing-year 1986,
+  :assignee :georgetown-university,
+  :cites ["US4358535" "US4419446" "US4551270"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:salk-institute-for-biological-studies],
+  :jurisdiction :wo,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/WO1986005817A1/en",
+  :title "Dna sequencing",
+  :status :pending,
+  :id "WO1986005817A1",
+  :sourcing :authoritative,
+  :filing-year 1986,
+  :assignee :salk-institute-for-biological-studies,
+  :cites ["EP0115777A2"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:royal-postgraduate-medical-school],
+  :jurisdiction :wo,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/WO1987007531A1/en",
+  :title "Endotoxin removal",
+  :status :pending,
+  :id "WO1987007531A1",
+  :sourcing :authoritative,
+  :filing-year 1987,
+  :assignee :royal-postgraduate-medical-school,
+  :cites ["EP0110409A2" "EP0129786A2"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:queen-mary-university-of-london],
+  :jurisdiction :wo,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/WO1987007645A1/en",
+  :title "A method of sequencing nucleic acids",
+  :status :pending,
+  :id "WO1987007645A1",
+  :sourcing :authoritative,
+  :filing-year 1987,
+  :assignee :queen-mary-university-of-london,
+  :cites ["EP0121778A1" "EP0127737A1"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:siska-diagnostics],
+  :jurisdiction :wo,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/WO1988001302A1/en",
+  :title "Nucleic acid probe assay methods and compositions",
+  :status :pending,
+  :id "WO1988001302A1",
+  :sourcing :authoritative,
+  :filing-year 1987,
+  :assignee :siska-diagnostics,
+  :cites
+  ["EP0070687B1"
+   "US2277"
+   "US4302204"
+   "US4358535"
+   "US4419444"
+   "US4469796"
+   "US4486539"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:ei-du-pont-de-nemours-and],
+  :jurisdiction :wo,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/WO1988002381A1/en",
+  :title "Pigment dispersant resin with s-containing acid",
+  :status :pending,
+  :id "WO1988002381A1",
+  :sourcing :authoritative,
+  :filing-year 1987,
+  :assignee :ei-du-pont-de-nemours-and,
+  :cites
+  ["EP0058865A2"
+   "EP0129329B1"
+   "US2914499"
+   "US3711449"
+   "US3898037"
+   "US4001150"
+   "US4008293"
+   "US4177178"
+   "US4450013"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:ei-du-pont-de-nemours-and],
+  :jurisdiction :wo,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/WO1988002382A1/en",
+  :title "Pigment dispersant resin with p-containing acid",
+  :status :pending,
+  :id "WO1988002382A1",
+  :sourcing :authoritative,
+  :filing-year 1987,
+  :assignee :ei-du-pont-de-nemours-and,
+  :cites ["EP0170474A2" "US4001150" "US4612384"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:harvard-university],
+  :jurisdiction :wo,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/WO1988005470A1/en",
+  :title "T7 dna polymerase",
+  :status :pending,
+  :id "WO1988005470A1",
+  :sourcing :authoritative,
+  :filing-year 1987,
+  :assignee :harvard-university,
+  :cites ["US4483922"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:us-department-of-energy],
+  :jurisdiction :wo,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/WO1989003432A1/en",
+  :title "Method for rapid base sequencing in dna and rna",
+  :status :pending,
+  :id "WO1989003432A1",
+  :sourcing :authoritative,
+  :filing-year 1988,
+  :assignee :us-department-of-energy,
+  :cites ["EP0251575A1" "US3730844" "US4521509" "US4793705"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:cemu-bioteknik],
+  :jurisdiction :wo,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/WO1989009282A1/en",
+  :title "Method of sequencing dna",
+  :status :pending,
+  :id "WO1989009282A1",
+  :sourcing :authoritative,
+  :filing-year 1989,
+  :assignee :cemu-bioteknik,
+  :cites ["EP0206411A2" "EP0229701A2" "WO1987007645A1"],
+  :term-years 20,
+  :open-license :none}
+ {:jurisdiction :wo,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/WO1989009283A1/en",
+  :title
+  "Pyrophosphate-based method and apparatus for sequencing nucleic acids",
+  :status :pending,
+  :id "WO1989009283A1",
+  :sourcing :authoritative,
+  :filing-year 1989,
+  :assignee :unassigned,
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:oxford-university-innovation],
+  :jurisdiction :wo,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/WO1989010977A1/en",
+  :title "Analysing polynucleotide sequences",
+  :status :pending,
+  :id "WO1989010977A1",
+  :sourcing :authoritative,
+  :filing-year 1989,
+  :assignee :oxford-university-innovation,
+  :cites ["EP0228075A2" "GB2156074A" "WO1985001051A1"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:cetus],
   :jurisdiction :wo,
   :field "UNKNOWN",
   :source "https://patents.google.com/patent/WO1989011548A1/en",

@@ -1,4 +1,81 @@
-[{:jurisdiction :us,
+[{:assignees [:two-fire-equipment],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2301367/en",
+  :title "Smoke detector and signal",
+  :status :granted,
+  :id "US2301367",
+  :sourcing :authoritative,
+  :filing-year 1940,
+  :assignee :two-fire-equipment,
+  :grant-year 1942,
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:parke-davis-and],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2301532/en",
+  :title "Biological product and process of obtaining same",
+  :status :granted,
+  :id "US2301532",
+  :sourcing :authoritative,
+  :filing-year 1938,
+  :assignee :parke-davis-and,
+  :grant-year 1942,
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:john-r-ditmars],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2304819/en",
+  :title "Art of coating paper",
+  :status :granted,
+  :id "US2304819",
+  :sourcing :authoritative,
+  :filing-year 1940,
+  :assignee :john-r-ditmars,
+  :grant-year 1942,
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:standard-oil-development],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2305082/en",
+  :title "Geochemical prospecting",
+  :status :granted,
+  :id "US2305082",
+  :sourcing :authoritative,
+  :filing-year 1940,
+  :assignee :standard-oil-development,
+  :grant-year 1942,
+  :term-years 20,
+  :open-license :none}
+ {:jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2306295/en",
+  :title "Method of making laminated furniture panels",
+  :status :granted,
+  :id "US2306295",
+  :sourcing :authoritative,
+  :filing-year 1939,
+  :assignee :unassigned,
+  :grant-year 1942,
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:stein-hall-manufacturing],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2309090/en",
+  :title "Treatment of paper and the like",
+  :status :granted,
+  :id "US2309090",
+  :sourcing :authoritative,
+  :filing-year 1938,
+  :assignee :stein-hall-manufacturing,
+  :grant-year 1943,
+  :term-years 20,
+  :open-license :none}
+ {:jurisdiction :us,
   :field "UNKNOWN",
   :source "https://patents.google.com/patent/US2309268/en",
   :title "Prismatic system",
@@ -265,6 +342,19 @@
   :sourcing :authoritative,
   :filing-year 1942,
   :assignee :eastman-kodak,
+  :grant-year 1943,
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:henry-a-de-phillips],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2333842/en",
+  :title "Device for irradiating substances",
+  :status :granted,
+  :id "US2333842",
+  :sourcing :authoritative,
+  :filing-year 1942,
+  :assignee :henry-a-de-phillips,
   :grant-year 1943,
   :term-years 20,
   :open-license :none}
@@ -652,6 +742,18 @@
   :sourcing :authoritative,
   :filing-year 1940,
   :assignee :parke-davis-and,
+  :grant-year 1945,
+  :term-years 20,
+  :open-license :none}
+ {:jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2373661/en",
+  :title "Electron discharge vessel",
+  :status :granted,
+  :id "US2373661",
+  :sourcing :authoritative,
+  :filing-year 1944,
+  :assignee :unassigned,
   :grant-year 1945,
   :term-years 20,
   :open-license :none}
@@ -1279,6 +1381,36 @@
    "US2273466"
    "US2335190"
    "US671213"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:electronized-chemicals],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2429217/en",
+  :title "Device for treatment of matters with high-speed electrons",
+  :status :granted,
+  :id "US2429217",
+  :sourcing :authoritative,
+  :filing-year 1942,
+  :assignee :electronized-chemicals,
+  :grant-year 1947,
+  :cites
+  ["DE532773C"
+   "US1559714"
+   "US1779402"
+   "US1907507"
+   "US1961715"
+   "US1971277"
+   "US1991236"
+   "US2007765"
+   "US2018599"
+   "US2043733"
+   "US2144518"
+   "US2145727"
+   "US2161985"
+   "US2206710"
+   "US2254994"
+   "US2256191"],
   :term-years 20,
   :open-license :none}
  {:assignees [:monsanto-chemicals],
@@ -2781,6 +2913,32 @@
    "US2369577"],
   :term-years 20,
   :open-license :none}
+ {:jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2585103/en",
+  :title "Apparatus for ultrasonic treatment of liquids",
+  :status :granted,
+  :id "US2585103",
+  :sourcing :authoritative,
+  :filing-year 1948,
+  :assignee :unassigned,
+  :grant-year 1952,
+  :cites
+  ["US1734975"
+   "US1738565"
+   "US1939302"
+   "US2086891"
+   "US2163650"
+   "US2170178"
+   "US2407462"
+   "US2436377"
+   "US2438936"
+   "US2448372"
+   "US2450412"
+   "US2452068"
+   "US2452570"],
+  :term-years 20,
+  :open-license :none}
  {:assignees [:airborne-instr-lab],
   :jurisdiction :us,
   :field "UNKNOWN",
@@ -4057,6 +4215,30 @@
    "US2509652"
    "US2526059"
    "US2543536"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:rca],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2686275/en",
+  :title
+  "Art of storing or delaying the transmission of electrical signals",
+  :status :granted,
+  :id "US2686275",
+  :sourcing :authoritative,
+  :filing-year 1951,
+  :assignee :rca,
+  :grant-year 1954,
+  :cites
+  ["US1659636"
+   "US2004176"
+   "US2030492"
+   "US2050411"
+   "US2143095"
+   "US2161643"
+   "US2213070"
+   "US2258294"
+   "US2577628"],
   :term-years 20,
   :open-license :none}
  {:jurisdiction :us,
@@ -9806,173 +9988,5 @@
   :assignee :ajinomoto,
   :grant-year 1963,
   :cites ["US2942977"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:gevaert-photo-producten],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3113022/en",
-  :title "Electrophotographic process",
-  :status :granted,
-  :id "US3113022",
-  :sourcing :authoritative,
-  :filing-year 1960,
-  :assignee :gevaert-photo-producten,
-  :grant-year 1963,
-  :cites
-  ["DE1068115B"
-   "US2845348"
-   "US2919191"
-   "US2951443"
-   "US2956874"
-   "US2956878"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:harvey-wells],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3114859/en",
-  :title "Tracking error measuring device",
-  :status :granted,
-  :id "US3114859",
-  :sourcing :authoritative,
-  :filing-year 1958,
-  :assignee :harvey-wells,
-  :grant-year 1963,
-  :cites ["US2491684" "US2779817" "US2798115" "US2807750" "US2838602"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:upjohn],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3116282/en",
-  :title "Pyrimidine nucleosides and process",
-  :status :granted,
-  :id "US3116282",
-  :sourcing :authoritative,
-  :filing-year 1960,
-  :assignee :upjohn,
-  :grant-year 1963,
-  :cites ["US2815342" "US3002965"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:general-tire-and-rubber],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3119785/en",
-  :title "Reaction product of a graft polymer of acrolein",
-  :status :granted,
-  :id "US3119785",
-  :sourcing :authoritative,
-  :filing-year 1959,
-  :assignee :general-tire-and-rubber,
-  :grant-year 1964,
-  :cites ["US2332896" "US2388167" "US2569932"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:polaroid],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3120608/en",
-  :title
-  "Gas microcell in the form of a light pipe for use with an infrared spectrometer",
-  :status :granted,
-  :id "US3120608",
-  :sourcing :authoritative,
-  :filing-year 1961,
-  :assignee :polaroid,
-  :grant-year 1964,
-  :cites ["US2534657" "US2547212" "US2709751" "US2712211" "US3036215"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:bell-telephone-laboratories],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3122817/en",
-  :title "Fabrication of semiconductor devices",
-  :status :granted,
-  :id "US3122817",
-  :sourcing :authoritative,
-  :filing-year 1963,
-  :assignee :bell-telephone-laboratories,
-  :grant-year 1964,
-  :cites ["US2411298" "US2506604" "US2802760" "US3025589"],
-  :term-years 20,
-  :open-license :none}
- {:jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3123443/en",
-  :title "Composition for diagnosing glucose",
-  :status :granted,
-  :id "US3123443",
-  :sourcing :authoritative,
-  :assignee :unassigned,
-  :grant-year 1964,
-  :cites
-  ["US1103283"
-   "US2337562"
-   "US2768143"
-   "US2864725"
-   "US2893844"
-   "US3001915"
-   "US458244"],
-  :term-years 20,
-  :open-license :none}
- {:jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3127363/en",
-  :title "Process for the manufacture of elasto-",
-  :status :granted,
-  :id "US3127363",
-  :sourcing :authoritative,
-  :assignee :unassigned,
-  :grant-year 1964,
-  :cites
-  ["US2123152"
-   "US2494920"
-   "US2571039"
-   "US2584351"
-   "US2615861"
-   "US2692844"
-   "US2729569"
-   "US2754237"
-   "US2814601"
-   "US2843555"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:baxter-laboratories],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3127892/en",
-  :title "Blood handling apparatus",
-  :status :granted,
-  :id "US3127892",
-  :sourcing :authoritative,
-  :filing-year 1960,
-  :assignee :baxter-laboratories,
-  :grant-year 1964,
-  :cites
-  ["FR1082035A"
-   "FR1107207A"
-   "US2371086"
-   "US2674265"
-   "US2737951"
-   "US2780225"
-   "US2836942"
-   "US2847995"
-   "US2896619"],
-  :term-years 20,
-  :open-license :none}
- {:jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3130787/en",
-  :title "Well bridging tool",
-  :status :granted,
-  :id "US3130787",
-  :sourcing :authoritative,
-  :filing-year 1960,
-  :assignee :unassigned,
-  :grant-year 1964,
-  :cites ["US1523286" "US2399125" "US2603293" "US2922478"],
   :term-years 20,
   :open-license :none}]

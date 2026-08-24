@@ -1,4 +1,172 @@
-[{:assignees [:phillips-petroleum],
+[{:assignees [:gevaert-photo-producten],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3113022/en",
+  :title "Electrophotographic process",
+  :status :granted,
+  :id "US3113022",
+  :sourcing :authoritative,
+  :filing-year 1960,
+  :assignee :gevaert-photo-producten,
+  :grant-year 1963,
+  :cites
+  ["DE1068115B"
+   "US2845348"
+   "US2919191"
+   "US2951443"
+   "US2956874"
+   "US2956878"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:harvey-wells],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3114859/en",
+  :title "Tracking error measuring device",
+  :status :granted,
+  :id "US3114859",
+  :sourcing :authoritative,
+  :filing-year 1958,
+  :assignee :harvey-wells,
+  :grant-year 1963,
+  :cites ["US2491684" "US2779817" "US2798115" "US2807750" "US2838602"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:upjohn],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3116282/en",
+  :title "Pyrimidine nucleosides and process",
+  :status :granted,
+  :id "US3116282",
+  :sourcing :authoritative,
+  :filing-year 1960,
+  :assignee :upjohn,
+  :grant-year 1963,
+  :cites ["US2815342" "US3002965"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:general-tire-and-rubber],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3119785/en",
+  :title "Reaction product of a graft polymer of acrolein",
+  :status :granted,
+  :id "US3119785",
+  :sourcing :authoritative,
+  :filing-year 1959,
+  :assignee :general-tire-and-rubber,
+  :grant-year 1964,
+  :cites ["US2332896" "US2388167" "US2569932"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:polaroid],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3120608/en",
+  :title
+  "Gas microcell in the form of a light pipe for use with an infrared spectrometer",
+  :status :granted,
+  :id "US3120608",
+  :sourcing :authoritative,
+  :filing-year 1961,
+  :assignee :polaroid,
+  :grant-year 1964,
+  :cites ["US2534657" "US2547212" "US2709751" "US2712211" "US3036215"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:bell-telephone-laboratories],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3122817/en",
+  :title "Fabrication of semiconductor devices",
+  :status :granted,
+  :id "US3122817",
+  :sourcing :authoritative,
+  :filing-year 1963,
+  :assignee :bell-telephone-laboratories,
+  :grant-year 1964,
+  :cites ["US2411298" "US2506604" "US2802760" "US3025589"],
+  :term-years 20,
+  :open-license :none}
+ {:jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3123443/en",
+  :title "Composition for diagnosing glucose",
+  :status :granted,
+  :id "US3123443",
+  :sourcing :authoritative,
+  :assignee :unassigned,
+  :grant-year 1964,
+  :cites
+  ["US1103283"
+   "US2337562"
+   "US2768143"
+   "US2864725"
+   "US2893844"
+   "US3001915"
+   "US458244"],
+  :term-years 20,
+  :open-license :none}
+ {:jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3127363/en",
+  :title "Process for the manufacture of elasto-",
+  :status :granted,
+  :id "US3127363",
+  :sourcing :authoritative,
+  :assignee :unassigned,
+  :grant-year 1964,
+  :cites
+  ["US2123152"
+   "US2494920"
+   "US2571039"
+   "US2584351"
+   "US2615861"
+   "US2692844"
+   "US2729569"
+   "US2754237"
+   "US2814601"
+   "US2843555"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:baxter-laboratories],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3127892/en",
+  :title "Blood handling apparatus",
+  :status :granted,
+  :id "US3127892",
+  :sourcing :authoritative,
+  :filing-year 1960,
+  :assignee :baxter-laboratories,
+  :grant-year 1964,
+  :cites
+  ["FR1082035A"
+   "FR1107207A"
+   "US2371086"
+   "US2674265"
+   "US2737951"
+   "US2780225"
+   "US2836942"
+   "US2847995"
+   "US2896619"],
+  :term-years 20,
+  :open-license :none}
+ {:jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3130787/en",
+  :title "Well bridging tool",
+  :status :granted,
+  :id "US3130787",
+  :sourcing :authoritative,
+  :filing-year 1960,
+  :assignee :unassigned,
+  :grant-year 1964,
+  :cites ["US1523286" "US2399125" "US2603293" "US2922478"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:phillips-petroleum],
   :jurisdiction :us,
   :field "UNKNOWN",
   :source "https://patents.google.com/patent/US3131521/en",
@@ -938,6 +1106,20 @@
    "US3100556"],
   :term-years 20,
   :open-license :none}
+ {:jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3206602/en",
+  :title
+  "Apparatus for measuring the binding capacity of serum proteins",
+  :status :granted,
+  :id "US3206602",
+  :sourcing :authoritative,
+  :filing-year 1960,
+  :assignee :unassigned,
+  :grant-year 1965,
+  :cites ["GB352757A" "US2751326" "US2848368" "US2855520" "US2945955"],
+  :term-years 20,
+  :open-license :none}
  {:assignees [:leeds-and-northrup],
   :jurisdiction :us,
   :field "UNKNOWN",
@@ -1262,6 +1444,19 @@
   :filing-year 1961,
   :assignee :ortho-pharmaceutical,
   :grant-year 1966,
+  :term-years 20,
+  :open-license :none}
+ {:jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3236732/en",
+  :title "Pregnancy test method and immunological indicator therefor",
+  :status :granted,
+  :id "US3236732",
+  :sourcing :authoritative,
+  :filing-year 1962,
+  :assignee :unassigned,
+  :grant-year 1966,
+  :cites ["US3088875"],
   :term-years 20,
   :open-license :none}
  {:assignees [:shell-oil],
@@ -1876,6 +2071,20 @@
    "US2956292"
    "US3070817"
    "US3083665"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:kansas-state-university],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3284434/en",
+  :title "Protein isolation and preparations",
+  :status :granted,
+  :id "US3284434",
+  :sourcing :authoritative,
+  :filing-year 1960,
+  :assignee :kansas-state-university,
+  :grant-year 1966,
+  :cites ["US2454752"],
   :term-years 20,
   :open-license :none}
  {:assignees [:merck-and],
@@ -3077,6 +3286,20 @@
   :cites ["US2898282" "US2913386" "US3022241" "US3058894"],
   :term-years 20,
   :open-license :none}
+ {:assignees [:bell-telephone-laboratories],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3403353/en",
+  :title
+  "Gas laser having a second cathode for space charge neutralization",
+  :status :granted,
+  :id "US3403353",
+  :sourcing :authoritative,
+  :filing-year 1965,
+  :assignee :bell-telephone-laboratories,
+  :grant-year 1968,
+  :term-years 20,
+  :open-license :none}
  {:jurisdiction :us,
   :field "UNKNOWN",
   :source "https://patents.google.com/patent/US3409405/en",
@@ -3998,6 +4221,21 @@
   :assignee :scientific-industries,
   :grant-year 1970,
   :cites ["US3036893" "US3036894" "US3260413"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:monsanto],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3502545/en",
+  :title
+  "Process for the separation of water-soluble polymeric materials from unbound protein or peptide using semiporous gel",
+  :status :granted,
+  :id "US3502545",
+  :sourcing :authoritative,
+  :filing-year 1968,
+  :assignee :monsanto,
+  :grant-year 1970,
+  :cites ["US3318782" "US3415804"],
   :term-years 20,
   :open-license :none}
  {:assignees [:eastman-kodak],
@@ -5298,6 +5536,21 @@
   :cites ["US3054898" "US3270647" "US3273124"],
   :term-years 20,
   :open-license :none}
+ {:assignees [:boehringer-mannheim],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3627698/en",
+  :title
+  "Hydroperoxide diagnostic agents containing a chromogen indicator",
+  :status :granted,
+  :id "US3627698",
+  :sourcing :authoritative,
+  :filing-year 1970,
+  :assignee :boehringer-mannheim,
+  :grant-year 1971,
+  :cites ["US3183173"],
+  :term-years 20,
+  :open-license :none}
  {:assignees [:dow-corning],
   :jurisdiction :us,
   :field "UNKNOWN",
@@ -5400,6 +5653,19 @@
   "Immunological reagent particles having proteinaceous materials covalently bonded thereto",
   :status :granted,
   :id "US3639558",
+  :sourcing :authoritative,
+  :filing-year 1968,
+  :assignee :unassigned,
+  :grant-year 1972,
+  :term-years 20,
+  :open-license :none}
+ {:jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3639559/en",
+  :title
+  "Method of isolating antigens and/or antibodies from protein mixtur",
+  :status :granted,
+  :id "US3639559",
   :sourcing :authoritative,
   :filing-year 1968,
   :assignee :unassigned,
@@ -7118,6 +7384,19 @@
    "US3748545"],
   :term-years 20,
   :open-license :none}
+ {:assignees [:wisconsin-alumni-research-foundation],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3793445/en",
+  :title "Reagent for radioimmunoassay",
+  :status :granted,
+  :id "US3793445",
+  :sourcing :authoritative,
+  :filing-year 1970,
+  :assignee :wisconsin-alumni-research-foundation,
+  :grant-year 1974,
+  :term-years 20,
+  :open-license :none}
  {:assignees [:ei-du-pont-de-nemours-and],
   :jurisdiction :us,
   :field "UNKNOWN",
@@ -7804,6 +8083,19 @@
   :sourcing :authoritative,
   :filing-year 1972,
   :assignee :syva,
+  :grant-year 1974,
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:mount-sinai-hospital-research-foundation],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3843775/en",
+  :title "Radioimmunoassay of angiotensin and renin activity",
+  :status :granted,
+  :id "US3843775",
+  :sourcing :authoritative,
+  :filing-year 1971,
+  :assignee :mount-sinai-hospital-research-foundation,
   :grant-year 1974,
   :term-years 20,
   :open-license :none}
@@ -8899,282 +9191,5 @@
    "US3754867"
    "US3770380"
    "US3776817"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:united-states-department-of-commerce],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3906226/en",
-  :title "Nitric oxide pollution monitor",
-  :status :granted,
-  :id "US3906226",
-  :sourcing :authoritative,
-  :filing-year 1974,
-  :assignee :united-states-department-of-commerce,
-  :grant-year 1975,
-  :cites ["US3151204" "US3507987" "US3795812" "US3826920" "US3829696"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:dearborn-glass],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3910254/en",
-  :title "Oven door construction",
-  :status :granted,
-  :id "US3910254",
-  :sourcing :authoritative,
-  :filing-year 1973,
-  :assignee :dearborn-glass,
-  :grant-year 1975,
-  :cites ["US1966620" "US2358397" "US2713301" "US3190281"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:international-foundation-of-microbiology],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3912596/en",
-  :title "Multiple inoculating system",
-  :status :granted,
-  :id "US3912596",
-  :sourcing :authoritative,
-  :filing-year 1973,
-  :assignee :international-foundation-of-microbiology,
-  :grant-year 1975,
-  :cites ["US2874091" "US2956931"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:hitachi],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3914462/en",
-  :title
-  "Method for forming a resist mask using a positive electron resist",
-  :status :granted,
-  :id "US3914462",
-  :sourcing :authoritative,
-  :filing-year 1973,
-  :assignee :hitachi,
-  :grant-year 1975,
-  :cites ["US3037955" "US3234303" "US3703402"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:icn-pharmaceuticals],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3915958/en",
-  :title "6-Substituted purine nucleotides",
-  :status :granted,
-  :id "US3915958",
-  :sourcing :authoritative,
-  :filing-year 1972,
-  :assignee :icn-pharmaceuticals,
-  :grant-year 1975,
-  :cites ["US3317511" "US3712885"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:baxter-laboratories],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3917404/en",
-  :title "Fluorometer assembly including a flow cell",
-  :status :granted,
-  :id "US3917404",
-  :sourcing :authoritative,
-  :filing-year 1974,
-  :assignee :baxter-laboratories,
-  :grant-year 1975,
-  :cites
-  ["US2076553"
-   "US2381414"
-   "US2549574"
-   "US2889736"
-   "US3418061"
-   "US3622795"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:icn-pharmaceuticals],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3917583/en",
-  :title "2-Substituted cyclic AMP derivatives",
-  :status :granted,
-  :id "US3917583",
-  :sourcing :authoritative,
-  :filing-year 1973,
-  :assignee :icn-pharmaceuticals,
-  :grant-year 1975,
-  :cites
-  ["US3332935"
-   "US3337528"
-   "US3364199"
-   "US3450693"
-   "US3454559"
-   "US3712885"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:olympus-optical],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3918910/en",
-  :title
-  "System for detecting the particular chemical constituent of a fluid",
-  :status :granted,
-  :id "US3918910",
-  :sourcing :authoritative,
-  :filing-year 1974,
-  :assignee :olympus-optical,
-  :grant-year 1975,
-  :cites ["US3368872" "US3497320" "US3554700" "US3607090" "US3620678"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:international-business-machines],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3920483/en",
-  :title "Method of ion implantation through a photoresist mask",
-  :status :granted,
-  :id "US3920483",
-  :sourcing :authoritative,
-  :filing-year 1974,
-  :assignee :international-business-machines,
-  :grant-year 1975,
-  :cites
-  ["US3113896"
-   "US3410776"
-   "US3570112"
-   "US3575745"
-   "US3615956"
-   "US3653977"
-   "US3663265"
-   "US3771948"
-   "US3793088"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:technicon-instruments],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3925018/en",
-  :title
-  "Method and apparatus for quantitative analysis utilizing particulate reagent material",
-  :status :granted,
-  :id "US3925018",
-  :sourcing :authoritative,
-  :filing-year 1973,
-  :assignee :technicon-instruments,
-  :grant-year 1975,
-  :cites
-  ["US2379158"
-   "US2875666"
-   "US3088875"
-   "US3247078"
-   "US3275834"
-   "US3492396"
-   "US3794467"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:texas-instruments],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3925105/en",
-  :title
-  "Process for fabricating integrated circuits utilizing ion implantation",
-  :status :granted,
-  :id "US3925105",
-  :sourcing :authoritative,
-  :filing-year 1974,
-  :assignee :texas-instruments,
-  :grant-year 1975,
-  :cites ["US3602781" "US3756861" "US3793088" "US3853634"],
-  :term-years 20,
-  :open-license :none}
- {:jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3926436/en",
-  :title
-  "Silver halide element containing polymeric colour forming couplers",
-  :status :granted,
-  :id "US3926436",
-  :sourcing :authoritative,
-  :filing-year 1974,
-  :assignee :unassigned,
-  :grant-year 1975,
-  :cites
-  ["US2353262"
-   "US2976294"
-   "US3024221"
-   "US3356686"
-   "US3370952"
-   "US3767412"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:f-hoffmann-la-roche],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3927193/en",
-  :title "Localization of tumors by radiolabelled antibodies",
-  :status :granted,
-  :id "US3927193",
-  :sourcing :authoritative,
-  :filing-year 1973,
-  :assignee :f-hoffmann-la-roche,
-  :grant-year 1975,
-  :cites ["US3663684" "US3697638" "US3718737" "US3735001" "US3812245"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:signetics],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3928081/en",
-  :title
-  "Method for fabricating semiconductor devices using composite mask and ion implantation",
-  :status :granted,
-  :id "US3928081",
-  :sourcing :authoritative,
-  :filing-year 1973,
-  :assignee :signetics,
-  :grant-year 1975,
-  :cites ["US3791885"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:texas-instruments],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3928082/en",
-  :title "Self-aligned transistor process",
-  :status :granted,
-  :id "US3928082",
-  :sourcing :authoritative,
-  :filing-year 1973,
-  :assignee :texas-instruments,
-  :grant-year 1975,
-  :cites ["US3533857" "US3756861" "US3793088"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:new-york-university-nyu],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3928553/en",
-  :title "Radioimmunoassay method for triiodothyronine and thyroxine",
-  :status :granted,
-  :id "US3928553",
-  :sourcing :authoritative,
-  :filing-year 1974,
-  :assignee :new-york-university-nyu,
-  :grant-year 1975,
-  :cites ["US3414383" "US3451777" "US3507618" "US3516794"],
-  :term-years 20,
-  :open-license :none}
- {:jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3928580/en",
-  :title
-  "Injectable glycoproteins containing terminal {37 C{38 {0 ends of human immunoglobulins",
-  :status :granted,
-  :id "US3928580",
-  :sourcing :authoritative,
-  :filing-year 1974,
-  :assignee :unassigned,
-  :grant-year 1975,
-  :cites ["US3597409" "US3758682" "US3763135" "US3808189"],
   :term-years 20,
   :open-license :none}]
