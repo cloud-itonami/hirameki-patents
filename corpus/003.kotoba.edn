@@ -1,4 +1,334 @@
-[{:assignees [:research],
+[{:assignees [:akzona],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3791932/en",
+  :title
+  "Process for the demonstration and determination of reaction components having specific binding affinity for each other",
+  :status :granted,
+  :id "US3791932",
+  :sourcing :authoritative,
+  :filing-year 1972,
+  :assignee :akzona,
+  :grant-year 1974,
+  :cites ["US3654090"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:geomet],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3791933/en",
+  :title
+  "Rapid methods for assay of enzyme substrates and metabolites",
+  :status :granted,
+  :id "US3791933",
+  :sourcing :authoritative,
+  :filing-year 1971,
+  :assignee :geomet,
+  :grant-year 1974,
+  :cites ["US3367841" "US3526480" "US3663374"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:miles-laboratories],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3792039/en",
+  :title "Poly 2&#39;-fluoro-2&#39;-deoxyuridylic acid",
+  :status :granted,
+  :id "US3792039",
+  :sourcing :authoritative,
+  :filing-year 1971,
+  :assignee :miles-laboratories,
+  :grant-year 1974,
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:bell-telephone-laboratories],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3793088/en",
+  :title "Compatible pnp and npn devices in an integrated circuit",
+  :status :granted,
+  :id "US3793088",
+  :sourcing :authoritative,
+  :filing-year 1972,
+  :assignee :bell-telephone-laboratories,
+  :grant-year 1974,
+  :cites
+  ["US3617824"
+   "US3648130"
+   "US3723199"
+   "US3729811"
+   "US3747203"
+   "US3748545"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:wisconsin-alumni-research-foundation],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3793445/en",
+  :title "Reagent for radioimmunoassay",
+  :status :granted,
+  :id "US3793445",
+  :sourcing :authoritative,
+  :filing-year 1970,
+  :assignee :wisconsin-alumni-research-foundation,
+  :grant-year 1974,
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:ei-du-pont-de-nemours-and],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3794467/en",
+  :title
+  "Removing substances from a liquid by\nprecipitation in porous glass beads",
+  :status :granted,
+  :id "US3794467",
+  :sourcing :authoritative,
+  :filing-year 1971,
+  :assignee :ei-du-pont-de-nemours-and,
+  :grant-year 1974,
+  :term-years 20,
+  :open-license :none}
+ {:jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3795792/en",
+  :title "Feature association in image analysis",
+  :status :granted,
+  :id "US3795792",
+  :sourcing :authoritative,
+  :filing-year 1972,
+  :assignee :unassigned,
+  :grant-year 1974,
+  :cites ["US2891722" "US3020033" "US3280692"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:united-states-department-of-commerce],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3795812/en",
+  :title "Sulfur dioxide pollution monitor",
+  :status :granted,
+  :id "US3795812",
+  :sourcing :authoritative,
+  :filing-year 1972,
+  :assignee :united-states-department-of-commerce,
+  :grant-year 1974,
+  :cites ["US3032654" "US3430041"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:howson-algraphy],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3796603/en",
+  :title
+  "Method of removing insolubilized light sensitized poly(vinyl alcohol) from a surface utilizing periodate ions",
+  :status :granted,
+  :id "US3796603",
+  :sourcing :authoritative,
+  :filing-year 1972,
+  :assignee :howson-algraphy,
+  :grant-year 1974,
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:us-department-of-health-and-human-services],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3796634/en",
+  :title "Insolubilized biologically active enzymes",
+  :status :granted,
+  :id "US3796634",
+  :sourcing :authoritative,
+  :filing-year 1970,
+  :assignee :us-department-of-health-and-human-services,
+  :grant-year 1974,
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:avco],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3796660/en",
+  :title "Separation of liquid-liquid multiphase mixtures",
+  :status :granted,
+  :id "US3796660",
+  :sourcing :authoritative,
+  :filing-year 1971,
+  :assignee :avco,
+  :grant-year 1974,
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:pasadena-foundation-for-medica],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3798131/en",
+  :title
+  "Assay for polymeric dna as a method for detecting malignancy",
+  :status :granted,
+  :id "US3798131",
+  :sourcing :authoritative,
+  :filing-year 1972,
+  :assignee :pasadena-foundation-for-medica,
+  :grant-year 1974,
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:us-atomic-energy-commission-aec],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3798459/en",
+  :title
+  "Compact dynamic multistation photometer utilizing disposable cuvette rotor",
+  :status :granted,
+  :id "US3798459",
+  :sourcing :authoritative,
+  :filing-year 1972,
+  :assignee :us-atomic-energy-commission-aec,
+  :grant-year 1974,
+  :cites ["US3215849" "US3555284" "US3576441"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:wtc-chemical],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3799741/en",
+  :title "Pharmaceutical screening test composition",
+  :status :granted,
+  :id "US3799741",
+  :sourcing :authoritative,
+  :filing-year 1972,
+  :assignee :wtc-chemical,
+  :grant-year 1974,
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:us-atomic-energy-commission-aec],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3804533/en",
+  :title
+  "Rotor for fluorometric measurements in fast analyzer of rotary",
+  :status :granted,
+  :id "US3804533",
+  :sourcing :authoritative,
+  :filing-year 1972,
+  :assignee :us-atomic-energy-commission-aec,
+  :grant-year 1974,
+  :cites ["US3547547" "US3555284" "US3576441" "US3669551"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:merck-patent],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3804826/en",
+  :title "Thiopyrimidine derivatives",
+  :status :granted,
+  :id "US3804826",
+  :sourcing :authoritative,
+  :filing-year 1971,
+  :assignee :merck-patent,
+  :grant-year 1974,
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:kaiser-aerospace-and-electronics],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3804976/en",
+  :title "Multiplexed infrared imaging system",
+  :status :granted,
+  :id "US3804976",
+  :sourcing :authoritative,
+  :filing-year 1972,
+  :assignee :kaiser-aerospace-and-electronics,
+  :grant-year 1974,
+  :cites
+  ["GB700982A"
+   "US2967211"
+   "US3109057"
+   "US3219642"
+   "US3251933"
+   "US3443110"
+   "US3670097"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:avco],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3806449/en",
+  :title "Separation of liquid-liquid multiphase mixtures",
+  :status :granted,
+  :id "US3806449",
+  :sourcing :authoritative,
+  :filing-year 1973,
+  :assignee :avco,
+  :grant-year 1974,
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:research-institute-for-production-development],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3808113/en",
+  :title
+  "Method for manufacturing medical articles composed of various synthetic high polymers coated with collagen and exposed to radiation",
+  :status :granted,
+  :id "US3808113",
+  :sourcing :authoritative,
+  :filing-year 1971,
+  :assignee :research-institute-for-production-development,
+  :grant-year 1974,
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:research],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3809613/en",
+  :title "Biocatalytic module",
+  :status :granted,
+  :id "US3809613",
+  :sourcing :authoritative,
+  :filing-year 1971,
+  :assignee :research,
+  :grant-year 1974,
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:f-hoffmann-la-roche],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3809782/en",
+  :title "Tubocurarine antigens and antibodies specific therefor",
+  :status :granted,
+  :id "US3809782",
+  :sourcing :authoritative,
+  :filing-year 1972,
+  :assignee :f-hoffmann-la-roche,
+  :grant-year 1974,
+  :cites ["US2388260" "US2957808"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:telefunken-patentverwertungs],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3810010/en",
+  :title
+  "Particle analysis method and apparatus wherein liquid containing particles is sucked into a constricted flow path",
+  :status :granted,
+  :id "US3810010",
+  :sourcing :authoritative,
+  :filing-year 1972,
+  :assignee :telefunken-patentverwertungs,
+  :grant-year 1974,
+  :cites ["US2656508" "US2985830" "US3299354"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:rhone-poulenc],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3810848/en",
+  :title "Complex forming polymers from dimethyl dipyridyl compounds",
+  :status :granted,
+  :id "US3810848",
+  :sourcing :authoritative,
+  :filing-year 1973,
+  :assignee :rhone-poulenc,
+  :grant-year 1974,
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:research],
   :jurisdiction :us,
   :field "UNKNOWN",
   :source "https://patents.google.com/patent/US3812245/en",
@@ -9189,395 +9519,5 @@
   :assignee :hoechst-celanese,
   :grant-year 1989,
   :cites ["US4689371" "US4775730"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:new-york-medical-college],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US4863849/en",
-  :title "Automatable process for sequencing nucleotide",
-  :status :granted,
-  :id "US4863849",
-  :sourcing :authoritative,
-  :filing-year 1985,
-  :assignee :new-york-medical-college,
-  :grant-year 1989,
-  :cites ["US4072574"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:fuji-photo-film],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US4865967/en",
-  :title "Autoradiographic gene-screening method",
-  :status :granted,
-  :id "US4865967",
-  :sourcing :authoritative,
-  :filing-year 1987,
-  :assignee :fuji-photo-film,
-  :grant-year 1989,
-  :cites
-  ["EP0056638A1" "US4239968" "US4297587" "US4302671" "US4389670"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:salk-institute-for-biological-studies],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US4865968/en",
-  :title "DNA sequencing",
-  :status :granted,
-  :id "US4865968",
-  :sourcing :authoritative,
-  :filing-year 1985,
-  :assignee :salk-institute-for-biological-studies,
-  :grant-year 1989,
-  :cites ["EP0115777A2"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:syntex-usa],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US4868104/en",
-  :title "Homogeneous assay for specific polynucleotides",
-  :status :granted,
-  :id "US4868104",
-  :sourcing :authoritative,
-  :filing-year 1985,
-  :assignee :syntex-usa,
-  :grant-year 1989,
-  :cites
-  ["EP0070685A2"
-   "EP0079139A1"
-   "EP0130515A2"
-   "EP0139489A2"
-   "EP0153873A2"
-   "EP0154505A2"
-   "US4193983"
-   "US4313734"
-   "US4522922"
-   "US4563417"
-   "US4563419"
-   "US4623627"
-   "US4749647"
-   "US4751177"
-   "WO1985002628A1"
-   "WO1986003227A1"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:sherwin-williams],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US4871806/en",
-  :title
-  "Reactive coatings comprising an acid-functional compound, an anhydride-functional compound, an epoxy-functional compound and a hydroxy-functional compound",
-  :status :granted,
-  :id "US4871806",
-  :sourcing :authoritative,
-  :filing-year 1987,
-  :assignee :sherwin-williams,
-  :grant-year 1989,
-  :cites
-  ["EP0123793A1"
-   "EP0134691A2"
-   "GB1583316A"
-   "GB994907A"
-   "US2712535"
-   "US2884408"
-   "US2890194"
-   "US2890210"
-   "US3027279"
-   "US3215756"
-   "US3218274"
-   "US3242142"
-   "US3247144"
-   "US3247283"
-   "US3280077"
-   "US3427255"
-   "US3523143"
-   "US3557035"
-   "US3624180"
-   "US3639345"
-   "US3897514"
-   "US3925507"
-   "US3932367"
-   "US3953644"
-   "US3954712"
-   "US3975314"
-   "US3978026"
-   "US3979477"
-   "US4046727"
-   "US4069275"
-   "US4076674"
-   "US4086293"
-   "US4086294"
-   "US4156700"
-   "US4176143"
-   "US4226755"
-   "US4261871"
-   "US4294939"
-   "US4322325"
-   "US4327200"
-   "US4346144"
-   "US4391965"
-   "US4403091"
-   "US4403093"
-   "US4415697"
-   "US4418182"
-   "US4452948"
-   "US4465815"
-   "US4471025"
-   "US4507411"
-   "US4511682"
-   "US4535148"
-   "US4548963"
-   "US4620994"
-   "US4650718"
-   "US4681811"
-   "US4703101"
-   "US4732790"
-   "US4732791"
-   "US4798745"
-   "US4798746"
-   "WO1984000770A1"
-   "WO1984000771A1"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:applied-biosystems],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US4883750/en",
-  :title "Detection of specific sequences in nucleic acids",
-  :status :granted,
-  :id "US4883750",
-  :sourcing :authoritative,
-  :filing-year 1984,
-  :assignee :applied-biosystems,
-  :grant-year 1989,
-  :cites
-  ["EP0070685A2"
-   "EP0154505A2"
-   "US4358535"
-   "US4395486"
-   "US4486539"
-   "US4563419"
-   "US4710465"
-   "WO1985004902A1"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:microprobe],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US4886741/en",
-  :title
-  "Use of volume exclusion agents for the enhancement of in situ hybridization",
-  :status :granted,
-  :id "US4886741",
-  :sourcing :authoritative,
-  :filing-year 1987,
-  :assignee :microprobe,
-  :grant-year 1989,
-  :cites ["EP0098373A2" "WO1986005816A1"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:umass-memorial-medical-center],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US4888278/en",
-  :title
-  "In-situ hybridization to detect nucleic acid sequences in morphologically intact cells",
-  :status :granted,
-  :id "US4888278",
-  :sourcing :authoritative,
-  :filing-year 1988,
-  :assignee :umass-memorial-medical-center,
-  :grant-year 1989,
-  :cites ["US4419446" "US4652517"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:cetus],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US4889818/en",
-  :title "Purified thermostable enzyme",
-  :status :granted,
-  :id "US4889818",
-  :sourcing :authoritative,
-  :filing-year 1987,
-  :assignee :cetus,
-  :grant-year 1989,
-  :cites ["US4683194" "US4683195" "US4683202"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:varian-associates],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US4895809/en",
-  :title "Immobilized antigen-antibody displacement process",
-  :status :granted,
-  :id "US4895809",
-  :sourcing :authoritative,
-  :filing-year 1984,
-  :assignee :varian-associates,
-  :grant-year 1990,
-  :cites
-  ["US4036946"
-   "US4108603"
-   "US4251360"
-   "US4264327"
-   "US4277560"
-   "US4456689"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:hoechst-celanese],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US4898916/en",
-  :title
-  "Process for the preparation of poly(vinylphenol) from poly(acetoxystyrene) by acid catalyzed transesterification",
-  :status :granted,
-  :id "US4898916",
-  :sourcing :authoritative,
-  :filing-year 1988,
-  :assignee :hoechst-celanese,
-  :grant-year 1990,
-  :cites ["US3970534" "US4129617" "US4678843" "US4689371"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:bresatac],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US4898951/en",
-  :title
-  "Compounds used as intermediates in the preparations of non-radioactive biological probes",
-  :status :granted,
-  :id "US4898951",
-  :sourcing :authoritative,
-  :filing-year 1988,
-  :assignee :bresatac,
-  :grant-year 1990,
-  :cites
-  ["EP0119448A1"
-   "EP0127438B1"
-   "US4282287"
-   "US4487838"
-   "WO1983002277A1"
-   "WO1984003285A1"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:ei-du-pont-de-nemours-and],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US4906677/en",
-  :title
-  "Multi-component coating composition comprising an anhydride containing polymer, a glycidyl component and a phosphonium catalyst",
-  :status :granted,
-  :id "US4906677",
-  :sourcing :authoritative,
-  :filing-year 1988,
-  :assignee :ei-du-pont-de-nemours-and,
-  :grant-year 1990,
-  :cites
-  ["EP0123793A1"
-   "GB994881A"
-   "US3136736"
-   "US3591533"
-   "US4452948"
-   "US4507411"
-   "US4732791"
-   "US4816500"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:harvard-university],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US4921794/en",
-  :title "T7 DNA polymerase",
-  :status :granted,
-  :id "US4921794",
-  :sourcing :authoritative,
-  :filing-year 1988,
-  :assignee :harvard-university,
-  :grant-year 1990,
-  :cites
-  ["EP0258017A2"
-   "US4224408"
-   "US4331589"
-   "US4394443"
-   "US4395486"
-   "US4555486"
-   "US4663290"
-   "US4683195"
-   "US4683202"
-   "US4767708"
-   "US4786600"
-   "US4795699"
-   "US4800159"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:millipore],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US4923901/en",
-  :title "Membranes with bound oligonucleotides and peptides",
-  :status :granted,
-  :id "US4923901",
-  :sourcing :authoritative,
-  :filing-year 1987,
-  :assignee :millipore,
-  :grant-year 1990,
-  :cites
-  ["US4415732"
-   "US4458066"
-   "US4500707"
-   "US4591614"
-   "US4667025"
-   "US4668777"
-   "US4689405"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:harvard-university],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US4942130/en",
-  :title "T7 DNA polymerase",
-  :status :granted,
-  :id "US4942130",
-  :sourcing :authoritative,
-  :filing-year 1987,
-  :assignee :harvard-university,
-  :grant-year 1990,
-  :cites
-  ["EP0258017A2"
-   "US3444041"
-   "US3444042"
-   "US3661893"
-   "US4072574"
-   "US4224408"
-   "US4331589"
-   "US4363877"
-   "US4394443"
-   "US4395486"
-   "US4483920"
-   "US4483922"
-   "US4486539"
-   "US4521509"
-   "US4555486"
-   "US4556643"
-   "US4563419"
-   "US4591565"
-   "US4656127"
-   "US4663283"
-   "US4663290"
-   "US4670379"
-   "US4675283"
-   "US4683195"
-   "US4683202"
-   "US4707235"
-   "US4729947"
-   "US4767708"
-   "US4786600"
-   "US4795699"
-   "US4795700"
-   "US4800159"],
   :term-years 20,
   :open-license :none}]

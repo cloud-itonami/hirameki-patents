@@ -3822,6 +3822,30 @@
    "US2367107"],
   :term-years 20,
   :open-license :none}
+ {:assignees [:black-clawson],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2627788/en",
+  :title "Paper machinery",
+  :status :granted,
+  :id "US2627788",
+  :sourcing :authoritative,
+  :filing-year 1948,
+  :assignee :black-clawson,
+  :grant-year 1953,
+  :cites
+  ["US1420348"
+   "US1641673"
+   "US1789386"
+   "US1945822"
+   "US2027660"
+   "US2242419"
+   "US2272970"
+   "US2392026"
+   "US2460278"
+   "US449251"],
+  :term-years 20,
+  :open-license :none}
  {:assignees [:phillips-petroleum],
   :jurisdiction :us,
   :field "UNKNOWN",
@@ -8153,6 +8177,31 @@
    "US2729192"],
   :term-years 20,
   :open-license :none}
+ {:assignees [:allen-b-du-mont-laboratories],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2948470/en",
+  :title "Particle counter",
+  :status :granted,
+  :id "US2948470",
+  :sourcing :authoritative,
+  :filing-year 1957,
+  :assignee :allen-b-du-mont-laboratories,
+  :grant-year 1960,
+  :cites
+  ["GB739902A"
+   "US2712065"
+   "US2731202"
+   "US2731204"
+   "US2756627"
+   "US2789765"
+   "US2791377"
+   "US2791695"
+   "US2791697"
+   "US2803406"
+   "US2873363"],
+  :term-years 20,
+  :open-license :none}
  {:assignees [:consolidated-water-power-and-paper],
   :jurisdiction :us,
   :field "UNKNOWN",
@@ -8368,6 +8417,32 @@
    "US2231186"
    "US2480113"
    "US2487865"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:halliburton-oil-well-cementing],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2961046/en",
+  :title
+  "Feeding and counting system for injecting balls into a flow stream",
+  :status :granted,
+  :id "US2961046",
+  :sourcing :authoritative,
+  :filing-year 1958,
+  :assignee :halliburton-oil-well-cementing,
+  :grant-year 1960,
+  :cites
+  ["GB189508950A"
+   "US1211738"
+   "US1999430"
+   "US2011133"
+   "US2306747"
+   "US2440482"
+   "US2551477"
+   "US2634098"
+   "US2698582"
+   "US2729206"
+   "US2790500"],
   :term-years 20,
   :open-license :none}
  {:jurisdiction :us,
@@ -9171,6 +9246,27 @@
    "US2905580"],
   :term-years 20,
   :open-license :none}
+ {:assignees [:texaco],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3004544/en",
+  :title "Continuously measuring slurry density",
+  :status :granted,
+  :id "US3004544",
+  :sourcing :authoritative,
+  :filing-year 1955,
+  :assignee :texaco,
+  :grant-year 1961,
+  :cites
+  ["US1511604"
+   "US2311312"
+   "US2321175"
+   "US2432039"
+   "US2669118"
+   "US2719018"
+   "US2745484"],
+  :term-years 20,
+  :open-license :none}
  {:assignees [:time],
   :jurisdiction :us,
   :field "UNKNOWN",
@@ -9241,6 +9337,29 @@
   :assignee :becton-dickinson-and,
   :grant-year 1961,
   :cites ["US2892755"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:k-and-h-equipment],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3011634/en",
+  :title "Method and apparatus for sorting materials",
+  :status :granted,
+  :id "US3011634",
+  :sourcing :authoritative,
+  :filing-year 1958,
+  :assignee :k-and-h-equipment,
+  :grant-year 1961,
+  :cites
+  ["GB504683A"
+   "US2433685"
+   "US2504731"
+   "US2587686"
+   "US2617526"
+   "US2656923"
+   "US2696297"
+   "US2717693"
+   "US2776747"],
   :term-years 20,
   :open-license :none}
  {:assignees [:eastman-kodak],
@@ -9512,6 +9631,28 @@
    "US2884340"
    "US2901467"
    "US2955958"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:fischer-and-porter],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3027756/en",
+  :title "Solids concentration measuring and regulating device",
+  :status :granted,
+  :id "US3027756",
+  :sourcing :authoritative,
+  :filing-year 1958,
+  :assignee :fischer-and-porter,
+  :grant-year 1962,
+  :cites
+  ["US1225086"
+   "US1789386"
+   "US1966638"
+   "US2210027"
+   "US2339991"
+   "US2409014"
+   "US2426393"
+   "US2618966"],
   :term-years 20,
   :open-license :none}
  {:jurisdiction :us,
@@ -9844,133 +9985,5 @@
   :assignee :unassigned,
   :grant-year 1962,
   :cites ["US2865719"],
-  :term-years 20,
-  :open-license :none}
- {:jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3050915/en",
-  :title
-  "Apparatus for aseptically pouring a bacteriological substrate or the like into cover-carrying vessels",
-  :status :granted,
-  :id "US3050915",
-  :sourcing :authoritative,
-  :filing-year 1960,
-  :assignee :unassigned,
-  :grant-year 1962,
-  :cites ["US2337170" "US2346118" "US2578815" "US2606707" "US2931147"],
-  :term-years 20,
-  :open-license :none}
- {:jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3051603/en",
-  :title "Descumming preparation and process",
-  :status :granted,
-  :id "US3051603",
-  :sourcing :authoritative,
-  :filing-year 1959,
-  :assignee :unassigned,
-  :grant-year 1962,
-  :cites
-  ["GB360126A"
-   "US1106107"
-   "US1717869"
-   "US2211400"
-   "US2529549"
-   "US2888391"
-   "US795216"
-   "US936842"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:floyd-v-richardson],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3052353/en",
-  :title "Ore sorting device",
-  :status :granted,
-  :id "US3052353",
-  :sourcing :authoritative,
-  :filing-year 1958,
-  :assignee :floyd-v-richardson,
-  :grant-year 1962,
-  :cites ["US2362774" "US2617526" "US2630043" "US2717693"],
-  :term-years 20,
-  :open-license :none}
- {:jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3056935/en",
-  :title "Feeler element for a humidostat",
-  :status :granted,
-  :id "US3056935",
-  :sourcing :authoritative,
-  :filing-year 1960,
-  :assignee :unassigned,
-  :grant-year 1962,
-  :cites ["US1648197" "US2937524"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:ei-du-pont-de-nemours-and],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3057749/en",
-  :title "Colored metallic finish",
-  :status :granted,
-  :id "US3057749",
-  :sourcing :authoritative,
-  :filing-year 1959,
-  :assignee :ei-du-pont-de-nemours-and,
-  :grant-year 1962,
-  :cites
-  ["US2453052"
-   "US2625689"
-   "US2683668"
-   "US2769722"
-   "US2878141"
-   "US2941894"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:champion],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3057775/en",
-  :title "Embalming composition",
-  :status :granted,
-  :id "US3057775",
-  :sourcing :authoritative,
-  :filing-year 1959,
-  :assignee :champion,
-  :grant-year 1962,
-  :cites ["US2113842" "US2333182" "US2801216"],
-  :term-years 20,
-  :open-license :none}
- {:jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3057953/en",
-  :title "Target tracking system",
-  :status :granted,
-  :id "US3057953",
-  :sourcing :authoritative,
-  :filing-year 1960,
-  :assignee :unassigned,
-  :grant-year 1962,
-  :cites ["US2734269" "US2842760" "US2917737" "US2938949"],
-  :term-years 20,
-  :open-license :none}
- {:jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3058079/en",
-  :title "Hygrometer elements",
-  :status :granted,
-  :id "US3058079",
-  :sourcing :authoritative,
-  :filing-year 1959,
-  :assignee :unassigned,
-  :grant-year 1962,
-  :cites
-  ["US2391299"
-   "US2609688"
-   "US2613302"
-   "US2707880"
-   "US2862090"
-   "US2876321"],
   :term-years 20,
   :open-license :none}]

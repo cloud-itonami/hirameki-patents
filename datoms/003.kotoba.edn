@@ -6740,6 +6740,47 @@
   ":hirameki/source"
   "https://patents.google.com/patent/US2624160/en"]
  [":db/add"
+  "hirameki-patent:US2627788"
+  ":hirameki.patent/title"
+  "Paper machinery"]
+ [":db/add"
+  "hirameki-patent:US2627788"
+  ":hirameki.patent/jurisdiction"
+  ":us"]
+ [":db/add"
+  "hirameki-patent:US2627788"
+  ":hirameki.patent/field"
+  "UNKNOWN"]
+ [":db/add"
+  "hirameki-patent:US2627788"
+  ":hirameki.patent/assignee"
+  ":black-clawson"]
+ [":db/add"
+  "hirameki-patent:US2627788"
+  ":hirameki.patent/status"
+  ":granted"]
+ [":db/add"
+  "hirameki-patent:US2627788"
+  ":hirameki.patent/open-license"
+  ":none"]
+ [":db/add"
+  "hirameki-patent:US2627788"
+  ":hirameki.obs/release-status"
+  ":public-domain"]
+ [":db/add"
+  "hirameki-patent:US2627788"
+  ":hirameki/sourcing"
+  ":authoritative"]
+ [":db/add" "hirameki-patent:US2627788" ":hirameki/derived" true]
+ [":db/add"
+  "hirameki-patent:US2627788"
+  ":hirameki.obs/years-to-expiry"
+  -58]
+ [":db/add"
+  "hirameki-patent:US2627788"
+  ":hirameki/source"
+  "https://patents.google.com/patent/US2627788/en"]
+ [":db/add"
   "hirameki-patent:US2629446"
   ":hirameki.patent/title"
   "Drilling hole packer"]
@@ -10305,45 +10346,4 @@
  [":db/add"
   "hirameki-patent:US2750524"
   ":hirameki.patent/assignee"
-  ":mergenthaler-linotype"]
- [":db/add"
-  "hirameki-patent:US2750524"
-  ":hirameki.patent/status"
-  ":granted"]
- [":db/add"
-  "hirameki-patent:US2750524"
-  ":hirameki.patent/open-license"
-  ":none"]
- [":db/add"
-  "hirameki-patent:US2750524"
-  ":hirameki.obs/release-status"
-  ":public-domain"]
- [":db/add"
-  "hirameki-patent:US2750524"
-  ":hirameki/sourcing"
-  ":authoritative"]
- [":db/add" "hirameki-patent:US2750524" ":hirameki/derived" true]
- [":db/add"
-  "hirameki-patent:US2750524"
-  ":hirameki.obs/years-to-expiry"
-  -55]
- [":db/add"
-  "hirameki-patent:US2750524"
-  ":hirameki/source"
-  "https://patents.google.com/patent/US2750524/en"]
- [":db/add"
-  "hirameki-patent:US2753760"
-  ":hirameki.patent/title"
-  "Multiple image telescope"]
- [":db/add"
-  "hirameki-patent:US2753760"
-  ":hirameki.patent/jurisdiction"
-  ":us"]
- [":db/add"
-  "hirameki-patent:US2753760"
-  ":hirameki.patent/field"
-  "UNKNOWN"]
- [":db/add"
-  "hirameki-patent:US2753760"
-  ":hirameki.patent/assignee"
-  ":unassigned"]]
+  ":mergenthaler-linotype"]]
