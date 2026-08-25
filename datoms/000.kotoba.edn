@@ -9616,6 +9616,47 @@
   ":hirameki/source"
   "https://patents.google.com/patent/GB844128A/en"]
  [":db/add"
+  "hirameki-patent:GB884570A"
+  ":hirameki.patent/title"
+  "Variable-temperature microscope stage"]
+ [":db/add"
+  "hirameki-patent:GB884570A"
+  ":hirameki.patent/jurisdiction"
+  ":gb"]
+ [":db/add"
+  "hirameki-patent:GB884570A"
+  ":hirameki.patent/field"
+  "UNKNOWN"]
+ [":db/add"
+  "hirameki-patent:GB884570A"
+  ":hirameki.patent/assignee"
+  ":unassigned"]
+ [":db/add"
+  "hirameki-patent:GB884570A"
+  ":hirameki.patent/status"
+  ":pending"]
+ [":db/add"
+  "hirameki-patent:GB884570A"
+  ":hirameki.patent/open-license"
+  ":none"]
+ [":db/add"
+  "hirameki-patent:GB884570A"
+  ":hirameki.obs/release-status"
+  ":pending"]
+ [":db/add"
+  "hirameki-patent:GB884570A"
+  ":hirameki/sourcing"
+  ":authoritative"]
+ [":db/add" "hirameki-patent:GB884570A" ":hirameki/derived" true]
+ [":db/add"
+  "hirameki-patent:GB884570A"
+  ":hirameki.obs/years-to-expiry"
+  -47]
+ [":db/add"
+  "hirameki-patent:GB884570A"
+  ":hirameki/source"
+  "https://patents.google.com/patent/GB884570A/en"]
+ [":db/add"
   "hirameki-patent:GB888624A"
   ":hirameki.patent/title"
   "Block polymers and process for preparation thereof"]
@@ -9970,41 +10011,4 @@
  [":db/add"
   "hirameki-patent:JP2000154204A"
   ":hirameki.obs/release-status"
-  ":pending"]
- [":db/add"
-  "hirameki-patent:JP2000154204A"
-  ":hirameki/sourcing"
-  ":authoritative"]
- [":db/add" "hirameki-patent:JP2000154204A" ":hirameki/derived" true]
- [":db/add"
-  "hirameki-patent:JP2000154204A"
-  ":hirameki.obs/years-to-expiry"
-  -7]
- [":db/add"
-  "hirameki-patent:JP2000154204A"
-  ":hirameki/source"
-  "https://patents.google.com/patent/JP2000154204A/en"]
- [":db/add"
-  "hirameki-patent:JP2000154364A"
-  ":hirameki.patent/title"
-  "Water-dispersed pressure-sensitive adhesive composition and method for producing the same"]
- [":db/add"
-  "hirameki-patent:JP2000154364A"
-  ":hirameki.patent/jurisdiction"
-  ":jp"]
- [":db/add"
-  "hirameki-patent:JP2000154364A"
-  ":hirameki.patent/field"
-  "UNKNOWN"]
- [":db/add"
-  "hirameki-patent:JP2000154364A"
-  ":hirameki.patent/assignee"
-  ":nitto-denko"]
- [":db/add"
-  "hirameki-patent:JP2000154364A"
-  ":hirameki.patent/status"
-  ":pending"]
- [":db/add"
-  "hirameki-patent:JP2000154364A"
-  ":hirameki.patent/open-license"
-  ":none"]]
+  ":pending"]]

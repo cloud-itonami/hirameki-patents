@@ -1,4 +1,41 @@
 [[":db/add"
+  "hirameki-patent:JP2000154204A"
+  ":hirameki/sourcing"
+  ":authoritative"]
+ [":db/add" "hirameki-patent:JP2000154204A" ":hirameki/derived" true]
+ [":db/add"
+  "hirameki-patent:JP2000154204A"
+  ":hirameki.obs/years-to-expiry"
+  -7]
+ [":db/add"
+  "hirameki-patent:JP2000154204A"
+  ":hirameki/source"
+  "https://patents.google.com/patent/JP2000154204A/en"]
+ [":db/add"
+  "hirameki-patent:JP2000154364A"
+  ":hirameki.patent/title"
+  "Water-dispersed pressure-sensitive adhesive composition and method for producing the same"]
+ [":db/add"
+  "hirameki-patent:JP2000154364A"
+  ":hirameki.patent/jurisdiction"
+  ":jp"]
+ [":db/add"
+  "hirameki-patent:JP2000154364A"
+  ":hirameki.patent/field"
+  "UNKNOWN"]
+ [":db/add"
+  "hirameki-patent:JP2000154364A"
+  ":hirameki.patent/assignee"
+  ":nitto-denko"]
+ [":db/add"
+  "hirameki-patent:JP2000154364A"
+  ":hirameki.patent/status"
+  ":pending"]
+ [":db/add"
+  "hirameki-patent:JP2000154364A"
+  ":hirameki.patent/open-license"
+  ":none"]
+ [":db/add"
   "hirameki-patent:JP2000154364A"
   ":hirameki.obs/release-status"
   ":pending"]
@@ -9960,45 +9997,4 @@
  [":db/add"
   "hirameki-patent:US1759124"
   ":hirameki.obs/years-to-expiry"
-  -81]
- [":db/add"
-  "hirameki-patent:US1759124"
-  ":hirameki/source"
-  "https://patents.google.com/patent/US1759124/en"]
- [":db/add"
-  "hirameki-patent:US1765419"
-  ":hirameki.patent/title"
-  "Envelope machine"]
- [":db/add"
-  "hirameki-patent:US1765419"
-  ":hirameki.patent/jurisdiction"
-  ":us"]
- [":db/add"
-  "hirameki-patent:US1765419"
-  ":hirameki.patent/field"
-  "UNKNOWN"]
- [":db/add"
-  "hirameki-patent:US1765419"
-  ":hirameki.patent/assignee"
-  ":international-paper-box-machine"]
- [":db/add"
-  "hirameki-patent:US1765419"
-  ":hirameki.patent/status"
-  ":granted"]
- [":db/add"
-  "hirameki-patent:US1765419"
-  ":hirameki.patent/open-license"
-  ":none"]
- [":db/add"
-  "hirameki-patent:US1765419"
-  ":hirameki.obs/release-status"
-  ":public-domain"]
- [":db/add"
-  "hirameki-patent:US1765419"
-  ":hirameki/sourcing"
-  ":authoritative"]
- [":db/add" "hirameki-patent:US1765419" ":hirameki/derived" true]
- [":db/add"
-  "hirameki-patent:US1765419"
-  ":hirameki.obs/years-to-expiry"
-  -78]]
+  -81]]

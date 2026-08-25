@@ -1,4 +1,31 @@
-[{:jurisdiction :us,
+[{:assignees [:beckman-instruments],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3049118/en",
+  :title "Ion electrode assembly",
+  :status :granted,
+  :id "US3049118",
+  :sourcing :authoritative,
+  :filing-year 1961,
+  :assignee :beckman-instruments,
+  :grant-year 1962,
+  :cites ["US2755243" "US2886771"],
+  :term-years 20,
+  :open-license :none}
+ {:jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3049411/en",
+  :title "Enzymatic method for detection of anticholinesterases",
+  :status :granted,
+  :id "US3049411",
+  :sourcing :authoritative,
+  :filing-year 1959,
+  :assignee :unassigned,
+  :grant-year 1962,
+  :cites ["US2865719"],
+  :term-years 20,
+  :open-license :none}
+ {:jurisdiction :us,
   :field "UNKNOWN",
   :source "https://patents.google.com/patent/US3050915/en",
   :title
@@ -3865,6 +3892,28 @@
   :cites ["US2719843" "US3167540" "US3180859"],
   :term-years 20,
   :open-license :none}
+ {:assignees [:technicon-instruments],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3319512/en",
+  :title
+  "Colorimeter having a plurality of flow cells that are successively moved to a test station",
+  :status :granted,
+  :id "US3319512",
+  :sourcing :authoritative,
+  :filing-year 1962,
+  :assignee :technicon-instruments,
+  :grant-year 1967,
+  :cites
+  ["US2672581"
+   "US2768370"
+   "US2797149"
+   "US3026764"
+   "US3046831"
+   "US3058226"
+   "US3090863"],
+  :term-years 20,
+  :open-license :none}
  {:assignees [:british-cellophane],
   :jurisdiction :us,
   :field "UNKNOWN",
@@ -4312,6 +4361,20 @@
   :assignee :unassigned,
   :grant-year 1967,
   :cites ["US3201389" "US3282920" "US3288780"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:american-optical],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3348547/en",
+  :title "Photocoagulating apparatus",
+  :status :granted,
+  :id "US3348547",
+  :sourcing :authoritative,
+  :filing-year 1964,
+  :assignee :american-optical,
+  :grant-year 1967,
+  :cites ["US2930379" "US3084694" "US3096767"],
   :term-years 20,
   :open-license :none}
  {:assignees [:bausch-and-lomb],
@@ -5401,6 +5464,20 @@
    "US3297379"],
   :term-years 20,
   :open-license :none}
+ {:assignees [:hughes-aircraft],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3463594/en",
+  :title "Laser tool apparatus",
+  :status :granted,
+  :id "US3463594",
+  :sourcing :authoritative,
+  :filing-year 1965,
+  :assignee :hughes-aircraft,
+  :grant-year 1969,
+  :cites ["US1932337" "US3369101"],
+  :term-years 20,
+  :open-license :none}
  {:jurisdiction :us,
   :field "UNKNOWN",
   :source "https://patents.google.com/patent/US3464798/en",
@@ -5469,6 +5546,21 @@
    "US3197374"
    "US3256152"
    "US3351203"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:litton-systems],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3470373/en",
+  :title
+  "Method for analysis and identification of biologic entities by phosphorescence",
+  :status :granted,
+  :id "US3470373",
+  :sourcing :authoritative,
+  :filing-year 1966,
+  :assignee :litton-systems,
+  :grant-year 1969,
+  :cites ["US2971429" "US3092722" "US3359973"],
   :term-years 20,
   :open-license :none}
  {:assignees [:boehringer-mannheim],
@@ -7127,6 +7219,21 @@
   :cites ["US3297157" "US3517807"],
   :term-years 20,
   :open-license :none}
+ {:assignees [:international-business-machines],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3614232/en",
+  :title
+  "Pattern defect sensing using error free blocking spacial filter",
+  :status :granted,
+  :id "US3614232",
+  :sourcing :authoritative,
+  :filing-year 1968,
+  :assignee :international-business-machines,
+  :grant-year 1971,
+  :cites ["US1135919" "US3085469" "US3418626"],
+  :term-years 20,
+  :open-license :none}
  {:assignees [:deutsche-itt-industries],
   :jurisdiction :us,
   :field "UNKNOWN",
@@ -7644,6 +7751,20 @@
   :assignee :bausch-and-lomb,
   :grant-year 1972,
   :cites ["US3327117" "US3470373" "US3497690"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:bell-telephone-laboratories],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3658420/en",
+  :title "Photomask inspection by spatial filtering",
+  :status :granted,
+  :id "US3658420",
+  :sourcing :authoritative,
+  :filing-year 1969,
+  :assignee :bell-telephone-laboratories,
+  :grant-year 1972,
+  :cites ["US3240108" "US3370268" "US3519331"],
   :term-years 20,
   :open-license :none}
  {:assignees [:national-aeronautics-and-space-administration-nasa],
@@ -8790,6 +8911,21 @@
   :grant-year 1973,
   :term-years 20,
   :open-license :none}
+ {:assignees [:western-electric],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3738752/en",
+  :title
+  "Intensity spatial filter having non-uniformly spaced filter elements",
+  :status :granted,
+  :id "US3738752",
+  :sourcing :authoritative,
+  :filing-year 1972,
+  :assignee :western-electric,
+  :grant-year 1973,
+  :cites ["US3414875" "US3614232" "US3630596" "US3658420"],
+  :term-years 20,
+  :open-license :none}
  {:assignees [:massachusetts-institute-of-technology],
   :jurisdiction :us,
   :field "UNKNOWN",
@@ -8836,6 +8972,21 @@
    "US3447924"
    "US3518083"
    "US3637380"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:gaalen-n-van],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3746166/en",
+  :title
+  "Fish egg sorting apparatus for separating small eggs from larger eggs",
+  :status :granted,
+  :id "US3746166",
+  :sourcing :authoritative,
+  :filing-year 1972,
+  :assignee :gaalen-n-van,
+  :grant-year 1973,
+  :cites ["US1443524" "US1907448" "US3613884"],
   :term-years 20,
   :open-license :none}
  {:assignees [:eastman-kodak],
@@ -9129,158 +9280,5 @@
   :filing-year 1970,
   :assignee :ei-du-pont-de-nemours-and,
   :grant-year 1973,
-  :term-years 20,
-  :open-license :none}
- {:assignees [:f-hoffmann-la-roche],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3775536/en",
-  :title "Opium alkaloid antigens and antibodies specific therefor",
-  :status :granted,
-  :id "US3775536",
-  :sourcing :authoritative,
-  :filing-year 1972,
-  :assignee :f-hoffmann-la-roche,
-  :grant-year 1973,
-  :term-years 20,
-  :open-license :none}
- {:assignees [:monsanto],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3776819/en",
-  :title "Urea determination and electrode therefor",
-  :status :granted,
-  :id "US3776819",
-  :sourcing :authoritative,
-  :filing-year 1969,
-  :assignee :monsanto,
-  :grant-year 1973,
-  :term-years 20,
-  :open-license :none}
- {:assignees [:international-business-machines],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3779806/en",
-  :title "Electron beam sensitive polymer t-butyl methacrylate resist",
-  :status :granted,
-  :id "US3779806",
-  :sourcing :authoritative,
-  :filing-year 1972,
-  :assignee :international-business-machines,
-  :grant-year 1973,
-  :cites
-  ["US3392051"
-   "US3436468"
-   "US3535137"
-   "US3607382"
-   "US3650796"
-   "US3696742"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:ernst-leitz-wetzlar],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3781110/en",
-  :title "Optical range finding system",
-  :status :granted,
-  :id "US3781110",
-  :sourcing :authoritative,
-  :filing-year 1972,
-  :assignee :ernst-leitz-wetzlar,
-  :grant-year 1973,
-  :term-years 20,
-  :open-license :none}
- {:assignees [:american-optical],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3782823/en",
-  :title "Laser microprobe",
-  :status :granted,
-  :id "US3782823",
-  :sourcing :authoritative,
-  :filing-year 1972,
-  :assignee :american-optical,
-  :grant-year 1974,
-  :cites ["US3348547" "US3463594"],
-  :term-years 20,
-  :open-license :none}
- {:jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3787290/en",
-  :title
-  "Method and means for assaying biological factors demonstrating quantal response",
-  :status :granted,
-  :id "US3787290",
-  :sourcing :authoritative,
-  :filing-year 1972,
-  :assignee :unassigned,
-  :grant-year 1974,
-  :cites
-  ["US2129754"
-   "US2771398"
-   "US2904474"
-   "US2956931"
-   "US3001914"
-   "US3043669"
-   "US3107204"
-   "US3389966"
-   "US3480400"
-   "US3509026"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:beckman-instruments],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3787309/en",
-  :title "Specific ion electrode and method of making said electrode",
-  :status :granted,
-  :id "US3787309",
-  :sourcing :authoritative,
-  :filing-year 1972,
-  :assignee :beckman-instruments,
-  :grant-year 1974,
-  :cites ["FR1402343A" "FR1505744A"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:abbott-laboratories],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3789116/en",
-  :title "Fluorescent labeled antibody reagent",
-  :status :granted,
-  :id "US3789116",
-  :sourcing :authoritative,
-  :filing-year 1970,
-  :assignee :abbott-laboratories,
-  :grant-year 1974,
-  :cites ["FR1299171A" "GB1180957A" "US3551296"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:us-department-of-health-and-human-services],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3790663/en",
-  :title
-  "Preparation of dry antiserum coated solid-phase for radioimmunoassay of antigens",
-  :status :granted,
-  :id "US3790663",
-  :sourcing :authoritative,
-  :filing-year 1970,
-  :assignee :us-department-of-health-and-human-services,
-  :grant-year 1974,
-  :term-years 20,
-  :open-license :none}
- {:assignees [:bio-physics-systems],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3791517/en",
-  :title "Digital fluidic amplifier particle sorter",
-  :status :granted,
-  :id "US3791517",
-  :sourcing :authoritative,
-  :filing-year 1973,
-  :assignee :bio-physics-systems,
-  :grant-year 1974,
-  :cites ["US3560754" "US3710933"],
   :term-years 20,
   :open-license :none}]

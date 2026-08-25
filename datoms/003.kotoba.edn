@@ -1,4 +1,45 @@
 [[":db/add"
+  "hirameki-patent:US2364505"
+  ":hirameki.patent/assignee"
+  ":champion-paper-and-fibre"]
+ [":db/add"
+  "hirameki-patent:US2364505"
+  ":hirameki.patent/status"
+  ":granted"]
+ [":db/add"
+  "hirameki-patent:US2364505"
+  ":hirameki.patent/open-license"
+  ":none"]
+ [":db/add"
+  "hirameki-patent:US2364505"
+  ":hirameki.obs/release-status"
+  ":public-domain"]
+ [":db/add"
+  "hirameki-patent:US2364505"
+  ":hirameki/sourcing"
+  ":authoritative"]
+ [":db/add" "hirameki-patent:US2364505" ":hirameki/derived" true]
+ [":db/add"
+  "hirameki-patent:US2364505"
+  ":hirameki.obs/years-to-expiry"
+  -66]
+ [":db/add"
+  "hirameki-patent:US2364505"
+  ":hirameki/source"
+  "https://patents.google.com/patent/US2364505/en"]
+ [":db/add"
+  "hirameki-patent:US2367670"
+  ":hirameki.patent/title"
+  "Cementing process"]
+ [":db/add"
+  "hirameki-patent:US2367670"
+  ":hirameki.patent/jurisdiction"
+  ":us"]
+ [":db/add"
+  "hirameki-patent:US2367670"
+  ":hirameki.patent/field"
+  "UNKNOWN"]
+ [":db/add"
   "hirameki-patent:US2367670"
   ":hirameki.patent/assignee"
   ":ei-du-pont-de-nemours-and"]
@@ -10309,41 +10350,4 @@
  [":db/add"
   "hirameki-patent:US2749989"
   ":hirameki.patent/status"
-  ":granted"]
- [":db/add"
-  "hirameki-patent:US2749989"
-  ":hirameki.patent/open-license"
-  ":none"]
- [":db/add"
-  "hirameki-patent:US2749989"
-  ":hirameki.obs/release-status"
-  ":public-domain"]
- [":db/add"
-  "hirameki-patent:US2749989"
-  ":hirameki/sourcing"
-  ":authoritative"]
- [":db/add" "hirameki-patent:US2749989" ":hirameki/derived" true]
- [":db/add"
-  "hirameki-patent:US2749989"
-  ":hirameki.obs/years-to-expiry"
-  -55]
- [":db/add"
-  "hirameki-patent:US2749989"
-  ":hirameki/source"
-  "https://patents.google.com/patent/US2749989/en"]
- [":db/add"
-  "hirameki-patent:US2750524"
-  ":hirameki.patent/title"
-  "Perforate mask for multicolor television apparatus and method of producting same"]
- [":db/add"
-  "hirameki-patent:US2750524"
-  ":hirameki.patent/jurisdiction"
-  ":us"]
- [":db/add"
-  "hirameki-patent:US2750524"
-  ":hirameki.patent/field"
-  "UNKNOWN"]
- [":db/add"
-  "hirameki-patent:US2750524"
-  ":hirameki.patent/assignee"
-  ":mergenthaler-linotype"]]
+  ":granted"]]

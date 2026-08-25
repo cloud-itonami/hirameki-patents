@@ -1,4 +1,17 @@
-[{:assignees [:ei-du-pont-de-nemours-and],
+[{:assignees [:lowe-paper],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2267470/en",
+  :title "Method and means for coating paper",
+  :status :granted,
+  :id "US2267470",
+  :sourcing :authoritative,
+  :filing-year 1938,
+  :assignee :lowe-paper,
+  :grant-year 1941,
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:ei-du-pont-de-nemours-and],
   :jurisdiction :us,
   :field "UNKNOWN",
   :source "https://patents.google.com/patent/US2268611/en",
@@ -7220,6 +7233,20 @@
    "US2691259"],
   :term-years 20,
   :open-license :none}
+ {:assignees [:e-h-sargent-and],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2878106/en",
+  :title "Automatic differential potentiometric titrator",
+  :status :granted,
+  :id "US2878106",
+  :sourcing :authoritative,
+  :filing-year 1955,
+  :assignee :e-h-sargent-and,
+  :grant-year 1959,
+  :cites ["US1684645" "US2621673"],
+  :term-years 20,
+  :open-license :none}
  {:jurisdiction :us,
   :field "UNKNOWN",
   :source "https://patents.google.com/patent/US2878388/en",
@@ -7303,6 +7330,25 @@
   :assignee :crown-zellerbach,
   :grant-year 1959,
   :cites ["CA508732A" "US2648487" "US2762504"],
+  :term-years 20,
+  :open-license :none}
+ {:jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2885396/en",
+  :title "N-glycosides of 5-fluorouracil",
+  :status :granted,
+  :id "US2885396",
+  :sourcing :authoritative,
+  :filing-year 1957,
+  :assignee :unassigned,
+  :grant-year 1959,
+  :cites
+  ["US2146899"
+   "US2342760"
+   "US2374503"
+   "US2698844"
+   "US2770573"
+   "US2795580"],
   :term-years 20,
   :open-license :none}
  {:assignees [:johnson-and-johnson],
@@ -9958,32 +10004,5 @@
    "US2854351"
    "US2934510"
    "US2938876"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:beckman-instruments],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3049118/en",
-  :title "Ion electrode assembly",
-  :status :granted,
-  :id "US3049118",
-  :sourcing :authoritative,
-  :filing-year 1961,
-  :assignee :beckman-instruments,
-  :grant-year 1962,
-  :cites ["US2755243" "US2886771"],
-  :term-years 20,
-  :open-license :none}
- {:jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3049411/en",
-  :title "Enzymatic method for detection of anticholinesterases",
-  :status :granted,
-  :id "US3049411",
-  :sourcing :authoritative,
-  :filing-year 1959,
-  :assignee :unassigned,
-  :grant-year 1962,
-  :cites ["US2865719"],
   :term-years 20,
   :open-license :none}]
