@@ -1,4 +1,60 @@
-[{:assignees [:consolidated-electrodynamics],
+[{:assignees [:siemens],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3036006/en",
+  :title "Method of doping a silicon monocrystal",
+  :status :granted,
+  :id "US3036006",
+  :sourcing :authoritative,
+  :filing-year 1959,
+  :assignee :siemens,
+  :grant-year 1962,
+  :cites
+  ["US2419237"
+   "US2437269"
+   "US2785095"
+   "US2810870"
+   "US2873221"
+   "US2879190"
+   "US2906647"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:scientific-industries],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3036893/en",
+  :title "Automatic chemical analyzer",
+  :status :granted,
+  :id "US3036893",
+  :sourcing :authoritative,
+  :filing-year 1960,
+  :assignee :scientific-industries,
+  :grant-year 1962,
+  :cites ["US2113063" "US2129754" "US2408058" "US2554414" "US2602729"],
+  :term-years 20,
+  :open-license :none}
+ {:jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3036894/en",
+  :title "Method of using testing containers",
+  :status :granted,
+  :id "US3036894",
+  :sourcing :authoritative,
+  :filing-year 1958,
+  :assignee :unassigned,
+  :grant-year 1962,
+  :cites
+  ["US1983681"
+   "US2069333"
+   "US2487077"
+   "US2508197"
+   "US2534229"
+   "US2575467"
+   "US2770601"
+   "US2785057"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:consolidated-electrodynamics],
   :jurisdiction :us,
   :field "UNKNOWN",
   :source "https://patents.google.com/patent/US3036895/en",
@@ -574,6 +630,32 @@
   :assignee :unassigned,
   :grant-year 1963,
   :cites ["GB348858A" "US1870258" "US2919796"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:sprague-electric],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3073007/en",
+  :title "Method and means for assembling capacitors",
+  :status :granted,
+  :id "US3073007",
+  :sourcing :authoritative,
+  :filing-year 1958,
+  :assignee :sprague-electric,
+  :grant-year 1963,
+  :cites
+  ["US1619406"
+   "US1717243"
+   "US1926842"
+   "US1939883"
+   "US2089564"
+   "US2101860"
+   "US2387759"
+   "US2427417"
+   "US2766510"
+   "US2929130"
+   "US2953840"
+   "US767465"],
   :term-years 20,
   :open-license :none}
  {:assignees [:hynson-westcott-and-dunning],
@@ -2029,6 +2111,26 @@
   :assignee :schwarz-biores,
   :grant-year 1965,
   :cites ["US3049536"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:nippon-electric],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3171187/en",
+  :title "Method of manufacturing semiconductor devices",
+  :status :granted,
+  :id "US3171187",
+  :sourcing :authoritative,
+  :filing-year 1963,
+  :assignee :nippon-electric,
+  :grant-year 1965,
+  :cites
+  ["GB809877A"
+   "US2627545"
+   "US2900584"
+   "US2985806"
+   "US3061766"
+   "US3065525"],
   :term-years 20,
   :open-license :none}
  {:assignees [:spofa-vereinigte-pharma-werke],
@@ -3649,6 +3751,26 @@
   :cites ["US3079379" "US3155646" "US3171833"],
   :term-years 20,
   :open-license :none}
+ {:assignees [:telefunken-patentverwertungs],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3281628/en",
+  :title "Automated semiconductor device method and structure",
+  :status :granted,
+  :id "US3281628",
+  :sourcing :authoritative,
+  :filing-year 1965,
+  :assignee :telefunken-patentverwertungs,
+  :grant-year 1966,
+  :cites
+  ["US2434967"
+   "US2750654"
+   "US3025439"
+   "US3118016"
+   "US3171187"
+   "US3184658"],
+  :term-years 20,
+  :open-license :none}
  {:jurisdiction :us,
   :field "UNKNOWN",
   :source "https://patents.google.com/patent/US3282726/en",
@@ -4112,6 +4234,20 @@
   :assignee :unassigned,
   :grant-year 1967,
   :cites ["US2298506" "US2535249" "US3064641" "US3085566" "US3207151"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:general-micro-electronics],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3317287/en",
+  :title "Assembly for packaging microelectronic devices",
+  :status :granted,
+  :id "US3317287",
+  :sourcing :authoritative,
+  :filing-year 1966,
+  :assignee :general-micro-electronics,
+  :grant-year 1967,
+  :cites ["US2088949" "US2457616" "US2700212" "US2802897"],
   :term-years 20,
   :open-license :none}
  {:assignees [:beckman-instruments],
@@ -9177,122 +9313,5 @@
   :assignee :tetra-tech,
   :grant-year 1973,
   :cites ["US3005097" "US3600091"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:purdue-research-foundation],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3730844/en",
-  :title "Polynucleotide analysis",
-  :status :granted,
-  :id "US3730844",
-  :sourcing :authoritative,
-  :filing-year 1971,
-  :assignee :purdue-research-foundation,
-  :grant-year 1973,
-  :term-years 20,
-  :open-license :none}
- {:assignees [:agfa-gevaert],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3733989/en",
-  :title "Automatic focusing arrangement",
-  :status :granted,
-  :id "US3733989",
-  :sourcing :authoritative,
-  :filing-year 1971,
-  :assignee :agfa-gevaert,
-  :grant-year 1973,
-  :term-years 20,
-  :open-license :none}
- {:assignees [:us-atomic-energy-commission-aec],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3735001/en",
-  :title "Technetium bone scanning medium",
-  :status :granted,
-  :id "US3735001",
-  :sourcing :authoritative,
-  :filing-year 1972,
-  :assignee :us-atomic-energy-commission-aec,
-  :grant-year 1973,
-  :term-years 20,
-  :open-license :none}
- {:assignees [:western-electric],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3738752/en",
-  :title
-  "Intensity spatial filter having non-uniformly spaced filter elements",
-  :status :granted,
-  :id "US3738752",
-  :sourcing :authoritative,
-  :filing-year 1972,
-  :assignee :western-electric,
-  :grant-year 1973,
-  :cites ["US3414875" "US3614232" "US3630596" "US3658420"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:massachusetts-institute-of-technology],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3742230/en",
-  :title "Soft x-ray mask support substrate",
-  :status :granted,
-  :id "US3742230",
-  :sourcing :authoritative,
-  :filing-year 1972,
-  :assignee :massachusetts-institute-of-technology,
-  :grant-year 1973,
-  :cites ["US3637380"],
-  :term-years 20,
-  :open-license :none}
- {:jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3743090/en",
-  :title
-  "Method and apparatus for selectively removing pre-identified articles from a conveyor system",
-  :status :granted,
-  :id "US3743090",
-  :sourcing :authoritative,
-  :filing-year 1971,
-  :assignee :unassigned,
-  :grant-year 1973,
-  :cites ["US3144926" "US3460673" "US3463566" "US3516654" "US3612250"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:massachusetts-institute-of-technology],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3743842/en",
-  :title "Soft x-ray lithographic apparatus and process",
-  :status :granted,
-  :id "US3743842",
-  :sourcing :authoritative,
-  :filing-year 1972,
-  :assignee :massachusetts-institute-of-technology,
-  :grant-year 1973,
-  :cites
-  ["US1933652"
-   "US2382674"
-   "US3118786"
-   "US3447924"
-   "US3518083"
-   "US3637380"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:gaalen-n-van],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3746166/en",
-  :title
-  "Fish egg sorting apparatus for separating small eggs from larger eggs",
-  :status :granted,
-  :id "US3746166",
-  :sourcing :authoritative,
-  :filing-year 1972,
-  :assignee :gaalen-n-van,
-  :grant-year 1973,
-  :cites ["US1443524" "US1907448" "US3613884"],
   :term-years 20,
   :open-license :none}]

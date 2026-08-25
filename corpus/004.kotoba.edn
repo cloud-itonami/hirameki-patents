@@ -1,4 +1,337 @@
-[{:assignees [:genentech],
+[{:assignees [:california-institute-of-technology],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US4591567/en",
+  :title
+  "Recombinant DNA screening system including fixed array replicator and support",
+  :status :granted,
+  :id "US4591567",
+  :sourcing :authoritative,
+  :filing-year 1983,
+  :assignee :california-institute-of-technology,
+  :grant-year 1986,
+  :cites
+  ["US2956931"
+   "US3787290"
+   "US3912596"
+   "US4235971"
+   "US4252897"
+   "US4368272"
+   "US4397955"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:johns-hopkins-university],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US4591614/en",
+  :title
+  "Preparation of oligodeoxyribonucleoside alkyl or arylphosphonates",
+  :status :granted,
+  :id "US4591614",
+  :sourcing :authoritative,
+  :filing-year 1984,
+  :assignee :johns-hopkins-university,
+  :grant-year 1986,
+  :cites ["US4401796" "US4458066"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:institut-pasteur],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US4592998/en",
+  :title
+  "Process for coupling biological substances by covalent bonds",
+  :status :granted,
+  :id "US4592998",
+  :sourcing :authoritative,
+  :filing-year 1983,
+  :assignee :institut-pasteur,
+  :grant-year 1986,
+  :cites ["US3322634" "US4193982"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:national-research-development-uk],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US4598044/en",
+  :title "Enhanced luminescent or luminometric assay",
+  :status :granted,
+  :id "US4598044",
+  :sourcing :authoritative,
+  :filing-year 1984,
+  :assignee :national-research-development-uk,
+  :grant-year 1986,
+  :cites
+  ["EP0054358A1"
+   "EP0070686A2"
+   "FR2383441A1"
+   "GB2008247A"
+   "GB2026690A"
+   "GB2070768A"
+   "US4104029"
+   "US4302534"
+   "US4521511"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:hri-associates],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US4599303/en",
+  :title
+  "Nucleic acid hybridization assay employing probes crosslinkable to target sequences",
+  :status :granted,
+  :id "US4599303",
+  :sourcing :authoritative,
+  :filing-year 1983,
+  :assignee :hri-associates,
+  :grant-year 1986,
+  :cites ["EP0070687B1" "US3798131"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:inmont],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US4600737/en",
+  :title
+  "Water dilutable acrylated epoxy-phenolic coating compositions",
+  :status :granted,
+  :id "US4600737",
+  :sourcing :authoritative,
+  :filing-year 1985,
+  :assignee :inmont,
+  :grant-year 1986,
+  :cites
+  ["US3336241"
+   "US3477990"
+   "US3705206"
+   "US3943187"
+   "US3997694"
+   "US4145323"
+   "US4212781"
+   "US4289674"
+   "US4294741"
+   "US4308185"
+   "US4335028"
+   "US4335829"
+   "US4341678"
+   "US4444923"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:eg&g-mason-research-institute],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US4610869/en",
+  :title
+  "Method for in vivo testing of biological response modifiers including monoclonal antibodies",
+  :status :granted,
+  :id "US4610869",
+  :sourcing :authoritative,
+  :filing-year 1983,
+  :assignee :eg&g-mason-research-institute,
+  :grant-year 1986,
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:harvard-university],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US4613566/en",
+  :title "Hybridization assay and kit therefor",
+  :status :granted,
+  :id "US4613566",
+  :sourcing :authoritative,
+  :filing-year 1984,
+  :assignee :harvard-university,
+  :grant-year 1986,
+  :cites ["US2783894" "US3876738" "US4302204" "US4455370" "US4533628"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:cetus],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US4617261/en",
+  :title "Process for labeling nucleic acids and hybridization probes",
+  :status :granted,
+  :id "US4617261",
+  :sourcing :authoritative,
+  :filing-year 1985,
+  :assignee :cetus,
+  :grant-year 1986,
+  :cites
+  ["EP0063879A2"
+   "EP0131830A1"
+   "GB2019408A"
+   "US4124598"
+   "US4358535"
+   "US4542102"
+   "WO1985002628A1"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:fuji-electric],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US4617621/en",
+  :title "Inverters with reduced distributed inductance",
+  :status :granted,
+  :id "US4617621",
+  :sourcing :authoritative,
+  :filing-year 1985,
+  :assignee :fuji-electric,
+  :grant-year 1986,
+  :cites ["US3260978" "US3792286" "US4128868"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:cetus],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US4623627/en",
+  :title
+  "Monoclonal antibody having specificity for the double-stranded conformation of native DNA and diagnostic methods using same",
+  :status :granted,
+  :id "US4623627",
+  :sourcing :authoritative,
+  :filing-year 1983,
+  :assignee :cetus,
+  :grant-year 1986,
+  :cites ["EP0063879A2" "US4358535"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:michigan-state-university-msu],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US4624915/en",
+  :title "Positive selection sorting of cells",
+  :status :granted,
+  :id "US4624915",
+  :sourcing :authoritative,
+  :filing-year 1983,
+  :assignee :michigan-state-university-msu,
+  :grant-year 1986,
+  :cites
+  ["GB2100425A"
+   "US3712746"
+   "US3941670"
+   "US3984307"
+   "US4045772"
+   "US4090128"
+   "US4090921"
+   "US4172227"
+   "US4175662"
+   "US4204117"
+   "US4209256"
+   "US4284897"
+   "US4354114"
+   "US4395397"
+   "US4513438"
+   "WO1980000188A1"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:allied],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US4629689/en",
+  :title
+  "Binding assay with amplified read-out and gas-phase detection",
+  :status :granted,
+  :id "US4629689",
+  :sourcing :authoritative,
+  :filing-year 1984,
+  :assignee :allied,
+  :grant-year 1986,
+  :cites ["GB2078370A" "GB2102946A" "US4197369" "US4322495"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:gte-products],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US4646127/en",
+  :title "Scrap-less taping system for IC lead-frames",
+  :status :granted,
+  :id "US4646127",
+  :sourcing :authoritative,
+  :filing-year 1986,
+  :assignee :gte-products,
+  :grant-year 1987,
+  :cites ["US4480150"],
+  :term-years 20,
+  :open-license :none}
+ {:jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US465212/en",
+  :title "Feed-water regulator",
+  :status :granted,
+  :id "US465212",
+  :sourcing :authoritative,
+  :assignee :unassigned,
+  :grant-year 1891,
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:diagnostic-research-lp],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US4652517/en",
+  :title
+  "Methods for the in vitro detection and identification of unknown pathogens or genetic entities",
+  :status :granted,
+  :id "US4652517",
+  :sourcing :authoritative,
+  :filing-year 1984,
+  :assignee :diagnostic-research-lp,
+  :grant-year 1987,
+  :cites ["US4358535" "US4407942"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:amersham-international],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US4656127/en",
+  :title "Method of detecting mutations in DNA and RNA",
+  :status :granted,
+  :id "US4656127",
+  :sourcing :authoritative,
+  :filing-year 1984,
+  :assignee :amersham-international,
+  :grant-year 1987,
+  :cites ["US4351901" "US4358535" "US4521509"],
+  :term-years 20,
+  :open-license :none}
+ {:jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US4656252/en",
+  :title
+  "Amidobiotin compounds useful in a avidin-biotin multiple layering process",
+  :status :granted,
+  :id "US4656252",
+  :sourcing :authoritative,
+  :filing-year 1984,
+  :assignee :unassigned,
+  :grant-year 1987,
+  :cites ["US4228237" "US4230797" "US4298685"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:general-motors],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US4661372/en",
+  :title
+  "UV-induced copper-catalyzed electroless deposition onto styrene-derivative polymer surface",
+  :status :granted,
+  :id "US4661372",
+  :sourcing :authoritative,
+  :filing-year 1985,
+  :assignee :general-motors,
+  :grant-year 1987,
+  :cites
+  ["US3773514"
+   "US4165394"
+   "US4250225"
+   "US4349583"
+   "US4354911"
+   "US4440801"
+   "US4568562"
+   "US4574095"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:genentech],
   :jurisdiction :us,
   :field "UNKNOWN",
   :source "https://patents.google.com/patent/US4663283/en",

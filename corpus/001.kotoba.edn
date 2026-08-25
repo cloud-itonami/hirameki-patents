@@ -1,5 +1,30 @@
 [{:jurisdiction :us,
   :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2261564/en",
+  :title "Method of removing stuck pipe from wells",
+  :status :granted,
+  :id "US2261564",
+  :sourcing :authoritative,
+  :filing-year 1940,
+  :assignee :unassigned,
+  :grant-year 1941,
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:westinghouse-electric],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2262370/en",
+  :title "Smoke meter",
+  :status :granted,
+  :id "US2262370",
+  :sourcing :authoritative,
+  :filing-year 1939,
+  :assignee :westinghouse-electric,
+  :grant-year 1941,
+  :term-years 20,
+  :open-license :none}
+ {:jurisdiction :us,
+  :field "UNKNOWN",
   :source "https://patents.google.com/patent/US2262655/en",
   :title "Formation tester",
   :status :granted,
@@ -8648,6 +8673,33 @@
    "US2755402"],
   :term-years 20,
   :open-license :none}
+ {:assignees [:texas-instruments],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2962058/en",
+  :title "Apparatus for forming point contacts for transistors",
+  :status :granted,
+  :id "US2962058",
+  :sourcing :authoritative,
+  :filing-year 1953,
+  :assignee :texas-instruments,
+  :grant-year 1960,
+  :cites
+  ["US1261084"
+   "US1792219"
+   "US1849680"
+   "US2280573"
+   "US2575771"
+   "US2641286"
+   "US2646609"
+   "US2662997"
+   "US2677173"
+   "US2711791"
+   "US2732614"
+   "US2744574"
+   "US365212"],
+  :term-years 20,
+  :open-license :none}
  {:assignees [:xerox],
   :jurisdiction :us,
   :field "UNKNOWN",
@@ -9931,61 +9983,5 @@
   :sourcing :authoritative,
   :assignee :unassigned,
   :grant-year 1860,
-  :term-years 20,
-  :open-license :none}
- {:assignees [:siemens],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3036006/en",
-  :title "Method of doping a silicon monocrystal",
-  :status :granted,
-  :id "US3036006",
-  :sourcing :authoritative,
-  :filing-year 1959,
-  :assignee :siemens,
-  :grant-year 1962,
-  :cites
-  ["US2419237"
-   "US2437269"
-   "US2785095"
-   "US2810870"
-   "US2873221"
-   "US2879190"
-   "US2906647"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:scientific-industries],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3036893/en",
-  :title "Automatic chemical analyzer",
-  :status :granted,
-  :id "US3036893",
-  :sourcing :authoritative,
-  :filing-year 1960,
-  :assignee :scientific-industries,
-  :grant-year 1962,
-  :cites ["US2113063" "US2129754" "US2408058" "US2554414" "US2602729"],
-  :term-years 20,
-  :open-license :none}
- {:jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3036894/en",
-  :title "Method of using testing containers",
-  :status :granted,
-  :id "US3036894",
-  :sourcing :authoritative,
-  :filing-year 1958,
-  :assignee :unassigned,
-  :grant-year 1962,
-  :cites
-  ["US1983681"
-   "US2069333"
-   "US2487077"
-   "US2508197"
-   "US2534229"
-   "US2575467"
-   "US2770601"
-   "US2785057"],
   :term-years 20,
   :open-license :none}]
