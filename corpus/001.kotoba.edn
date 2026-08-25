@@ -1,6 +1,32 @@
 [{:assignees [:ei-du-pont-de-nemours-and],
   :jurisdiction :us,
   :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2268611/en",
+  :title "Process of laminating",
+  :status :granted,
+  :id "US2268611",
+  :sourcing :authoritative,
+  :filing-year 1937,
+  :assignee :ei-du-pont-de-nemours-and,
+  :grant-year 1942,
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:congoleum-nairn],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2272144/en",
+  :title "Covering structure",
+  :status :granted,
+  :id "US2272144",
+  :sourcing :authoritative,
+  :filing-year 1940,
+  :assignee :congoleum-nairn,
+  :grant-year 1942,
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:ei-du-pont-de-nemours-and],
+  :jurisdiction :us,
+  :field "UNKNOWN",
   :source "https://patents.google.com/patent/US2273880/en",
   :title "Moistureproof sheet wrapping material",
   :status :granted,
@@ -465,6 +491,18 @@
   :sourcing :authoritative,
   :filing-year 1941,
   :assignee :canal-nat-bank-of-portland,
+  :grant-year 1943,
+  :term-years 20,
+  :open-license :none}
+ {:jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2320065/en",
+  :title "Toilet ventilator",
+  :status :granted,
+  :id "US2320065",
+  :sourcing :authoritative,
+  :filing-year 1941,
+  :assignee :unassigned,
   :grant-year 1943,
   :term-years 20,
   :open-license :none}
@@ -4222,6 +4260,21 @@
    "US2262370"
    "US2349992"
    "US2492768"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:carnegie-institution-of-washington],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2658310/en",
+  :title
+  "Apparatus and process for the production of photosynthetic microorganisms, particularly algae",
+  :status :granted,
+  :id "US2658310",
+  :sourcing :authoritative,
+  :filing-year 1950,
+  :assignee :carnegie-institution-of-washington,
+  :grant-year 1953,
+  :cites ["US2062755"],
   :term-years 20,
   :open-license :none}
  {:jurisdiction :us,
@@ -8811,6 +8864,31 @@
   :cites ["US2813326" "US2836878" "US2842723" "US2849664"],
   :term-years 20,
   :open-license :none}
+ {:assignees [:technicon-instruments],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2983184/en",
+  :title "Flow cell for colorimetry of a fluid",
+  :status :granted,
+  :id "US2983184",
+  :sourcing :authoritative,
+  :filing-year 1955,
+  :assignee :technicon-instruments,
+  :grant-year 1961,
+  :cites
+  ["DE724121C"
+   "FR49913E"
+   "FR837918A"
+   "US1900893"
+   "US1931968"
+   "US2288065"
+   "US2467599"
+   "US2549574"
+   "US2649011"
+   "US2686454"
+   "US814036"],
+  :term-years 20,
+  :open-license :none}
  {:assignees [:general-electric],
   :jurisdiction :us,
   :field "UNKNOWN",
@@ -9177,6 +9255,20 @@
   :assignee :eastman-kodak,
   :grant-year 1961,
   :cites ["US2652345" "US2691582" "US2788336" "US2865753"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:technicon-instruments],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3014848/en",
+  :title "Method of performing biological assays",
+  :status :granted,
+  :id "US3014848",
+  :sourcing :authoritative,
+  :filing-year 1958,
+  :assignee :technicon-instruments,
+  :grant-year 1961,
+  :cites ["US2797149" "US668330"],
   :term-years 20,
   :open-license :none}
  {:jurisdiction :us,
@@ -9756,6 +9848,20 @@
   :open-license :none}
  {:jurisdiction :us,
   :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3050915/en",
+  :title
+  "Apparatus for aseptically pouring a bacteriological substrate or the like into cover-carrying vessels",
+  :status :granted,
+  :id "US3050915",
+  :sourcing :authoritative,
+  :filing-year 1960,
+  :assignee :unassigned,
+  :grant-year 1962,
+  :cites ["US2337170" "US2346118" "US2578815" "US2606707" "US2931147"],
+  :term-years 20,
+  :open-license :none}
+ {:jurisdiction :us,
+  :field "UNKNOWN",
   :source "https://patents.google.com/patent/US3051603/en",
   :title "Descumming preparation and process",
   :status :granted,
@@ -9866,116 +9972,5 @@
    "US2707880"
    "US2862090"
    "US2876321"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:columbian-carbon],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3058894/en",
-  :title "Treatment of microorganisms",
-  :status :granted,
-  :id "US3058894",
-  :sourcing :authoritative,
-  :filing-year 1959,
-  :assignee :columbian-carbon,
-  :grant-year 1962,
-  :cites ["GB150318A" "US1711416" "US1718282" "US1738801" "US2428328"],
-  :term-years 20,
-  :open-license :none}
- {:jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3060374/en",
-  :title "Battery testers",
-  :status :granted,
-  :id "US3060374",
-  :sourcing :authoritative,
-  :filing-year 1960,
-  :assignee :unassigned,
-  :grant-year 1962,
-  :cites ["US1373951" "US2922104"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:dow-corning],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3061567/en",
-  :title
-  "Aqueous dispersions of a mixture of siloxanes and an aminoplast resin, method of coating, and article obtained",
-  :status :granted,
-  :id "US3061567",
-  :sourcing :authoritative,
-  :filing-year 1958,
-  :assignee :dow-corning,
-  :grant-year 1962,
-  :cites
-  ["US2588393"
-   "US2612482"
-   "US2728692"
-   "US2757152"
-   "US2774690"
-   "US2807601"
-   "US2985545"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:international-business-machines],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3064519/en",
-  :title "Specimen identification apparatus and method",
-  :status :granted,
-  :id "US3064519",
-  :sourcing :authoritative,
-  :filing-year 1960,
-  :assignee :international-business-machines,
-  :grant-year 1962,
-  :cites ["US2712415" "US2733631"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:kimberly-clark],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3066043/en",
-  :title
-  "Cellulosic product comprising saturated fibrous web having a coating comprising vinyl resin and alkyl acrylate-carboxylic acid plasticizer",
-  :status :granted,
-  :id "US3066043",
-  :sourcing :authoritative,
-  :filing-year 1958,
-  :assignee :kimberly-clark,
-  :grant-year 1962,
-  :cites
-  ["US2125527"
-   "US2201877"
-   "US2311249"
-   "US2330353"
-   "US2366414"
-   "US2438195"
-   "US2631947"
-   "US2636870"
-   "US2676942"
-   "US2682484"
-   "US2748027"
-   "US2763578"
-   "US2790735"
-   "US2829073"
-   "US2868763"
-   "US2887403"
-   "US2910385"
-   "US2944037"
-   "US2989423"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:bell-telephone-laboratories],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3066052/en",
-  :title "Vapor-solid diffusion of semiconductive material",
-  :status :granted,
-  :id "US3066052",
-  :sourcing :authoritative,
-  :filing-year 1958,
-  :assignee :bell-telephone-laboratories,
-  :grant-year 1962,
-  :cites ["US2802760"],
   :term-years 20,
   :open-license :none}]

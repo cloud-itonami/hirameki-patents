@@ -1,4 +1,339 @@
-[{:assignees [:texas-instruments],
+[{:assignees [:research],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3812245/en",
+  :title
+  "Novel compositions for radiotracer localization of deep vein thrombi",
+  :status :granted,
+  :id "US3812245",
+  :sourcing :authoritative,
+  :filing-year 1972,
+  :assignee :research,
+  :grant-year 1974,
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:general-electric],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3813316/en",
+  :title
+  "Microorganisms having multiple compatible degradative energy-generating plasmids and preparation thereof",
+  :status :granted,
+  :id "US3813316",
+  :sourcing :authoritative,
+  :filing-year 1972,
+  :assignee :general-electric,
+  :grant-year 1974,
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:national-aeronautics-and-space-administration-nasa],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3814939/en",
+  :title "Chromato-fluorographic drug detector",
+  :status :granted,
+  :id "US3814939",
+  :sourcing :authoritative,
+  :filing-year 1973,
+  :assignee :national-aeronautics-and-space-administration-nasa,
+  :grant-year 1974,
+  :cites ["US2974227" "US3152251" "US3449571"],
+  :term-years 20,
+  :open-license :none}
+ {:jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3816263/en",
+  :title "Biological test",
+  :status :granted,
+  :id "US3816263",
+  :sourcing :authoritative,
+  :filing-year 1972,
+  :assignee :unassigned,
+  :grant-year 1974,
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:filtering-materials],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3817703/en",
+  :title "Laser energized sterilization method and apparatus",
+  :status :granted,
+  :id "US3817703",
+  :sourcing :authoritative,
+  :filing-year 1971,
+  :assignee :filtering-materials,
+  :grant-year 1974,
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:gd-searle],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3817706/en",
+  :title "Fluorescence quantitative thin layer chromatographic method",
+  :status :granted,
+  :id "US3817706",
+  :sourcing :authoritative,
+  :filing-year 1972,
+  :assignee :gd-searle,
+  :grant-year 1974,
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:syva],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3817837/en",
+  :title "Enzyme amplification assay",
+  :status :granted,
+  :id "US3817837",
+  :sourcing :authoritative,
+  :filing-year 1972,
+  :assignee :syva,
+  :grant-year 1974,
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:corning-glass-works],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3819913/en",
+  :title "Detection of eosinophil cells on a blood smeared slide",
+  :status :granted,
+  :id "US3819913",
+  :sourcing :authoritative,
+  :filing-year 1973,
+  :assignee :corning-glass-works,
+  :grant-year 1974,
+  :cites ["US2817265" "US3315229"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:us-department-of-health-and-human-services],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3821087/en",
+  :title "Cell culture on semi-permeable tubular membranes",
+  :status :granted,
+  :id "US3821087",
+  :sourcing :authoritative,
+  :filing-year 1972,
+  :assignee :us-department-of-health-and-human-services,
+  :grant-year 1974,
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:ei-du-pont-de-nemours-and],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3821145/en",
+  :title
+  "Aqueous coating composition of an acrylic graft copolymer,a linear acrylic polymer and a cross-linking agent",
+  :status :granted,
+  :id "US3821145",
+  :sourcing :authoritative,
+  :filing-year 1972,
+  :assignee :ei-du-pont-de-nemours-and,
+  :grant-year 1974,
+  :term-years 20,
+  :open-license :none}
+ {:jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3823126/en",
+  :title
+  "Process of separating human cancer antigen proteins by gel filtration",
+  :status :granted,
+  :id "US3823126",
+  :sourcing :authoritative,
+  :filing-year 1972,
+  :assignee :unassigned,
+  :grant-year 1974,
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:american-express-investment-management],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3824393/en",
+  :title "System for differential particle counting",
+  :status :granted,
+  :id "US3824393",
+  :sourcing :authoritative,
+  :filing-year 1973,
+  :assignee :american-express-investment-management,
+  :grant-year 1974,
+  :cites
+  ["US2927219"
+   "US2959348"
+   "US3315229"
+   "US3327119"
+   "US3349227"
+   "US3412254"
+   "US3493772"
+   "US3503684"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:leland-stanford-junior-university],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3826364/en",
+  :title "Particle sorting method and apparatus",
+  :status :granted,
+  :id "US3826364",
+  :sourcing :authoritative,
+  :filing-year 1972,
+  :assignee :leland-stanford-junior-university,
+  :grant-year 1974,
+  :cites
+  ["US2948470"
+   "US3011634"
+   "US3380584"
+   "US3661460"
+   "US3669542"
+   "US3675768"
+   "US3710933"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:abbott-laboratories],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3826619/en",
+  :title
+  "Test apparatus for direct radioimmuno-assay for antigens and their antibodies",
+  :status :granted,
+  :id "US3826619",
+  :sourcing :authoritative,
+  :filing-year 1971,
+  :assignee :abbott-laboratories,
+  :grant-year 1974,
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:us-atomic-energy-commission-aec],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3826678/en",
+  :title
+  "Method for preparation of biocompatible and biofunctional materials and product thereof",
+  :status :granted,
+  :id "US3826678",
+  :sourcing :authoritative,
+  :filing-year 1972,
+  :assignee :us-atomic-energy-commission-aec,
+  :grant-year 1974,
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:massachusetts-institute-of-technology],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3826920/en",
+  :title "Fluorescent gas analyzer with calibration system",
+  :status :granted,
+  :id "US3826920",
+  :sourcing :authoritative,
+  :filing-year 1973,
+  :assignee :massachusetts-institute-of-technology,
+  :grant-year 1974,
+  :cites
+  ["US2286985"
+   "US2288942"
+   "US2736813"
+   "US2872588"
+   "US3496489"
+   "US3507987"
+   "US3510648"
+   "US3696247"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:canon],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3827064/en",
+  :title "Focus detector device",
+  :status :granted,
+  :id "US3827064",
+  :sourcing :authoritative,
+  :filing-year 1973,
+  :assignee :canon,
+  :grant-year 1974,
+  :cites
+  ["US3385190"
+   "US3504610"
+   "US3532043"
+   "US3605596"
+   "US3611895"
+   "US3618499"
+   "US3678835"
+   "US3691922"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:bio-physics-systems],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3827555/en",
+  :title "Particle sorter with segregation indicator",
+  :status :granted,
+  :id "US3827555",
+  :sourcing :authoritative,
+  :filing-year 1973,
+  :assignee :bio-physics-systems,
+  :grant-year 1974,
+  :cites
+  ["US2333791"
+   "US3269419"
+   "US3362421"
+   "US3508654"
+   "US3508655"
+   "US3560754"
+   "US3710933"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:geometric-data],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3827804/en",
+  :title
+  "Color separation for discrimination in pattern recognition systems",
+  :status :granted,
+  :id "US3827804",
+  :sourcing :authoritative,
+  :filing-year 1972,
+  :assignee :geometric-data,
+  :grant-year 1974,
+  :cites
+  ["US3188907"
+   "US3284566"
+   "US3315229"
+   "US3330904"
+   "US3497690"
+   "US3657537"
+   "US3663801"
+   "US3675768"
+   "US3699336"
+   "US3703337"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:us-atomic-energy-commission-aec],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3829223/en",
+  :title
+  "Mixing rotor for fast analyzer of rotary cuvette type with means for enhancing the mixing of sample and reagent liquids",
+  :status :granted,
+  :id "US3829223",
+  :sourcing :authoritative,
+  :filing-year 1973,
+  :assignee :us-atomic-energy-commission-aec,
+  :grant-year 1974,
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:aerospace],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3829696/en",
+  :title "Atmospheric no monitor",
+  :status :granted,
+  :id "US3829696",
+  :sourcing :authoritative,
+  :filing-year 1973,
+  :assignee :aerospace,
+  :grant-year 1974,
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:texas-instruments],
   :jurisdiction :us,
   :field "UNKNOWN",
   :source "https://patents.google.com/patent/US3831432/en",
@@ -9244,371 +9579,5 @@
    "US4795699"
    "US4795700"
    "US4800159"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:harvard-university],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US4946786/en",
-  :title "T7 DNA polymerase",
-  :status :granted,
-  :id "US4946786",
-  :sourcing :authoritative,
-  :filing-year 1990,
-  :assignee :harvard-university,
-  :grant-year 1990,
-  :cites
-  ["EP0258017A2"
-   "US3444041"
-   "US3444042"
-   "US3661893"
-   "US4072574"
-   "US4224408"
-   "US4331589"
-   "US4363877"
-   "US4394443"
-   "US4395486"
-   "US4483920"
-   "US4483922"
-   "US4486539"
-   "US4521509"
-   "US4555486"
-   "US4556643"
-   "US4563419"
-   "US4591565"
-   "US4656127"
-   "US4663283"
-   "US4663290"
-   "US4670379"
-   "US4675283"
-   "US4683195"
-   "US4683202"
-   "US4707235"
-   "US4729947"
-   "US4767708"
-   "US4786600"
-   "US4795699"
-   "US4795700"
-   "US4800159"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:government-of-the-united-states-of-america],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US4962037/en",
-  :title "Method for rapid base sequencing in DNA and RNA",
-  :status :granted,
-  :id "US4962037",
-  :sourcing :authoritative,
-  :filing-year 1987,
-  :assignee :government-of-the-united-states-of-america,
-  :grant-year 1990,
-  :cites ["EP0251575A1" "US3730844" "US4521509"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:cetus],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US4965188/en",
-  :title
-  "Process for amplifying, detecting, and/or cloning nucleic acid sequences using a thermostable enzyme",
-  :status :granted,
-  :id "US4965188",
-  :sourcing :authoritative,
-  :filing-year 1987,
-  :assignee :cetus,
-  :grant-year 1990,
-  :cites
-  ["EP0086548A2"
-   "EP0138242A1"
-   "EP0200362B1"
-   "EP0201184B1"
-   "EP0258017A2"
-   "US4351901"
-   "US4683194"
-   "US4683195"
-   "US4683202"
-   "US4800159"
-   "US4889818"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:bio-metric-systems],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US4973493/en",
-  :title "Method of improving the biocompatibility of solid surfaces",
-  :status :granted,
-  :id "US4973493",
-  :sourcing :authoritative,
-  :filing-year 1987,
-  :assignee :bio-metric-systems,
-  :grant-year 1990,
-  :cites
-  ["US3808113"
-   "US3826678"
-   "US3955012"
-   "US3959078"
-   "US4007089"
-   "US4240163"
-   "US4311573"
-   "US4378224"
-   "US4378435"
-   "US4419444"
-   "US4434150"
-   "US4451568"
-   "US4500676"
-   "US4526714"
-   "US4526909"
-   "US4530974"
-   "US4536179"
-   "US4589881"
-   "US4589964"
-   "US4595632"
-   "US4605413"
-   "US4663233"
-   "US4687808"
-   "US4715858"
-   "US4716122"
-   "US4722906"
-   "US4828563"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:union-carbide-chemicals-and-plastics-technology],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US4977219/en",
-  :title "Low temperature crosslinking of water-borne resins",
-  :status :granted,
-  :id "US4977219",
-  :sourcing :authoritative,
-  :filing-year 1986,
-  :assignee :union-carbide-chemicals-and-plastics-technology,
-  :grant-year 1990,
-  :cites
-  ["GB1056202A"
-   "GB851936A"
-   "US2937164"
-   "US3193522"
-   "US3193523"
-   "US3193524"
-   "US3296190"
-   "US3639353"
-   "US3929733"
-   "US4042558"
-   "US4096125"
-   "US4148844"
-   "US4373078"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:montefiore-medical-center],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US4981783/en",
-  :title "Method for detecting pathological conditions",
-  :status :granted,
-  :id "US4981783",
-  :sourcing :authoritative,
-  :filing-year 1986,
-  :assignee :montefiore-medical-center,
-  :grant-year 1991,
-  :cites ["US4699877"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:consejo-superior-de-investigaciones-cientificas-csic],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US5001050/en",
-  :title "PHφ29 DNA polymerase",
-  :status :granted,
-  :id "US5001050",
-  :sourcing :authoritative,
-  :filing-year 1989,
-  :assignee :consejo-superior-de-investigaciones-cientificas-csic,
-  :grant-year 1991,
-  :cites ["US4795699" "US4921794" "US4942130" "US4946786"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:university-of-california-san-diego-ucsd],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US5001051/en",
-  :title
-  "Dose critical in-vivo detection of anti-cancer drug levels in blood",
-  :status :granted,
-  :id "US5001051",
-  :sourcing :authoritative,
-  :filing-year 1986,
-  :assignee :university-of-california-san-diego-ucsd,
-  :grant-year 1991,
-  :cites
-  ["US4419340"
-   "US4488814"
-   "US4559299"
-   "US4577109"
-   "US4610869"
-   "US4822746"],
-  :term-years 20,
-  :open-license :none}
- {:jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US5002867/en",
-  :title
-  "Nucleic acid sequence determination by multiple mixed oligonucleotide probes",
-  :status :granted,
-  :id "US5002867",
-  :sourcing :authoritative,
-  :filing-year 1988,
-  :assignee :unassigned,
-  :grant-year 1991,
-  :cites ["US4865968"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:molecular-diagnostics],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US5026840/en",
-  :title
-  "Photochemical nucleic acid-labeling reagent having a polyalklamine spacer",
-  :status :granted,
-  :id "US5026840",
-  :sourcing :authoritative,
-  :filing-year 1990,
-  :assignee :molecular-diagnostics,
-  :grant-year 1991,
-  :cites
-  ["EP0124221A1"
-   "EP0130515A2"
-   "EP0131830A1"
-   "EP0138357A2"
-   "EP0156287A2"
-   "US4582789"
-   "US4599303"
-   "US4617261"
-   "US4737454"
-   "WO1985002628A1"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:basf-se],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US5049599/en",
-  :title
-  "Flameproofed thermoplastic molding compositions based on phlegmatized red phosphorus",
-  :status :granted,
-  :id "US5049599",
-  :sourcing :authoritative,
-  :filing-year 1990,
-  :assignee :basf-se,
-  :grant-year 1991,
-  :cites
-  ["DE2408488A1"
-   "DE2625674A1"
-   "DE2703052A1"
-   "DE2745076A1"
-   "EP0071788A1"
-   "GB1543511A"
-   "GB1592813A"
-   "US4105735"
-   "US4188313"
-   "US4229340"
-   "US4430484"
-   "US4554320"
-   "US4772642"
-   "US4788249"
-   "US4849476"
-   "US4879067"
-   "US4923924"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:mitsubishi-rayon],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US5064695/en",
-  :title "Method for forming coating film",
-  :status :granted,
-  :id "US5064695",
-  :sourcing :authoritative,
-  :filing-year 1990,
-  :assignee :mitsubishi-rayon,
-  :grant-year 1991,
-  :term-years 20,
-  :open-license :none}
- {:assignees [:cetus],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US5075216/en",
-  :title
-  "Methods for dna sequencing with thermus aquaticus dna polymerase",
-  :status :granted,
-  :id "US5075216",
-  :sourcing :authoritative,
-  :filing-year 1988,
-  :assignee :cetus,
-  :grant-year 1991,
-  :cites
-  ["EP0258017A2"
-   "EP0351138A2"
-   "US4683202"
-   "US4795699"
-   "US4921794"
-   "US5001050"
-   "WO1990008839A1"],
-  :term-years 20,
-  :open-license :none}
- {:jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US5079600/en",
-  :title "High resolution patterning on solid substrates",
-  :status :granted,
-  :id "US5079600",
-  :sourcing :authoritative,
-  :filing-year 1988,
-  :assignee :unassigned,
-  :grant-year 1992,
-  :cites
-  ["GB2144653A"
-   "US3884704"
-   "US4199649"
-   "US4539061"
-   "US4587203"
-   "US4661372"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:ppg-industries],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US5106651/en",
-  :title
-  "Method for improving resistance to water spotting and acid etching of coatings by exposure to UV radiation",
-  :status :granted,
-  :id "US5106651",
-  :sourcing :authoritative,
-  :filing-year 1991,
-  :assignee :ppg-industries,
-  :grant-year 1992,
-  :cites
-  ["US2236397"
-   "US3567494"
-   "US4066523"
-   "US4069364"
-   "US4205115"
-   "US4605465"
-   "US4634602"
-   "US4818796"
-   "US5068288"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:union-carbide-chemicals-and-plastics-technology],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US5117059/en",
-  :title "Monodisperse multifunctional carbodiimides",
-  :status :granted,
-  :id "US5117059",
-  :sourcing :authoritative,
-  :filing-year 1991,
-  :assignee :union-carbide-chemicals-and-plastics-technology,
-  :grant-year 1992,
-  :cites ["DE924751C" "US4977219"],
   :term-years 20,
   :open-license :none}]

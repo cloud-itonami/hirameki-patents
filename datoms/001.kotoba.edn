@@ -1,4 +1,45 @@
 [[":db/add"
+  "hirameki-patent:JP2000154364A"
+  ":hirameki.obs/release-status"
+  ":pending"]
+ [":db/add"
+  "hirameki-patent:JP2000154364A"
+  ":hirameki/sourcing"
+  ":authoritative"]
+ [":db/add" "hirameki-patent:JP2000154364A" ":hirameki/derived" true]
+ [":db/add"
+  "hirameki-patent:JP2000154364A"
+  ":hirameki.obs/years-to-expiry"
+  -8]
+ [":db/add"
+  "hirameki-patent:JP2000154364A"
+  ":hirameki/source"
+  "https://patents.google.com/patent/JP2000154364A/en"]
+ [":db/add"
+  "hirameki-patent:JP2000160059A"
+  ":hirameki.patent/title"
+  "Bake curable emulsion paint composition"]
+ [":db/add"
+  "hirameki-patent:JP2000160059A"
+  ":hirameki.patent/jurisdiction"
+  ":jp"]
+ [":db/add"
+  "hirameki-patent:JP2000160059A"
+  ":hirameki.patent/field"
+  "UNKNOWN"]
+ [":db/add"
+  "hirameki-patent:JP2000160059A"
+  ":hirameki.patent/assignee"
+  ":asahi-rubber"]
+ [":db/add"
+  "hirameki-patent:JP2000160059A"
+  ":hirameki.patent/status"
+  ":pending"]
+ [":db/add"
+  "hirameki-patent:JP2000160059A"
+  ":hirameki.patent/open-license"
+  ":none"]
+ [":db/add"
   "hirameki-patent:JP2000160059A"
   ":hirameki.obs/release-status"
   ":pending"]
@@ -9960,45 +10001,4 @@
  [":db/add"
   "hirameki-patent:US1765419"
   ":hirameki.obs/years-to-expiry"
-  -78]
- [":db/add"
-  "hirameki-patent:US1765419"
-  ":hirameki/source"
-  "https://patents.google.com/patent/US1765419/en"]
- [":db/add"
-  "hirameki-patent:US1777140"
-  ":hirameki.patent/title"
-  "Process of preparing formaldehyde-primary aromatic amine condensation products"]
- [":db/add"
-  "hirameki-patent:US1777140"
-  ":hirameki.patent/jurisdiction"
-  ":us"]
- [":db/add"
-  "hirameki-patent:US1777140"
-  ":hirameki.patent/field"
-  "UNKNOWN"]
- [":db/add"
-  "hirameki-patent:US1777140"
-  ":hirameki.patent/assignee"
-  ":ig-farbenindustrie"]
- [":db/add"
-  "hirameki-patent:US1777140"
-  ":hirameki.patent/status"
-  ":granted"]
- [":db/add"
-  "hirameki-patent:US1777140"
-  ":hirameki.patent/open-license"
-  ":none"]
- [":db/add"
-  "hirameki-patent:US1777140"
-  ":hirameki.obs/release-status"
-  ":public-domain"]
- [":db/add"
-  "hirameki-patent:US1777140"
-  ":hirameki/sourcing"
-  ":authoritative"]
- [":db/add" "hirameki-patent:US1777140" ":hirameki/derived" true]
- [":db/add"
-  "hirameki-patent:US1777140"
-  ":hirameki.obs/years-to-expiry"
-  -80]]
+  -78]]

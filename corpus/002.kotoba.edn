@@ -1,4 +1,115 @@
-[{:assignees [:ei-du-pont-de-nemours-and],
+[{:assignees [:columbian-carbon],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3058894/en",
+  :title "Treatment of microorganisms",
+  :status :granted,
+  :id "US3058894",
+  :sourcing :authoritative,
+  :filing-year 1959,
+  :assignee :columbian-carbon,
+  :grant-year 1962,
+  :cites ["GB150318A" "US1711416" "US1718282" "US1738801" "US2428328"],
+  :term-years 20,
+  :open-license :none}
+ {:jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3060374/en",
+  :title "Battery testers",
+  :status :granted,
+  :id "US3060374",
+  :sourcing :authoritative,
+  :filing-year 1960,
+  :assignee :unassigned,
+  :grant-year 1962,
+  :cites ["US1373951" "US2922104"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:dow-corning],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3061567/en",
+  :title
+  "Aqueous dispersions of a mixture of siloxanes and an aminoplast resin, method of coating, and article obtained",
+  :status :granted,
+  :id "US3061567",
+  :sourcing :authoritative,
+  :filing-year 1958,
+  :assignee :dow-corning,
+  :grant-year 1962,
+  :cites
+  ["US2588393"
+   "US2612482"
+   "US2728692"
+   "US2757152"
+   "US2774690"
+   "US2807601"
+   "US2985545"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:international-business-machines],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3064519/en",
+  :title "Specimen identification apparatus and method",
+  :status :granted,
+  :id "US3064519",
+  :sourcing :authoritative,
+  :filing-year 1960,
+  :assignee :international-business-machines,
+  :grant-year 1962,
+  :cites ["US2712415" "US2733631"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:kimberly-clark],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3066043/en",
+  :title
+  "Cellulosic product comprising saturated fibrous web having a coating comprising vinyl resin and alkyl acrylate-carboxylic acid plasticizer",
+  :status :granted,
+  :id "US3066043",
+  :sourcing :authoritative,
+  :filing-year 1958,
+  :assignee :kimberly-clark,
+  :grant-year 1962,
+  :cites
+  ["US2125527"
+   "US2201877"
+   "US2311249"
+   "US2330353"
+   "US2366414"
+   "US2438195"
+   "US2631947"
+   "US2636870"
+   "US2676942"
+   "US2682484"
+   "US2748027"
+   "US2763578"
+   "US2790735"
+   "US2829073"
+   "US2868763"
+   "US2887403"
+   "US2910385"
+   "US2944037"
+   "US2989423"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:bell-telephone-laboratories],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3066052/en",
+  :title "Vapor-solid diffusion of semiconductive material",
+  :status :granted,
+  :id "US3066052",
+  :sourcing :authoritative,
+  :filing-year 1958,
+  :assignee :bell-telephone-laboratories,
+  :grant-year 1962,
+  :cites ["US2802760"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:ei-du-pont-de-nemours-and],
   :jurisdiction :us,
   :field "UNKNOWN",
   :source "https://patents.google.com/patent/US3067085/en",
@@ -230,6 +341,20 @@
   :assignee :standard-oil,
   :grant-year 1963,
   :cites ["US2671343" "US2692820" "US2728219"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:technicon-instruments],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3081158/en",
+  :title "Liquid treatment apparatus",
+  :status :granted,
+  :id "US3081158",
+  :sourcing :authoritative,
+  :filing-year 1959,
+  :assignee :technicon-instruments,
+  :grant-year 1963,
+  :cites ["US2604249" "US2710715" "US2879141" "US2899280"],
   :term-years 20,
   :open-license :none}
  {:assignees [:xerox],
@@ -1612,6 +1737,43 @@
   :cites ["GB745698A" "US2916359" "US2993762" "US3078150"],
   :term-years 20,
   :open-license :none}
+ {:assignees [:robertshaw-controls],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3177898/en",
+  :title "Apparatus for sequential control",
+  :status :granted,
+  :id "US3177898",
+  :sourcing :authoritative,
+  :filing-year 1961,
+  :assignee :robertshaw-controls,
+  :grant-year 1965,
+  :cites
+  ["DE1044116B"
+   "GB222144A"
+   "US1633487"
+   "US2098410"
+   "US2530622"
+   "US2579598"
+   "US2678063"
+   "US2734674"
+   "US2960856"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:warner-lambert-pharmaceutical],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3178266/en",
+  :title "Materials handling apparatus",
+  :status :granted,
+  :id "US3178266",
+  :sourcing :authoritative,
+  :filing-year 1960,
+  :assignee :warner-lambert-pharmaceutical,
+  :grant-year 1965,
+  :cites ["FR1237774A" "US1742871" "US2624656" "US2879141"],
+  :term-years 20,
+  :open-license :none}
  {:assignees [:ei-du-pont-de-nemours-and],
   :jurisdiction :us,
   :field "UNKNOWN",
@@ -1753,6 +1915,20 @@
   :assignee :international-business-machines,
   :grant-year 1965,
   :cites ["FR1041060A" "US2932307" "US3001539" "US3053276"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:parke-davis-and],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3188181/en",
+  :title "Serial dilution machine",
+  :status :granted,
+  :id "US3188181",
+  :sourcing :authoritative,
+  :filing-year 1963,
+  :assignee :parke-davis-and,
+  :grant-year 1965,
+  :cites ["US2624656" "US2894542" "US3012863"],
   :term-years 20,
   :open-license :none}
  {:assignees [:international-business-machines],
@@ -2440,6 +2616,33 @@
   :cites ["US2648650" "US2784165" "US2993874" "US3149182"],
   :term-years 20,
   :open-license :none}
+ {:assignees [:lars-ljungberg-and],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3240110/en",
+  :title
+  "Apparatus for determining the losses of blood in surgical operations and deliveries",
+  :status :granted,
+  :id "US3240110",
+  :sourcing :authoritative,
+  :filing-year 1962,
+  :assignee :lars-ljungberg-and,
+  :grant-year 1966,
+  :cites
+  ["GB761980A"
+   "US2051317"
+   "US2261557"
+   "US2295366"
+   "US2386878"
+   "US264573"
+   "US2724304"
+   "US2797149"
+   "US2844066"
+   "US2980142"
+   "US3028225"
+   "US3080789"],
+  :term-years 20,
+  :open-license :none}
  {:assignees [:azoplate],
   :jurisdiction :us,
   :field "UNKNOWN",
@@ -2970,6 +3173,26 @@
    "US2875666"
    "US3084591"
    "US3094625"],
+  :term-years 20,
+  :open-license :none}
+ {:jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3276589/en",
+  :title "Apparatus for maintenance and treatment of blood in vitro",
+  :status :granted,
+  :id "US3276589",
+  :sourcing :authoritative,
+  :filing-year 1961,
+  :assignee :unassigned,
+  :grant-year 1966,
+  :cites
+  ["US2969150"
+   "US2982416"
+   "US3002887"
+   "US3003918"
+   "US3052238"
+   "US3064647"
+   "US3110308"],
   :term-years 20,
   :open-license :none}
  {:assignees [:yeda-research-and-development],
@@ -5311,6 +5534,42 @@
   :cites ["US2997598" "US3206608" "US3326621"],
   :term-years 20,
   :open-license :none}
+ {:assignees [:pfizer],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3501379/en",
+  :title "Apparatus for preparation of microbiological culture media",
+  :status :granted,
+  :id "US3501379",
+  :sourcing :authoritative,
+  :filing-year 1967,
+  :assignee :pfizer,
+  :grant-year 1970,
+  :cites ["US2689818" "US3139343"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:international-business-machines],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3501623/en",
+  :title "High speed skip and search",
+  :status :granted,
+  :id "US3501623",
+  :sourcing :authoritative,
+  :filing-year 1967,
+  :assignee :international-business-machines,
+  :grant-year 1970,
+  :cites
+  ["US2904777"
+   "US3025740"
+   "US3208041"
+   "US3240872"
+   "US3273123"
+   "US3322961"
+   "US3328788"
+   "US3440630"],
+  :term-years 20,
+  :open-license :none}
  {:assignees [:haematronics],
   :jurisdiction :us,
   :field "UNKNOWN",
@@ -5543,6 +5802,39 @@
    "US3193359"],
   :term-years 20,
   :open-license :none}
+ {:assignees [:technicon-instruments],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3511573/en",
+  :title
+  "Flow cell structure for particle counting having improved wash",
+  :status :granted,
+  :id "US3511573",
+  :sourcing :authoritative,
+  :filing-year 1965,
+  :assignee :technicon-instruments,
+  :grant-year 1970,
+  :cites
+  ["DE170115C"
+   "DE381209C"
+   "US1945839"
+   "US2617940"
+   "US2621557"
+   "US2716371"
+   "US2797149"
+   "US2819402"
+   "US2858727"
+   "US2954472"
+   "US3008370"
+   "US3047367"
+   "US3084592"
+   "US3090861"
+   "US3177706"
+   "US3234846"
+   "US851388"
+   "US893070"],
+  :term-years 20,
+  :open-license :none}
  {:assignees [:shell-oil],
   :jurisdiction :us,
   :field "UNKNOWN",
@@ -5681,6 +5973,34 @@
    "US3260413"
    "US3266298"
    "US3368872"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:international-business-machines],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3526876/en",
+  :title
+  "Character separation apparatus for character recognition machines",
+  :status :granted,
+  :id "US3526876",
+  :sourcing :authoritative,
+  :filing-year 1965,
+  :assignee :international-business-machines,
+  :grant-year 1970,
+  :cites
+  ["US2932006"
+   "US3111646"
+   "US3164806"
+   "US3219974"
+   "US3234511"
+   "US3268865"
+   "US3270319"
+   "US3278900"
+   "US3289161"
+   "US3293604"
+   "US3303466"
+   "US3305832"
+   "US3305835"],
   :term-years 20,
   :open-license :none}
  {:assignees [:jos-schneider-optische-werke],
@@ -7787,6 +8107,20 @@
   :cites ["US3380584" "US3560754" "US3675768"],
   :term-years 20,
   :open-license :none}
+ {:assignees [:cenco-medical-health-supply],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3711379/en",
+  :title "Rotating flask culture apparatus",
+  :status :granted,
+  :id "US3711379",
+  :sourcing :authoritative,
+  :filing-year 1971,
+  :assignee :cenco-medical-health-supply,
+  :grant-year 1973,
+  :cites ["US2597291" "US3338795" "US3540700"],
+  :term-years 20,
+  :open-license :none}
  {:assignees [:optical-coating-laboratory],
   :jurisdiction :us,
   :field "UNKNOWN",
@@ -7857,6 +8191,20 @@
   :sourcing :authoritative,
   :filing-year 1969,
   :assignee :unassigned,
+  :grant-year 1973,
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:cognos],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3714372/en",
+  :title
+  "Method and apparatus for counting and classifying microscopic particles",
+  :status :granted,
+  :id "US3714372",
+  :sourcing :authoritative,
+  :filing-year 1970,
+  :assignee :cognos,
   :grant-year 1973,
   :term-years 20,
   :open-license :none}
@@ -8699,6 +9047,19 @@
   :grant-year 1974,
   :term-years 20,
   :open-license :none}
+ {:jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3795792/en",
+  :title "Feature association in image analysis",
+  :status :granted,
+  :id "US3795792",
+  :sourcing :authoritative,
+  :filing-year 1972,
+  :assignee :unassigned,
+  :grant-year 1974,
+  :cites ["US2891722" "US3020033" "US3280692"],
+  :term-years 20,
+  :open-license :none}
  {:assignees [:united-states-department-of-commerce],
   :jurisdiction :us,
   :field "UNKNOWN",
@@ -8908,341 +9269,6 @@
   :sourcing :authoritative,
   :filing-year 1973,
   :assignee :rhone-poulenc,
-  :grant-year 1974,
-  :term-years 20,
-  :open-license :none}
- {:assignees [:research],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3812245/en",
-  :title
-  "Novel compositions for radiotracer localization of deep vein thrombi",
-  :status :granted,
-  :id "US3812245",
-  :sourcing :authoritative,
-  :filing-year 1972,
-  :assignee :research,
-  :grant-year 1974,
-  :term-years 20,
-  :open-license :none}
- {:assignees [:general-electric],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3813316/en",
-  :title
-  "Microorganisms having multiple compatible degradative energy-generating plasmids and preparation thereof",
-  :status :granted,
-  :id "US3813316",
-  :sourcing :authoritative,
-  :filing-year 1972,
-  :assignee :general-electric,
-  :grant-year 1974,
-  :term-years 20,
-  :open-license :none}
- {:assignees [:national-aeronautics-and-space-administration-nasa],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3814939/en",
-  :title "Chromato-fluorographic drug detector",
-  :status :granted,
-  :id "US3814939",
-  :sourcing :authoritative,
-  :filing-year 1973,
-  :assignee :national-aeronautics-and-space-administration-nasa,
-  :grant-year 1974,
-  :cites ["US2974227" "US3152251" "US3449571"],
-  :term-years 20,
-  :open-license :none}
- {:jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3816263/en",
-  :title "Biological test",
-  :status :granted,
-  :id "US3816263",
-  :sourcing :authoritative,
-  :filing-year 1972,
-  :assignee :unassigned,
-  :grant-year 1974,
-  :term-years 20,
-  :open-license :none}
- {:assignees [:filtering-materials],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3817703/en",
-  :title "Laser energized sterilization method and apparatus",
-  :status :granted,
-  :id "US3817703",
-  :sourcing :authoritative,
-  :filing-year 1971,
-  :assignee :filtering-materials,
-  :grant-year 1974,
-  :term-years 20,
-  :open-license :none}
- {:assignees [:gd-searle],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3817706/en",
-  :title "Fluorescence quantitative thin layer chromatographic method",
-  :status :granted,
-  :id "US3817706",
-  :sourcing :authoritative,
-  :filing-year 1972,
-  :assignee :gd-searle,
-  :grant-year 1974,
-  :term-years 20,
-  :open-license :none}
- {:assignees [:syva],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3817837/en",
-  :title "Enzyme amplification assay",
-  :status :granted,
-  :id "US3817837",
-  :sourcing :authoritative,
-  :filing-year 1972,
-  :assignee :syva,
-  :grant-year 1974,
-  :term-years 20,
-  :open-license :none}
- {:assignees [:corning-glass-works],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3819913/en",
-  :title "Detection of eosinophil cells on a blood smeared slide",
-  :status :granted,
-  :id "US3819913",
-  :sourcing :authoritative,
-  :filing-year 1973,
-  :assignee :corning-glass-works,
-  :grant-year 1974,
-  :cites ["US2817265" "US3315229"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:us-department-of-health-and-human-services],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3821087/en",
-  :title "Cell culture on semi-permeable tubular membranes",
-  :status :granted,
-  :id "US3821087",
-  :sourcing :authoritative,
-  :filing-year 1972,
-  :assignee :us-department-of-health-and-human-services,
-  :grant-year 1974,
-  :term-years 20,
-  :open-license :none}
- {:assignees [:ei-du-pont-de-nemours-and],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3821145/en",
-  :title
-  "Aqueous coating composition of an acrylic graft copolymer,a linear acrylic polymer and a cross-linking agent",
-  :status :granted,
-  :id "US3821145",
-  :sourcing :authoritative,
-  :filing-year 1972,
-  :assignee :ei-du-pont-de-nemours-and,
-  :grant-year 1974,
-  :term-years 20,
-  :open-license :none}
- {:jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3823126/en",
-  :title
-  "Process of separating human cancer antigen proteins by gel filtration",
-  :status :granted,
-  :id "US3823126",
-  :sourcing :authoritative,
-  :filing-year 1972,
-  :assignee :unassigned,
-  :grant-year 1974,
-  :term-years 20,
-  :open-license :none}
- {:assignees [:american-express-investment-management],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3824393/en",
-  :title "System for differential particle counting",
-  :status :granted,
-  :id "US3824393",
-  :sourcing :authoritative,
-  :filing-year 1973,
-  :assignee :american-express-investment-management,
-  :grant-year 1974,
-  :cites
-  ["US2927219"
-   "US2959348"
-   "US3315229"
-   "US3327119"
-   "US3349227"
-   "US3412254"
-   "US3493772"
-   "US3503684"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:leland-stanford-junior-university],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3826364/en",
-  :title "Particle sorting method and apparatus",
-  :status :granted,
-  :id "US3826364",
-  :sourcing :authoritative,
-  :filing-year 1972,
-  :assignee :leland-stanford-junior-university,
-  :grant-year 1974,
-  :cites
-  ["US2948470"
-   "US3011634"
-   "US3380584"
-   "US3661460"
-   "US3669542"
-   "US3675768"
-   "US3710933"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:abbott-laboratories],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3826619/en",
-  :title
-  "Test apparatus for direct radioimmuno-assay for antigens and their antibodies",
-  :status :granted,
-  :id "US3826619",
-  :sourcing :authoritative,
-  :filing-year 1971,
-  :assignee :abbott-laboratories,
-  :grant-year 1974,
-  :term-years 20,
-  :open-license :none}
- {:assignees [:us-atomic-energy-commission-aec],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3826678/en",
-  :title
-  "Method for preparation of biocompatible and biofunctional materials and product thereof",
-  :status :granted,
-  :id "US3826678",
-  :sourcing :authoritative,
-  :filing-year 1972,
-  :assignee :us-atomic-energy-commission-aec,
-  :grant-year 1974,
-  :term-years 20,
-  :open-license :none}
- {:assignees [:massachusetts-institute-of-technology],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3826920/en",
-  :title "Fluorescent gas analyzer with calibration system",
-  :status :granted,
-  :id "US3826920",
-  :sourcing :authoritative,
-  :filing-year 1973,
-  :assignee :massachusetts-institute-of-technology,
-  :grant-year 1974,
-  :cites
-  ["US2286985"
-   "US2288942"
-   "US2736813"
-   "US2872588"
-   "US3496489"
-   "US3507987"
-   "US3510648"
-   "US3696247"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:canon],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3827064/en",
-  :title "Focus detector device",
-  :status :granted,
-  :id "US3827064",
-  :sourcing :authoritative,
-  :filing-year 1973,
-  :assignee :canon,
-  :grant-year 1974,
-  :cites
-  ["US3385190"
-   "US3504610"
-   "US3532043"
-   "US3605596"
-   "US3611895"
-   "US3618499"
-   "US3678835"
-   "US3691922"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:bio-physics-systems],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3827555/en",
-  :title "Particle sorter with segregation indicator",
-  :status :granted,
-  :id "US3827555",
-  :sourcing :authoritative,
-  :filing-year 1973,
-  :assignee :bio-physics-systems,
-  :grant-year 1974,
-  :cites
-  ["US2333791"
-   "US3269419"
-   "US3362421"
-   "US3508654"
-   "US3508655"
-   "US3560754"
-   "US3710933"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:geometric-data],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3827804/en",
-  :title
-  "Color separation for discrimination in pattern recognition systems",
-  :status :granted,
-  :id "US3827804",
-  :sourcing :authoritative,
-  :filing-year 1972,
-  :assignee :geometric-data,
-  :grant-year 1974,
-  :cites
-  ["US3188907"
-   "US3284566"
-   "US3315229"
-   "US3330904"
-   "US3497690"
-   "US3657537"
-   "US3663801"
-   "US3675768"
-   "US3699336"
-   "US3703337"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:us-atomic-energy-commission-aec],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3829223/en",
-  :title
-  "Mixing rotor for fast analyzer of rotary cuvette type with means for enhancing the mixing of sample and reagent liquids",
-  :status :granted,
-  :id "US3829223",
-  :sourcing :authoritative,
-  :filing-year 1973,
-  :assignee :us-atomic-energy-commission-aec,
-  :grant-year 1974,
-  :term-years 20,
-  :open-license :none}
- {:assignees [:aerospace],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3829696/en",
-  :title "Atmospheric no monitor",
-  :status :granted,
-  :id "US3829696",
-  :sourcing :authoritative,
-  :filing-year 1973,
-  :assignee :aerospace,
   :grant-year 1974,
   :term-years 20,
   :open-license :none}]
