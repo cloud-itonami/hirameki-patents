@@ -1,4 +1,45 @@
 [[":db/add"
+  "hirameki-patent:US2363817"
+  ":hirameki.patent/assignee"
+  ":goss-printing-press"]
+ [":db/add"
+  "hirameki-patent:US2363817"
+  ":hirameki.patent/status"
+  ":granted"]
+ [":db/add"
+  "hirameki-patent:US2363817"
+  ":hirameki.patent/open-license"
+  ":none"]
+ [":db/add"
+  "hirameki-patent:US2363817"
+  ":hirameki.obs/release-status"
+  ":public-domain"]
+ [":db/add"
+  "hirameki-patent:US2363817"
+  ":hirameki/sourcing"
+  ":authoritative"]
+ [":db/add" "hirameki-patent:US2363817" ":hirameki/derived" true]
+ [":db/add"
+  "hirameki-patent:US2363817"
+  ":hirameki.obs/years-to-expiry"
+  -64]
+ [":db/add"
+  "hirameki-patent:US2363817"
+  ":hirameki/source"
+  "https://patents.google.com/patent/US2363817/en"]
+ [":db/add"
+  "hirameki-patent:US2364505"
+  ":hirameki.patent/title"
+  "Method of making coated paper"]
+ [":db/add"
+  "hirameki-patent:US2364505"
+  ":hirameki.patent/jurisdiction"
+  ":us"]
+ [":db/add"
+  "hirameki-patent:US2364505"
+  ":hirameki.patent/field"
+  "UNKNOWN"]
+ [":db/add"
   "hirameki-patent:US2364505"
   ":hirameki.patent/assignee"
   ":champion-paper-and-fibre"]
@@ -10308,46 +10349,5 @@
   ":ei-du-pont-de-nemours-and"]
  [":db/add"
   "hirameki-patent:US2748027"
-  ":hirameki.patent/status"
-  ":granted"]
- [":db/add"
-  "hirameki-patent:US2748027"
-  ":hirameki.patent/open-license"
-  ":none"]
- [":db/add"
-  "hirameki-patent:US2748027"
-  ":hirameki.obs/release-status"
-  ":public-domain"]
- [":db/add"
-  "hirameki-patent:US2748027"
-  ":hirameki/sourcing"
-  ":authoritative"]
- [":db/add" "hirameki-patent:US2748027" ":hirameki/derived" true]
- [":db/add"
-  "hirameki-patent:US2748027"
-  ":hirameki.obs/years-to-expiry"
-  -53]
- [":db/add"
-  "hirameki-patent:US2748027"
-  ":hirameki/source"
-  "https://patents.google.com/patent/US2748027/en"]
- [":db/add"
-  "hirameki-patent:US2749989"
-  ":hirameki.patent/title"
-  "Method and means of completing a well"]
- [":db/add"
-  "hirameki-patent:US2749989"
-  ":hirameki.patent/jurisdiction"
-  ":us"]
- [":db/add"
-  "hirameki-patent:US2749989"
-  ":hirameki.patent/field"
-  "UNKNOWN"]
- [":db/add"
-  "hirameki-patent:US2749989"
-  ":hirameki.patent/assignee"
-  ":exxon-research-and-engineering"]
- [":db/add"
-  "hirameki-patent:US2749989"
   ":hirameki.patent/status"
   ":granted"]]

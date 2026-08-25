@@ -1,4 +1,17 @@
-[{:assignees [:lowe-paper],
+[{:assignees [:national-oil-products],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2265357/en",
+  :title "Apparatus for measuring the concentration of vitamin a",
+  :status :granted,
+  :id "US2265357",
+  :sourcing :authoritative,
+  :filing-year 1940,
+  :assignee :national-oil-products,
+  :grant-year 1941,
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:lowe-paper],
   :jurisdiction :us,
   :field "UNKNOWN",
   :source "https://patents.google.com/patent/US2267470/en",
@@ -6100,6 +6113,37 @@
    "US2655864"],
   :term-years 20,
   :open-license :none}
+ {:assignees [:gaspar],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2778813/en",
+  :title
+  "Color photographic material from resinous sulfonyl chlorides",
+  :status :granted,
+  :id "US2778813",
+  :sourcing :authoritative,
+  :filing-year 1951,
+  :assignee :gaspar,
+  :grant-year 1957,
+  :cites
+  ["DE580366C"
+   "US2269997"
+   "US2271176"
+   "US2283236"
+   "US2306410"
+   "US2310605"
+   "US2321891"
+   "US2333126"
+   "US2361541"
+   "US2368463"
+   "US2498722"
+   "US2592107"
+   "US2618655"
+   "US2632757"
+   "US2675371"
+   "US2725368"],
+  :term-years 20,
+  :open-license :none}
  {:assignees [:corning-glass-works],
   :jurisdiction :us,
   :field "UNKNOWN",
@@ -7111,6 +7155,21 @@
   :cites ["US2284877" "US2410792" "US2604388"],
   :term-years 20,
   :open-license :none}
+ {:assignees [:dow-chemical],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2867611/en",
+  :title
+  "Method for the preparation of polysulfonyl chlorides of styrene resins",
+  :status :granted,
+  :id "US2867611",
+  :sourcing :authoritative,
+  :filing-year 1955,
+  :assignee :dow-chemical,
+  :grant-year 1959,
+  :cites ["US2616917" "US2725368" "US2778813"],
+  :term-years 20,
+  :open-license :none}
  {:assignees [:fibreboard-paper-products],
   :jurisdiction :us,
   :field "UNKNOWN",
@@ -7616,6 +7675,20 @@
   :assignee :ei-du-pont-de-nemours-and,
   :grant-year 1959,
   :cites ["US2355925" "US2475520"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:bayer],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2906715/en",
+  :title "Sulphonamides of organic polymers",
+  :status :granted,
+  :id "US2906715",
+  :sourcing :authoritative,
+  :filing-year 1955,
+  :assignee :bayer,
+  :grant-year 1959,
+  :cites ["US2366007" "US2618655" "US2725368" "US2759816" "US2778813"],
   :term-years 20,
   :open-license :none}
  {:assignees [:american-cyanamid],
@@ -9370,6 +9443,21 @@
   :cites ["US2893843"],
   :term-years 20,
   :open-license :none}
+ {:assignees [:bayer],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3008927/en",
+  :title
+  "Process for the chloromethylation of aromatic vinyl polymers",
+  :status :granted,
+  :id "US3008927",
+  :sourcing :authoritative,
+  :filing-year 1958,
+  :assignee :bayer,
+  :grant-year 1961,
+  :cites ["US2642417" "US2788330"],
+  :term-years 20,
+  :open-license :none}
  {:assignees [:becton-dickinson-and],
   :jurisdiction :us,
   :field "UNKNOWN",
@@ -9901,108 +9989,5 @@
   :assignee :monsanto-chemicals,
   :grant-year 1962,
   :cites ["US2531355" "US2834747"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:mine-safety-appliances],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3039053/en",
-  :title "Means and methods for gas detection",
-  :status :granted,
-  :id "US3039053",
-  :sourcing :authoritative,
-  :filing-year 1959,
-  :assignee :mine-safety-appliances,
-  :grant-year 1962,
-  :cites
-  ["US1792781"
-   "US2711511"
-   "US2728881"
-   "US2734154"
-   "US2776920"
-   "US2940041"
-   "US2965842"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:kalle-and-kg],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3041165/en",
-  :title "Electrophotographic material",
-  :status :granted,
-  :id "US3041165",
-  :sourcing :authoritative,
-  :filing-year 1957,
-  :assignee :kalle-and-kg,
-  :grant-year 1962,
-  :cites
-  ["US2418747"
-   "US2426766"
-   "US2513996"
-   "US2663636"
-   "US2692178"
-   "US2800559"
-   "US2901348"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:champion-papers],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3044896/en",
-  :title "Method of making cast coated paper",
-  :status :granted,
-  :id "US3044896",
-  :sourcing :authoritative,
-  :filing-year 1959,
-  :assignee :champion-papers,
-  :grant-year 1962,
-  :cites ["US2204600" "US2214565" "US2286259" "US2790730" "US2819184"],
-  :term-years 20,
-  :open-license :none}
- {:jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3045198/en",
-  :title "Detection device",
-  :status :granted,
-  :id "US3045198",
-  :sourcing :authoritative,
-  :filing-year 1959,
-  :assignee :unassigned,
-  :grant-year 1962,
-  :cites ["US2408093" "US2471601" "US2589983" "US2701832" "US2713625"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:wacker-chemie],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3046160/en",
-  :title "Process for treating paper with silicones",
-  :status :granted,
-  :id "US3046160",
-  :sourcing :authoritative,
-  :filing-year 1959,
-  :assignee :wacker-chemie,
-  :grant-year 1962,
-  :cites ["US2645629" "US2744079" "US2814601" "US2875098"],
-  :term-years 20,
-  :open-license :none}
- {:jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3047526/en",
-  :title "Leather-coating composition",
-  :status :granted,
-  :id "US3047526",
-  :sourcing :authoritative,
-  :filing-year 1959,
-  :assignee :unassigned,
-  :grant-year 1962,
-  :cites
-  ["US2099241"
-   "US2465073"
-   "US2600321"
-   "US2635059"
-   "US2854351"
-   "US2934510"
-   "US2938876"],
   :term-years 20,
   :open-license :none}]

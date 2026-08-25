@@ -1,4 +1,45 @@
 [[":db/add"
+  "hirameki-patent:JP2000117889A"
+  ":hirameki/sourcing"
+  ":authoritative"]
+ [":db/add" "hirameki-patent:JP2000117889A" ":hirameki/derived" true]
+ [":db/add"
+  "hirameki-patent:JP2000117889A"
+  ":hirameki.obs/years-to-expiry"
+  -8]
+ [":db/add"
+  "hirameki-patent:JP2000117889A"
+  ":hirameki/source"
+  "https://patents.google.com/patent/JP2000117889A/en"]
+ [":db/add"
+  "hirameki-patent:JP2000154204A"
+  ":hirameki.patent/title"
+  "Preparation of gelled polymer particulate"]
+ [":db/add"
+  "hirameki-patent:JP2000154204A"
+  ":hirameki.patent/jurisdiction"
+  ":jp"]
+ [":db/add"
+  "hirameki-patent:JP2000154204A"
+  ":hirameki.patent/field"
+  "UNKNOWN"]
+ [":db/add"
+  "hirameki-patent:JP2000154204A"
+  ":hirameki.patent/assignee"
+  ":kansai-paint"]
+ [":db/add"
+  "hirameki-patent:JP2000154204A"
+  ":hirameki.patent/status"
+  ":pending"]
+ [":db/add"
+  "hirameki-patent:JP2000154204A"
+  ":hirameki.patent/open-license"
+  ":none"]
+ [":db/add"
+  "hirameki-patent:JP2000154204A"
+  ":hirameki.obs/release-status"
+  ":pending"]
+ [":db/add"
   "hirameki-patent:JP2000154204A"
   ":hirameki/sourcing"
   ":authoritative"]
@@ -9956,45 +9997,4 @@
  [":db/add"
   "hirameki-patent:US1755834"
   ":hirameki.obs/years-to-expiry"
-  -78]
- [":db/add"
-  "hirameki-patent:US1755834"
-  ":hirameki/source"
-  "https://patents.google.com/patent/US1755834/en"]
- [":db/add"
-  "hirameki-patent:US1759124"
-  ":hirameki.patent/title"
-  "Sealing tape and process of manufacturing same"]
- [":db/add"
-  "hirameki-patent:US1759124"
-  ":hirameki.patent/jurisdiction"
-  ":us"]
- [":db/add"
-  "hirameki-patent:US1759124"
-  ":hirameki.patent/field"
-  "UNKNOWN"]
- [":db/add"
-  "hirameki-patent:US1759124"
-  ":hirameki.patent/assignee"
-  ":unassigned"]
- [":db/add"
-  "hirameki-patent:US1759124"
-  ":hirameki.patent/status"
-  ":granted"]
- [":db/add"
-  "hirameki-patent:US1759124"
-  ":hirameki.patent/open-license"
-  ":none"]
- [":db/add"
-  "hirameki-patent:US1759124"
-  ":hirameki.obs/release-status"
-  ":public-domain"]
- [":db/add"
-  "hirameki-patent:US1759124"
-  ":hirameki/sourcing"
-  ":authoritative"]
- [":db/add" "hirameki-patent:US1759124" ":hirameki/derived" true]
- [":db/add"
-  "hirameki-patent:US1759124"
-  ":hirameki.obs/years-to-expiry"
-  -81]]
+  -78]]

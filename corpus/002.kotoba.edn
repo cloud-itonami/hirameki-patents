@@ -1,4 +1,121 @@
-[{:assignees [:beckman-instruments],
+[{:assignees [:mine-safety-appliances],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3039053/en",
+  :title "Means and methods for gas detection",
+  :status :granted,
+  :id "US3039053",
+  :sourcing :authoritative,
+  :filing-year 1959,
+  :assignee :mine-safety-appliances,
+  :grant-year 1962,
+  :cites
+  ["US1792781"
+   "US2711511"
+   "US2728881"
+   "US2734154"
+   "US2776920"
+   "US2940041"
+   "US2965842"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:kalle-and-kg],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3041165/en",
+  :title "Electrophotographic material",
+  :status :granted,
+  :id "US3041165",
+  :sourcing :authoritative,
+  :filing-year 1957,
+  :assignee :kalle-and-kg,
+  :grant-year 1962,
+  :cites
+  ["US2418747"
+   "US2426766"
+   "US2513996"
+   "US2663636"
+   "US2692178"
+   "US2800559"
+   "US2901348"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:f-hoffmann-la-roche],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3041335/en",
+  :title
+  "Mercury salts of nitrogen heterocyclics and preparation thereof",
+  :status :granted,
+  :id "US3041335",
+  :sourcing :authoritative,
+  :filing-year 1959,
+  :assignee :f-hoffmann-la-roche,
+  :grant-year 1962,
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:champion-papers],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3044896/en",
+  :title "Method of making cast coated paper",
+  :status :granted,
+  :id "US3044896",
+  :sourcing :authoritative,
+  :filing-year 1959,
+  :assignee :champion-papers,
+  :grant-year 1962,
+  :cites ["US2204600" "US2214565" "US2286259" "US2790730" "US2819184"],
+  :term-years 20,
+  :open-license :none}
+ {:jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3045198/en",
+  :title "Detection device",
+  :status :granted,
+  :id "US3045198",
+  :sourcing :authoritative,
+  :filing-year 1959,
+  :assignee :unassigned,
+  :grant-year 1962,
+  :cites ["US2408093" "US2471601" "US2589983" "US2701832" "US2713625"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:wacker-chemie],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3046160/en",
+  :title "Process for treating paper with silicones",
+  :status :granted,
+  :id "US3046160",
+  :sourcing :authoritative,
+  :filing-year 1959,
+  :assignee :wacker-chemie,
+  :grant-year 1962,
+  :cites ["US2645629" "US2744079" "US2814601" "US2875098"],
+  :term-years 20,
+  :open-license :none}
+ {:jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3047526/en",
+  :title "Leather-coating composition",
+  :status :granted,
+  :id "US3047526",
+  :sourcing :authoritative,
+  :filing-year 1959,
+  :assignee :unassigned,
+  :grant-year 1962,
+  :cites
+  ["US2099241"
+   "US2465073"
+   "US2600321"
+   "US2635059"
+   "US2854351"
+   "US2934510"
+   "US2938876"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:beckman-instruments],
   :jurisdiction :us,
   :field "UNKNOWN",
   :source "https://patents.google.com/patent/US3049118/en",
@@ -1139,6 +1256,18 @@
   :open-license :none}
  {:jurisdiction :us,
   :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3125555/en",
+  :title "Vinoxycarbonylmethyltrialkylphospho-",
+  :status :granted,
+  :id "US3125555",
+  :sourcing :authoritative,
+  :assignee :unassigned,
+  :grant-year 1964,
+  :cites ["FR1134751A" "US3011000"],
+  :term-years 20,
+  :open-license :none}
+ {:jurisdiction :us,
+  :field "UNKNOWN",
   :source "https://patents.google.com/patent/US3127363/en",
   :title "Process for the manufacture of elasto-",
   :status :granted,
@@ -1180,6 +1309,20 @@
    "US2836942"
    "US2847995"
    "US2896619"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:calgon],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3128257/en",
+  :title "Production of ion exchange resins",
+  :status :granted,
+  :id "US3128257",
+  :sourcing :authoritative,
+  :filing-year 1962,
+  :assignee :calgon,
+  :grant-year 1964,
+  :cites ["US2733231" "US2867611"],
   :term-years 20,
   :open-license :none}
  {:jurisdiction :us,
@@ -1235,6 +1378,18 @@
    "US2807550"
    "US2881078"
    "US3037869"],
+  :term-years 20,
+  :open-license :none}
+ {:jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3133030/en",
+  :title "Low capacity sulfonated cation",
+  :status :granted,
+  :id "US3133030",
+  :sourcing :authoritative,
+  :assignee :unassigned,
+  :grant-year 1964,
+  :cites ["US2031929" "US2500149" "US2645621" "US2764563"],
   :term-years 20,
   :open-license :none}
  {:assignees [:dow-chemical],
@@ -1518,6 +1673,21 @@
   :assignee :upjohn,
   :grant-year 1964,
   :cites ["US2885396"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:takeda-chemical-industries],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3157635/en",
+  :title
+  "Sulfonic acid cation exchange resin purification of nucleotides",
+  :status :granted,
+  :id "US3157635",
+  :sourcing :authoritative,
+  :filing-year 1961,
+  :assignee :takeda-chemical-industries,
+  :grant-year 1964,
+  :cites ["US2870139" "US2891945"],
   :term-years 20,
   :open-license :none}
  {:assignees [:gevaert-photo-producten],
@@ -3664,6 +3834,21 @@
   :grant-year 1885,
   :term-years 20,
   :open-license :none}
+ {:assignees [:bayer],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3297648/en",
+  :title
+  "Process for the chloromethylation of aromatic compounds of high molecular weight",
+  :status :granted,
+  :id "US3297648",
+  :sourcing :authoritative,
+  :filing-year 1964,
+  :assignee :bayer,
+  :grant-year 1967,
+  :cites ["GB778749A" "US2694702" "US2926202" "US3185667"],
+  :term-years 20,
+  :open-license :none}
  {:assignees [:miles-laboratories],
   :jurisdiction :us,
   :field "UNKNOWN",
@@ -3977,6 +4162,20 @@
   :sourcing :authoritative,
   :filing-year 1963,
   :assignee :burroughs-wellcome-usa,
+  :grant-year 1967,
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:schering],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3324110/en",
+  :title
+  "Method of phosphorylation and novel intermediates produced thereby",
+  :status :granted,
+  :id "US3324110",
+  :sourcing :authoritative,
+  :filing-year 1966,
+  :assignee :schering,
   :grant-year 1967,
   :term-years 20,
   :open-license :none}
@@ -7458,6 +7657,21 @@
   :cites ["US3054898" "US3270647" "US3273124"],
   :term-years 20,
   :open-license :none}
+ {:assignees [:sybron],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3625870/en",
+  :title
+  "Process for the haloalkylation of cross-linked styrene copolymers",
+  :status :granted,
+  :id "US3625870",
+  :sourcing :authoritative,
+  :filing-year 1969,
+  :assignee :sybron,
+  :grant-year 1971,
+  :cites ["US2694702" "US2951100" "US2960480" "US3294850" "US3311602"],
+  :term-years 20,
+  :open-license :none}
  {:assignees [:boehringer-mannheim],
   :jurisdiction :us,
   :field "UNKNOWN",
@@ -7485,6 +7699,19 @@
   :assignee :dow-corning,
   :grant-year 1971,
   :cites ["US2985545" "US2985546" "US3046160" "US3061567" "US3070566"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:dow-chemical],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3629367/en",
+  :title "Fire-resistant polyester compositions",
+  :status :granted,
+  :id "US3629367",
+  :sourcing :authoritative,
+  :filing-year 1969,
+  :assignee :dow-chemical,
+  :grant-year 1971,
   :term-years 20,
   :open-license :none}
  {:jurisdiction :us,
@@ -7604,6 +7831,20 @@
   :sourcing :authoritative,
   :filing-year 1970,
   :assignee :pfizer,
+  :grant-year 1972,
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:stauffer-chemical],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3641202/en",
+  :title
+  "Unsaturated polyester compositions containing vinyl polyphosphonat compounds",
+  :status :granted,
+  :id "US3641202",
+  :sourcing :authoritative,
+  :filing-year 1969,
+  :assignee :stauffer-chemical,
   :grant-year 1972,
   :term-years 20,
   :open-license :none}
@@ -9042,243 +9283,5 @@
   :assignee :f-hoffmann-la-roche,
   :grant-year 1973,
   :cites ["US3597318"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:research],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3758396/en",
-  :title
-  "Ition preparation of immobilized enzymemembrane complexes by electrocodepos",
-  :status :granted,
-  :id "US3758396",
-  :sourcing :authoritative,
-  :filing-year 1971,
-  :assignee :research,
-  :grant-year 1973,
-  :term-years 20,
-  :open-license :none}
- {:assignees [:union-carbide],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3759666/en",
-  :title "Analytical process",
-  :status :granted,
-  :id "US3759666",
-  :sourcing :authoritative,
-  :filing-year 1971,
-  :assignee :union-carbide,
-  :grant-year 1973,
-  :term-years 20,
-  :open-license :none}
- {:assignees [:minolta],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3762294/en",
-  :title "Focusing apparatus",
-  :status :granted,
-  :id "US3762294",
-  :sourcing :authoritative,
-  :filing-year 1971,
-  :assignee :minolta,
-  :grant-year 1973,
-  :cites
-  ["US3274913"
-   "US3336851"
-   "US3511155"
-   "US3532045"
-   "US3542475"
-   "US3555280"
-   "US3562785"
-   "US3571598"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:us-atomic-energy-commission-aec],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3763374/en",
-  :title "Dynamic multistation photometer-fluorometer",
-  :status :granted,
-  :id "US3763374",
-  :sourcing :authoritative,
-  :filing-year 1972,
-  :assignee :us-atomic-energy-commission-aec,
-  :grant-year 1973,
-  :cites ["US3547547" "US3649833"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:baxter-laboratories],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3764214/en",
-  :title "Photometer apparatus",
-  :status :granted,
-  :id "US3764214",
-  :sourcing :authoritative,
-  :filing-year 1972,
-  :assignee :baxter-laboratories,
-  :grant-year 1973,
-  :cites ["US3319512"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:f-hoffmann-la-roche],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3766162/en",
-  :title "Barbituric acid antigens and antibodies specific therefor",
-  :status :granted,
-  :id "US3766162",
-  :sourcing :authoritative,
-  :filing-year 1971,
-  :assignee :f-hoffmann-la-roche,
-  :grant-year 1973,
-  :term-years 20,
-  :open-license :none}
- {:assignees [:international-business-machines],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3767490/en",
-  :title "Process for etching organic coating layers",
-  :status :granted,
-  :id "US3767490",
-  :sourcing :authoritative,
-  :filing-year 1971,
-  :assignee :international-business-machines,
-  :grant-year 1973,
-  :cites ["US2443373" "US3705055"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:tokyo-shibaura-electric],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3767494/en",
-  :title
-  "Method for manufacturing a semiconductor photosensitive device",
-  :status :granted,
-  :id "US3767494",
-  :sourcing :authoritative,
-  :filing-year 1971,
-  :assignee :tokyo-shibaura-electric,
-  :grant-year 1973,
-  :cites ["US3616345" "US3616348"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:united-states-department-of-the-army],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3770380/en",
-  :title "Article and method for multiple immune adherence assay",
-  :status :granted,
-  :id "US3770380",
-  :sourcing :authoritative,
-  :filing-year 1971,
-  :assignee :united-states-department-of-the-army,
-  :grant-year 1973,
-  :cites ["US3415361" "US3502437" "US3666421"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:ei-du-pont-de-nemours-and],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3770382/en",
-  :title "Automatic clinical analyzer",
-  :status :granted,
-  :id "US3770382",
-  :sourcing :authoritative,
-  :filing-year 1971,
-  :assignee :ei-du-pont-de-nemours-and,
-  :grant-year 1973,
-  :cites
-  ["US3476515"
-   "US3497320"
-   "US3504376"
-   "US3532469"
-   "US3540858"
-   "US3556731"
-   "US3589867"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:akzona],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3770383/en",
-  :title "Diagnostic test slide",
-  :status :granted,
-  :id "US3770383",
-  :sourcing :authoritative,
-  :filing-year 1971,
-  :assignee :akzona,
-  :grant-year 1973,
-  :cites
-  ["GB953414A"
-   "US3502437"
-   "US3549328"
-   "US3616251"
-   "US3672845"
-   "US3697227"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:rca],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3770434/en",
-  :title
-  "Method for making an image screen structure for an apertured-mask cathode-ray tube using a mask having temporary apertures",
-  :status :granted,
-  :id "US3770434",
-  :sourcing :authoritative,
-  :filing-year 1971,
-  :assignee :rca,
-  :grant-year 1973,
-  :cites
-  ["US2750524"
-   "US2961314"
-   "US2971117"
-   "US3070441"
-   "US3231380"
-   "US3574013"
-   "US3600213"
-   "US3653901"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:technicon-instruments],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3772154/en",
-  :title
-  "Method and apparatus for automated antibiotic susceptibility analysis of bacteria samples",
-  :status :granted,
-  :id "US3772154",
-  :sourcing :authoritative,
-  :filing-year 1971,
-  :assignee :technicon-instruments,
-  :grant-year 1973,
-  :cites ["US3014848" "US3437447" "US3511573"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:united-states-department-of-the-army],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3773625/en",
-  :title "Soluble antigen-antibody complexes",
-  :status :granted,
-  :id "US3773625",
-  :sourcing :authoritative,
-  :filing-year 1971,
-  :assignee :united-states-department-of-the-army,
-  :grant-year 1973,
-  :term-years 20,
-  :open-license :none}
- {:assignees [:ei-du-pont-de-nemours-and],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3773919/en",
-  :title "Polylactide-drug mixtures",
-  :status :granted,
-  :id "US3773919",
-  :sourcing :authoritative,
-  :filing-year 1970,
-  :assignee :ei-du-pont-de-nemours-and,
-  :grant-year 1973,
   :term-years 20,
   :open-license :none}]

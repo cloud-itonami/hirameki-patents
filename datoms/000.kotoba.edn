@@ -715,6 +715,47 @@
   ":hirameki/source"
   "https://patents.google.com/patent/DE1817308A1/en"]
  [":db/add"
+  "hirameki-patent:DE1959169A1"
+  ":hirameki.patent/title"
+  "Insoluble enzymatic reactive material"]
+ [":db/add"
+  "hirameki-patent:DE1959169A1"
+  ":hirameki.patent/jurisdiction"
+  ":de"]
+ [":db/add"
+  "hirameki-patent:DE1959169A1"
+  ":hirameki.patent/field"
+  "UNKNOWN"]
+ [":db/add"
+  "hirameki-patent:DE1959169A1"
+  ":hirameki.patent/assignee"
+  ":nat-res-dev"]
+ [":db/add"
+  "hirameki-patent:DE1959169A1"
+  ":hirameki.patent/status"
+  ":pending"]
+ [":db/add"
+  "hirameki-patent:DE1959169A1"
+  ":hirameki.patent/open-license"
+  ":none"]
+ [":db/add"
+  "hirameki-patent:DE1959169A1"
+  ":hirameki.obs/release-status"
+  ":pending"]
+ [":db/add"
+  "hirameki-patent:DE1959169A1"
+  ":hirameki/sourcing"
+  ":authoritative"]
+ [":db/add" "hirameki-patent:DE1959169A1" ":hirameki/derived" true]
+ [":db/add"
+  "hirameki-patent:DE1959169A1"
+  ":hirameki.obs/years-to-expiry"
+  -37]
+ [":db/add"
+  "hirameki-patent:DE1959169A1"
+  ":hirameki/source"
+  "https://patents.google.com/patent/DE1959169A1/en"]
+ [":db/add"
   "hirameki-patent:DE19914896A1"
   ":hirameki.patent/title"
   "Aqueous coating material, e.g. for painting cars or industrial substrates, contains a polyurethane binder based on bis-4-isocyanato-cyclohexyl-methane with a low trans-trans content, plus a crosslinker"]
@@ -9969,46 +10010,5 @@
   ":none"]
  [":db/add"
   "hirameki-patent:JP2000117889A"
-  ":hirameki.obs/release-status"
-  ":pending"]
- [":db/add"
-  "hirameki-patent:JP2000117889A"
-  ":hirameki/sourcing"
-  ":authoritative"]
- [":db/add" "hirameki-patent:JP2000117889A" ":hirameki/derived" true]
- [":db/add"
-  "hirameki-patent:JP2000117889A"
-  ":hirameki.obs/years-to-expiry"
-  -8]
- [":db/add"
-  "hirameki-patent:JP2000117889A"
-  ":hirameki/source"
-  "https://patents.google.com/patent/JP2000117889A/en"]
- [":db/add"
-  "hirameki-patent:JP2000154204A"
-  ":hirameki.patent/title"
-  "Preparation of gelled polymer particulate"]
- [":db/add"
-  "hirameki-patent:JP2000154204A"
-  ":hirameki.patent/jurisdiction"
-  ":jp"]
- [":db/add"
-  "hirameki-patent:JP2000154204A"
-  ":hirameki.patent/field"
-  "UNKNOWN"]
- [":db/add"
-  "hirameki-patent:JP2000154204A"
-  ":hirameki.patent/assignee"
-  ":kansai-paint"]
- [":db/add"
-  "hirameki-patent:JP2000154204A"
-  ":hirameki.patent/status"
-  ":pending"]
- [":db/add"
-  "hirameki-patent:JP2000154204A"
-  ":hirameki.patent/open-license"
-  ":none"]
- [":db/add"
-  "hirameki-patent:JP2000154204A"
   ":hirameki.obs/release-status"
   ":pending"]]
