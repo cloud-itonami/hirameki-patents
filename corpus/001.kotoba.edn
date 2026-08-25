@@ -1,4 +1,54 @@
-[{:assignees [:national-oil-products],
+[{:jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2262655/en",
+  :title "Formation tester",
+  :status :granted,
+  :id "US2262655",
+  :sourcing :authoritative,
+  :filing-year 1940,
+  :assignee :unassigned,
+  :grant-year 1941,
+  :term-years 20,
+  :open-license :none}
+ {:jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2263131/en",
+  :title "Apparatus for the application of adhesives and the like",
+  :status :granted,
+  :id "US2263131",
+  :sourcing :authoritative,
+  :filing-year 1940,
+  :assignee :unassigned,
+  :grant-year 1941,
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:smith-paper-mills-howard],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2263938/en",
+  :title "Light sensitive measuring instrument",
+  :status :granted,
+  :id "US2263938",
+  :sourcing :authoritative,
+  :filing-year 1940,
+  :assignee :smith-paper-mills-howard,
+  :grant-year 1941,
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:rohm-and-haas],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2264376/en",
+  :title "Preparation of methacrylic polymer molding material",
+  :status :granted,
+  :id "US2264376",
+  :sourcing :authoritative,
+  :filing-year 1939,
+  :assignee :rohm-and-haas,
+  :grant-year 1941,
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:national-oil-products],
   :jurisdiction :us,
   :field "UNKNOWN",
   :source "https://patents.google.com/patent/US2265357/en",
@@ -9937,57 +9987,5 @@
    "US2575467"
    "US2770601"
    "US2785057"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:consolidated-electrodynamics],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3036895/en",
-  :title "Fluid analysis",
-  :status :granted,
-  :id "US3036895",
-  :sourcing :authoritative,
-  :filing-year 1959,
-  :assignee :consolidated-electrodynamics,
-  :grant-year 1962,
-  :term-years 20,
-  :open-license :none}
- {:assignees [:toscony],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3036927/en",
-  :title "Method of coating vinyl film with a surfacing color",
-  :status :granted,
-  :id "US3036927",
-  :sourcing :authoritative,
-  :filing-year 1959,
-  :assignee :toscony,
-  :grant-year 1962,
-  :cites
-  ["US2163712"
-   "US2218249"
-   "US2312927"
-   "US2396946"
-   "US2453052"
-   "US2571962"
-   "US2700630"
-   "US2711132"
-   "US2729193"
-   "US2741215"
-   "US2771388"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:monsanto-chemicals],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3038890/en",
-  :title "Chemical manufacture",
-  :status :granted,
-  :id "US3038890",
-  :sourcing :authoritative,
-  :filing-year 1960,
-  :assignee :monsanto-chemicals,
-  :grant-year 1962,
-  :cites ["US2531355" "US2834747"],
   :term-years 20,
   :open-license :none}]

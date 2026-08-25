@@ -1,4 +1,59 @@
-[{:assignees [:research],
+[{:assignees [:eastman-kodak],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3746564/en",
+  :title "Photographic diffusion transfer product and process",
+  :status :granted,
+  :id "US3746564",
+  :sourcing :authoritative,
+  :filing-year 1970,
+  :assignee :eastman-kodak,
+  :grant-year 1973,
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:coulter-electronics],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3746976/en",
+  :title "Self-cleaning aperture tube for coulter study apparatus",
+  :status :granted,
+  :id "US3746976",
+  :sourcing :authoritative,
+  :filing-year 1971,
+  :assignee :coulter-electronics,
+  :grant-year 1973,
+  :cites ["US3299354" "US3583209"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:phillips-petroleum],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3749593/en",
+  :title "Laminated materials and method of preparation",
+  :status :granted,
+  :id "US3749593",
+  :sourcing :authoritative,
+  :filing-year 1971,
+  :assignee :phillips-petroleum,
+  :grant-year 1973,
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:f-hoffmann-la-roche],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3755086/en",
+  :title
+  "Diagnostic method utilizing synthetic deoxyrilionucleotide oligomer template",
+  :status :granted,
+  :id "US3755086",
+  :sourcing :authoritative,
+  :filing-year 1971,
+  :assignee :f-hoffmann-la-roche,
+  :grant-year 1973,
+  :cites ["US3597318"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:research],
   :jurisdiction :us,
   :field "UNKNOWN",
   :source "https://patents.google.com/patent/US3758396/en",
@@ -3788,6 +3843,26 @@
   :cites ["US3045198" "US3255324" "US3428892" "US3831432" "US3865550"],
   :term-years 20,
   :open-license :none}
+ {:assignees [:suwa-seikosha],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3999298/en",
+  :title "Watch with distance measure",
+  :status :granted,
+  :id "US3999298",
+  :sourcing :authoritative,
+  :filing-year 1975,
+  :assignee :suwa-seikosha,
+  :grant-year 1976,
+  :cites
+  ["US1433640"
+   "US1942130"
+   "US2421581"
+   "US3319415"
+   "US3548588"
+   "US3665701"],
+  :term-years 20,
+  :open-license :none}
  {:jurisdiction :us,
   :field "UNKNOWN",
   :source "https://patents.google.com/patent/US4000252/en",
@@ -4168,6 +4243,27 @@
   :cites ["US2957808" "US3867363" "US3867518"],
   :term-years 20,
   :open-license :none}
+ {:assignees [:gulf-research-and-development],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US4022810/en",
+  :title "Metal chrysotile methane synthesis catalyst",
+  :status :granted,
+  :id "US4022810",
+  :sourcing :authoritative,
+  :filing-year 1976,
+  :assignee :gulf-research-and-development,
+  :grant-year 1977,
+  :cites
+  ["US3361535"
+   "US3379505"
+   "US3625664"
+   "US3625665"
+   "US3729429"
+   "US3730694"
+   "US3912775"],
+  :term-years 20,
+  :open-license :none}
  {:assignees [:corning-glass-works],
   :jurisdiction :us,
   :field "UNKNOWN",
@@ -4395,6 +4491,20 @@
    "US3826619"
    "US3896217"
    "US3979509"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:syva],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US4043872/en",
+  :title "Polyiodothyronine immunoassay",
+  :status :granted,
+  :id "US4043872",
+  :sourcing :authoritative,
+  :filing-year 1975,
+  :assignee :syva,
+  :grant-year 1977,
+  :cites ["US3817837" "US3850752"],
   :term-years 20,
   :open-license :none}
  {:assignees [:dow-chemical],
@@ -4637,6 +4747,20 @@
   :assignee :toyo-soda-manufacturing,
   :grant-year 1978,
   :cites ["US3929750" "US3963662"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:syva],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US4067774/en",
+  :title "Compounds for enzyme amplification assay",
+  :status :granted,
+  :id "US4067774",
+  :sourcing :authoritative,
+  :filing-year 1976,
+  :assignee :syva,
+  :grant-year 1978,
+  :cites ["US3878187"],
   :term-years 20,
   :open-license :none}
  {:assignees [:international-diagnostic-technologies],
@@ -4906,6 +5030,22 @@
   :cites ["US2878106" "US3764214" "US3790346" "US3917404"],
   :term-years 20,
   :open-license :none}
+ {:assignees [:technam],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US4100268/en",
+  :title
+  "Preparation of gentamicin sensitized particles for agglutination tests",
+  :status :granted,
+  :id "US4100268",
+  :sourcing :authoritative,
+  :filing-year 1976,
+  :assignee :technam,
+  :grant-year 1978,
+  :cites
+  ["GB1402427A" "US3639558" "US3652761" "US3775536" "US3951748"],
+  :term-years 20,
+  :open-license :none}
  {:assignees [:dios],
   :jurisdiction :us,
   :field "UNKNOWN",
@@ -5004,6 +5144,21 @@
   :cites ["DE2319495A1" "US3491086" "US3983299" "US4006059"],
   :term-years 20,
   :open-license :none}
+ {:assignees
+  [:agency-of-industrial-science-and-technology :daikin-kogyo],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US4111866/en",
+  :title "Method of making a chemical-resistant diaphragm thereof",
+  :status :granted,
+  :id "US4111866",
+  :sourcing :authoritative,
+  :filing-year 1977,
+  :assignee :agency-of-industrial-science-and-technology,
+  :grant-year 1978,
+  :cites ["US3929950" "US4049589"],
+  :term-years 20,
+  :open-license :none}
  {:assignees [:mitsui-toatsu-chemicals],
   :jurisdiction :us,
   :field "UNKNOWN",
@@ -5084,6 +5239,34 @@
   :assignee :hoffmann-la-roche,
   :grant-year 1978,
   :cites ["US3201421"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:toyo-soda-manufacturing],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US4128706/en",
+  :title "Carrier for liquid chromatography",
+  :status :granted,
+  :id "US4128706",
+  :sourcing :authoritative,
+  :filing-year 1977,
+  :assignee :toyo-soda-manufacturing,
+  :grant-year 1978,
+  :cites ["US3645996" "US3970603" "US4038469"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:american-gas-association],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US4132672/en",
+  :title "Methanation catalyst",
+  :status :granted,
+  :id "US4132672",
+  :sourcing :authoritative,
+  :filing-year 1977,
+  :assignee :american-gas-association,
+  :grant-year 1979,
+  :cites ["US3271325" "US3361535" "US3930812" "US3953363" "US3988334"],
   :term-years 20,
   :open-license :none}
  {:assignees [:fuji-photo-film],
@@ -5194,6 +5377,20 @@
    "US3931144"
    "US3980479"
    "US4013635"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:wisconsin-alumni-research-foundation],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US4144131/en",
+  :title "Immobilization of enzymes on human tissue or erythrocytes",
+  :status :granted,
+  :id "US4144131",
+  :sourcing :authoritative,
+  :filing-year 1974,
+  :assignee :wisconsin-alumni-research-foundation,
+  :grant-year 1979,
+  :cites ["US3639558" "US3654083" "US3691016" "US3806417" "US3843447"],
   :term-years 20,
   :open-license :none}
  {:assignees [:international-diagnostic-technologies],
@@ -5769,6 +5966,20 @@
   :cites ["US3782823" "US3972616" "US4018530"],
   :term-years 20,
   :open-license :none}
+ {:assignees [:toyo-soda-manufacturing],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US4205134/en",
+  :title "Carrier for liquid chromatography",
+  :status :granted,
+  :id "US4205134",
+  :sourcing :authoritative,
+  :filing-year 1978,
+  :assignee :toyo-soda-manufacturing,
+  :grant-year 1980,
+  :cites ["US3645996" "US3970603" "US4038469" "US4128706"],
+  :term-years 20,
+  :open-license :none}
  {:assignees [:technion-research-and-development-foundation],
   :jurisdiction :us,
   :field "UNKNOWN",
@@ -5805,6 +6016,20 @@
    "US3796603"
    "US3980587"
    "US4018627"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:radiochemical-centre],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US4208400/en",
+  :title "Assay of oestrogen",
+  :status :granted,
+  :id "US4208400",
+  :sourcing :authoritative,
+  :filing-year 1978,
+  :assignee :radiochemical-centre,
+  :grant-year 1980,
+  :cites ["US4081525"],
   :term-years 20,
   :open-license :none}
  {:assignees [:syva],
@@ -5948,6 +6173,21 @@
    "US3984307"],
   :term-years 20,
   :open-license :none}
+ {:assignees [:gruppo-lepetit-spa],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US4225574/en",
+  :title
+  "Method for determination of free hormones in biologic fluids",
+  :status :granted,
+  :id "US4225574",
+  :sourcing :authoritative,
+  :filing-year 1978,
+  :assignee :gruppo-lepetit-spa,
+  :grant-year 1980,
+  :cites ["US4020151" "US4046870"],
+  :term-years 20,
+  :open-license :none}
  {:assignees [:calbiochem-behring],
   :jurisdiction :us,
   :field "UNKNOWN",
@@ -5960,6 +6200,20 @@
   :assignee :calbiochem-behring,
   :grant-year 1980,
   :cites ["BE841179A" "US4002532" "US4016043" "US4134792"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:us-department-of-energy],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US4230633/en",
+  :title "Novel Fischer-Tropsch catalysts",
+  :status :granted,
+  :id "US4230633",
+  :sourcing :authoritative,
+  :filing-year 1979,
+  :assignee :us-department-of-energy,
+  :grant-year 1980,
+  :cites ["US4022810" "US4032556" "US4096163" "US4132672"],
   :term-years 20,
   :open-license :none}
  {:assignees [:miles-laboratories],
@@ -6582,6 +6836,18 @@
   :cites ["US3866054" "US3900265" "US3958127"],
   :term-years 20,
   :open-license :none}
+ {:jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US4298590/en",
+  :title "Detection of malignant tumor cells",
+  :status :granted,
+  :id "US4298590",
+  :sourcing :authoritative,
+  :filing-year 1978,
+  :assignee :unassigned,
+  :grant-year 1981,
+  :term-years 20,
+  :open-license :none}
  {:assignees [:burroughs-wellcome-usa],
   :jurisdiction :us,
   :field "UNKNOWN",
@@ -6722,6 +6988,30 @@
    "US3700573"
    "US3959102"
    "US4099859"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:damon],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US4311690/en",
+  :title "Test set and method for the determination of free hormones",
+  :status :granted,
+  :id "US4311690",
+  :sourcing :authoritative,
+  :filing-year 1979,
+  :assignee :damon,
+  :grant-year 1982,
+  :cites
+  ["US3716632"
+   "US3730684"
+   "US3816076"
+   "US3850577"
+   "US3911096"
+   "US3928553"
+   "US3929981"
+   "US3941564"
+   "US3947564"
+   "US4066410"],
   :term-years 20,
   :open-license :none}
  {:assignees [:akzona],
@@ -9119,328 +9409,5 @@
    "US4440801"
    "US4568562"
    "US4574095"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:genentech],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US4663283/en",
-  :title "Method of altering double-stranded DNA",
-  :status :granted,
-  :id "US4663283",
-  :sourcing :authoritative,
-  :filing-year 1983,
-  :assignee :genentech,
-  :grant-year 1987,
-  :cites ["US4351901"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:molecular-genetics],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US4663290/en",
-  :title "Production of reverse transcriptase",
-  :status :granted,
-  :id "US4663290",
-  :sourcing :authoritative,
-  :filing-year 1982,
-  :assignee :molecular-genetics,
-  :grant-year 1987,
-  :cites ["US4332892" "US4338397" "US4356270"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:university-of-massachusetts-system],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US4663446/en",
-  :title
-  "N2 (phenyl substituted) deoxy guanosine containing compounds",
-  :status :granted,
-  :id "US4663446",
-  :sourcing :authoritative,
-  :filing-year 1983,
-  :assignee :university-of-massachusetts-system,
-  :grant-year 1987,
-  :cites ["US3480613" "US3936439" "US4267171"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:wakunaga-pharmaceutical],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US4667025/en",
-  :title "Oligonucleotide derivatives",
-  :status :granted,
-  :id "US4667025",
-  :sourcing :authoritative,
-  :filing-year 1985,
-  :assignee :wakunaga-pharmaceutical,
-  :grant-year 1987,
-  :cites ["US3873521" "US4024249" "US4401796"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:university-patents],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US4668777/en",
-  :title "Phosphoramidite nucleoside compounds",
-  :status :granted,
-  :id "US4668777",
-  :sourcing :authoritative,
-  :filing-year 1984,
-  :assignee :university-patents,
-  :grant-year 1987,
-  :cites ["US3534017"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:ei-du-pont-de-nemours-and],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US4670379/en",
-  :title
-  "Polynucleotide hydridization assays employing catalyzed luminescence",
-  :status :granted,
-  :id "US4670379",
-  :sourcing :authoritative,
-  :filing-year 1984,
-  :assignee :ei-du-pont-de-nemours-and,
-  :grant-year 1987,
-  :cites
-  ["EP0063879A2"
-   "EP0070685A2"
-   "EP0070687A2"
-   "EP0079139A1"
-   "EP0097373B1"
-   "EP0110682A2"
-   "EP0117440A1"
-   "EP0122614A2"
-   "EP0124221A1"
-   "EP0127327A1"
-   "EP0128018A2"
-   "EP0128042A2"
-   "GB2019408A"
-   "GB2125964A"
-   "US4238565"
-   "US4358535"
-   "US4366243"
-   "WO1983002277A1"
-   "WO1983002286A1"
-   "WO1984001174A1"
-   "WO1984002721A1"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:advanced-magnetics],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US4672040/en",
-  :title "Magnetic particles for use in separations",
-  :status :granted,
-  :id "US4672040",
-  :sourcing :authoritative,
-  :filing-year 1985,
-  :assignee :advanced-magnetics,
-  :grant-year 1987,
-  :cites
-  ["EP0113452A2"
-   "GB2011424A"
-   "GB2014727A"
-   "US30360"
-   "US3470067"
-   "US3650698"
-   "US3652761"
-   "US3700555"
-   "US3796660"
-   "US3806449"
-   "US3933997"
-   "US3970518"
-   "US3985649"
-   "US4018886"
-   "US4115534"
-   "US4115535"
-   "US4123396"
-   "US4138383"
-   "US4141687"
-   "US4152210"
-   "US4157323"
-   "US4169804"
-   "US4177253"
-   "US4193866"
-   "US4197220"
-   "US4206094"
-   "US4219411"
-   "US4230685"
-   "US4241176"
-   "US4267234"
-   "US4267235"
-   "US4297337"
-   "US4343901"
-   "US4358535"
-   "US4369226"
-   "US4452773"
-   "US4454234"
-   "WO1983002669A1"
-   "WO1983003426A1"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:celanese],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US4678843/en",
-  :title
-  "Process for the ammonium hydroxide hydrolysis of polymers of acetoxystyrene to polymers of vinylphenol",
-  :status :granted,
-  :id "US4678843",
-  :sourcing :authoritative,
-  :filing-year 1986,
-  :assignee :celanese,
-  :grant-year 1987,
-  :cites
-  ["US2276138"
-   "US3547858"
-   "US3963662"
-   "US3970534"
-   "US4129617"
-   "US4544704"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:cetus],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US4683194/en",
-  :title
-  "Method for detection of polymorphic restriction sites and nucleic acid sequences",
-  :status :granted,
-  :id "US4683194",
-  :sourcing :authoritative,
-  :filing-year 1985,
-  :assignee :cetus,
-  :grant-year 1987,
-  :cites ["EP0142299A2" "US4395486" "US4477577" "US4535058"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:cetus],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US4683195/en",
-  :title
-  "Process for amplifying, detecting, and/or-cloning nucleic acid sequences",
-  :status :granted,
-  :id "US4683195",
-  :sourcing :authoritative,
-  :filing-year 1986,
-  :assignee :cetus,
-  :grant-year 1987,
-  :cites ["US4395486"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:cetus],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US4683202/en",
-  :title "Process for amplifying nucleic acid sequences",
-  :status :granted,
-  :id "US4683202",
-  :sourcing :authoritative,
-  :filing-year 1985,
-  :assignee :cetus,
-  :grant-year 1987,
-  :term-years 20,
-  :open-license :none}
- {:assignees [:biospecific-technologies],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US4687808/en",
-  :title
-  "Activation of biocompatible polymers with biologicals whose binding complements are pathological effectors",
-  :status :granted,
-  :id "US4687808",
-  :sourcing :authoritative,
-  :filing-year 1983,
-  :assignee :biospecific-technologies,
-  :grant-year 1987,
-  :cites
-  ["CA1104110A"
-   "EP0082345A1"
-   "US3826678"
-   "US4059685"
-   "US4061141"
-   "US4182750"
-   "US4192748"
-   "US4222907"
-   "US4239743"
-   "US4272549"
-   "US4292296"
-   "US4305926"
-   "US4357311"
-   "US4362155"
-   "US4430229"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:integrated-genetics],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US4689295/en",
-  :title "Test for Salmonella",
-  :status :granted,
-  :id "US4689295",
-  :sourcing :authoritative,
-  :filing-year 1983,
-  :assignee :integrated-genetics,
-  :grant-year 1987,
-  :cites ["US4139346" "US4302204" "US4358535" "US4359535" "US4486539"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:helmholtz-zentrum-fuer-infektionsforschung-hzi],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US4689405/en",
-  :title
-  "Process for the simultaneous synthesis of several oligonucleotides on a solid phase",
-  :status :granted,
-  :id "US4689405",
-  :sourcing :authoritative,
-  :filing-year 1984,
-  :assignee :helmholtz-zentrum-fuer-infektionsforschung-hzi,
-  :grant-year 1987,
-  :cites
-  ["US3280104"
-   "US4373071"
-   "US4401796"
-   "US4404368"
-   "US4458066"
-   "US4500707"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:university-of-california-san-diego-ucsd],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US4699877/en",
-  :title "Methods and compositions for detecting human tumors",
-  :status :granted,
-  :id "US4699877",
-  :sourcing :authoritative,
-  :filing-year 1984,
-  :assignee :university-of-california-san-diego-ucsd,
-  :grant-year 1987,
-  :cites
-  ["GB2034323A"
-   "US4331647"
-   "US4348376"
-   "US4358535"
-   "US4361544"
-   "US4535058"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:pfizer],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US4709044/en",
-  :title "Biotin intermediates",
-  :status :granted,
-  :id "US4709044",
-  :sourcing :authoritative,
-  :filing-year 1984,
-  :assignee :pfizer,
-  :grant-year 1987,
-  :cites ["GB1419927A" "US3960884"],
   :term-years 20,
   :open-license :none}]
