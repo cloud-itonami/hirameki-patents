@@ -1,4 +1,271 @@
-[{:assignees [:leland-stanford-junior-university],
+[{:assignees [:f-hoffmann-la-roche],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3671400/en",
+  :title "Bacterial controls and preparation thereof",
+  :status :granted,
+  :id "US3671400",
+  :sourcing :authoritative,
+  :filing-year 1969,
+  :assignee :f-hoffmann-la-roche,
+  :grant-year 1972,
+  :cites ["US3340156"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:miles-laboratories],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3672845/en",
+  :title "Test device for albumin",
+  :status :granted,
+  :id "US3672845",
+  :sourcing :authoritative,
+  :filing-year 1970,
+  :assignee :miles-laboratories,
+  :grant-year 1972,
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:zenith-radio],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3672893/en",
+  :title "Process of manufacturing screens for shadow-mask tubes",
+  :status :granted,
+  :id "US3672893",
+  :sourcing :authoritative,
+  :filing-year 1970,
+  :assignee :zenith-radio,
+  :grant-year 1972,
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:medstar-research-institute],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3675488/en",
+  :title
+  "Apparatus for transport and storage of liquid specimens for radio-immunoassay for insulin",
+  :status :granted,
+  :id "US3675488",
+  :sourcing :authoritative,
+  :filing-year 1969,
+  :assignee :medstar-research-institute,
+  :grant-year 1972,
+  :cites ["US2734377" "US3131521" "US3368872"],
+  :term-years 20,
+  :open-license :none}
+ {:jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3675768/en",
+  :title
+  "Method and apparatus for classifying and segregating particles with electrical and optical means",
+  :status :granted,
+  :id "US3675768",
+  :sourcing :authoritative,
+  :filing-year 1969,
+  :assignee :unassigned,
+  :grant-year 1972,
+  :cites
+  ["US2587686"
+   "US2920525"
+   "US2942689"
+   "US3025464"
+   "US3233173"
+   "US3259842"
+   "US3361965"
+   "US3390326"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:f-hoffmann-la-roche],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3676080/en",
+  :title "Device for automatically analyzing liquids",
+  :status :granted,
+  :id "US3676080",
+  :sourcing :authoritative,
+  :filing-year 1968,
+  :assignee :f-hoffmann-la-roche,
+  :grant-year 1972,
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:combined-paper-mills],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3676184/en",
+  :title
+  "Method for controlling varying liquid penetration of a continuous paper web",
+  :status :granted,
+  :id "US3676184",
+  :sourcing :authoritative,
+  :filing-year 1969,
+  :assignee :combined-paper-mills,
+  :grant-year 1972,
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:westinghouse-electric],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3676383/en",
+  :title
+  "Non-aqueous electrophoretic compositions comprising liquid nitroalkanes as a solvent",
+  :status :granted,
+  :id "US3676383",
+  :sourcing :authoritative,
+  :filing-year 1969,
+  :assignee :westinghouse-electric,
+  :grant-year 1972,
+  :cites
+  ["US2843541"
+   "US2947677"
+   "US2982707"
+   "US3093511"
+   "US3450655"
+   "US3554984"],
+  :term-years 20,
+  :open-license :none}
+ {:jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3676820/en",
+  :title "Gas detecting element and method of manufacturing same",
+  :status :granted,
+  :id "US3676820",
+  :sourcing :authoritative,
+  :filing-year 1970,
+  :assignee :unassigned,
+  :grant-year 1972,
+  :cites ["US3092799" "US3138948" "US3437446" "US3479257"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:technicon-instruments],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3679312/en",
+  :title
+  "Method and apparatus for measuring bioluminescence or chemiluminescence for quantitative analysis of samples",
+  :status :granted,
+  :id "US3679312",
+  :sourcing :authoritative,
+  :filing-year 1971,
+  :assignee :technicon-instruments,
+  :grant-year 1972,
+  :cites ["US2549574"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:dainippon-screen-manufacturing],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3679500/en",
+  :title "Method for forming perforations in metal sheets by etching",
+  :status :granted,
+  :id "US3679500",
+  :sourcing :authoritative,
+  :filing-year 1970,
+  :assignee :dainippon-screen-manufacturing,
+  :grant-year 1972,
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:canon],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3682071/en",
+  :title "Automatic focusing device for cameras",
+  :status :granted,
+  :id "US3682071",
+  :sourcing :authoritative,
+  :filing-year 1970,
+  :assignee :canon,
+  :grant-year 1972,
+  :cites
+  ["US3029348"
+   "US3035176"
+   "US3127463"
+   "US3130305"
+   "US3315153"
+   "US3333105"
+   "US3443502"
+   "US3445665"
+   "US3511155"
+   "US3512888"
+   "US3529528"
+   "US3578975"
+   "US3600099"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:baxter-laboratories],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3682835/en",
+  :title "Liquid blood serum control standard",
+  :status :granted,
+  :id "US3682835",
+  :sourcing :authoritative,
+  :filing-year 1970,
+  :assignee :baxter-laboratories,
+  :grant-year 1972,
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:humphrey-research-associates],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3684374/en",
+  :title "Focus detector",
+  :status :granted,
+  :id "US3684374",
+  :sourcing :authoritative,
+  :filing-year 1970,
+  :assignee :humphrey-research-associates,
+  :grant-year 1972,
+  :cites
+  ["US2678401"
+   "US3102227"
+   "US3244889"
+   "US3437815"
+   "US3519349"
+   "US3529528"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:biophysics-systems],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3684377/en",
+  :title
+  "Method for analysis of blood by optical analysis of living cells",
+  :status :granted,
+  :id "US3684377",
+  :sourcing :authoritative,
+  :filing-year 1970,
+  :assignee :biophysics-systems,
+  :grant-year 1972,
+  :cites ["US2875666" "US3497690"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:general-electric],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3685140/en",
+  :title "Short channel field-effect transistors",
+  :status :granted,
+  :id "US3685140",
+  :sourcing :authoritative,
+  :filing-year 1969,
+  :assignee :general-electric,
+  :grant-year 1972,
+  :term-years 20,
+  :open-license :none}
+ {:jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3686046/en",
+  :title
+  "Method of producing a needle punched non-cellular backed carpet",
+  :status :granted,
+  :id "US3686046",
+  :sourcing :authoritative,
+  :filing-year 1969,
+  :assignee :unassigned,
+  :grant-year 1972,
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:leland-stanford-junior-university],
   :jurisdiction :us,
   :field "UNKNOWN",
   :source "https://patents.google.com/patent/US3687808/en",
@@ -3556,6 +3823,20 @@
   :cites ["US3602781" "US3756861" "US3793088" "US3853634"],
   :term-years 20,
   :open-license :none}
+ {:assignees [:bell-telephone-laboratories],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3925677/en",
+  :title "Platinum oxide lithographic masks",
+  :status :granted,
+  :id "US3925677",
+  :sourcing :authoritative,
+  :filing-year 1974,
+  :assignee :bell-telephone-laboratories,
+  :grant-year 1975,
+  :cites ["US2382674" "US3743842"],
+  :term-years 20,
+  :open-license :none}
  {:jurisdiction :us,
   :field "UNKNOWN",
   :source "https://patents.google.com/patent/US3926436/en",
@@ -4113,6 +4394,20 @@
    "US3733989"
    "US3792260"
    "US3846628"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:bell-telephone-laboratories],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3958263/en",
+  :title "Stress reduction in algaas-algaasp multilayer structures",
+  :status :granted,
+  :id "US3958263",
+  :sourcing :authoritative,
+  :filing-year 1974,
+  :assignee :bell-telephone-laboratories,
+  :grant-year 1976,
+  :cites ["US3812516" "US3838359"],
   :term-years 20,
   :open-license :none}
  {:assignees [:midwest-research-institute],
@@ -9004,350 +9299,5 @@
   :assignee :us-department-of-health-and-human-services,
   :grant-year 1983,
   :cites ["US4237224"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:inmont],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US4423179/en",
-  :title "Dimer acid based polyurethane coating compositions",
-  :status :granted,
-  :id "US4423179",
-  :sourcing :authoritative,
-  :filing-year 1983,
-  :assignee :inmont,
-  :grant-year 1983,
-  :cites
-  ["US2429219"
-   "US3267080"
-   "US3383343"
-   "US3578612"
-   "US3954899"
-   "US4045431"
-   "US4096102"
-   "US4155889"
-   "US4225645"
-   "US4352924"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:asahi-kasei-kogyo],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US4423185/en",
-  :title "Thermoplastic resinous composition",
-  :status :granted,
-  :id "US4423185",
-  :sourcing :authoritative,
-  :filing-year 1980,
-  :assignee :asahi-kasei-kogyo,
-  :grant-year 1983,
-  :cites
-  ["GB1440030A"
-   "US3271342"
-   "US3426099"
-   "US3646158"
-   "US3658635"
-   "US3833708"
-   "US3970715"
-   "US4223099"
-   "US4238574"
-   "US4284734"
-   "US4287314"],
-  :term-years 20,
-  :open-license :none}
- {:jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US4423208/en",
-  :title "Affinity gel-adsorbent",
-  :status :granted,
-  :id "US4423208",
-  :sourcing :authoritative,
-  :filing-year 1982,
-  :assignee :unassigned,
-  :grant-year 1983,
-  :cites ["GB805830A"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:ortho-diagnostic-systems],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US4434150/en",
-  :title
-  "Immunological reagents employing polymeric backbone possessing reactive functional groups",
-  :status :granted,
-  :id "US4434150",
-  :sourcing :authoritative,
-  :filing-year 1981,
-  :assignee :ortho-diagnostic-systems,
-  :grant-year 1984,
-  :cites
-  ["CA1107644A"
-   "US3641235"
-   "US3652492"
-   "US3761357"
-   "US3764477"
-   "US3853987"
-   "US3857931"
-   "US3970597"
-   "US3996345"
-   "US4035316"
-   "US4108972"
-   "US4166105"
-   "US4169137"
-   "US4174384"
-   "US4199559"
-   "US4220722"
-   "US4225784"
-   "US4228237"
-   "US4231999"
-   "US4254096"
-   "US4267234"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:genex],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US4434228/en",
-  :title
-  "Immobilization of biological materials in condensed polyalkyleneimine polymers",
-  :status :granted,
-  :id "US4434228",
-  :sourcing :authoritative,
-  :filing-year 1982,
-  :assignee :genex,
-  :grant-year 1984,
-  :cites
-  ["GB1396714A"
-   "GB2019410B"
-   "US3791926"
-   "US3830699"
-   "US3859169"
-   "US4182695"
-   "US4248969"
-   "US4355105"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:ei-du-pont-de-nemours-and],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US4434236/en",
-  :title
-  "Immunoassay wherein labeled antibody is displaced from immobilized analyte-analogue",
-  :status :granted,
-  :id "US4434236",
-  :sourcing :authoritative,
-  :filing-year 1982,
-  :assignee :ei-du-pont-de-nemours-and,
-  :grant-year 1984,
-  :cites
-  ["US4039652"
-   "US4119709"
-   "US4125492"
-   "US4185084"
-   "US4235869"
-   "US4235960"
-   "US4256725"
-   "US4257884"
-   "US4298593"
-   "US4330299"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:boston-biomedical-research-institute],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US4444878/en",
-  :title "Bispecific antibody determinants",
-  :status :granted,
-  :id "US4444878",
-  :sourcing :authoritative,
-  :filing-year 1981,
-  :assignee :boston-biomedical-research-institute,
-  :grant-year 1984,
-  :cites
-  ["EP0068763A2"
-   "US4193982"
-   "US4200436"
-   "US4208479"
-   "US4223005"
-   "US4235869"
-   "US4240889"
-   "US4278761"
-   "US4298685"
-   "US4331647"
-   "US4340535"
-   "US4350626"
-   "US4376110"],
-  :term-years 20,
-  :open-license :none}
- {:jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US4444892/en",
-  :title
-  "Analytical device having semiconductive organic polymeric element associated with analyte-binding substance",
-  :status :granted,
-  :id "US4444892",
-  :sourcing :authoritative,
-  :filing-year 1982,
-  :assignee :unassigned,
-  :grant-year 1984,
-  :cites ["US3932807" "US3999122" "US4103227" "US4180771"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:life-technologies],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US4446237/en",
-  :title
-  "Method for detection of a suspect viral deoxyribonucleic acid in an acellular biological fluid",
-  :status :granted,
-  :id "US4446237",
-  :sourcing :authoritative,
-  :filing-year 1981,
-  :assignee :life-technologies,
-  :grant-year 1984,
-  :cites
-  ["GB2034323A"
-   "US4000252"
-   "US4048298"
-   "US4066512"
-   "US4139346"
-   "US4302204"
-   "US4358535"],
-  :term-years 20,
-  :open-license :none}
- {:jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US444821/en",
-  :title "Apparatus for making leaf-hinges for books",
-  :status :granted,
-  :id "US444821",
-  :sourcing :authoritative,
-  :assignee :unassigned,
-  :grant-year 1891,
-  :term-years 20,
-  :open-license :none}
- {:assignees [:ei-du-pont-de-nemours-and],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US4451597/en",
-  :title
-  "High solids color coat containing alcohol soluble cellulose acetate butyrate",
-  :status :granted,
-  :id "US4451597",
-  :sourcing :authoritative,
-  :filing-year 1982,
-  :assignee :ei-du-pont-de-nemours-and,
-  :grant-year 1984,
-  :cites
-  ["US3558564"
-   "US3622651"
-   "US3637546"
-   "US3674734"
-   "US3862062"
-   "US3862063"
-   "US4131571"
-   "US4208465"
-   "US4359504"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:ei-du-pont-de-nemours-and],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US4455331/en",
-  :title
-  "Coating composition containing a rheology control additive of silica and polyvinyl pyrrolidone",
-  :status :granted,
-  :id "US4455331",
-  :sourcing :authoritative,
-  :filing-year 1983,
-  :assignee :ei-du-pont-de-nemours-and,
-  :grant-year 1984,
-  :cites
-  ["US3607822"
-   "US3630954"
-   "US3656981"
-   "US3959554"
-   "US4131571"
-   "US4238387"
-   "US4273693"
-   "US4321169"
-   "US4338379"
-   "US4350790"
-   "US4404248"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:ei-du-pont-de-nemours-and],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US4455370/en",
-  :title
-  "Transferring separated components in gel electrophoresis via nylon membrane",
-  :status :granted,
-  :id "US4455370",
-  :sourcing :authoritative,
-  :filing-year 1983,
-  :assignee :ei-du-pont-de-nemours-and,
-  :grant-year 1984,
-  :cites
-  ["US2783894"
-   "US3408315"
-   "US3553067"
-   "US3594263"
-   "US3759773"
-   "US3843324"
-   "US3876738"
-   "US4048038"
-   "US4106920"
-   "US4128470"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:becton-dickinson-and],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US4456689/en",
-  :title
-  "Competitive protein binding assay using an organosilane-silica gel separation medium",
-  :status :granted,
-  :id "US4456689",
-  :sourcing :authoritative,
-  :filing-year 1982,
-  :assignee :becton-dickinson-and,
-  :grant-year 1984,
-  :cites
-  ["US4173571"
-   "US4180642"
-   "US4201881"
-   "US4223131"
-   "US4241062"
-   "US4248992"
-   "US4265634"
-   "US4360471"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:university-patents],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US4458066/en",
-  :title "Process for preparing polynucleotides",
-  :status :granted,
-  :id "US4458066",
-  :sourcing :authoritative,
-  :filing-year 1981,
-  :assignee :university-patents,
-  :grant-year 1984,
-  :term-years 20,
-  :open-license :none}
- {:assignees [:nippon-paint],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US4463038/en",
-  :title "Metallic coating using two coat one bake method",
-  :status :granted,
-  :id "US4463038",
-  :sourcing :authoritative,
-  :filing-year 1982,
-  :assignee :nippon-paint,
-  :grant-year 1984,
-  :cites ["US4254168" "US4315053" "US4355071" "US4359504" "US4382114"],
   :term-years 20,
   :open-license :none}]

@@ -1,4 +1,96 @@
-[{:assignees [:ekco-alcoa-containers],
+[{:assignees [:bayer],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3008927/en",
+  :title
+  "Process for the chloromethylation of aromatic vinyl polymers",
+  :status :granted,
+  :id "US3008927",
+  :sourcing :authoritative,
+  :filing-year 1958,
+  :assignee :bayer,
+  :grant-year 1961,
+  :cites ["US2642417" "US2788330"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:becton-dickinson-and],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3010875/en",
+  :title
+  "Lyophilized syphilis complement fixation antigen and its preparation",
+  :status :granted,
+  :id "US3010875",
+  :sourcing :authoritative,
+  :filing-year 1958,
+  :assignee :becton-dickinson-and,
+  :grant-year 1961,
+  :cites ["US2892755"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:k-and-h-equipment],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3011634/en",
+  :title "Method and apparatus for sorting materials",
+  :status :granted,
+  :id "US3011634",
+  :sourcing :authoritative,
+  :filing-year 1958,
+  :assignee :k-and-h-equipment,
+  :grant-year 1961,
+  :cites
+  ["GB504683A"
+   "US2433685"
+   "US2504731"
+   "US2587686"
+   "US2617526"
+   "US2656923"
+   "US2696297"
+   "US2717693"
+   "US2776747"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:eastman-kodak],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3011890/en",
+  :title "Photographic emulsions",
+  :status :granted,
+  :id "US3011890",
+  :sourcing :authoritative,
+  :filing-year 1958,
+  :assignee :eastman-kodak,
+  :grant-year 1961,
+  :cites ["US2652345" "US2691582" "US2788336" "US2865753"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:technicon-instruments],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3014848/en",
+  :title "Method of performing biological assays",
+  :status :granted,
+  :id "US3014848",
+  :sourcing :authoritative,
+  :filing-year 1958,
+  :assignee :technicon-instruments,
+  :grant-year 1961,
+  :cites ["US2797149" "US668330"],
+  :term-years 20,
+  :open-license :none}
+ {:jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US301598/en",
+  :title "Thony r",
+  :status :granted,
+  :id "US301598",
+  :sourcing :authoritative,
+  :assignee :unassigned,
+  :grant-year 1884,
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:ekco-alcoa-containers],
   :jurisdiction :us,
   :field "UNKNOWN",
   :source "https://patents.google.com/patent/US3018594/en",
@@ -460,6 +552,21 @@
    "US2868760"
    "US2873212"
    "US2881155"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:union-carbide],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3037966/en",
+  :title
+  "Method for producing polyimides from diamines and di-acid di-ester derivatives of dianhydrides",
+  :status :granted,
+  :id "US3037966",
+  :sourcing :authoritative,
+  :filing-year 1960,
+  :assignee :union-carbide,
+  :grant-year 1962,
+  :cites ["US2706720" "US2859220" "US2890206" "US2890207"],
   :term-years 20,
   :open-license :none}
  {:assignees [:monsanto-chemicals],
@@ -1026,6 +1133,51 @@
    "US2929130"
    "US2953840"
    "US767465"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:ei-du-pont-de-nemours-and],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3073784/en",
+  :title "Electrically conductive polymeric compositions",
+  :status :granted,
+  :id "US3073784",
+  :sourcing :authoritative,
+  :filing-year 1959,
+  :assignee :ei-du-pont-de-nemours-and,
+  :grant-year 1963,
+  :cites
+  ["US2710853"
+   "US2712543"
+   "US2731447"
+   "US2795680"
+   "US2864774"
+   "US2867609"
+   "US2880181"
+   "US2880230"],
+  :term-years 20,
+  :open-license :none}
+ {:jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3073785/en",
+  :title "Electrically conductive polymeric",
+  :status :granted,
+  :id "US3073785",
+  :sourcing :authoritative,
+  :filing-year 1959,
+  :assignee :unassigned,
+  :grant-year 1963,
+  :cites
+  ["US2638523"
+   "US2683673"
+   "US2710853"
+   "US2712543"
+   "US2731447"
+   "US2795680"
+   "US2864774"
+   "US2867609"
+   "US2880230"
+   "US2901722"],
   :term-years 20,
   :open-license :none}
  {:assignees [:hynson-westcott-and-dunning],
@@ -1629,6 +1781,21 @@
   :assignee :upjohn,
   :grant-year 1963,
   :cites ["US2815342" "US3002965"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:general-electric],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3118786/en",
+  :title
+  "Recording medium having an image receiving coating of a copolymer of a styrene and n-butyl methacrylate",
+  :status :granted,
+  :id "US3118786",
+  :sourcing :authoritative,
+  :filing-year 1961,
+  :assignee :general-electric,
+  :grant-year 1964,
+  :cites ["US2600783" "US2656334" "US2732371" "US2985866"],
   :term-years 20,
   :open-license :none}
  {:assignees [:general-tire-and-rubber],
@@ -5786,6 +5953,20 @@
   :grant-year 1968,
   :term-years 20,
   :open-license :none}
+ {:assignees [:deutsche-itt-industries],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3404049/en",
+  :title "Method of shaping a crystal by acid cutting",
+  :status :granted,
+  :id "US3404049",
+  :sourcing :authoritative,
+  :filing-year 1965,
+  :assignee :deutsche-itt-industries,
+  :grant-year 1968,
+  :cites ["US2952528"],
+  :term-years 20,
+  :open-license :none}
  {:assignees [:international-business-machines],
   :jurisdiction :us,
   :field "UNKNOWN",
@@ -6246,6 +6427,34 @@
   :filing-year 1966,
   :assignee :university-of-illinois-at-urbana-champaign,
   :grant-year 1969,
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:thaddeus-s-trzyna],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3447924/en",
+  :title "Aligning method",
+  :status :granted,
+  :id "US3447924",
+  :sourcing :authoritative,
+  :filing-year 1965,
+  :assignee :thaddeus-s-trzyna,
+  :grant-year 1969,
+  :cites ["US2257143" "US2382674" "US3050390" "US3066117" "US3282756"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:elton-industries],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3447985/en",
+  :title "Method for machining fragile crystals",
+  :status :granted,
+  :id "US3447985",
+  :sourcing :authoritative,
+  :filing-year 1965,
+  :assignee :elton-industries,
+  :grant-year 1969,
+  :cites ["US2585473" "US3083126" "US3092515" "US3257246"],
   :term-years 20,
   :open-license :none}
  {:assignees [:international-business-machines],
@@ -7320,6 +7529,20 @@
   :cites ["US3297157" "US3410403"],
   :term-years 20,
   :open-license :none}
+ {:assignees [:siemens],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3518083/en",
+  :title
+  "Method and apparatus for producing photolithographic structures,particularly on semiconductor crystal surfaces",
+  :status :granted,
+  :id "US3518083",
+  :sourcing :authoritative,
+  :filing-year 1966,
+  :assignee :siemens,
+  :grant-year 1970,
+  :term-years 20,
+  :open-license :none}
  {:assignees [:corning-glass-works],
   :jurisdiction :us,
   :field "UNKNOWN",
@@ -8383,6 +8606,33 @@
   :grant-year 1971,
   :term-years 20,
   :open-license :none}
+ {:assignees [:us-philips],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3616345/en",
+  :title
+  "Method of manufacturing semiconductor devices in which a selective electrolytic etching process is used",
+  :status :granted,
+  :id "US3616345",
+  :sourcing :authoritative,
+  :filing-year 1968,
+  :assignee :us-philips,
+  :grant-year 1971,
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:rca],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3616348/en",
+  :title "Process for isolating semiconductor elements",
+  :status :granted,
+  :id "US3616348",
+  :sourcing :authoritative,
+  :filing-year 1968,
+  :assignee :rca,
+  :grant-year 1971,
+  :term-years 20,
+  :open-license :none}
  {:assignees [:bell-and-howell],
   :jurisdiction :us,
   :field "UNKNOWN",
@@ -8642,6 +8892,27 @@
   :filing-year 1969,
   :assignee :eastman-kodak,
   :grant-year 1972,
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:teeg-research],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3637380/en",
+  :title
+  "Methods for electrochemically making metallic patterns by means of radiation-sensitive elements",
+  :status :granted,
+  :id "US3637380",
+  :sourcing :authoritative,
+  :filing-year 1969,
+  :assignee :teeg-research,
+  :grant-year 1972,
+  :cites
+  ["US3122463"
+   "US3271180"
+   "US3346384"
+   "US3377169"
+   "US3386823"
+   "US3440046"],
   :term-years 20,
   :open-license :none}
  {:assignees [:nippon-kayaku :osaka-seika-kogyo],
@@ -9110,272 +9381,5 @@
   :assignee :national-aeronautics-and-space-administration-nasa,
   :grant-year 1972,
   :cites ["GB505602A" "US3205303"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:f-hoffmann-la-roche],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3671400/en",
-  :title "Bacterial controls and preparation thereof",
-  :status :granted,
-  :id "US3671400",
-  :sourcing :authoritative,
-  :filing-year 1969,
-  :assignee :f-hoffmann-la-roche,
-  :grant-year 1972,
-  :cites ["US3340156"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:miles-laboratories],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3672845/en",
-  :title "Test device for albumin",
-  :status :granted,
-  :id "US3672845",
-  :sourcing :authoritative,
-  :filing-year 1970,
-  :assignee :miles-laboratories,
-  :grant-year 1972,
-  :term-years 20,
-  :open-license :none}
- {:assignees [:zenith-radio],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3672893/en",
-  :title "Process of manufacturing screens for shadow-mask tubes",
-  :status :granted,
-  :id "US3672893",
-  :sourcing :authoritative,
-  :filing-year 1970,
-  :assignee :zenith-radio,
-  :grant-year 1972,
-  :term-years 20,
-  :open-license :none}
- {:assignees [:medstar-research-institute],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3675488/en",
-  :title
-  "Apparatus for transport and storage of liquid specimens for radio-immunoassay for insulin",
-  :status :granted,
-  :id "US3675488",
-  :sourcing :authoritative,
-  :filing-year 1969,
-  :assignee :medstar-research-institute,
-  :grant-year 1972,
-  :cites ["US2734377" "US3131521" "US3368872"],
-  :term-years 20,
-  :open-license :none}
- {:jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3675768/en",
-  :title
-  "Method and apparatus for classifying and segregating particles with electrical and optical means",
-  :status :granted,
-  :id "US3675768",
-  :sourcing :authoritative,
-  :filing-year 1969,
-  :assignee :unassigned,
-  :grant-year 1972,
-  :cites
-  ["US2587686"
-   "US2920525"
-   "US2942689"
-   "US3025464"
-   "US3233173"
-   "US3259842"
-   "US3361965"
-   "US3390326"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:f-hoffmann-la-roche],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3676080/en",
-  :title "Device for automatically analyzing liquids",
-  :status :granted,
-  :id "US3676080",
-  :sourcing :authoritative,
-  :filing-year 1968,
-  :assignee :f-hoffmann-la-roche,
-  :grant-year 1972,
-  :term-years 20,
-  :open-license :none}
- {:assignees [:combined-paper-mills],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3676184/en",
-  :title
-  "Method for controlling varying liquid penetration of a continuous paper web",
-  :status :granted,
-  :id "US3676184",
-  :sourcing :authoritative,
-  :filing-year 1969,
-  :assignee :combined-paper-mills,
-  :grant-year 1972,
-  :term-years 20,
-  :open-license :none}
- {:assignees [:westinghouse-electric],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3676383/en",
-  :title
-  "Non-aqueous electrophoretic compositions comprising liquid nitroalkanes as a solvent",
-  :status :granted,
-  :id "US3676383",
-  :sourcing :authoritative,
-  :filing-year 1969,
-  :assignee :westinghouse-electric,
-  :grant-year 1972,
-  :cites
-  ["US2843541"
-   "US2947677"
-   "US2982707"
-   "US3093511"
-   "US3450655"
-   "US3554984"],
-  :term-years 20,
-  :open-license :none}
- {:jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3676820/en",
-  :title "Gas detecting element and method of manufacturing same",
-  :status :granted,
-  :id "US3676820",
-  :sourcing :authoritative,
-  :filing-year 1970,
-  :assignee :unassigned,
-  :grant-year 1972,
-  :cites ["US3092799" "US3138948" "US3437446" "US3479257"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:technicon-instruments],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3679312/en",
-  :title
-  "Method and apparatus for measuring bioluminescence or chemiluminescence for quantitative analysis of samples",
-  :status :granted,
-  :id "US3679312",
-  :sourcing :authoritative,
-  :filing-year 1971,
-  :assignee :technicon-instruments,
-  :grant-year 1972,
-  :cites ["US2549574"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:dainippon-screen-manufacturing],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3679500/en",
-  :title "Method for forming perforations in metal sheets by etching",
-  :status :granted,
-  :id "US3679500",
-  :sourcing :authoritative,
-  :filing-year 1970,
-  :assignee :dainippon-screen-manufacturing,
-  :grant-year 1972,
-  :term-years 20,
-  :open-license :none}
- {:assignees [:canon],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3682071/en",
-  :title "Automatic focusing device for cameras",
-  :status :granted,
-  :id "US3682071",
-  :sourcing :authoritative,
-  :filing-year 1970,
-  :assignee :canon,
-  :grant-year 1972,
-  :cites
-  ["US3029348"
-   "US3035176"
-   "US3127463"
-   "US3130305"
-   "US3315153"
-   "US3333105"
-   "US3443502"
-   "US3445665"
-   "US3511155"
-   "US3512888"
-   "US3529528"
-   "US3578975"
-   "US3600099"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:baxter-laboratories],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3682835/en",
-  :title "Liquid blood serum control standard",
-  :status :granted,
-  :id "US3682835",
-  :sourcing :authoritative,
-  :filing-year 1970,
-  :assignee :baxter-laboratories,
-  :grant-year 1972,
-  :term-years 20,
-  :open-license :none}
- {:assignees [:humphrey-research-associates],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3684374/en",
-  :title "Focus detector",
-  :status :granted,
-  :id "US3684374",
-  :sourcing :authoritative,
-  :filing-year 1970,
-  :assignee :humphrey-research-associates,
-  :grant-year 1972,
-  :cites
-  ["US2678401"
-   "US3102227"
-   "US3244889"
-   "US3437815"
-   "US3519349"
-   "US3529528"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:biophysics-systems],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3684377/en",
-  :title
-  "Method for analysis of blood by optical analysis of living cells",
-  :status :granted,
-  :id "US3684377",
-  :sourcing :authoritative,
-  :filing-year 1970,
-  :assignee :biophysics-systems,
-  :grant-year 1972,
-  :cites ["US2875666" "US3497690"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:general-electric],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3685140/en",
-  :title "Short channel field-effect transistors",
-  :status :granted,
-  :id "US3685140",
-  :sourcing :authoritative,
-  :filing-year 1969,
-  :assignee :general-electric,
-  :grant-year 1972,
-  :term-years 20,
-  :open-license :none}
- {:jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3686046/en",
-  :title
-  "Method of producing a needle punched non-cellular backed carpet",
-  :status :granted,
-  :id "US3686046",
-  :sourcing :authoritative,
-  :filing-year 1969,
-  :assignee :unassigned,
-  :grant-year 1972,
   :term-years 20,
   :open-license :none}]

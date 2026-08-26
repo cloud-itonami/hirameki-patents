@@ -1,4 +1,49 @@
-[[":db/add" "hirameki-patent:US1598302" ":hirameki/derived" true]
+[[":db/add"
+  "hirameki-patent:US1587274"
+  ":hirameki/sourcing"
+  ":authoritative"]
+ [":db/add" "hirameki-patent:US1587274" ":hirameki/derived" true]
+ [":db/add"
+  "hirameki-patent:US1587274"
+  ":hirameki.obs/years-to-expiry"
+  -83]
+ [":db/add"
+  "hirameki-patent:US1587274"
+  ":hirameki/source"
+  "https://patents.google.com/patent/US1587274/en"]
+ [":db/add"
+  "hirameki-patent:US1598302"
+  ":hirameki.patent/title"
+  "Matrix-flong machine"]
+ [":db/add"
+  "hirameki-patent:US1598302"
+  ":hirameki.patent/jurisdiction"
+  ":us"]
+ [":db/add"
+  "hirameki-patent:US1598302"
+  ":hirameki.patent/field"
+  "UNKNOWN"]
+ [":db/add"
+  "hirameki-patent:US1598302"
+  ":hirameki.patent/assignee"
+  ":whitfield-paper-works"]
+ [":db/add"
+  "hirameki-patent:US1598302"
+  ":hirameki.patent/status"
+  ":granted"]
+ [":db/add"
+  "hirameki-patent:US1598302"
+  ":hirameki.patent/open-license"
+  ":none"]
+ [":db/add"
+  "hirameki-patent:US1598302"
+  ":hirameki.obs/release-status"
+  ":public-domain"]
+ [":db/add"
+  "hirameki-patent:US1598302"
+  ":hirameki/sourcing"
+  ":authoritative"]
+ [":db/add" "hirameki-patent:US1598302" ":hirameki/derived" true]
  [":db/add"
   "hirameki-patent:US1598302"
   ":hirameki.obs/years-to-expiry"
@@ -1881,6 +1926,47 @@
   "hirameki-patent:US1923583"
   ":hirameki/source"
   "https://patents.google.com/patent/US1923583/en"]
+ [":db/add"
+  "hirameki-patent:US1933652"
+  ":hirameki.patent/title"
+  "Process of making x-ray photographs"]
+ [":db/add"
+  "hirameki-patent:US1933652"
+  ":hirameki.patent/jurisdiction"
+  ":us"]
+ [":db/add"
+  "hirameki-patent:US1933652"
+  ":hirameki.patent/field"
+  "UNKNOWN"]
+ [":db/add"
+  "hirameki-patent:US1933652"
+  ":hirameki.patent/assignee"
+  ":philips-gloeilampenfabrieken"]
+ [":db/add"
+  "hirameki-patent:US1933652"
+  ":hirameki.patent/status"
+  ":granted"]
+ [":db/add"
+  "hirameki-patent:US1933652"
+  ":hirameki.patent/open-license"
+  ":none"]
+ [":db/add"
+  "hirameki-patent:US1933652"
+  ":hirameki.obs/release-status"
+  ":public-domain"]
+ [":db/add"
+  "hirameki-patent:US1933652"
+  ":hirameki/sourcing"
+  ":authoritative"]
+ [":db/add" "hirameki-patent:US1933652" ":hirameki/derived" true]
+ [":db/add"
+  "hirameki-patent:US1933652"
+  ":hirameki.obs/years-to-expiry"
+  -77]
+ [":db/add"
+  "hirameki-patent:US1933652"
+  ":hirameki/source"
+  "https://patents.google.com/patent/US1933652/en"]
  [":db/add"
   "hirameki-patent:US1933739"
   ":hirameki.patent/title"
@@ -10348,94 +10434,4 @@
  [":db/add"
   "hirameki-patent:US2334485"
   ":hirameki.patent/title"
-  "Apparatus for combining materials"]
- [":db/add"
-  "hirameki-patent:US2334485"
-  ":hirameki.patent/jurisdiction"
-  ":us"]
- [":db/add"
-  "hirameki-patent:US2334485"
-  ":hirameki.patent/field"
-  "UNKNOWN"]
- [":db/add"
-  "hirameki-patent:US2334485"
-  ":hirameki.patent/assignee"
-  ":potdevin-machine"]
- [":db/add"
-  "hirameki-patent:US2334485"
-  ":hirameki.patent/status"
-  ":granted"]
- [":db/add"
-  "hirameki-patent:US2334485"
-  ":hirameki.patent/open-license"
-  ":none"]
- [":db/add"
-  "hirameki-patent:US2334485"
-  ":hirameki.obs/release-status"
-  ":public-domain"]
- [":db/add"
-  "hirameki-patent:US2334485"
-  ":hirameki/sourcing"
-  ":authoritative"]
- [":db/add" "hirameki-patent:US2334485" ":hirameki/derived" true]
- [":db/add"
-  "hirameki-patent:US2334485"
-  ":hirameki.obs/years-to-expiry"
-  -66]
- [":db/add"
-  "hirameki-patent:US2334485"
-  ":hirameki/source"
-  "https://patents.google.com/patent/US2334485/en"]
- [":db/add"
-  "hirameki-patent:US2334996"
-  ":hirameki.patent/title"
-  "Thickened oil composition"]
- [":db/add"
-  "hirameki-patent:US2334996"
-  ":hirameki.patent/jurisdiction"
-  ":us"]
- [":db/add"
-  "hirameki-patent:US2334996"
-  ":hirameki.patent/field"
-  "UNKNOWN"]
- [":db/add"
-  "hirameki-patent:US2334996"
-  ":hirameki.patent/assignee"
-  ":jasco"]
- [":db/add"
-  "hirameki-patent:US2334996"
-  ":hirameki.patent/status"
-  ":granted"]
- [":db/add"
-  "hirameki-patent:US2334996"
-  ":hirameki.patent/open-license"
-  ":none"]
- [":db/add"
-  "hirameki-patent:US2334996"
-  ":hirameki.obs/release-status"
-  ":public-domain"]
- [":db/add"
-  "hirameki-patent:US2334996"
-  ":hirameki/sourcing"
-  ":authoritative"]
- [":db/add" "hirameki-patent:US2334996" ":hirameki/derived" true]
- [":db/add"
-  "hirameki-patent:US2334996"
-  ":hirameki.obs/years-to-expiry"
-  -66]
- [":db/add"
-  "hirameki-patent:US2334996"
-  ":hirameki/source"
-  "https://patents.google.com/patent/US2334996/en"]
- [":db/add"
-  "hirameki-patent:US2337443"
-  ":hirameki.patent/title"
-  "Process for locating valuable subterranean deposits"]
- [":db/add"
-  "hirameki-patent:US2337443"
-  ":hirameki.patent/jurisdiction"
-  ":us"]
- [":db/add"
-  "hirameki-patent:US2337443"
-  ":hirameki.patent/field"
-  "UNKNOWN"]]
+  "Apparatus for combining materials"]]

@@ -536,6 +536,47 @@
   ":hirameki/source"
   "https://patents.google.com/patent/GB953414A/en"]
  [":db/add"
+  "hirameki-patent:GB985280A"
+  ":hirameki.patent/title"
+  "Method of forming a metallic electrical contact to a preselected area of a semiconductor surface"]
+ [":db/add"
+  "hirameki-patent:GB985280A"
+  ":hirameki.patent/jurisdiction"
+  ":gb"]
+ [":db/add"
+  "hirameki-patent:GB985280A"
+  ":hirameki.patent/field"
+  "UNKNOWN"]
+ [":db/add"
+  "hirameki-patent:GB985280A"
+  ":hirameki.patent/assignee"
+  ":hughes-aircraft"]
+ [":db/add"
+  "hirameki-patent:GB985280A"
+  ":hirameki.patent/status"
+  ":pending"]
+ [":db/add"
+  "hirameki-patent:GB985280A"
+  ":hirameki.patent/open-license"
+  ":none"]
+ [":db/add"
+  "hirameki-patent:GB985280A"
+  ":hirameki.obs/release-status"
+  ":pending"]
+ [":db/add"
+  "hirameki-patent:GB985280A"
+  ":hirameki/sourcing"
+  ":authoritative"]
+ [":db/add" "hirameki-patent:GB985280A" ":hirameki/derived" true]
+ [":db/add"
+  "hirameki-patent:GB985280A"
+  ":hirameki.obs/years-to-expiry"
+  -44]
+ [":db/add"
+  "hirameki-patent:GB985280A"
+  ":hirameki/source"
+  "https://patents.google.com/patent/GB985280A/en"]
+ [":db/add"
   "hirameki-patent:GB993961A"
   ":hirameki.patent/title"
   "Improvements in or relating to immunochemical polymer preparations"]
@@ -9942,49 +9983,4 @@
  [":db/add"
   "hirameki-patent:US1587274"
   ":hirameki.obs/release-status"
-  ":public-domain"]
- [":db/add"
-  "hirameki-patent:US1587274"
-  ":hirameki/sourcing"
-  ":authoritative"]
- [":db/add" "hirameki-patent:US1587274" ":hirameki/derived" true]
- [":db/add"
-  "hirameki-patent:US1587274"
-  ":hirameki.obs/years-to-expiry"
-  -83]
- [":db/add"
-  "hirameki-patent:US1587274"
-  ":hirameki/source"
-  "https://patents.google.com/patent/US1587274/en"]
- [":db/add"
-  "hirameki-patent:US1598302"
-  ":hirameki.patent/title"
-  "Matrix-flong machine"]
- [":db/add"
-  "hirameki-patent:US1598302"
-  ":hirameki.patent/jurisdiction"
-  ":us"]
- [":db/add"
-  "hirameki-patent:US1598302"
-  ":hirameki.patent/field"
-  "UNKNOWN"]
- [":db/add"
-  "hirameki-patent:US1598302"
-  ":hirameki.patent/assignee"
-  ":whitfield-paper-works"]
- [":db/add"
-  "hirameki-patent:US1598302"
-  ":hirameki.patent/status"
-  ":granted"]
- [":db/add"
-  "hirameki-patent:US1598302"
-  ":hirameki.patent/open-license"
-  ":none"]
- [":db/add"
-  "hirameki-patent:US1598302"
-  ":hirameki.obs/release-status"
-  ":public-domain"]
- [":db/add"
-  "hirameki-patent:US1598302"
-  ":hirameki/sourcing"
-  ":authoritative"]]
+  ":public-domain"]]
