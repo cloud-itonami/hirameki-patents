@@ -1,4 +1,97 @@
-[{:assignees [:purdue-research-foundation],
+[{:assignees [:pharmacia],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3720760/en",
+  :title
+  "Method for determining the presence of reagin-immunoglobulins(reagin-ig)directed against certain allergens,in aqueous samples",
+  :status :granted,
+  :id "US3720760",
+  :sourcing :authoritative,
+  :filing-year 1968,
+  :assignee :pharmacia,
+  :grant-year 1973,
+  :term-years 20,
+  :open-license :none}
+ {:jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3721528/en",
+  :title
+  "Method and apparatus for measuring the amount of a component in a biological fluid",
+  :status :granted,
+  :id "US3721528",
+  :sourcing :authoritative,
+  :filing-year 1970,
+  :assignee :unassigned,
+  :grant-year 1973,
+  :term-years 20,
+  :open-license :none}
+ {:jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3723003/en",
+  :title "Rangefinder",
+  :status :granted,
+  :id "US3723003",
+  :sourcing :authoritative,
+  :filing-year 1969,
+  :assignee :unassigned,
+  :grant-year 1973,
+  :cites ["CA728860A" "CA790879A" "FR822388A" "US3435744" "US3493769"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:us-department-of-navy],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3724383/en",
+  :title "Lasser stimulated ordnance initiation device",
+  :status :granted,
+  :id "US3724383",
+  :sourcing :authoritative,
+  :filing-year 1971,
+  :assignee :us-department-of-navy,
+  :grant-year 1973,
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:hycel],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3728080/en",
+  :title "Control apparatus for automatic chemical testing apparatus",
+  :status :granted,
+  :id "US3728080",
+  :sourcing :authoritative,
+  :filing-year 1971,
+  :assignee :hycel,
+  :grant-year 1973,
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:north-american-rockwell],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3728227/en",
+  :title "Microorganism culture apparatus",
+  :status :granted,
+  :id "US3728227",
+  :sourcing :authoritative,
+  :filing-year 1968,
+  :assignee :north-american-rockwell,
+  :grant-year 1973,
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:tetra-tech],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3728540/en",
+  :title "Pressure-modulated multiple gas analyzer",
+  :status :granted,
+  :id "US3728540",
+  :sourcing :authoritative,
+  :filing-year 1971,
+  :assignee :tetra-tech,
+  :grant-year 1973,
+  :cites ["US3005097" "US3600091"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:purdue-research-foundation],
   :jurisdiction :us,
   :field "UNKNOWN",
   :source "https://patents.google.com/patent/US3730844/en",
@@ -3701,6 +3794,30 @@
   :cites ["CH459997A"],
   :term-years 20,
   :open-license :none}
+ {:assignees [:purdue-research-foundation],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3983299/en",
+  :title "Bonded carbohydrate stationary phases for chromatography",
+  :status :granted,
+  :id "US3983299",
+  :sourcing :authoritative,
+  :filing-year 1974,
+  :assignee :purdue-research-foundation,
+  :grant-year 1976,
+  :cites
+  ["US2446119"
+   "US2787518"
+   "US2950985"
+   "US2953478"
+   "US3481771"
+   "US3673150"
+   "US3677938"
+   "US3722181"
+   "US3808125"
+   "US3840464"],
+  :term-years 20,
+  :open-license :none}
  {:assignees [:formica],
   :jurisdiction :us,
   :field "UNKNOWN",
@@ -4055,6 +4172,21 @@
    "US3551555"
    "US3565987"
    "US3862302"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:purdue-research-foundation],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US4006059/en",
+  :title
+  "Hydrophobic noncovalent binding of proteins to support materials",
+  :status :granted,
+  :id "US4006059",
+  :sourcing :authoritative,
+  :filing-year 1974,
+  :assignee :purdue-research-foundation,
+  :grant-year 1977,
+  :cites ["US3909360"],
   :term-years 20,
   :open-license :none}
  {:assignees [:block-engineering],
@@ -5962,6 +6094,20 @@
    "US4104029"],
   :term-years 20,
   :open-license :none}
+ {:assignees [:wistar-institute-of-anatomy-and-biology],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US4196265/en",
+  :title "Method of producing antibodies",
+  :status :granted,
+  :id "US4196265",
+  :sourcing :authoritative,
+  :filing-year 1978,
+  :assignee :wistar-institute-of-anatomy-and-biology,
+  :grant-year 1980,
+  :cites ["GB1300391A" "US2768114"],
+  :term-years 20,
+  :open-license :none}
  {:assignees [:bard-laboratories],
   :jurisdiction :us,
   :field "UNKNOWN",
@@ -6721,6 +6867,27 @@
   :filing-year 1978,
   :assignee :university-of-california-san-diego-ucsd,
   :grant-year 1981,
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:novo-industri-as],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US4266029/en",
+  :title "Enzyme immobilization",
+  :status :granted,
+  :id "US4266029",
+  :sourcing :authoritative,
+  :filing-year 1979,
+  :assignee :novo-industri-as,
+  :grant-year 1981,
+  :cites
+  ["US3796634"
+   "US3838007"
+   "US3928143"
+   "US3980521"
+   "US4004979"
+   "US4138290"
+   "US4141857"],
   :term-years 20,
   :open-license :none}
  {:assignees [:university-of-california-san-diego-ucsd],
@@ -8014,6 +8181,20 @@
    "US4237223"],
   :term-years 20,
   :open-license :none}
+ {:jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US4401759/en",
+  :title
+  "Detection and isolation of glucagon mRNA using a synthetic oligodeoxynucleotide",
+  :status :granted,
+  :id "US4401759",
+  :sourcing :authoritative,
+  :filing-year 1982,
+  :assignee :unassigned,
+  :grant-year 1983,
+  :cites ["US3689475" "US4224408" "US4237224" "US4293652" "US4321365"],
+  :term-years 20,
+  :open-license :none}
  {:assignees [:beckman-research-institute-of-city-of-hope],
   :jurisdiction :us,
   :field "UNKNOWN",
@@ -8246,6 +8427,29 @@
    "US4231999"
    "US4254096"
    "US4267234"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:genex],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US4434228/en",
+  :title
+  "Immobilization of biological materials in condensed polyalkyleneimine polymers",
+  :status :granted,
+  :id "US4434228",
+  :sourcing :authoritative,
+  :filing-year 1982,
+  :assignee :genex,
+  :grant-year 1984,
+  :cites
+  ["GB1396714A"
+   "GB2019410B"
+   "US3791926"
+   "US3830699"
+   "US3859169"
+   "US4182695"
+   "US4248969"
+   "US4355105"],
   :term-years 20,
   :open-license :none}
  {:assignees [:ei-du-pont-de-nemours-and],
@@ -9161,249 +9365,5 @@
    "US4393201"
    "US4395486"
    "US4396713"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:miles-laboratories],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US4563417/en",
-  :title
-  "Nucleic acid hybridization assay employing antibodies to intercalation complexes",
-  :status :granted,
-  :id "US4563417",
-  :sourcing :authoritative,
-  :filing-year 1984,
-  :assignee :miles-laboratories,
-  :grant-year 1986,
-  :cites
-  ["EP0063879A2"
-   "EP0070865A1"
-   "EP0070867A1"
-   "GB2019408A"
-   "US4257774"
-   "US4358535"
-   "US4423153"
-   "US4493899"
-   "WO1983001459A1"
-   "WO1983002286A1"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:orion],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US4563419/en",
-  :title
-  "Detection of microbial nucleic acids by a one-step sandwich hybridization test",
-  :status :granted,
-  :id "US4563419",
-  :sourcing :authoritative,
-  :filing-year 1983,
-  :assignee :orion,
-  :grant-year 1986,
-  :cites
-  ["GB2019408A"
-   "GB2034323A"
-   "US4059685"
-   "US4139346"
-   "US4302204"
-   "US4358535"
-   "US4359535"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:dow-chemical],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US4567099/en",
-  :title "High solids latexes for paper coatings",
-  :status :granted,
-  :id "US4567099",
-  :sourcing :authoritative,
-  :filing-year 1984,
-  :assignee :dow-chemical,
-  :grant-year 1986,
-  :cites ["US4474860"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:philip-morris-usa],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US4567902/en",
-  :title "Tobacco trimmer device",
-  :status :granted,
-  :id "US4567902",
-  :sourcing :authoritative,
-  :filing-year 1983,
-  :assignee :philip-morris-usa,
-  :grant-year 1986,
-  :cites
-  ["DE139666C"
-   "DE2103202A1"
-   "DE2529456A1"
-   "GB2072483A"
-   "GB919150A"
-   "GB941853A"
-   "US2660177"
-   "US2660178"
-   "US2938521"
-   "US3030966"
-   "US3032041"
-   "US3088467"
-   "US3089497"
-   "US3192931"
-   "US3242927"
-   "US3244184"
-   "US3291137"
-   "US3338247"
-   "US3495599"
-   "US3608562"
-   "US3712160"
-   "US3769989"
-   "US3880171"
-   "US4210159"
-   "US4276891"
-   "US4280516"
-   "US4306573"
-   "US548686"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:immunex],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US4568649/en",
-  :title "Immediate ligand detection assay",
-  :status :granted,
-  :id "US4568649",
-  :sourcing :authoritative,
-  :filing-year 1983,
-  :assignee :immunex,
-  :grant-year 1986,
-  :cites ["US4000252" "US4108972" "US4161515" "US4271139"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:university-of-california-san-diego-ucsd],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US4577109/en",
-  :title
-  "Remote multi-position information gathering system and method",
-  :status :granted,
-  :id "US4577109",
-  :sourcing :authoritative,
-  :filing-year 1982,
-  :assignee :university-of-california-san-diego-ucsd,
-  :grant-year 1986,
-  :cites
-  ["US3591810"
-   "US3724383"
-   "US3992631"
-   "US4136566"
-   "US4179927"
-   "US4200110"
-   "US4304461"
-   "US4344438"
-   "US4476870"
-   "WO1979000377A1"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:cetus],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US4582789/en",
-  :title
-  "Process for labeling nucleic acids using psoralen derivatives",
-  :status :granted,
-  :id "US4582789",
-  :sourcing :authoritative,
-  :filing-year 1984,
-  :assignee :cetus,
-  :grant-year 1986,
-  :cites ["GB2019408A" "US4542102"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:us-department-of-energy],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US4585736/en",
-  :title
-  "Flow cytometric measurement of total DNA and incorporated halodeoxyuridine",
-  :status :granted,
-  :id "US4585736",
-  :sourcing :authoritative,
-  :filing-year 1983,
-  :assignee :us-department-of-energy,
-  :grant-year 1986,
-  :cites ["EP0102228A2" "US4196265"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:hughes-aircraft],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US4587203/en",
-  :title
-  "Wet process for developing styrene polymer resists for submicron lithography",
-  :status :granted,
-  :id "US4587203",
-  :sourcing :authoritative,
-  :filing-year 1985,
-  :assignee :hughes-aircraft,
-  :grant-year 1986,
-  :cites ["US2991204" "US3520683"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:american-hospital-supply],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US4589964/en",
-  :title
-  "Process for graft copolymerization of a pre-formed substrate",
-  :status :granted,
-  :id "US4589964",
-  :sourcing :authoritative,
-  :filing-year 1984,
-  :assignee :american-hospital-supply,
-  :grant-year 1986,
-  :cites ["US3008920" "US3458597"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:new-york-blood-center],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US4591552/en",
-  :title
-  "Detection of hepatitis B surface antigen (or antibody to same) with labeled synthetic peptide",
-  :status :granted,
-  :id "US4591552",
-  :sourcing :authoritative,
-  :filing-year 1982,
-  :assignee :new-york-blood-center,
-  :grant-year 1986,
-  :cites
-  ["US3995018"
-   "US4016043"
-   "US4272433"
-   "US4277393"
-   "US4297273"
-   "US4341761"
-   "US4369138"
-   "US4377516"
-   "US4399229"
-   "US4409141"
-   "US4415491"
-   "US4415546"
-   "US4423034"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:novo-industri-as],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US4591565/en",
-  :title "Method for thermal destabilization of microbial rennet",
-  :status :granted,
-  :id "US4591565",
-  :sourcing :authoritative,
-  :filing-year 1982,
-  :assignee :novo-industri-as,
-  :grant-year 1986,
-  :cites ["DE2901542A1" "US4348482" "US4357357"],
   :term-years 20,
   :open-license :none}]
