@@ -3879,6 +3879,47 @@
   ":hirameki/source"
   "https://patents.google.com/patent/US2069333/en"]
  [":db/add"
+  "hirameki-patent:US2071250"
+  ":hirameki.patent/title"
+  "Linear condensation polymers"]
+ [":db/add"
+  "hirameki-patent:US2071250"
+  ":hirameki.patent/jurisdiction"
+  ":us"]
+ [":db/add"
+  "hirameki-patent:US2071250"
+  ":hirameki.patent/field"
+  "UNKNOWN"]
+ [":db/add"
+  "hirameki-patent:US2071250"
+  ":hirameki.patent/assignee"
+  ":ei-du-pont-de-nemours-and"]
+ [":db/add"
+  "hirameki-patent:US2071250"
+  ":hirameki.patent/status"
+  ":granted"]
+ [":db/add"
+  "hirameki-patent:US2071250"
+  ":hirameki.patent/open-license"
+  ":none"]
+ [":db/add"
+  "hirameki-patent:US2071250"
+  ":hirameki.obs/release-status"
+  ":public-domain"]
+ [":db/add"
+  "hirameki-patent:US2071250"
+  ":hirameki/sourcing"
+  ":authoritative"]
+ [":db/add" "hirameki-patent:US2071250" ":hirameki/derived" true]
+ [":db/add"
+  "hirameki-patent:US2071250"
+  ":hirameki.obs/years-to-expiry"
+  -75]
+ [":db/add"
+  "hirameki-patent:US2071250"
+  ":hirameki/source"
+  "https://patents.google.com/patent/US2071250/en"]
+ [":db/add"
   "hirameki-patent:US2072597"
   ":hirameki.patent/title"
   "Paste applying apparatus"]
@@ -10396,46 +10437,5 @@
   ":us"]
  [":db/add"
   "hirameki-patent:US2337443"
-  ":hirameki.patent/field"
-  "UNKNOWN"]
- [":db/add"
-  "hirameki-patent:US2337443"
-  ":hirameki.patent/assignee"
-  ":standard-oil-development"]
- [":db/add"
-  "hirameki-patent:US2337443"
-  ":hirameki.patent/status"
-  ":granted"]
- [":db/add"
-  "hirameki-patent:US2337443"
-  ":hirameki.patent/open-license"
-  ":none"]
- [":db/add"
-  "hirameki-patent:US2337443"
-  ":hirameki.obs/release-status"
-  ":public-domain"]
- [":db/add"
-  "hirameki-patent:US2337443"
-  ":hirameki/sourcing"
-  ":authoritative"]
- [":db/add" "hirameki-patent:US2337443" ":hirameki/derived" true]
- [":db/add"
-  "hirameki-patent:US2337443"
-  ":hirameki.obs/years-to-expiry"
-  -65]
- [":db/add"
-  "hirameki-patent:US2337443"
-  ":hirameki/source"
-  "https://patents.google.com/patent/US2337443/en"]
- [":db/add"
-  "hirameki-patent:US2337465"
-  ":hirameki.patent/title"
-  "Well logging"]
- [":db/add"
-  "hirameki-patent:US2337465"
-  ":hirameki.patent/jurisdiction"
-  ":us"]
- [":db/add"
-  "hirameki-patent:US2337465"
   ":hirameki.patent/field"
   "UNKNOWN"]]

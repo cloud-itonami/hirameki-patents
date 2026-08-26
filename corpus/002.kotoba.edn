@@ -1,4 +1,105 @@
-[{:assignees [:cambridge-instruments],
+[{:assignees [:ekco-alcoa-containers],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3018594/en",
+  :title "Container filling and sealing machines",
+  :status :granted,
+  :id "US3018594",
+  :sourcing :authoritative,
+  :filing-year 1959,
+  :assignee :ekco-alcoa-containers,
+  :grant-year 1962,
+  :cites
+  ["US2551477"
+   "US2645396"
+   "US2744367"
+   "US2744368"
+   "US2765606"
+   "US2825194"
+   "US2879918"
+   "US2910211"
+   "US2934867"
+   "US2934869"
+   "US2972216"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:bb-chemical],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3020169/en",
+  :title "Shoe lining and stiffening materials",
+  :status :granted,
+  :id "US3020169",
+  :sourcing :authoritative,
+  :filing-year 1956,
+  :assignee :bb-chemical,
+  :grant-year 1962,
+  :cites
+  ["GB738751A"
+   "US1391932"
+   "US2009291"
+   "US2062336"
+   "US2135901"
+   "US2267316"
+   "US2314098"
+   "US2344458"
+   "US2384951"
+   "US2569764"
+   "US2596136"
+   "US2618796"
+   "US2619441"
+   "US2669527"
+   "US2784132"
+   "US2840492"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:us-philips],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3020224/en",
+  :title
+  "Method and device for applying electron-emissive coatings to coating-supports of indirectly heated thermionic cathodes of electric discharge tubes",
+  :status :granted,
+  :id "US3020224",
+  :sourcing :authoritative,
+  :filing-year 1958,
+  :assignee :us-philips,
+  :grant-year 1962,
+  :cites
+  ["US2084094"
+   "US2161187"
+   "US2172326"
+   "US2258659"
+   "US2363817"
+   "US2442863"
+   "US2525920"
+   "US2653566"
+   "US2679231"
+   "US2688306"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:american-cyanamid],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3021239/en",
+  :title
+  "Structures comprising a modified diaminotriazine-aldehyde resinous composition",
+  :status :granted,
+  :id "US3021239",
+  :sourcing :authoritative,
+  :filing-year 1957,
+  :assignee :american-cyanamid,
+  :grant-year 1962,
+  :cites
+  ["US2218474"
+   "US2439929"
+   "US2486235"
+   "US2579980"
+   "US2694028"
+   "US2801198"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:cambridge-instruments],
   :jurisdiction :us,
   :field "UNKNOWN",
   :source "https://patents.google.com/patent/US3022241/en",
@@ -2817,6 +2918,29 @@
   :cites ["US2965842"],
   :term-years 20,
   :open-license :none}
+ {:assignees [:xerox],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3196008/en",
+  :title
+  "Electrophotographic process for formation of frost-like deformation images in mechanically deformable photoconductive layers",
+  :status :granted,
+  :id "US3196008",
+  :sourcing :authoritative,
+  :filing-year 1962,
+  :assignee :xerox,
+  :grant-year 1965,
+  :cites
+  ["BE592152A"
+   "BE598591A"
+   "US2297691"
+   "US2965483"
+   "US2968553"
+   "US2985866"
+   "US3055006"
+   "US3063872"],
+  :term-years 20,
+  :open-license :none}
  {:assignees [:zellsloff-fabrik-waldhof],
   :jurisdiction :us,
   :field "UNKNOWN",
@@ -5346,6 +5470,26 @@
   :cites ["GB906324A" "GB917151A" "US3119707" "US3297465"],
   :term-years 20,
   :open-license :none}
+ {:jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3376139/en",
+  :title "Photosensitive prepolymer composition and method",
+  :status :granted,
+  :id "US3376139",
+  :sourcing :authoritative,
+  :filing-year 1966,
+  :assignee :unassigned,
+  :grant-year 1968,
+  :cites
+  ["US2339058"
+   "US2722512"
+   "US2791504"
+   "US2832758"
+   "US3030341"
+   "US3036915"
+   "US3060025"],
+  :term-years 20,
+  :open-license :none}
  {:assignees [:owens-corning-fiberglas],
   :jurisdiction :us,
   :field "UNKNOWN",
@@ -5473,6 +5617,21 @@
    "US2924576"
    "US3060125"
    "US3094491"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:international-business-machines],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3392051/en",
+  :title
+  "Method for forming thin film electrical circuit elements by preferential nucleation techniques",
+  :status :granted,
+  :id "US3392051",
+  :sourcing :authoritative,
+  :filing-year 1964,
+  :assignee :international-business-machines,
+  :grant-year 1968,
+  :cites ["US2883257" "US3271180"],
   :term-years 20,
   :open-license :none}
  {:assignees [:ruth-l-christensen],
@@ -5984,6 +6143,28 @@
   :cites ["US2668284" "US3109930"],
   :term-years 20,
   :open-license :none}
+ {:assignees [:texas-instruments],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3436468/en",
+  :title
+  "Plastic bodies having regions of altered chemical structure and method of making same",
+  :status :granted,
+  :id "US3436468",
+  :sourcing :authoritative,
+  :filing-year 1965,
+  :assignee :texas-instruments,
+  :grant-year 1969,
+  :cites
+  ["US2690403"
+   "US3011920"
+   "US3113896"
+   "US3119707"
+   "US3181172"
+   "US3272670"
+   "US3296359"],
+  :term-years 20,
+  :open-license :none}
  {:assignees [:weather-proof],
   :jurisdiction :us,
   :field "UNKNOWN",
@@ -6214,6 +6395,20 @@
   :assignee :recognition-equipment,
   :grant-year 1969,
   :cites ["US3038607" "US3352417" "US3368672"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:dynachem],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3462267/en",
+  :title "Offset printing plates",
+  :status :granted,
+  :id "US3462267",
+  :sourcing :authoritative,
+  :filing-year 1966,
+  :assignee :dynachem,
+  :grant-year 1969,
+  :cites ["US3376138" "US3376139"],
   :term-years 20,
   :open-license :none}
  {:assignees [:upjohn],
@@ -7994,6 +8189,28 @@
   :cites ["US3036894" "US3260413" "US3261668" "US3497320" "US3508879"],
   :term-years 20,
   :open-license :none}
+ {:jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3607382/en",
+  :title "Method of producing photovarnish masks for semiconductors",
+  :status :granted,
+  :id "US3607382",
+  :sourcing :authoritative,
+  :filing-year 1968,
+  :assignee :unassigned,
+  :grant-year 1971,
+  :cites
+  ["US2705764"
+   "US2968723"
+   "US3113896"
+   "US3162767"
+   "US3326176"
+   "US3330696"
+   "US3364087"
+   "US3388000"
+   "US3442647"],
+  :term-years 20,
+  :open-license :none}
  {:assignees [:ilford],
   :jurisdiction :us,
   :field "UNKNOWN",
@@ -8113,6 +8330,19 @@
   :cites ["US3072362" "US3397965"],
   :term-years 20,
   :open-license :none}
+ {:assignees [:wr-grace-and],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3615450/en",
+  :title "Method of preparing printing plates",
+  :status :granted,
+  :id "US3615450",
+  :sourcing :authoritative,
+  :filing-year 1970,
+  :assignee :wr-grace-and,
+  :grant-year 1971,
+  :term-years 20,
+  :open-license :none}
  {:assignees [:basf-se],
   :jurisdiction :us,
   :field "UNKNOWN",
@@ -8199,6 +8429,21 @@
   :assignee :ugine-kuhlmann,
   :grant-year 1971,
   :cites ["US1580136" "US2494542" "US2526839" "US3345250" "US3481684"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:wr-grace-and],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3619393/en",
+  :title
+  "Process for the preparation of shelf-stable, photocurable polythiols",
+  :status :granted,
+  :id "US3619393",
+  :sourcing :authoritative,
+  :filing-year 1969,
+  :assignee :wr-grace-and,
+  :grant-year 1971,
+  :cites ["US3338810" "US3503940"],
   :term-years 20,
   :open-license :none}
  {:assignees [:ppg-industries],
@@ -8566,6 +8811,28 @@
    "US3395210"
    "US3470067"
    "US3492096"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:standard-telephone-and-cables],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3650796/en",
+  :title "Photolithographic masks",
+  :status :granted,
+  :id "US3650796",
+  :sourcing :authoritative,
+  :filing-year 1969,
+  :assignee :standard-telephone-and-cables,
+  :grant-year 1972,
+  :cites
+  ["US2688566"
+   "US2697028"
+   "US3027278"
+   "US3236707"
+   "US3281261"
+   "US3360398"
+   "US3395970"
+   "US3427120"],
   :term-years 20,
   :open-license :none}
  {:assignees [:corning-glass-works],
@@ -9108,251 +9375,6 @@
   :id "US3686046",
   :sourcing :authoritative,
   :filing-year 1969,
-  :assignee :unassigned,
-  :grant-year 1972,
-  :term-years 20,
-  :open-license :none}
- {:assignees [:leland-stanford-junior-university],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3687808/en",
-  :title "Synthetic polynucleotides",
-  :status :granted,
-  :id "US3687808",
-  :sourcing :authoritative,
-  :filing-year 1969,
-  :assignee :leland-stanford-junior-university,
-  :grant-year 1972,
-  :term-years 20,
-  :open-license :none}
- {:assignees [:syva],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3690834/en",
-  :title
-  "Ligand determination with spin labeled compounds by receptor displacement",
-  :status :granted,
-  :id "US3690834",
-  :sourcing :authoritative,
-  :filing-year 1971,
-  :assignee :syva,
-  :grant-year 1972,
-  :term-years 20,
-  :open-license :none}
- {:jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3695848/en",
-  :title "Gas detecting device",
-  :status :granted,
-  :id "US3695848",
-  :sourcing :authoritative,
-  :filing-year 1970,
-  :assignee :unassigned,
-  :grant-year 1972,
-  :term-years 20,
-  :open-license :none}
- {:assignees [:daniel-e-weber :lionel-d-mcintosh],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3696247/en",
-  :title "Vehicle exhaust emissions analyzer",
-  :status :granted,
-  :id "US3696247",
-  :sourcing :authoritative,
-  :filing-year 1970,
-  :assignee :daniel-e-weber,
-  :grant-year 1972,
-  :cites
-  ["US2829275"
-   "US3171882"
-   "US3519816"
-   "US3562522"
-   "US3569696"
-   "US3588496"
-   "US3593023"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:westinghouse-electric],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3697227/en",
-  :title "Chemical constituent sampler",
-  :status :granted,
-  :id "US3697227",
-  :sourcing :authoritative,
-  :filing-year 1966,
-  :assignee :westinghouse-electric,
-  :grant-year 1972,
-  :term-years 20,
-  :open-license :none}
- {:assignees [:f-hoffmann-la-roche],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3697638/en",
-  :title "Antigens",
-  :status :granted,
-  :id "US3697638",
-  :sourcing :authoritative,
-  :filing-year 1971,
-  :assignee :f-hoffmann-la-roche,
-  :grant-year 1972,
-  :term-years 20,
-  :open-license :none}
- {:assignees [:nat-res-dev],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3699222/en",
-  :title "Production of viral interfering substances",
-  :status :granted,
-  :id "US3699222",
-  :sourcing :authoritative,
-  :filing-year 1968,
-  :assignee :nat-res-dev,
-  :grant-year 1972,
-  :term-years 20,
-  :open-license :none}
- {:assignees [:hycel],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3699336/en",
-  :title "Biological cell analyzing system",
-  :status :granted,
-  :id "US3699336",
-  :sourcing :authoritative,
-  :filing-year 1969,
-  :assignee :hycel,
-  :grant-year 1972,
-  :cites ["US2875666" "US3413464" "US3497690" "US3523756"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:carl-zeiss],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3699348/en",
-  :title
-  "Radiation sensitive device for the successive investigation of several samples",
-  :status :granted,
-  :id "US3699348",
-  :sourcing :authoritative,
-  :filing-year 1971,
-  :assignee :carl-zeiss,
-  :grant-year 1972,
-  :cites ["US3246559" "US3266322" "US3418080" "US3607094"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:shiney],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3699803/en",
-  :title
-  "Semiconductor element for detecting gases and meter for measuring component concentration of a gas mixture",
-  :status :granted,
-  :id "US3699803",
-  :sourcing :authoritative,
-  :filing-year 1971,
-  :assignee :shiney,
-  :grant-year 1972,
-  :cites ["DE2005497A1" "US3039053" "US3507145"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:technicon-instruments],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3700555/en",
-  :title "Method and apparatus for lymphocyte separation from blood",
-  :status :granted,
-  :id "US3700555",
-  :sourcing :authoritative,
-  :filing-year 1970,
-  :assignee :technicon-instruments,
-  :grant-year 1972,
-  :term-years 20,
-  :open-license :none}
- {:assignees [:ici-australia],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3700609/en",
-  :title "Graft copolymers",
-  :status :granted,
-  :id "US3700609",
-  :sourcing :authoritative,
-  :filing-year 1971,
-  :assignee :ici-australia,
-  :grant-year 1972,
-  :term-years 20,
-  :open-license :none}
- {:assignees [:yamasa-shoyu],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3701772/en",
-  :title "Production of nucleotide anhydrides",
-  :status :granted,
-  :id "US3701772",
-  :sourcing :authoritative,
-  :filing-year 1970,
-  :assignee :yamasa-shoyu,
-  :grant-year 1972,
-  :term-years 20,
-  :open-license :none}
- {:assignees [:avco],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3702973/en",
-  :title
-  "Laser or ozone generator in which a broad electron beam with a sustainer field produce a large area, uniform discharge",
-  :status :granted,
-  :id "US3702973",
-  :sourcing :authoritative,
-  :filing-year 1970,
-  :assignee :avco,
-  :grant-year 1972,
-  :cites
-  ["US2030492"
-   "US2333842"
-   "US2373661"
-   "US2429217"
-   "US2686275"
-   "US3403353"
-   "US3555451"
-   "US3576583"
-   "US3641454"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:f-hoffmann-la-roche],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3703337/en",
-  :title "Analyzer processing and recording technique",
-  :status :granted,
-  :id "US3703337",
-  :sourcing :authoritative,
-  :filing-year 1971,
-  :assignee :f-hoffmann-la-roche,
-  :grant-year 1972,
-  :cites ["US2675734"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:general-electric],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3703402/en",
-  :title "Electron sensitive compositions",
-  :status :granted,
-  :id "US3703402",
-  :sourcing :authoritative,
-  :filing-year 1970,
-  :assignee :general-electric,
-  :grant-year 1972,
-  :term-years 20,
-  :open-license :none}
- {:jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3704282/en",
-  :title "Catecholamine antigens and antibodies specific therefor",
-  :status :granted,
-  :id "US3704282",
-  :sourcing :authoritative,
-  :filing-year 1971,
   :assignee :unassigned,
   :grant-year 1972,
   :term-years 20,

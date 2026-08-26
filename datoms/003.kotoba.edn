@@ -1,4 +1,45 @@
 [[":db/add"
+  "hirameki-patent:US2337443"
+  ":hirameki.patent/assignee"
+  ":standard-oil-development"]
+ [":db/add"
+  "hirameki-patent:US2337443"
+  ":hirameki.patent/status"
+  ":granted"]
+ [":db/add"
+  "hirameki-patent:US2337443"
+  ":hirameki.patent/open-license"
+  ":none"]
+ [":db/add"
+  "hirameki-patent:US2337443"
+  ":hirameki.obs/release-status"
+  ":public-domain"]
+ [":db/add"
+  "hirameki-patent:US2337443"
+  ":hirameki/sourcing"
+  ":authoritative"]
+ [":db/add" "hirameki-patent:US2337443" ":hirameki/derived" true]
+ [":db/add"
+  "hirameki-patent:US2337443"
+  ":hirameki.obs/years-to-expiry"
+  -65]
+ [":db/add"
+  "hirameki-patent:US2337443"
+  ":hirameki/source"
+  "https://patents.google.com/patent/US2337443/en"]
+ [":db/add"
+  "hirameki-patent:US2337465"
+  ":hirameki.patent/title"
+  "Well logging"]
+ [":db/add"
+  "hirameki-patent:US2337465"
+  ":hirameki.patent/jurisdiction"
+  ":us"]
+ [":db/add"
+  "hirameki-patent:US2337465"
+  ":hirameki.patent/field"
+  "UNKNOWN"]
+ [":db/add"
   "hirameki-patent:US2337465"
   ":hirameki.patent/assignee"
   ":standard-oil-development"]
@@ -10139,6 +10180,47 @@
   ":hirameki/source"
   "https://patents.google.com/patent/US2710810/en"]
  [":db/add"
+  "hirameki-patent:US2710853"
+  ":hirameki.patent/title"
+  "Polyimides of pyromellitic acid"]
+ [":db/add"
+  "hirameki-patent:US2710853"
+  ":hirameki.patent/jurisdiction"
+  ":us"]
+ [":db/add"
+  "hirameki-patent:US2710853"
+  ":hirameki.patent/field"
+  "UNKNOWN"]
+ [":db/add"
+  "hirameki-patent:US2710853"
+  ":hirameki.patent/assignee"
+  ":ei-du-pont-de-nemours-and"]
+ [":db/add"
+  "hirameki-patent:US2710853"
+  ":hirameki.patent/status"
+  ":granted"]
+ [":db/add"
+  "hirameki-patent:US2710853"
+  ":hirameki.patent/open-license"
+  ":none"]
+ [":db/add"
+  "hirameki-patent:US2710853"
+  ":hirameki.obs/release-status"
+  ":public-domain"]
+ [":db/add"
+  "hirameki-patent:US2710853"
+  ":hirameki/sourcing"
+  ":authoritative"]
+ [":db/add" "hirameki-patent:US2710853" ":hirameki/derived" true]
+ [":db/add"
+  "hirameki-patent:US2710853"
+  ":hirameki.obs/years-to-expiry"
+  -53]
+ [":db/add"
+  "hirameki-patent:US2710853"
+  ":hirameki/source"
+  "https://patents.google.com/patent/US2710853/en"]
+ [":db/add"
   "hirameki-patent:US2711156"
   ":hirameki.patent/title"
   "Apparatus for coating paper board"]
@@ -10276,86 +10358,4 @@
  [":db/add"
   "hirameki-patent:US2712508"
   ":hirameki.patent/assignee"
-  ":unassigned"]
- [":db/add"
-  "hirameki-patent:US2712508"
-  ":hirameki.patent/status"
-  ":granted"]
- [":db/add"
-  "hirameki-patent:US2712508"
-  ":hirameki.patent/open-license"
-  ":none"]
- [":db/add"
-  "hirameki-patent:US2712508"
-  ":hirameki.obs/release-status"
-  ":public-domain"]
- [":db/add"
-  "hirameki-patent:US2712508"
-  ":hirameki/sourcing"
-  ":authoritative"]
- [":db/add" "hirameki-patent:US2712508" ":hirameki/derived" true]
- [":db/add"
-  "hirameki-patent:US2712508"
-  ":hirameki.obs/years-to-expiry"
-  -56]
- [":db/add"
-  "hirameki-patent:US2712508"
-  ":hirameki/source"
-  "https://patents.google.com/patent/US2712508/en"]
- [":db/add"
-  "hirameki-patent:US2712986"
-  ":hirameki.patent/title"
-  "Geochemical exploration method"]
- [":db/add"
-  "hirameki-patent:US2712986"
-  ":hirameki.patent/jurisdiction"
-  ":us"]
- [":db/add"
-  "hirameki-patent:US2712986"
-  ":hirameki.patent/field"
-  "UNKNOWN"]
- [":db/add"
-  "hirameki-patent:US2712986"
-  ":hirameki.patent/assignee"
-  ":socony-vacuum-oil"]
- [":db/add"
-  "hirameki-patent:US2712986"
-  ":hirameki.patent/status"
-  ":granted"]
- [":db/add"
-  "hirameki-patent:US2712986"
-  ":hirameki.patent/open-license"
-  ":none"]
- [":db/add"
-  "hirameki-patent:US2712986"
-  ":hirameki.obs/release-status"
-  ":public-domain"]
- [":db/add"
-  "hirameki-patent:US2712986"
-  ":hirameki/sourcing"
-  ":authoritative"]
- [":db/add" "hirameki-patent:US2712986" ":hirameki/derived" true]
- [":db/add"
-  "hirameki-patent:US2712986"
-  ":hirameki.obs/years-to-expiry"
-  -53]
- [":db/add"
-  "hirameki-patent:US2712986"
-  ":hirameki/source"
-  "https://patents.google.com/patent/US2712986/en"]
- [":db/add"
-  "hirameki-patent:US2713625"
-  ":hirameki.patent/title"
-  "Humidity-sensitive element"]
- [":db/add"
-  "hirameki-patent:US2713625"
-  ":hirameki.patent/jurisdiction"
-  ":us"]
- [":db/add"
-  "hirameki-patent:US2713625"
-  ":hirameki.patent/field"
-  "UNKNOWN"]
- [":db/add"
-  "hirameki-patent:US2713625"
-  ":hirameki.patent/assignee"
-  ":weston-electric-instrument"]]
+  ":unassigned"]]

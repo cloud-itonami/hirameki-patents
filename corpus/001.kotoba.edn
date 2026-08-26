@@ -1,5 +1,17 @@
 [{:jurisdiction :us,
   :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2231282/en",
+  :title "Removable bridging plug for oil wells",
+  :status :granted,
+  :id "US2231282",
+  :sourcing :authoritative,
+  :filing-year 1940,
+  :assignee :unassigned,
+  :grant-year 1941,
+  :term-years 20,
+  :open-license :none}
+ {:jurisdiction :us,
+  :field "UNKNOWN",
   :source "https://patents.google.com/patent/US2232169/en",
   :title "Colorimeter",
   :status :granted,
@@ -5344,6 +5356,20 @@
    "US2653093"],
   :term-years 20,
   :open-license :none}
+ {:assignees [:ei-du-pont-de-nemours-and],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2710853/en",
+  :title "Polyimides of pyromellitic acid",
+  :status :granted,
+  :id "US2710853",
+  :sourcing :authoritative,
+  :filing-year 1953,
+  :assignee :ei-du-pont-de-nemours-and,
+  :grant-year 1955,
+  :cites ["US2130947"],
+  :term-years 20,
+  :open-license :none}
  {:assignees [:american-viscose],
   :jurisdiction :us,
   :field "UNKNOWN",
@@ -5426,6 +5452,20 @@
    "US2466718"
    "US2499421"
    "US695041"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:ei-du-pont-de-nemours-and],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2712543/en",
+  :title "Polyimide intermediates",
+  :status :granted,
+  :id "US2712543",
+  :sourcing :authoritative,
+  :filing-year 1954,
+  :assignee :ei-du-pont-de-nemours-and,
+  :grant-year 1955,
+  :cites ["US2016026" "US2610191" "US2677703"],
   :term-years 20,
   :open-license :none}
  {:assignees [:socony-vacuum-oil],
@@ -5587,6 +5627,19 @@
    "US1967895"
    "US2104525"
    "US2419914"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:ei-du-pont-de-nemours-and],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2731447/en",
+  :title "Novel polyimides",
+  :status :granted,
+  :id "US2731447",
+  :sourcing :authoritative,
+  :filing-year 1954,
+  :assignee :ei-du-pont-de-nemours-and,
+  :grant-year 1956,
   :term-years 20,
   :open-license :none}
  {:jurisdiction :us,
@@ -9491,6 +9544,21 @@
   :cites ["US2504388" "US2588367" "US2814601" "US2843555"],
   :term-years 20,
   :open-license :none}
+ {:assignees [:ei-du-pont-de-nemours-and],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2989492/en",
+  :title
+  "Coating composition comprising nitrocellulose, polymer of methyl methacrylate and carbon black",
+  :status :granted,
+  :id "US2989492",
+  :sourcing :authoritative,
+  :filing-year 1959,
+  :assignee :ei-du-pont-de-nemours-and,
+  :grant-year 1961,
+  :cites ["US2117321" "US2292393" "US2860110" "US2907722"],
+  :term-years 20,
+  :open-license :none}
  {:assignees [:fmc],
   :jurisdiction :us,
   :field "UNKNOWN",
@@ -9861,106 +9929,5 @@
   :sourcing :authoritative,
   :assignee :unassigned,
   :grant-year 1884,
-  :term-years 20,
-  :open-license :none}
- {:assignees [:ekco-alcoa-containers],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3018594/en",
-  :title "Container filling and sealing machines",
-  :status :granted,
-  :id "US3018594",
-  :sourcing :authoritative,
-  :filing-year 1959,
-  :assignee :ekco-alcoa-containers,
-  :grant-year 1962,
-  :cites
-  ["US2551477"
-   "US2645396"
-   "US2744367"
-   "US2744368"
-   "US2765606"
-   "US2825194"
-   "US2879918"
-   "US2910211"
-   "US2934867"
-   "US2934869"
-   "US2972216"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:bb-chemical],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3020169/en",
-  :title "Shoe lining and stiffening materials",
-  :status :granted,
-  :id "US3020169",
-  :sourcing :authoritative,
-  :filing-year 1956,
-  :assignee :bb-chemical,
-  :grant-year 1962,
-  :cites
-  ["GB738751A"
-   "US1391932"
-   "US2009291"
-   "US2062336"
-   "US2135901"
-   "US2267316"
-   "US2314098"
-   "US2344458"
-   "US2384951"
-   "US2569764"
-   "US2596136"
-   "US2618796"
-   "US2619441"
-   "US2669527"
-   "US2784132"
-   "US2840492"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:us-philips],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3020224/en",
-  :title
-  "Method and device for applying electron-emissive coatings to coating-supports of indirectly heated thermionic cathodes of electric discharge tubes",
-  :status :granted,
-  :id "US3020224",
-  :sourcing :authoritative,
-  :filing-year 1958,
-  :assignee :us-philips,
-  :grant-year 1962,
-  :cites
-  ["US2084094"
-   "US2161187"
-   "US2172326"
-   "US2258659"
-   "US2363817"
-   "US2442863"
-   "US2525920"
-   "US2653566"
-   "US2679231"
-   "US2688306"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:american-cyanamid],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3021239/en",
-  :title
-  "Structures comprising a modified diaminotriazine-aldehyde resinous composition",
-  :status :granted,
-  :id "US3021239",
-  :sourcing :authoritative,
-  :filing-year 1957,
-  :assignee :american-cyanamid,
-  :grant-year 1962,
-  :cites
-  ["US2218474"
-   "US2439929"
-   "US2486235"
-   "US2579980"
-   "US2694028"
-   "US2801198"],
   :term-years 20,
   :open-license :none}]
