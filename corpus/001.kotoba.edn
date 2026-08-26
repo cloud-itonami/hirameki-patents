@@ -1,5 +1,106 @@
 [{:jurisdiction :us,
   :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2232169/en",
+  :title "Colorimeter",
+  :status :granted,
+  :id "US2232169",
+  :sourcing :authoritative,
+  :filing-year 1938,
+  :assignee :unassigned,
+  :grant-year 1941,
+  :term-years 20,
+  :open-license :none}
+ {:jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2243604/en",
+  :title "Device for applying films of coating material to paper webs",
+  :status :granted,
+  :id "US2243604",
+  :sourcing :authoritative,
+  :filing-year 1939,
+  :assignee :unassigned,
+  :grant-year 1941,
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:honeywell],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2244362/en",
+  :title "Motor control system",
+  :status :granted,
+  :id "US2244362",
+  :sourcing :authoritative,
+  :filing-year 1937,
+  :assignee :honeywell,
+  :grant-year 1941,
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:western-electric],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2247737/en",
+  :title "Inspection apparatus",
+  :status :granted,
+  :id "US2247737",
+  :sourcing :authoritative,
+  :filing-year 1940,
+  :assignee :western-electric,
+  :grant-year 1941,
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:chemische-forschungs],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2249514/en",
+  :title "Friction element for power transmission",
+  :status :granted,
+  :id "US2249514",
+  :sourcing :authoritative,
+  :filing-year 1937,
+  :assignee :chemische-forschungs,
+  :grant-year 1941,
+  :term-years 20,
+  :open-license :none}
+ {:jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2249867/en",
+  :title "Dampness detecting and indicating device",
+  :status :granted,
+  :id "US2249867",
+  :sourcing :authoritative,
+  :filing-year 1938,
+  :assignee :unassigned,
+  :grant-year 1941,
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:warren-sd],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2252345/en",
+  :title "Coating sheet material",
+  :status :granted,
+  :id "US2252345",
+  :sourcing :authoritative,
+  :filing-year 1938,
+  :assignee :warren-sd,
+  :grant-year 1941,
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:cleef-bros-van],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2253922/en",
+  :title "Manufacture of tape",
+  :status :granted,
+  :id "US2253922",
+  :sourcing :authoritative,
+  :filing-year 1940,
+  :assignee :cleef-bros-van,
+  :grant-year 1941,
+  :term-years 20,
+  :open-license :none}
+ {:jurisdiction :us,
+  :field "UNKNOWN",
   :source "https://patents.google.com/patent/US2254782/en",
   :title "Apparatus for testing water and other liquids",
   :status :granted,
@@ -7682,6 +7783,41 @@
   :cites ["US2706181" "US2706182" "US2706189" "US2716123"],
   :term-years 20,
   :open-license :none}
+ {:assignees [:ei-du-pont-de-nemours-and],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2892712/en",
+  :title "Process for preparing relief images",
+  :status :granted,
+  :id "US2892712",
+  :sourcing :authoritative,
+  :filing-year 1954,
+  :assignee :ei-du-pont-de-nemours-and,
+  :grant-year 1959,
+  :cites
+  ["US1574357"
+   "US1655127"
+   "US1957900"
+   "US2484529"
+   "US2604388"
+   "US2675315"
+   "US2712996"
+   "US2760863"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:general-electric],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2895891/en",
+  :title "Cellulosic materials",
+  :status :granted,
+  :id "US2895891",
+  :sourcing :authoritative,
+  :filing-year 1957,
+  :assignee :general-electric,
+  :grant-year 1959,
+  :term-years 20,
+  :open-license :none}
  {:jurisdiction :us,
   :field "UNKNOWN",
   :source "https://patents.google.com/patent/US2895944/en",
@@ -9826,158 +9962,5 @@
    "US2579980"
    "US2694028"
    "US2801198"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:cambridge-instruments],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3022241/en",
-  :title "Method and apparatus for measurement of dissolved oxygen",
-  :status :granted,
-  :id "US3022241",
-  :sourcing :authoritative,
-  :filing-year 1958,
-  :assignee :cambridge-instruments,
-  :grant-year 1962,
-  :cites
-  ["US2114234"
-   "US2254070"
-   "US2320095"
-   "US2370871"
-   "US2425669"
-   "US2651612"
-   "US2705220"
-   "US2758079"
-   "US2805191"
-   "US2811425"
-   "US2820702"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:wr-grace-and],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3022543/en",
-  :title "Method of producing film having improved shrink energy",
-  :status :granted,
-  :id "US3022543",
-  :sourcing :authoritative,
-  :filing-year 1958,
-  :assignee :wr-grace-and,
-  :grant-year 1962,
-  :cites
-  ["US2219700"
-   "US2408317"
-   "US2448433"
-   "US2452080"
-   "US2488571"
-   "US2491423"
-   "US2586820"
-   "US2622380"
-   "US2684316"
-   "US2686746"
-   "US2690633"
-   "US2763029"
-   "US2792791"
-   "US2825721"
-   "US2855517"
-   "US2877500"],
-  :term-years 20,
-  :open-license :none}
- {:jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3024805/en",
-  :title "Negative feedback fluid amplifier",
-  :status :granted,
-  :id "US3024805",
-  :sourcing :authoritative,
-  :filing-year 1960,
-  :assignee :unassigned,
-  :grant-year 1962,
-  :term-years 20,
-  :open-license :none}
- {:assignees [:pyronics],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3025405/en",
-  :title "High sensitivity control device",
-  :status :granted,
-  :id "US3025405",
-  :sourcing :authoritative,
-  :filing-year 1958,
-  :assignee :pyronics,
-  :grant-year 1962,
-  :cites
-  ["US1002635"
-   "US2118029"
-   "US2193315"
-   "US2197190"
-   "US2240988"
-   "US2490627"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:fairchild-camera-and-instrument],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3025589/en",
-  :title "Method of manufacturing semiconductor devices",
-  :status :granted,
-  :id "US3025589",
-  :sourcing :authoritative,
-  :filing-year 1959,
-  :assignee :fairchild-camera-and-instrument,
-  :grant-year 1962,
-  :cites
-  ["US2653374"
-   "US2680220"
-   "US2695852"
-   "US2697269"
-   "US2796562"
-   "US2862160"
-   "US2866140"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:allied-kid],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3027276/en",
-  :title "Crock-proof suedes and methods of making same",
-  :status :granted,
-  :id "US3027276",
-  :sourcing :authoritative,
-  :filing-year 1959,
-  :assignee :allied-kid,
-  :grant-year 1962,
-  :cites
-  ["GB638118A"
-   "GB815185A"
-   "US2531392"
-   "US2657151"
-   "US2818404"
-   "US2828221"
-   "US2884340"
-   "US2901467"
-   "US2955958"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:fischer-and-porter],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3027756/en",
-  :title "Solids concentration measuring and regulating device",
-  :status :granted,
-  :id "US3027756",
-  :sourcing :authoritative,
-  :filing-year 1958,
-  :assignee :fischer-and-porter,
-  :grant-year 1962,
-  :cites
-  ["US1225086"
-   "US1789386"
-   "US1966638"
-   "US2210027"
-   "US2339991"
-   "US2409014"
-   "US2426393"
-   "US2618966"],
   :term-years 20,
   :open-license :none}]

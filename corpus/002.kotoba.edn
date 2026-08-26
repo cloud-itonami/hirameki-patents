@@ -1,4 +1,157 @@
-[{:jurisdiction :us,
+[{:assignees [:cambridge-instruments],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3022241/en",
+  :title "Method and apparatus for measurement of dissolved oxygen",
+  :status :granted,
+  :id "US3022241",
+  :sourcing :authoritative,
+  :filing-year 1958,
+  :assignee :cambridge-instruments,
+  :grant-year 1962,
+  :cites
+  ["US2114234"
+   "US2254070"
+   "US2320095"
+   "US2370871"
+   "US2425669"
+   "US2651612"
+   "US2705220"
+   "US2758079"
+   "US2805191"
+   "US2811425"
+   "US2820702"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:wr-grace-and],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3022543/en",
+  :title "Method of producing film having improved shrink energy",
+  :status :granted,
+  :id "US3022543",
+  :sourcing :authoritative,
+  :filing-year 1958,
+  :assignee :wr-grace-and,
+  :grant-year 1962,
+  :cites
+  ["US2219700"
+   "US2408317"
+   "US2448433"
+   "US2452080"
+   "US2488571"
+   "US2491423"
+   "US2586820"
+   "US2622380"
+   "US2684316"
+   "US2686746"
+   "US2690633"
+   "US2763029"
+   "US2792791"
+   "US2825721"
+   "US2855517"
+   "US2877500"],
+  :term-years 20,
+  :open-license :none}
+ {:jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3024805/en",
+  :title "Negative feedback fluid amplifier",
+  :status :granted,
+  :id "US3024805",
+  :sourcing :authoritative,
+  :filing-year 1960,
+  :assignee :unassigned,
+  :grant-year 1962,
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:pyronics],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3025405/en",
+  :title "High sensitivity control device",
+  :status :granted,
+  :id "US3025405",
+  :sourcing :authoritative,
+  :filing-year 1958,
+  :assignee :pyronics,
+  :grant-year 1962,
+  :cites
+  ["US1002635"
+   "US2118029"
+   "US2193315"
+   "US2197190"
+   "US2240988"
+   "US2490627"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:fairchild-camera-and-instrument],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3025589/en",
+  :title "Method of manufacturing semiconductor devices",
+  :status :granted,
+  :id "US3025589",
+  :sourcing :authoritative,
+  :filing-year 1959,
+  :assignee :fairchild-camera-and-instrument,
+  :grant-year 1962,
+  :cites
+  ["US2653374"
+   "US2680220"
+   "US2695852"
+   "US2697269"
+   "US2796562"
+   "US2862160"
+   "US2866140"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:allied-kid],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3027276/en",
+  :title "Crock-proof suedes and methods of making same",
+  :status :granted,
+  :id "US3027276",
+  :sourcing :authoritative,
+  :filing-year 1959,
+  :assignee :allied-kid,
+  :grant-year 1962,
+  :cites
+  ["GB638118A"
+   "GB815185A"
+   "US2531392"
+   "US2657151"
+   "US2818404"
+   "US2828221"
+   "US2884340"
+   "US2901467"
+   "US2955958"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:fischer-and-porter],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3027756/en",
+  :title "Solids concentration measuring and regulating device",
+  :status :granted,
+  :id "US3027756",
+  :sourcing :authoritative,
+  :filing-year 1958,
+  :assignee :fischer-and-porter,
+  :grant-year 1962,
+  :cites
+  ["US1225086"
+   "US1789386"
+   "US1966638"
+   "US2210027"
+   "US2339991"
+   "US2409014"
+   "US2426393"
+   "US2618966"],
+  :term-years 20,
+  :open-license :none}
+ {:jurisdiction :us,
   :field "UNKNOWN",
   :source "https://patents.google.com/patent/US302938/en",
   :title "Machine for forming paper",
@@ -184,6 +337,28 @@
    "US2729193"
    "US2741215"
    "US2771388"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:rohm-and-haas],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3037955/en",
+  :title
+  "Resinous coating compositions and methods of coating materials with them",
+  :status :granted,
+  :id "US3037955",
+  :sourcing :authoritative,
+  :filing-year 1958,
+  :assignee :rohm-and-haas,
+  :grant-year 1962,
+  :cites
+  ["US2406558"
+   "US2502030"
+   "US2503245"
+   "US2654721"
+   "US2868760"
+   "US2873212"
+   "US2881155"],
   :term-years 20,
   :open-license :none}
  {:assignees [:monsanto-chemicals],
@@ -3210,6 +3385,21 @@
   :grant-year 1966,
   :term-years 20,
   :open-license :none}
+ {:assignees [:imperial-chemical-industries],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3234303/en",
+  :title
+  "Continuous process for the production of methacrylate polymers",
+  :status :granted,
+  :id "US3234303",
+  :sourcing :authoritative,
+  :filing-year 1963,
+  :assignee :imperial-chemical-industries,
+  :grant-year 1966,
+  :cites ["US2426476" "US2745824" "US2769804" "US2931793"],
+  :term-years 20,
+  :open-license :none}
  {:jurisdiction :us,
   :field "UNKNOWN",
   :source "https://patents.google.com/patent/US3236732/en",
@@ -3454,6 +3644,20 @@
   :assignee :vare-ind,
   :grant-year 1966,
   :cites ["US1841487" "US2508920" "US2571612" "US2578970" "US2665335"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:chemische-werke-huels],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3253000/en",
+  :title "Preparation of liquid epoxides from polydiolefins",
+  :status :granted,
+  :id "US3253000",
+  :sourcing :authoritative,
+  :filing-year 1963,
+  :assignee :chemische-werke-huels,
+  :grant-year 1966,
+  :cites ["US2949441" "US3030336"],
   :term-years 20,
   :open-license :none}
  {:assignees [:tung-sol-electric],
@@ -3999,6 +4203,34 @@
    "US2467248"
    "US2617426"
    "US2932300"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:rca],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3291600/en",
+  :title "Electrophotographic recording element and method of making",
+  :status :granted,
+  :id "US3291600",
+  :sourcing :authoritative,
+  :filing-year 1963,
+  :assignee :rca,
+  :grant-year 1966,
+  :cites
+  ["US2413973"
+   "US2453770"
+   "US2484529"
+   "US3036930"
+   "US3050413"
+   "US3060024"
+   "US3061458"
+   "US3073953"
+   "US3089953"
+   "US3094619"
+   "US3097096"
+   "US3100702"
+   "US3104983"
+   "US3140948"],
   :term-years 20,
   :open-license :none}
  {:assignees [:continental-oil],
@@ -4927,6 +5159,21 @@
   :cites ["US1734975" "US1992938" "US2158374" "US2304125" "US2407462"],
   :term-years 20,
   :open-license :none}
+ {:assignees [:dow-chemical],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3361842/en",
+  :title
+  "Liquid copolymers of ethylene, another alpha olefin and carboxylic acids and compositions thereof with polyepoxides",
+  :status :granted,
+  :id "US3361842",
+  :sourcing :authoritative,
+  :filing-year 1963,
+  :assignee :dow-chemical,
+  :grant-year 1968,
+  :cites ["US2396785" "US3249570" "US3278495"],
+  :term-years 20,
+  :open-license :none}
  {:assignees [:international-business-machines],
   :jurisdiction :us,
   :field "UNKNOWN",
@@ -5083,6 +5330,20 @@
   :assignee :general-electric,
   :grant-year 1968,
   :cites ["US3163531"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:international-business-machines],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3374111/en",
+  :title "Method for depositing thin dielectric polymer films",
+  :status :granted,
+  :id "US3374111",
+  :sourcing :authoritative,
+  :filing-year 1964,
+  :assignee :international-business-machines,
+  :grant-year 1968,
+  :cites ["GB906324A" "GB917151A" "US3119707" "US3297465"],
   :term-years 20,
   :open-license :none}
  {:assignees [:owens-corning-fiberglas],
@@ -5366,6 +5627,31 @@
   :grant-year 1968,
   :term-years 20,
   :open-license :none}
+ {:assignees [:international-business-machines],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3406040/en",
+  :title "Vapor deposition method for forming thin polymeric films",
+  :status :granted,
+  :id "US3406040",
+  :sourcing :authoritative,
+  :filing-year 1964,
+  :assignee :international-business-machines,
+  :grant-year 1968,
+  :cites
+  ["US2428868"
+   "US3080481"
+   "US3117022"
+   "US3132046"
+   "US3161542"
+   "US3168418"
+   "US3183563"
+   "US3192892"
+   "US3211570"
+   "US3297465"
+   "US3310424"],
+  :term-years 20,
+  :open-license :none}
  {:jurisdiction :us,
   :field "UNKNOWN",
   :source "https://patents.google.com/patent/US3409405/en",
@@ -5508,6 +5794,26 @@
   :assignee :philco-ford,
   :grant-year 1968,
   :cites ["US1840529" "US2827391" "US3230088" "US3255005"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:wyandotte-chemicals],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3417069/en",
+  :title "Polyhalogenous epoxy copolymers",
+  :status :granted,
+  :id "US3417069",
+  :sourcing :authoritative,
+  :filing-year 1963,
+  :assignee :wyandotte-chemicals,
+  :grant-year 1968,
+  :cites
+  ["US2829131"
+   "US2829135"
+   "US2951829"
+   "US3044999"
+   "US3077467"
+   "US3135705"],
   :term-years 20,
   :open-license :none}
  {:assignees [:dade-reagents],
@@ -6398,6 +6704,20 @@
   :cites ["US2689818" "US3139343"],
   :term-years 20,
   :open-license :none}
+ {:assignees [:shell-oil],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3501389/en",
+  :title "Irradiated olefin oxide polymers",
+  :status :granted,
+  :id "US3501389",
+  :sourcing :authoritative,
+  :filing-year 1963,
+  :assignee :shell-oil,
+  :grant-year 1970,
+  :cites ["FR1258138A" "US3004961" "US3135705" "US3135706"],
+  :term-years 20,
+  :open-license :none}
  {:assignees [:international-business-machines],
   :jurisdiction :us,
   :field "UNKNOWN",
@@ -6864,6 +7184,20 @@
    "US3303466"
    "US3305832"
    "US3305835"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:gulf-research-and-development],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3531547/en",
+  :title "Composition,method and article",
+  :status :granted,
+  :id "US3531547",
+  :sourcing :authoritative,
+  :filing-year 1967,
+  :assignee :gulf-research-and-development,
+  :grant-year 1970,
+  :cites ["US2822350" "US2966479" "US3374209" "US3441543" "US3453246"],
   :term-years 20,
   :open-license :none}
  {:assignees [:jos-schneider-optische-werke],
@@ -8998,6 +9332,19 @@
   :cites ["US2675734"],
   :term-years 20,
   :open-license :none}
+ {:assignees [:general-electric],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3703402/en",
+  :title "Electron sensitive compositions",
+  :status :granted,
+  :id "US3703402",
+  :sourcing :authoritative,
+  :filing-year 1970,
+  :assignee :general-electric,
+  :grant-year 1972,
+  :term-years 20,
+  :open-license :none}
  {:jurisdiction :us,
   :field "UNKNOWN",
   :source "https://patents.google.com/patent/US3704282/en",
@@ -9008,325 +9355,5 @@
   :filing-year 1971,
   :assignee :unassigned,
   :grant-year 1972,
-  :term-years 20,
-  :open-license :none}
- {:assignees [:cary-instruments],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3704951/en",
-  :title
-  "S light cell for increasing the intensity level of raman light emission from a sample",
-  :status :granted,
-  :id "US3704951",
-  :sourcing :authoritative,
-  :filing-year 1971,
-  :assignee :cary-instruments,
-  :grant-year 1972,
-  :cites ["US3201709" "US3414354"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:western-electric],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3705055/en",
-  :title "Method of descumming photoresist patterns",
-  :status :granted,
-  :id "US3705055",
-  :sourcing :authoritative,
-  :filing-year 1970,
-  :assignee :western-electric,
-  :grant-year 1972,
-  :term-years 20,
-  :open-license :none}
- {:assignees [:monsanto],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3705084/en",
-  :title "Macroporous enzyme reactor",
-  :status :granted,
-  :id "US3705084",
-  :sourcing :authoritative,
-  :filing-year 1971,
-  :assignee :monsanto,
-  :grant-year 1972,
-  :term-years 20,
-  :open-license :none}
- {:assignees [:international-business-machines],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3707455/en",
-  :title "Measuring system",
-  :status :granted,
-  :id "US3707455",
-  :sourcing :authoritative,
-  :filing-year 1968,
-  :assignee :international-business-machines,
-  :grant-year 1972,
-  :term-years 20,
-  :open-license :none}
- {:assignees [:f-hoffmann-la-roche],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3709868/en",
-  :title "Opium alkaloid antigens and antibodies specific therefor",
-  :status :granted,
-  :id "US3709868",
-  :sourcing :authoritative,
-  :filing-year 1971,
-  :assignee :f-hoffmann-la-roche,
-  :grant-year 1973,
-  :cites ["DE116806C" "US1906236" "US2301532" "US2372066"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:kyowa-hakko-kogyo],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3709873/en",
-  :title
-  "Process for synthesizing the di-esters of condensed phosphoric acid",
-  :status :granted,
-  :id "US3709873",
-  :sourcing :authoritative,
-  :filing-year 1969,
-  :assignee :kyowa-hakko-kogyo,
-  :grant-year 1973,
-  :term-years 20,
-  :open-license :none}
- {:assignees [:us-atomic-energy-commission-aec],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3710933/en",
-  :title "Multisensor particle sorter",
-  :status :granted,
-  :id "US3710933",
-  :sourcing :authoritative,
-  :filing-year 1971,
-  :assignee :us-atomic-energy-commission-aec,
-  :grant-year 1973,
-  :cites ["US3380584" "US3560754" "US3675768"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:cenco-medical-health-supply],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3711379/en",
-  :title "Rotating flask culture apparatus",
-  :status :granted,
-  :id "US3711379",
-  :sourcing :authoritative,
-  :filing-year 1971,
-  :assignee :cenco-medical-health-supply,
-  :grant-year 1973,
-  :cites ["US2597291" "US3338795" "US3540700"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:optical-coating-laboratory],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3711708/en",
-  :title
-  "Rapid scan identifier for use in infrared absorption spectroscopy",
-  :status :granted,
-  :id "US3711708",
-  :sourcing :authoritative,
-  :filing-year 1971,
-  :assignee :optical-coating-laboratory,
-  :grant-year 1973,
-  :cites
-  ["US2970513"
-   "US3120608"
-   "US3144498"
-   "US3497302"
-   "US3536558"
-   "US3537797"
-   "US3554648"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:sherwood-medical-industries],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3712465/en",
-  :title "Tray for use in sealing capillary tubes",
-  :status :granted,
-  :id "US3712465",
-  :sourcing :authoritative,
-  :filing-year 1970,
-  :assignee :sherwood-medical-industries,
-  :grant-year 1973,
-  :cites
-  ["GB1116157A"
-   "US1822487"
-   "US3135383"
-   "US3219421"
-   "US3234593"
-   "US3351210"
-   "US3416361"
-   "US3441383"
-   "US3589511"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:general-electric],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3712746/en",
-  :title
-  "Device for optically determining microbial colony population on growth surface",
-  :status :granted,
-  :id "US3712746",
-  :sourcing :authoritative,
-  :filing-year 1971,
-  :assignee :general-electric,
-  :grant-year 1973,
-  :cites ["US2157438" "US2427790" "US2495912"],
-  :term-years 20,
-  :open-license :none}
- {:jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3712885/en",
-  :title
-  "Purine-ribofuranoside-3&#39;,5&#39;-cyclophosphates and process for their preparation",
-  :status :granted,
-  :id "US3712885",
-  :sourcing :authoritative,
-  :filing-year 1969,
-  :assignee :unassigned,
-  :grant-year 1973,
-  :term-years 20,
-  :open-license :none}
- {:assignees [:cognos],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3714372/en",
-  :title
-  "Method and apparatus for counting and classifying microscopic particles",
-  :status :granted,
-  :id "US3714372",
-  :sourcing :authoritative,
-  :filing-year 1970,
-  :assignee :cognos,
-  :grant-year 1973,
-  :term-years 20,
-  :open-license :none}
- {:assignees [:abbott-laboratories],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3715427/en",
-  :title "Stabilized erythrocytes and methods therefor",
-  :status :granted,
-  :id "US3715427",
-  :sourcing :authoritative,
-  :filing-year 1970,
-  :assignee :abbott-laboratories,
-  :grant-year 1973,
-  :cites ["US3057775"],
-  :term-years 20,
-  :open-license :none}
- {:jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3715872/en",
-  :title "Mowing apparatus",
-  :status :granted,
-  :id "US3715872",
-  :sourcing :authoritative,
-  :filing-year 1971,
-  :assignee :unassigned,
-  :grant-year 1973,
-  :term-years 20,
-  :open-license :none}
- {:jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3716369/en",
-  :title
-  "Process for cooking foods in polyalkylene teraphalate film bag",
-  :status :granted,
-  :id "US3716369",
-  :sourcing :authoritative,
-  :filing-year 1970,
-  :assignee :unassigned,
-  :grant-year 1973,
-  :cites
-  ["CA703413A"
-   "US3008837"
-   "US3108881"
-   "US3132029"
-   "US3204760"
-   "US3262787"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:kuraray :sud-west-chemie],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3716395/en",
-  :title
-  "Process of producing pigmented, a hardenable resin containing paper sheets, and products",
-  :status :granted,
-  :id "US3716395",
-  :sourcing :authoritative,
-  :filing-year 1968,
-  :assignee :kuraray,
-  :grant-year 1973,
-  :cites ["US3197331" "US3200008" "US3288632" "US3326712" "US3493419"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:beckman-instruments],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3718563/en",
-  :title "Polarographic sensor and membrane therefor",
-  :status :granted,
-  :id "US3718563",
-  :sourcing :authoritative,
-  :filing-year 1971,
-  :assignee :beckman-instruments,
-  :grant-year 1973,
-  :cites ["US3278408" "US3574078" "US3575836" "US3617460"],
-  :term-years 20,
-  :open-license :none}
- {:jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3718737/en",
-  :title "Process of treating bile and novel iodine-131 complex",
-  :status :granted,
-  :id "US3718737",
-  :sourcing :authoritative,
-  :filing-year 1967,
-  :assignee :unassigned,
-  :grant-year 1973,
-  :cites ["US3061510"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:farrand-optical],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3719410/en",
-  :title "Mixing and measuring apparatus",
-  :status :granted,
-  :id "US3719410",
-  :sourcing :authoritative,
-  :filing-year 1971,
-  :assignee :farrand-optical,
-  :grant-year 1973,
-  :cites
-  ["US1660974"
-   "US2587221"
-   "US2643940"
-   "US2971429"
-   "US3193357"
-   "US3585007"
-   "US3586064"
-   "US3679312"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:sun-oil],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3719454/en",
-  :title "Laser controlled chemical reactor",
-  :status :granted,
-  :id "US3719454",
-  :sourcing :authoritative,
-  :filing-year 1970,
-  :assignee :sun-oil,
-  :grant-year 1973,
   :term-years 20,
   :open-license :none}]
