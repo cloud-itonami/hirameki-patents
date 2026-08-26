@@ -1,4 +1,82 @@
-[{:assignees [:bayer],
+[{:assignees [:texaco],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3004544/en",
+  :title "Continuously measuring slurry density",
+  :status :granted,
+  :id "US3004544",
+  :sourcing :authoritative,
+  :filing-year 1955,
+  :assignee :texaco,
+  :grant-year 1961,
+  :cites
+  ["US1511604"
+   "US2311312"
+   "US2321175"
+   "US2432039"
+   "US2669118"
+   "US2719018"
+   "US2745484"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:time],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3005727/en",
+  :title
+  "Coating compositions and processes for making paper more receptive to ink",
+  :status :granted,
+  :id "US3005727",
+  :sourcing :authoritative,
+  :filing-year 1958,
+  :assignee :time,
+  :grant-year 1961,
+  :cites
+  ["US1934639"
+   "US1934641"
+   "US1934642"
+   "US2697669"
+   "US2786757"
+   "US2879178"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:kitchens-of-sara-lee],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3008837/en",
+  :title "Precooked frozen food package",
+  :status :granted,
+  :id "US3008837",
+  :sourcing :authoritative,
+  :filing-year 1959,
+  :assignee :kitchens-of-sara-lee,
+  :grant-year 1961,
+  :cites
+  ["US2319560"
+   "US2356078"
+   "US2387812"
+   "US2457924"
+   "US2528251"
+   "US2595708"
+   "US2881078"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:miles-laboratories],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3008879/en",
+  :title
+  "Diagnostic composition for the quantitative determination of glucose",
+  :status :granted,
+  :id "US3008879",
+  :sourcing :authoritative,
+  :filing-year 1960,
+  :assignee :miles-laboratories,
+  :grant-year 1961,
+  :cites ["US2893843"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:bayer],
   :jurisdiction :us,
   :field "UNKNOWN",
   :source "https://patents.google.com/patent/US3008927/en",
@@ -9303,83 +9381,5 @@
    "US3417231"
    "US3474230"
    "US3513320"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:schlumberger-technology],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3664421/en",
-  :title
-  "Methods for inhibiting the production of loose formation materials",
-  :status :granted,
-  :id "US3664421",
-  :sourcing :authoritative,
-  :filing-year 1970,
-  :assignee :schlumberger-technology,
-  :grant-year 1972,
-  :cites
-  ["US2725107"
-   "US2745496"
-   "US2775303"
-   "US2911048"
-   "US2927640"
-   "US2978029"
-   "US3130787"
-   "US3460618"
-   "US3559736"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:organon],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3666421/en",
-  :title "Diagnostic test slide",
-  :status :granted,
-  :id "US3666421",
-  :sourcing :authoritative,
-  :filing-year 1971,
-  :assignee :organon,
-  :grant-year 1972,
-  :term-years 20,
-  :open-license :none}
- {:assignees [:coulter-electronics],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3669542/en",
-  :title "Liquid borne particle sensor",
-  :status :granted,
-  :id "US3669542",
-  :sourcing :authoritative,
-  :filing-year 1969,
-  :assignee :coulter-electronics,
-  :grant-year 1972,
-  :term-years 20,
-  :open-license :none}
- {:assignees [:monsanto],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3669841/en",
-  :title "Attachment of enzymes to siliceous materials",
-  :status :granted,
-  :id "US3669841",
-  :sourcing :authoritative,
-  :filing-year 1970,
-  :assignee :monsanto,
-  :grant-year 1972,
-  :cites ["US3502545" "US3519538"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:national-aeronautics-and-space-administration-nasa],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3670097/en",
-  :title "Stereoscopic television system and apparatus",
-  :status :granted,
-  :id "US3670097",
-  :sourcing :authoritative,
-  :filing-year 1969,
-  :assignee :national-aeronautics-and-space-administration-nasa,
-  :grant-year 1972,
-  :cites ["GB505602A" "US3205303"],
   :term-years 20,
   :open-license :none}]

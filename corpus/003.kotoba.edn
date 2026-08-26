@@ -1,4 +1,82 @@
-[{:assignees [:f-hoffmann-la-roche],
+[{:assignees [:schlumberger-technology],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3664421/en",
+  :title
+  "Methods for inhibiting the production of loose formation materials",
+  :status :granted,
+  :id "US3664421",
+  :sourcing :authoritative,
+  :filing-year 1970,
+  :assignee :schlumberger-technology,
+  :grant-year 1972,
+  :cites
+  ["US2725107"
+   "US2745496"
+   "US2775303"
+   "US2911048"
+   "US2927640"
+   "US2978029"
+   "US3130787"
+   "US3460618"
+   "US3559736"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:organon],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3666421/en",
+  :title "Diagnostic test slide",
+  :status :granted,
+  :id "US3666421",
+  :sourcing :authoritative,
+  :filing-year 1971,
+  :assignee :organon,
+  :grant-year 1972,
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:coulter-electronics],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3669542/en",
+  :title "Liquid borne particle sensor",
+  :status :granted,
+  :id "US3669542",
+  :sourcing :authoritative,
+  :filing-year 1969,
+  :assignee :coulter-electronics,
+  :grant-year 1972,
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:monsanto],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3669841/en",
+  :title "Attachment of enzymes to siliceous materials",
+  :status :granted,
+  :id "US3669841",
+  :sourcing :authoritative,
+  :filing-year 1970,
+  :assignee :monsanto,
+  :grant-year 1972,
+  :cites ["US3502545" "US3519538"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:national-aeronautics-and-space-administration-nasa],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3670097/en",
+  :title "Stereoscopic television system and apparatus",
+  :status :granted,
+  :id "US3670097",
+  :sourcing :authoritative,
+  :filing-year 1969,
+  :assignee :national-aeronautics-and-space-administration-nasa,
+  :grant-year 1972,
+  :cites ["GB505602A" "US3205303"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:f-hoffmann-la-roche],
   :jurisdiction :us,
   :field "UNKNOWN",
   :source "https://patents.google.com/patent/US3671400/en",
@@ -436,6 +514,20 @@
   :cites ["DE2005497A1" "US3039053" "US3507145"],
   :term-years 20,
   :open-license :none}
+ {:assignees [:rca],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3700497/en",
+  :title
+  "Method of making a semiconductor device including a polyimide resist film",
+  :status :granted,
+  :id "US3700497",
+  :sourcing :authoritative,
+  :filing-year 1970,
+  :assignee :rca,
+  :grant-year 1972,
+  :term-years 20,
+  :open-license :none}
  {:assignees [:technicon-instruments],
   :jurisdiction :us,
   :field "UNKNOWN",
@@ -653,6 +745,20 @@
   :filing-year 1969,
   :assignee :kyowa-hakko-kogyo,
   :grant-year 1973,
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:westinghouse-electric],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3710205/en",
+  :title "Electronic components having improved ionic stability",
+  :status :granted,
+  :id "US3710205",
+  :sourcing :authoritative,
+  :filing-year 1971,
+  :assignee :westinghouse-electric,
+  :grant-year 1973,
+  :cites ["US2920971" "US3282711" "US3441422" "US3535133" "US3632432"],
   :term-years 20,
   :open-license :none}
  {:assignees [:us-atomic-energy-commission-aec],
@@ -2618,6 +2724,21 @@
   :cites ["US3639558" "US3654090"],
   :term-years 20,
   :open-license :none}
+ {:assignees [:f-hoffmann-la-roche],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3852415/en",
+  :title
+  "Compositions for use in radioimmunoassay as a substitute for blood plasma extract in determination of carcinoembryonic antigen",
+  :status :granted,
+  :id "US3852415",
+  :sourcing :authoritative,
+  :filing-year 1972,
+  :assignee :f-hoffmann-la-roche,
+  :grant-year 1974,
+  :cites ["US3697638" "US3720760"],
+  :term-years 20,
+  :open-license :none}
  {:assignees [:general-electric],
   :jurisdiction :us,
   :field "UNKNOWN",
@@ -2891,6 +3012,19 @@
    "US3627359"
    "US3643989"
    "US3782054"],
+  :term-years 20,
+  :open-license :none}
+ {:jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3867363/en",
+  :title "Carcinoembryonic antigens",
+  :status :granted,
+  :id "US3867363",
+  :sourcing :authoritative,
+  :filing-year 1972,
+  :assignee :unassigned,
+  :grant-year 1975,
+  :cites ["US3663684" "US3697638"],
   :term-years 20,
   :open-license :none}
  {:assignees [:synvar-associates-a-k-a-syva-c],
@@ -3451,6 +3585,21 @@
   :assignee :summa,
   :grant-year 1975,
   :cites ["US3555143" "US3592888" "US3720760"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:research],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3896218/en",
+  :title
+  "Radiommunoassay determining the hepatitis associated antigen content of blood",
+  :status :granted,
+  :id "US3896218",
+  :sourcing :authoritative,
+  :filing-year 1972,
+  :assignee :research,
+  :grant-year 1975,
+  :cites ["US3555143" "US3645852"],
   :term-years 20,
   :open-license :none}
  {:assignees [:inventing],
@@ -4425,6 +4574,20 @@
   :cites ["US3479183" "US3519538" "US3639558" "US3817837" "US3843447"],
   :term-years 20,
   :open-license :none}
+ {:jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3960827/en",
+  :title
+  "Cancer associated polypeptide antigen, process for its preparation, process for preparing antibodies, process of cancer diagnosis and composition useful as an immunizing agent",
+  :status :granted,
+  :id "US3960827",
+  :sourcing :authoritative,
+  :filing-year 1973,
+  :assignee :unassigned,
+  :grant-year 1976,
+  :cites ["US3823126"],
+  :term-years 20,
+  :open-license :none}
  {:assignees [:university-of-illinois-foundation],
   :jurisdiction :us,
   :field "UNKNOWN",
@@ -4860,6 +5023,20 @@
   :cites ["DE1959169A1"],
   :term-years 20,
   :open-license :none}
+ {:jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3988115/en",
+  :title
+  "Diagnostic method for determining pathological condition by antigen-combining capacity of lymphocytes",
+  :status :granted,
+  :id "US3988115",
+  :sourcing :authoritative,
+  :filing-year 1975,
+  :assignee :unassigned,
+  :grant-year 1976,
+  :cites ["US3654090" "US3816263" "US3843324" "US3900558"],
+  :term-years 20,
+  :open-license :none}
  {:assignees [:american-cyanamid],
   :jurisdiction :us,
   :field "UNKNOWN",
@@ -5065,6 +5242,20 @@
    "US3319415"
    "US3548588"
    "US3665701"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:hoffmann-la-roche],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3999944/en",
+  :title "Detection of breast cancer",
+  :status :granted,
+  :id "US3999944",
+  :sourcing :authoritative,
+  :filing-year 1975,
+  :assignee :hoffmann-la-roche,
+  :grant-year 1976,
+  :cites ["US3594466" "US3663684" "US3840655" "US3852415" "US3867363"],
   :term-years 20,
   :open-license :none}
  {:jurisdiction :us,
@@ -5712,6 +5903,27 @@
    "US3979509"],
   :term-years 20,
   :open-license :none}
+ {:assignees [:ortho-pharmaceutical],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US4043757/en",
+  :title "Method for detection of human mammary carcinoma",
+  :status :granted,
+  :id "US4043757",
+  :sourcing :authoritative,
+  :filing-year 1975,
+  :assignee :ortho-pharmaceutical,
+  :grant-year 1977,
+  :cites
+  ["US3594466"
+   "US3663684"
+   "US3840655"
+   "US3852415"
+   "US3867363"
+   "US3988115"
+   "US3999944"],
+  :term-years 20,
+  :open-license :none}
  {:assignees [:syva],
   :jurisdiction :us,
   :field "UNKNOWN",
@@ -6249,6 +6461,19 @@
   :cites ["US2878106" "US3764214" "US3790346" "US3917404"],
   :term-years 20,
   :open-license :none}
+ {:assignees [:ortho-diagnostic-systems],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US4100267/en",
+  :title "Method of detecting hepatitis B core antigen and antibody",
+  :status :granted,
+  :id "US4100267",
+  :sourcing :authoritative,
+  :filing-year 1975,
+  :assignee :ortho-diagnostic-systems,
+  :grant-year 1978,
+  :term-years 20,
+  :open-license :none}
  {:assignees [:technam],
   :jurisdiction :us,
   :field "UNKNOWN",
@@ -6263,6 +6488,19 @@
   :grant-year 1978,
   :cites
   ["GB1402427A" "US3639558" "US3652761" "US3775536" "US3951748"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:merck-and],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US4102996/en",
+  :title "Method of preparing hepatitis B core antigen",
+  :status :granted,
+  :id "US4102996",
+  :sourcing :authoritative,
+  :filing-year 1977,
+  :assignee :merck-and,
+  :grant-year 1978,
   :term-years 20,
   :open-license :none}
  {:assignees [:dios],
@@ -6598,6 +6836,30 @@
    "US4013635"],
   :term-years 20,
   :open-license :none}
+ {:assignees [:international-radioimmune-systems],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US4144031/en",
+  :title "Cell test for detecting human chorionic gonadotropin",
+  :status :granted,
+  :id "US4144031",
+  :sourcing :authoritative,
+  :filing-year 1976,
+  :assignee :international-radioimmune-systems,
+  :grant-year 1979,
+  :cites
+  ["US3516794"
+   "US3654090"
+   "US3697638"
+   "US3720760"
+   "US3789116"
+   "US3868219"
+   "US3873683"
+   "US3901654"
+   "US3935074"
+   "US3992514"],
+  :term-years 20,
+  :open-license :none}
  {:assignees [:wisconsin-alumni-research-foundation],
   :jurisdiction :us,
   :field "UNKNOWN",
@@ -6641,6 +6903,26 @@
   :cites ["US4010251"],
   :term-years 20,
   :open-license :none}
+ {:assignees [:baxter-travenol-laboratories],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US4148869/en",
+  :title "Immunological reagent and method of using same",
+  :status :granted,
+  :id "US4148869",
+  :sourcing :authoritative,
+  :filing-year 1975,
+  :assignee :baxter-travenol-laboratories,
+  :grant-year 1979,
+  :cites
+  ["US3489688"
+   "US3492396"
+   "US3624197"
+   "US3770380"
+   "US3880989"
+   "US3897357"],
+  :term-years 20,
+  :open-license :none}
  {:assignees [:beecham-group],
   :jurisdiction :us,
   :field "UNKNOWN",
@@ -6654,6 +6936,27 @@
   :assignee :beecham-group,
   :grant-year 1979,
   :cites ["US3351203" "US3470067" "US3519538" "US3705084" "US3796634"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:cordis],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US4157280/en",
+  :title
+  "Test set for detecting the presence of antigens associated with hepatitis",
+  :status :granted,
+  :id "US4157280",
+  :sourcing :authoritative,
+  :filing-year 1975,
+  :assignee :cordis,
+  :grant-year 1979,
+  :cites
+  ["US3646346"
+   "US3654090"
+   "US3700609"
+   "US3826619"
+   "US3876504"
+   "US4016043"],
   :term-years 20,
   :open-license :none}
  {:assignees [:nuclear-international],
@@ -6696,6 +6999,20 @@
   :assignee :unassigned,
   :grant-year 1979,
   :cites ["US3823126" "US3968827"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:research],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US4160817/en",
+  :title
+  "Application of protein-protein interaction as an assay for the detection of cancer",
+  :status :granted,
+  :id "US4160817",
+  :sourcing :authoritative,
+  :filing-year 1976,
+  :assignee :research,
+  :grant-year 1979,
   :term-years 20,
   :open-license :none}
  {:assignees [:kabi],
@@ -7277,6 +7594,19 @@
   :assignee :syva,
   :grant-year 1980,
   :cites ["US3996345" "US3998943" "US4036946"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:bonnierforetagen],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US4211766/en",
+  :title "Cancer associated polypeptide antigen compositions",
+  :status :granted,
+  :id "US4211766",
+  :sourcing :authoritative,
+  :filing-year 1979,
+  :assignee :bonnierforetagen,
+  :grant-year 1980,
   :term-years 20,
   :open-license :none}
  {:assignees [:rohm-and-haas],
@@ -8977,327 +9307,5 @@
    "US4020216"
    "US4226901"
    "US4289813"],
-  :term-years 20,
-  :open-license :none}
- {:jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US4385152/en",
-  :title "Acrylic polymer emulsion",
-  :status :granted,
-  :id "US4385152",
-  :sourcing :authoritative,
-  :filing-year 1981,
-  :assignee :unassigned,
-  :grant-year 1983,
-  :cites ["US3401134" "US3458603" "US3787522" "US3985703"],
-  :term-years 20,
-  :open-license :none}
- {:assignees
-  [:istituto-sieroterapico-e-vaccinogeno-toscano-sclavo-spa],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US4388295/en",
-  :title
-  "Method and composition for determining human chorionic somatotropin",
-  :status :granted,
-  :id "US4388295",
-  :sourcing :authoritative,
-  :filing-year 1980,
-  :assignee :istituto-sieroterapico-e-vaccinogeno-toscano-sclavo-spa,
-  :grant-year 1983,
-  :cites ["US4034073" "US4107284" "US4120945" "US4235960" "US4256725"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:us-department-of-energy],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US4389670/en",
-  :title
-  "Electronic method for autofluorography of macromolecules on two-D matrices",
-  :status :granted,
-  :id "US4389670",
-  :sourcing :authoritative,
-  :filing-year 1981,
-  :assignee :us-department-of-energy,
-  :grant-year 1983,
-  :cites ["US4319271"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:international-paper],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US4391833/en",
-  :title
-  "Method of making and using heat resistant resin coated paperboard product and product thereof",
-  :status :granted,
-  :id "US4391833",
-  :sourcing :authoritative,
-  :filing-year 1978,
-  :assignee :international-paper,
-  :grant-year 1983,
-  :cites
-  ["CA479968A"
-   "DE2363517A1"
-   "GB1008679A"
-   "GB1386635A"
-   "US2027296"
-   "US2042070"
-   "US2050061"
-   "US2170040"
-   "US2391767"
-   "US3394388"
-   "US3423212"
-   "US3516960"
-   "US3619215"
-   "US3716369"
-   "US3756495"
-   "US3821015"
-   "US3885730"
-   "US3890448"
-   "US3924013"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:glasurit-america],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US4391858/en",
-  :title "Coating process",
-  :status :granted,
-  :id "US4391858",
-  :sourcing :authoritative,
-  :filing-year 1981,
-  :assignee :glasurit-america,
-  :grant-year 1983,
-  :cites
-  ["US1765748"
-   "US3136651"
-   "US3666521"
-   "US4098928"
-   "US4268542"
-   "US4278483"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:wistar-institute-of-anatomy-and-biology],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US4393201/en",
-  :title "DNA Which codes for glycoprotein of era-strain rabies virus",
-  :status :granted,
-  :id "US4393201",
-  :sourcing :authoritative,
-  :filing-year 1981,
-  :assignee :wistar-institute-of-anatomy-and-biology,
-  :grant-year 1983,
-  :term-years 20,
-  :open-license :none}
- {:assignees [:yale-university],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US4394443/en",
-  :title "Method for cloning genes",
-  :status :granted,
-  :id "US4394443",
-  :sourcing :authoritative,
-  :filing-year 1980,
-  :assignee :yale-university,
-  :grant-year 1983,
-  :term-years 20,
-  :open-license :none}
- {:assignees [:medical-college-of-georgia-research-institute],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US4395486/en",
-  :title "Method for the direct analysis of sickle cell anemia",
-  :status :granted,
-  :id "US4395486",
-  :sourcing :authoritative,
-  :filing-year 1981,
-  :assignee :medical-college-of-georgia-research-institute,
-  :grant-year 1983,
-  :cites ["US4298685"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:university-of-california-berkeley],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US4396713/en",
-  :title
-  "Restriction endonuclease fingerprinting of kinetoplast DNA minicircles",
-  :status :granted,
-  :id "US4396713",
-  :sourcing :authoritative,
-  :filing-year 1980,
-  :assignee :university-of-california-berkeley,
-  :grant-year 1983,
-  :term-years 20,
-  :open-license :none}
- {:jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US4397955/en",
-  :title "Transfer apparatus for microorganisms",
-  :status :granted,
-  :id "US4397955",
-  :sourcing :authoritative,
-  :filing-year 1981,
-  :assignee :unassigned,
-  :grant-year 1983,
-  :cites
-  ["US3661718"
-   "US3684660"
-   "US3694317"
-   "US3729382"
-   "US3897688"
-   "US3929583"
-   "US4237223"],
-  :term-years 20,
-  :open-license :none}
- {:jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US4401759/en",
-  :title
-  "Detection and isolation of glucagon mRNA using a synthetic oligodeoxynucleotide",
-  :status :granted,
-  :id "US4401759",
-  :sourcing :authoritative,
-  :filing-year 1982,
-  :assignee :unassigned,
-  :grant-year 1983,
-  :cites ["US3689475" "US4224408" "US4237224" "US4293652" "US4321365"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:beckman-research-institute-of-city-of-hope],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US4401796/en",
-  :title "Solid-phase synthesis of polynucleotides",
-  :status :granted,
-  :id "US4401796",
-  :sourcing :authoritative,
-  :filing-year 1981,
-  :assignee :beckman-research-institute-of-city-of-hope,
-  :grant-year 1983,
-  :cites
-  ["US3985690"
-   "US4037037"
-   "US4043948"
-   "US4066827"
-   "US4217421"
-   "US4276395"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:imperial-chemical-industries],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US4403003/en",
-  :title "Article having basecoat/clearcoat and process for coating",
-  :status :granted,
-  :id "US4403003",
-  :sourcing :authoritative,
-  :filing-year 1981,
-  :assignee :imperial-chemical-industries,
-  :grant-year 1983,
-  :cites
-  ["GB1517834A" "US3953643" "US3953644" "US3967045" "US4220675"],
-  :term-years 20,
-  :open-license :none}
- {:jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US4404368/en",
-  :title "Lyophilized phosphorylated nucleosides",
-  :status :granted,
-  :id "US4404368",
-  :sourcing :authoritative,
-  :filing-year 1981,
-  :assignee :unassigned,
-  :grant-year 1983,
-  :cites ["US3338882" "US3433782"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:yeda-research-and-development],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US4405771/en",
-  :title
-  "Organometallic polymers, their preparation and compositions containing them",
-  :status :granted,
-  :id "US4405771",
-  :sourcing :authoritative,
-  :filing-year 1981,
-  :assignee :yeda-research-and-development,
-  :grant-year 1983,
-  :cites
-  ["US3166532"
-   "US3370041"
-   "US3503739"
-   "US3516971"
-   "US3810848"
-   "US4172937"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:university-patents],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US4415732/en",
-  :title "Phosphoramidite compounds and processes",
-  :status :granted,
-  :id "US4415732",
-  :sourcing :authoritative,
-  :filing-year 1981,
-  :assignee :university-patents,
-  :grant-year 1983,
-  :cites ["US3534017"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:university-of-delaware],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US4419340/en",
-  :title
-  "Controlled release of anticancer agents from biodegradable polymers",
-  :status :granted,
-  :id "US4419340",
-  :sourcing :authoritative,
-  :filing-year 1980,
-  :assignee :university-of-delaware,
-  :grant-year 1983,
-  :cites ["US3773919" "US3887699" "US3904663" "US3976071" "US3991766"],
-  :term-years 20,
-  :open-license :none}
- {:assignees
-  [:institut-national-de-la-sante-et-de-la-recherche-medicale-inserm],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US4419444/en",
-  :title
-  "Novel supports carrying side chains, processes for obtaining these supports, process for attaching organic compounds having carbohydrate residues one said supports, products and reagents resulting from said chemical fixation",
-  :status :granted,
-  :id "US4419444",
-  :sourcing :authoritative,
-  :filing-year 1980,
-  :assignee
-  :institut-national-de-la-sante-et-de-la-recherche-medicale-inserm,
-  :grant-year 1983,
-  :cites
-  ["US3553310"
-   "US3947352"
-   "US3956113"
-   "US3970521"
-   "US4177038"
-   "US4217338"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:us-department-of-health-and-human-services],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US4419446/en",
-  :title
-  "Recombinant DNA process utilizing a papilloma virus DNA as a vector",
-  :status :granted,
-  :id "US4419446",
-  :sourcing :authoritative,
-  :filing-year 1980,
-  :assignee :us-department-of-health-and-human-services,
-  :grant-year 1983,
-  :cites ["US4237224"],
   :term-years 20,
   :open-license :none}]

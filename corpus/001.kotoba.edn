@@ -1,4 +1,43 @@
-[{:assignees [:ei-du-pont-de-nemours-and],
+[{:assignees [:plastics-finishing],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2227494/en",
+  :title "Method and apparatus for coating paper",
+  :status :granted,
+  :id "US2227494",
+  :sourcing :authoritative,
+  :filing-year 1937,
+  :assignee :plastics-finishing,
+  :grant-year 1941,
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:reynolds-metals],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2227787/en",
+  :title "Wrapping material and method of making the same",
+  :status :granted,
+  :id "US2227787",
+  :sourcing :authoritative,
+  :filing-year 1938,
+  :assignee :reynolds-metals,
+  :grant-year 1941,
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:joseph-b-cartmell],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2227881/en",
+  :title "Method and apparatus for testing eggs",
+  :status :granted,
+  :id "US2227881",
+  :sourcing :authoritative,
+  :filing-year 1938,
+  :assignee :joseph-b-cartmell,
+  :grant-year 1941,
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:ei-du-pont-de-nemours-and],
   :jurisdiction :us,
   :field "UNKNOWN",
   :source "https://patents.google.com/patent/US2228271/en",
@@ -3117,6 +3156,20 @@
    "US2345013"
    "US2348740"
    "US2414125"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:baltimore-biolog-lab],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2533089/en",
+  :title "Petri dish cover",
+  :status :granted,
+  :id "US2533089",
+  :sourcing :authoritative,
+  :filing-year 1949,
+  :assignee :baltimore-biolog-lab,
+  :grant-year 1950,
+  :cites ["US2144255" "US2279991" "US2348448" "US2361992"],
   :term-years 20,
   :open-license :none}
  {:assignees [:general-aniline-and-film],
@@ -7599,6 +7652,20 @@
   :cites ["US1552295" "US194613"],
   :term-years 20,
   :open-license :none}
+ {:assignees [:ankh-lab],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2871168/en",
+  :title "Apparatus for testing metabolic agents",
+  :status :granted,
+  :id "US2871168",
+  :sourcing :authoritative,
+  :filing-year 1955,
+  :assignee :ankh-lab,
+  :grant-year 1959,
+  :cites ["US2533089" "US2672432" "US2677646"],
+  :term-years 20,
+  :open-license :none}
  {:assignees [:firestone-tire-and-rubber],
   :jurisdiction :us,
   :field "UNKNOWN",
@@ -9854,83 +9921,5 @@
    "US2787314"
    "US2855373"
    "US2905580"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:texaco],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3004544/en",
-  :title "Continuously measuring slurry density",
-  :status :granted,
-  :id "US3004544",
-  :sourcing :authoritative,
-  :filing-year 1955,
-  :assignee :texaco,
-  :grant-year 1961,
-  :cites
-  ["US1511604"
-   "US2311312"
-   "US2321175"
-   "US2432039"
-   "US2669118"
-   "US2719018"
-   "US2745484"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:time],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3005727/en",
-  :title
-  "Coating compositions and processes for making paper more receptive to ink",
-  :status :granted,
-  :id "US3005727",
-  :sourcing :authoritative,
-  :filing-year 1958,
-  :assignee :time,
-  :grant-year 1961,
-  :cites
-  ["US1934639"
-   "US1934641"
-   "US1934642"
-   "US2697669"
-   "US2786757"
-   "US2879178"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:kitchens-of-sara-lee],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3008837/en",
-  :title "Precooked frozen food package",
-  :status :granted,
-  :id "US3008837",
-  :sourcing :authoritative,
-  :filing-year 1959,
-  :assignee :kitchens-of-sara-lee,
-  :grant-year 1961,
-  :cites
-  ["US2319560"
-   "US2356078"
-   "US2387812"
-   "US2457924"
-   "US2528251"
-   "US2595708"
-   "US2881078"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:miles-laboratories],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3008879/en",
-  :title
-  "Diagnostic composition for the quantitative determination of glucose",
-  :status :granted,
-  :id "US3008879",
-  :sourcing :authoritative,
-  :filing-year 1960,
-  :assignee :miles-laboratories,
-  :grant-year 1961,
-  :cites ["US2893843"],
   :term-years 20,
   :open-license :none}]
