@@ -6380,6 +6380,19 @@
   :cites ["US2516591"],
   :term-years 20,
   :open-license :none}
+ {:jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2771398/en",
+  :title "Method and apparatus for counting microorganisms",
+  :status :granted,
+  :id "US2771398",
+  :sourcing :authoritative,
+  :filing-year 1953,
+  :assignee :unassigned,
+  :grant-year 1956,
+  :cites ["US2306222" "US2672431" "US2677646" "US946695"],
+  :term-years 20,
+  :open-license :none}
  {:assignees [:kimberly-clark],
   :jurisdiction :us,
   :field "UNKNOWN",
@@ -7666,6 +7679,20 @@
   :cites ["US2533089" "US2672432" "US2677646"],
   :term-years 20,
   :open-license :none}
+ {:assignees [:hyland-laboratories],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2874091/en",
+  :title "Disposable culturing device",
+  :status :granted,
+  :id "US2874091",
+  :sourcing :authoritative,
+  :filing-year 1956,
+  :assignee :hyland-laboratories,
+  :grant-year 1959,
+  :cites ["US2672431" "US2677646"],
+  :term-years 20,
+  :open-license :none}
  {:assignees [:firestone-tire-and-rubber],
   :jurisdiction :us,
   :field "UNKNOWN",
@@ -8150,6 +8177,21 @@
    "US2654853"
    "US2659670"
    "US2662832"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:bacto-strip],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2904474/en",
+  :title
+  "Process and means for carrying out bacteriological operations",
+  :status :granted,
+  :id "US2904474",
+  :sourcing :authoritative,
+  :filing-year 1955,
+  :assignee :bacto-strip,
+  :grant-year 1959,
+  :cites ["US2672432" "US2677646" "US2677647" "US2771398" "US2784146"],
   :term-years 20,
   :open-license :none}
  {:jurisdiction :us,
@@ -9869,57 +9911,5 @@
    "US2702971"
    "US2738631"
    "US2793481"],
-  :term-years 20,
-  :open-license :none}
- {:jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3001539/en",
-  :title "Suction amplifier",
-  :status :granted,
-  :id "US3001539",
-  :sourcing :authoritative,
-  :filing-year 1960,
-  :assignee :unassigned,
-  :grant-year 1961,
-  :term-years 20,
-  :open-license :none}
- {:assignees [:miles-laboratories],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3001915/en",
-  :title "Diagnostic composition",
-  :status :granted,
-  :id "US3001915",
-  :sourcing :authoritative,
-  :filing-year 1957,
-  :assignee :miles-laboratories,
-  :grant-year 1961,
-  :cites ["US2129754" "US2606102"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:united-states-rubber],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3002869/en",
-  :title "Glass fibre preforms",
-  :status :granted,
-  :id "US3002869",
-  :sourcing :authoritative,
-  :filing-year 1957,
-  :assignee :united-states-rubber,
-  :grant-year 1961,
-  :cites
-  ["CA458647A"
-   "GB590680A"
-   "US2513268"
-   "US2595852"
-   "US2600783"
-   "US2653355"
-   "US2702261"
-   "US2748028"
-   "US2763629"
-   "US2787314"
-   "US2855373"
-   "US2905580"],
   :term-years 20,
   :open-license :none}]

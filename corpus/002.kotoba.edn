@@ -1,4 +1,69 @@
-[{:assignees [:texaco],
+[{:jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3001539/en",
+  :title "Suction amplifier",
+  :status :granted,
+  :id "US3001539",
+  :sourcing :authoritative,
+  :filing-year 1960,
+  :assignee :unassigned,
+  :grant-year 1961,
+  :term-years 20,
+  :open-license :none}
+ {:jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3001914/en",
+  :title "Bacterial aerosol analyzer",
+  :status :granted,
+  :id "US3001914",
+  :sourcing :authoritative,
+  :filing-year 1956,
+  :assignee :unassigned,
+  :grant-year 1961,
+  :cites ["GB191100659A" "US2296566" "US2538116" "US991572"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:miles-laboratories],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3001915/en",
+  :title "Diagnostic composition",
+  :status :granted,
+  :id "US3001915",
+  :sourcing :authoritative,
+  :filing-year 1957,
+  :assignee :miles-laboratories,
+  :grant-year 1961,
+  :cites ["US2129754" "US2606102"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:united-states-rubber],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3002869/en",
+  :title "Glass fibre preforms",
+  :status :granted,
+  :id "US3002869",
+  :sourcing :authoritative,
+  :filing-year 1957,
+  :assignee :united-states-rubber,
+  :grant-year 1961,
+  :cites
+  ["CA458647A"
+   "GB590680A"
+   "US2513268"
+   "US2595852"
+   "US2600783"
+   "US2653355"
+   "US2702261"
+   "US2748028"
+   "US2763629"
+   "US2787314"
+   "US2855373"
+   "US2905580"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:texaco],
   :jurisdiction :us,
   :field "UNKNOWN",
   :source "https://patents.google.com/patent/US3004544/en",
@@ -715,6 +780,19 @@
   :filing-year 1959,
   :assignee :f-hoffmann-la-roche,
   :grant-year 1962,
+  :term-years 20,
+  :open-license :none}
+ {:jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3043669/en",
+  :title "Chemical testing means",
+  :status :granted,
+  :id "US3043669",
+  :sourcing :authoritative,
+  :filing-year 1960,
+  :assignee :unassigned,
+  :grant-year 1962,
+  :cites ["US2129754"],
   :term-years 20,
   :open-license :none}
  {:assignees [:champion-papers],
@@ -1754,6 +1832,27 @@
   :assignee :unassigned,
   :grant-year 1963,
   :cites ["US2454653" "US2661550" "US2833929"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:dalde-reagents],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3107204/en",
+  :title "Microbiological testing method and structure therefor",
+  :status :granted,
+  :id "US3107204",
+  :sourcing :authoritative,
+  :filing-year 1961,
+  :assignee :dalde-reagents,
+  :grant-year 1963,
+  :cites
+  ["US2657998"
+   "US2787581"
+   "US2874091"
+   "US2894844"
+   "US2904474"
+   "US2955044"
+   "US2956931"],
   :term-years 20,
   :open-license :none}
  {:assignees [:hoechst],
@@ -5513,6 +5612,28 @@
    "US3240110"],
   :term-years 20,
   :open-license :none}
+ {:assignees [:cooke-engineering],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3356462/en",
+  :title "Disposable microtitration plate",
+  :status :granted,
+  :id "US3356462",
+  :sourcing :authoritative,
+  :filing-year 1966,
+  :assignee :cooke-engineering,
+  :grant-year 1967,
+  :cites
+  ["AT170898B"
+   "US2561339"
+   "US2612261"
+   "US2666951"
+   "US2911681"
+   "US2965219"
+   "US3057510"
+   "US3097070"],
+  :term-years 20,
+  :open-license :none}
  {:assignees [:sun-oil],
   :jurisdiction :us,
   :field "UNKNOWN",
@@ -5839,6 +5960,19 @@
   :assignee :dixie-entpr,
   :grant-year 1968,
   :cites ["US2670328" "US2723761"],
+  :term-years 20,
+  :open-license :none}
+ {:jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3389966/en",
+  :title
+  "Apparatus and process for semiqualitative, semiquantitative immunodiffusion reactions",
+  :status :granted,
+  :id "US3389966",
+  :sourcing :authoritative,
+  :filing-year 1964,
+  :assignee :unassigned,
+  :grant-year 1968,
   :term-years 20,
   :open-license :none}
  {:assignees [:army-usa],
@@ -6402,6 +6536,20 @@
   :cites ["US2668284" "US3109930"],
   :term-years 20,
   :open-license :none}
+ {:assignees [:biological-research],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3436171/en",
+  :title "Device for sterilizing inoculation needles and loops",
+  :status :granted,
+  :id "US3436171",
+  :sourcing :authoritative,
+  :filing-year 1965,
+  :assignee :biological-research,
+  :grant-year 1969,
+  :cites ["US1505726" "US1530199" "US1625487" "US3311694" "US699146"],
+  :term-years 20,
+  :open-license :none}
  {:assignees [:texas-instruments],
   :jurisdiction :us,
   :field "UNKNOWN",
@@ -6648,6 +6796,20 @@
   :assignee :ajinomoto,
   :grant-year 1969,
   :cites ["US3116282" "US3332935"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:lever-brothers],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3455788/en",
+  :title "Multiple inoculation device",
+  :status :granted,
+  :id "US3455788",
+  :sourcing :authoritative,
+  :filing-year 1966,
+  :assignee :lever-brothers,
+  :grant-year 1969,
+  :cites ["US1512893" "US2838781" "US2956931" "US3234107"],
   :term-years 20,
   :open-license :none}
  {:assignees [:schlumberger-technology],
@@ -6943,6 +7105,27 @@
    "US3133872"
    "US3377697"
    "US3386894"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:miles-laboratories],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3480400/en",
+  :title "Placement device",
+  :status :granted,
+  :id "US3480400",
+  :sourcing :authoritative,
+  :filing-year 1966,
+  :assignee :miles-laboratories,
+  :grant-year 1969,
+  :cites
+  ["US2092938"
+   "US2422584"
+   "US2639050"
+   "US3151754"
+   "US3378347"
+   "US3378481"
+   "US3401087"],
   :term-years 20,
   :open-license :none}
  {:assignees [:merck-and],
@@ -7454,6 +7637,20 @@
    "US3193359"],
   :term-years 20,
   :open-license :none}
+ {:assignees [:litton-systems],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3509026/en",
+  :title
+  "Method of and apparatus for indicating the sensitivity of microorganisms to antibiotics",
+  :status :granted,
+  :id "US3509026",
+  :sourcing :authoritative,
+  :filing-year 1967,
+  :assignee :litton-systems,
+  :grant-year 1970,
+  :term-years 20,
+  :open-license :none}
  {:assignees [:technicon-instruments],
   :jurisdiction :us,
   :field "UNKNOWN",
@@ -7765,6 +7962,31 @@
   :assignee :ajinomoto,
   :grant-year 1970,
   :cites ["US3111459" "US3135666" "US3258408" "US3269917"],
+  :term-years 20,
+  :open-license :none}
+ {:jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3536449/en",
+  :title "Serial dilution machine",
+  :status :granted,
+  :id "US3536449",
+  :sourcing :authoritative,
+  :filing-year 1967,
+  :assignee :unassigned,
+  :grant-year 1970,
+  :cites
+  ["US2624656"
+   "US3067016"
+   "US3127062"
+   "US3188181"
+   "US3191813"
+   "US3192968"
+   "US3192969"
+   "US3193359"
+   "US3197285"
+   "US3269800"
+   "US3356462"
+   "US3413097"],
   :term-years 20,
   :open-license :none}
  {:jurisdiction :us,
@@ -9141,6 +9363,19 @@
   :grant-year 1972,
   :term-years 20,
   :open-license :none}
+ {:jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3650360/en",
+  :title "Truck brake",
+  :status :granted,
+  :id "US3650360",
+  :sourcing :authoritative,
+  :filing-year 1969,
+  :assignee :unassigned,
+  :grant-year 1972,
+  :cites ["US1743412" "US1915857" "US1926361" "US2116174" "US3368648"],
+  :term-years 20,
+  :open-license :none}
  {:assignees [:technicon],
   :jurisdiction :us,
   :field "UNKNOWN",
@@ -9196,190 +9431,5 @@
   :filing-year 1969,
   :assignee :corning-glass-works,
   :grant-year 1972,
-  :term-years 20,
-  :open-license :none}
- {:assignees [:rca],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3653901/en",
-  :title "Color kinescope production with a temporary mask",
-  :status :granted,
-  :id "US3653901",
-  :sourcing :authoritative,
-  :filing-year 1969,
-  :assignee :rca,
-  :grant-year 1972,
-  :cites ["US2750524" "US2971117" "US3070441" "US3231380" "US3406068"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:organon],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3654090/en",
-  :title "Method for the determination of antigens and antibodies",
-  :status :granted,
-  :id "US3654090",
-  :sourcing :authoritative,
-  :filing-year 1968,
-  :assignee :organon,
-  :grant-year 1972,
-  :term-years 20,
-  :open-license :none}
- {:assignees [:arthur-d-little],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3656906/en",
-  :title
-  "Method for detecting and quantitating the presence of cannabinoids and analogs thereof in biological materials and resulting products",
-  :status :granted,
-  :id "US3656906",
-  :sourcing :authoritative,
-  :filing-year 1970,
-  :assignee :arthur-d-little,
-  :grant-year 1972,
-  :term-years 20,
-  :open-license :none}
- {:assignees [:bausch-and-lomb],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3657537/en",
-  :title
-  "Computerized slit-scan cyto-fluorometer for automated cell recognition",
-  :status :granted,
-  :id "US3657537",
-  :sourcing :authoritative,
-  :filing-year 1970,
-  :assignee :bausch-and-lomb,
-  :grant-year 1972,
-  :cites ["US3327117" "US3470373" "US3497690"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:bell-telephone-laboratories],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3658420/en",
-  :title "Photomask inspection by spatial filtering",
-  :status :granted,
-  :id "US3658420",
-  :sourcing :authoritative,
-  :filing-year 1969,
-  :assignee :bell-telephone-laboratories,
-  :grant-year 1972,
-  :cites ["US3240108" "US3370268" "US3519331"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:national-aeronautics-and-space-administration-nasa],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3660240/en",
-  :title "Flavin co-enzyme assay",
-  :status :granted,
-  :id "US3660240",
-  :sourcing :authoritative,
-  :filing-year 1969,
-  :assignee :national-aeronautics-and-space-administration-nasa,
-  :grant-year 1972,
-  :cites ["US2973305"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:technicon-instruments],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3661460/en",
-  :title
-  "Method and apparatus for optical analysis of the contents of a sheathed stream",
-  :status :granted,
-  :id "US3661460",
-  :sourcing :authoritative,
-  :filing-year 1970,
-  :assignee :technicon-instruments,
-  :grant-year 1972,
-  :cites
-  ["US2731877"
-   "US2732753"
-   "US2875666"
-   "US2920525"
-   "US3398286"
-   "US3440866"
-   "US3504183"
-   "US3515884"
-   "US3523733"
-   "US3560754"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:university-of-illinois-at-urbana-champaign],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3661893/en",
-  :title
-  "Synthesis in vitro of nucleic acids and products used therein and products produced therefrom",
-  :status :granted,
-  :id "US3661893",
-  :sourcing :authoritative,
-  :filing-year 1968,
-  :assignee :university-of-illinois-at-urbana-champaign,
-  :grant-year 1972,
-  :term-years 20,
-  :open-license :none}
- {:assignees [:pulp-paper-res-inst],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3663357/en",
-  :title
-  "Bleaching of mechanical cellulosic pulp with ozone in the presence of a peroxygen compound",
-  :status :granted,
-  :id "US3663357",
-  :sourcing :authoritative,
-  :filing-year 1970,
-  :assignee :pulp-paper-res-inst,
-  :grant-year 1972,
-  :cites ["US2838459" "US2859087" "US3451888" "US3492199"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:geomet],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3663374/en",
-  :title "Method and apparatus for quantitating enzyme activity",
-  :status :granted,
-  :id "US3663374",
-  :sourcing :authoritative,
-  :filing-year 1970,
-  :assignee :geomet,
-  :grant-year 1972,
-  :cites ["US3261668" "US3367841" "US3526480"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:f-hoffmann-la-roche],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3663684/en",
-  :title
-  "Carcinoembryonic antigen and diagnostic method using radioactive iodine",
-  :status :granted,
-  :id "US3663684",
-  :sourcing :authoritative,
-  :filing-year 1970,
-  :assignee :f-hoffmann-la-roche,
-  :grant-year 1972,
-  :term-years 20,
-  :open-license :none}
- {:jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3663801/en",
-  :title "Method and apparatus for evaluating color-coded information",
-  :status :granted,
-  :id "US3663801",
-  :sourcing :authoritative,
-  :filing-year 1969,
-  :assignee :unassigned,
-  :grant-year 1972,
-  :cites
-  ["US2899132"
-   "US3145291"
-   "US3315229"
-   "US3417231"
-   "US3474230"
-   "US3513320"],
   :term-years 20,
   :open-license :none}]

@@ -303,6 +303,47 @@
   ":hirameki/source"
   "https://patents.google.com/patent/US1660974/en"]
  [":db/add"
+  "hirameki-patent:US1668216"
+  ":hirameki.patent/title"
+  "Toothbrush"]
+ [":db/add"
+  "hirameki-patent:US1668216"
+  ":hirameki.patent/jurisdiction"
+  ":us"]
+ [":db/add"
+  "hirameki-patent:US1668216"
+  ":hirameki.patent/field"
+  "UNKNOWN"]
+ [":db/add"
+  "hirameki-patent:US1668216"
+  ":hirameki.patent/assignee"
+  ":unassigned"]
+ [":db/add"
+  "hirameki-patent:US1668216"
+  ":hirameki.patent/status"
+  ":granted"]
+ [":db/add"
+  "hirameki-patent:US1668216"
+  ":hirameki.patent/open-license"
+  ":none"]
+ [":db/add"
+  "hirameki-patent:US1668216"
+  ":hirameki.obs/release-status"
+  ":public-domain"]
+ [":db/add"
+  "hirameki-patent:US1668216"
+  ":hirameki/sourcing"
+  ":authoritative"]
+ [":db/add" "hirameki-patent:US1668216" ":hirameki/derived" true]
+ [":db/add"
+  "hirameki-patent:US1668216"
+  ":hirameki.obs/years-to-expiry"
+  -79]
+ [":db/add"
+  "hirameki-patent:US1668216"
+  ":hirameki/source"
+  "https://patents.google.com/patent/US1668216/en"]
+ [":db/add"
   "hirameki-patent:US1675967"
   ":hirameki.patent/title"
   "Comparator"]
@@ -10393,41 +10434,4 @@
  [":db/add"
   "hirameki-patent:US2333791"
   ":hirameki/source"
-  "https://patents.google.com/patent/US2333791/en"]
- [":db/add"
-  "hirameki-patent:US2333842"
-  ":hirameki.patent/title"
-  "Device for irradiating substances"]
- [":db/add"
-  "hirameki-patent:US2333842"
-  ":hirameki.patent/jurisdiction"
-  ":us"]
- [":db/add"
-  "hirameki-patent:US2333842"
-  ":hirameki.patent/field"
-  "UNKNOWN"]
- [":db/add"
-  "hirameki-patent:US2333842"
-  ":hirameki.patent/assignee"
-  ":henry-a-de-phillips"]
- [":db/add"
-  "hirameki-patent:US2333842"
-  ":hirameki.patent/status"
-  ":granted"]
- [":db/add"
-  "hirameki-patent:US2333842"
-  ":hirameki.patent/open-license"
-  ":none"]
- [":db/add"
-  "hirameki-patent:US2333842"
-  ":hirameki.obs/release-status"
-  ":public-domain"]
- [":db/add"
-  "hirameki-patent:US2333842"
-  ":hirameki/sourcing"
-  ":authoritative"]
- [":db/add" "hirameki-patent:US2333842" ":hirameki/derived" true]
- [":db/add"
-  "hirameki-patent:US2333842"
-  ":hirameki.obs/years-to-expiry"
-  -64]]
+  "https://patents.google.com/patent/US2333791/en"]]

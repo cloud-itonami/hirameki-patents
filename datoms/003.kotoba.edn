@@ -1,5 +1,42 @@
 [[":db/add"
   "hirameki-patent:US2333842"
+  ":hirameki.patent/title"
+  "Device for irradiating substances"]
+ [":db/add"
+  "hirameki-patent:US2333842"
+  ":hirameki.patent/jurisdiction"
+  ":us"]
+ [":db/add"
+  "hirameki-patent:US2333842"
+  ":hirameki.patent/field"
+  "UNKNOWN"]
+ [":db/add"
+  "hirameki-patent:US2333842"
+  ":hirameki.patent/assignee"
+  ":henry-a-de-phillips"]
+ [":db/add"
+  "hirameki-patent:US2333842"
+  ":hirameki.patent/status"
+  ":granted"]
+ [":db/add"
+  "hirameki-patent:US2333842"
+  ":hirameki.patent/open-license"
+  ":none"]
+ [":db/add"
+  "hirameki-patent:US2333842"
+  ":hirameki.obs/release-status"
+  ":public-domain"]
+ [":db/add"
+  "hirameki-patent:US2333842"
+  ":hirameki/sourcing"
+  ":authoritative"]
+ [":db/add" "hirameki-patent:US2333842" ":hirameki/derived" true]
+ [":db/add"
+  "hirameki-patent:US2333842"
+  ":hirameki.obs/years-to-expiry"
+  -64]
+ [":db/add"
+  "hirameki-patent:US2333842"
   ":hirameki/source"
   "https://patents.google.com/patent/US2333842/en"]
  [":db/add"
@@ -10333,37 +10370,4 @@
  [":db/add"
   "hirameki-patent:US2707998"
   ":hirameki.patent/assignee"
-  ":baker-oil-tools"]
- [":db/add"
-  "hirameki-patent:US2707998"
-  ":hirameki.patent/status"
-  ":granted"]
- [":db/add"
-  "hirameki-patent:US2707998"
-  ":hirameki.patent/open-license"
-  ":none"]
- [":db/add"
-  "hirameki-patent:US2707998"
-  ":hirameki.obs/release-status"
-  ":public-domain"]
- [":db/add"
-  "hirameki-patent:US2707998"
-  ":hirameki/sourcing"
-  ":authoritative"]
- [":db/add" "hirameki-patent:US2707998" ":hirameki/derived" true]
- [":db/add"
-  "hirameki-patent:US2707998"
-  ":hirameki.obs/years-to-expiry"
-  -56]
- [":db/add"
-  "hirameki-patent:US2707998"
-  ":hirameki/source"
-  "https://patents.google.com/patent/US2707998/en"]
- [":db/add"
-  "hirameki-patent:US2709666"
-  ":hirameki.patent/title"
-  "Method of locally removing the insulation layer of enamelled wire"]
- [":db/add"
-  "hirameki-patent:US2709666"
-  ":hirameki.patent/jurisdiction"
-  ":us"]]
+  ":baker-oil-tools"]]
