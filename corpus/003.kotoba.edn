@@ -1,4 +1,116 @@
-[{:assignees [:rca],
+[{:assignees [:pharmacia],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3645852/en",
+  :title
+  "Method of binding water-soluble proteins and water-soluble peptides to water-insoluble polymers using cyanogen halide",
+  :status :granted,
+  :id "US3645852",
+  :sourcing :authoritative,
+  :filing-year 1970,
+  :assignee :pharmacia,
+  :grant-year 1972,
+  :cites ["GB993961A" "US2882250" "US3167485" "US3278392" "US3507661"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:pharmacia],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3646346/en",
+  :title "Antibody-coated tube system for radioimmunoassay",
+  :status :granted,
+  :id "US3646346",
+  :sourcing :authoritative,
+  :filing-year 1968,
+  :assignee :pharmacia,
+  :grant-year 1972,
+  :cites ["US3372992" "US3380888" "US3451777"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:beckman-instruments],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3649505/en",
+  :title "Ammonia sensor",
+  :status :granted,
+  :id "US3649505",
+  :sourcing :authoritative,
+  :filing-year 1969,
+  :assignee :beckman-instruments,
+  :grant-year 1972,
+  :term-years 20,
+  :open-license :none}
+ {:jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3650360/en",
+  :title "Truck brake",
+  :status :granted,
+  :id "US3650360",
+  :sourcing :authoritative,
+  :filing-year 1969,
+  :assignee :unassigned,
+  :grant-year 1972,
+  :cites ["US1743412" "US1915857" "US1926361" "US2116174" "US3368648"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:technicon],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3650698/en",
+  :title
+  "Apparatus for the automatic determination of the coagulation, aggregation and or flocculation, or the like, rates of fluids, and novel reaction intensifying agent for use therewith",
+  :status :granted,
+  :id "US3650698",
+  :sourcing :authoritative,
+  :filing-year 1969,
+  :assignee :technicon,
+  :grant-year 1972,
+  :cites
+  ["US2113063"
+   "US2678729"
+   "US3146163"
+   "US3395210"
+   "US3470067"
+   "US3492096"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:standard-telephone-and-cables],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3650796/en",
+  :title "Photolithographic masks",
+  :status :granted,
+  :id "US3650796",
+  :sourcing :authoritative,
+  :filing-year 1969,
+  :assignee :standard-telephone-and-cables,
+  :grant-year 1972,
+  :cites
+  ["US2688566"
+   "US2697028"
+   "US3027278"
+   "US3236707"
+   "US3281261"
+   "US3360398"
+   "US3395970"
+   "US3427120"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:corning-glass-works],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3652761/en",
+  :title
+  "Immunochemical composites and antigen or antibody purification therewith",
+  :status :granted,
+  :id "US3652761",
+  :sourcing :authoritative,
+  :filing-year 1969,
+  :assignee :corning-glass-works,
+  :grant-year 1972,
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:rca],
   :jurisdiction :us,
   :field "UNKNOWN",
   :source "https://patents.google.com/patent/US3653901/en",
@@ -105,6 +217,19 @@
    "US3515884"
    "US3523733"
    "US3560754"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:birko-chemical],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3661718/en",
+  :title "Method for taking and transferring bacteria samples",
+  :status :granted,
+  :id "US3661718",
+  :sourcing :authoritative,
+  :filing-year 1970,
+  :assignee :birko-chemical,
+  :grant-year 1972,
   :term-years 20,
   :open-license :none}
  {:assignees [:university-of-illinois-at-urbana-champaign],
@@ -502,6 +627,19 @@
   :cites ["US2875666" "US3497690"],
   :term-years 20,
   :open-license :none}
+ {:assignees [:american-sterilizer],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3684660/en",
+  :title "Microbiological surface sampler",
+  :status :granted,
+  :id "US3684660",
+  :sourcing :authoritative,
+  :filing-year 1969,
+  :assignee :american-sterilizer,
+  :grant-year 1972,
+  :term-years 20,
+  :open-license :none}
  {:assignees [:general-electric],
   :jurisdiction :us,
   :field "UNKNOWN",
@@ -552,6 +690,18 @@
   :sourcing :authoritative,
   :filing-year 1971,
   :assignee :syva,
+  :grant-year 1972,
+  :term-years 20,
+  :open-license :none}
+ {:jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3694317/en",
+  :title "Method of and instrument for micro-biological analysis",
+  :status :granted,
+  :id "US3694317",
+  :sourcing :authoritative,
+  :filing-year 1968,
+  :assignee :unassigned,
   :grant-year 1972,
   :term-years 20,
   :open-license :none}
@@ -1122,6 +1272,20 @@
   :cites ["US3197331" "US3200008" "US3288632" "US3326712" "US3493419"],
   :term-years 20,
   :open-license :none}
+ {:assignees [:bio-derivatives],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3718543/en",
+  :title "Bacterioria test material",
+  :status :granted,
+  :id "US3718543",
+  :sourcing :authoritative,
+  :filing-year 1971,
+  :assignee :bio-derivatives,
+  :grant-year 1973,
+  :cites ["US3232710" "US3415717" "US3547780" "US3634198"],
+  :term-years 20,
+  :open-license :none}
  {:assignees [:beckman-instruments],
   :jurisdiction :us,
   :field "UNKNOWN",
@@ -1277,6 +1441,19 @@
   :cites ["US3005097" "US3600091"],
   :term-years 20,
   :open-license :none}
+ {:assignees [:becton-dickinson-and],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3729382/en",
+  :title "Microorganism sampling dish",
+  :status :granted,
+  :id "US3729382",
+  :sourcing :authoritative,
+  :filing-year 1970,
+  :assignee :becton-dickinson-and,
+  :grant-year 1973,
+  :term-years 20,
+  :open-license :none}
  {:assignees [:purdue-research-foundation],
   :jurisdiction :us,
   :field "UNKNOWN",
@@ -1404,6 +1581,19 @@
   :sourcing :authoritative,
   :filing-year 1970,
   :assignee :eastman-kodak,
+  :grant-year 1973,
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:us-department-of-navy],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3746624/en",
+  :title "48-hour test for streptococcus mut ans in plaque",
+  :status :granted,
+  :id "US3746624",
+  :sourcing :authoritative,
+  :filing-year 1972,
+  :assignee :us-department-of-navy,
   :grant-year 1973,
   :term-years 20,
   :open-license :none}
@@ -2267,6 +2457,19 @@
   :grant-year 1974,
   :term-years 20,
   :open-license :none}
+ {:assignees [:miles-laboratories],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3814670/en",
+  :title "Test article for use in microbiology",
+  :status :granted,
+  :id "US3814670",
+  :sourcing :authoritative,
+  :filing-year 1972,
+  :assignee :miles-laboratories,
+  :grant-year 1974,
+  :term-years 20,
+  :open-license :none}
  {:assignees [:national-aeronautics-and-space-administration-nasa],
   :jurisdiction :us,
   :field "UNKNOWN",
@@ -2593,6 +2796,20 @@
    "US3507145"
    "US3586554"
    "US3685140"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:dexter-c-&-sons],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3834983/en",
+  :title
+  "Process of forming wet laid tufted non-woven fibrous web from a viscous fibrous dispersion and product",
+  :status :granted,
+  :id "US3834983",
+  :sourcing :authoritative,
+  :filing-year 1973,
+  :assignee :dexter-c-&-sons,
+  :grant-year 1974,
   :term-years 20,
   :open-license :none}
  {:assignees [:f-hoffmann-la-roche],
@@ -3495,6 +3712,20 @@
   :cites ["GB714617A"],
   :term-years 20,
   :open-license :none}
+ {:assignees [:miles-laboratories],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3881993/en",
+  :title "Testing device for microorganisms",
+  :status :granted,
+  :id "US3881993",
+  :sourcing :authoritative,
+  :filing-year 1973,
+  :assignee :miles-laboratories,
+  :grant-year 1975,
+  :cites ["US2904474" "US3532603"],
+  :term-years 20,
+  :open-license :none}
  {:assignees [:american-cyanamid],
   :jurisdiction :us,
   :field "UNKNOWN",
@@ -3708,6 +3939,19 @@
    "US3636956"],
   :term-years 20,
   :open-license :none}
+ {:assignees [:forsyth-dental-infirmary-for-children],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3890200/en",
+  :title "Selective medium for streptococcus mutans",
+  :status :granted,
+  :id "US3890200",
+  :sourcing :authoritative,
+  :filing-year 1973,
+  :assignee :forsyth-dental-infirmary-for-children,
+  :grant-year 1975,
+  :term-years 20,
+  :open-license :none}
  {:assignees [:bell-telephone-laboratories],
   :jurisdiction :us,
   :field "UNKNOWN",
@@ -3785,6 +4029,26 @@
   :assignee :research,
   :grant-year 1975,
   :cites ["US3555143" "US3645852"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:east-west-medical-products],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3897688/en",
+  :title "Microbial surface sampler",
+  :status :granted,
+  :id "US3897688",
+  :sourcing :authoritative,
+  :filing-year 1973,
+  :assignee :east-west-medical-products,
+  :grant-year 1975,
+  :cites
+  ["US3074276"
+   "US3091967"
+   "US3107204"
+   "US3389966"
+   "US3415361"
+   "US3554039"],
   :term-years 20,
   :open-license :none}
  {:assignees [:inventing],
@@ -4288,6 +4552,20 @@
   :assignee :rca,
   :grant-year 1975,
   :cites ["US2437228" "US2750524" "US3329541" "US3609033" "US3679500"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:canadian-patents-and-development],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3929583/en",
+  :title "Apparatus for enumerating microorganisms",
+  :status :granted,
+  :id "US3929583",
+  :sourcing :authoritative,
+  :filing-year 1975,
+  :assignee :canadian-patents-and-development,
+  :grant-year 1975,
+  :cites ["US2761813"],
   :term-years 20,
   :open-license :none}
  {:assignees [:fujikura],
@@ -4801,6 +5079,28 @@
   :assignee :midwest-research-institute,
   :grant-year 1976,
   :cites ["US3479183" "US3519538" "US3639558" "US3817837" "US3843447"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:dexter],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3960652/en",
+  :title
+  "Process of forming wet laid tufted nonwoven fibrous web and tufted product",
+  :status :granted,
+  :id "US3960652",
+  :sourcing :authoritative,
+  :filing-year 1974,
+  :assignee :dexter,
+  :grant-year 1976,
+  :cites
+  ["GB475819A"
+   "US2730933"
+   "US3322617"
+   "US3350260"
+   "US3485706"
+   "US3720578"
+   "US3834983"],
   :term-years 20,
   :open-license :none}
  {:jurisdiction :us,
@@ -8134,6 +8434,28 @@
   :cites ["US3720760" "US3966898" "US4092114"],
   :term-years 20,
   :open-license :none}
+ {:assignees [:merck-patent],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US4237223/en",
+  :title "Sheet for picking off microorganisms",
+  :status :granted,
+  :id "US4237223",
+  :sourcing :authoritative,
+  :filing-year 1979,
+  :assignee :merck-patent,
+  :grant-year 1980,
+  :cites
+  ["US1901094"
+   "US2904474"
+   "US2985554"
+   "US3085572"
+   "US3661718"
+   "US3751341"
+   "US3819467"
+   "US3846248"],
+  :term-years 20,
+  :open-license :none}
  {:assignees [:leland-stanford-junior-university],
   :jurisdiction :us,
   :field "UNKNOWN",
@@ -8972,311 +9294,5 @@
    "US3905936"
    "US3993835"
    "US4241112"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:syva],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US4318846/en",
-  :title
-  "Novel ether substituted fluorescein polyamino acid compounds as fluorescers and quenchers",
-  :status :granted,
-  :id "US4318846",
-  :sourcing :authoritative,
-  :filing-year 1979,
-  :assignee :syva,
-  :grant-year 1982,
-  :cites ["US4174384" "US4220450" "US4220722"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:research],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US4321365/en",
-  :title
-  "Oligonucleotides useful as adaptors in DNA cloning, adapted DNA molecules, and methods of preparing adaptors and adapted molecules",
-  :status :granted,
-  :id "US4321365",
-  :sourcing :authoritative,
-  :filing-year 1977,
-  :assignee :research,
-  :grant-year 1982,
-  :cites ["US4237224"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:kendrew-biosystems-a-of],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US4327073/en",
-  :title
-  "Automated method for quantitative analysis of biological fluids",
-  :status :granted,
-  :id "US4327073",
-  :sourcing :authoritative,
-  :filing-year 1980,
-  :assignee :kendrew-biosystems-a-of,
-  :grant-year 1982,
-  :cites
-  ["US3260413"
-   "US3526480"
-   "US3645852"
-   "US3675488"
-   "US3952091"
-   "US4071315"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:abbott-laboratories],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US4331589/en",
-  :title
-  "Deoxyribonucleic acid synthesis using binding protein extracted from chick embryo fibroblasts",
-  :status :granted,
-  :id "US4331589",
-  :sourcing :authoritative,
-  :filing-year 1981,
-  :assignee :abbott-laboratories,
-  :grant-year 1982,
-  :term-years 20,
-  :open-license :none}
- {:jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US4331647/en",
-  :title
-  "Tumor localization and therapy with labeled antibody fragments specific to tumor-associated markers",
-  :status :granted,
-  :id "US4331647",
-  :sourcing :authoritative,
-  :filing-year 1980,
-  :assignee :unassigned,
-  :grant-year 1982,
-  :cites ["US3927193" "US4036945" "US4146603" "US4234561"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:harvard-university],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US4332892/en",
-  :title "Protein synthesis",
-  :status :granted,
-  :id "US4332892",
-  :sourcing :authoritative,
-  :filing-year 1980,
-  :assignee :harvard-university,
-  :grant-year 1982,
-  :term-years 20,
-  :open-license :none}
- {:assignees [:harvard-university],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US4338397/en",
-  :title "Mature protein synthesis",
-  :status :granted,
-  :id "US4338397",
-  :sourcing :authoritative,
-  :filing-year 1980,
-  :assignee :harvard-university,
-  :grant-year 1982,
-  :cites
-  ["GB1516458A"
-   "GB1521032A"
-   "GB1565190A"
-   "GB1568047A"
-   "US4082613"
-   "US4237224"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:rca],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US4339528/en",
-  :title "Etching method using a hardened PVA stencil",
-  :status :granted,
-  :id "US4339528",
-  :sourcing :authoritative,
-  :filing-year 1981,
-  :assignee :rca,
-  :grant-year 1982,
-  :cites ["US3415648" "US3589907" "US4061529" "US4208242"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:cm-industries],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US4340535/en",
-  :title
-  "Cytotoxic products formed by covalent bonding of the A chain of ricin with an antibody and the process for their preparation and use",
-  :status :granted,
-  :id "US4340535",
-  :sourcing :authoritative,
-  :filing-year 1979,
-  :assignee :cm-industries,
-  :grant-year 1982,
-  :cites ["US4046722" "US4093607"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:agfa-gevaert],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US4340664/en",
-  :title
-  "Copolymer latex and photographic silver halide materials containing such latex",
-  :status :granted,
-  :id "US4340664",
-  :sourcing :authoritative,
-  :filing-year 1980,
-  :assignee :agfa-gevaert,
-  :grant-year 1982,
-  :cites
-  ["GB1453057A" "US3356686" "US3926436" "US4080211" "US4128427"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:bethesda-research-laboratories],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US4342833/en",
-  :title "Immobilized restriction endonucleases",
-  :status :granted,
-  :id "US4342833",
-  :sourcing :authoritative,
-  :filing-year 1978,
-  :assignee :bethesda-research-laboratories,
-  :grant-year 1982,
-  :cites ["US3909358" "US4013514" "US4039382"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:nippon-kogaku],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US4342905/en",
-  :title "Automatic focusing device of a microscope",
-  :status :granted,
-  :id "US4342905",
-  :sourcing :authoritative,
-  :filing-year 1980,
-  :assignee :nippon-kogaku,
-  :grant-year 1982,
-  :cites ["US3970841" "US4254330" "US4297571"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:us-department-of-health-and-human-services],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US4344438/en",
-  :title "Optical sensor of plasma constituents",
-  :status :granted,
-  :id "US4344438",
-  :sourcing :authoritative,
-  :filing-year 1980,
-  :assignee :us-department-of-health-and-human-services,
-  :grant-year 1982,
-  :cites
-  ["US3123066"
-   "US3638639"
-   "US3785772"
-   "US3787119"
-   "US3837339"
-   "US3939350"
-   "US3992631"],
-  :term-years 20,
-  :open-license :none}
- {:jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US4348376/en",
-  :title
-  "Tumor localization and therapy with labeled anti-CEA antibody",
-  :status :granted,
-  :id "US4348376",
-  :sourcing :authoritative,
-  :filing-year 1980,
-  :assignee :unassigned,
-  :grant-year 1982,
-  :cites ["US3927193" "US4160817" "US4174385" "US4211766"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:miles-laboratories],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US4348482/en",
-  :title
-  "Process for decreasing the thermal stability of microbial rennet",
-  :status :granted,
-  :id "US4348482",
-  :sourcing :authoritative,
-  :filing-year 1979,
-  :assignee :miles-laboratories,
-  :grant-year 1982,
-  :cites ["US2053740" "US2125398" "US3886288" "US4136201" "US4255454"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:teijin],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US4350626/en",
-  :title "Antitumor hybrid and process for the preparation thereof",
-  :status :granted,
-  :id "US4350626",
-  :sourcing :authoritative,
-  :filing-year 1980,
-  :assignee :teijin,
-  :grant-year 1982,
-  :cites
-  ["GB2034324A" "US4160018" "US4160019" "US4174385" "US4201770"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:cetus],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US4351901/en",
-  :title "Method for single nucleotide alteration",
-  :status :granted,
-  :id "US4351901",
-  :sourcing :authoritative,
-  :filing-year 1980,
-  :assignee :cetus,
-  :grant-year 1982,
-  :cites ["US4264731" "US4293652"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:genentech],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US4356270/en",
-  :title "Recombinant DNA cloning vehicle",
-  :status :granted,
-  :id "US4356270",
-  :sourcing :authoritative,
-  :filing-year 1979,
-  :assignee :genentech,
-  :grant-year 1982,
-  :cites ["US4237224"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:warner-lambert],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US4357311/en",
-  :title "Substrate for immunoassay and means of preparing same",
-  :status :granted,
-  :id "US4357311",
-  :sourcing :authoritative,
-  :filing-year 1980,
-  :assignee :warner-lambert,
-  :grant-year 1982,
-  :cites ["US3619371" "US3824150" "US4007089" "US4119494" "US4229537"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:novo-industri-as],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US4357357/en",
-  :title "Thermal destabilization of microbial rennet",
-  :status :granted,
-  :id "US4357357",
-  :sourcing :authoritative,
-  :filing-year 1979,
-  :assignee :novo-industri-as,
-  :grant-year 1982,
-  :cites ["US2053740" "US3275453" "US3886288" "US4086139"],
   :term-years 20,
   :open-license :none}]

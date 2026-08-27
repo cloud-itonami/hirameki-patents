@@ -1,4 +1,18 @@
-[{:assignees [:plastics-finishing],
+[{:assignees [:barrett],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2224992/en",
+  :title
+  "Resin-impregnated sheet material and process for producing the same",
+  :status :granted,
+  :id "US2224992",
+  :sourcing :authoritative,
+  :filing-year 1935,
+  :assignee :barrett,
+  :grant-year 1940,
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:plastics-finishing],
   :jurisdiction :us,
   :field "UNKNOWN",
   :source "https://patents.google.com/patent/US2227494/en",
@@ -1260,6 +1274,19 @@
   :sourcing :authoritative,
   :filing-year 1942,
   :assignee :unassigned,
+  :grant-year 1944,
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:dacar-chemical-products],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2351160/en",
+  :title "Art of regenerating zeolites",
+  :status :granted,
+  :id "US2351160",
+  :sourcing :authoritative,
+  :filing-year 1943,
+  :assignee :dacar-chemical-products,
   :grant-year 1944,
   :term-years 20,
   :open-license :none}
@@ -2585,6 +2612,27 @@
   :assignee :ralph-h-fash,
   :grant-year 1949,
   :cites ["US2305082" "US2329824" "US2337443" "US2337465"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:sun-chemical],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2461505/en",
+  :title
+  "Removal or replacement of electrolytes in physiologically active materials",
+  :status :granted,
+  :id "US2461505",
+  :sourcing :authoritative,
+  :filing-year 1944,
+  :assignee :sun-chemical,
+  :grant-year 1949,
+  :cites
+  ["US2074493"
+   "US2275210"
+   "US2364639"
+   "US2366650"
+   "US2368464"
+   "US2368926"],
   :term-years 20,
   :open-license :none}
  {:jurisdiction :us,
@@ -4388,6 +4436,33 @@
    "US931434"],
   :term-years 20,
   :open-license :none}
+ {:assignees [:american-cyanamid],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2642514/en",
+  :title "Ion exchange process with magnetic ion exchange resins",
+  :status :granted,
+  :id "US2642514",
+  :sourcing :authoritative,
+  :filing-year 1946,
+  :assignee :american-cyanamid,
+  :grant-year 1953,
+  :cites
+  ["US1494070"
+   "US1682364"
+   "US1683780"
+   "US1982689"
+   "US2197931"
+   "US2198378"
+   "US2275210"
+   "US2352324"
+   "US2365720"
+   "US2412668"
+   "US2434190"
+   "US2461505"
+   "US861782"],
+  :term-years 20,
+  :open-license :none}
  {:assignees [:us-sec-the-dept-of-the-interio],
   :jurisdiction :us,
   :field "UNKNOWN",
@@ -5924,6 +5999,21 @@
   :assignee :ei-du-pont-de-nemours-and,
   :grant-year 1956,
   :cites ["US2541167" "US2633434"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:victor-chemical-works],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2749306/en",
+  :title
+  "Method for treating cation exchange material and cation exchange material resulting therefrom",
+  :status :granted,
+  :id "US2749306",
+  :sourcing :authoritative,
+  :filing-year 1952,
+  :assignee :victor-chemical-works,
+  :grant-year 1956,
+  :cites ["US1965339" "US2351160"],
   :term-years 20,
   :open-license :none}
  {:assignees [:exxon-research-and-engineering],
@@ -9816,100 +9906,5 @@
    "US2809147"
    "US2819198"
    "US2821500"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:ozalid],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US2997387/en",
-  :title "Photographic reproduction",
-  :status :granted,
-  :id "US2997387",
-  :sourcing :authoritative,
-  :filing-year 1958,
-  :assignee :ozalid,
-  :grant-year 1961,
-  :cites ["US1846853" "US2875054" "US2901348"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:aseptic-thermo-indicator],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US2998306/en",
-  :title "Telltale for ethylene oxide sterilization",
-  :status :granted,
-  :id "US2998306",
-  :sourcing :authoritative,
-  :filing-year 1960,
-  :assignee :aseptic-thermo-indicator,
-  :grant-year 1961,
-  :cites ["DE1031545B" "US1735219"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:us-philips],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US2998554/en",
-  :title "Semi-conductor barrier layer system",
-  :status :granted,
-  :id "US2998554",
-  :sourcing :authoritative,
-  :filing-year 1958,
-  :assignee :us-philips,
-  :grant-year 1961,
-  :cites ["US2846625" "US2858356" "US2887629"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:technicon-instruments],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US2999417/en",
-  :title "Colorimeter",
-  :status :granted,
-  :id "US2999417",
-  :sourcing :authoritative,
-  :filing-year 1957,
-  :assignee :technicon-instruments,
-  :grant-year 1961,
-  :cites
-  ["DE724121C"
-   "FR837918A"
-   "FR883335A"
-   "US1504770"
-   "US1900893"
-   "US2051317"
-   "US2197190"
-   "US2232169"
-   "US2328461"
-   "US2490345"
-   "US2496333"
-   "US2594113"
-   "US2630735"
-   "US2649011"
-   "US2677987"
-   "US2682801"
-   "US2797149"],
-  :term-years 20,
-  :open-license :none}
- {:jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3001348/en",
-  :title
-  "Apparatus for the continuous production of filled containers",
-  :status :granted,
-  :id "US3001348",
-  :sourcing :authoritative,
-  :filing-year 1957,
-  :assignee :unassigned,
-  :grant-year 1961,
-  :cites
-  ["US2106740"
-   "US2134862"
-   "US2347439"
-   "US2492530"
-   "US2530400"
-   "US2702971"
-   "US2738631"
-   "US2793481"],
   :term-years 20,
   :open-license :none}]

@@ -1,4 +1,99 @@
-[{:jurisdiction :us,
+[{:assignees [:ozalid],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2997387/en",
+  :title "Photographic reproduction",
+  :status :granted,
+  :id "US2997387",
+  :sourcing :authoritative,
+  :filing-year 1958,
+  :assignee :ozalid,
+  :grant-year 1961,
+  :cites ["US1846853" "US2875054" "US2901348"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:aseptic-thermo-indicator],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2998306/en",
+  :title "Telltale for ethylene oxide sterilization",
+  :status :granted,
+  :id "US2998306",
+  :sourcing :authoritative,
+  :filing-year 1960,
+  :assignee :aseptic-thermo-indicator,
+  :grant-year 1961,
+  :cites ["DE1031545B" "US1735219"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:us-philips],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2998554/en",
+  :title "Semi-conductor barrier layer system",
+  :status :granted,
+  :id "US2998554",
+  :sourcing :authoritative,
+  :filing-year 1958,
+  :assignee :us-philips,
+  :grant-year 1961,
+  :cites ["US2846625" "US2858356" "US2887629"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:technicon-instruments],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2999417/en",
+  :title "Colorimeter",
+  :status :granted,
+  :id "US2999417",
+  :sourcing :authoritative,
+  :filing-year 1957,
+  :assignee :technicon-instruments,
+  :grant-year 1961,
+  :cites
+  ["DE724121C"
+   "FR837918A"
+   "FR883335A"
+   "US1504770"
+   "US1900893"
+   "US2051317"
+   "US2197190"
+   "US2232169"
+   "US2328461"
+   "US2490345"
+   "US2496333"
+   "US2594113"
+   "US2630735"
+   "US2649011"
+   "US2677987"
+   "US2682801"
+   "US2797149"],
+  :term-years 20,
+  :open-license :none}
+ {:jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3001348/en",
+  :title
+  "Apparatus for the continuous production of filled containers",
+  :status :granted,
+  :id "US3001348",
+  :sourcing :authoritative,
+  :filing-year 1957,
+  :assignee :unassigned,
+  :grant-year 1961,
+  :cites
+  ["US2106740"
+   "US2134862"
+   "US2347439"
+   "US2492530"
+   "US2530400"
+   "US2702971"
+   "US2738631"
+   "US2793481"],
+  :term-years 20,
+  :open-license :none}
+ {:jurisdiction :us,
   :field "UNKNOWN",
   :source "https://patents.google.com/patent/US3001539/en",
   :title "Suction amplifier",
@@ -745,6 +840,26 @@
    "US2776920"
    "US2940041"
    "US2965842"],
+  :term-years 20,
+  :open-license :none}
+ {:jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3040352/en",
+  :title "Lint remover",
+  :status :granted,
+  :id "US3040352",
+  :sourcing :authoritative,
+  :filing-year 1960,
+  :assignee :unassigned,
+  :grant-year 1962,
+  :cites
+  ["US2401842"
+   "US2430785"
+   "US2528602"
+   "US2708761"
+   "US2807039"
+   "US289879"
+   "US885276"],
   :term-years 20,
   :open-license :none}
  {:assignees [:kalle-and-kg],
@@ -9318,118 +9433,6 @@
   :sourcing :authoritative,
   :filing-year 1970,
   :assignee :us-atomic-energy-commission-aec,
-  :grant-year 1972,
-  :term-years 20,
-  :open-license :none}
- {:assignees [:pharmacia],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3645852/en",
-  :title
-  "Method of binding water-soluble proteins and water-soluble peptides to water-insoluble polymers using cyanogen halide",
-  :status :granted,
-  :id "US3645852",
-  :sourcing :authoritative,
-  :filing-year 1970,
-  :assignee :pharmacia,
-  :grant-year 1972,
-  :cites ["GB993961A" "US2882250" "US3167485" "US3278392" "US3507661"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:pharmacia],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3646346/en",
-  :title "Antibody-coated tube system for radioimmunoassay",
-  :status :granted,
-  :id "US3646346",
-  :sourcing :authoritative,
-  :filing-year 1968,
-  :assignee :pharmacia,
-  :grant-year 1972,
-  :cites ["US3372992" "US3380888" "US3451777"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:beckman-instruments],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3649505/en",
-  :title "Ammonia sensor",
-  :status :granted,
-  :id "US3649505",
-  :sourcing :authoritative,
-  :filing-year 1969,
-  :assignee :beckman-instruments,
-  :grant-year 1972,
-  :term-years 20,
-  :open-license :none}
- {:jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3650360/en",
-  :title "Truck brake",
-  :status :granted,
-  :id "US3650360",
-  :sourcing :authoritative,
-  :filing-year 1969,
-  :assignee :unassigned,
-  :grant-year 1972,
-  :cites ["US1743412" "US1915857" "US1926361" "US2116174" "US3368648"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:technicon],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3650698/en",
-  :title
-  "Apparatus for the automatic determination of the coagulation, aggregation and or flocculation, or the like, rates of fluids, and novel reaction intensifying agent for use therewith",
-  :status :granted,
-  :id "US3650698",
-  :sourcing :authoritative,
-  :filing-year 1969,
-  :assignee :technicon,
-  :grant-year 1972,
-  :cites
-  ["US2113063"
-   "US2678729"
-   "US3146163"
-   "US3395210"
-   "US3470067"
-   "US3492096"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:standard-telephone-and-cables],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3650796/en",
-  :title "Photolithographic masks",
-  :status :granted,
-  :id "US3650796",
-  :sourcing :authoritative,
-  :filing-year 1969,
-  :assignee :standard-telephone-and-cables,
-  :grant-year 1972,
-  :cites
-  ["US2688566"
-   "US2697028"
-   "US3027278"
-   "US3236707"
-   "US3281261"
-   "US3360398"
-   "US3395970"
-   "US3427120"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:corning-glass-works],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3652761/en",
-  :title
-  "Immunochemical composites and antigen or antibody purification therewith",
-  :status :granted,
-  :id "US3652761",
-  :sourcing :authoritative,
-  :filing-year 1969,
-  :assignee :corning-glass-works,
   :grant-year 1972,
   :term-years 20,
   :open-license :none}]

@@ -5031,6 +5031,47 @@
   ":hirameki/source"
   "https://patents.google.com/patent/US2124411/en"]
  [":db/add"
+  "hirameki-patent:US2125846"
+  ":hirameki.patent/title"
+  "Magnetic sewage clarification"]
+ [":db/add"
+  "hirameki-patent:US2125846"
+  ":hirameki.patent/jurisdiction"
+  ":us"]
+ [":db/add"
+  "hirameki-patent:US2125846"
+  ":hirameki.patent/field"
+  "UNKNOWN"]
+ [":db/add"
+  "hirameki-patent:US2125846"
+  ":hirameki.patent/assignee"
+  ":filtration-equipment"]
+ [":db/add"
+  "hirameki-patent:US2125846"
+  ":hirameki.patent/status"
+  ":granted"]
+ [":db/add"
+  "hirameki-patent:US2125846"
+  ":hirameki.patent/open-license"
+  ":none"]
+ [":db/add"
+  "hirameki-patent:US2125846"
+  ":hirameki.obs/release-status"
+  ":public-domain"]
+ [":db/add"
+  "hirameki-patent:US2125846"
+  ":hirameki/sourcing"
+  ":authoritative"]
+ [":db/add" "hirameki-patent:US2125846" ":hirameki/derived" true]
+ [":db/add"
+  "hirameki-patent:US2125846"
+  ":hirameki.obs/years-to-expiry"
+  -70]
+ [":db/add"
+  "hirameki-patent:US2125846"
+  ":hirameki/source"
+  "https://patents.google.com/patent/US2125846/en"]
+ [":db/add"
   "hirameki-patent:US2127538"
   ":hirameki.patent/title"
   "Signaling device"]
@@ -10393,45 +10434,4 @@
  [":db/add"
   "hirameki-patent:US2331446"
   ":hirameki/source"
-  "https://patents.google.com/patent/US2331446/en"]
- [":db/add"
-  "hirameki-patent:US2333791"
-  ":hirameki.patent/title"
-  "Liquid flowmeter"]
- [":db/add"
-  "hirameki-patent:US2333791"
-  ":hirameki.patent/jurisdiction"
-  ":us"]
- [":db/add"
-  "hirameki-patent:US2333791"
-  ":hirameki.patent/field"
-  "UNKNOWN"]
- [":db/add"
-  "hirameki-patent:US2333791"
-  ":hirameki.patent/assignee"
-  ":eastman-kodak"]
- [":db/add"
-  "hirameki-patent:US2333791"
-  ":hirameki.patent/status"
-  ":granted"]
- [":db/add"
-  "hirameki-patent:US2333791"
-  ":hirameki.patent/open-license"
-  ":none"]
- [":db/add"
-  "hirameki-patent:US2333791"
-  ":hirameki.obs/release-status"
-  ":public-domain"]
- [":db/add"
-  "hirameki-patent:US2333791"
-  ":hirameki/sourcing"
-  ":authoritative"]
- [":db/add" "hirameki-patent:US2333791" ":hirameki/derived" true]
- [":db/add"
-  "hirameki-patent:US2333791"
-  ":hirameki.obs/years-to-expiry"
-  -64]
- [":db/add"
-  "hirameki-patent:US2333791"
-  ":hirameki/source"
-  "https://patents.google.com/patent/US2333791/en"]]
+  "https://patents.google.com/patent/US2331446/en"]]
