@@ -1,4 +1,17 @@
-[{:assignees [:standard-oil-development],
+[{:assignees [:standard-oil],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2223240/en",
+  :title "Laminated cellulosic material",
+  :status :granted,
+  :id "US2223240",
+  :sourcing :authoritative,
+  :filing-year 1937,
+  :assignee :standard-oil,
+  :grant-year 1940,
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:standard-oil-development],
   :jurisdiction :us,
   :field "UNKNOWN",
   :source "https://patents.google.com/patent/US2224538/en",
@@ -3531,6 +3544,33 @@
   :open-license :none}
  {:jurisdiction :us,
   :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2562373/en",
+  :title "Method of forming thin flexible polyamide articles",
+  :status :granted,
+  :id "US2562373",
+  :sourcing :authoritative,
+  :filing-year 1945,
+  :assignee :unassigned,
+  :grant-year 1951,
+  :cites
+  ["US2130948"
+   "US2137235"
+   "US2141169"
+   "US2166205"
+   "US2169097"
+   "US2188332"
+   "US2191367"
+   "US2244184"
+   "US2324838"
+   "US2357392"
+   "US2361369"
+   "US826781"
+   "US934214"
+   "US950435"],
+  :term-years 20,
+  :open-license :none}
+ {:jurisdiction :us,
+  :field "UNKNOWN",
   :source "https://patents.google.com/patent/US2565491/en",
   :title "Film structure and method for producing the same",
   :status :granted,
@@ -4328,6 +4368,33 @@
   :assignee :phillips-petroleum,
   :grant-year 1953,
   :cites ["US1384305" "US1406682" "US2503719"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:rauland-borg],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2631334/en",
+  :title "Process of making thin free films",
+  :status :granted,
+  :id "US2631334",
+  :sourcing :authoritative,
+  :filing-year 1947,
+  :assignee :rauland-borg,
+  :grant-year 1953,
+  :cites
+  ["US2141169"
+   "US2176153"
+   "US2219700"
+   "US2278722"
+   "US2285009"
+   "US2303871"
+   "US2353717"
+   "US2368486"
+   "US2465821"
+   "US2485372"
+   "US2485373"
+   "US2562373"
+   "US826781"],
   :term-years 20,
   :open-license :none}
  {:assignees [:ei-du-pont-de-nemours-and],
@@ -9847,56 +9914,5 @@
    "US2762208"
    "US2768306"
    "US2835116"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:general-electric],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US2985545/en",
-  :title
-  "Method of rendering cellulosic material non-adherent and article produced thereby",
-  :status :granted,
-  :id "US2985545",
-  :sourcing :authoritative,
-  :filing-year 1958,
-  :assignee :general-electric,
-  :grant-year 1961,
-  :cites
-  ["US2504388"
-   "US2588367"
-   "US2588393"
-   "US2612482"
-   "US2807601"
-   "US2814601"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:general-electric],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US2985546/en",
-  :title
-  "Method of rendering cellulosic material non-adherent and article produced thereby",
-  :status :granted,
-  :id "US2985546",
-  :sourcing :authoritative,
-  :filing-year 1958,
-  :assignee :general-electric,
-  :grant-year 1961,
-  :cites ["US2504388" "US2588367" "US2814601" "US2843555"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:ei-du-pont-de-nemours-and],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US2989492/en",
-  :title
-  "Coating composition comprising nitrocellulose, polymer of methyl methacrylate and carbon black",
-  :status :granted,
-  :id "US2989492",
-  :sourcing :authoritative,
-  :filing-year 1959,
-  :assignee :ei-du-pont-de-nemours-and,
-  :grant-year 1961,
-  :cites ["US2117321" "US2292393" "US2860110" "US2907722"],
   :term-years 20,
   :open-license :none}]

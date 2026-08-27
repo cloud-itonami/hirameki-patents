@@ -1,4 +1,55 @@
-[{:assignees [:fmc],
+[{:assignees [:general-electric],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2985545/en",
+  :title
+  "Method of rendering cellulosic material non-adherent and article produced thereby",
+  :status :granted,
+  :id "US2985545",
+  :sourcing :authoritative,
+  :filing-year 1958,
+  :assignee :general-electric,
+  :grant-year 1961,
+  :cites
+  ["US2504388"
+   "US2588367"
+   "US2588393"
+   "US2612482"
+   "US2807601"
+   "US2814601"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:general-electric],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2985546/en",
+  :title
+  "Method of rendering cellulosic material non-adherent and article produced thereby",
+  :status :granted,
+  :id "US2985546",
+  :sourcing :authoritative,
+  :filing-year 1958,
+  :assignee :general-electric,
+  :grant-year 1961,
+  :cites ["US2504388" "US2588367" "US2814601" "US2843555"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:ei-du-pont-de-nemours-and],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2989492/en",
+  :title
+  "Coating composition comprising nitrocellulose, polymer of methyl methacrylate and carbon black",
+  :status :granted,
+  :id "US2989492",
+  :sourcing :authoritative,
+  :filing-year 1959,
+  :assignee :ei-du-pont-de-nemours-and,
+  :grant-year 1961,
+  :cites ["US2117321" "US2292393" "US2860110" "US2907722"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:fmc],
   :jurisdiction :us,
   :field "UNKNOWN",
   :source "https://patents.google.com/patent/US2990388/en",
@@ -137,6 +188,28 @@
   :assignee :unassigned,
   :grant-year 1961,
   :cites ["US2669559"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:ei-du-pont-de-nemours-and],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3000757/en",
+  :title
+  "Process for coating substrates with a vapor permeable polymeric coating",
+  :status :granted,
+  :id "US3000757",
+  :sourcing :authoritative,
+  :filing-year 1957,
+  :assignee :ei-du-pont-de-nemours-and,
+  :grant-year 1961,
+  :cites
+  ["GB727321A"
+   "US2692874"
+   "US2721811"
+   "US2826509"
+   "US2837770"
+   "US2848752"
+   "US2930106"],
   :term-years 20,
   :open-license :none}
  {:jurisdiction :us,
@@ -3412,6 +3485,20 @@
   :cites ["GB850581A" "US2838602" "US3039080" "US3050711" "US3065457"],
   :term-years 20,
   :open-license :none}
+ {:assignees [:ei-du-pont-de-nemours-and],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3190765/en",
+  :title "Vapor permeable sheet material and method of making same",
+  :status :granted,
+  :id "US3190765",
+  :sourcing :authoritative,
+  :filing-year 1961,
+  :assignee :ei-du-pont-de-nemours-and,
+  :grant-year 1965,
+  :cites ["US2724707" "US2826509" "US2848752" "US3000757" "US3067482"],
+  :term-years 20,
+  :open-license :none}
  {:assignees [:rca],
   :jurisdiction :us,
   :field "UNKNOWN",
@@ -3702,6 +3789,20 @@
   :assignee :unassigned,
   :grant-year 1965,
   :cites ["GB352757A" "US2751326" "US2848368" "US2855520" "US2945955"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:ei-du-pont-de-nemours-and],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3208875/en",
+  :title "Method of making vapor permeable sheet materials",
+  :status :granted,
+  :id "US3208875",
+  :sourcing :authoritative,
+  :filing-year 1962,
+  :assignee :ei-du-pont-de-nemours-and,
+  :grant-year 1965,
+  :cites ["US2848752" "US3000757" "US3067482" "US3100721" "US824816"],
   :term-years 20,
   :open-license :none}
  {:assignees [:leeds-and-northrup],
@@ -6479,6 +6580,20 @@
    "US3211570"
    "US3297465"
    "US3310424"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:millipore],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3408315/en",
+  :title "Nylon membrane filter",
+  :status :granted,
+  :id "US3408315",
+  :sourcing :authoritative,
+  :filing-year 1965,
+  :assignee :millipore,
+  :grant-year 1968,
+  :cites ["GB938694A" "US2772322" "US2783894" "US3022542"],
   :term-years 20,
   :open-license :none}
  {:jurisdiction :us,
@@ -9336,120 +9451,5 @@
   :assignee :wr-grace-and,
   :grant-year 1971,
   :cites ["US3338810" "US3503940"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:ppg-industries],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3619398/en",
-  :title "Electrodeposition process",
-  :status :granted,
-  :id "US3619398",
-  :sourcing :authoritative,
-  :filing-year 1968,
-  :assignee :ppg-industries,
-  :grant-year 1971,
-  :cites ["US3301804" "US3410773" "US3450655" "US3455805" "US3468779"],
-  :term-years 20,
-  :open-license :none}
- {:jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3620678/en",
-  :title "Installation for multiple and automatic analyses",
-  :status :granted,
-  :id "US3620678",
-  :sourcing :authoritative,
-  :filing-year 1967,
-  :assignee :unassigned,
-  :grant-year 1971,
-  :cites
-  ["US3036893"
-   "US3036894"
-   "US3260413"
-   "US3261668"
-   "US3266298"
-   "US3368872"
-   "US3476515"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:formica],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3620899/en",
-  :title
-  "Decorative laminate back coated with a polyvinyl acetate composition",
-  :status :granted,
-  :id "US3620899",
-  :sourcing :authoritative,
-  :filing-year 1968,
-  :assignee :formica,
-  :grant-year 1971,
-  :cites ["US2804418" "US3067085" "US3166435"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:coulter-electronics],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3622795/en",
-  :title
-  "Colorimetric fluid test apparatus having plural fluid sequential control",
-  :status :granted,
-  :id "US3622795",
-  :sourcing :authoritative,
-  :filing-year 1968,
-  :assignee :coulter-electronics,
-  :grant-year 1971,
-  :cites
-  ["US2320065"
-   "US2983184"
-   "US3177898"
-   "US3225645"
-   "US3240110"
-   "US3401591"
-   "US3418061"
-   "US3435239"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:twentieth-century-fox-film],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3622797/en",
-  :title "Radiation sensitive automatic focus system",
-  :status :granted,
-  :id "US3622797",
-  :sourcing :authoritative,
-  :filing-year 1970,
-  :assignee :twentieth-century-fox-film,
-  :grant-year 1971,
-  :cites ["US2831057" "US2838600" "US2838601" "US3111666" "US3450833"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:eastman-kodak],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3623811/en",
-  :title "Electrooptical rangefinder means",
-  :status :granted,
-  :id "US3623811",
-  :sourcing :authoritative,
-  :filing-year 1970,
-  :assignee :eastman-kodak,
-  :grant-year 1971,
-  :cites ["US3054898" "US3270647" "US3273124"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:sybron],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3625870/en",
-  :title
-  "Process for the haloalkylation of cross-linked styrene copolymers",
-  :status :granted,
-  :id "US3625870",
-  :sourcing :authoritative,
-  :filing-year 1969,
-  :assignee :sybron,
-  :grant-year 1971,
-  :cites ["US2694702" "US2951100" "US2960480" "US3294850" "US3311602"],
   :term-years 20,
   :open-license :none}]

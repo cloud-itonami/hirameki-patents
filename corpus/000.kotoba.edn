@@ -805,6 +805,21 @@
   :assignee :summa-medical,
   :term-years 20,
   :open-license :none}
+ {:assignees [:fuji-photo-film],
+  :jurisdiction :ep,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/EP0007105A1/en",
+  :title
+  "Method of and apparatus for reading out a radiation image recorded in a stimulable phosphor",
+  :status :pending,
+  :id "EP0007105A1",
+  :sourcing :authoritative,
+  :filing-year 1979,
+  :assignee :fuji-photo-film,
+  :cites
+  ["DE1253829B" "US3597079" "US3610926" "US3859527" "US3975637"],
+  :term-years 20,
+  :open-license :none}
  {:assignees [:biogen],
   :jurisdiction :ep,
   :field "UNKNOWN",
@@ -8686,19 +8701,6 @@
   :sourcing :authoritative,
   :filing-year 1939,
   :assignee :oil-well-tools,
-  :grant-year 1940,
-  :term-years 20,
-  :open-license :none}
- {:assignees [:standard-oil],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US2223240/en",
-  :title "Laminated cellulosic material",
-  :status :granted,
-  :id "US2223240",
-  :sourcing :authoritative,
-  :filing-year 1937,
-  :assignee :standard-oil,
   :grant-year 1940,
   :term-years 20,
   :open-license :none}]

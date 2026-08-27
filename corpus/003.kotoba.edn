@@ -1,4 +1,119 @@
-[{:assignees [:boehringer-mannheim],
+[{:assignees [:ppg-industries],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3619398/en",
+  :title "Electrodeposition process",
+  :status :granted,
+  :id "US3619398",
+  :sourcing :authoritative,
+  :filing-year 1968,
+  :assignee :ppg-industries,
+  :grant-year 1971,
+  :cites ["US3301804" "US3410773" "US3450655" "US3455805" "US3468779"],
+  :term-years 20,
+  :open-license :none}
+ {:jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3620678/en",
+  :title "Installation for multiple and automatic analyses",
+  :status :granted,
+  :id "US3620678",
+  :sourcing :authoritative,
+  :filing-year 1967,
+  :assignee :unassigned,
+  :grant-year 1971,
+  :cites
+  ["US3036893"
+   "US3036894"
+   "US3260413"
+   "US3261668"
+   "US3266298"
+   "US3368872"
+   "US3476515"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:formica],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3620899/en",
+  :title
+  "Decorative laminate back coated with a polyvinyl acetate composition",
+  :status :granted,
+  :id "US3620899",
+  :sourcing :authoritative,
+  :filing-year 1968,
+  :assignee :formica,
+  :grant-year 1971,
+  :cites ["US2804418" "US3067085" "US3166435"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:coulter-electronics],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3622795/en",
+  :title
+  "Colorimetric fluid test apparatus having plural fluid sequential control",
+  :status :granted,
+  :id "US3622795",
+  :sourcing :authoritative,
+  :filing-year 1968,
+  :assignee :coulter-electronics,
+  :grant-year 1971,
+  :cites
+  ["US2320065"
+   "US2983184"
+   "US3177898"
+   "US3225645"
+   "US3240110"
+   "US3401591"
+   "US3418061"
+   "US3435239"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:twentieth-century-fox-film],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3622797/en",
+  :title "Radiation sensitive automatic focus system",
+  :status :granted,
+  :id "US3622797",
+  :sourcing :authoritative,
+  :filing-year 1970,
+  :assignee :twentieth-century-fox-film,
+  :grant-year 1971,
+  :cites ["US2831057" "US2838600" "US2838601" "US3111666" "US3450833"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:eastman-kodak],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3623811/en",
+  :title "Electrooptical rangefinder means",
+  :status :granted,
+  :id "US3623811",
+  :sourcing :authoritative,
+  :filing-year 1970,
+  :assignee :eastman-kodak,
+  :grant-year 1971,
+  :cites ["US3054898" "US3270647" "US3273124"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:sybron],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3625870/en",
+  :title
+  "Process for the haloalkylation of cross-linked styrene copolymers",
+  :status :granted,
+  :id "US3625870",
+  :sourcing :authoritative,
+  :filing-year 1969,
+  :assignee :sybron,
+  :grant-year 1971,
+  :cites ["US2694702" "US2951100" "US2960480" "US3294850" "US3311602"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:boehringer-mannheim],
   :jurisdiction :us,
   :field "UNKNOWN",
   :source "https://patents.google.com/patent/US3627698/en",
@@ -205,6 +320,20 @@
   :sourcing :authoritative,
   :filing-year 1970,
   :assignee :us-atomic-energy-commission-aec,
+  :grant-year 1972,
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:polaroid],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3642668/en",
+  :title
+  "Microporous vinylidene fluoride polymer and process of making same",
+  :status :granted,
+  :id "US3642668",
+  :sourcing :authoritative,
+  :filing-year 1969,
+  :assignee :polaroid,
   :grant-year 1972,
   :term-years 20,
   :open-license :none}
@@ -1022,6 +1151,20 @@
   :grant-year 1972,
   :term-years 20,
   :open-license :none}
+ {:assignees [:celanese],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3699038/en",
+  :title
+  "Production of improved semipermeable polybenzimidazole membranes",
+  :status :granted,
+  :id "US3699038",
+  :sourcing :authoritative,
+  :filing-year 1970,
+  :assignee :celanese,
+  :grant-year 1972,
+  :term-years 20,
+  :open-license :none}
  {:assignees [:nat-res-dev],
   :jurisdiction :us,
   :field "UNKNOWN",
@@ -1194,6 +1337,20 @@
   :sourcing :authoritative,
   :filing-year 1970,
   :assignee :general-electric,
+  :grant-year 1972,
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:kalle-and-kg],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3703570/en",
+  :title
+  "Process for the preparation of a semipermeable membrane from polymerized beta-lactam unsubstituted at the nitrogen atom",
+  :status :granted,
+  :id "US3703570",
+  :sourcing :authoritative,
+  :filing-year 1969,
+  :assignee :kalle-and-kg,
   :grant-year 1972,
   :term-years 20,
   :open-license :none}
@@ -2185,6 +2342,21 @@
   :filing-year 1972,
   :assignee :f-hoffmann-la-roche,
   :grant-year 1973,
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:mitsubishi-electric],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3776627/en",
+  :title
+  "Electrophotographic apparatus using photosensitive member with electrically high insulating layer",
+  :status :granted,
+  :id "US3776627",
+  :sourcing :authoritative,
+  :filing-year 1972,
+  :assignee :mitsubishi-electric,
+  :grant-year 1973,
+  :cites ["US3536483" "US3575500" "US3630608"],
   :term-years 20,
   :open-license :none}
  {:assignees [:monsanto],
@@ -3509,6 +3681,21 @@
   :cites ["DE1817308A1"],
   :term-years 20,
   :open-license :none}
+ {:assignees [:eastman-kodak],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3859527/en",
+  :title
+  "Apparatus and method for producing images corresponding to patterns of high energy radiation",
+  :status :granted,
+  :id "US3859527",
+  :sourcing :authoritative,
+  :filing-year 1973,
+  :assignee :eastman-kodak,
+  :grant-year 1975,
+  :cites ["US3376416" "US3439114" "US3518697" "US3582651" "US3622785"],
+  :term-years 20,
+  :open-license :none}
  {:assignees [:honeywell],
   :jurisdiction :us,
   :field "UNKNOWN",
@@ -3666,6 +3853,27 @@
   :cites ["US2934555"],
   :term-years 20,
   :open-license :none}
+ {:assignees [:ei-du-pont-de-nemours-and],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3866054/en",
+  :title "Defect size discriminator circuit for web inspection system",
+  :status :granted,
+  :id "US3866054",
+  :sourcing :authoritative,
+  :filing-year 1973,
+  :assignee :ei-du-pont-de-nemours-and,
+  :grant-year 1975,
+  :cites
+  ["US2812447"
+   "US3020033"
+   "US3124289"
+   "US3158748"
+   "US3317734"
+   "US3347131"
+   "US3601615"],
+  :term-years 20,
+  :open-license :none}
  {:assignees [:warren-industries],
   :jurisdiction :us,
   :field "UNKNOWN",
@@ -3801,6 +4009,20 @@
   :assignee :us-department-of-navy,
   :grant-year 1975,
   :cites ["US3357908" "US3649505" "US3673069" "US3689222" "US3776819"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:production],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3870889/en",
+  :title "Film sheet cassette",
+  :status :granted,
+  :id "US3870889",
+  :sourcing :authoritative,
+  :filing-year 1973,
+  :assignee :production,
+  :grant-year 1975,
+  :cites ["US3174039" "US3240936" "US3504180" "US3784835"],
   :term-years 20,
   :open-license :none}
  {:assignees [:syntex-usa],
@@ -4383,6 +4605,20 @@
    "US3483017"
    "US3489592"
    "US3676184"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:intec],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3900265/en",
+  :title "Laser scanner flaw detection system",
+  :status :granted,
+  :id "US3900265",
+  :sourcing :authoritative,
+  :filing-year 1974,
+  :assignee :intec,
+  :grant-year 1975,
+  :cites ["US3781531"],
   :term-years 20,
   :open-license :none}
  {:jurisdiction :us,
@@ -5365,6 +5601,29 @@
    "US3846628"],
   :term-years 20,
   :open-license :none}
+ {:assignees [:ei-du-pont-de-nemours-and],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3958127/en",
+  :title "Optical-electrical web inspection system",
+  :status :granted,
+  :id "US3958127",
+  :sourcing :authoritative,
+  :filing-year 1974,
+  :assignee :ei-du-pont-de-nemours-and,
+  :grant-year 1976,
+  :cites
+  ["US3001080"
+   "US3061731"
+   "US3427462"
+   "US3493769"
+   "US3556664"
+   "US3646353"
+   "US3728548"
+   "US3744905"
+   "US3843890"],
+  :term-years 20,
+  :open-license :none}
  {:assignees [:bell-telephone-laboratories],
   :jurisdiction :us,
   :field "UNKNOWN",
@@ -5639,6 +5898,20 @@
   :assignee :corning-glass-works,
   :grant-year 1976,
   :cites ["US3519538" "US3652761" "US3669841"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:matsushita-electric-industrial],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3975637/en",
+  :title "Device for storage and display of a radiation image",
+  :status :granted,
+  :id "US3975637",
+  :sourcing :authoritative,
+  :filing-year 1974,
+  :assignee :matsushita-electric-industrial,
+  :grant-year 1976,
+  :cites ["US2742631" "US3453436" "US3729630" "US3800142" "US3859527"],
   :term-years 20,
   :open-license :none}
  {:assignees [:dynatech],
@@ -6347,6 +6620,20 @@
   :assignee :abbott-laboratories,
   :grant-year 1977,
   :cites ["US3646346" "US3790663" "US3867517"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:general-electric],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US4012637/en",
+  :title "Radiographic screen with improved resolution",
+  :status :granted,
+  :id "US4012637",
+  :sourcing :authoritative,
+  :filing-year 1975,
+  :assignee :general-electric,
+  :grant-year 1977,
+  :cites ["US3499150" "US3912933"],
   :term-years 20,
   :open-license :none}
  {:assignees [:coulter-electronics],
@@ -8829,6 +9116,21 @@
   :cites ["US3966898" "US4138213" "US4143124"],
   :term-years 20,
   :open-license :none}
+ {:assignees [:fuji-photo-film],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US4239968/en",
+  :title
+  "Method and apparatus for recording and reproducing a radiation image",
+  :status :granted,
+  :id "US4239968",
+  :sourcing :authoritative,
+  :filing-year 1979,
+  :assignee :fuji-photo-film,
+  :grant-year 1980,
+  :cites ["US3188467" "US3207896" "US3453436" "US3859527" "US3975637"],
+  :term-years 20,
+  :open-license :none}
  {:jurisdiction :us,
   :field "UNKNOWN",
   :source "https://patents.google.com/patent/US4240163/en",
@@ -8966,307 +9268,5 @@
    "US3919075"
    "US4088746"
    "US4089778"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:jdja-services],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US4252897/en",
-  :title "Method and apparatus for bacteria testing",
-  :status :granted,
-  :id "US4252897",
-  :sourcing :authoritative,
-  :filing-year 1978,
-  :assignee :jdja-services,
-  :grant-year 1981,
-  :cites
-  ["US2956931"
-   "US3536449"
-   "US3772154"
-   "US3912596"
-   "US3928140"
-   "US3935075"
-   "US3936356"
-   "US4118280"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:massachusetts-institute-of-technology],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US4254174/en",
-  :title
-  "Supported membrane composite structure and its method of manufacture",
-  :status :granted,
-  :id "US4254174",
-  :sourcing :authoritative,
-  :filing-year 1979,
-  :assignee :massachusetts-institute-of-technology,
-  :grant-year 1981,
-  :cites
-  ["US3179634"
-   "US3179635"
-   "US3742230"
-   "US3743842"
-   "US3892973"
-   "US4057659"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:honeywell],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US4254330/en",
-  :title "Low frequency enhancement range finding equipment",
-  :status :granted,
-  :id "US4254330",
-  :sourcing :authoritative,
-  :filing-year 1979,
-  :assignee :honeywell,
-  :grant-year 1981,
-  :cites ["US4002899" "US4078172"],
-  :term-years 20,
-  :open-license :none}
- {:jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US4264327/en",
-  :title
-  "Method and apparatus for automatic competitive binding analysis",
-  :status :granted,
-  :id "US4264327",
-  :sourcing :authoritative,
-  :filing-year 1978,
-  :assignee :unassigned,
-  :grant-year 1981,
-  :cites
-  ["US3320148"
-   "US3320149"
-   "US4009005"
-   "US4128628"
-   "US4141687"
-   "US4153416"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:university-of-california-san-diego-ucsd],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US4264731/en",
-  :title "DNA Joining method",
-  :status :granted,
-  :id "US4264731",
-  :sourcing :authoritative,
-  :filing-year 1978,
-  :assignee :university-of-california-san-diego-ucsd,
-  :grant-year 1981,
-  :term-years 20,
-  :open-license :none}
- {:assignees [:novo-industri-as],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US4266029/en",
-  :title "Enzyme immobilization",
-  :status :granted,
-  :id "US4266029",
-  :sourcing :authoritative,
-  :filing-year 1979,
-  :assignee :novo-industri-as,
-  :grant-year 1981,
-  :cites
-  ["US3796634"
-   "US3838007"
-   "US3928143"
-   "US3980521"
-   "US4004979"
-   "US4138290"
-   "US4141857"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:university-of-california-san-diego-ucsd],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US4267171/en",
-  :title "C-5 Substituted cytosine nucleosides",
-  :status :granted,
-  :id "US4267171",
-  :sourcing :authoritative,
-  :filing-year 1979,
-  :assignee :university-of-california-san-diego-ucsd,
-  :grant-year 1981,
-  :cites ["US3282921" "US3376283" "US3856777" "US3891623" "US3998807"],
-  :term-years 20,
-  :open-license :none}
- {:jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US4272549/en",
-  :title
-  "Therapeutical method for the treatment of chronic uraemic patients undergoing periodical haemodialysis and liquid composition for dialysis for use in such a method",
-  :status :granted,
-  :id "US4272549",
-  :sourcing :authoritative,
-  :filing-year 1979,
-  :assignee :unassigned,
-  :grant-year 1981,
-  :cites ["US3822344" "US3830931" "US3968241"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:ei-du-pont-de-nemours-and],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US4273695/en",
-  :title "Ethylene-acrylic enamels",
-  :status :granted,
-  :id "US4273695",
-  :sourcing :authoritative,
-  :filing-year 1979,
-  :assignee :ei-du-pont-de-nemours-and,
-  :grant-year 1981,
-  :cites ["US3674734" "US4060657" "US4061822" "US4164488"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:mount-sinai-school-of-medicine],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US4275053/en",
-  :title "Blood cell typing and compatibility test procedure",
-  :status :granted,
-  :id "US4275053",
-  :sourcing :authoritative,
-  :filing-year 1978,
-  :assignee :mount-sinai-school-of-medicine,
-  :grant-year 1981,
-  :cites ["US3639558" "US4002532" "US4011308" "US4041146"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:syva],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US4275149/en",
-  :title
-  "Macromolecular environment control in specific receptor assays",
-  :status :granted,
-  :id "US4275149",
-  :sourcing :authoritative,
-  :filing-year 1978,
-  :assignee :syva,
-  :grant-year 1981,
-  :cites
-  ["US3791932"
-   "US4052010"
-   "US4059685"
-   "US4067959"
-   "US4134792"
-   "US4193983"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:us-department-of-energy],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US4276395/en",
-  :title "Novel Fischer-Tropsch catalysts",
-  :status :granted,
-  :id "US4276395",
-  :sourcing :authoritative,
-  :filing-year 1980,
-  :assignee :us-department-of-energy,
-  :grant-year 1981,
-  :cites
-  ["US4022810"
-   "US4032556"
-   "US4096163"
-   "US4111866"
-   "US4128706"
-   "US4132672"
-   "US4205134"
-   "US4230633"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:technicon-instruments],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US4277560/en",
-  :title
-  "Enzyme immunoassays using immobilized reagents in a flowing stream",
-  :status :granted,
-  :id "US4277560",
-  :sourcing :authoritative,
-  :filing-year 1978,
-  :assignee :technicon-instruments,
-  :grant-year 1981,
-  :cites
-  ["US3902970"
-   "US3925018"
-   "US3975237"
-   "US3993451"
-   "US4009005"
-   "US4022577"
-   "US4125492"
-   "US4141687"
-   "US4200625"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:harvard-university],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US4278761/en",
-  :title "Enzyme assay and kit therefor",
-  :status :granted,
-  :id "US4278761",
-  :sourcing :authoritative,
-  :filing-year 1979,
-  :assignee :harvard-university,
-  :grant-year 1981,
-  :term-years 20,
-  :open-license :none}
- {:assignees [:dow-chemical],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US4279994/en",
-  :title "Lipase determination method and reagent",
-  :status :granted,
-  :id "US4279994",
-  :sourcing :authoritative,
-  :filing-year 1979,
-  :assignee :dow-chemical,
-  :grant-year 1981,
-  :cites ["US3119668" "US3867259" "US3875014" "US3917515" "US3986930"],
-  :term-years 20,
-  :open-license :none}
- {:jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US4282287/en",
-  :title "Biochemical avidin-biotin multiple-layer system",
-  :status :granted,
-  :id "US4282287",
-  :sourcing :authoritative,
-  :filing-year 1980,
-  :assignee :unassigned,
-  :grant-year 1981,
-  :cites ["US4132528" "US4134792" "US4168300"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:olympus-optical],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US4284897/en",
-  :title "Fluorescence determining microscope utilizing laser light",
-  :status :granted,
-  :id "US4284897",
-  :sourcing :authoritative,
-  :filing-year 1978,
-  :assignee :olympus-optical,
-  :grant-year 1981,
-  :cites ["US3657537" "US3950649" "US4058732" "US4172227"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:e-y-laboratories],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US4289747/en",
-  :title "Immunological determination using lectin",
-  :status :granted,
-  :id "US4289747",
-  :sourcing :authoritative,
-  :filing-year 1978,
-  :assignee :e-y-laboratories,
-  :grant-year 1981,
-  :cites ["US3555143" "US4053284" "US4098876"],
   :term-years 20,
   :open-license :none}]

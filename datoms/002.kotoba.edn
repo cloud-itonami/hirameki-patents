@@ -1,4 +1,49 @@
 [[":db/add"
+  "hirameki-patent:US1569342"
+  ":hirameki.patent/open-license"
+  ":none"]
+ [":db/add"
+  "hirameki-patent:US1569342"
+  ":hirameki.obs/release-status"
+  ":in-force"]
+ [":db/add"
+  "hirameki-patent:US1569342"
+  ":hirameki/sourcing"
+  ":authoritative"]
+ [":db/add" "hirameki-patent:US1569342" ":hirameki/derived" true]
+ [":db/add"
+  "hirameki-patent:US1569342"
+  ":hirameki/source"
+  "https://patents.google.com/patent/US1569342/en"]
+ [":db/add"
+  "hirameki-patent:US1585447"
+  ":hirameki.patent/title"
+  "Extraction flask"]
+ [":db/add"
+  "hirameki-patent:US1585447"
+  ":hirameki.patent/jurisdiction"
+  ":us"]
+ [":db/add"
+  "hirameki-patent:US1585447"
+  ":hirameki.patent/field"
+  "UNKNOWN"]
+ [":db/add"
+  "hirameki-patent:US1585447"
+  ":hirameki.patent/assignee"
+  ":unassigned"]
+ [":db/add"
+  "hirameki-patent:US1585447"
+  ":hirameki.patent/status"
+  ":granted"]
+ [":db/add"
+  "hirameki-patent:US1585447"
+  ":hirameki.patent/open-license"
+  ":none"]
+ [":db/add"
+  "hirameki-patent:US1585447"
+  ":hirameki.obs/release-status"
+  ":public-domain"]
+ [":db/add"
   "hirameki-patent:US1585447"
   ":hirameki/sourcing"
   ":authoritative"]
@@ -10385,49 +10430,4 @@
  [":db/add"
   "hirameki-patent:US2325798"
   ":hirameki.obs/years-to-expiry"
-  -66]
- [":db/add"
-  "hirameki-patent:US2325798"
-  ":hirameki/source"
-  "https://patents.google.com/patent/US2325798/en"]
- [":db/add"
-  "hirameki-patent:US2328461"
-  ":hirameki.patent/title"
-  "Continuous recorder for color changes"]
- [":db/add"
-  "hirameki-patent:US2328461"
-  ":hirameki.patent/jurisdiction"
-  ":us"]
- [":db/add"
-  "hirameki-patent:US2328461"
-  ":hirameki.patent/field"
-  "UNKNOWN"]
- [":db/add"
-  "hirameki-patent:US2328461"
-  ":hirameki.patent/assignee"
-  ":american-cyanamid"]
- [":db/add"
-  "hirameki-patent:US2328461"
-  ":hirameki.patent/status"
-  ":granted"]
- [":db/add"
-  "hirameki-patent:US2328461"
-  ":hirameki.patent/open-license"
-  ":none"]
- [":db/add"
-  "hirameki-patent:US2328461"
-  ":hirameki.obs/release-status"
-  ":public-domain"]
- [":db/add"
-  "hirameki-patent:US2328461"
-  ":hirameki/sourcing"
-  ":authoritative"]
- [":db/add" "hirameki-patent:US2328461" ":hirameki/derived" true]
- [":db/add"
-  "hirameki-patent:US2328461"
-  ":hirameki.obs/years-to-expiry"
-  -65]
- [":db/add"
-  "hirameki-patent:US2328461"
-  ":hirameki/source"
-  "https://patents.google.com/patent/US2328461/en"]]
+  -66]]

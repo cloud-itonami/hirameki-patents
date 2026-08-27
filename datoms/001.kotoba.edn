@@ -1,4 +1,45 @@
 [[":db/add"
+  "hirameki-patent:GB638118A"
+  ":hirameki.obs/years-to-expiry"
+  -58]
+ [":db/add"
+  "hirameki-patent:GB638118A"
+  ":hirameki/source"
+  "https://patents.google.com/patent/GB638118A/en"]
+ [":db/add"
+  "hirameki-patent:GB671922A"
+  ":hirameki.patent/title"
+  "A process for the destruction of micro-organisms, viruses and the like in liquids and tissue of vegetable and animal origin"]
+ [":db/add"
+  "hirameki-patent:GB671922A"
+  ":hirameki.patent/jurisdiction"
+  ":gb"]
+ [":db/add"
+  "hirameki-patent:GB671922A"
+  ":hirameki.patent/field"
+  "UNKNOWN"]
+ [":db/add"
+  "hirameki-patent:GB671922A"
+  ":hirameki.patent/assignee"
+  ":unassigned"]
+ [":db/add"
+  "hirameki-patent:GB671922A"
+  ":hirameki.patent/status"
+  ":pending"]
+ [":db/add"
+  "hirameki-patent:GB671922A"
+  ":hirameki.patent/open-license"
+  ":none"]
+ [":db/add"
+  "hirameki-patent:GB671922A"
+  ":hirameki.obs/release-status"
+  ":pending"]
+ [":db/add"
+  "hirameki-patent:GB671922A"
+  ":hirameki/sourcing"
+  ":authoritative"]
+ [":db/add" "hirameki-patent:GB671922A" ":hirameki/derived" true]
+ [":db/add"
   "hirameki-patent:GB671922A"
   ":hirameki.obs/years-to-expiry"
   -58]
@@ -9942,49 +9983,4 @@
  [":db/add"
   "hirameki-patent:US1569342"
   ":hirameki.patent/status"
-  ":granted"]
- [":db/add"
-  "hirameki-patent:US1569342"
-  ":hirameki.patent/open-license"
-  ":none"]
- [":db/add"
-  "hirameki-patent:US1569342"
-  ":hirameki.obs/release-status"
-  ":in-force"]
- [":db/add"
-  "hirameki-patent:US1569342"
-  ":hirameki/sourcing"
-  ":authoritative"]
- [":db/add" "hirameki-patent:US1569342" ":hirameki/derived" true]
- [":db/add"
-  "hirameki-patent:US1569342"
-  ":hirameki/source"
-  "https://patents.google.com/patent/US1569342/en"]
- [":db/add"
-  "hirameki-patent:US1585447"
-  ":hirameki.patent/title"
-  "Extraction flask"]
- [":db/add"
-  "hirameki-patent:US1585447"
-  ":hirameki.patent/jurisdiction"
-  ":us"]
- [":db/add"
-  "hirameki-patent:US1585447"
-  ":hirameki.patent/field"
-  "UNKNOWN"]
- [":db/add"
-  "hirameki-patent:US1585447"
-  ":hirameki.patent/assignee"
-  ":unassigned"]
- [":db/add"
-  "hirameki-patent:US1585447"
-  ":hirameki.patent/status"
-  ":granted"]
- [":db/add"
-  "hirameki-patent:US1585447"
-  ":hirameki.patent/open-license"
-  ":none"]
- [":db/add"
-  "hirameki-patent:US1585447"
-  ":hirameki.obs/release-status"
-  ":public-domain"]]
+  ":granted"]]
