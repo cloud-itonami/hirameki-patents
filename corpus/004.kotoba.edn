@@ -1,4 +1,232 @@
-[{:assignees [:medical-college-of-wisconsin],
+[{:assignees [:rohm-and-haas],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US4217421/en",
+  :title
+  "Anion exchange resins prepared from crosslinked polystyrenesulfonylchloride",
+  :status :granted,
+  :id "US4217421",
+  :sourcing :authoritative,
+  :filing-year 1978,
+  :assignee :rohm-and-haas,
+  :grant-year 1980,
+  :cites ["US2778813" "US2867611" "US2906715" "US3128257" "US3133030"],
+  :term-years 20,
+  :open-license :none}
+ {:jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US4218539/en",
+  :title "Enzyme conjugates and method of preparation and use",
+  :status :granted,
+  :id "US4218539",
+  :sourcing :authoritative,
+  :filing-year 1978,
+  :assignee :unassigned,
+  :grant-year 1980,
+  :cites ["US4144131"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:syva],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US4220450/en",
+  :title "Chemically induced fluorescence immunoassay",
+  :status :granted,
+  :id "US4220450",
+  :sourcing :authoritative,
+  :filing-year 1978,
+  :assignee :syva,
+  :grant-year 1980,
+  :cites
+  ["US3575812"
+   "US3660240"
+   "US3852157"
+   "US3996345"
+   "US3998943"
+   "US3999298"
+   "US4043872"
+   "US4104029"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:syva],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US4220722/en",
+  :title
+  "Method for conjugating to polyamino compounds employing haloacyl groups and compositions prepared thereby",
+  :status :granted,
+  :id "US4220722",
+  :sourcing :authoritative,
+  :filing-year 1978,
+  :assignee :syva,
+  :grant-year 1980,
+  :cites ["US4067774" "US4100268" "US4144131"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:scripps-clinic-and-research-foundation],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US4222907/en",
+  :title "Induction of immunological tolerance",
+  :status :granted,
+  :id "US4222907",
+  :sourcing :authoritative,
+  :filing-year 1978,
+  :assignee :scripps-clinic-and-research-foundation,
+  :grant-year 1980,
+  :cites ["US3794630"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:university-of-illinois-foundation],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US4223005/en",
+  :title "Antibody coated bacteria",
+  :status :granted,
+  :id "US4223005",
+  :sourcing :authoritative,
+  :filing-year 1979,
+  :assignee :university-of-illinois-foundation,
+  :grant-year 1980,
+  :cites ["US3553310" "US3639558" "US3873684" "US3882225" "US3925018"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:abbott-laboratories],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US4224408/en",
+  :title "Deoxyribonucleic acid synthesis using binding protein",
+  :status :granted,
+  :id "US4224408",
+  :sourcing :authoritative,
+  :filing-year 1978,
+  :assignee :abbott-laboratories,
+  :grant-year 1980,
+  :term-years 20,
+  :open-license :none}
+ {:jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US4225229/en",
+  :title "Apparatus for measuring cytological properties",
+  :status :granted,
+  :id "US4225229",
+  :sourcing :authoritative,
+  :filing-year 1978,
+  :assignee :unassigned,
+  :grant-year 1980,
+  :cites
+  ["DE7333009U"
+   "US3740665"
+   "US3788744"
+   "US3811777"
+   "US3897154"
+   "US3902807"
+   "US3916205"
+   "US3984307"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:gruppo-lepetit-spa],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US4225574/en",
+  :title
+  "Method for determination of free hormones in biologic fluids",
+  :status :granted,
+  :id "US4225574",
+  :sourcing :authoritative,
+  :filing-year 1978,
+  :assignee :gruppo-lepetit-spa,
+  :grant-year 1980,
+  :cites ["US4020151" "US4046870"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:calbiochem-behring],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US4228237/en",
+  :title "Methods for the detection and determination of ligands",
+  :status :granted,
+  :id "US4228237",
+  :sourcing :authoritative,
+  :filing-year 1978,
+  :assignee :calbiochem-behring,
+  :grant-year 1980,
+  :cites ["BE841179A" "US4002532" "US4016043" "US4134792"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:allor-foundation],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US4228238/en",
+  :title
+  "Method of laboratory testing in water-based culture media for zones of inhibition",
+  :status :granted,
+  :id "US4228238",
+  :sourcing :authoritative,
+  :filing-year 1979,
+  :assignee :allor-foundation,
+  :grant-year 1980,
+  :cites ["US3126325" "US3597321" "US3992523" "US4168206"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:us-department-of-energy],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US4230633/en",
+  :title "Novel Fischer-Tropsch catalysts",
+  :status :granted,
+  :id "US4230633",
+  :sourcing :authoritative,
+  :filing-year 1979,
+  :assignee :us-department-of-energy,
+  :grant-year 1980,
+  :cites ["US4022810" "US4032556" "US4096163" "US4132672"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:miles-laboratories],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US4230797/en",
+  :title
+  "Heterogenous specific binding assay employing a coenzyme as label",
+  :status :granted,
+  :id "US4230797",
+  :sourcing :authoritative,
+  :filing-year 1978,
+  :assignee :miles-laboratories,
+  :grant-year 1980,
+  :cites ["US3659104" "US3817837" "US3839153" "US3880934" "US3998943"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:research],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US4234561/en",
+  :title "Antigen for early pregnancy test and contraceptive vaccine",
+  :status :granted,
+  :id "US4234561",
+  :sourcing :authoritative,
+  :filing-year 1978,
+  :assignee :research,
+  :grant-year 1980,
+  :cites ["GB1473601A" "US3903262" "US3992514" "US4016250"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:syva],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US4235869/en",
+  :title "Assay employing a labeled Fab-fragment ligand complex",
+  :status :granted,
+  :id "US4235869",
+  :sourcing :authoritative,
+  :filing-year 1978,
+  :assignee :syva,
+  :grant-year 1980,
+  :cites ["US3935074" "US3996345" "US3998943" "US4104029"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:medical-college-of-wisconsin],
   :jurisdiction :us,
   :field "UNKNOWN",
   :source "https://patents.google.com/patent/US4235960/en",
@@ -448,6 +676,19 @@
   :open-license :none}
  {:jurisdiction :us,
   :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US4271139/en",
+  :title "Scintillation proximity assay",
+  :status :granted,
+  :id "US4271139",
+  :sourcing :authoritative,
+  :filing-year 1978,
+  :assignee :unassigned,
+  :grant-year 1981,
+  :cites ["US4000252"],
+  :term-years 20,
+  :open-license :none}
+ {:jurisdiction :us,
+  :field "UNKNOWN",
   :source "https://patents.google.com/patent/US4272549/en",
   :title
   "Therapeutical method for the treatment of chronic uraemic patients undergoing periodical haemodialysis and liquid composition for dialysis for use in such a method",
@@ -766,6 +1007,30 @@
   :cites ["US3730844" "US4072574" "US4139346"],
   :term-years 20,
   :open-license :none}
+ {:assignees [:israel-institute-for-biological-research],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US4302534/en",
+  :title "Chemiluminescent enzyme immunoassay",
+  :status :granted,
+  :id "US4302534",
+  :sourcing :authoritative,
+  :filing-year 1978,
+  :assignee :israel-institute-for-biological-research,
+  :grant-year 1981,
+  :cites
+  ["DE2618419A1"
+   "DE2618511C3"
+   "US3359973"
+   "US3575812"
+   "US3791932"
+   "US3852157"
+   "US3999948"
+   "US4101383"
+   "US4104029"
+   "US4134792"],
+  :term-years 20,
+  :open-license :none}
  {:assignees [:fuji-photo-film],
   :jurisdiction :us,
   :field "UNKNOWN",
@@ -1040,6 +1305,27 @@
    "US3675488"
    "US3952091"
    "US4071315"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:evreka],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US4330299/en",
+  :title
+  "Article and method for measuring glucose level in body fluids",
+  :status :granted,
+  :id "US4330299",
+  :sourcing :authoritative,
+  :filing-year 1981,
+  :assignee :evreka,
+  :grant-year 1982,
+  :cites
+  ["US3061523"
+   "US3778384"
+   "US3791988"
+   "US3897213"
+   "US4287028"
+   "US4289747"],
   :term-years 20,
   :open-license :none}
  {:assignees [:abbott-laboratories],
@@ -1849,6 +2135,19 @@
   :cites ["US3534017"],
   :term-years 20,
   :open-license :none}
+ {:jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US4416988/en",
+  :title
+  "Detection and isolation of enkephalin mRNA using a synthetic oligodeoxynucleotide",
+  :status :granted,
+  :id "US4416988",
+  :sourcing :authoritative,
+  :filing-year 1982,
+  :assignee :unassigned,
+  :grant-year 1983,
+  :term-years 20,
+  :open-license :none}
  {:assignees [:university-of-delaware],
   :jurisdiction :us,
   :field "UNKNOWN",
@@ -2516,6 +2815,30 @@
   :filing-year 1982,
   :assignee :research,
   :grant-year 1985,
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:enzyme-technology],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US4521511/en",
+  :title
+  "Catalyzed colorimetric and fluorometric substrates for peroxidase enzyme determinations",
+  :status :granted,
+  :id "US4521511",
+  :sourcing :authoritative,
+  :filing-year 1982,
+  :assignee :enzyme-technology,
+  :grant-year 1985,
+  :cites
+  ["EP0029926A1"
+   "US29498"
+   "US3668076"
+   "US4251222"
+   "US4278439"
+   "US4340392"
+   "US4340393"
+   "US4340394"
+   "US4418037"],
   :term-years 20,
   :open-license :none}
  {:jurisdiction :us,
@@ -6763,6 +7086,18 @@
   :filing-year 1981,
   :assignee :yale-university,
   :cites ["WO1980000030A1"],
+  :term-years 20,
+  :open-license :none}
+ {:jurisdiction :wo,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/WO1983001073A1/en",
+  :title "Method for identifying and characterizing organisms",
+  :status :pending,
+  :id "WO1983001073A1",
+  :sourcing :authoritative,
+  :filing-year 1982,
+  :assignee :unassigned,
+  :cites ["US4302204"],
   :term-years 20,
   :open-license :none}
  {:assignees [:orion-yhtyma-oy :soderlund-hans-erik],

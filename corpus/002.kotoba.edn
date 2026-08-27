@@ -1,4 +1,183 @@
-[{:assignees [:general-electric],
+[{:assignees [:ei-du-pont-de-nemours-and],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2977243/en",
+  :title "Coating process",
+  :status :granted,
+  :id "US2977243",
+  :sourcing :authoritative,
+  :filing-year 1958,
+  :assignee :ei-du-pont-de-nemours-and,
+  :grant-year 1961,
+  :cites ["US1774398" "US2159151" "US2364904" "US2388339" "US2819984"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:jersey-production-research],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2978029/en",
+  :title "Plug for well boreholes",
+  :status :granted,
+  :id "US2978029",
+  :sourcing :authoritative,
+  :filing-year 1959,
+  :assignee :jersey-production-research,
+  :grant-year 1961,
+  :cites ["US1342927" "US2618344" "US2695065" "US2707998" "US2815817"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:bell-telephone-laboratories],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2978675/en",
+  :title "Character recognition system",
+  :status :granted,
+  :id "US2978675",
+  :sourcing :authoritative,
+  :filing-year 1959,
+  :assignee :bell-telephone-laboratories,
+  :grant-year 1961,
+  :term-years 20,
+  :open-license :none}
+ {:jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2980749/en",
+  :title
+  "Fuel cell and method of producing electrodes for such a cell",
+  :status :granted,
+  :id "US2980749",
+  :sourcing :authoritative,
+  :filing-year 1958,
+  :assignee :unassigned,
+  :grant-year 1961,
+  :cites ["DE913911C" "GB521773A" "US2384463" "US2830109" "US2914596"],
+  :term-years 20,
+  :open-license :none}
+ {:jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2980809/en",
+  :title
+  "Semi-conductor devices for rectifying and clipping large electrical currents",
+  :status :granted,
+  :id "US2980809",
+  :sourcing :authoritative,
+  :filing-year 1957,
+  :assignee :unassigned,
+  :grant-year 1961,
+  :cites
+  ["US2666814"
+   "US2825822"
+   "US2836797"
+   "US2868455"
+   "US2869000"
+   "US2885572"
+   "US2891171"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:eli-lilly-and],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2981606/en",
+  :title "Glucose indicator and method",
+  :status :granted,
+  :id "US2981606",
+  :sourcing :authoritative,
+  :filing-year 1955,
+  :assignee :eli-lilly-and,
+  :grant-year 1961,
+  :cites
+  ["GB708996A"
+   "US1247522"
+   "US2359052"
+   "US2482724"
+   "US2651592"
+   "US2671028"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:fairchild-semiconductor],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2981877/en",
+  :title "Semiconductor device-and-lead structure",
+  :status :granted,
+  :id "US2981877",
+  :sourcing :authoritative,
+  :filing-year 1959,
+  :assignee :fairchild-semiconductor,
+  :grant-year 1961,
+  :cites ["US2813326" "US2836878" "US2842723" "US2849664"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:technicon-instruments],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2983184/en",
+  :title "Flow cell for colorimetry of a fluid",
+  :status :granted,
+  :id "US2983184",
+  :sourcing :authoritative,
+  :filing-year 1955,
+  :assignee :technicon-instruments,
+  :grant-year 1961,
+  :cites
+  ["DE724121C"
+   "FR49913E"
+   "FR837918A"
+   "US1900893"
+   "US1931968"
+   "US2288065"
+   "US2467599"
+   "US2549574"
+   "US2649011"
+   "US2686454"
+   "US814036"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:general-electric],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2983822/en",
+  :title "Form recognition method and system therefor",
+  :status :granted,
+  :id "US2983822",
+  :sourcing :authoritative,
+  :filing-year 1957,
+  :assignee :general-electric,
+  :grant-year 1961,
+  :cites ["US2610789" "US2738499" "US2781169"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:phillips-petroleum],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2984988/en",
+  :title "Gas analysis and control",
+  :status :granted,
+  :id "US2984988",
+  :sourcing :authoritative,
+  :filing-year 1956,
+  :assignee :phillips-petroleum,
+  :grant-year 1961,
+  :cites
+  ["US2443427"
+   "US2475957"
+   "US2534657"
+   "US2553469"
+   "US2573341"
+   "US2577617"
+   "US2596785"
+   "US2636904"
+   "US2673297"
+   "US2690989"
+   "US2697789"
+   "US2703844"
+   "US2721942"
+   "US2762208"
+   "US2768306"
+   "US2835116"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:general-electric],
   :jurisdiction :us,
   :field "UNKNOWN",
   :source "https://patents.google.com/patent/US2985545/en",
@@ -9283,169 +9462,5 @@
   :assignee :unassigned,
   :grant-year 1971,
   :cites ["US3297157" "US3517807"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:international-business-machines],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3614232/en",
-  :title
-  "Pattern defect sensing using error free blocking spacial filter",
-  :status :granted,
-  :id "US3614232",
-  :sourcing :authoritative,
-  :filing-year 1968,
-  :assignee :international-business-machines,
-  :grant-year 1971,
-  :cites ["US1135919" "US3085469" "US3418626"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:deutsche-itt-industries],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3614449/en",
-  :title "Optical tracking system utilizing a coaxial lens system",
-  :status :granted,
-  :id "US3614449",
-  :sourcing :authoritative,
-  :filing-year 1969,
-  :assignee :deutsche-itt-industries,
-  :grant-year 1971,
-  :cites
-  ["US2504383"
-   "US2753760"
-   "US2798961"
-   "US3173012"
-   "US3244885"
-   "US3398285"
-   "US3497696"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:new-england-nuclear],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3615222/en",
-  :title
-  "Method and apparatus for measuring the amount of a component in a biological fluid",
-  :status :granted,
-  :id "US3615222",
-  :sourcing :authoritative,
-  :filing-year 1968,
-  :assignee :new-england-nuclear,
-  :grant-year 1971,
-  :cites ["US3072362" "US3397965"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:wr-grace-and],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3615450/en",
-  :title "Method of preparing printing plates",
-  :status :granted,
-  :id "US3615450",
-  :sourcing :authoritative,
-  :filing-year 1970,
-  :assignee :wr-grace-and,
-  :grant-year 1971,
-  :term-years 20,
-  :open-license :none}
- {:assignees [:basf-se],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3615629/en",
-  :title
-  "Photosensitive compositions for production of relief-bearing plates sheets or films",
-  :status :granted,
-  :id "US3615629",
-  :sourcing :authoritative,
-  :filing-year 1968,
-  :assignee :basf-se,
-  :grant-year 1971,
-  :term-years 20,
-  :open-license :none}
- {:assignees [:goodyear-tire-and-rubber],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3616171/en",
-  :title "Method of making a foamed article and said article",
-  :status :granted,
-  :id "US3616171",
-  :sourcing :authoritative,
-  :filing-year 1968,
-  :assignee :goodyear-tire-and-rubber,
-  :grant-year 1971,
-  :term-years 20,
-  :open-license :none}
- {:assignees [:miles-laboratories],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3616251/en",
-  :title "Test device",
-  :status :granted,
-  :id "US3616251",
-  :sourcing :authoritative,
-  :filing-year 1968,
-  :assignee :miles-laboratories,
-  :grant-year 1971,
-  :term-years 20,
-  :open-license :none}
- {:assignees [:us-philips],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3616345/en",
-  :title
-  "Method of manufacturing semiconductor devices in which a selective electrolytic etching process is used",
-  :status :granted,
-  :id "US3616345",
-  :sourcing :authoritative,
-  :filing-year 1968,
-  :assignee :us-philips,
-  :grant-year 1971,
-  :term-years 20,
-  :open-license :none}
- {:assignees [:rca],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3616348/en",
-  :title "Process for isolating semiconductor elements",
-  :status :granted,
-  :id "US3616348",
-  :sourcing :authoritative,
-  :filing-year 1968,
-  :assignee :rca,
-  :grant-year 1971,
-  :term-years 20,
-  :open-license :none}
- {:assignees [:bell-and-howell],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3617761/en",
-  :title "Radiation sensitive remote control system",
-  :status :granted,
-  :id "US3617761",
-  :sourcing :authoritative,
-  :filing-year 1969,
-  :assignee :bell-and-howell,
-  :grant-year 1971,
-  :cites
-  ["US2140368"
-   "US2167484"
-   "US2362832"
-   "US2651771"
-   "US2993997"
-   "US3158675"
-   "US3502888"],
-  :term-years 20,
-  :open-license :none}
- {:jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3619073/en",
-  :title "Sample holder for optical measurements at low temperatures",
-  :status :granted,
-  :id "US3619073",
-  :sourcing :authoritative,
-  :filing-year 1969,
-  :assignee :unassigned,
-  :grant-year 1971,
   :term-years 20,
   :open-license :none}]
