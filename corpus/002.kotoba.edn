@@ -1,4 +1,62 @@
-[{:assignees [:ei-du-pont-de-nemours-and],
+[{:assignees [:nat-res-dev],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2975553/en",
+  :title "Apparatus for culture of biological cells and tissues",
+  :status :granted,
+  :id "US2975553",
+  :sourcing :authoritative,
+  :filing-year 1958,
+  :assignee :nat-res-dev,
+  :grant-year 1961,
+  :cites ["US1874667" "US2658310"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:technicon-instruments],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2976761/en",
+  :title "Apparatus for use in analyzing fluids",
+  :status :granted,
+  :id "US2976761",
+  :sourcing :authoritative,
+  :filing-year 1956,
+  :assignee :technicon-instruments,
+  :grant-year 1961,
+  :cites
+  ["CH57338A"
+   "FR837918A"
+   "US1426076"
+   "US1900893"
+   "US2019871"
+   "US2430895"
+   "US2431899"
+   "US2797149"
+   "US854635"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:industrial-rayon],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2977199/en",
+  :title "Method for the continuous testing of flowing materials",
+  :status :granted,
+  :id "US2977199",
+  :sourcing :authoritative,
+  :filing-year 1956,
+  :assignee :industrial-rayon,
+  :grant-year 1961,
+  :cites
+  ["US2607718"
+   "US2666691"
+   "US2668097"
+   "US2672405"
+   "US2705183"
+   "US2726936"
+   "US2878106"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:ei-du-pont-de-nemours-and],
   :jurisdiction :us,
   :field "UNKNOWN",
   :source "https://patents.google.com/patent/US2977243/en",
@@ -9407,60 +9465,5 @@
   :filing-year 1968,
   :assignee :ilford,
   :grant-year 1971,
-  :term-years 20,
-  :open-license :none}
- {:assignees [:buckbee-mears],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3609033/en",
-  :title "Mask for etching enlargement",
-  :status :granted,
-  :id "US3609033",
-  :sourcing :authoritative,
-  :filing-year 1969,
-  :assignee :buckbee-mears,
-  :grant-year 1971,
-  :term-years 20,
-  :open-license :none}
- {:assignees [:century-geophysical],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3610934/en",
-  :title
-  "Automatic focusing system utilizing means for alternately directing light over two paths having slightly different lengths",
-  :status :granted,
-  :id "US3610934",
-  :sourcing :authoritative,
-  :filing-year 1969,
-  :assignee :century-geophysical,
-  :grant-year 1971,
-  :cites ["US2831057" "US2838600"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:rapistan],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3612250/en",
-  :title "Recirculation limit system for conveyors",
-  :status :granted,
-  :id "US3612250",
-  :sourcing :authoritative,
-  :filing-year 1970,
-  :assignee :rapistan,
-  :grant-year 1971,
-  :cites ["US3075653"],
-  :term-years 20,
-  :open-license :none}
- {:jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3613884/en",
-  :title "Fish egg sorting apparatus",
-  :status :granted,
-  :id "US3613884",
-  :sourcing :authoritative,
-  :filing-year 1970,
-  :assignee :unassigned,
-  :grant-year 1971,
-  :cites ["US3297157" "US3517807"],
   :term-years 20,
   :open-license :none}]

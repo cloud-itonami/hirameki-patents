@@ -1,4 +1,56 @@
-[{:assignees [:johns-manville],
+[{:assignees [:ei-du-pont-de-nemours-and],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2201747/en",
+  :title "Method of producing moistureproof cellulosic pellicles",
+  :status :granted,
+  :id "US2201747",
+  :sourcing :authoritative,
+  :filing-year 1935,
+  :assignee :ei-du-pont-de-nemours-and,
+  :grant-year 1940,
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:lowe-paper],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2204600/en",
+  :title "Method and means for coating paper",
+  :status :granted,
+  :id "US2204600",
+  :sourcing :authoritative,
+  :filing-year 1938,
+  :assignee :lowe-paper,
+  :grant-year 1940,
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:texaco],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2205422/en",
+  :title "Method for forming a gravel pack in a well bore",
+  :status :granted,
+  :id "US2205422",
+  :sourcing :authoritative,
+  :filing-year 1938,
+  :assignee :texaco,
+  :grant-year 1940,
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:gardner-richardson],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2205557/en",
+  :title "Waterproof and greaseproof paper",
+  :status :granted,
+  :id "US2205557",
+  :sourcing :authoritative,
+  :filing-year 1937,
+  :assignee :gardner-richardson,
+  :grant-year 1940,
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:johns-manville],
   :jurisdiction :us,
   :field "UNKNOWN",
   :source "https://patents.google.com/patent/US2208236/en",
@@ -9843,63 +9895,5 @@
   :assignee :mine-safety-appliances,
   :grant-year 1961,
   :cites ["US2402662" "US2711511"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:nat-res-dev],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US2975553/en",
-  :title "Apparatus for culture of biological cells and tissues",
-  :status :granted,
-  :id "US2975553",
-  :sourcing :authoritative,
-  :filing-year 1958,
-  :assignee :nat-res-dev,
-  :grant-year 1961,
-  :cites ["US1874667" "US2658310"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:technicon-instruments],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US2976761/en",
-  :title "Apparatus for use in analyzing fluids",
-  :status :granted,
-  :id "US2976761",
-  :sourcing :authoritative,
-  :filing-year 1956,
-  :assignee :technicon-instruments,
-  :grant-year 1961,
-  :cites
-  ["CH57338A"
-   "FR837918A"
-   "US1426076"
-   "US1900893"
-   "US2019871"
-   "US2430895"
-   "US2431899"
-   "US2797149"
-   "US854635"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:industrial-rayon],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US2977199/en",
-  :title "Method for the continuous testing of flowing materials",
-  :status :granted,
-  :id "US2977199",
-  :sourcing :authoritative,
-  :filing-year 1956,
-  :assignee :industrial-rayon,
-  :grant-year 1961,
-  :cites
-  ["US2607718"
-   "US2666691"
-   "US2668097"
-   "US2672405"
-   "US2705183"
-   "US2726936"
-   "US2878106"],
   :term-years 20,
   :open-license :none}]

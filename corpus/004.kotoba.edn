@@ -1,4 +1,224 @@
-[{:assignees [:rohm-and-haas],
+[{:assignees [:government-of-the-united-states-of-america],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US4200110/en",
+  :title "Fiber optic pH probe",
+  :status :granted,
+  :id "US4200110",
+  :sourcing :authoritative,
+  :filing-year 1977,
+  :assignee :government-of-the-united-states-of-america,
+  :grant-year 1980,
+  :cites
+  ["GB770889A"
+   "US2084399"
+   "US3164663"
+   "US3183208"
+   "US3787119"
+   "US3814081"
+   "US4016133"
+   "US4016863"
+   "US4033330"
+   "US4041932"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:mochida-pharmaceutical],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US4200436/en",
+  :title "Immunochemical measuring process",
+  :status :granted,
+  :id "US4200436",
+  :sourcing :authoritative,
+  :filing-year 1977,
+  :assignee :mochida-pharmaceutical,
+  :grant-year 1980,
+  :cites ["US3654090" "US3992516" "US4002532" "US4067959"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:millipore],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US4200690/en",
+  :title "Immunoassay with membrane immobilized antibody",
+  :status :granted,
+  :id "US4200690",
+  :sourcing :authoritative,
+  :filing-year 1978,
+  :assignee :millipore,
+  :grant-year 1980,
+  :cites ["US3839153" "US3951748" "US4066512"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:ohio-state-university],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US4201770/en",
+  :title "Antigenic modification of polypeptides",
+  :status :granted,
+  :id "US4201770",
+  :sourcing :authoritative,
+  :filing-year 1978,
+  :assignee :ohio-state-university,
+  :grant-year 1980,
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:monsanto],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US4201845/en",
+  :title "Cell culture reactor",
+  :status :granted,
+  :id "US4201845",
+  :sourcing :authoritative,
+  :filing-year 1978,
+  :assignee :monsanto,
+  :grant-year 1980,
+  :cites
+  ["US3342729"
+   "US3746175"
+   "US3821087"
+   "US3843454"
+   "US3883393"
+   "US3997396"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:leybold-heraeus],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US4204117/en",
+  :title "Sample analyzer",
+  :status :granted,
+  :id "US4204117",
+  :sourcing :authoritative,
+  :filing-year 1978,
+  :assignee :leybold-heraeus,
+  :grant-year 1980,
+  :cites ["US3782823" "US3972616" "US4018530"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:toyo-soda-manufacturing],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US4205134/en",
+  :title "Carrier for liquid chromatography",
+  :status :granted,
+  :id "US4205134",
+  :sourcing :authoritative,
+  :filing-year 1978,
+  :assignee :toyo-soda-manufacturing,
+  :grant-year 1980,
+  :cites ["US3645996" "US3970603" "US4038469" "US4128706"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:technion-research-and-development-foundation],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US4205952/en",
+  :title "Specific binding assay method and reagent means",
+  :status :granted,
+  :id "US4205952",
+  :sourcing :authoritative,
+  :filing-year 1977,
+  :assignee :technion-research-and-development-foundation,
+  :grant-year 1980,
+  :cites ["US3899298" "US3966556" "US4022876" "US4036823"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:gte-laboratories],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US4208242/en",
+  :title
+  "Method for color television picture tube aperture mask production employing PVA and removing the PVA by partial carmelizing and washing",
+  :status :granted,
+  :id "US4208242",
+  :sourcing :authoritative,
+  :filing-year 1978,
+  :assignee :gte-laboratories,
+  :grant-year 1980,
+  :cites
+  ["US3081203"
+   "US3175907"
+   "US3415648"
+   "US3672893"
+   "US3767490"
+   "US3770434"
+   "US3796603"
+   "US3980587"
+   "US4018627"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:radiochemical-centre],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US4208400/en",
+  :title "Assay of oestrogen",
+  :status :granted,
+  :id "US4208400",
+  :sourcing :authoritative,
+  :filing-year 1978,
+  :assignee :radiochemical-centre,
+  :grant-year 1980,
+  :cites ["US4081525"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:syva],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US4208479/en",
+  :title "Label modified immunoassays",
+  :status :granted,
+  :id "US4208479",
+  :sourcing :authoritative,
+  :filing-year 1977,
+  :assignee :syva,
+  :grant-year 1980,
+  :cites ["US3996345" "US3998943" "US4036946"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:bonnierforetagen],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US4211766/en",
+  :title "Cancer associated polypeptide antigen compositions",
+  :status :granted,
+  :id "US4211766",
+  :sourcing :authoritative,
+  :filing-year 1979,
+  :assignee :bonnierforetagen,
+  :grant-year 1980,
+  :term-years 20,
+  :open-license :none}
+ {:assignees
+  [:institut-national-de-la-sante-et-de-la-recherche-medicale-inserm],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US4217338/en",
+  :title
+  "Novel supports carrying side chains, processes for obtaining these supports, process for attaching organic compounds having carbohydrate residues on said supports, products and reagents resulting from said _chemical fixation",
+  :status :granted,
+  :id "US4217338",
+  :sourcing :authoritative,
+  :filing-year 1976,
+  :assignee
+  :institut-national-de-la-sante-et-de-la-recherche-medicale-inserm,
+  :grant-year 1980,
+  :cites
+  ["US3505785"
+   "US3519538"
+   "US3553310"
+   "US3853987"
+   "US3857931"
+   "US3947352"
+   "US3956113"
+   "US3970521"
+   "US4001583"
+   "US4081245"
+   "US4081246"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:rohm-and-haas],
   :jurisdiction :us,
   :field "UNKNOWN",
   :source "https://patents.google.com/patent/US4217421/en",
@@ -196,6 +416,35 @@
   :assignee :miles-laboratories,
   :grant-year 1980,
   :cites ["US3659104" "US3817837" "US3839153" "US3880934" "US3998943"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:pharmacia-diagnostics],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US4231999/en",
+  :title
+  "Method in assaying methods involving biospecific affinity reactions and reagent for use in said method",
+  :status :granted,
+  :id "US4231999",
+  :sourcing :authoritative,
+  :filing-year 1978,
+  :assignee :pharmacia-diagnostics,
+  :grant-year 1980,
+  :cites ["US3896217" "US4041146" "US4108975" "US4108976"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:pharmacia-diagnostics],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US4232119/en",
+  :title "Reagent for use in immunochemical assay methods",
+  :status :granted,
+  :id "US4232119",
+  :sourcing :authoritative,
+  :filing-year 1978,
+  :assignee :pharmacia-diagnostics,
+  :grant-year 1980,
+  :cites ["US4002532" "US4004979" "US4048416"],
   :term-years 20,
   :open-license :none}
  {:assignees [:research],
@@ -590,6 +839,20 @@
   :assignee :becton-dickinson-and,
   :grant-year 1981,
   :cites ["US3951748" "US4017597"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:meloy-laboratories],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US4257774/en",
+  :title
+  "Intercalation inhibition assay for compounds that interact with DNA or RNA",
+  :status :granted,
+  :id "US4257774",
+  :sourcing :authoritative,
+  :filing-year 1979,
+  :assignee :meloy-laboratories,
+  :grant-year 1981,
   :term-years 20,
   :open-license :none}
  {:assignees [:damon],
@@ -1284,6 +1547,20 @@
   :assignee :research,
   :grant-year 1982,
   :cites ["US4237224"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:minnesota-mining-and-manufacturing],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US4322495/en",
+  :title "Immunoassay",
+  :status :granted,
+  :id "US4322495",
+  :sourcing :authoritative,
+  :filing-year 1980,
+  :assignee :minnesota-mining-and-manufacturing,
+  :grant-year 1982,
+  :cites ["US3654090" "US3839153"],
   :term-years 20,
   :open-license :none}
  {:assignees [:kendrew-biosystems-a-of],
@@ -2201,6 +2478,21 @@
   :cites ["US4237224"],
   :term-years 20,
   :open-license :none}
+ {:assignees [:university-of-texas-system],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US4423153/en",
+  :title
+  "Methods and compositions for the detection and determination of cellular DNA",
+  :status :granted,
+  :id "US4423153",
+  :sourcing :authoritative,
+  :filing-year 1981,
+  :assignee :university-of-texas-system,
+  :grant-year 1983,
+  :cites ["US4302437" "US4345027"],
+  :term-years 20,
+  :open-license :none}
  {:assignees [:inmont],
   :jurisdiction :us,
   :field "UNKNOWN",
@@ -2735,6 +3027,27 @@
   :assignee :nippon-paint,
   :grant-year 1984,
   :cites ["US4055607" "US4221683" "US4226901" "US4291130" "US4297448"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:city-of-hope],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US4493899/en",
+  :title
+  "Method of testing for particular antibodies in the serum of a patient",
+  :status :granted,
+  :id "US4493899",
+  :sourcing :authoritative,
+  :filing-year 1981,
+  :assignee :city-of-hope,
+  :grant-year 1985,
+  :cites
+  ["US3992517"
+   "US4189464"
+   "US4234563"
+   "US4251514"
+   "US4267270"
+   "US4273756"],
   :term-years 20,
   :open-license :none}
  {:assignees [:abbott-laboratories],
