@@ -1,4 +1,168 @@
 [[":db/add"
+  "hirameki-patent:US2999417"
+  ":hirameki.patent/status"
+  ":granted"]
+ [":db/add"
+  "hirameki-patent:US2999417"
+  ":hirameki.patent/open-license"
+  ":none"]
+ [":db/add"
+  "hirameki-patent:US2999417"
+  ":hirameki.obs/release-status"
+  ":public-domain"]
+ [":db/add"
+  "hirameki-patent:US2999417"
+  ":hirameki/sourcing"
+  ":authoritative"]
+ [":db/add" "hirameki-patent:US2999417" ":hirameki/derived" true]
+ [":db/add"
+  "hirameki-patent:US2999417"
+  ":hirameki.obs/years-to-expiry"
+  -49]
+ [":db/add"
+  "hirameki-patent:US2999417"
+  ":hirameki/source"
+  "https://patents.google.com/patent/US2999417/en"]
+ [":db/add"
+  "hirameki-patent:US2999792"
+  ":hirameki.patent/title"
+  "Serologic test"]
+ [":db/add"
+  "hirameki-patent:US2999792"
+  ":hirameki.patent/jurisdiction"
+  ":us"]
+ [":db/add"
+  "hirameki-patent:US2999792"
+  ":hirameki.patent/field"
+  "UNKNOWN"]
+ [":db/add"
+  "hirameki-patent:US2999792"
+  ":hirameki.patent/assignee"
+  ":unassigned"]
+ [":db/add"
+  "hirameki-patent:US2999792"
+  ":hirameki.patent/status"
+  ":granted"]
+ [":db/add"
+  "hirameki-patent:US2999792"
+  ":hirameki.patent/open-license"
+  ":none"]
+ [":db/add"
+  "hirameki-patent:US2999792"
+  ":hirameki.obs/release-status"
+  ":public-domain"]
+ [":db/add"
+  "hirameki-patent:US2999792"
+  ":hirameki/sourcing"
+  ":authoritative"]
+ [":db/add" "hirameki-patent:US2999792" ":hirameki/derived" true]
+ [":db/add"
+  "hirameki-patent:US2999792"
+  ":hirameki.obs/years-to-expiry"
+  -48]
+ [":db/add"
+  "hirameki-patent:US2999792"
+  ":hirameki/source"
+  "https://patents.google.com/patent/US2999792/en"]
+ [":db/add"
+  "hirameki-patent:US3001348"
+  ":hirameki.patent/title"
+  "Apparatus for the continuous production of filled containers"]
+ [":db/add"
+  "hirameki-patent:US3001348"
+  ":hirameki.patent/jurisdiction"
+  ":us"]
+ [":db/add"
+  "hirameki-patent:US3001348"
+  ":hirameki.patent/field"
+  "UNKNOWN"]
+ [":db/add"
+  "hirameki-patent:US3001348"
+  ":hirameki.patent/assignee"
+  ":unassigned"]
+ [":db/add"
+  "hirameki-patent:US3001348"
+  ":hirameki.patent/status"
+  ":granted"]
+ [":db/add"
+  "hirameki-patent:US3001348"
+  ":hirameki.patent/open-license"
+  ":none"]
+ [":db/add"
+  "hirameki-patent:US3001348"
+  ":hirameki.obs/release-status"
+  ":public-domain"]
+ [":db/add"
+  "hirameki-patent:US3001348"
+  ":hirameki/sourcing"
+  ":authoritative"]
+ [":db/add" "hirameki-patent:US3001348" ":hirameki/derived" true]
+ [":db/add"
+  "hirameki-patent:US3001348"
+  ":hirameki.obs/years-to-expiry"
+  -49]
+ [":db/add"
+  "hirameki-patent:US3001348"
+  ":hirameki/source"
+  "https://patents.google.com/patent/US3001348/en"]
+ [":db/add"
+  "hirameki-patent:US3001539"
+  ":hirameki.patent/title"
+  "Suction amplifier"]
+ [":db/add"
+  "hirameki-patent:US3001539"
+  ":hirameki.patent/jurisdiction"
+  ":us"]
+ [":db/add"
+  "hirameki-patent:US3001539"
+  ":hirameki.patent/field"
+  "UNKNOWN"]
+ [":db/add"
+  "hirameki-patent:US3001539"
+  ":hirameki.patent/assignee"
+  ":unassigned"]
+ [":db/add"
+  "hirameki-patent:US3001539"
+  ":hirameki.patent/status"
+  ":granted"]
+ [":db/add"
+  "hirameki-patent:US3001539"
+  ":hirameki.patent/open-license"
+  ":none"]
+ [":db/add"
+  "hirameki-patent:US3001539"
+  ":hirameki.obs/release-status"
+  ":public-domain"]
+ [":db/add"
+  "hirameki-patent:US3001539"
+  ":hirameki/sourcing"
+  ":authoritative"]
+ [":db/add" "hirameki-patent:US3001539" ":hirameki/derived" true]
+ [":db/add"
+  "hirameki-patent:US3001539"
+  ":hirameki.obs/years-to-expiry"
+  -46]
+ [":db/add"
+  "hirameki-patent:US3001539"
+  ":hirameki/source"
+  "https://patents.google.com/patent/US3001539/en"]
+ [":db/add"
+  "hirameki-patent:US3001914"
+  ":hirameki.patent/title"
+  "Bacterial aerosol analyzer"]
+ [":db/add"
+  "hirameki-patent:US3001914"
+  ":hirameki.patent/jurisdiction"
+  ":us"]
+ [":db/add"
+  "hirameki-patent:US3001914"
+  ":hirameki.patent/field"
+  "UNKNOWN"]
+ [":db/add"
+  "hirameki-patent:US3001914"
+  ":hirameki.patent/assignee"
+  ":unassigned"]
+ [":db/add"
   "hirameki-patent:US3001914"
   ":hirameki.patent/status"
   ":granted"]
@@ -3124,6 +3288,47 @@
   ":hirameki/source"
   "https://patents.google.com/patent/US3076726/en"]
  [":db/add"
+  "hirameki-patent:US3078224"
+  ":hirameki.patent/title"
+  "Hydrosulfite and chlorine treatment of ion exchange material in an iron removal unit"]
+ [":db/add"
+  "hirameki-patent:US3078224"
+  ":hirameki.patent/jurisdiction"
+  ":us"]
+ [":db/add"
+  "hirameki-patent:US3078224"
+  ":hirameki.patent/field"
+  "UNKNOWN"]
+ [":db/add"
+  "hirameki-patent:US3078224"
+  ":hirameki.patent/assignee"
+  ":culligan"]
+ [":db/add"
+  "hirameki-patent:US3078224"
+  ":hirameki.patent/status"
+  ":granted"]
+ [":db/add"
+  "hirameki-patent:US3078224"
+  ":hirameki.patent/open-license"
+  ":none"]
+ [":db/add"
+  "hirameki-patent:US3078224"
+  ":hirameki.obs/release-status"
+  ":public-domain"]
+ [":db/add"
+  "hirameki-patent:US3078224"
+  ":hirameki/sourcing"
+  ":authoritative"]
+ [":db/add" "hirameki-patent:US3078224" ":hirameki/derived" true]
+ [":db/add"
+  "hirameki-patent:US3078224"
+  ":hirameki.obs/years-to-expiry"
+  -48]
+ [":db/add"
+  "hirameki-patent:US3078224"
+  ":hirameki/source"
+  "https://patents.google.com/patent/US3078224/en"]
+ [":db/add"
   "hirameki-patent:US3079379"
   ":hirameki.patent/title"
   "Method for the preparation of adenosine 5&#39;-triphosphate"]
@@ -5236,6 +5441,47 @@
   ":hirameki/source"
   "https://patents.google.com/patent/US3137666/en"]
  [":db/add"
+  "hirameki-patent:US3139401"
+  ":hirameki.patent/title"
+  "Method for removing rust from water softeners"]
+ [":db/add"
+  "hirameki-patent:US3139401"
+  ":hirameki.patent/jurisdiction"
+  ":us"]
+ [":db/add"
+  "hirameki-patent:US3139401"
+  ":hirameki.patent/field"
+  "UNKNOWN"]
+ [":db/add"
+  "hirameki-patent:US3139401"
+  ":hirameki.patent/assignee"
+  ":hach-chemical"]
+ [":db/add"
+  "hirameki-patent:US3139401"
+  ":hirameki.patent/status"
+  ":granted"]
+ [":db/add"
+  "hirameki-patent:US3139401"
+  ":hirameki.patent/open-license"
+  ":none"]
+ [":db/add"
+  "hirameki-patent:US3139401"
+  ":hirameki.obs/release-status"
+  ":public-domain"]
+ [":db/add"
+  "hirameki-patent:US3139401"
+  ":hirameki/sourcing"
+  ":authoritative"]
+ [":db/add" "hirameki-patent:US3139401" ":hirameki/derived" true]
+ [":db/add"
+  "hirameki-patent:US3139401"
+  ":hirameki.obs/years-to-expiry"
+  -44]
+ [":db/add"
+  "hirameki-patent:US3139401"
+  ":hirameki/source"
+  "https://patents.google.com/patent/US3139401/en"]
+ [":db/add"
   "hirameki-patent:US3140278"
   ":hirameki.patent/title"
   "Block homopolymers of 1, 3 dienes"]
@@ -5522,6 +5768,47 @@
   "hirameki-patent:US3146159"
   ":hirameki/source"
   "https://patents.google.com/patent/US3146159/en"]
+ [":db/add"
+  "hirameki-patent:US3146163"
+  ":hirameki.patent/title"
+  "Apparatus for separating certain components from blood"]
+ [":db/add"
+  "hirameki-patent:US3146163"
+  ":hirameki.patent/jurisdiction"
+  ":us"]
+ [":db/add"
+  "hirameki-patent:US3146163"
+  ":hirameki.patent/field"
+  "UNKNOWN"]
+ [":db/add"
+  "hirameki-patent:US3146163"
+  ":hirameki.patent/assignee"
+  ":unassigned"]
+ [":db/add"
+  "hirameki-patent:US3146163"
+  ":hirameki.patent/status"
+  ":granted"]
+ [":db/add"
+  "hirameki-patent:US3146163"
+  ":hirameki.patent/open-license"
+  ":none"]
+ [":db/add"
+  "hirameki-patent:US3146163"
+  ":hirameki.obs/release-status"
+  ":public-domain"]
+ [":db/add"
+  "hirameki-patent:US3146163"
+  ":hirameki/sourcing"
+  ":authoritative"]
+ [":db/add" "hirameki-patent:US3146163" ":hirameki/derived" true]
+ [":db/add"
+  "hirameki-patent:US3146163"
+  ":hirameki.obs/years-to-expiry"
+  -44]
+ [":db/add"
+  "hirameki-patent:US3146163"
+  ":hirameki/source"
+  "https://patents.google.com/patent/US3146163/en"]
  [":db/add"
   "hirameki-patent:US3148230"
   ":hirameki.patent/title"
@@ -8389,6 +8676,47 @@
   ":hirameki/source"
   "https://patents.google.com/patent/US3217727/en"]
  [":db/add"
+  "hirameki-patent:US3219318"
+  ":hirameki.patent/title"
+  "Fluid treating method and apparatus"]
+ [":db/add"
+  "hirameki-patent:US3219318"
+  ":hirameki.patent/jurisdiction"
+  ":us"]
+ [":db/add"
+  "hirameki-patent:US3219318"
+  ":hirameki.patent/field"
+  "UNKNOWN"]
+ [":db/add"
+  "hirameki-patent:US3219318"
+  ":hirameki.patent/assignee"
+  ":unassigned"]
+ [":db/add"
+  "hirameki-patent:US3219318"
+  ":hirameki.patent/status"
+  ":granted"]
+ [":db/add"
+  "hirameki-patent:US3219318"
+  ":hirameki.patent/open-license"
+  ":none"]
+ [":db/add"
+  "hirameki-patent:US3219318"
+  ":hirameki.obs/release-status"
+  ":public-domain"]
+ [":db/add"
+  "hirameki-patent:US3219318"
+  ":hirameki/sourcing"
+  ":authoritative"]
+ [":db/add" "hirameki-patent:US3219318" ":hirameki/derived" true]
+ [":db/add"
+  "hirameki-patent:US3219318"
+  ":hirameki.obs/years-to-expiry"
+  -45]
+ [":db/add"
+  "hirameki-patent:US3219318"
+  ":hirameki/source"
+  "https://patents.google.com/patent/US3219318/en"]
+ [":db/add"
   "hirameki-patent:US3219642"
   ":hirameki.patent/title"
   "Infraxred v viewing system"]
@@ -9973,328 +10301,4 @@
  [":db/add"
   "hirameki-patent:US3262787"
   ":hirameki/sourcing"
-  ":authoritative"]
- [":db/add" "hirameki-patent:US3262787" ":hirameki/derived" true]
- [":db/add"
-  "hirameki-patent:US3262787"
-  ":hirameki.obs/years-to-expiry"
-  -44]
- [":db/add"
-  "hirameki-patent:US3262787"
-  ":hirameki/source"
-  "https://patents.google.com/patent/US3262787/en"]
- [":db/add"
-  "hirameki-patent:US3262830"
-  ":hirameki.patent/title"
-  "Organosilicon molding compositions containing orthotitanate catalysts"]
- [":db/add"
-  "hirameki-patent:US3262830"
-  ":hirameki.patent/jurisdiction"
-  ":us"]
- [":db/add"
-  "hirameki-patent:US3262830"
-  ":hirameki.patent/field"
-  "UNKNOWN"]
- [":db/add"
-  "hirameki-patent:US3262830"
-  ":hirameki.patent/assignee"
-  ":dow-corning"]
- [":db/add"
-  "hirameki-patent:US3262830"
-  ":hirameki.patent/status"
-  ":granted"]
- [":db/add"
-  "hirameki-patent:US3262830"
-  ":hirameki.patent/open-license"
-  ":none"]
- [":db/add"
-  "hirameki-patent:US3262830"
-  ":hirameki.obs/release-status"
-  ":public-domain"]
- [":db/add"
-  "hirameki-patent:US3262830"
-  ":hirameki/sourcing"
-  ":authoritative"]
- [":db/add" "hirameki-patent:US3262830" ":hirameki/derived" true]
- [":db/add"
-  "hirameki-patent:US3262830"
-  ":hirameki.obs/years-to-expiry"
-  -45]
- [":db/add"
-  "hirameki-patent:US3262830"
-  ":hirameki/source"
-  "https://patents.google.com/patent/US3262830/en"]
- [":db/add"
-  "hirameki-patent:US3264272"
-  ":hirameki.patent/title"
-  "Ionic hydrocarbon polymers"]
- [":db/add"
-  "hirameki-patent:US3264272"
-  ":hirameki.patent/jurisdiction"
-  ":us"]
- [":db/add"
-  "hirameki-patent:US3264272"
-  ":hirameki.patent/field"
-  "UNKNOWN"]
- [":db/add"
-  "hirameki-patent:US3264272"
-  ":hirameki.patent/assignee"
-  ":ei-du-pont-de-nemours-and"]
- [":db/add"
-  "hirameki-patent:US3264272"
-  ":hirameki.patent/status"
-  ":granted"]
- [":db/add"
-  "hirameki-patent:US3264272"
-  ":hirameki.patent/open-license"
-  ":none"]
- [":db/add"
-  "hirameki-patent:US3264272"
-  ":hirameki.obs/release-status"
-  ":public-domain"]
- [":db/add"
-  "hirameki-patent:US3264272"
-  ":hirameki/sourcing"
-  ":authoritative"]
- [":db/add" "hirameki-patent:US3264272" ":hirameki/derived" true]
- [":db/add"
-  "hirameki-patent:US3264272"
-  ":hirameki.obs/years-to-expiry"
-  -43]
- [":db/add"
-  "hirameki-patent:US3264272"
-  ":hirameki/source"
-  "https://patents.google.com/patent/US3264272/en"]
- [":db/add"
-  "hirameki-patent:US3264474"
-  ":hirameki.patent/title"
-  "Phosphorimeter attachment for fluorometer"]
- [":db/add"
-  "hirameki-patent:US3264474"
-  ":hirameki.patent/jurisdiction"
-  ":us"]
- [":db/add"
-  "hirameki-patent:US3264474"
-  ":hirameki.patent/field"
-  "UNKNOWN"]
- [":db/add"
-  "hirameki-patent:US3264474"
-  ":hirameki.patent/assignee"
-  ":american-instr"]
- [":db/add"
-  "hirameki-patent:US3264474"
-  ":hirameki.patent/status"
-  ":granted"]
- [":db/add"
-  "hirameki-patent:US3264474"
-  ":hirameki.patent/open-license"
-  ":none"]
- [":db/add"
-  "hirameki-patent:US3264474"
-  ":hirameki.obs/release-status"
-  ":public-domain"]
- [":db/add"
-  "hirameki-patent:US3264474"
-  ":hirameki/sourcing"
-  ":authoritative"]
- [":db/add" "hirameki-patent:US3264474" ":hirameki/derived" true]
- [":db/add"
-  "hirameki-patent:US3264474"
-  ":hirameki.obs/years-to-expiry"
-  -43]
- [":db/add"
-  "hirameki-patent:US3264474"
-  ":hirameki/source"
-  "https://patents.google.com/patent/US3264474/en"]
- [":db/add"
-  "hirameki-patent:US3265497"
-  ":hirameki.patent/title"
-  "Electrophotographic material"]
- [":db/add"
-  "hirameki-patent:US3265497"
-  ":hirameki.patent/jurisdiction"
-  ":us"]
- [":db/add"
-  "hirameki-patent:US3265497"
-  ":hirameki.patent/field"
-  "UNKNOWN"]
- [":db/add"
-  "hirameki-patent:US3265497"
-  ":hirameki.patent/assignee"
-  ":renker-belipa-fa"]
- [":db/add"
-  "hirameki-patent:US3265497"
-  ":hirameki.patent/status"
-  ":granted"]
- [":db/add"
-  "hirameki-patent:US3265497"
-  ":hirameki.patent/open-license"
-  ":none"]
- [":db/add"
-  "hirameki-patent:US3265497"
-  ":hirameki.obs/release-status"
-  ":public-domain"]
- [":db/add"
-  "hirameki-patent:US3265497"
-  ":hirameki/sourcing"
-  ":authoritative"]
- [":db/add" "hirameki-patent:US3265497" ":hirameki/derived" true]
- [":db/add"
-  "hirameki-patent:US3265497"
-  ":hirameki.obs/years-to-expiry"
-  -44]
- [":db/add"
-  "hirameki-patent:US3265497"
-  ":hirameki/source"
-  "https://patents.google.com/patent/US3265497/en"]
- [":db/add"
-  "hirameki-patent:US3265765"
-  ":hirameki.patent/title"
-  "Block polymers of monovinyl aromatic hydrocarbons and conjugated dienes"]
- [":db/add"
-  "hirameki-patent:US3265765"
-  ":hirameki.patent/jurisdiction"
-  ":us"]
- [":db/add"
-  "hirameki-patent:US3265765"
-  ":hirameki.patent/field"
-  "UNKNOWN"]
- [":db/add"
-  "hirameki-patent:US3265765"
-  ":hirameki.patent/assignee"
-  ":shell-oil"]
- [":db/add"
-  "hirameki-patent:US3265765"
-  ":hirameki.patent/status"
-  ":granted"]
- [":db/add"
-  "hirameki-patent:US3265765"
-  ":hirameki.patent/open-license"
-  ":none"]
- [":db/add"
-  "hirameki-patent:US3265765"
-  ":hirameki.obs/release-status"
-  ":public-domain"]
- [":db/add"
-  "hirameki-patent:US3265765"
-  ":hirameki/sourcing"
-  ":authoritative"]
- [":db/add" "hirameki-patent:US3265765" ":hirameki/derived" true]
- [":db/add"
-  "hirameki-patent:US3265765"
-  ":hirameki.obs/years-to-expiry"
-  -44]
- [":db/add"
-  "hirameki-patent:US3265765"
-  ":hirameki/source"
-  "https://patents.google.com/patent/US3265765/en"]
- [":db/add"
-  "hirameki-patent:US3266298"
-  ":hirameki.patent/title"
-  "Means and method for the identification of samples for blood typing"]
- [":db/add"
-  "hirameki-patent:US3266298"
-  ":hirameki.patent/jurisdiction"
-  ":us"]
- [":db/add"
-  "hirameki-patent:US3266298"
-  ":hirameki.patent/field"
-  "UNKNOWN"]
- [":db/add"
-  "hirameki-patent:US3266298"
-  ":hirameki.patent/assignee"
-  ":technicon-instruments"]
- [":db/add"
-  "hirameki-patent:US3266298"
-  ":hirameki.patent/status"
-  ":granted"]
- [":db/add"
-  "hirameki-patent:US3266298"
-  ":hirameki.patent/open-license"
-  ":none"]
- [":db/add"
-  "hirameki-patent:US3266298"
-  ":hirameki.obs/release-status"
-  ":public-domain"]
- [":db/add"
-  "hirameki-patent:US3266298"
-  ":hirameki/sourcing"
-  ":authoritative"]
- [":db/add" "hirameki-patent:US3266298" ":hirameki/derived" true]
- [":db/add"
-  "hirameki-patent:US3266298"
-  ":hirameki.obs/years-to-expiry"
-  -43]
- [":db/add"
-  "hirameki-patent:US3266298"
-  ":hirameki/source"
-  "https://patents.google.com/patent/US3266298/en"]
- [":db/add"
-  "hirameki-patent:US3269419"
-  ":hirameki.patent/title"
-  "Fluid amplifiers"]
- [":db/add"
-  "hirameki-patent:US3269419"
-  ":hirameki.patent/jurisdiction"
-  ":us"]
- [":db/add"
-  "hirameki-patent:US3269419"
-  ":hirameki.patent/field"
-  "UNKNOWN"]
- [":db/add"
-  "hirameki-patent:US3269419"
-  ":hirameki.patent/assignee"
-  ":general-electric"]
- [":db/add"
-  "hirameki-patent:US3269419"
-  ":hirameki.patent/status"
-  ":granted"]
- [":db/add"
-  "hirameki-patent:US3269419"
-  ":hirameki.patent/open-license"
-  ":none"]
- [":db/add"
-  "hirameki-patent:US3269419"
-  ":hirameki.obs/release-status"
-  ":public-domain"]
- [":db/add"
-  "hirameki-patent:US3269419"
-  ":hirameki/sourcing"
-  ":authoritative"]
- [":db/add" "hirameki-patent:US3269419" ":hirameki/derived" true]
- [":db/add"
-  "hirameki-patent:US3269419"
-  ":hirameki.obs/years-to-expiry"
-  -43]
- [":db/add"
-  "hirameki-patent:US3269419"
-  ":hirameki/source"
-  "https://patents.google.com/patent/US3269419/en"]
- [":db/add"
-  "hirameki-patent:US3269911"
-  ":hirameki.patent/title"
-  "Restoration of blood to biochemical normalcy by treatment with ion exchange resins"]
- [":db/add"
-  "hirameki-patent:US3269911"
-  ":hirameki.patent/jurisdiction"
-  ":us"]
- [":db/add"
-  "hirameki-patent:US3269911"
-  ":hirameki.patent/field"
-  "UNKNOWN"]
- [":db/add"
-  "hirameki-patent:US3269911"
-  ":hirameki.patent/assignee"
-  ":rohm-and-haas"]
- [":db/add"
-  "hirameki-patent:US3269911"
-  ":hirameki.patent/status"
-  ":granted"]
- [":db/add"
-  "hirameki-patent:US3269911"
-  ":hirameki.patent/open-license"
-  ":none"]
- [":db/add"
-  "hirameki-patent:US3269911"
-  ":hirameki.obs/release-status"
-  ":public-domain"]]
+  ":authoritative"]]

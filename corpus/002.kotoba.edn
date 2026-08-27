@@ -1,4 +1,59 @@
-[{:assignees [:ozalid],
+[{:assignees [:fmc],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2990388/en",
+  :title "Allylic resin composition and process",
+  :status :granted,
+  :id "US2990388",
+  :sourcing :authoritative,
+  :filing-year 1959,
+  :assignee :fmc,
+  :grant-year 1961,
+  :cites ["US2377095" "US2462331" "US2832758"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:union-carbide],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2991412/en",
+  :title "Oxygen analyzer",
+  :status :granted,
+  :id "US2991412",
+  :sourcing :authoritative,
+  :filing-year 1958,
+  :assignee :union-carbide,
+  :grant-year 1961,
+  :cites
+  ["US1578666"
+   "US2097077"
+   "US2401287"
+   "US2540674"
+   "US2662211"
+   "US2759038"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:diamond-alkali],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2996426/en",
+  :title "Pesticidal composition",
+  :status :granted,
+  :id "US2996426",
+  :sourcing :authoritative,
+  :filing-year 1958,
+  :assignee :diamond-alkali,
+  :grant-year 1961,
+  :cites
+  ["US2423457"
+   "US2444154"
+   "US2760900"
+   "US2786012"
+   "US2809147"
+   "US2819198"
+   "US2821500"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:ozalid],
   :jurisdiction :us,
   :field "UNKNOWN",
   :source "https://patents.google.com/patent/US2997387/en",
@@ -69,6 +124,19 @@
    "US2677987"
    "US2682801"
    "US2797149"],
+  :term-years 20,
+  :open-license :none}
+ {:jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2999792/en",
+  :title "Serologic test",
+  :status :granted,
+  :id "US2999792",
+  :sourcing :authoritative,
+  :filing-year 1958,
+  :assignee :unassigned,
+  :grant-year 1961,
+  :cites ["US2669559"],
   :term-years 20,
   :open-license :none}
  {:jurisdiction :us,
@@ -1493,6 +1561,31 @@
   :cites ["US2732318"],
   :term-years 20,
   :open-license :none}
+ {:assignees [:culligan],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3078224/en",
+  :title
+  "Hydrosulfite and chlorine treatment of ion exchange material in an iron removal unit",
+  :status :granted,
+  :id "US3078224",
+  :sourcing :authoritative,
+  :filing-year 1958,
+  :assignee :culligan,
+  :grant-year 1963,
+  :cites
+  ["US1914333"
+   "US1966279"
+   "US2351160"
+   "US2510855"
+   "US2554163"
+   "US2571271"
+   "US2572082"
+   "US2666741"
+   "US2681147"
+   "US2684942"],
+  :term-years 20,
+  :open-license :none}
  {:assignees [:takeda-pharmaceutical],
   :jurisdiction :us,
   :field "UNKNOWN",
@@ -2410,6 +2503,20 @@
    "US2892808"],
   :term-years 20,
   :open-license :none}
+ {:assignees [:hach-chemical],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3139401/en",
+  :title "Method for removing rust from water softeners",
+  :status :granted,
+  :id "US3139401",
+  :sourcing :authoritative,
+  :filing-year 1962,
+  :assignee :hach-chemical,
+  :grant-year 1964,
+  :cites ["CA629715A" "US136770"],
+  :term-years 20,
+  :open-license :none}
  {:assignees [:exxon-research-and-engineering],
   :jurisdiction :us,
   :field "UNKNOWN",
@@ -2529,6 +2636,19 @@
    "US2772604"
    "US2870738"
    "US2888902"],
+  :term-years 20,
+  :open-license :none}
+ {:jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3146163/en",
+  :title "Apparatus for separating certain components from blood",
+  :status :granted,
+  :id "US3146163",
+  :sourcing :authoritative,
+  :filing-year 1962,
+  :assignee :unassigned,
+  :grant-year 1964,
+  :cites ["FR989480A" "US2561339"],
   :term-years 20,
   :open-license :none}
  {:assignees [:north-american-refractories],
@@ -3695,6 +3815,19 @@
   :assignee :unassigned,
   :grant-year 1965,
   :cites ["US3001539" "US3144309" "US3153934"],
+  :term-years 20,
+  :open-license :none}
+ {:jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3219318/en",
+  :title "Fluid treating method and apparatus",
+  :status :granted,
+  :id "US3219318",
+  :sourcing :authoritative,
+  :filing-year 1961,
+  :assignee :unassigned,
+  :grant-year 1965,
+  :cites ["US2641452" "US2773747" "US2806533"],
   :term-years 20,
   :open-license :none}
  {:jurisdiction :us,
@@ -5701,6 +5834,20 @@
   :cites ["US2803406" "US2817265" "US3061672"],
   :term-years 20,
   :open-license :none}
+ {:assignees [:general-electric],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3351203/en",
+  :title "Separation apparatus and method for its operation",
+  :status :granted,
+  :id "US3351203",
+  :sourcing :authoritative,
+  :filing-year 1965,
+  :assignee :general-electric,
+  :grant-year 1967,
+  :cites ["US1872759" "US2398725" "US2937752" "US2973096"],
+  :term-years 20,
+  :open-license :none}
  {:assignees [:california-texas-oil],
   :jurisdiction :us,
   :field "UNKNOWN",
@@ -6156,6 +6303,21 @@
   :cites ["US2223240" "US2555380" "US2970736"],
   :term-years 20,
   :open-license :none}
+ {:assignees [:warner-lambert-pharmaceutical],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3395210/en",
+  :title
+  "Lyophilized diagnostic reagent for the determination of blood coagulation factors",
+  :status :granted,
+  :id "US3395210",
+  :sourcing :authoritative,
+  :filing-year 1964,
+  :assignee :warner-lambert-pharmaceutical,
+  :grant-year 1968,
+  :cites ["US3179567"],
+  :term-years 20,
+  :open-license :none}
  {:assignees [:robert-r-berueffy],
   :jurisdiction :us,
   :field "UNKNOWN",
@@ -6551,6 +6713,27 @@
   :assignee :docutel,
   :grant-year 1969,
   :cites ["US2896763" "US2922893" "US2950799" "US3072237"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:universal-oil-products],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3428179/en",
+  :title "In-line magnetic particle collector",
+  :status :granted,
+  :id "US3428179",
+  :sourcing :authoritative,
+  :filing-year 1965,
+  :assignee :universal-oil-products,
+  :grant-year 1969,
+  :cites
+  ["DE1128821B"
+   "SU151749A1"
+   "US2688403"
+   "US2717080"
+   "US2759606"
+   "US3121683"
+   "US453317"],
   :term-years 20,
   :open-license :none}
  {:assignees [:james-e-meinhard],
@@ -7287,6 +7470,21 @@
    "US3133825"],
   :term-years 20,
   :open-license :none}
+ {:assignees [:us-philips],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3487939/en",
+  :title
+  "Apparatus for separating ferromagnetic material from a liquid",
+  :status :granted,
+  :id "US3487939",
+  :sourcing :authoritative,
+  :filing-year 1967,
+  :assignee :us-philips,
+  :grant-year 1970,
+  :cites ["US2854137" "US3357559"],
+  :term-years 20,
+  :open-license :none}
  {:assignees [:billingsfors-langed],
   :jurisdiction :us,
   :field "UNKNOWN",
@@ -7314,6 +7512,20 @@
   :filing-year 1966,
   :assignee :harvest-queen-mill-and-elevator,
   :grant-year 1970,
+  :term-years 20,
+  :open-license :none}
+ {:jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3492096/en",
+  :title
+  "Apparatus for and method of detecting the coagulation of whole blood",
+  :status :granted,
+  :id "US3492096",
+  :sourcing :authoritative,
+  :filing-year 1967,
+  :assignee :unassigned,
+  :grant-year 1970,
+  :cites ["US2616796"],
   :term-years 20,
   :open-license :none}
  {:assignees [:becton-dickinson-and],
@@ -8154,6 +8366,21 @@
    "US3334039"
    "US3367849"
    "US3479255"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:siemens],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3539509/en",
+  :title
+  "Method for electromagnetic removal of iron-oxides from liquids",
+  :status :granted,
+  :id "US3539509",
+  :sourcing :authoritative,
+  :filing-year 1968,
+  :assignee :siemens,
+  :grant-year 1970,
+  :cites ["US2385431" "US2398725" "US2559784" "US2943739"],
   :term-years 20,
   :open-license :none}
  {:assignees [:international-business-machines],
@@ -9224,215 +9451,5 @@
   :assignee :sybron,
   :grant-year 1971,
   :cites ["US2694702" "US2951100" "US2960480" "US3294850" "US3311602"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:boehringer-mannheim],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3627698/en",
-  :title
-  "Hydroperoxide diagnostic agents containing a chromogen indicator",
-  :status :granted,
-  :id "US3627698",
-  :sourcing :authoritative,
-  :filing-year 1970,
-  :assignee :boehringer-mannheim,
-  :grant-year 1971,
-  :cites ["US3183173"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:dow-corning],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3628996/en",
-  :title "Polydimethylsiloxane release agent",
-  :status :granted,
-  :id "US3628996",
-  :sourcing :authoritative,
-  :filing-year 1969,
-  :assignee :dow-corning,
-  :grant-year 1971,
-  :cites ["US2985545" "US2985546" "US3046160" "US3061567" "US3070566"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:dow-chemical],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3629367/en",
-  :title "Fire-resistant polyester compositions",
-  :status :granted,
-  :id "US3629367",
-  :sourcing :authoritative,
-  :filing-year 1969,
-  :assignee :dow-chemical,
-  :grant-year 1971,
-  :term-years 20,
-  :open-license :none}
- {:jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3631436/en",
-  :title "Gas-detecting device",
-  :status :granted,
-  :id "US3631436",
-  :sourcing :authoritative,
-  :filing-year 1970,
-  :assignee :unassigned,
-  :grant-year 1971,
-  :cites ["GB754087A" "US2533339" "US2666105" "US3479257"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:miles-laboratories],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3635681/en",
-  :title "Differential conductivity-measuring apparatus",
-  :status :granted,
-  :id "US3635681",
-  :sourcing :authoritative,
-  :filing-year 1969,
-  :assignee :miles-laboratories,
-  :grant-year 1972,
-  :cites ["GB1054626A" "US1951035"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:eastman-kodak],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3635853/en",
-  :title
-  "A copolymer latex of polyvinyl acetate and an alkyl ester of an unsaturated carboxylic acid",
-  :status :granted,
-  :id "US3635853",
-  :sourcing :authoritative,
-  :filing-year 1969,
-  :assignee :eastman-kodak,
-  :grant-year 1972,
-  :term-years 20,
-  :open-license :none}
- {:assignees [:teeg-research],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3637380/en",
-  :title
-  "Methods for electrochemically making metallic patterns by means of radiation-sensitive elements",
-  :status :granted,
-  :id "US3637380",
-  :sourcing :authoritative,
-  :filing-year 1969,
-  :assignee :teeg-research,
-  :grant-year 1972,
-  :cites
-  ["US3122463"
-   "US3271180"
-   "US3346384"
-   "US3377169"
-   "US3386823"
-   "US3440046"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:nippon-kayaku :osaka-seika-kogyo],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3637672/en",
-  :title "Azole compounds",
-  :status :granted,
-  :id "US3637672",
-  :sourcing :authoritative,
-  :filing-year 1968,
-  :assignee :nippon-kayaku,
-  :grant-year 1972,
-  :term-years 20,
-  :open-license :none}
- {:assignees [:shell-oil],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3639163/en",
-  :title "Block polymer insulation for electric conductors",
-  :status :granted,
-  :id "US3639163",
-  :sourcing :authoritative,
-  :filing-year 1969,
-  :assignee :shell-oil,
-  :grant-year 1972,
-  :cites
-  ["US2458600"
-   "US2761854"
-   "US2813809"
-   "US3030237"
-   "US3251905"
-   "US3333024"
-   "US3401213"
-   "US3427264"
-   "US3433855"
-   "US3441530"
-   "US3476530"
-   "US3493369"
-   "US3515528"],
-  :term-years 20,
-  :open-license :none}
- {:jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3639558/en",
-  :title
-  "Immunological reagent particles having proteinaceous materials covalently bonded thereto",
-  :status :granted,
-  :id "US3639558",
-  :sourcing :authoritative,
-  :filing-year 1968,
-  :assignee :unassigned,
-  :grant-year 1972,
-  :term-years 20,
-  :open-license :none}
- {:jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3639559/en",
-  :title
-  "Method of isolating antigens and/or antibodies from protein mixtur",
-  :status :granted,
-  :id "US3639559",
-  :sourcing :authoritative,
-  :filing-year 1968,
-  :assignee :unassigned,
-  :grant-year 1972,
-  :term-years 20,
-  :open-license :none}
- {:assignees [:pfizer],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3640896/en",
-  :title "Process for stabilizing fowl red blood cells",
-  :status :granted,
-  :id "US3640896",
-  :sourcing :authoritative,
-  :filing-year 1970,
-  :assignee :pfizer,
-  :grant-year 1972,
-  :term-years 20,
-  :open-license :none}
- {:assignees [:stauffer-chemical],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3641202/en",
-  :title
-  "Unsaturated polyester compositions containing vinyl polyphosphonat compounds",
-  :status :granted,
-  :id "US3641202",
-  :sourcing :authoritative,
-  :filing-year 1969,
-  :assignee :stauffer-chemical,
-  :grant-year 1972,
-  :term-years 20,
-  :open-license :none}
- {:assignees [:us-atomic-energy-commission-aec],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3641454/en",
-  :title "Electron beam-pumped gas laser system",
-  :status :granted,
-  :id "US3641454",
-  :sourcing :authoritative,
-  :filing-year 1970,
-  :assignee :us-atomic-energy-commission-aec,
-  :grant-year 1972,
   :term-years 20,
   :open-license :none}]

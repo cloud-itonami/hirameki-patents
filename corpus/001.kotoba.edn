@@ -1,4 +1,30 @@
-[{:assignees [:barrett],
+[{:assignees [:standard-oil-development],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2224538/en",
+  :title "Method and apparatus for gravelpacking wells",
+  :status :granted,
+  :id "US2224538",
+  :sourcing :authoritative,
+  :filing-year 1939,
+  :assignee :standard-oil-development,
+  :grant-year 1940,
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:celanese],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2224922/en",
+  :title "Handling of continuous filaments",
+  :status :granted,
+  :id "US2224922",
+  :sourcing :authoritative,
+  :filing-year 1938,
+  :assignee :celanese,
+  :grant-year 1940,
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:barrett],
   :jurisdiction :us,
   :field "UNKNOWN",
   :source "https://patents.google.com/patent/US2224992/en",
@@ -5002,6 +5028,27 @@
    "US2560572"],
   :term-years 20,
   :open-license :none}
+ {:jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2678729/en",
+  :title "Automatically operative magnetic separator",
+  :status :granted,
+  :id "US2678729",
+  :sourcing :authoritative,
+  :filing-year 1951,
+  :assignee :unassigned,
+  :grant-year 1954,
+  :cites
+  ["GB194107A"
+   "US1136215"
+   "US1148990"
+   "US1527070"
+   "US2149764"
+   "US2466839"
+   "US467645"
+   "US792776"],
+  :term-years 20,
+  :open-license :none}
  {:assignees [:john-waldron],
   :jurisdiction :us,
   :field "UNKNOWN",
@@ -9851,60 +9898,5 @@
   :assignee :ei-du-pont-de-nemours-and,
   :grant-year 1961,
   :cites ["US2117321" "US2292393" "US2860110" "US2907722"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:fmc],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US2990388/en",
-  :title "Allylic resin composition and process",
-  :status :granted,
-  :id "US2990388",
-  :sourcing :authoritative,
-  :filing-year 1959,
-  :assignee :fmc,
-  :grant-year 1961,
-  :cites ["US2377095" "US2462331" "US2832758"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:union-carbide],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US2991412/en",
-  :title "Oxygen analyzer",
-  :status :granted,
-  :id "US2991412",
-  :sourcing :authoritative,
-  :filing-year 1958,
-  :assignee :union-carbide,
-  :grant-year 1961,
-  :cites
-  ["US1578666"
-   "US2097077"
-   "US2401287"
-   "US2540674"
-   "US2662211"
-   "US2759038"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:diamond-alkali],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US2996426/en",
-  :title "Pesticidal composition",
-  :status :granted,
-  :id "US2996426",
-  :sourcing :authoritative,
-  :filing-year 1958,
-  :assignee :diamond-alkali,
-  :grant-year 1961,
-  :cites
-  ["US2423457"
-   "US2444154"
-   "US2760900"
-   "US2786012"
-   "US2809147"
-   "US2819198"
-   "US2821500"],
   :term-years 20,
   :open-license :none}]
