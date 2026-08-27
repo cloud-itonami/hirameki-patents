@@ -1,4 +1,298 @@
-[{:assignees [:jdja-services],
+[{:assignees [:medical-college-of-wisconsin],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US4235960/en",
+  :title "Competitive enzyme-linked immunoassay",
+  :status :granted,
+  :id "US4235960",
+  :sourcing :authoritative,
+  :filing-year 1977,
+  :assignee :medical-college-of-wisconsin,
+  :grant-year 1980,
+  :cites
+  ["US3773625"
+   "US3879262"
+   "US4002532"
+   "US4021534"
+   "US4024235"
+   "US4034074"
+   "US4048298"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:dynatech-laboratories],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US4235971/en",
+  :title "Inoculator",
+  :status :granted,
+  :id "US4235971",
+  :sourcing :authoritative,
+  :filing-year 1978,
+  :assignee :dynatech-laboratories,
+  :grant-year 1980,
+  :cites
+  ["US3356462"
+   "US3436171"
+   "US3455788"
+   "US3536449"
+   "US3650360"
+   "US3728227"
+   "US3772154"
+   "US3912596"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:minnesota-mining-and-manufacturing],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US4236893/en",
+  :title
+  "Method for the assay of classes of antigen-specific antibodies",
+  :status :granted,
+  :id "US4236893",
+  :sourcing :authoritative,
+  :filing-year 1979,
+  :assignee :minnesota-mining-and-manufacturing,
+  :grant-year 1980,
+  :cites ["US3720760" "US3966898" "US4092114"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:merck-patent],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US4237223/en",
+  :title "Sheet for picking off microorganisms",
+  :status :granted,
+  :id "US4237223",
+  :sourcing :authoritative,
+  :filing-year 1979,
+  :assignee :merck-patent,
+  :grant-year 1980,
+  :cites
+  ["US1901094"
+   "US2904474"
+   "US2985554"
+   "US3085572"
+   "US3661718"
+   "US3751341"
+   "US3819467"
+   "US3846248"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:leland-stanford-junior-university],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US4237224/en",
+  :title
+  "Process for producing biologically functional molecular chimeras",
+  :status :granted,
+  :id "US4237224",
+  :sourcing :authoritative,
+  :filing-year 1979,
+  :assignee :leland-stanford-junior-university,
+  :grant-year 1980,
+  :cites ["US3813316"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:miles-laboratories],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US4238565/en",
+  :title
+  "Specific binding assay with a prosthetic group as a label component",
+  :status :granted,
+  :id "US4238565",
+  :sourcing :authoritative,
+  :filing-year 1979,
+  :assignee :miles-laboratories,
+  :grant-year 1980,
+  :cites ["US3879262" "US4040907" "US4134792"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:general-electric],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US4238757/en",
+  :title
+  "Field effect transistor for detection of biological reactions",
+  :status :granted,
+  :id "US4238757",
+  :sourcing :authoritative,
+  :filing-year 1976,
+  :assignee :general-electric,
+  :grant-year 1980,
+  :cites ["US3831432" "US3853467"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:behringwerke],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US4239743/en",
+  :title
+  "Carrier-bound immunoglobulin fission product and its use in immunologic analyses",
+  :status :granted,
+  :id "US4239743",
+  :sourcing :authoritative,
+  :filing-year 1978,
+  :assignee :behringwerke,
+  :grant-year 1980,
+  :cites ["US3966898" "US4138213" "US4143124"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:fuji-photo-film],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US4239968/en",
+  :title
+  "Method and apparatus for recording and reproducing a radiation image",
+  :status :granted,
+  :id "US4239968",
+  :sourcing :authoritative,
+  :filing-year 1979,
+  :assignee :fuji-photo-film,
+  :grant-year 1980,
+  :cites ["US3188467" "US3207896" "US3453436" "US3859527" "US3975637"],
+  :term-years 20,
+  :open-license :none}
+ {:jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US4240163/en",
+  :title "Medicament coated intraocular lens",
+  :status :granted,
+  :id "US4240163",
+  :sourcing :authoritative,
+  :filing-year 1979,
+  :assignee :unassigned,
+  :grant-year 1980,
+  :cites ["US3511684" "US3766167" "US4100309" "US4170043"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:toyobo],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US4240889/en",
+  :title "Enzyme electrode provided with immobilized enzyme membrane",
+  :status :granted,
+  :id "US4240889",
+  :sourcing :authoritative,
+  :filing-year 1979,
+  :assignee :toyobo,
+  :grant-year 1980,
+  :cites
+  ["GB1442303A" "US3539455" "US3542662" "US3979274" "US4073713"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:merck-and],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US4241175/en",
+  :title "Assay for hepatitis B core antibody",
+  :status :granted,
+  :id "US4241175",
+  :sourcing :authoritative,
+  :filing-year 1978,
+  :assignee :merck-and,
+  :grant-year 1980,
+  :cites
+  ["US3551555"
+   "US3654090"
+   "US3995019"
+   "US4100267"
+   "US4102996"
+   "US4148869"
+   "US4157280"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:dai-nippon-toryo],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US4243565/en",
+  :title "Aqueous dispersion type coating composition",
+  :status :granted,
+  :id "US4243565",
+  :sourcing :authoritative,
+  :filing-year 1979,
+  :assignee :dai-nippon-toryo,
+  :grant-year 1981,
+  :cites
+  ["US2904523"
+   "US2994676"
+   "US3025252"
+   "US3244542"
+   "US3300428"
+   "US3839254"
+   "US3926874"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:ei-du-pont-de-nemours-and],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US4247439/en",
+  :title
+  "Water-borne coating composition made from epoxy resin, polymeric acid and tertiary amine",
+  :status :granted,
+  :id "US4247439",
+  :sourcing :authoritative,
+  :filing-year 1979,
+  :assignee :ei-du-pont-de-nemours-and,
+  :grant-year 1981,
+  :cites
+  ["BE804928A"
+   "CA732653A"
+   "GB921622A"
+   "US2676166"
+   "US2895930"
+   "US2991260"
+   "US3331805"
+   "US3338860"
+   "US3403088"
+   "US3419525"
+   "US3468816"
+   "US3845066"
+   "US3908049"
+   "US3943187"
+   "US3962165"
+   "US3969300"
+   "US3997694"
+   "US4021396"
+   "US4069210"
+   "US4126596"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:honeywell],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US4250376/en",
+  :title "Apparatus for range finding equipment",
+  :status :granted,
+  :id "US4250376",
+  :sourcing :authoritative,
+  :filing-year 1979,
+  :assignee :honeywell,
+  :grant-year 1981,
+  :cites ["US4002899" "US4083056" "US4132888" "US4189232"],
+  :term-years 20,
+  :open-license :none}
+ {:jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US4251360/en",
+  :title
+  "Method and apparatus for the detection of a specific binding protein",
+  :status :granted,
+  :id "US4251360",
+  :sourcing :authoritative,
+  :filing-year 1979,
+  :assignee :unassigned,
+  :grant-year 1981,
+  :cites
+  ["US3203865"
+   "US3268441"
+   "US3901654"
+   "US3919075"
+   "US4088746"
+   "US4089778"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:jdja-services],
   :jurisdiction :us,
   :field "UNKNOWN",
   :source "https://patents.google.com/patent/US4252897/en",
@@ -53,6 +347,35 @@
   :assignee :honeywell,
   :grant-year 1981,
   :cites ["US4002899" "US4078172"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:becton-dickinson-and],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US4256725/en",
+  :title
+  "Preparation of solid substrate containing receptor and labeled form of ligand for assays",
+  :status :granted,
+  :id "US4256725",
+  :sourcing :authoritative,
+  :filing-year 1978,
+  :assignee :becton-dickinson-and,
+  :grant-year 1981,
+  :cites ["US3951748" "US4017597"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:damon],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US4257884/en",
+  :title "Chromatography",
+  :status :granted,
+  :id "US4257884",
+  :sourcing :authoritative,
+  :filing-year 1979,
+  :assignee :damon,
+  :grant-year 1981,
+  :cites ["US3471261" "US3859228" "US3947352" "US3985840" "US4143201"],
   :term-years 20,
   :open-license :none}
  {:jurisdiction :us,
@@ -378,6 +701,21 @@
   :filing-year 1978,
   :assignee :unassigned,
   :grant-year 1981,
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:abbott-laboratories],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US4298593/en",
+  :title
+  "Reagents and methods utilizing labeled Fab bound to antigens",
+  :status :granted,
+  :id "US4298593",
+  :sourcing :authoritative,
+  :filing-year 1979,
+  :assignee :abbott-laboratories,
+  :grant-year 1981,
+  :cites ["US4166106" "US4193982"],
   :term-years 20,
   :open-license :none}
  {:assignees [:burroughs-wellcome-usa],
