@@ -1,4 +1,82 @@
-[{:jurisdiction :us,
+[{:assignees [:ellis-foster],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2176837/en",
+  :title "Fiber-glass-containing plastic",
+  :status :granted,
+  :id "US2176837",
+  :sourcing :authoritative,
+  :filing-year 1936,
+  :assignee :ellis-foster,
+  :grant-year 1939,
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:warren-sd],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2177580/en",
+  :title "Process of coating paper",
+  :status :granted,
+  :id "US2177580",
+  :sourcing :authoritative,
+  :filing-year 1937,
+  :assignee :warren-sd,
+  :grant-year 1939,
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:ig-farbenindustrie],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2178523/en",
+  :title
+  "Production of high molecular hydroxylated condensation products from crotonaldehyde",
+  :status :granted,
+  :id "US2178523",
+  :sourcing :authoritative,
+  :filing-year 1937,
+  :assignee :ig-farbenindustrie,
+  :grant-year 1939,
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:ei-du-pont-de-nemours-and],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2181771/en",
+  :title "Method of polymerization of styrene",
+  :status :granted,
+  :id "US2181771",
+  :sourcing :authoritative,
+  :filing-year 1938,
+  :assignee :ei-du-pont-de-nemours-and,
+  :grant-year 1939,
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:john-r-beddingfield],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2192945/en",
+  :title "Oil well bottom release valve",
+  :status :granted,
+  :id "US2192945",
+  :sourcing :authoritative,
+  :filing-year 1938,
+  :assignee :john-r-beddingfield,
+  :grant-year 1940,
+  :term-years 20,
+  :open-license :none}
+ {:jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2193437/en",
+  :title "Colorimeter",
+  :status :granted,
+  :id "US2193437",
+  :sourcing :authoritative,
+  :filing-year 1938,
+  :assignee :unassigned,
+  :grant-year 1940,
+  :term-years 20,
+  :open-license :none}
+ {:jurisdiction :us,
   :field "UNKNOWN",
   :source "https://patents.google.com/patent/US2197190/en",
   :title "Constant temperature bath",
@@ -9795,103 +9873,5 @@
    "US2665616"
    "US2808192"
    "US2829701"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:rca],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US2971117/en",
-  :title "Color-kinescopes, etc.",
-  :status :granted,
-  :id "US2971117",
-  :sourcing :authoritative,
-  :filing-year 1956,
-  :assignee :rca,
-  :grant-year 1961,
-  :cites
-  ["US2219117"
-   "US2227087"
-   "US2240186"
-   "US2444221"
-   "US2580250"
-   "US2584814"
-   "US2590764"
-   "US2734146"
-   "US2741720"
-   "US2754449"
-   "US2777084"
-   "US2889483"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:american-instr],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US2971429/en",
-  :title "Spectro-fluorescence measuring instrument",
-  :status :granted,
-  :id "US2971429",
-  :sourcing :authoritative,
-  :filing-year 1957,
-  :assignee :american-instr,
-  :grant-year 1961,
-  :cites
-  ["US2339053"
-   "US2411741"
-   "US2444560"
-   "US2602368"
-   "US2635192"
-   "US2723589"
-   "US2758502"
-   "US2835167"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:allen-industries],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US2971857/en",
-  :title "Embossed rug cushion and method of producing the same",
-  :status :granted,
-  :id "US2971857",
-  :sourcing :authoritative,
-  :filing-year 1959,
-  :assignee :allen-industries,
-  :grant-year 1961,
-  :term-years 20,
-  :open-license :none}
- {:assignees [:eastman-kodak],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US2972607/en",
-  :title
-  "Four-component mixed metal-halogen catalysts for olefin polymerization",
-  :status :granted,
-  :id "US2972607",
-  :sourcing :authoritative,
-  :filing-year 1958,
-  :assignee :eastman-kodak,
-  :grant-year 1961,
-  :cites ["FR1132506A" "US2832759" "US2846427" "US2905645"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:phillips-petroleum],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US2974227/en",
-  :title "Analyzer",
-  :status :granted,
-  :id "US2974227",
-  :sourcing :authoritative,
-  :filing-year 1958,
-  :assignee :phillips-petroleum,
-  :grant-year 1961,
-  :cites
-  ["DE927431C"
-   "US1740673"
-   "US2417321"
-   "US2617940"
-   "US2654845"
-   "US2694335"
-   "US2737591"
-   "US2878388"],
   :term-years 20,
   :open-license :none}]

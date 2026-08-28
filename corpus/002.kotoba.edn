@@ -1,4 +1,102 @@
-[{:jurisdiction :us,
+[{:assignees [:rca],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2971117/en",
+  :title "Color-kinescopes, etc.",
+  :status :granted,
+  :id "US2971117",
+  :sourcing :authoritative,
+  :filing-year 1956,
+  :assignee :rca,
+  :grant-year 1961,
+  :cites
+  ["US2219117"
+   "US2227087"
+   "US2240186"
+   "US2444221"
+   "US2580250"
+   "US2584814"
+   "US2590764"
+   "US2734146"
+   "US2741720"
+   "US2754449"
+   "US2777084"
+   "US2889483"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:american-instr],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2971429/en",
+  :title "Spectro-fluorescence measuring instrument",
+  :status :granted,
+  :id "US2971429",
+  :sourcing :authoritative,
+  :filing-year 1957,
+  :assignee :american-instr,
+  :grant-year 1961,
+  :cites
+  ["US2339053"
+   "US2411741"
+   "US2444560"
+   "US2602368"
+   "US2635192"
+   "US2723589"
+   "US2758502"
+   "US2835167"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:allen-industries],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2971857/en",
+  :title "Embossed rug cushion and method of producing the same",
+  :status :granted,
+  :id "US2971857",
+  :sourcing :authoritative,
+  :filing-year 1959,
+  :assignee :allen-industries,
+  :grant-year 1961,
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:eastman-kodak],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2972607/en",
+  :title
+  "Four-component mixed metal-halogen catalysts for olefin polymerization",
+  :status :granted,
+  :id "US2972607",
+  :sourcing :authoritative,
+  :filing-year 1958,
+  :assignee :eastman-kodak,
+  :grant-year 1961,
+  :cites ["FR1132506A" "US2832759" "US2846427" "US2905645"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:phillips-petroleum],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2974227/en",
+  :title "Analyzer",
+  :status :granted,
+  :id "US2974227",
+  :sourcing :authoritative,
+  :filing-year 1958,
+  :assignee :phillips-petroleum,
+  :grant-year 1961,
+  :cites
+  ["DE927431C"
+   "US1740673"
+   "US2417321"
+   "US2617940"
+   "US2654845"
+   "US2694335"
+   "US2737591"
+   "US2878388"],
+  :term-years 20,
+  :open-license :none}
+ {:jurisdiction :us,
   :field "UNKNOWN",
   :source "https://patents.google.com/patent/US2974586/en",
   :title
@@ -3710,6 +3808,28 @@
   :cites ["US2624656" "US2894542" "US3012863"],
   :term-years 20,
   :open-license :none}
+ {:assignees [:ei-du-pont-de-nemours-and],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3188229/en",
+  :title "Process of adhering an organic coating to a substrate",
+  :status :granted,
+  :id "US3188229",
+  :sourcing :authoritative,
+  :filing-year 1961,
+  :assignee :ei-du-pont-de-nemours-and,
+  :grant-year 1965,
+  :cites
+  ["FR1079401A"
+   "US2666025"
+   "US2670483"
+   "US2678285"
+   "US2766220"
+   "US2875092"
+   "US2955953"
+   "US2999772"],
+  :term-years 20,
+  :open-license :none}
  {:assignees [:international-business-machines],
   :jurisdiction :us,
   :field "UNKNOWN",
@@ -7419,6 +7539,29 @@
   :cites ["US2831057" "US3274913"],
   :term-years 20,
   :open-license :none}
+ {:assignees [:ethicon],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3451394/en",
+  :title
+  "Radiating tanned and untanned collagen prosthesis with 5 to 25 megarads of ionizing radiation",
+  :status :granted,
+  :id "US3451394",
+  :sourcing :authoritative,
+  :filing-year 1961,
+  :assignee :ethicon,
+  :grant-year 1969,
+  :cites
+  ["US2465357"
+   "US2610625"
+   "US2637321"
+   "US2721941"
+   "US2937279"
+   "US3043067"
+   "US3046210"
+   "US3157524"],
+  :term-years 20,
+  :open-license :none}
  {:jurisdiction :us,
   :field "UNKNOWN",
   :source "https://patents.google.com/patent/US3451777/en",
@@ -7738,6 +7881,38 @@
   :assignee :ralph-j-de-falco,
   :grant-year 1969,
   :cites ["US2418033" "US2608533" "US2659700"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:tecnifax],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3479183/en",
+  :title "Negative-working diazosulfonate reproduction process",
+  :status :granted,
+  :id "US3479183",
+  :sourcing :authoritative,
+  :filing-year 1965,
+  :assignee :tecnifax,
+  :grant-year 1969,
+  :cites
+  ["GB865680A"
+   "US1926322"
+   "US1934011"
+   "US1997507"
+   "US2500099"
+   "US2529029"
+   "US2541886"
+   "US2613149"
+   "US2741558"
+   "US2789904"
+   "US2854338"
+   "US2893866"
+   "US2980534"
+   "US3076707"
+   "US3103436"
+   "US3153592"
+   "US3309200"
+   "US3312551"],
   :term-years 20,
   :open-license :none}
  {:assignees [:beckman-instruments],
@@ -8388,6 +8563,21 @@
    "US3234846"
    "US851388"
    "US893070"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:abbott-laboratories],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3511684/en",
+  :title
+  "Method of treating polymeric resin to display nonthrombogenicity",
+  :status :granted,
+  :id "US3511684",
+  :sourcing :authoritative,
+  :filing-year 1967,
+  :assignee :abbott-laboratories,
+  :grant-year 1970,
+  :cites ["US3235426" "US3279996" "US3314743" "US3317339"],
   :term-years 20,
   :open-license :none}
  {:assignees [:shell-oil],
@@ -9308,154 +9498,5 @@
   :filing-year 1968,
   :assignee :bayer,
   :grant-year 1971,
-  :term-years 20,
-  :open-license :none}
- {:assignees [:hawker-siddeley-dynamics],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3591810/en",
-  :title
-  "Temperature monitoring apparatus using a photochromic heat sensor",
-  :status :granted,
-  :id "US3591810",
-  :sourcing :authoritative,
-  :filing-year 1969,
-  :assignee :hawker-siddeley-dynamics,
-  :grant-year 1971,
-  :cites ["US2792484" "US2824235" "US2945954" "US3134019" "US3327120"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:mount-sinai-hospital-research-foundation],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3592888/en",
-  :title "Radioimmunoassay of angiotensin and renin activity",
-  :status :granted,
-  :id "US3592888",
-  :sourcing :authoritative,
-  :filing-year 1968,
-  :assignee :mount-sinai-hospital-research-foundation,
-  :grant-year 1971,
-  :term-years 20,
-  :open-license :none}
- {:assignees [:millipore],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3594263/en",
-  :title "Laminated sheet for electrophoresis",
-  :status :granted,
-  :id "US3594263",
-  :sourcing :authoritative,
-  :filing-year 1967,
-  :assignee :millipore,
-  :grant-year 1971,
-  :term-years 20,
-  :open-license :none}
- {:assignees [:pabst-brewing],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3594278/en",
-  :title "Preparation of polynucleotides",
-  :status :granted,
-  :id "US3594278",
-  :sourcing :authoritative,
-  :filing-year 1968,
-  :assignee :pabst-brewing,
-  :grant-year 1971,
-  :term-years 20,
-  :open-license :none}
- {:assignees [:glaxo-laboratories],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3597318/en",
-  :title "Production of double stranded hibonucleic acid",
-  :status :granted,
-  :id "US3597318",
-  :sourcing :authoritative,
-  :filing-year 1969,
-  :assignee :glaxo-laboratories,
-  :grant-year 1971,
-  :term-years 20,
-  :open-license :none}
- {:assignees [:kabi],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3598704/en",
-  :title "Diagnostic device for various sugars",
-  :status :granted,
-  :id "US3598704",
-  :sourcing :authoritative,
-  :filing-year 1966,
-  :assignee :kabi,
-  :grant-year 1971,
-  :term-years 20,
-  :open-license :none}
- {:assignees [:hitachi],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3598762/en",
-  :title
-  "Vanadium oxide semiconductors and method of manufacturing same",
-  :status :granted,
-  :id "US3598762",
-  :sourcing :authoritative,
-  :filing-year 1967,
-  :assignee :hitachi,
-  :grant-year 1971,
-  :term-years 20,
-  :open-license :none}
- {:assignees [:buckbee-mears],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3600213/en",
-  :title "Aperture masks",
-  :status :granted,
-  :id "US3600213",
-  :sourcing :authoritative,
-  :filing-year 1969,
-  :assignee :buckbee-mears,
-  :grant-year 1971,
-  :term-years 20,
-  :open-license :none}
- {:assignees [:us-atomic-energy-commission-aec],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3600291/en",
-  :title "Method of producing dense carbon from anthracene",
-  :status :granted,
-  :id "US3600291",
-  :sourcing :authoritative,
-  :filing-year 1969,
-  :assignee :us-atomic-energy-commission-aec,
-  :grant-year 1971,
-  :term-years 20,
-  :open-license :none}
- {:assignees [:scientific-industries],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3607079/en",
-  :title "Analysis arrangement for chemical analyzing apparatus",
-  :status :granted,
-  :id "US3607079",
-  :sourcing :authoritative,
-  :filing-year 1969,
-  :assignee :scientific-industries,
-  :grant-year 1971,
-  :cites ["US3036893" "US3036894" "US3502438" "US3508879"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:scientific-industries],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3607090/en",
-  :title
-  "Analysis arrangment for multiple analyses of a single sample",
-  :status :granted,
-  :id "US3607090",
-  :sourcing :authoritative,
-  :filing-year 1969,
-  :assignee :scientific-industries,
-  :grant-year 1971,
-  :cites ["US3036894" "US3260413" "US3261668" "US3497320" "US3508879"],
   :term-years 20,
   :open-license :none}]

@@ -1,4 +1,153 @@
-[{:jurisdiction :us,
+[{:assignees [:hawker-siddeley-dynamics],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3591810/en",
+  :title
+  "Temperature monitoring apparatus using a photochromic heat sensor",
+  :status :granted,
+  :id "US3591810",
+  :sourcing :authoritative,
+  :filing-year 1969,
+  :assignee :hawker-siddeley-dynamics,
+  :grant-year 1971,
+  :cites ["US2792484" "US2824235" "US2945954" "US3134019" "US3327120"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:mount-sinai-hospital-research-foundation],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3592888/en",
+  :title "Radioimmunoassay of angiotensin and renin activity",
+  :status :granted,
+  :id "US3592888",
+  :sourcing :authoritative,
+  :filing-year 1968,
+  :assignee :mount-sinai-hospital-research-foundation,
+  :grant-year 1971,
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:millipore],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3594263/en",
+  :title "Laminated sheet for electrophoresis",
+  :status :granted,
+  :id "US3594263",
+  :sourcing :authoritative,
+  :filing-year 1967,
+  :assignee :millipore,
+  :grant-year 1971,
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:pabst-brewing],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3594278/en",
+  :title "Preparation of polynucleotides",
+  :status :granted,
+  :id "US3594278",
+  :sourcing :authoritative,
+  :filing-year 1968,
+  :assignee :pabst-brewing,
+  :grant-year 1971,
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:glaxo-laboratories],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3597318/en",
+  :title "Production of double stranded hibonucleic acid",
+  :status :granted,
+  :id "US3597318",
+  :sourcing :authoritative,
+  :filing-year 1969,
+  :assignee :glaxo-laboratories,
+  :grant-year 1971,
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:kabi],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3598704/en",
+  :title "Diagnostic device for various sugars",
+  :status :granted,
+  :id "US3598704",
+  :sourcing :authoritative,
+  :filing-year 1966,
+  :assignee :kabi,
+  :grant-year 1971,
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:hitachi],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3598762/en",
+  :title
+  "Vanadium oxide semiconductors and method of manufacturing same",
+  :status :granted,
+  :id "US3598762",
+  :sourcing :authoritative,
+  :filing-year 1967,
+  :assignee :hitachi,
+  :grant-year 1971,
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:buckbee-mears],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3600213/en",
+  :title "Aperture masks",
+  :status :granted,
+  :id "US3600213",
+  :sourcing :authoritative,
+  :filing-year 1969,
+  :assignee :buckbee-mears,
+  :grant-year 1971,
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:us-atomic-energy-commission-aec],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3600291/en",
+  :title "Method of producing dense carbon from anthracene",
+  :status :granted,
+  :id "US3600291",
+  :sourcing :authoritative,
+  :filing-year 1969,
+  :assignee :us-atomic-energy-commission-aec,
+  :grant-year 1971,
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:scientific-industries],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3607079/en",
+  :title "Analysis arrangement for chemical analyzing apparatus",
+  :status :granted,
+  :id "US3607079",
+  :sourcing :authoritative,
+  :filing-year 1969,
+  :assignee :scientific-industries,
+  :grant-year 1971,
+  :cites ["US3036893" "US3036894" "US3502438" "US3508879"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:scientific-industries],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3607090/en",
+  :title
+  "Analysis arrangment for multiple analyses of a single sample",
+  :status :granted,
+  :id "US3607090",
+  :sourcing :authoritative,
+  :filing-year 1969,
+  :assignee :scientific-industries,
+  :grant-year 1971,
+  :cites ["US3036894" "US3260413" "US3261668" "US3497320" "US3508879"],
+  :term-years 20,
+  :open-license :none}
+ {:jurisdiction :us,
   :field "UNKNOWN",
   :source "https://patents.google.com/patent/US3607382/en",
   :title "Method of producing photovarnish masks for semiconductors",
@@ -452,6 +601,20 @@
   :cites ["GB754087A" "US2533339" "US2666105" "US3479257"],
   :term-years 20,
   :open-license :none}
+ {:assignees [:arbco],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3632386/en",
+  :title "Treated silicone surface",
+  :status :granted,
+  :id "US3632386",
+  :sourcing :authoritative,
+  :filing-year 1969,
+  :assignee :arbco,
+  :grant-year 1972,
+  :cites ["GB751991A" "US3403045"],
+  :term-years 20,
+  :open-license :none}
  {:assignees [:miles-laboratories],
   :jurisdiction :us,
   :field "UNKNOWN",
@@ -648,6 +811,32 @@
   :assignee :pharmacia,
   :grant-year 1972,
   :cites ["US3372992" "US3380888" "US3451777"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:fmc],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3649347/en",
+  :title
+  "Shaped structures having a self-adherent coating of a water-insoluble ionizable salt of a collagen",
+  :status :granted,
+  :id "US3649347",
+  :sourcing :authoritative,
+  :filing-year 1970,
+  :assignee :fmc,
+  :grant-year 1972,
+  :cites
+  ["US2919999"
+   "US2934447"
+   "US3073702"
+   "US3131130"
+   "US3223551"
+   "US3276448"
+   "US3293237"
+   "US3294579"
+   "US3294581"
+   "US3362849"
+   "US3374103"],
   :term-years 20,
   :open-license :none}
  {:assignees [:beckman-instruments],
@@ -2447,6 +2636,19 @@
   :grant-year 1973,
   :term-years 20,
   :open-license :none}
+ {:assignees [:research],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3766167/en",
+  :title "Orally active anticoagulant",
+  :status :granted,
+  :id "US3766167",
+  :sourcing :authoritative,
+  :filing-year 1971,
+  :assignee :research,
+  :grant-year 1973,
+  :term-years 20,
+  :open-license :none}
  {:jurisdiction :us,
   :field "UNKNOWN",
   :source "https://patents.google.com/patent/US3767398/en",
@@ -3322,6 +3524,20 @@
   :grant-year 1974,
   :term-years 20,
   :open-license :none}
+ {:assignees [:nat-res-dev],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3824150/en",
+  :title
+  "Enzyme bound to polymeric sheet with a triazine bridging group",
+  :status :granted,
+  :id "US3824150",
+  :sourcing :authoritative,
+  :filing-year 1968,
+  :assignee :nat-res-dev,
+  :grant-year 1974,
+  :term-years 20,
+  :open-license :none}
  {:assignees [:american-express-investment-management],
   :jurisdiction :us,
   :field "UNKNOWN",
@@ -3651,6 +3867,19 @@
   :sourcing :authoritative,
   :filing-year 1971,
   :assignee :research,
+  :grant-year 1974,
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:syva],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3843447/en",
+  :title "Photolytically activated coupling to polypeptides",
+  :status :granted,
+  :id "US3843447",
+  :sourcing :authoritative,
+  :filing-year 1972,
+  :assignee :syva,
   :grant-year 1974,
   :term-years 20,
   :open-license :none}
@@ -8151,6 +8380,21 @@
   ["GB1402427A" "US3639558" "US3652761" "US3775536" "US3951748"],
   :term-years 20,
   :open-license :none}
+ {:assignees [:biosearch-medical-products],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US4100309/en",
+  :title
+  "Coated substrate having a low coefficient of friction hydrophilic coating and a method of making the same",
+  :status :granted,
+  :id "US4100309",
+  :sourcing :authoritative,
+  :filing-year 1977,
+  :assignee :biosearch-medical-products,
+  :grant-year 1978,
+  :cites ["US3860672" "US3939049"],
+  :term-years 20,
+  :open-license :none}
  {:assignees [:merck-and],
   :jurisdiction :us,
   :field "UNKNOWN",
@@ -8926,6 +9170,20 @@
    "US4036946"],
   :term-years 20,
   :open-license :none}
+ {:assignees [:american-hospital-supply],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US4170043/en",
+  :title "Coated intraocular lens and surgical tool",
+  :status :granted,
+  :id "US4170043",
+  :sourcing :authoritative,
+  :filing-year 1977,
+  :assignee :american-hospital-supply,
+  :grant-year 1979,
+  :cites ["US3996626" "US4047532" "US4113088" "US4127903" "US4136406"],
+  :term-years 20,
+  :open-license :none}
  {:assignees [:massachusetts-institute-of-technology],
   :jurisdiction :us,
   :field "UNKNOWN",
@@ -8968,272 +9226,5 @@
    "US3916197"
    "US3918812"
    "US3973129"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:asahi-kasei-kogyo],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US4172937/en",
-  :title "Process for preparing polyimines",
-  :status :granted,
-  :id "US4172937",
-  :sourcing :authoritative,
-  :filing-year 1978,
-  :assignee :asahi-kasei-kogyo,
-  :grant-year 1979,
-  :cites ["BE622556A" "US3503739" "US3516971"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:mitsui-petrochemical-industries],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US4174335/en",
-  :title
-  "Aqueous dispersions of olefinic resin compositions and process for preparation thereof",
-  :status :granted,
-  :id "US4174335",
-  :sourcing :authoritative,
-  :filing-year 1976,
-  :assignee :mitsui-petrochemical-industries,
-  :grant-year 1979,
-  :cites
-  ["US2496989"
-   "US3356629"
-   "US3475369"
-   "US3483276"
-   "US3485785"
-   "US3658948"
-   "US3689445"
-   "US3769151"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:syva],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US4174384/en",
-  :title
-  "Fluorescence quenching with immunological pairs in immunoassays",
-  :status :granted,
-  :id "US4174384",
-  :sourcing :authoritative,
-  :filing-year 1976,
-  :assignee :syva,
-  :grant-year 1979,
-  :cites ["US3992631" "US3996345" "US3998943"],
-  :term-years 20,
-  :open-license :none}
- {:jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US4174385/en",
-  :title
-  "Method of identification of surface proteins of cancer cells, clinical test and method of immunization",
-  :status :granted,
-  :id "US4174385",
-  :sourcing :authoritative,
-  :filing-year 1976,
-  :assignee :unassigned,
-  :grant-year 1979,
-  :cites ["US4041023"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:pharmacia-fine-chemicals],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US4175073/en",
-  :title "Reactive derivatives of HS-group-containing polymers",
-  :status :granted,
-  :id "US4175073",
-  :sourcing :authoritative,
-  :filing-year 1978,
-  :assignee :pharmacia-fine-chemicals,
-  :grant-year 1979,
-  :cites ["US3666739" "US3947352"],
-  :term-years 20,
-  :open-license :none}
- {:jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US4175662/en",
-  :title
-  "Method and device for sorting particles suspended in an electrolyte",
-  :status :granted,
-  :id "US4175662",
-  :sourcing :authoritative,
-  :filing-year 1978,
-  :assignee :unassigned,
-  :grant-year 1979,
-  :cites
-  ["US3514217"
-   "US3560754"
-   "US3791517"
-   "US3826364"
-   "US3827555"
-   "US4009782"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:burroughs-wellcome-usa],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US4176174/en",
-  :title "Viral antibody diagnostic test system",
-  :status :granted,
-  :id "US4176174",
-  :sourcing :authoritative,
-  :filing-year 1978,
-  :assignee :burroughs-wellcome-usa,
-  :grant-year 1979,
-  :cites ["US3715427" "US3843777"],
-  :term-years 20,
-  :open-license :none}
- {:assignees
-  [:max-planck-gesellschaft-zur-foerderung-der-wissenschaften-ev],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US4177038/en",
-  :title
-  "Method for the production of a vehicle substance which is capable of covalent bonding with biologically active matter",
-  :status :granted,
-  :id "US4177038",
-  :sourcing :authoritative,
-  :filing-year 1977,
-  :assignee
-  :max-planck-gesellschaft-zur-foerderung-der-wissenschaften-ev,
-  :grant-year 1979,
-  :cites
-  ["US3574062"
-   "US3672955"
-   "US3705084"
-   "US3905923"
-   "US3929574"
-   "US3947352"
-   "US3950222"
-   "US4063017"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:imperial-chemical-industries],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US4177253/en",
-  :title "Magnetic particles for immunoassay",
-  :status :granted,
-  :id "US4177253",
-  :sourcing :authoritative,
-  :filing-year 1977,
-  :assignee :imperial-chemical-industries,
-  :grant-year 1979,
-  :cites
-  ["US2939804"
-   "US3175935"
-   "US3505785"
-   "US3622367"
-   "US3700499"
-   "US3853987"
-   "US3977984"
-   "US4001288"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:electric-power-research-institute],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US4179927/en",
-  :title "Temperature sensing device",
-  :status :granted,
-  :id "US4179927",
-  :sourcing :authoritative,
-  :filing-year 1977,
-  :assignee :electric-power-research-institute,
-  :grant-year 1979,
-  :cites
-  ["US3513704"
-   "US3591810"
-   "US3672221"
-   "US3770965"
-   "US3863067"
-   "US3960017"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:becton-dickinson-and],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US4180383/en",
-  :title "Chamber holder for immobilized immunoadsorbent",
-  :status :granted,
-  :id "US4180383",
-  :sourcing :authoritative,
-  :filing-year 1977,
-  :assignee :becton-dickinson-and,
-  :grant-year 1979,
-  :cites
-  ["US3492396"
-   "US3652761"
-   "US3843444"
-   "US3849830"
-   "US3932141"
-   "US4052010"
-   "US4053284"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:varian-associates],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US4180739/en",
-  :title "Thermostatable flow cell for fluorescence measurements",
-  :status :granted,
-  :id "US4180739",
-  :sourcing :authoritative,
-  :filing-year 1977,
-  :assignee :varian-associates,
-  :grant-year 1979,
-  :cites ["US3151204" "US3869215" "US4008397" "US4082459"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:airco],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US4180771/en",
-  :title "Chemical-sensitive field-effect transistor",
-  :status :granted,
-  :id "US4180771",
-  :sourcing :authoritative,
-  :filing-year 1977,
-  :assignee :airco,
-  :grant-year 1979,
-  :cites ["US3311756" "US3381432" "US3999122" "US4020830"],
-  :term-years 20,
-  :open-license :none}
- {:jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US4182750/en",
-  :title "Bloodcompatible functional polymers",
-  :status :granted,
-  :id "US4182750",
-  :sourcing :authoritative,
-  :filing-year 1977,
-  :assignee :unassigned,
-  :grant-year 1980,
-  :cites
-  ["US3434467"
-   "US3514438"
-   "US3673612"
-   "US3853987"
-   "US3938953"
-   "US3959079"
-   "US3995019"
-   "US4008047"
-   "US4010250"
-   "US4012317"
-   "US4031201"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:sandoz],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US4184917/en",
-  :title "Process for producing a structurally modified interferon",
-  :status :granted,
-  :id "US4184917",
-  :sourcing :authoritative,
-  :filing-year 1977,
-  :assignee :sandoz,
-  :grant-year 1980,
   :term-years 20,
   :open-license :none}]
