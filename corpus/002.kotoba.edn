@@ -1,4 +1,31 @@
-[{:assignees [:nat-res-dev],
+[{:jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2974586/en",
+  :title
+  "Doctor blade and doctor blade shear for textile printing machine",
+  :status :granted,
+  :id "US2974586",
+  :sourcing :authoritative,
+  :filing-year 1960,
+  :assignee :unassigned,
+  :grant-year 1961,
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:mine-safety-appliances],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2975362/en",
+  :title "Semiconductor diodes for gas detection",
+  :status :granted,
+  :id "US2975362",
+  :sourcing :authoritative,
+  :filing-year 1957,
+  :assignee :mine-safety-appliances,
+  :grant-year 1961,
+  :cites ["US2402662" "US2711511"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:nat-res-dev],
   :jurisdiction :us,
   :field "UNKNOWN",
   :source "https://patents.google.com/patent/US2975553/en",
@@ -9430,40 +9457,5 @@
   :assignee :scientific-industries,
   :grant-year 1971,
   :cites ["US3036894" "US3260413" "US3261668" "US3497320" "US3508879"],
-  :term-years 20,
-  :open-license :none}
- {:jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3607382/en",
-  :title "Method of producing photovarnish masks for semiconductors",
-  :status :granted,
-  :id "US3607382",
-  :sourcing :authoritative,
-  :filing-year 1968,
-  :assignee :unassigned,
-  :grant-year 1971,
-  :cites
-  ["US2705764"
-   "US2968723"
-   "US3113896"
-   "US3162767"
-   "US3326176"
-   "US3330696"
-   "US3364087"
-   "US3388000"
-   "US3442647"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:ilford],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3607997/en",
-  :title "Method for producing an x-ray intensifying screen",
-  :status :granted,
-  :id "US3607997",
-  :sourcing :authoritative,
-  :filing-year 1968,
-  :assignee :ilford,
-  :grant-year 1971,
   :term-years 20,
   :open-license :none}]

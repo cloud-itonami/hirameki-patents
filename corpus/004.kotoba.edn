@@ -1,6 +1,196 @@
 [{:assignees [:government-of-the-united-states-of-america],
   :jurisdiction :us,
   :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US4184922/en",
+  :title
+  "Dual circuit, woven artificial capillary bundle for cell culture",
+  :status :granted,
+  :id "US4184922",
+  :sourcing :authoritative,
+  :filing-year 1977,
+  :assignee :government-of-the-united-states-of-america,
+  :grant-year 1980,
+  :cites
+  ["US3732149"
+   "US3740321"
+   "US3821087"
+   "US3827943"
+   "US3843454"
+   "US3847749"
+   "US3853712"
+   "US3883393"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:mochida-pharmaceutical],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US4185084/en",
+  :title
+  "Immunochemical measuring method using second antigenic substance",
+  :status :granted,
+  :id "US4185084",
+  :sourcing :authoritative,
+  :filing-year 1977,
+  :assignee :mochida-pharmaceutical,
+  :grant-year 1980,
+  :cites ["US3935074" "US3940475" "US3949064"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:canon],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US4189232/en",
+  :title "Range detecting method and apparatus",
+  :status :granted,
+  :id "US4189232",
+  :sourcing :authoritative,
+  :filing-year 1978,
+  :assignee :canon,
+  :grant-year 1980,
+  :cites ["US3898676" "US3945023" "US4004852"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:research],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US4190495/en",
+  :title
+  "Modified microorganisms and method of preparing and using same",
+  :status :granted,
+  :id "US4190495",
+  :sourcing :authoritative,
+  :filing-year 1976,
+  :assignee :research,
+  :grant-year 1980,
+  :term-years 20,
+  :open-license :none}
+ {:jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US4192748/en",
+  :title "Dialysis apparatus with selective chemical activity",
+  :status :granted,
+  :id "US4192748",
+  :sourcing :authoritative,
+  :filing-year 1976,
+  :assignee :unassigned,
+  :grant-year 1980,
+  :cites
+  ["US3503877"
+   "US3522346"
+   "US3579441"
+   "US3608729"
+   "US3619423"
+   "US3645852"
+   "US3703959"
+   "US3880760"
+   "US3888250"
+   "US4061141"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:institut-pasteur],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US4193982/en",
+  :title
+  "Process for coupling biological substances by covalent bonds",
+  :status :granted,
+  :id "US4193982",
+  :sourcing :authoritative,
+  :filing-year 1976,
+  :assignee :institut-pasteur,
+  :grant-year 1980,
+  :cites ["GB1257263A" "US3322634"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:syva],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US4193983/en",
+  :title
+  "Labeled liposome particle compositions and immunoassays therewith",
+  :status :granted,
+  :id "US4193983",
+  :sourcing :authoritative,
+  :filing-year 1978,
+  :assignee :syva,
+  :grant-year 1980,
+  :cites
+  ["US3849546"
+   "US3882224"
+   "US3887698"
+   "US3949065"
+   "US3996345"
+   "US4104029"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:wistar-institute-of-anatomy-and-biology],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US4196265/en",
+  :title "Method of producing antibodies",
+  :status :granted,
+  :id "US4196265",
+  :sourcing :authoritative,
+  :filing-year 1978,
+  :assignee :wistar-institute-of-anatomy-and-biology,
+  :grant-year 1980,
+  :cites ["GB1300391A" "US2768114"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:massachusetts-institute-of-technology],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US4197369/en",
+  :title "Method for measuring reactant concentrations and quantities",
+  :status :granted,
+  :id "US4197369",
+  :sourcing :authoritative,
+  :filing-year 1978,
+  :assignee :massachusetts-institute-of-technology,
+  :grant-year 1980,
+  :cites ["US3700562" "US3948731"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:syva],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US4199559/en",
+  :title
+  "Fluorescence quenching with immunological pairs in immunoassays",
+  :status :granted,
+  :id "US4199559",
+  :sourcing :authoritative,
+  :filing-year 1977,
+  :assignee :syva,
+  :grant-year 1980,
+  :cites ["US3899298" "US3996345"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:bard-laboratories],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US4199649/en",
+  :title "Amorphous monomolecular surface coatings",
+  :status :granted,
+  :id "US4199649",
+  :sourcing :authoritative,
+  :filing-year 1978,
+  :assignee :bard-laboratories,
+  :grant-year 1980,
+  :cites
+  ["US3115424"
+   "US3455736"
+   "US3628996"
+   "US3873499"
+   "US3896254"
+   "US3916035"
+   "US3942982"
+   "US4001870"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:government-of-the-united-states-of-america],
+  :jurisdiction :us,
+  :field "UNKNOWN",
   :source "https://patents.google.com/patent/US4200110/en",
   :title "Fiber optic pH probe",
   :status :granted,
@@ -244,6 +434,42 @@
   :assignee :unassigned,
   :grant-year 1980,
   :cites ["US4144131"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:ei-du-pont-de-nemours-and],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US4219335/en",
+  :title "Immunochemical testing using tagged reagents",
+  :status :granted,
+  :id "US4219335",
+  :sourcing :authoritative,
+  :filing-year 1978,
+  :assignee :ei-du-pont-de-nemours-and,
+  :grant-year 1980,
+  :cites
+  ["FR2327547A1"
+   "US3074853"
+   "US3470067"
+   "US3826619"
+   "US3853467"
+   "US3853987"
+   "US3904367"
+   "US3926564"
+   "US3933997"
+   "US3951605"
+   "US3970518"
+   "US3979184"
+   "US3981776"
+   "US3985608"
+   "US4011308"
+   "US4018886"
+   "US4020151"
+   "US4022577"
+   "US4041146"
+   "US4054646"
+   "US4067959"
+   "US4087248"],
   :term-years 20,
   :open-license :none}
  {:assignees [:syva],
@@ -700,6 +926,26 @@
    "US3926874"],
   :term-years 20,
   :open-license :none}
+ {:assignees [:bio-rad-laboratories],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US4244940/en",
+  :title "Single-incubation two-site immunoassay",
+  :status :granted,
+  :id "US4244940",
+  :sourcing :authoritative,
+  :filing-year 1978,
+  :assignee :bio-rad-laboratories,
+  :grant-year 1981,
+  :cites
+  ["US3555143"
+   "US3853987"
+   "US3995019"
+   "US4017597"
+   "US4034073"
+   "US4088746"],
+  :term-years 20,
+  :open-license :none}
  {:assignees [:ei-du-pont-de-nemours-and],
   :jurisdiction :us,
   :field "UNKNOWN",
@@ -733,6 +979,21 @@
    "US4021396"
    "US4069210"
    "US4126596"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:mochida-pharmaceutical],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US4248965/en",
+  :title
+  "Immunochemical process of measuring physiologically active substances",
+  :status :granted,
+  :id "US4248965",
+  :sourcing :authoritative,
+  :filing-year 1977,
+  :assignee :mochida-pharmaceutical,
+  :grant-year 1981,
+  :cites ["US3654090" "US3791932" "US3850752" "US4016043" "US4067959"],
   :term-years 20,
   :open-license :none}
  {:assignees [:honeywell],
@@ -950,6 +1211,26 @@
   :cites ["US4000252"],
   :term-years 20,
   :open-license :none}
+ {:assignees [:syva],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US4272506/en",
+  :title "Purification of reagents by disulfide immobilization",
+  :status :granted,
+  :id "US4272506",
+  :sourcing :authoritative,
+  :filing-year 1979,
+  :assignee :syva,
+  :grant-year 1981,
+  :cites
+  ["US3652761"
+   "US3690834"
+   "US3998943"
+   "US4039652"
+   "US4160016"
+   "US4176006"],
+  :term-years 20,
+  :open-license :none}
  {:jurisdiction :us,
   :field "UNKNOWN",
   :source "https://patents.google.com/patent/US4272549/en",
@@ -1059,6 +1340,20 @@
    "US4200625"],
   :term-years 20,
   :open-license :none}
+ {:assignees [:hoechst],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US4278652/en",
+  :title "Process for determining ferritin",
+  :status :granted,
+  :id "US4278652",
+  :sourcing :authoritative,
+  :filing-year 1978,
+  :assignee :hoechst,
+  :grant-year 1981,
+  :cites ["US2955074" "US3372992" "US3712291" "US3925020"],
+  :term-years 20,
+  :open-license :none}
  {:assignees [:harvard-university],
   :jurisdiction :us,
   :field "UNKNOWN",
@@ -1165,6 +1460,26 @@
   :filing-year 1979,
   :assignee :cetus,
   :grant-year 1981,
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:baxter-travenol-laboratories],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US4297494/en",
+  :title "Xanthine tracers",
+  :status :granted,
+  :id "US4297494",
+  :sourcing :authoritative,
+  :filing-year 1978,
+  :assignee :baxter-travenol-laboratories,
+  :grant-year 1981,
+  :cites
+  ["US2729642"
+   "US2840559"
+   "US2879271"
+   "US3317533"
+   "US3996344"
+   "US955587"],
   :term-years 20,
   :open-license :none}
  {:assignees [:nippon-kogaku],
@@ -1737,6 +2052,32 @@
   :assignee :nippon-kogaku,
   :grant-year 1982,
   :cites ["US3970841" "US4254330" "US4297571"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:akzona],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US4343896/en",
+  :title
+  "Method and test pack for the demonstration and determination of an antigen or antibody",
+  :status :granted,
+  :id "US4343896",
+  :sourcing :authoritative,
+  :filing-year 1980,
+  :assignee :akzona,
+  :grant-year 1982,
+  :cites
+  ["US3654090"
+   "US3720760"
+   "US3791932"
+   "US3826619"
+   "US3839153"
+   "US3850752"
+   "US3853987"
+   "US3879262"
+   "US3896217"
+   "US3935074"
+   "US4016043"],
   :term-years 20,
   :open-license :none}
  {:assignees [:us-department-of-health-and-human-services],
@@ -2862,6 +3203,30 @@
    "US4272506"],
   :term-years 20,
   :open-license :none}
+ {:assignees [:leland-stanford-junior-university],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US4474892/en",
+  :title
+  "Two-site immunoassays using monoclonal antibodies of different classes or subclasses and test kits for performing same",
+  :status :granted,
+  :id "US4474892",
+  :sourcing :authoritative,
+  :filing-year 1983,
+  :assignee :leland-stanford-junior-university,
+  :grant-year 1984,
+  :cites
+  ["BE889855A"
+   "FR2487983A1"
+   "US3645852"
+   "US3654090"
+   "US3867517"
+   "US3940475"
+   "US4098876"
+   "US4174384"
+   "US4376110"],
+  :term-years 20,
+  :open-license :none}
  {:assignees [:herberts],
   :jurisdiction :us,
   :field "UNKNOWN",
@@ -3078,6 +3443,33 @@
   :cites ["US4373071"],
   :term-years 20,
   :open-license :none}
+ {:assignees [:university-of-california-san-diego-ucsd],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US4506009/en",
+  :title "Heterogeneous immunoassay method",
+  :status :granted,
+  :id "US4506009",
+  :sourcing :authoritative,
+  :filing-year 1982,
+  :assignee :university-of-california-san-diego-ucsd,
+  :grant-year 1985,
+  :cites
+  ["US3654090"
+   "US3791932"
+   "US3839153"
+   "US3850752"
+   "US3879262"
+   "US3935074"
+   "US4130462"
+   "US4134792"
+   "US4193983"
+   "US4288237"
+   "US4298685"
+   "US4299916"
+   "US4374925"],
+  :term-years 20,
+  :open-license :none}
  {:jurisdiction :us,
   :field "UNKNOWN",
   :source "https://patents.google.com/patent/US450963/en",
@@ -3208,6 +3600,31 @@
   :assignee :kansai-paint,
   :grant-year 1985,
   :cites ["US4391858" "US4455331" "US4456647" "US4463038" "US4490417"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:seragen-diagnostics],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US4530900/en",
+  :title "Soluble insoluble polymers in enzymeimmunoassay",
+  :status :granted,
+  :id "US4530900",
+  :sourcing :authoritative,
+  :filing-year 1982,
+  :assignee :seragen-diagnostics,
+  :grant-year 1985,
+  :cites
+  ["US3791932"
+   "US3850752"
+   "US4003792"
+   "US4134792"
+   "US4233401"
+   "US4238565"
+   "US4289747"
+   "US4298685"
+   "US4352883"
+   "US4371515"
+   "US4407957"],
   :term-years 20,
   :open-license :none}
  {:assignees [:biogen],

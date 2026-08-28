@@ -1,4 +1,39 @@
-[{:assignees [:buckbee-mears],
+[{:jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3607382/en",
+  :title "Method of producing photovarnish masks for semiconductors",
+  :status :granted,
+  :id "US3607382",
+  :sourcing :authoritative,
+  :filing-year 1968,
+  :assignee :unassigned,
+  :grant-year 1971,
+  :cites
+  ["US2705764"
+   "US2968723"
+   "US3113896"
+   "US3162767"
+   "US3326176"
+   "US3330696"
+   "US3364087"
+   "US3388000"
+   "US3442647"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:ilford],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3607997/en",
+  :title "Method for producing an x-ray intensifying screen",
+  :status :granted,
+  :id "US3607997",
+  :sourcing :authoritative,
+  :filing-year 1968,
+  :assignee :ilford,
+  :grant-year 1971,
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:buckbee-mears],
   :jurisdiction :us,
   :field "UNKNOWN",
   :source "https://patents.google.com/patent/US3609033/en",
@@ -6131,6 +6166,28 @@
   :cites ["GB711940A" "GB785228A" "US3204303" "US3478815"],
   :term-years 20,
   :open-license :none}
+ {:assignees [:boehringer-mannheim],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3969287/en",
+  :title
+  "Carrier-bound protein prepared by reacting the protein with an acylating or alkylating compound having a carrier-bonding group and reacting the product with a carrier",
+  :status :granted,
+  :id "US3969287",
+  :sourcing :authoritative,
+  :filing-year 1973,
+  :assignee :boehringer-mannheim,
+  :grant-year 1976,
+  :cites
+  ["US3574062"
+   "US3619371"
+   "US3759890"
+   "US3764477"
+   "US3775253"
+   "US3788948"
+   "US3806417"],
+  :term-years 20,
+  :open-license :none}
  {:assignees [:general-electric],
   :jurisdiction :us,
   :field "UNKNOWN",
@@ -7063,6 +7120,27 @@
    "US3933528"],
   :term-years 20,
   :open-license :none}
+ {:assignees [:general-electric],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US4018886/en",
+  :title
+  "Diagnostic method and device employing protein-coated magnetic particles",
+  :status :granted,
+  :id "US4018886",
+  :sourcing :authoritative,
+  :filing-year 1975,
+  :assignee :general-electric,
+  :grant-year 1977,
+  :cites
+  ["US2666355"
+   "US3470067"
+   "US3539509"
+   "US3657119"
+   "US3843324"
+   "US3933997"],
+  :term-years 20,
+  :open-license :none}
  {:assignees [:international-diagnostic-technologies],
   :jurisdiction :us,
   :field "UNKNOWN",
@@ -7234,6 +7312,19 @@
   :assignee :leland-stanford-junior-university,
   :grant-year 1977,
   :cites ["US3904367"],
+  :term-years 20,
+  :open-license :none}
+ {:jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US4034474/en",
+  :title "Jaw movement simulation",
+  :status :granted,
+  :id "US4034474",
+  :sourcing :authoritative,
+  :filing-year 1974,
+  :assignee :unassigned,
+  :grant-year 1977,
+  :cites ["US1080809" "US2814876" "US2818646" "US3035348" "US3694919"],
   :term-years 20,
   :open-license :none}
  {:assignees [:biological-developments],
@@ -7891,6 +7982,20 @@
    "US4047187"],
   :term-years 20,
   :open-license :none}
+ {:assignees [:bio-rad-laboratories],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US4088746/en",
+  :title "Radioimmunoassay for thyroid-stimulating hormone (TSH)",
+  :status :granted,
+  :id "US4088746",
+  :sourcing :authoritative,
+  :filing-year 1976,
+  :assignee :bio-rad-laboratories,
+  :grant-year 1978,
+  :cites ["US3853987" "US4021534"],
+  :term-years 20,
+  :open-license :none}
  {:assignees [:coulter-electronics],
   :jurisdiction :us,
   :field "UNKNOWN",
@@ -7986,6 +8091,20 @@
    "US3871993"
    "US3932552"
    "US3972958"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:corning-glass-works],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US4098876/en",
+  :title "Reverse sandwich immunoassay",
+  :status :granted,
+  :id "US4098876",
+  :sourcing :authoritative,
+  :filing-year 1976,
+  :assignee :corning-glass-works,
+  :grant-year 1978,
+  :cites ["US3850752" "US3896217" "US3975511" "US3995019"],
   :term-years 20,
   :open-license :none}
  {:assignees [:baxter-travenol-laboratories],
@@ -8404,6 +8523,21 @@
   :assignee :toyo-soda-manufacturing,
   :grant-year 1978,
   :cites ["US3645996" "US3970603" "US4038469"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:syva],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US4130462/en",
+  :title
+  "Receptor steric hindrance immunoassay for receptor determination",
+  :status :granted,
+  :id "US4130462",
+  :sourcing :authoritative,
+  :filing-year 1976,
+  :assignee :syva,
+  :grant-year 1978,
+  :cites ["US3935074"],
   :term-years 20,
   :open-license :none}
  {:assignees [:american-gas-association],
@@ -8975,6 +9109,28 @@
    "US4063017"],
   :term-years 20,
   :open-license :none}
+ {:assignees [:imperial-chemical-industries],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US4177253/en",
+  :title "Magnetic particles for immunoassay",
+  :status :granted,
+  :id "US4177253",
+  :sourcing :authoritative,
+  :filing-year 1977,
+  :assignee :imperial-chemical-industries,
+  :grant-year 1979,
+  :cites
+  ["US2939804"
+   "US3175935"
+   "US3505785"
+   "US3622367"
+   "US3700499"
+   "US3853987"
+   "US3977984"
+   "US4001288"],
+  :term-years 20,
+  :open-license :none}
  {:assignees [:electric-power-research-institute],
   :jurisdiction :us,
   :field "UNKNOWN",
@@ -9079,180 +9235,5 @@
   :filing-year 1977,
   :assignee :sandoz,
   :grant-year 1980,
-  :term-years 20,
-  :open-license :none}
- {:assignees [:government-of-the-united-states-of-america],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US4184922/en",
-  :title
-  "Dual circuit, woven artificial capillary bundle for cell culture",
-  :status :granted,
-  :id "US4184922",
-  :sourcing :authoritative,
-  :filing-year 1977,
-  :assignee :government-of-the-united-states-of-america,
-  :grant-year 1980,
-  :cites
-  ["US3732149"
-   "US3740321"
-   "US3821087"
-   "US3827943"
-   "US3843454"
-   "US3847749"
-   "US3853712"
-   "US3883393"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:mochida-pharmaceutical],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US4185084/en",
-  :title
-  "Immunochemical measuring method using second antigenic substance",
-  :status :granted,
-  :id "US4185084",
-  :sourcing :authoritative,
-  :filing-year 1977,
-  :assignee :mochida-pharmaceutical,
-  :grant-year 1980,
-  :cites ["US3935074" "US3940475" "US3949064"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:canon],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US4189232/en",
-  :title "Range detecting method and apparatus",
-  :status :granted,
-  :id "US4189232",
-  :sourcing :authoritative,
-  :filing-year 1978,
-  :assignee :canon,
-  :grant-year 1980,
-  :cites ["US3898676" "US3945023" "US4004852"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:research],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US4190495/en",
-  :title
-  "Modified microorganisms and method of preparing and using same",
-  :status :granted,
-  :id "US4190495",
-  :sourcing :authoritative,
-  :filing-year 1976,
-  :assignee :research,
-  :grant-year 1980,
-  :term-years 20,
-  :open-license :none}
- {:jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US4192748/en",
-  :title "Dialysis apparatus with selective chemical activity",
-  :status :granted,
-  :id "US4192748",
-  :sourcing :authoritative,
-  :filing-year 1976,
-  :assignee :unassigned,
-  :grant-year 1980,
-  :cites
-  ["US3503877"
-   "US3522346"
-   "US3579441"
-   "US3608729"
-   "US3619423"
-   "US3645852"
-   "US3703959"
-   "US3880760"
-   "US3888250"
-   "US4061141"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:institut-pasteur],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US4193982/en",
-  :title
-  "Process for coupling biological substances by covalent bonds",
-  :status :granted,
-  :id "US4193982",
-  :sourcing :authoritative,
-  :filing-year 1976,
-  :assignee :institut-pasteur,
-  :grant-year 1980,
-  :cites ["GB1257263A" "US3322634"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:syva],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US4193983/en",
-  :title
-  "Labeled liposome particle compositions and immunoassays therewith",
-  :status :granted,
-  :id "US4193983",
-  :sourcing :authoritative,
-  :filing-year 1978,
-  :assignee :syva,
-  :grant-year 1980,
-  :cites
-  ["US3849546"
-   "US3882224"
-   "US3887698"
-   "US3949065"
-   "US3996345"
-   "US4104029"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:wistar-institute-of-anatomy-and-biology],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US4196265/en",
-  :title "Method of producing antibodies",
-  :status :granted,
-  :id "US4196265",
-  :sourcing :authoritative,
-  :filing-year 1978,
-  :assignee :wistar-institute-of-anatomy-and-biology,
-  :grant-year 1980,
-  :cites ["GB1300391A" "US2768114"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:massachusetts-institute-of-technology],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US4197369/en",
-  :title "Method for measuring reactant concentrations and quantities",
-  :status :granted,
-  :id "US4197369",
-  :sourcing :authoritative,
-  :filing-year 1978,
-  :assignee :massachusetts-institute-of-technology,
-  :grant-year 1980,
-  :cites ["US3700562" "US3948731"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:bard-laboratories],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US4199649/en",
-  :title "Amorphous monomolecular surface coatings",
-  :status :granted,
-  :id "US4199649",
-  :sourcing :authoritative,
-  :filing-year 1978,
-  :assignee :bard-laboratories,
-  :grant-year 1980,
-  :cites
-  ["US3115424"
-   "US3455736"
-   "US3628996"
-   "US3873499"
-   "US3896254"
-   "US3916035"
-   "US3942982"
-   "US4001870"],
   :term-years 20,
   :open-license :none}]
