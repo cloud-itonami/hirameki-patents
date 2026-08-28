@@ -1,4 +1,54 @@
-[{:assignees [:ellis-foster],
+[{:assignees [:hygrade-sylvania],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2172326/en",
+  :title "Method of making electron-emitting cathodes",
+  :status :granted,
+  :id "US2172326",
+  :sourcing :authoritative,
+  :filing-year 1936,
+  :assignee :hygrade-sylvania,
+  :grant-year 1939,
+  :term-years 20,
+  :open-license :none}
+ {:jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2176240/en",
+  :title "Sampling device for wells",
+  :status :granted,
+  :id "US2176240",
+  :sourcing :authoritative,
+  :filing-year 1936,
+  :assignee :unassigned,
+  :grant-year 1939,
+  :term-years 20,
+  :open-license :none}
+ {:jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2176375/en",
+  :title "Side wall sampler",
+  :status :granted,
+  :id "US2176375",
+  :sourcing :authoritative,
+  :filing-year 1938,
+  :assignee :unassigned,
+  :grant-year 1939,
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:chas-e-francis],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2176418/en",
+  :title "Coating machine",
+  :status :granted,
+  :id "US2176418",
+  :sourcing :authoritative,
+  :filing-year 1938,
+  :assignee :chas-e-francis,
+  :grant-year 1939,
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:ellis-foster],
   :jurisdiction :us,
   :field "UNKNOWN",
   :source "https://patents.google.com/patent/US2176837/en",
@@ -4823,6 +4873,26 @@
    "US2508286"],
   :term-years 20,
   :open-license :none}
+ {:assignees [:ethicon-suture-laboratories],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2640752/en",
+  :title "Process of making sutures",
+  :status :granted,
+  :id "US2640752",
+  :sourcing :authoritative,
+  :filing-year 1949,
+  :assignee :ethicon-suture-laboratories,
+  :grant-year 1953,
+  :cites
+  ["FR824219A"
+   "US194693"
+   "US2059817"
+   "US2205882"
+   "US2240388"
+   "US2374201"],
+  :term-years 20,
+  :open-license :none}
  {:assignees [:emhart-manufacturing],
   :jurisdiction :us,
   :field "UNKNOWN",
@@ -9279,6 +9349,20 @@
   :cites ["US2516591" "US2530769" "US2632751" "US2654722" "US2770608"],
   :term-years 20,
   :open-license :none}
+ {:assignees [:arthur-d-little],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2938892/en",
+  :title "Amides and process of preparing same with a monocarbodhmide",
+  :status :granted,
+  :id "US2938892",
+  :sourcing :authoritative,
+  :filing-year 1958,
+  :assignee :arthur-d-little,
+  :grant-year 1960,
+  :cites ["US2284896" "US2786049" "US2793204" "US2850496" "US2891059"],
+  :term-years 20,
+  :open-license :none}
  {:assignees [:ei-du-pont-de-nemours-and],
   :jurisdiction :us,
   :field "UNKNOWN",
@@ -9778,100 +9862,5 @@
   :assignee :servo-of-america,
   :grant-year 1961,
   :cites ["US1787920" "US2298911" "US2361447" "US2465957" "US2477821"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:universal-metal-products],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US2967644/en",
-  :title "Dispensing machine",
-  :status :granted,
-  :id "US2967644",
-  :sourcing :authoritative,
-  :filing-year 1956,
-  :assignee :universal-metal-products,
-  :grant-year 1961,
-  :cites
-  ["US1084636"
-   "US1226278"
-   "US1388632"
-   "US1529379"
-   "US180945"
-   "US1914980"
-   "US2094702"
-   "US2158795"
-   "US245270"
-   "US2660351"
-   "US2684782"
-   "US2742194"
-   "US2787402"
-   "US279135"
-   "US2848019"
-   "US301598"
-   "US465212"
-   "US792620"
-   "US823677"
-   "US888464"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:american-optical],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US2969708/en",
-  :title "Means for analyzing microscopic particles and the like",
-  :status :granted,
-  :id "US2969708",
-  :sourcing :authoritative,
-  :filing-year 1957,
-  :assignee :american-optical,
-  :grant-year 1961,
-  :cites ["US2065114" "US2519997" "US2769365" "US2788702"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:mine-safety-appliances],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US2970513/en",
-  :title "Apparatus for analysis of materials",
-  :status :granted,
-  :id "US2970513",
-  :sourcing :authoritative,
-  :filing-year 1957,
-  :assignee :mine-safety-appliances,
-  :grant-year 1961,
-  :cites
-  ["US2361235"
-   "US2386831"
-   "US2674696"
-   "US2681415"
-   "US2688090"
-   "US2802109"
-   "US2824968"
-   "US2844729"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:reynolds-metals],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US2970736/en",
-  :title "Container system",
-  :status :granted,
-  :id "US2970736",
-  :sourcing :authoritative,
-  :filing-year 1957,
-  :assignee :reynolds-metals,
-  :grant-year 1961,
-  :cites
-  ["GB190307570A"
-   "US1462443"
-   "US2100739"
-   "US2150058"
-   "US2152322"
-   "US2152323"
-   "US2437114"
-   "US2603401"
-   "US2665616"
-   "US2808192"
-   "US2829701"],
   :term-years 20,
   :open-license :none}]

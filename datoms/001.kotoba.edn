@@ -1,4 +1,45 @@
 [[":db/add"
+  "hirameki-patent:GB2155176A"
+  ":hirameki.patent/field"
+  "UNKNOWN"]
+ [":db/add"
+  "hirameki-patent:GB2155176A"
+  ":hirameki.patent/assignee"
+  ":california-institute-of-technology"]
+ [":db/add"
+  "hirameki-patent:GB2155176A"
+  ":hirameki.patent/status"
+  ":pending"]
+ [":db/add"
+  "hirameki-patent:GB2155176A"
+  ":hirameki.patent/open-license"
+  ":none"]
+ [":db/add"
+  "hirameki-patent:GB2155176A"
+  ":hirameki.obs/release-status"
+  ":pending"]
+ [":db/add"
+  "hirameki-patent:GB2155176A"
+  ":hirameki/sourcing"
+  ":authoritative"]
+ [":db/add" "hirameki-patent:GB2155176A" ":hirameki/derived" true]
+ [":db/add"
+  "hirameki-patent:GB2155176A"
+  ":hirameki.obs/years-to-expiry"
+  -21]
+ [":db/add"
+  "hirameki-patent:GB2155176A"
+  ":hirameki/source"
+  "https://patents.google.com/patent/GB2155176A/en"]
+ [":db/add"
+  "hirameki-patent:GB2156074A"
+  ":hirameki.patent/title"
+  "Improved nucleic acid reagents and methods for their preparation"]
+ [":db/add"
+  "hirameki-patent:GB2156074A"
+  ":hirameki.patent/jurisdiction"
+  ":gb"]
+ [":db/add"
   "hirameki-patent:GB2156074A"
   ":hirameki.patent/field"
   "UNKNOWN"]
@@ -9284,6 +9325,47 @@
   ":hirameki/source"
   "https://patents.google.com/patent/SE437270B/en"]
  [":db/add"
+  "hirameki-patent:SU559701A1"
+  ":hirameki.patent/title"
+  "A method of making collagen-elastic tubes for vascular plastics"]
+ [":db/add"
+  "hirameki-patent:SU559701A1"
+  ":hirameki.patent/jurisdiction"
+  ":su"]
+ [":db/add"
+  "hirameki-patent:SU559701A1"
+  ":hirameki.patent/field"
+  "UNKNOWN"]
+ [":db/add"
+  "hirameki-patent:SU559701A1"
+  ":hirameki.patent/assignee"
+  ":всесоюзный-научно-исследовательский-институт-клинической-и-экспериментальной-хирургии"]
+ [":db/add"
+  "hirameki-patent:SU559701A1"
+  ":hirameki.patent/status"
+  ":granted"]
+ [":db/add"
+  "hirameki-patent:SU559701A1"
+  ":hirameki.patent/open-license"
+  ":none"]
+ [":db/add"
+  "hirameki-patent:SU559701A1"
+  ":hirameki.obs/release-status"
+  ":public-domain"]
+ [":db/add"
+  "hirameki-patent:SU559701A1"
+  ":hirameki/sourcing"
+  ":authoritative"]
+ [":db/add" "hirameki-patent:SU559701A1" ":hirameki/derived" true]
+ [":db/add"
+  "hirameki-patent:SU559701A1"
+  ":hirameki.obs/years-to-expiry"
+  -32]
+ [":db/add"
+  "hirameki-patent:SU559701A1"
+  ":hirameki/source"
+  "https://patents.google.com/patent/SU559701A1/en"]
+ [":db/add"
   "hirameki-patent:SU649751A1"
   ":hirameki.patent/title"
   "Method of identification of microorganisms"]
@@ -9876,95 +9958,4 @@
  [":db/add"
   "hirameki-patent:US1277040"
   ":hirameki.patent/open-license"
-  ":none"]
- [":db/add"
-  "hirameki-patent:US1277040"
-  ":hirameki.obs/release-status"
-  ":in-force"]
- [":db/add"
-  "hirameki-patent:US1277040"
-  ":hirameki/sourcing"
-  ":authoritative"]
- [":db/add" "hirameki-patent:US1277040" ":hirameki/derived" true]
- [":db/add"
-  "hirameki-patent:US1277040"
-  ":hirameki/source"
-  "https://patents.google.com/patent/US1277040/en"]
- [":db/add"
-  "hirameki-patent:US1302352"
-  ":hirameki.patent/title"
-  "Coating-machine."]
- [":db/add"
-  "hirameki-patent:US1302352"
-  ":hirameki.patent/jurisdiction"
-  ":us"]
- [":db/add"
-  "hirameki-patent:US1302352"
-  ":hirameki.patent/field"
-  "UNKNOWN"]
- [":db/add"
-  "hirameki-patent:US1302352"
-  ":hirameki.patent/assignee"
-  ":unassigned"]
- [":db/add"
-  "hirameki-patent:US1302352"
-  ":hirameki.patent/status"
-  ":granted"]
- [":db/add"
-  "hirameki-patent:US1302352"
-  ":hirameki.patent/open-license"
-  ":none"]
- [":db/add"
-  "hirameki-patent:US1302352"
-  ":hirameki.obs/release-status"
-  ":public-domain"]
- [":db/add"
-  "hirameki-patent:US1302352"
-  ":hirameki/sourcing"
-  ":authoritative"]
- [":db/add" "hirameki-patent:US1302352" ":hirameki/derived" true]
- [":db/add"
-  "hirameki-patent:US1302352"
-  ":hirameki.obs/years-to-expiry"
-  -87]
- [":db/add"
-  "hirameki-patent:US1302352"
-  ":hirameki/source"
-  "https://patents.google.com/patent/US1302352/en"]
- [":db/add"
-  "hirameki-patent:US1308111"
-  ":hirameki.patent/title"
-  "Vulcanizing-machine"]
- [":db/add"
-  "hirameki-patent:US1308111"
-  ":hirameki.patent/jurisdiction"
-  ":us"]
- [":db/add"
-  "hirameki-patent:US1308111"
-  ":hirameki.patent/field"
-  "UNKNOWN"]
- [":db/add"
-  "hirameki-patent:US1308111"
-  ":hirameki.patent/assignee"
-  ":unassigned"]
- [":db/add"
-  "hirameki-patent:US1308111"
-  ":hirameki.patent/status"
-  ":granted"]
- [":db/add"
-  "hirameki-patent:US1308111"
-  ":hirameki.patent/open-license"
-  ":none"]
- [":db/add"
-  "hirameki-patent:US1308111"
-  ":hirameki.obs/release-status"
-  ":in-force"]
- [":db/add"
-  "hirameki-patent:US1308111"
-  ":hirameki/sourcing"
-  ":authoritative"]
- [":db/add" "hirameki-patent:US1308111" ":hirameki/derived" true]
- [":db/add"
-  "hirameki-patent:US1308111"
-  ":hirameki/source"
-  "https://patents.google.com/patent/US1308111/en"]]
+  ":none"]]
