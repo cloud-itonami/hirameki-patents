@@ -1,4 +1,159 @@
-[{:assignees [:dios],
+[{:assignees [:mobil-oil-as],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US4096163/en",
+  :title "Conversion of synthesis gas to hydrocarbon mixtures",
+  :status :granted,
+  :id "US4096163",
+  :sourcing :authoritative,
+  :filing-year 1976,
+  :assignee :mobil-oil-as,
+  :grant-year 1978,
+  :cites
+  ["BE828228A"
+   "DE1036837B"
+   "GB293185A"
+   "GB378943A"
+   "US1834621"
+   "US1840450"
+   "US1925389"
+   "US2754314"
+   "US3013984"
+   "US3013990"
+   "US3254023"
+   "US3579438"
+   "US3597494"
+   "US3702886"
+   "US3709979"
+   "US3871993"
+   "US3932552"
+   "US3972958"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:corning-glass-works],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US4098876/en",
+  :title "Reverse sandwich immunoassay",
+  :status :granted,
+  :id "US4098876",
+  :sourcing :authoritative,
+  :filing-year 1976,
+  :assignee :corning-glass-works,
+  :grant-year 1978,
+  :cites ["US3850752" "US3896217" "US3975511" "US3995019"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:high-voltage-engineering],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US4099859/en",
+  :title
+  "Contact lens having a smooth surface layer of a hydrophilic polymer",
+  :status :granted,
+  :id "US4099859",
+  :sourcing :authoritative,
+  :filing-year 1976,
+  :assignee :high-voltage-engineering,
+  :grant-year 1978,
+  :cites ["US3621079" "US3700573" "US3700761" "US3745042" "US3916033"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:baxter-travenol-laboratories],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US4099920/en",
+  :title
+  "Temperature control and stirring apparatus for luminescence measuring photometer",
+  :status :granted,
+  :id "US4099920",
+  :sourcing :authoritative,
+  :filing-year 1977,
+  :assignee :baxter-travenol-laboratories,
+  :grant-year 1978,
+  :cites ["US2878106" "US3764214" "US3790346" "US3917404"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:ortho-diagnostic-systems],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US4100267/en",
+  :title "Method of detecting hepatitis B core antigen and antibody",
+  :status :granted,
+  :id "US4100267",
+  :sourcing :authoritative,
+  :filing-year 1975,
+  :assignee :ortho-diagnostic-systems,
+  :grant-year 1978,
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:technam],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US4100268/en",
+  :title
+  "Preparation of gentamicin sensitized particles for agglutination tests",
+  :status :granted,
+  :id "US4100268",
+  :sourcing :authoritative,
+  :filing-year 1976,
+  :assignee :technam,
+  :grant-year 1978,
+  :cites
+  ["GB1402427A" "US3639558" "US3652761" "US3775536" "US3951748"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:biosearch-medical-products],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US4100309/en",
+  :title
+  "Coated substrate having a low coefficient of friction hydrophilic coating and a method of making the same",
+  :status :granted,
+  :id "US4100309",
+  :sourcing :authoritative,
+  :filing-year 1977,
+  :assignee :biosearch-medical-products,
+  :grant-year 1978,
+  :cites ["US3860672" "US3939049"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:merck-and],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US4102996/en",
+  :title "Method of preparing hepatitis B core antigen",
+  :status :granted,
+  :id "US4102996",
+  :sourcing :authoritative,
+  :filing-year 1977,
+  :assignee :merck-and,
+  :grant-year 1978,
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:dios],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US4103064/en",
+  :title
+  "Microdevice substrate and method for making micropattern devices",
+  :status :granted,
+  :id "US4103064",
+  :sourcing :authoritative,
+  :filing-year 1976,
+  :assignee :dios,
+  :grant-year 1978,
+  :cites
+  ["US2051603"
+   "US3535137"
+   "US3635853"
+   "US3746564"
+   "US3779806"
+   "US3883352"
+   "US3914462"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:dios],
   :jurisdiction :us,
   :field "UNKNOWN",
   :source "https://patents.google.com/patent/US4103073/en",
@@ -746,6 +901,29 @@
    "US4002778"],
   :term-years 20,
   :open-license :none}
+ {:assignees [:block-engineering],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US4166105/en",
+  :title "Dye tagged reagent",
+  :status :granted,
+  :id "US4166105",
+  :sourcing :authoritative,
+  :filing-year 1974,
+  :assignee :block-engineering,
+  :grant-year 1979,
+  :cites
+  ["US3553310"
+   "US3636023"
+   "US3641235"
+   "US3789116"
+   "US3796634"
+   "US3816492"
+   "US3853987"
+   "US3970597"
+   "US4016149"],
+  :term-years 20,
+  :open-license :none}
  {:assignees [:kabi],
   :jurisdiction :us,
   :field "UNKNOWN",
@@ -771,6 +949,27 @@
    "US3868219"
    "US3876504"
    "US4036946"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:block-engineering],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US4169137/en",
+  :title "Antigen detecting reagents",
+  :status :granted,
+  :id "US4169137",
+  :sourcing :authoritative,
+  :filing-year 1974,
+  :assignee :block-engineering,
+  :grant-year 1979,
+  :cites
+  ["US3553310"
+   "US3639558"
+   "US3641235"
+   "US3789116"
+   "US3796634"
+   "US3853987"
+   "US3970597"],
   :term-years 20,
   :open-license :none}
  {:assignees [:american-hospital-supply],
@@ -1686,6 +1885,32 @@
   :cites ["US4020151" "US4046870"],
   :term-years 20,
   :open-license :none}
+ {:assignees [:smithkline-instrument],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US4225784/en",
+  :title
+  "Covalently bound biological substances to plastic materials and use in radioassay",
+  :status :granted,
+  :id "US4225784",
+  :sourcing :authoritative,
+  :filing-year 1976,
+  :assignee :smithkline-instrument,
+  :grant-year 1980,
+  :cites
+  ["GB1257263A"
+   "US3414383"
+   "US3505019"
+   "US3645852"
+   "US3646346"
+   "US3666854"
+   "US3826619"
+   "US3836433"
+   "US3941876"
+   "US3949064"
+   "US3951748"],
+  :term-years 20,
+  :open-license :none}
  {:assignees [:calbiochem-behring],
   :jurisdiction :us,
   :field "UNKNOWN",
@@ -2344,6 +2569,27 @@
   :assignee :university-of-california-san-diego-ucsd,
   :grant-year 1981,
   :cites ["US3282921" "US3376283" "US3856777" "US3891623" "US3998807"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:california-institute-of-technology],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US4267234/en",
+  :title "Polyglutaraldehyde synthesis and protein bonding substrates",
+  :status :granted,
+  :id "US4267234",
+  :sourcing :authoritative,
+  :filing-year 1979,
+  :assignee :california-institute-of-technology,
+  :grant-year 1981,
+  :cites
+  ["US2702823"
+   "US3372086"
+   "US3398125"
+   "US3475359"
+   "US3957741"
+   "US4035316"
+   "US4070246"],
   :term-years 20,
   :open-license :none}
  {:jurisdiction :us,
@@ -8354,6 +8600,17 @@
    "WO1990004652A1"],
   :term-years 20,
   :open-license :none}
+ {:jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US554635/en",
+  :title "dela mar",
+  :status :granted,
+  :id "US554635",
+  :sourcing :authoritative,
+  :assignee :unassigned,
+  :grant-year 1896,
+  :term-years 20,
+  :open-license :none}
  {:assignees [:affymax-technologies],
   :jurisdiction :us,
   :field "UNKNOWN",
@@ -8815,6 +9072,18 @@
   :open-license :none}
  {:jurisdiction :us,
   :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US671417/en",
+  :title "Cigarette-machine.",
+  :status :granted,
+  :id "US671417",
+  :sourcing :authoritative,
+  :filing-year 1900,
+  :assignee :unassigned,
+  :grant-year 1901,
+  :term-years 20,
+  :open-license :none}
+ {:jurisdiction :us,
+  :field "UNKNOWN",
   :source "https://patents.google.com/patent/US678699/en",
   :title "Communion-service.",
   :status :granted,
@@ -8913,6 +9182,17 @@
   :term-years 20,
   :open-license :none}
  {:jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US7226/en",
+  :title "Improved method of dressing cut tobacco",
+  :status :granted,
+  :id "US7226",
+  :sourcing :authoritative,
+  :assignee :unassigned,
+  :grant-year 1850,
+  :term-years 20,
+  :open-license :none}
+ {:jurisdiction :us,
   :essentiality 0.8,
   :field "H01L",
   :title "Method of fabricating a FinFET device",
@@ -8985,6 +9265,19 @@
   :grant-year 1906,
   :term-years 20,
   :open-license :none}
+ {:assignees [:american-tobacco],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US819730/en",
+  :title "Cigarette-machine.",
+  :status :granted,
+  :id "US819730",
+  :sourcing :authoritative,
+  :filing-year 1896,
+  :assignee :american-tobacco,
+  :grant-year 1906,
+  :term-years 20,
+  :open-license :none}
  {:jurisdiction :us,
   :field "UNKNOWN",
   :source "https://patents.google.com/patent/US823677/en",
@@ -8995,6 +9288,18 @@
   :filing-year 1905,
   :assignee :unassigned,
   :grant-year 1906,
+  :term-years 20,
+  :open-license :none}
+ {:jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US844783/en",
+  :title "Paper-cigarette machine.",
+  :status :granted,
+  :id "US844783",
+  :sourcing :authoritative,
+  :filing-year 1904,
+  :assignee :unassigned,
+  :grant-year 1907,
   :term-years 20,
   :open-license :none}
  {:assignees [:broad-institute :massachusetts-institute-of-technology],
@@ -9574,260 +9879,5 @@
   :filing-year 1988,
   :assignee :us-department-of-energy,
   :cites ["EP0251575A1" "US3730844" "US4521509" "US4793705"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:cemu-bioteknik],
-  :jurisdiction :wo,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/WO1989009282A1/en",
-  :title "Method of sequencing dna",
-  :status :pending,
-  :id "WO1989009282A1",
-  :sourcing :authoritative,
-  :filing-year 1989,
-  :assignee :cemu-bioteknik,
-  :cites ["EP0206411A2" "EP0229701A2" "WO1987007645A1"],
-  :term-years 20,
-  :open-license :none}
- {:jurisdiction :wo,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/WO1989009283A1/en",
-  :title
-  "Pyrophosphate-based method and apparatus for sequencing nucleic acids",
-  :status :pending,
-  :id "WO1989009283A1",
-  :sourcing :authoritative,
-  :filing-year 1989,
-  :assignee :unassigned,
-  :term-years 20,
-  :open-license :none}
- {:assignees [:oxford-university-innovation],
-  :jurisdiction :wo,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/WO1989010977A1/en",
-  :title "Analysing polynucleotide sequences",
-  :status :pending,
-  :id "WO1989010977A1",
-  :sourcing :authoritative,
-  :filing-year 1989,
-  :assignee :oxford-university-innovation,
-  :cites ["EP0228075A2" "GB2156074A" "WO1985001051A1"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:cetus],
-  :jurisdiction :wo,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/WO1989011548A1/en",
-  :title "Immobilized sequence-specific probes",
-  :status :pending,
-  :id "WO1989011548A1",
-  :sourcing :authoritative,
-  :filing-year 1989,
-  :assignee :cetus,
-  :cites ["EP0130523A2" "EP0142299A2"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:baylor-college-of-medicine],
-  :jurisdiction :wo,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/WO1990000626A1/en",
-  :title "Solid phase assembly and reconstruction of biopolymers",
-  :status :pending,
-  :id "WO1990000626A1",
-  :sourcing :authoritative,
-  :filing-year 1989,
-  :assignee :baylor-college-of-medicine,
-  :term-years 20,
-  :open-license :none}
- {:assignees [:oxford-university-innovation],
-  :jurisdiction :wo,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/WO1990003382A1/en",
-  :title "Support-bound oligonucleotides",
-  :status :pending,
-  :id "WO1990003382A1",
-  :sourcing :authoritative,
-  :filing-year 1989,
-  :assignee :oxford-university-innovation,
-  :cites
-  ["DE3446635A1"
-   "EP0090789A1"
-   "EP0241363A1"
-   "EP0261283B1"
-   "WO1985001051A1"],
-  :term-years 20,
-  :open-license :none}
- {:assignees
-  [:dnax-research-institute-of-molecular-and-cellular-biology],
-  :jurisdiction :wo,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/WO1990004652A1/en",
-  :title "Dna sequencing by multiple mixed oligonucleotide probes",
-  :status :pending,
-  :id "WO1990004652A1",
-  :sourcing :authoritative,
-  :filing-year 1989,
-  :assignee :dnax-research-institute-of-molecular-and-cellular-biology,
-  :cites ["US4613566" "US4689295" "US4710465" "US4849332" "US4868104"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:eastman-kodak],
-  :jurisdiction :wo,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/WO1990008839A1/en",
-  :title "Thermostable polymerase dna sequencing reaction concentrate",
-  :status :pending,
-  :id "WO1990008839A1",
-  :sourcing :authoritative,
-  :filing-year 1990,
-  :assignee :eastman-kodak,
-  :cites ["EP0258017A2" "WO1988005470A1"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:amersham-international],
-  :jurisdiction :wo,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/WO1990013666A1/en",
-  :title "Sequencing method",
-  :status :pending,
-  :id "WO1990013666A1",
-  :sourcing :authoritative,
-  :filing-year 1990,
-  :assignee :amersham-international,
-  :cites ["EP0223618A2" "EP0233053A2" "US4770992" "WO1989003432A1"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:affymax-technologies],
-  :jurisdiction :wo,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/WO1990015070A1/en",
-  :title "Very large scale immobilized peptide synthesis",
-  :status :pending,
-  :id "WO1990015070A1",
-  :sourcing :authoritative,
-  :filing-year 1990,
-  :assignee :affymax-technologies,
-  :cites ["EP0328256A1"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:sri-international :stanford-research-institute],
-  :jurisdiction :wo,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/WO1991006678A1/en",
-  :title "Dna sequencing",
-  :status :pending,
-  :id "WO1991006678A1",
-  :sourcing :authoritative,
-  :filing-year 1990,
-  :assignee :sri-international,
-  :cites
-  ["EP0219342A2"
-   "EP0223618A2"
-   "WO1989003432A1"
-   "WO1989009283A1"
-   "WO1990013666A1"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:affymax-technologies],
-  :jurisdiction :wo,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/WO1991007087A1/en",
-  :title
-  "Spatially-addressable immobilization of anti-ligands on surfaces",
-  :status :pending,
-  :id "WO1991007087A1",
-  :sourcing :authoritative,
-  :filing-year 1990,
-  :assignee :affymax-technologies,
-  :cites
-  ["US4016043"
-   "US4371515"
-   "US4557998"
-   "US4567902"
-   "US4656252"
-   "US4709044"
-   "US4722906"
-   "US4775745"
-   "US4895809"
-   "US4898951"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:uniroyal-adhesives-and-sealants],
-  :jurisdiction :wo,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/WO1992002568A1/en",
-  :title
-  "Aqueous polyurethane dispersion synthesis for adhesive thermoforming applications",
-  :status :pending,
-  :id "WO1992002568A1",
-  :sourcing :authoritative,
-  :filing-year 1991,
-  :assignee :uniroyal-adhesives-and-sealants,
-  :cites ["US4558090" "US4762880"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:ei-du-pont-de-nemours-and :kansai-paint],
-  :jurisdiction :wo,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/WO1994027741A1/en",
-  :title "Process for forming overcoat",
-  :status :pending,
-  :id "WO1994027741A1",
-  :sourcing :authoritative,
-  :filing-year 1993,
-  :assignee :ei-du-pont-de-nemours-and,
-  :cites ["EP0263429A2" "EP0275138A2" "US4732790" "US4732791"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:basf-lacke-und-farben :nippon-oil-and-fats],
-  :jurisdiction :wo,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/WO1996022339A1/en",
-  :title "Water-based paint composition",
-  :status :pending,
-  :id "WO1996022339A1",
-  :sourcing :authoritative,
-  :filing-year 1996,
-  :assignee :basf-lacke-und-farben,
-  :cites ["EP0292004A2" "GB2060654A" "US3821145" "US5308890"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:avco :textron-automotive-interiors],
-  :jurisdiction :wo,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/WO1996033026A1/en",
-  :title "Radiation cured island coating system",
-  :status :pending,
-  :id "WO1996033026A1",
-  :sourcing :authoritative,
-  :filing-year 1996,
-  :assignee :avco,
-  :cites ["US4713143" "US5320869"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:kansai-paint],
-  :jurisdiction :wo,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/WO1997047396A1/en",
-  :title "Method for forming multi-layer metallic coating",
-  :status :pending,
-  :id "WO1997047396A1",
-  :sourcing :authoritative,
-  :filing-year 1997,
-  :assignee :kansai-paint,
-  :term-years 20,
-  :open-license :none}
- {:assignees [:basf-coatings],
-  :jurisdiction :wo,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/WO1998055526A1/en",
-  :title
-  "Coating agent, method for its production and its use as coating lacquer or transparent lacquer, in particular for coating plastics",
-  :status :pending,
-  :id "WO1998055526A1",
-  :sourcing :authoritative,
-  :filing-year 1998,
-  :assignee :basf-coatings,
-  :cites ["DE3109604A1" "EP0518779A1" "US5145893" "US5504178"],
   :term-years 20,
   :open-license :none}]

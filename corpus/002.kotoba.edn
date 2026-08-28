@@ -1,4 +1,147 @@
-[{:assignees [:rogers-ind],
+[{:assignees [:bayer],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2959348/en",
+  :title
+  "Apparatus for the automatic counting and determining particle size distribution",
+  :status :granted,
+  :id "US2959348",
+  :sourcing :authoritative,
+  :filing-year 1954,
+  :assignee :bayer,
+  :grant-year 1960,
+  :cites
+  ["US1880289"
+   "US2085671"
+   "US2184159"
+   "US2231186"
+   "US2480113"
+   "US2487865"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:halliburton-oil-well-cementing],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2961046/en",
+  :title
+  "Feeding and counting system for injecting balls into a flow stream",
+  :status :granted,
+  :id "US2961046",
+  :sourcing :authoritative,
+  :filing-year 1958,
+  :assignee :halliburton-oil-well-cementing,
+  :grant-year 1960,
+  :cites
+  ["GB189508950A"
+   "US1211738"
+   "US1999430"
+   "US2011133"
+   "US2306747"
+   "US2440482"
+   "US2551477"
+   "US2634098"
+   "US2698582"
+   "US2729206"
+   "US2790500"],
+  :term-years 20,
+  :open-license :none}
+ {:jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2961302/en",
+  :title "Laboratory apparatus",
+  :status :granted,
+  :id "US2961302",
+  :sourcing :authoritative,
+  :filing-year 1957,
+  :assignee :unassigned,
+  :grant-year 1960,
+  :cites ["US1954093" "US2105056" "US2480083" "US2553463" "US9779"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:zenith-radio],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2961314/en",
+  :title "Method of manufacturing color image reproducer",
+  :status :granted,
+  :id "US2961314",
+  :sourcing :authoritative,
+  :filing-year 1956,
+  :assignee :zenith-radio,
+  :grant-year 1960,
+  :cites
+  ["GB713908A"
+   "US2315367"
+   "US2625734"
+   "US2728024"
+   "US2750524"
+   "US2754449"
+   "US2755402"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:texas-instruments],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2962058/en",
+  :title "Apparatus for forming point contacts for transistors",
+  :status :granted,
+  :id "US2962058",
+  :sourcing :authoritative,
+  :filing-year 1953,
+  :assignee :texas-instruments,
+  :grant-year 1960,
+  :cites
+  ["US1261084"
+   "US1792219"
+   "US1849680"
+   "US2280573"
+   "US2575771"
+   "US2641286"
+   "US2646609"
+   "US2662997"
+   "US2677173"
+   "US2711791"
+   "US2732614"
+   "US2744574"
+   "US365212"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:xerox],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2962376/en",
+  :title "Xerographic member",
+  :status :granted,
+  :id "US2962376",
+  :sourcing :authoritative,
+  :filing-year 1958,
+  :assignee :xerox,
+  :grant-year 1960,
+  :cites ["US2687484" "US2803541" "US2803542"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:th-goldschmidt],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2964426/en",
+  :title "Process of impregnating paper to form laminated material",
+  :status :granted,
+  :id "US2964426",
+  :sourcing :authoritative,
+  :filing-year 1958,
+  :assignee :th-goldschmidt,
+  :grant-year 1960,
+  :cites
+  ["US1439743"
+   "US1857690"
+   "US2380239"
+   "US2424284"
+   "US2630395"
+   "US2930106"
+   "US602797"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:rogers-ind],
   :jurisdiction :us,
   :field "UNKNOWN",
   :source "https://patents.google.com/patent/US2965935/en",
@@ -9413,127 +9556,6 @@
   :sourcing :authoritative,
   :filing-year 1967,
   :assignee :miles-laboratories,
-  :grant-year 1971,
-  :term-years 20,
-  :open-license :none}
- {:assignees [:sargent-welch-scientific],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3554648/en",
-  :title
-  "Combination teaching aid and modular instrumental analysis system and components therefor",
-  :status :granted,
-  :id "US3554648",
-  :sourcing :authoritative,
-  :filing-year 1967,
-  :assignee :sargent-welch-scientific,
-  :grant-year 1971,
-  :term-years 20,
-  :open-license :none}
- {:assignees [:scientific-industries],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3554700/en",
-  :title
-  "Method for obtaining a known volume of liquid and absorption apparatus therefor",
-  :status :granted,
-  :id "US3554700",
-  :sourcing :authoritative,
-  :filing-year 1968,
-  :assignee :scientific-industries,
-  :grant-year 1971,
-  :term-years 20,
-  :open-license :none}
- {:assignees [:pharmacia],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3555143/en",
-  :title "Method for the determination of proteins and polypeptides",
-  :status :granted,
-  :id "US3555143",
-  :sourcing :authoritative,
-  :filing-year 1967,
-  :assignee :pharmacia,
-  :grant-year 1971,
-  :term-years 20,
-  :open-license :none}
- {:jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3555284/en",
-  :title
-  "Multistation, single channel analytical photometer and method of use",
-  :status :granted,
-  :id "US3555284",
-  :sourcing :authoritative,
-  :filing-year 1968,
-  :assignee :unassigned,
-  :grant-year 1971,
-  :cites ["US2543303" "US2552107" "US3217877" "US3322956" "US3418053"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:trw],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3555451/en",
-  :title "Laser cold cathode apparatus",
-  :status :granted,
-  :id "US3555451",
-  :sourcing :authoritative,
-  :filing-year 1968,
-  :assignee :trw,
-  :grant-year 1971,
-  :term-years 20,
-  :open-license :none}
- {:assignees [:westinghouse-electric],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3558280/en",
-  :title "Solid state oxygen gauge",
-  :status :granted,
-  :id "US3558280",
-  :sourcing :authoritative,
-  :filing-year 1968,
-  :assignee :westinghouse-electric,
-  :grant-year 1971,
-  :term-years 20,
-  :open-license :none}
- {:assignees [:roche-palo-alto],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3558595/en",
-  :title
-  "2&#39;-cyclic esters and 5&#39;-cyclic esters of 3&#39;-deoxy - 3&#39; - dihydroxyphosphinylmethyl - beta - d - ribofuranosylnucleoside derivatives and intermediates therefor",
-  :status :granted,
-  :id "US3558595",
-  :sourcing :authoritative,
-  :filing-year 1969,
-  :assignee :roche-palo-alto,
-  :grant-year 1971,
-  :term-years 20,
-  :open-license :none}
- {:assignees [:exxon-production-research],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3559736/en",
-  :title "Well completion method",
-  :status :granted,
-  :id "US3559736",
-  :sourcing :authoritative,
-  :filing-year 1969,
-  :assignee :exxon-production-research,
-  :grant-year 1971,
-  :term-years 20,
-  :open-license :none}
- {:assignees [:motorola],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3560278/en",
-  :title "Alignment process for fabricating semiconductor devices",
-  :status :granted,
-  :id "US3560278",
-  :sourcing :authoritative,
-  :filing-year 1968,
-  :assignee :motorola,
   :grant-year 1971,
   :term-years 20,
   :open-license :none}]

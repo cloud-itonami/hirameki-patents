@@ -1,4 +1,107 @@
-[{:assignees [:elizabeth-r-b-stuart],
+[{:assignees [:ei-du-pont-de-nemours-and],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2159152/en",
+  :title "Method of making moistureproof material",
+  :status :granted,
+  :id "US2159152",
+  :sourcing :authoritative,
+  :filing-year 1933,
+  :assignee :ei-du-pont-de-nemours-and,
+  :grant-year 1939,
+  :term-years 20,
+  :open-license :none}
+ {:jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2159704/en",
+  :title "Cigarette and method of making the same",
+  :status :granted,
+  :id "US2159704",
+  :sourcing :authoritative,
+  :filing-year 1937,
+  :assignee :unassigned,
+  :grant-year 1939,
+  :term-years 20,
+  :open-license :none}
+ {:jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2161187/en",
+  :title "Liquid applying machine",
+  :status :granted,
+  :id "US2161187",
+  :sourcing :authoritative,
+  :filing-year 1936,
+  :assignee :unassigned,
+  :grant-year 1939,
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:dunlop-rubber],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2161308/en",
+  :title "Manufacture of goods of spongelike or cellular rubber",
+  :status :granted,
+  :id "US2161308",
+  :sourcing :authoritative,
+  :filing-year 1937,
+  :assignee :dunlop-rubber,
+  :grant-year 1939,
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:chemische-forschungs],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2162616/en",
+  :title "Process for the manufacture of artificial resins",
+  :status :granted,
+  :id "US2162616",
+  :sourcing :authoritative,
+  :filing-year 1936,
+  :assignee :chemische-forschungs,
+  :grant-year 1939,
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:general-electric-company],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2165054/en",
+  :title
+  "Apparatus for comparing or measuring the diffuse reflection of light from surfaces",
+  :status :granted,
+  :id "US2165054",
+  :sourcing :authoritative,
+  :filing-year 1937,
+  :assignee :general-electric-company,
+  :grant-year 1939,
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:texaco],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2167190/en",
+  :title "Method of screening wells",
+  :status :granted,
+  :id "US2167190",
+  :sourcing :authoritative,
+  :filing-year 1937,
+  :assignee :texaco,
+  :grant-year 1939,
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:texaco],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2167191/en",
+  :title "Method and apparatus for screening wells",
+  :status :granted,
+  :id "US2167191",
+  :sourcing :authoritative,
+  :filing-year 1938,
+  :assignee :texaco,
+  :grant-year 1939,
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:elizabeth-r-b-stuart],
   :jurisdiction :us,
   :field "UNKNOWN",
   :source "https://patents.google.com/patent/US2170040/en",
@@ -2456,6 +2559,36 @@
    "US2177643"
    "US2184619"
    "US940449"],
+  :term-years 20,
+  :open-license :none}
+ {:jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2423554/en",
+  :title "Method of and means for making mouthpiece cigarettes",
+  :status :granted,
+  :id "US2423554",
+  :sourcing :authoritative,
+  :filing-year 1940,
+  :assignee :unassigned,
+  :grant-year 1947,
+  :cites
+  ["GB389499A"
+   "GB428549A"
+   "US1712017"
+   "US1967154"
+   "US2066460"
+   "US2093051"
+   "US2133341"
+   "US2160201"
+   "US2172804"
+   "US2178820"
+   "US2197072"
+   "US2218588"
+   "US2236579"
+   "US314639"
+   "US587827"
+   "US711986"
+   "US945651"],
   :term-years 20,
   :open-license :none}
  {:assignees [:arco],
@@ -9709,148 +9842,5 @@
   :assignee :general-dynamics,
   :grant-year 1960,
   :cites ["US1260395" "US2762036" "US2783567" "US2820312" "US2883275"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:bayer],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US2959348/en",
-  :title
-  "Apparatus for the automatic counting and determining particle size distribution",
-  :status :granted,
-  :id "US2959348",
-  :sourcing :authoritative,
-  :filing-year 1954,
-  :assignee :bayer,
-  :grant-year 1960,
-  :cites
-  ["US1880289"
-   "US2085671"
-   "US2184159"
-   "US2231186"
-   "US2480113"
-   "US2487865"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:halliburton-oil-well-cementing],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US2961046/en",
-  :title
-  "Feeding and counting system for injecting balls into a flow stream",
-  :status :granted,
-  :id "US2961046",
-  :sourcing :authoritative,
-  :filing-year 1958,
-  :assignee :halliburton-oil-well-cementing,
-  :grant-year 1960,
-  :cites
-  ["GB189508950A"
-   "US1211738"
-   "US1999430"
-   "US2011133"
-   "US2306747"
-   "US2440482"
-   "US2551477"
-   "US2634098"
-   "US2698582"
-   "US2729206"
-   "US2790500"],
-  :term-years 20,
-  :open-license :none}
- {:jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US2961302/en",
-  :title "Laboratory apparatus",
-  :status :granted,
-  :id "US2961302",
-  :sourcing :authoritative,
-  :filing-year 1957,
-  :assignee :unassigned,
-  :grant-year 1960,
-  :cites ["US1954093" "US2105056" "US2480083" "US2553463" "US9779"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:zenith-radio],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US2961314/en",
-  :title "Method of manufacturing color image reproducer",
-  :status :granted,
-  :id "US2961314",
-  :sourcing :authoritative,
-  :filing-year 1956,
-  :assignee :zenith-radio,
-  :grant-year 1960,
-  :cites
-  ["GB713908A"
-   "US2315367"
-   "US2625734"
-   "US2728024"
-   "US2750524"
-   "US2754449"
-   "US2755402"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:texas-instruments],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US2962058/en",
-  :title "Apparatus for forming point contacts for transistors",
-  :status :granted,
-  :id "US2962058",
-  :sourcing :authoritative,
-  :filing-year 1953,
-  :assignee :texas-instruments,
-  :grant-year 1960,
-  :cites
-  ["US1261084"
-   "US1792219"
-   "US1849680"
-   "US2280573"
-   "US2575771"
-   "US2641286"
-   "US2646609"
-   "US2662997"
-   "US2677173"
-   "US2711791"
-   "US2732614"
-   "US2744574"
-   "US365212"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:xerox],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US2962376/en",
-  :title "Xerographic member",
-  :status :granted,
-  :id "US2962376",
-  :sourcing :authoritative,
-  :filing-year 1958,
-  :assignee :xerox,
-  :grant-year 1960,
-  :cites ["US2687484" "US2803541" "US2803542"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:th-goldschmidt],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US2964426/en",
-  :title "Process of impregnating paper to form laminated material",
-  :status :granted,
-  :id "US2964426",
-  :sourcing :authoritative,
-  :filing-year 1958,
-  :assignee :th-goldschmidt,
-  :grant-year 1960,
-  :cites
-  ["US1439743"
-   "US1857690"
-   "US2380239"
-   "US2424284"
-   "US2630395"
-   "US2930106"
-   "US602797"],
   :term-years 20,
   :open-license :none}]
