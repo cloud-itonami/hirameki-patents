@@ -1,4 +1,108 @@
-[{:assignees [:morton-e-frank],
+[{:assignees [:engelhard-minerals-and-chemicals],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3567383/en",
+  :title "Hydrogen detectors",
+  :status :granted,
+  :id "US3567383",
+  :sourcing :authoritative,
+  :filing-year 1968,
+  :assignee :engelhard-minerals-and-chemicals,
+  :grant-year 1971,
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:buckbee-mears],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3574013/en",
+  :title
+  "Aperture mask for color tv picture tubes and method for making same",
+  :status :granted,
+  :id "US3574013",
+  :sourcing :authoritative,
+  :filing-year 1969,
+  :assignee :buckbee-mears,
+  :grant-year 1971,
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:texas-instruments],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3575733/en",
+  :title "Electron beam techniques in integrated circuits",
+  :status :granted,
+  :id "US3575733",
+  :sourcing :authoritative,
+  :filing-year 1968,
+  :assignee :texas-instruments,
+  :grant-year 1971,
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:hazleton-laboratories],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3575812/en",
+  :title "Method for the detection of virus",
+  :status :granted,
+  :id "US3575812",
+  :sourcing :authoritative,
+  :filing-year 1968,
+  :assignee :hazleton-laboratories,
+  :grant-year 1971,
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:beckman-instruments],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3575836/en",
+  :title "Polarographic sensor",
+  :status :granted,
+  :id "US3575836",
+  :sourcing :authoritative,
+  :filing-year 1969,
+  :assignee :beckman-instruments,
+  :grant-year 1971,
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:matsushita-electric-industrial],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3576583/en",
+  :title "Direct record image discharge tube",
+  :status :granted,
+  :id "US3576583",
+  :sourcing :authoritative,
+  :filing-year 1967,
+  :assignee :matsushita-electric-industrial,
+  :grant-year 1971,
+  :cites
+  ["US1907507"
+   "US2187126"
+   "US2820168"
+   "US2834889"
+   "US2967961"
+   "US2996573"
+   "US3105916"
+   "US3197662"
+   "US3211937"
+   "US3270234"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:automation-products],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3583209/en",
+  :title "Method of and apparatus for measuring mass of a material",
+  :status :granted,
+  :id "US3583209",
+  :sourcing :authoritative,
+  :filing-year 1969,
+  :assignee :automation-products,
+  :grant-year 1971,
+  :cites ["US2943476" "US3270563" "US3339400" "US3463727"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:morton-e-frank],
   :jurisdiction :us,
   :field "UNKNOWN",
   :source "https://patents.google.com/patent/US3585007/en",
@@ -733,6 +837,21 @@
   :assignee :arbco,
   :grant-year 1972,
   :cites ["GB751991A" "US3403045"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:macdermid],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3632388/en",
+  :title
+  "Preactivation conditioner for electroless metal plating system",
+  :status :granted,
+  :id "US3632388",
+  :sourcing :authoritative,
+  :filing-year 1969,
+  :assignee :macdermid,
+  :grant-year 1972,
+  :cites ["US3011920" "US3212918" "US3245826" "US3466232"],
   :term-years 20,
   :open-license :none}
  {:assignees [:miles-laboratories],
@@ -1870,6 +1989,19 @@
   :grant-year 1972,
   :term-years 20,
   :open-license :none}
+ {:jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3700573/en",
+  :title
+  "Method of preparation of hydrophilic silicones by radiochemical grafting",
+  :status :granted,
+  :id "US3700573",
+  :sourcing :authoritative,
+  :filing-year 1969,
+  :assignee :unassigned,
+  :grant-year 1972,
+  :term-years 20,
+  :open-license :none}
  {:assignees [:ici-australia],
   :jurisdiction :us,
   :field "UNKNOWN",
@@ -2979,6 +3111,19 @@
   :assignee :technicon-instruments,
   :grant-year 1973,
   :cites ["US3014848" "US3437447" "US3511573"],
+  :term-years 20,
+  :open-license :none}
+ {:jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3773514/en",
+  :title "Light-sensitive structure",
+  :status :granted,
+  :id "US3773514",
+  :sourcing :authoritative,
+  :filing-year 1971,
+  :assignee :unassigned,
+  :grant-year 1973,
+  :cites ["US3136637" "US3458311"],
   :term-years 20,
   :open-license :none}
  {:assignees [:united-states-department-of-the-army],
@@ -4776,6 +4921,20 @@
   :cites ["US3558522" "US3574137" "US3632735" "US3640896"],
   :term-years 20,
   :open-license :none}
+ {:assignees [:dow-corning],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3873499/en",
+  :title "Fast curing mercaptoalkyl vinyl siloxane resins",
+  :status :granted,
+  :id "US3873499",
+  :sourcing :authoritative,
+  :filing-year 1973,
+  :assignee :dow-corning,
+  :grant-year 1975,
+  :cites ["US3632715"],
+  :term-years 20,
+  :open-license :none}
  {:assignees [:mochida-pharmaceutical],
   :jurisdiction :us,
   :field "UNKNOWN",
@@ -5289,6 +5448,26 @@
   :cites ["US3555143" "US3645852"],
   :term-years 20,
   :open-license :none}
+ {:assignees [:semikron-and-kg],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3896254/en",
+  :title "Coating semiconductor surfaces",
+  :status :granted,
+  :id "US3896254",
+  :sourcing :authoritative,
+  :filing-year 1972,
+  :assignee :semikron-and-kg,
+  :grant-year 1975,
+  :cites
+  ["US3188229"
+   "US3346384"
+   "US3450017"
+   "US3620827"
+   "US3650796"
+   "US3666548"],
+  :term-years 20,
+  :open-license :none}
  {:assignees [:east-west-medical-products],
   :jurisdiction :us,
   :field "UNKNOWN",
@@ -5600,6 +5779,20 @@
   :assignee :icn-pharmaceuticals,
   :grant-year 1975,
   :cites ["US3317511" "US3712885"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:texas-instruments],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3916035/en",
+  :title "Epoxy-polymer electron beam resists",
+  :status :granted,
+  :id "US3916035",
+  :sourcing :authoritative,
+  :filing-year 1973,
+  :assignee :texas-instruments,
+  :grant-year 1975,
+  :cites ["US3573334" "US3681103" "US3794510" "US3816281"],
   :term-years 20,
   :open-license :none}
  {:assignees [:particle-technology],
@@ -6177,6 +6370,21 @@
    "US3817703"],
   :term-years 20,
   :open-license :none}
+ {:assignees [:hitachi],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3942982/en",
+  :title
+  "Method for controlling the degree of side-etch in thin oxide films by photo-etching process",
+  :status :granted,
+  :id "US3942982",
+  :sourcing :authoritative,
+  :filing-year 1974,
+  :assignee :hitachi,
+  :grant-year 1976,
+  :cites ["US3405017" "US3482977" "US3520683" "US3586554" "US3716390"],
+  :term-years 20,
+  :open-license :none}
  {:jurisdiction :us,
   :field "UNKNOWN",
   :source "https://patents.google.com/patent/US3947352/en",
@@ -6455,6 +6663,21 @@
   :assignee :midwest-research-institute,
   :grant-year 1976,
   :cites ["US3479183" "US3519538" "US3639558" "US3817837" "US3843447"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:essilor-international-compagnie-generale-doptique],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3959102/en",
+  :title
+  "Method for preparing a crosslinked graft copolymer of silicone and polyvinylpyrrolidone for use as a contact lens, and a contact lens produced thereby",
+  :status :granted,
+  :id "US3959102",
+  :sourcing :authoritative,
+  :filing-year 1974,
+  :assignee :essilor-international-compagnie-generale-doptique,
+  :grant-year 1976,
+  :cites ["US3639524" "US3647736" "US3700573" "US3700761" "US3840448"],
   :term-years 20,
   :open-license :none}
  {:assignees [:dexter],
@@ -7253,6 +7476,34 @@
   :assignee :unassigned,
   :grant-year 1976,
   :cites ["US3206602" "US3404270" "US3573220" "US3758412" "US3798448"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:hitachi],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US4001870/en",
+  :title
+  "Isolating protective film for semiconductor devices and method for making the same",
+  :status :granted,
+  :id "US4001870",
+  :sourcing :authoritative,
+  :filing-year 1973,
+  :assignee :hitachi,
+  :grant-year 1977,
+  :cites
+  ["US3405017"
+   "US3411122"
+   "US3447975"
+   "US3597269"
+   "US3597665"
+   "US3597834"
+   "US3615913"
+   "US3700497"
+   "US3725344"
+   "US3725743"
+   "US3737340"
+   "US3788895"
+   "US3801880"],
   :term-years 20,
   :open-license :none}
  {:jurisdiction :us,
@@ -8620,6 +8871,21 @@
   :cites ["US3850752" "US3896217" "US3975511" "US3995019"],
   :term-years 20,
   :open-license :none}
+ {:assignees [:high-voltage-engineering],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US4099859/en",
+  :title
+  "Contact lens having a smooth surface layer of a hydrophilic polymer",
+  :status :granted,
+  :id "US4099859",
+  :sourcing :authoritative,
+  :filing-year 1976,
+  :assignee :high-voltage-engineering,
+  :grant-year 1978,
+  :cites ["US3621079" "US3700573" "US3700761" "US3745042" "US3916033"],
+  :term-years 20,
+  :open-license :none}
  {:assignees [:baxter-travenol-laboratories],
   :jurisdiction :us,
   :field "UNKNOWN",
@@ -8925,297 +9191,5 @@
    "US3849830"
    "US3873682"
    "US4012200"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:mcdonnell-douglas],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US4118280/en",
-  :title "Automated microbial analyzer",
-  :status :granted,
-  :id "US4118280",
-  :sourcing :authoritative,
-  :filing-year 1976,
-  :assignee :mcdonnell-douglas,
-  :grant-year 1978,
-  :cites
-  ["US2375706"
-   "US2949815"
-   "US3152509"
-   "US3179007"
-   "US3193684"
-   "US3554639"
-   "US3704953"
-   "US3776817"
-   "US3851972"
-   "US3902799"
-   "US3928140"],
-  :term-years 20,
-  :open-license :none}
- {:jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US4119709/en",
-  :title "Diagnostic test",
-  :status :granted,
-  :id "US4119709",
-  :sourcing :authoritative,
-  :filing-year 1976,
-  :assignee :unassigned,
-  :grant-year 1978,
-  :cites
-  ["GB697060A"
-   "US3666854"
-   "US3768979"
-   "US3775615"
-   "US3776698"
-   "US3901654"
-   "US3960492"],
-  :term-years 20,
-  :open-license :none}
- {:jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US4120649/en",
-  :title "Transplants",
-  :status :granted,
-  :id "US4120649",
-  :sourcing :authoritative,
-  :filing-year 1976,
-  :assignee :unassigned,
-  :grant-year 1978,
-  :cites ["US3057775" "US3974526" "US3988782"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:becton-dickinson-and],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US4120945/en",
-  :title
-  "Substrate coated with receptor and labeled ligand for assays",
-  :status :granted,
-  :id "US4120945",
-  :sourcing :authoritative,
-  :filing-year 1976,
-  :assignee :becton-dickinson-and,
-  :grant-year 1978,
-  :cites ["US3646346" "US3790663" "US3867517" "US4012494" "US4017597"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:hoffmann-la-roche],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US4124598/en",
-  :title "Psoralens",
-  :status :granted,
-  :id "US4124598",
-  :sourcing :authoritative,
-  :filing-year 1976,
-  :assignee :hoffmann-la-roche,
-  :grant-year 1978,
-  :cites ["US3201421"],
-  :term-years 20,
-  :open-license :none}
- {:jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US4125492/en",
-  :title
-  "Affinity chromatography of vibrio cholerae enterotoxin-ganglioside polysaccharide and the biological effects of ganglioside-containing soluble polymers",
-  :status :granted,
-  :id "US4125492",
-  :sourcing :authoritative,
-  :filing-year 1976,
-  :assignee :unassigned,
-  :grant-year 1978,
-  :cites ["US3278392"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:fuji-photo-film],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US4128470/en",
-  :title
-  "Supports for electrophoresis and process for the production of the same",
-  :status :granted,
-  :id "US4128470",
-  :sourcing :authoritative,
-  :filing-year 1978,
-  :assignee :fuji-photo-film,
-  :grant-year 1978,
-  :cites
-  ["US1421341"
-   "US2944017"
-   "US3439074"
-   "US3556992"
-   "US3592953"
-   "US3594263"
-   "US3808118"
-   "US3857778"
-   "US3960499"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:toyo-soda-manufacturing],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US4128706/en",
-  :title "Carrier for liquid chromatography",
-  :status :granted,
-  :id "US4128706",
-  :sourcing :authoritative,
-  :filing-year 1977,
-  :assignee :toyo-soda-manufacturing,
-  :grant-year 1978,
-  :cites ["US3645996" "US3970603" "US4038469"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:syva],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US4130462/en",
-  :title
-  "Receptor steric hindrance immunoassay for receptor determination",
-  :status :granted,
-  :id "US4130462",
-  :sourcing :authoritative,
-  :filing-year 1976,
-  :assignee :syva,
-  :grant-year 1978,
-  :cites ["US3935074"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:american-gas-association],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US4132672/en",
-  :title "Methanation catalyst",
-  :status :granted,
-  :id "US4132672",
-  :sourcing :authoritative,
-  :filing-year 1977,
-  :assignee :american-gas-association,
-  :grant-year 1979,
-  :cites ["US3271325" "US3361535" "US3930812" "US3953363" "US3988334"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:fuji-photo-film],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US4132888/en",
-  :title "Device for automatically focusing image",
-  :status :granted,
-  :id "US4132888",
-  :sourcing :authoritative,
-  :filing-year 1977,
-  :assignee :fuji-photo-film,
-  :grant-year 1979,
-  :cites ["US3054898" "US3682071" "US3844658" "US3953729" "US4047022"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:miles-laboratories],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US4134792/en",
-  :title
-  "Specific binding assay with an enzyme modulator as a labeling substance",
-  :status :granted,
-  :id "US4134792",
-  :sourcing :authoritative,
-  :filing-year 1976,
-  :assignee :miles-laboratories,
-  :grant-year 1979,
-  :cites ["US3817837" "US3850752" "US3880934" "US3975342" "US4003792"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:university-of-utah],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US4136566/en",
-  :title "Semiconductor temperature sensor",
-  :status :granted,
-  :id "US4136566",
-  :sourcing :authoritative,
-  :filing-year 1977,
-  :assignee :university-of-utah,
-  :grant-year 1979,
-  :cites ["US2824235" "US3960017" "US4016761"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:union-carbide],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US4137279/en",
-  :title
-  "Copolymers of polycaprolactone derivatives and ethylenically unsaturated monomers",
-  :status :granted,
-  :id "US4137279",
-  :sourcing :authoritative,
-  :filing-year 1977,
-  :assignee :union-carbide,
-  :grant-year 1979,
-  :cites
-  ["US2890197"
-   "US3027357"
-   "US3169945"
-   "US3408421"
-   "US3511792"
-   "US3549586"
-   "US3583955"
-   "US3668178"
-   "US3784586"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:enzo-biochem],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US4139346/en",
-  :title "Nucleic acid and protein binding paper",
-  :status :granted,
-  :id "US4139346",
-  :sourcing :authoritative,
-  :filing-year 1977,
-  :assignee :enzo-biochem,
-  :grant-year 1979,
-  :cites ["US4069352"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:becton-dickinson-and],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US4139604/en",
-  :title "Separation technique for assays",
-  :status :granted,
-  :id "US4139604",
-  :sourcing :authoritative,
-  :filing-year 1977,
-  :assignee :becton-dickinson-and,
-  :grant-year 1979,
-  :cites ["US3920580" "US3925020" "US3933997" "US4018564"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:eastman-kodak],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US4142891/en",
-  :title
-  "Photographic products and processes employing nondiffusible azo dye-releasing compounds",
-  :status :granted,
-  :id "US4142891",
-  :sourcing :authoritative,
-  :filing-year 1977,
-  :assignee :eastman-kodak,
-  :grant-year 1979,
-  :cites
-  ["FR1124882A"
-   "FR1200358A"
-   "GB899758A"
-   "US2348417"
-   "US2495244"
-   "US2830042"
-   "US2938895"
-   "US3081167"
-   "US3097196"
-   "US3196014"
-   "US3563739"
-   "US3931144"
-   "US3980479"
-   "US4013635"],
   :term-years 20,
   :open-license :none}]
