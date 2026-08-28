@@ -1,4 +1,17 @@
-[{:assignees [:hygrade-sylvania],
+[{:assignees [:elizabeth-r-b-stuart],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2170040/en",
+  :title "Cooking and baking utensil",
+  :status :granted,
+  :id "US2170040",
+  :sourcing :authoritative,
+  :filing-year 1936,
+  :assignee :elizabeth-r-b-stuart,
+  :grant-year 1939,
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:hygrade-sylvania],
   :jurisdiction :us,
   :field "UNKNOWN",
   :source "https://patents.google.com/patent/US2172326/en",
@@ -5377,6 +5390,20 @@
    "US2485589"],
   :term-years 20,
   :open-license :none}
+ {:jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2666355/en",
+  :title
+  "Method of studying chemical reactions by measuring interfacial film thicknesses",
+  :status :granted,
+  :id "US2666355",
+  :sourcing :authoritative,
+  :filing-year 1951,
+  :assignee :unassigned,
+  :grant-year 1954,
+  :cites ["DE722746C" "US2425399"],
+  :term-years 20,
+  :open-license :none}
  {:assignees [:crown-zellerbach],
   :jurisdiction :us,
   :field "UNKNOWN",
@@ -9825,42 +9852,5 @@
    "US2630395"
    "US2930106"
    "US602797"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:rogers-ind],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US2965935/en",
-  :title "Combination window",
-  :status :granted,
-  :id "US2965935",
-  :sourcing :authoritative,
-  :filing-year 1958,
-  :assignee :rogers-ind,
-  :grant-year 1960,
-  :cites
-  ["US2101349"
-   "US2639769"
-   "US2730776"
-   "US2775797"
-   "US2781112"
-   "US2804181"
-   "US2804952"
-   "US2818610"
-   "US2861659"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:servo-of-america],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US2967211/en",
-  :title "Optical scanning mechanism",
-  :status :granted,
-  :id "US2967211",
-  :sourcing :authoritative,
-  :filing-year 1952,
-  :assignee :servo-of-america,
-  :grant-year 1961,
-  :cites ["US1787920" "US2298911" "US2361447" "US2465957" "US2477821"],
   :term-years 20,
   :open-license :none}]

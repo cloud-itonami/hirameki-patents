@@ -1,4 +1,41 @@
-[{:assignees [:universal-metal-products],
+[{:assignees [:rogers-ind],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2965935/en",
+  :title "Combination window",
+  :status :granted,
+  :id "US2965935",
+  :sourcing :authoritative,
+  :filing-year 1958,
+  :assignee :rogers-ind,
+  :grant-year 1960,
+  :cites
+  ["US2101349"
+   "US2639769"
+   "US2730776"
+   "US2775797"
+   "US2781112"
+   "US2804181"
+   "US2804952"
+   "US2818610"
+   "US2861659"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:servo-of-america],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2967211/en",
+  :title "Optical scanning mechanism",
+  :status :granted,
+  :id "US2967211",
+  :sourcing :authoritative,
+  :filing-year 1952,
+  :assignee :servo-of-america,
+  :grant-year 1961,
+  :cites ["US1787920" "US2298911" "US2361447" "US2465957" "US2477821"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:universal-metal-products],
   :jurisdiction :us,
   :field "UNKNOWN",
   :source "https://patents.google.com/patent/US2967644/en",
@@ -9497,33 +9534,6 @@
   :sourcing :authoritative,
   :filing-year 1968,
   :assignee :motorola,
-  :grant-year 1971,
-  :term-years 20,
-  :open-license :none}
- {:assignees [:international-business-machines],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3560754/en",
-  :title "Photoelectric particle separator using time delay",
-  :status :granted,
-  :id "US3560754",
-  :sourcing :authoritative,
-  :filing-year 1965,
-  :assignee :international-business-machines,
-  :grant-year 1971,
-  :cites ["US2387952" "US2417877" "US3052353" "US3161589" "US3320428"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:organon],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3565987/en",
-  :title "Immunochemical determinations of antigens and antibodies",
-  :status :granted,
-  :id "US3565987",
-  :sourcing :authoritative,
-  :filing-year 1967,
-  :assignee :organon,
   :grant-year 1971,
   :term-years 20,
   :open-license :none}]

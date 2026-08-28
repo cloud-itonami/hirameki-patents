@@ -1,4 +1,45 @@
 [[":db/add"
+  "hirameki-patent:GB2153356A"
+  ":hirameki.patent/field"
+  "UNKNOWN"]
+ [":db/add"
+  "hirameki-patent:GB2153356A"
+  ":hirameki.patent/assignee"
+  ":california-institute-of-technology"]
+ [":db/add"
+  "hirameki-patent:GB2153356A"
+  ":hirameki.patent/status"
+  ":pending"]
+ [":db/add"
+  "hirameki-patent:GB2153356A"
+  ":hirameki.patent/open-license"
+  ":none"]
+ [":db/add"
+  "hirameki-patent:GB2153356A"
+  ":hirameki.obs/release-status"
+  ":pending"]
+ [":db/add"
+  "hirameki-patent:GB2153356A"
+  ":hirameki/sourcing"
+  ":authoritative"]
+ [":db/add" "hirameki-patent:GB2153356A" ":hirameki/derived" true]
+ [":db/add"
+  "hirameki-patent:GB2153356A"
+  ":hirameki.obs/years-to-expiry"
+  -22]
+ [":db/add"
+  "hirameki-patent:GB2153356A"
+  ":hirameki/source"
+  "https://patents.google.com/patent/GB2153356A/en"]
+ [":db/add"
+  "hirameki-patent:GB2155176A"
+  ":hirameki.patent/title"
+  "Sequencing DNA"]
+ [":db/add"
+  "hirameki-patent:GB2155176A"
+  ":hirameki.patent/jurisdiction"
+  ":gb"]
+ [":db/add"
   "hirameki-patent:GB2155176A"
   ":hirameki.patent/field"
   "UNKNOWN"]
@@ -9916,46 +9957,5 @@
   ":granted"]
  [":db/add"
   "hirameki-patent:US1263485"
-  ":hirameki.patent/open-license"
-  ":none"]
- [":db/add"
-  "hirameki-patent:US1263485"
-  ":hirameki.obs/release-status"
-  ":public-domain"]
- [":db/add"
-  "hirameki-patent:US1263485"
-  ":hirameki/sourcing"
-  ":authoritative"]
- [":db/add" "hirameki-patent:US1263485" ":hirameki/derived" true]
- [":db/add"
-  "hirameki-patent:US1263485"
-  ":hirameki.obs/years-to-expiry"
-  -89]
- [":db/add"
-  "hirameki-patent:US1263485"
-  ":hirameki/source"
-  "https://patents.google.com/patent/US1263485/en"]
- [":db/add"
-  "hirameki-patent:US1277040"
-  ":hirameki.patent/title"
-  "Light-splitting device for color photography."]
- [":db/add"
-  "hirameki-patent:US1277040"
-  ":hirameki.patent/jurisdiction"
-  ":us"]
- [":db/add"
-  "hirameki-patent:US1277040"
-  ":hirameki.patent/field"
-  "UNKNOWN"]
- [":db/add"
-  "hirameki-patent:US1277040"
-  ":hirameki.patent/assignee"
-  ":brewster-film"]
- [":db/add"
-  "hirameki-patent:US1277040"
-  ":hirameki.patent/status"
-  ":granted"]
- [":db/add"
-  "hirameki-patent:US1277040"
   ":hirameki.patent/open-license"
   ":none"]]

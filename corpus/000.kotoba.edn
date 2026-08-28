@@ -65,6 +65,18 @@
   :assignee :unassigned,
   :term-years 20,
   :open-license :none}
+ {:jurisdiction :be,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/BE841179A/en",
+  :title
+  "COMPOSITION AND SPECIFIC FIXATION PROCESS FOR DETECTING A LIGAND IN A LIQUID MEDIUM",
+  :status :pending,
+  :id "BE841179A",
+  :sourcing :authoritative,
+  :filing-year 1976,
+  :assignee :unassigned,
+  :term-years 20,
+  :open-license :none}
  {:assignees [:exploaterings-tbf],
   :jurisdiction :ca,
   :field "UNKNOWN",
@@ -8646,19 +8658,6 @@
   :sourcing :authoritative,
   :filing-year 1938,
   :assignee :texaco,
-  :grant-year 1939,
-  :term-years 20,
-  :open-license :none}
- {:assignees [:elizabeth-r-b-stuart],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US2170040/en",
-  :title "Cooking and baking utensil",
-  :status :granted,
-  :id "US2170040",
-  :sourcing :authoritative,
-  :filing-year 1936,
-  :assignee :elizabeth-r-b-stuart,
   :grant-year 1939,
   :term-years 20,
   :open-license :none}]

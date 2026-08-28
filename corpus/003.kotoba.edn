@@ -1,4 +1,31 @@
-[{:assignees [:engelhard-minerals-and-chemicals],
+[{:assignees [:international-business-machines],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3560754/en",
+  :title "Photoelectric particle separator using time delay",
+  :status :granted,
+  :id "US3560754",
+  :sourcing :authoritative,
+  :filing-year 1965,
+  :assignee :international-business-machines,
+  :grant-year 1971,
+  :cites ["US2387952" "US2417877" "US3052353" "US3161589" "US3320428"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:organon],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3565987/en",
+  :title "Immunochemical determinations of antigens and antibodies",
+  :status :granted,
+  :id "US3565987",
+  :sourcing :authoritative,
+  :filing-year 1967,
+  :assignee :organon,
+  :grant-year 1971,
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:engelhard-minerals-and-chemicals],
   :jurisdiction :us,
   :field "UNKNOWN",
   :source "https://patents.google.com/patent/US3567383/en",
@@ -459,6 +486,30 @@
   :assignee :unassigned,
   :grant-year 1971,
   :cites ["US3297157" "US3517807"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:coulter-electronics],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3614231/en",
+  :title "Optical aerosol counter",
+  :status :granted,
+  :id "US3614231",
+  :sourcing :authoritative,
+  :filing-year 1968,
+  :assignee :coulter-electronics,
+  :grant-year 1971,
+  :cites
+  ["US2347066"
+   "US2347067"
+   "US2732753"
+   "US2852693"
+   "US2920525"
+   "US3039355"
+   "US3231748"
+   "US3248551"
+   "US3361030"
+   "US3398286"],
   :term-years 20,
   :open-license :none}
  {:assignees [:international-business-machines],
@@ -996,6 +1047,19 @@
   :grant-year 1972,
   :term-years 20,
   :open-license :none}
+ {:assignees [:miles-laboratories],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3641235/en",
+  :title "Immunological reagent and process for making same",
+  :status :granted,
+  :id "US3641235",
+  :sourcing :authoritative,
+  :filing-year 1968,
+  :assignee :miles-laboratories,
+  :grant-year 1972,
+  :term-years 20,
+  :open-license :none}
  {:assignees [:us-atomic-energy-commission-aec],
   :jurisdiction :us,
   :field "UNKNOWN",
@@ -1160,6 +1224,20 @@
    "US3427120"],
   :term-years 20,
   :open-license :none}
+ {:assignees [:agency-of-industrial-science-and-technology],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3652492/en",
+  :title
+  "Process for production of high molecular substance having optical specificity",
+  :status :granted,
+  :id "US3652492",
+  :sourcing :authoritative,
+  :filing-year 1968,
+  :assignee :agency-of-industrial-science-and-technology,
+  :grant-year 1972,
+  :term-years 20,
+  :open-license :none}
  {:assignees [:corning-glass-works],
   :jurisdiction :us,
   :field "UNKNOWN",
@@ -1262,6 +1340,20 @@
   :assignee :bell-telephone-laboratories,
   :grant-year 1972,
   :cites ["US3240108" "US3370268" "US3519331"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:jerusalem-the-university-of],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3659104/en",
+  :title "Method of measuring serum thyroxine",
+  :status :granted,
+  :id "US3659104",
+  :sourcing :authoritative,
+  :filing-year 1970,
+  :assignee :jerusalem-the-university-of,
+  :grant-year 1972,
+  :cites ["US3451777" "US3507618"],
   :term-years 20,
   :open-license :none}
  {:assignees [:national-aeronautics-and-space-administration-nasa],
@@ -2629,6 +2721,19 @@
   :grant-year 1973,
   :term-years 20,
   :open-license :none}
+ {:assignees [:science-spectrum],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3730842/en",
+  :title "Process for determining bacterial drug sensitivity",
+  :status :granted,
+  :id "US3730842",
+  :sourcing :authoritative,
+  :filing-year 1970,
+  :assignee :science-spectrum,
+  :grant-year 1973,
+  :term-years 20,
+  :open-license :none}
  {:assignees [:purdue-research-foundation],
   :jurisdiction :us,
   :field "UNKNOWN",
@@ -2653,6 +2758,21 @@
   :filing-year 1971,
   :assignee :agfa-gevaert,
   :grant-year 1973,
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:technicon-instruments],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3734622/en",
+  :title
+  "Apparatus for photometrically analyzing a droplet of a sample liquid",
+  :status :granted,
+  :id "US3734622",
+  :sourcing :authoritative,
+  :filing-year 1971,
+  :assignee :technicon-instruments,
+  :grant-year 1973,
+  :cites ["US1939088" "US2176618" "US3263553" "US3432275" "US3520609"],
   :term-years 20,
   :open-license :none}
  {:assignees [:us-atomic-energy-commission-aec],
@@ -2813,6 +2933,19 @@
   :cites ["US3537853" "US3619393" "US3701721" "US3708413"],
   :term-years 20,
   :open-license :none}
+ {:assignees [:bjorksten-research-laboratories],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3754867/en",
+  :title "Carbon dioxide sensing system",
+  :status :granted,
+  :id "US3754867",
+  :sourcing :authoritative,
+  :filing-year 1971,
+  :assignee :bjorksten-research-laboratories,
+  :grant-year 1973,
+  :term-years 20,
+  :open-license :none}
  {:assignees [:f-hoffmann-la-roche],
   :jurisdiction :us,
   :field "UNKNOWN",
@@ -2865,6 +2998,19 @@
   :sourcing :authoritative,
   :filing-year 1970,
   :assignee :millipore,
+  :grant-year 1973,
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:koch-light-laboratories],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3761357/en",
+  :title "Bonding of enzymes to polymeric materials",
+  :status :granted,
+  :id "US3761357",
+  :sourcing :authoritative,
+  :filing-year 1971,
+  :assignee :koch-light-laboratories,
   :grant-year 1973,
   :term-years 20,
   :open-license :none}
@@ -3178,6 +3324,18 @@
   :assignee :mitsubishi-electric,
   :grant-year 1973,
   :cites ["US3536483" "US3575500" "US3630608"],
+  :term-years 20,
+  :open-license :none}
+ {:jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3776817/en",
+  :title "Method and apparatus for determining bacterial growth",
+  :status :granted,
+  :id "US3776817",
+  :sourcing :authoritative,
+  :filing-year 1971,
+  :assignee :unassigned,
+  :grant-year 1973,
   :term-years 20,
   :open-license :none}
  {:assignees [:monsanto],
@@ -4933,6 +5091,20 @@
   :assignee :dow-corning,
   :grant-year 1975,
   :cites ["US3632715"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:astra-lakemedel],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3873521/en",
+  :title "Esters of {60 -amino penicillins",
+  :status :granted,
+  :id "US3873521",
+  :sourcing :authoritative,
+  :filing-year 1971,
+  :assignee :astra-lakemedel,
+  :grant-year 1975,
+  :cites ["US3674776" "US3697507"],
   :term-years 20,
   :open-license :none}
  {:assignees [:mochida-pharmaceutical],
@@ -7972,6 +8144,20 @@
   :cites ["US3652761"],
   :term-years 20,
   :open-license :none}
+ {:assignees [:ciba-geigy],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US4024249/en",
+  :title "Heteroarylacetamido cephalosporin",
+  :status :granted,
+  :id "US4024249",
+  :sourcing :authoritative,
+  :filing-year 1975,
+  :assignee :ciba-geigy,
+  :grant-year 1977,
+  :cites ["US3382241" "US3488730"],
+  :term-years 20,
+  :open-license :none}
  {:assignees [:canon],
   :jurisdiction :us,
   :field "UNKNOWN",
@@ -8412,6 +8598,20 @@
   :assignee :corning-glass-works,
   :grant-year 1977,
   :cites ["US2214717" "US3361680" "US3519538" "US3652761"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:akzona],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US4053284/en",
+  :title "Continuous flow apparatus for biological testing",
+  :status :granted,
+  :id "US4053284",
+  :sourcing :authoritative,
+  :filing-year 1976,
+  :assignee :akzona,
+  :grant-year 1977,
+  :cites ["US3492396" "US3837376" "US3843444" "US3849830" "US3873682"],
   :term-years 20,
   :open-license :none}
  {:assignees [:siemens],
@@ -8978,218 +9178,5 @@
    "US3779806"
    "US3883352"
    "US3914462"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:dios],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US4103073/en",
-  :title "Microsubstrates and method for making micropattern devices",
-  :status :granted,
-  :id "US4103073",
-  :sourcing :authoritative,
-  :filing-year 1976,
-  :assignee :dios,
-  :grant-year 1978,
-  :cites ["US3575733" "US3885060" "US3914462"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:university-of-pennsylvania-penn],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US4103227/en",
-  :title "Ion-controlled diode",
-  :status :granted,
-  :id "US4103227",
-  :sourcing :authoritative,
-  :filing-year 1977,
-  :assignee :university-of-pennsylvania-penn,
-  :grant-year 1978,
-  :cites ["US2711511" "US3295022" "US3428892" "US3831432"],
-  :term-years 20,
-  :open-license :none}
- {:jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US4104029/en",
-  :title
-  "Procedure for the assay of pharmacologically immunologically and biochemically active compounds in biological fluids",
-  :status :granted,
-  :id "US4104029",
-  :sourcing :authoritative,
-  :filing-year 1977,
-  :assignee :unassigned,
-  :grant-year 1978,
-  :cites
-  ["US3575812"
-   "US3660240"
-   "US3852157"
-   "US3966897"
-   "US3981982"
-   "US4000252"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:bp-north-america],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US4106920/en",
-  :title
-  "Method of making a semi-permeable, essentially water-insoluble, hydrophilic nylon membrane and resultant product",
-  :status :granted,
-  :id "US4106920",
-  :sourcing :authoritative,
-  :filing-year 1974,
-  :assignee :bp-north-america,
-  :grant-year 1978,
-  :cites
-  ["US2846727"
-   "US3228877"
-   "US3276996"
-   "US3332894"
-   "US3520960"
-   "US3542908"
-   "US3711583"
-   "US3719590"
-   "US3758605"
-   "US3770842"
-   "US3878109"
-   "US3899309"],
-  :term-years 20,
-  :open-license :none}
- {:jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US4107284/en",
-  :title "Radioimmunoassay procedure using a stabilized complex",
-  :status :granted,
-  :id "US4107284",
-  :sourcing :authoritative,
-  :filing-year 1975,
-  :assignee :unassigned,
-  :grant-year 1978,
-  :cites ["US3911096" "US3928553"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:purdue-research-foundation],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US4108603/en",
-  :title
-  "Method for rapid analysis of hemoglobin variants by high speed liquid chromatography",
-  :status :granted,
-  :id "US4108603",
-  :sourcing :authoritative,
-  :filing-year 1977,
-  :assignee :purdue-research-foundation,
-  :grant-year 1978,
-  :term-years 20,
-  :open-license :none}
- {:jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US4108972/en",
-  :title
-  "Immunological reagent employing radioactive and other tracers",
-  :status :granted,
-  :id "US4108972",
-  :sourcing :authoritative,
-  :filing-year 1975,
-  :assignee :unassigned,
-  :grant-year 1978,
-  :cites ["US3853987" "US3904367"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:eastman-kodak],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US4111838/en",
-  :title "Composition for chromatography",
-  :status :granted,
-  :id "US4111838",
-  :sourcing :authoritative,
-  :filing-year 1977,
-  :assignee :eastman-kodak,
-  :grant-year 1978,
-  :cites ["DE2319495A1" "US3491086" "US3983299" "US4006059"],
-  :term-years 20,
-  :open-license :none}
- {:assignees
-  [:agency-of-industrial-science-and-technology :daikin-kogyo],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US4111866/en",
-  :title "Method of making a chemical-resistant diaphragm thereof",
-  :status :granted,
-  :id "US4111866",
-  :sourcing :authoritative,
-  :filing-year 1977,
-  :assignee :agency-of-industrial-science-and-technology,
-  :grant-year 1978,
-  :cites ["US3929950" "US4049589"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:mitsui-toatsu-chemicals],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US4115338/en",
-  :title "Metallic tone coating composition",
-  :status :granted,
-  :id "US4115338",
-  :sourcing :authoritative,
-  :filing-year 1976,
-  :assignee :mitsui-toatsu-chemicals,
-  :grant-year 1978,
-  :cites
-  ["US2302361"
-   "US2876133"
-   "US3265644"
-   "US3272772"
-   "US3393165"
-   "US3661620"
-   "US3806464"
-   "US3971753"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:ppg-industries],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US4115472/en",
-  :title "Urethane coating compositions",
-  :status :granted,
-  :id "US4115472",
-  :sourcing :authoritative,
-  :filing-year 1977,
-  :assignee :ppg-industries,
-  :grant-year 1978,
-  :cites ["US3317635" "US3538185" "US3702836" "US3751412" "US3888945"],
-  :term-years 20,
-  :open-license :none}
- {:jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US411596/en",
-  :title "Percolator",
-  :status :granted,
-  :id "US411596",
-  :sourcing :authoritative,
-  :assignee :unassigned,
-  :grant-year 1889,
-  :term-years 20,
-  :open-license :none}
- {:assignees [:warner-lambert],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US4116638/en",
-  :title "Immunoassay device",
-  :status :granted,
-  :id "US4116638",
-  :sourcing :authoritative,
-  :filing-year 1977,
-  :assignee :warner-lambert,
-  :grant-year 1978,
-  :cites
-  ["US3464798"
-   "US3492396"
-   "US3712465"
-   "US3843444"
-   "US3849830"
-   "US3873682"
-   "US4012200"],
   :term-years 20,
   :open-license :none}]

@@ -1,4 +1,45 @@
 [[":db/add"
+  "hirameki-patent:US1263485"
+  ":hirameki.obs/release-status"
+  ":public-domain"]
+ [":db/add"
+  "hirameki-patent:US1263485"
+  ":hirameki/sourcing"
+  ":authoritative"]
+ [":db/add" "hirameki-patent:US1263485" ":hirameki/derived" true]
+ [":db/add"
+  "hirameki-patent:US1263485"
+  ":hirameki.obs/years-to-expiry"
+  -89]
+ [":db/add"
+  "hirameki-patent:US1263485"
+  ":hirameki/source"
+  "https://patents.google.com/patent/US1263485/en"]
+ [":db/add"
+  "hirameki-patent:US1277040"
+  ":hirameki.patent/title"
+  "Light-splitting device for color photography."]
+ [":db/add"
+  "hirameki-patent:US1277040"
+  ":hirameki.patent/jurisdiction"
+  ":us"]
+ [":db/add"
+  "hirameki-patent:US1277040"
+  ":hirameki.patent/field"
+  "UNKNOWN"]
+ [":db/add"
+  "hirameki-patent:US1277040"
+  ":hirameki.patent/assignee"
+  ":brewster-film"]
+ [":db/add"
+  "hirameki-patent:US1277040"
+  ":hirameki.patent/status"
+  ":granted"]
+ [":db/add"
+  "hirameki-patent:US1277040"
+  ":hirameki.patent/open-license"
+  ":none"]
+ [":db/add"
   "hirameki-patent:US1277040"
   ":hirameki.obs/release-status"
   ":in-force"]
@@ -10392,46 +10433,5 @@
   ":public-domain"]
  [":db/add"
   "hirameki-patent:US2294651"
-  ":hirameki/sourcing"
-  ":authoritative"]
- [":db/add" "hirameki-patent:US2294651" ":hirameki/derived" true]
- [":db/add"
-  "hirameki-patent:US2294651"
-  ":hirameki.obs/years-to-expiry"
-  -70]
- [":db/add"
-  "hirameki-patent:US2294651"
-  ":hirameki/source"
-  "https://patents.google.com/patent/US2294651/en"]
- [":db/add"
-  "hirameki-patent:US2297308"
-  ":hirameki.patent/title"
-  "Well bottom assembly for graveling"]
- [":db/add"
-  "hirameki-patent:US2297308"
-  ":hirameki.patent/jurisdiction"
-  ":us"]
- [":db/add"
-  "hirameki-patent:US2297308"
-  ":hirameki.patent/field"
-  "UNKNOWN"]
- [":db/add"
-  "hirameki-patent:US2297308"
-  ":hirameki.patent/assignee"
-  ":unassigned"]
- [":db/add"
-  "hirameki-patent:US2297308"
-  ":hirameki.patent/status"
-  ":granted"]
- [":db/add"
-  "hirameki-patent:US2297308"
-  ":hirameki.patent/open-license"
-  ":none"]
- [":db/add"
-  "hirameki-patent:US2297308"
-  ":hirameki.obs/release-status"
-  ":public-domain"]
- [":db/add"
-  "hirameki-patent:US2297308"
   ":hirameki/sourcing"
   ":authoritative"]]

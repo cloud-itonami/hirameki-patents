@@ -1,4 +1,45 @@
-[[":db/add" "hirameki-patent:US2297308" ":hirameki/derived" true]
+[[":db/add" "hirameki-patent:US2294651" ":hirameki/derived" true]
+ [":db/add"
+  "hirameki-patent:US2294651"
+  ":hirameki.obs/years-to-expiry"
+  -70]
+ [":db/add"
+  "hirameki-patent:US2294651"
+  ":hirameki/source"
+  "https://patents.google.com/patent/US2294651/en"]
+ [":db/add"
+  "hirameki-patent:US2297308"
+  ":hirameki.patent/title"
+  "Well bottom assembly for graveling"]
+ [":db/add"
+  "hirameki-patent:US2297308"
+  ":hirameki.patent/jurisdiction"
+  ":us"]
+ [":db/add"
+  "hirameki-patent:US2297308"
+  ":hirameki.patent/field"
+  "UNKNOWN"]
+ [":db/add"
+  "hirameki-patent:US2297308"
+  ":hirameki.patent/assignee"
+  ":unassigned"]
+ [":db/add"
+  "hirameki-patent:US2297308"
+  ":hirameki.patent/status"
+  ":granted"]
+ [":db/add"
+  "hirameki-patent:US2297308"
+  ":hirameki.patent/open-license"
+  ":none"]
+ [":db/add"
+  "hirameki-patent:US2297308"
+  ":hirameki.obs/release-status"
+  ":public-domain"]
+ [":db/add"
+  "hirameki-patent:US2297308"
+  ":hirameki/sourcing"
+  ":authoritative"]
+ [":db/add" "hirameki-patent:US2297308" ":hirameki/derived" true]
  [":db/add"
   "hirameki-patent:US2297308"
   ":hirameki.obs/years-to-expiry"
@@ -10355,45 +10396,4 @@
   "hirameki-patent:US2658310"
   ":hirameki/sourcing"
   ":authoritative"]
- [":db/add" "hirameki-patent:US2658310" ":hirameki/derived" true]
- [":db/add"
-  "hirameki-patent:US2658310"
-  ":hirameki.obs/years-to-expiry"
-  -56]
- [":db/add"
-  "hirameki-patent:US2658310"
-  ":hirameki/source"
-  "https://patents.google.com/patent/US2658310/en"]
- [":db/add"
-  "hirameki-patent:US2659700"
-  ":hirameki.patent/title"
-  "Composition for testing for glucose in biological fluids"]
- [":db/add"
-  "hirameki-patent:US2659700"
-  ":hirameki.patent/jurisdiction"
-  ":us"]
- [":db/add"
-  "hirameki-patent:US2659700"
-  ":hirameki.patent/field"
-  "UNKNOWN"]
- [":db/add"
-  "hirameki-patent:US2659700"
-  ":hirameki.patent/assignee"
-  ":unassigned"]
- [":db/add"
-  "hirameki-patent:US2659700"
-  ":hirameki.patent/status"
-  ":granted"]
- [":db/add"
-  "hirameki-patent:US2659700"
-  ":hirameki.patent/open-license"
-  ":none"]
- [":db/add"
-  "hirameki-patent:US2659700"
-  ":hirameki.obs/release-status"
-  ":public-domain"]
- [":db/add"
-  "hirameki-patent:US2659700"
-  ":hirameki/sourcing"
-  ":authoritative"]
- [":db/add" "hirameki-patent:US2659700" ":hirameki/derived" true]]
+ [":db/add" "hirameki-patent:US2658310" ":hirameki/derived" true]]
