@@ -1,4 +1,118 @@
-[{:assignees [:ei-du-pont-de-nemours-and],
+[{:assignees [:seaman-paper-company-of-massachusetts],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2130241/en",
+  :title "Method for coating paper",
+  :status :granted,
+  :id "US2130241",
+  :sourcing :authoritative,
+  :filing-year 1934,
+  :assignee :seaman-paper-company-of-massachusetts,
+  :grant-year 1938,
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:sherwin-williams],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2131662/en",
+  :title
+  "Apparatus for conditioning and dispensing lacquers, enamels, and the like",
+  :status :granted,
+  :id "US2131662",
+  :sourcing :authoritative,
+  :filing-year 1938,
+  :assignee :sherwin-williams,
+  :grant-year 1938,
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:jabez-burns-and-sons],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2132961/en",
+  :title "Cleaner for coffee and other grains",
+  :status :granted,
+  :id "US2132961",
+  :sourcing :authoritative,
+  :filing-year 1936,
+  :assignee :jabez-burns-and-sons,
+  :grant-year 1938,
+  :term-years 20,
+  :open-license :none}
+ {:jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2135763/en",
+  :title "Endless traveling platen fluid pressure press",
+  :status :granted,
+  :id "US2135763",
+  :sourcing :authoritative,
+  :filing-year 1935,
+  :assignee :unassigned,
+  :grant-year 1938,
+  :term-years 20,
+  :open-license :none}
+ {:jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2138839/en",
+  :title "Method of destroying bacteria in liquids",
+  :status :granted,
+  :id "US2138839",
+  :sourcing :authoritative,
+  :filing-year 1934,
+  :assignee :unassigned,
+  :grant-year 1938,
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:standard-oil-development],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2139038/en",
+  :title "Process for producing polymers of olefines",
+  :status :granted,
+  :id "US2139038",
+  :sourcing :authoritative,
+  :filing-year 1935,
+  :assignee :standard-oil-development,
+  :grant-year 1938,
+  :term-years 20,
+  :open-license :none}
+ {:jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2150217/en",
+  :title "Roof",
+  :status :granted,
+  :id "US2150217",
+  :sourcing :authoritative,
+  :filing-year 1938,
+  :assignee :unassigned,
+  :grant-year 1939,
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:mine-safety-appliances],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2156693/en",
+  :title "Gas testing",
+  :status :granted,
+  :id "US2156693",
+  :sourcing :authoritative,
+  :filing-year 1936,
+  :assignee :mine-safety-appliances,
+  :grant-year 1939,
+  :term-years 20,
+  :open-license :none}
+ {:jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2157438/en",
+  :title "Device for counting bacteria and the like",
+  :status :granted,
+  :id "US2157438",
+  :sourcing :authoritative,
+  :filing-year 1937,
+  :assignee :unassigned,
+  :grant-year 1939,
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:ei-du-pont-de-nemours-and],
   :jurisdiction :us,
   :field "UNKNOWN",
   :source "https://patents.google.com/patent/US2159152/en",
@@ -878,6 +992,19 @@
   :sourcing :authoritative,
   :filing-year 1939,
   :assignee :rohm-and-haas,
+  :grant-year 1941,
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:westinghouse-electric],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2264725/en",
+  :title "Thickness gauge for rolling mills",
+  :status :granted,
+  :id "US2264725",
+  :sourcing :authoritative,
+  :filing-year 1940,
+  :assignee :westinghouse-electric,
   :grant-year 1941,
   :term-years 20,
   :open-license :none}
@@ -2754,6 +2881,28 @@
    "US2386259"],
   :term-years 20,
   :open-license :none}
+ {:assignees [:molins-machine],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2432938/en",
+  :title "Rod forming mechanism",
+  :status :granted,
+  :id "US2432938",
+  :sourcing :authoritative,
+  :filing-year 1942,
+  :assignee :molins-machine,
+  :grant-year 1947,
+  :cites
+  ["US1723942"
+   "US1787551"
+   "US1875991"
+   "US2149924"
+   "US2209139"
+   "US2251518"
+   "US671417"
+   "US779430"],
+  :term-years 20,
+  :open-license :none}
  {:assignees [:general-foods],
   :jurisdiction :us,
   :field "UNKNOWN",
@@ -3212,6 +3361,30 @@
    "US613194"
    "US707899"
    "US807513"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:amf],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2467248/en",
+  :title "Shorts handling means for cigarette tobacco feeds",
+  :status :granted,
+  :id "US2467248",
+  :sourcing :authoritative,
+  :filing-year 1942,
+  :assignee :amf,
+  :grant-year 1949,
+  :cites
+  ["GB367431A"
+   "GB380400A"
+   "GB506615A"
+   "US1146824"
+   "US1183618"
+   "US1932168"
+   "US1938903"
+   "US2018011"
+   "US2150607"
+   "US2202399"],
   :term-years 20,
   :open-license :none}
  {:assignees [:philco-ford],
@@ -4769,6 +4942,31 @@
   :assignee :directie-van-de-staatsmijnen-in-limburg,
   :grant-year 1952,
   :cites ["US2370609" "US2547440" "US2563729"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:amf],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2617426/en",
+  :title "Rod former tongue",
+  :status :granted,
+  :id "US2617426",
+  :sourcing :authoritative,
+  :filing-year 1944,
+  :assignee :amf,
+  :grant-year 1952,
+  :cites
+  ["GB445044A"
+   "US1630488"
+   "US1634768"
+   "US1876029"
+   "US1945433"
+   "US1971852"
+   "US2103721"
+   "US2213523"
+   "US2308323"
+   "US2357785"
+   "US2568690"],
   :term-years 20,
   :open-license :none}
  {:jurisdiction :us,
@@ -6957,6 +7155,19 @@
   :assignee :general-tire-and-rubber,
   :grant-year 1956,
   :cites ["US2415839" "US2417792" "US2561215"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:molins-machine],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2766758/en",
+  :title "Apparatus for making a continuous tobacco filler",
+  :status :granted,
+  :id "US2766758",
+  :sourcing :authoritative,
+  :filing-year 1955,
+  :assignee :molins-machine,
+  :grant-year 1956,
   :term-years 20,
   :open-license :none}
  {:jurisdiction :us,
@@ -9373,6 +9584,31 @@
   :grant-year 1960,
   :term-years 20,
   :open-license :none}
+ {:assignees [:amf],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2932300/en",
+  :title "Cigarette machine",
+  :status :granted,
+  :id "US2932300",
+  :sourcing :authoritative,
+  :filing-year 1956,
+  :assignee :amf,
+  :grant-year 1960,
+  :cites
+  ["DE542226C"
+   "FR406842A"
+   "GB445044A"
+   "US1052381"
+   "US1647255"
+   "US1755080"
+   "US1999120"
+   "US2181229"
+   "US2310460"
+   "US2570270"
+   "US7226"],
+  :term-years 20,
+  :open-license :none}
  {:jurisdiction :us,
   :field "UNKNOWN",
   :source "https://patents.google.com/patent/US2933418/en",
@@ -9582,265 +9818,5 @@
   :filing-year 1959,
   :assignee :armstrong-cork,
   :grant-year 1960,
-  :term-years 20,
-  :open-license :none}
- {:assignees [:champion-paper-and-fibre],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US2946307/en",
-  :title "Apparatus for coating paper",
-  :status :granted,
-  :id "US2946307",
-  :sourcing :authoritative,
-  :filing-year 1955,
-  :assignee :champion-paper-and-fibre,
-  :grant-year 1960,
-  :cites
-  ["US1867875"
-   "US2016085"
-   "US2334102"
-   "US2344232"
-   "US2357880"
-   "US2407756"
-   "US2536656"
-   "US2598733"
-   "US2599947"
-   "US2676563"
-   "US2729192"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:allen-b-du-mont-laboratories],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US2948470/en",
-  :title "Particle counter",
-  :status :granted,
-  :id "US2948470",
-  :sourcing :authoritative,
-  :filing-year 1957,
-  :assignee :allen-b-du-mont-laboratories,
-  :grant-year 1960,
-  :cites
-  ["GB739902A"
-   "US2712065"
-   "US2731202"
-   "US2731204"
-   "US2756627"
-   "US2789765"
-   "US2791377"
-   "US2791695"
-   "US2791697"
-   "US2803406"
-   "US2873363"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:consolidated-water-power-and-paper],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US2949382/en",
-  :title "Method of making printable coated paper",
-  :status :granted,
-  :id "US2949382",
-  :sourcing :authoritative,
-  :filing-year 1958,
-  :assignee :consolidated-water-power-and-paper,
-  :grant-year 1960,
-  :cites
-  ["US1903325"
-   "US1934642"
-   "US1989036"
-   "US2186874"
-   "US2291616"
-   "US2378113"
-   "US2395992"
-   "US2676118"
-   "US2697669"
-   "US2725307"
-   "US275176"
-   "US2860073"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:fenwal-laboratories],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US2950716/en",
-  :title "Fluid handling method and apparatus",
-  :status :granted,
-  :id "US2950716",
-  :sourcing :authoritative,
-  :filing-year 1956,
-  :assignee :fenwal-laboratories,
-  :grant-year 1960,
-  :cites
-  ["US2230218"
-   "US2489394"
-   "US2518165"
-   "US2674265"
-   "US2702034"
-   "US2832344"
-   "US605178"
-   "US815192"],
-  :term-years 20,
-  :open-license :none}
- {:jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US2950799/en",
-  :title
-  "Apparatus for identifying paper money, or the like, as genuine, and for making change or the like",
-  :status :granted,
-  :id "US2950799",
-  :sourcing :authoritative,
-  :filing-year 1952,
-  :assignee :unassigned,
-  :grant-year 1960,
-  :cites
-  ["GB722384A"
-   "US1341463"
-   "US1555249"
-   "US1634074"
-   "US1751120"
-   "US1756016"
-   "US1819719"
-   "US1824745"
-   "US1943940"
-   "US2114867"
-   "US2138645"
-   "US2160603"
-   "US2215805"
-   "US2246501"
-   "US2251828"
-   "US2263017"
-   "US2292628"
-   "US2293017"
-   "US2300695"
-   "US2311101"
-   "US2319108"
-   "US2319833"
-   "US2323647"
-   "US2352650"
-   "US2381990"
-   "US2399582"
-   "US2429159"
-   "US2454628"
-   "US2486845"
-   "US2522544"
-   "US2565734"
-   "US2627961"
-   "US2646717"
-   "US2659470"
-   "US2679317"
-   "US935963"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:american-cyanamid],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US2953546/en",
-  :title "Polymerization of solid monomers in suspension",
-  :status :granted,
-  :id "US2953546",
-  :sourcing :authoritative,
-  :filing-year 1957,
-  :assignee :american-cyanamid,
-  :grant-year 1960,
-  :cites
-  ["GB648252A"
-   "US2471959"
-   "US2521902"
-   "US2584306"
-   "US2672480"
-   "US2743297"
-   "US2769786"
-   "US2831841"
-   "US2904541"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:xerox],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US2954291/en",
-  :title "Method for preparing a spirit duplicating master",
-  :status :granted,
-  :id "US2954291",
-  :sourcing :authoritative,
-  :filing-year 1957,
-  :assignee :xerox,
-  :grant-year 1960,
-  :cites
-  ["US2067435"
-   "US2297691"
-   "US2305799"
-   "US2519321"
-   "US2528496"
-   "US2598732"
-   "US2663636"
-   "US2676887"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:minnesota-mining-and-manufacturing],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US2954868/en",
-  :title "Masking tape",
-  :status :granted,
-  :id "US2954868",
-  :sourcing :authoritative,
-  :filing-year 1957,
-  :assignee :minnesota-mining-and-manufacturing,
-  :grant-year 1960,
-  :cites
-  ["US1962340"
-   "US2236527"
-   "US2251273"
-   "US2269712"
-   "US2438195"
-   "US2458166"
-   "US2633430"
-   "US2635045"
-   "US2666699"
-   "US2725981"
-   "US2772970"],
-  :term-years 20,
-  :open-license :none}
- {:jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US2956931/en",
-  :title "Dispensing biological materials",
-  :status :granted,
-  :id "US2956931",
-  :sourcing :authoritative,
-  :filing-year 1958,
-  :assignee :unassigned,
-  :grant-year 1960,
-  :cites ["US2533089" "US2871168"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:california-institute-research-foundation],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US2957808/en",
-  :title
-  "Process for the isolation of diagnostic and immunizing proteinaceous materials",
-  :status :granted,
-  :id "US2957808",
-  :sourcing :authoritative,
-  :filing-year 1958,
-  :assignee :california-institute-research-foundation,
-  :grant-year 1960,
-  :cites ["US2128202" "US2205882" "US2243213"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:general-dynamics],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US2958147/en",
-  :title "Chemical milling apparatus",
-  :status :granted,
-  :id "US2958147",
-  :sourcing :authoritative,
-  :filing-year 1956,
-  :assignee :general-dynamics,
-  :grant-year 1960,
-  :cites ["US1260395" "US2762036" "US2783567" "US2820312" "US2883275"],
   :term-years 20,
   :open-license :none}]

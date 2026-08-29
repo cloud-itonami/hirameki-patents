@@ -1,4 +1,280 @@
-[{:assignees [:mobil-oil-as],
+[{:assignees [:syva],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US4067774/en",
+  :title "Compounds for enzyme amplification assay",
+  :status :granted,
+  :id "US4067774",
+  :sourcing :authoritative,
+  :filing-year 1976,
+  :assignee :syva,
+  :grant-year 1978,
+  :cites ["US3878187"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:international-diagnostic-technologies],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US4067959/en",
+  :title "Indirect solid surface test for antigens or antibodies",
+  :status :granted,
+  :id "US4067959",
+  :sourcing :authoritative,
+  :filing-year 1976,
+  :assignee :international-diagnostic-technologies,
+  :grant-year 1978,
+  :cites ["US3720760" "US3896217" "US3940475"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:baxter-travenol-laboratories],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US4069352/en",
+  :title
+  "Immunoadsorbent polymeric material and method of making same",
+  :status :granted,
+  :id "US4069352",
+  :sourcing :authoritative,
+  :filing-year 1976,
+  :assignee :baxter-travenol-laboratories,
+  :grant-year 1978,
+  :cites
+  ["GB1257263A"
+   "US3646346"
+   "US3826619"
+   "US3980764"
+   "US3995019"
+   "US4012494"],
+  :term-years 20,
+  :open-license :none}
+ {:jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US4071315/en",
+  :title "Analytical tape medium",
+  :status :granted,
+  :id "US4071315",
+  :sourcing :authoritative,
+  :filing-year 1976,
+  :assignee :unassigned,
+  :grant-year 1978,
+  :cites
+  ["US3261668"
+   "US3497320"
+   "US3508879"
+   "US3607079"
+   "US3620678"
+   "US3676080"
+   "US3918910"
+   "US3932133"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:institute-for-cancer-research],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US4072574/en",
+  :title
+  "System for in vitro assay for mutagenicity and/or carcinogenicity of chemicals or other exogenous agents",
+  :status :granted,
+  :id "US4072574",
+  :sourcing :authoritative,
+  :filing-year 1976,
+  :assignee :institute-for-cancer-research,
+  :grant-year 1978,
+  :cites ["US3816263" "US3850749"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:kabi],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US4072576/en",
+  :title
+  "Method for studying enzymatic and other biochemical reactions",
+  :status :granted,
+  :id "US4072576",
+  :sourcing :authoritative,
+  :filing-year 1976,
+  :assignee :kabi,
+  :grant-year 1978,
+  :cites ["US3275534" "US3479255" "US3635681" "US3884896"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:yellow-springs-instrument],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US4073713/en",
+  :title "Membrane for enzyme electrodes",
+  :status :granted,
+  :id "US4073713",
+  :sourcing :authoritative,
+  :filing-year 1976,
+  :assignee :yellow-springs-instrument,
+  :grant-year 1978,
+  :cites
+  ["US3539455"
+   "US3542662"
+   "US3838033"
+   "US3869354"
+   "US3948745"
+   "US3979274"],
+  :term-years 20,
+  :open-license :none}
+ {:jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US4077069/en",
+  :title "Synthetic tympanic membrane",
+  :status :granted,
+  :id "US4077069",
+  :sourcing :authoritative,
+  :filing-year 1977,
+  :assignee :unassigned,
+  :grant-year 1978,
+  :cites ["GB189724202A" "US1045917" "US3473170" "US3562820"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:honeywell],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US4078172/en",
+  :title "Continuous automatic focus system",
+  :status :granted,
+  :id "US4078172",
+  :sourcing :authoritative,
+  :filing-year 1976,
+  :assignee :honeywell,
+  :grant-year 1978,
+  :cites ["US3781110" "US3958117" "US4031383"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:chemed],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US4082459/en",
+  :title "Analytical cell assembly for an analyzer",
+  :status :granted,
+  :id "US4082459",
+  :sourcing :authoritative,
+  :filing-year 1976,
+  :assignee :chemed,
+  :grant-year 1978,
+  :cites ["US2999417" "US3711708" "US3861809" "US3906226"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:asahi-kogaku-kogyo],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US4083056/en",
+  :title "Focus detecting device for single-lens reflex cameras",
+  :status :granted,
+  :id "US4083056",
+  :sourcing :authoritative,
+  :filing-year 1976,
+  :assignee :asahi-kogaku-kogyo,
+  :grant-year 1978,
+  :cites
+  ["US3274914"
+   "US3733989"
+   "US3762294"
+   "US3827064"
+   "US3860935"
+   "US3938894"
+   "US4047187"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:bio-rad-laboratories],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US4088746/en",
+  :title "Radioimmunoassay for thyroid-stimulating hormone (TSH)",
+  :status :granted,
+  :id "US4088746",
+  :sourcing :authoritative,
+  :filing-year 1976,
+  :assignee :bio-rad-laboratories,
+  :grant-year 1978,
+  :cites ["US3853987" "US4021534"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:battelle-development],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US4089778/en",
+  :title
+  "Process for separating a substance from a liquid medium containing the substance in dissolved form",
+  :status :granted,
+  :id "US4089778",
+  :sourcing :authoritative,
+  :filing-year 1974,
+  :assignee :battelle-development,
+  :grant-year 1978,
+  :cites ["CA548246A" "US3519558" "US3630937" "US3836200" "US3839206"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:coulter-electronics],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US4090128/en",
+  :title "Aperture module for use in particle testing apparatus",
+  :status :granted,
+  :id "US4090128",
+  :sourcing :authoritative,
+  :filing-year 1977,
+  :assignee :coulter-electronics,
+  :grant-year 1978,
+  :cites ["US3622795" "US3746976" "US3902115" "US4014611"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:olympus-optical],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US4090921/en",
+  :title "Automatic cultivating apparatus",
+  :status :granted,
+  :id "US4090921",
+  :sourcing :authoritative,
+  :filing-year 1976,
+  :assignee :olympus-optical,
+  :grant-year 1978,
+  :cites
+  ["US2975553"
+   "US3172235"
+   "US3437447"
+   "US3728227"
+   "US3772154"
+   "US3844896"
+   "US3847749"
+   "US3887436"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:fisher-scientific],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US4092114/en",
+  :title "Indirect latex test for determination of immunoglobulins",
+  :status :granted,
+  :id "US4092114",
+  :sourcing :authoritative,
+  :filing-year 1976,
+  :assignee :fisher-scientific,
+  :grant-year 1978,
+  :cites ["US3565987" "US3857931" "US4003988"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:yeda-research-and-development],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US4093607/en",
+  :title
+  "Immunologic chemotherapeutic agents comprising antigen binding dimers covalently bound to drugs",
+  :status :granted,
+  :id "US4093607",
+  :sourcing :authoritative,
+  :filing-year 1976,
+  :assignee :yeda-research-and-development,
+  :grant-year 1978,
+  :cites ["US3850798" "US3928580" "US3966898" "US3995018"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:mobil-oil-as],
   :jurisdiction :us,
   :field "UNKNOWN",
   :source "https://patents.google.com/patent/US4096163/en",
@@ -9389,6 +9665,18 @@
   :open-license :none}
  {:jurisdiction :us,
   :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US969992/en",
+  :title "Method of making cigar-bunches.",
+  :status :granted,
+  :id "US969992",
+  :sourcing :authoritative,
+  :filing-year 1910,
+  :assignee :unassigned,
+  :grant-year 1910,
+  :term-years 20,
+  :open-license :none}
+ {:jurisdiction :us,
+  :field "UNKNOWN",
   :source "https://patents.google.com/patent/US981383/en",
   :title "Machine for treating interior woodwork and flooring.",
   :status :granted,
@@ -9607,277 +9895,5 @@
    "WO1983001459A1"
    "WO1983002286A1"
    "WO1983003620A1"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:blair-malcolm-a-d],
-  :jurisdiction :wo,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/WO1984003520A1/en",
-  :title
-  "Method of detecting a polynucleotide sequence and labelled polynucleotides useful therein",
-  :status :pending,
-  :id "WO1984003520A1",
-  :sourcing :authoritative,
-  :filing-year 1984,
-  :assignee :blair-malcolm-a-d,
-  :cites ["EP0007687A1" "EP0070685A2" "GB2019408A"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:national-research-development-uk],
-  :jurisdiction :wo,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/WO1984004332A1/en",
-  :title
-  "Method of determining nucleotide sequences in cells and of isolating nucleic acids from cells",
-  :status :pending,
-  :id "WO1984004332A1",
-  :sourcing :authoritative,
-  :filing-year 1984,
-  :assignee :national-research-development-uk,
-  :cites ["GB2019408A" "US4235960" "US4358535"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:molecular-biosystems],
-  :jurisdiction :wo,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/WO1985001051A1/en",
-  :title "Oligonucleotide polymeric support system",
-  :status :pending,
-  :id "WO1985001051A1",
-  :sourcing :authoritative,
-  :filing-year 1984,
-  :assignee :molecular-biosystems,
-  :cites ["US4358535" "US4458066"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:hri-research :hydrocarbon-research],
-  :jurisdiction :wo,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/WO1985002628A1/en",
-  :title "Nucleic acid hybridization assay",
-  :status :pending,
-  :id "WO1985002628A1",
-  :sourcing :authoritative,
-  :filing-year 1984,
-  :assignee :hri-research,
-  :cites ["EP0070687B1" "US3798131"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:life-technologies],
-  :jurisdiction :wo,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/WO1985004674A1/en",
-  :title "Immobilization of nucleic acids",
-  :status :pending,
-  :id "WO1985004674A1",
-  :sourcing :authoritative,
-  :filing-year 1984,
-  :assignee :life-technologies,
-  :cites
-  ["EP0035384A2" "US4139346" "US4321365" "US4342833" "WO1983003363A1"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:yale-university],
-  :jurisdiction :wo,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/WO1985004902A1/en",
-  :title "Junction-fragment dna probes and probe clusters",
-  :status :pending,
-  :id "WO1985004902A1",
-  :sourcing :authoritative,
-  :filing-year 1985,
-  :assignee :yale-university,
-  :cites ["US4394443" "US4395486"],
-  :term-years 20,
-  :open-license :none}
- {:assignees
-  [:university-of-california-berkeley
-   :university-of-california-san-diego-ucsd],
-  :jurisdiction :wo,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/WO1986001834A1/en",
-  :title
-  "Retroviral polypeptides associated with human cellular transformation",
-  :status :pending,
-  :id "WO1986001834A1",
-  :sourcing :authoritative,
-  :filing-year 1985,
-  :assignee :university-of-california-berkeley,
-  :term-years 20,
-  :open-license :none}
- {:assignees [:dgi :qiagen-gaithersburg],
-  :jurisdiction :wo,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/WO1986003227A1/en",
-  :title
-  "An assay for nucleic acid sequences, particularly genetic lesions",
-  :status :pending,
-  :id "WO1986003227A1",
-  :sourcing :authoritative,
-  :filing-year 1985,
-  :assignee :dgi,
-  :cites
-  ["EP0070685A2"
-   "EP0070686A2"
-   "EP0124221A1"
-   "EP0130515A2"
-   "EP0137515A2"
-   "EP0142299A2"
-   "EP0144913A2"
-   "EP0147665A1"
-   "EP0159719B1"],
-  :term-years 20,
-  :open-license :none}
- {:jurisdiction :wo,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/WO1986003782A1/en",
-  :title
-  "Improved sandwich hybridisation technique for the detection of nucleotide sequences",
-  :status :pending,
-  :id "WO1986003782A1",
-  :sourcing :authoritative,
-  :filing-year 1985,
-  :assignee :unassigned,
-  :cites
-  ["EP0070687B1"
-   "EP0079139A1"
-   "EP0124221A1"
-   "EP0130515A2"
-   "EP0130523A2"
-   "US4395486"
-   "WO1984004332A1"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:georgetown-university],
-  :jurisdiction :wo,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/WO1986005816A1/en",
-  :title "Type-specific papillomavirus dna sequences and peptides",
-  :status :pending,
-  :id "WO1986005816A1",
-  :sourcing :authoritative,
-  :filing-year 1986,
-  :assignee :georgetown-university,
-  :cites ["US4358535" "US4419446" "US4551270"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:salk-institute-for-biological-studies],
-  :jurisdiction :wo,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/WO1986005817A1/en",
-  :title "Dna sequencing",
-  :status :pending,
-  :id "WO1986005817A1",
-  :sourcing :authoritative,
-  :filing-year 1986,
-  :assignee :salk-institute-for-biological-studies,
-  :cites ["EP0115777A2"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:royal-postgraduate-medical-school],
-  :jurisdiction :wo,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/WO1987007531A1/en",
-  :title "Endotoxin removal",
-  :status :pending,
-  :id "WO1987007531A1",
-  :sourcing :authoritative,
-  :filing-year 1987,
-  :assignee :royal-postgraduate-medical-school,
-  :cites ["EP0110409A2" "EP0129786A2"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:queen-mary-university-of-london],
-  :jurisdiction :wo,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/WO1987007645A1/en",
-  :title "A method of sequencing nucleic acids",
-  :status :pending,
-  :id "WO1987007645A1",
-  :sourcing :authoritative,
-  :filing-year 1987,
-  :assignee :queen-mary-university-of-london,
-  :cites ["EP0121778A1" "EP0127737A1"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:siska-diagnostics],
-  :jurisdiction :wo,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/WO1988001302A1/en",
-  :title "Nucleic acid probe assay methods and compositions",
-  :status :pending,
-  :id "WO1988001302A1",
-  :sourcing :authoritative,
-  :filing-year 1987,
-  :assignee :siska-diagnostics,
-  :cites
-  ["EP0070687B1"
-   "US2277"
-   "US4302204"
-   "US4358535"
-   "US4419444"
-   "US4469796"
-   "US4486539"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:ei-du-pont-de-nemours-and],
-  :jurisdiction :wo,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/WO1988002381A1/en",
-  :title "Pigment dispersant resin with s-containing acid",
-  :status :pending,
-  :id "WO1988002381A1",
-  :sourcing :authoritative,
-  :filing-year 1987,
-  :assignee :ei-du-pont-de-nemours-and,
-  :cites
-  ["EP0058865A2"
-   "EP0129329B1"
-   "US2914499"
-   "US3711449"
-   "US3898037"
-   "US4001150"
-   "US4008293"
-   "US4177178"
-   "US4450013"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:ei-du-pont-de-nemours-and],
-  :jurisdiction :wo,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/WO1988002382A1/en",
-  :title "Pigment dispersant resin with p-containing acid",
-  :status :pending,
-  :id "WO1988002382A1",
-  :sourcing :authoritative,
-  :filing-year 1987,
-  :assignee :ei-du-pont-de-nemours-and,
-  :cites ["EP0170474A2" "US4001150" "US4612384"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:harvard-university],
-  :jurisdiction :wo,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/WO1988005470A1/en",
-  :title "T7 dna polymerase",
-  :status :pending,
-  :id "WO1988005470A1",
-  :sourcing :authoritative,
-  :filing-year 1987,
-  :assignee :harvard-university,
-  :cites ["US4483922"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:us-department-of-energy],
-  :jurisdiction :wo,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/WO1989003432A1/en",
-  :title "Method for rapid base sequencing in dna and rna",
-  :status :pending,
-  :id "WO1989003432A1",
-  :sourcing :authoritative,
-  :filing-year 1988,
-  :assignee :us-department-of-energy,
-  :cites ["EP0251575A1" "US3730844" "US4521509" "US4793705"],
   :term-years 20,
   :open-license :none}]
