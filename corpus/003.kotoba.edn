@@ -1,4 +1,44 @@
-[{:jurisdiction :us,
+[{:assignees [:ajinomoto],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3535207/en",
+  :title
+  "Method of converting heterocyclic bases into the corresponding nucleosides by bacterial action",
+  :status :granted,
+  :id "US3535207",
+  :sourcing :authoritative,
+  :filing-year 1969,
+  :assignee :ajinomoto,
+  :grant-year 1970,
+  :cites ["US3111459" "US3135666" "US3258408" "US3269917"],
+  :term-years 20,
+  :open-license :none}
+ {:jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3536449/en",
+  :title "Serial dilution machine",
+  :status :granted,
+  :id "US3536449",
+  :sourcing :authoritative,
+  :filing-year 1967,
+  :assignee :unassigned,
+  :grant-year 1970,
+  :cites
+  ["US2624656"
+   "US3067016"
+   "US3127062"
+   "US3188181"
+   "US3191813"
+   "US3192968"
+   "US3192969"
+   "US3193359"
+   "US3197285"
+   "US3269800"
+   "US3356462"
+   "US3413097"],
+  :term-years 20,
+  :open-license :none}
+ {:jurisdiction :us,
   :field "UNKNOWN",
   :source "https://patents.google.com/patent/US3536558/en",
   :title "Fabrication of optical tunnels",
@@ -6144,6 +6184,20 @@
   :cites ["US3340471" "US3746976"],
   :term-years 20,
   :open-license :none}
+ {:assignees [:leeds-and-northrup],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3902970/en",
+  :title "Flow-through amperometric measuring system and method",
+  :status :granted,
+  :id "US3902970",
+  :sourcing :authoritative,
+  :filing-year 1973,
+  :assignee :leeds-and-northrup,
+  :grant-year 1975,
+  :cites ["US3367849" "US3519538" "US3676321"],
+  :term-years 20,
+  :open-license :none}
  {:assignees [:cutter-laboratories],
   :jurisdiction :us,
   :field "UNKNOWN",
@@ -7533,6 +7587,21 @@
   :cites ["US3763374" "US3854050"],
   :term-years 20,
   :open-license :none}
+ {:assignees [:syva],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3975237/en",
+  :title
+  "Compounds for enzyme amplification assay - - ecgonine analogs",
+  :status :granted,
+  :id "US3975237",
+  :sourcing :authoritative,
+  :filing-year 1974,
+  :assignee :syva,
+  :grant-year 1976,
+  :cites ["US3850752"],
+  :term-years 20,
+  :open-license :none}
  {:assignees [:biological-developments],
   :jurisdiction :us,
   :field "UNKNOWN",
@@ -7882,6 +7951,29 @@
    "US3941876"],
   :term-years 20,
   :open-license :none}
+ {:assignees [:miles-laboratories],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3993451/en",
+  :title "Test for a given constituent in a liquid",
+  :status :granted,
+  :id "US3993451",
+  :sourcing :authoritative,
+  :filing-year 1974,
+  :assignee :miles-laboratories,
+  :grant-year 1976,
+  :cites
+  ["US2249867"
+   "US2785057"
+   "US2918893"
+   "US3002385"
+   "US3018611"
+   "US3092465"
+   "US3311084"
+   "US3552925"
+   "US3847553"],
+  :term-years 20,
+  :open-license :none}
  {:assignees [:community-blood-concil-of-greater-new-york],
   :jurisdiction :us,
   :field "UNKNOWN",
@@ -8226,6 +8318,27 @@
   :cites ["US3413464" "US3586859" "US3917404"],
   :term-years 20,
   :open-license :none}
+ {:assignees [:becton-dickinson-and],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US4009005/en",
+  :title
+  "Apparatus for radioimmunoassay with regeneration of immunadsorbent",
+  :status :granted,
+  :id "US4009005",
+  :sourcing :authoritative,
+  :filing-year 1975,
+  :assignee :becton-dickinson-and,
+  :grant-year 1977,
+  :cites
+  ["US3519390"
+   "US3607073"
+   "US3788812"
+   "US3793445"
+   "US3806321"
+   "US3814581"],
+  :term-years 20,
+  :open-license :none}
  {:assignees [:roe],
   :jurisdiction :us,
   :field "UNKNOWN",
@@ -8491,6 +8604,20 @@
   :assignee :hoffmann-la-roche,
   :grant-year 1977,
   :cites ["US2957808" "US3867363" "US3867518"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:university-of-virginia-uva],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US4022577/en",
+  :title "Automated radioimmunoassay",
+  :status :granted,
+  :id "US4022577",
+  :sourcing :authoritative,
+  :filing-year 1976,
+  :assignee :university-of-virginia-uva,
+  :grant-year 1977,
+  :cites ["US3524366" "US3679312" "US3841834" "US3876374"],
   :term-years 20,
   :open-license :none}
  {:assignees [:gulf-research-and-development],
@@ -9038,141 +9165,5 @@
   :assignee :siemens,
   :grant-year 1977,
   :cites ["GB985280A" "US3700497" "US3710205"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:analytical-radiation],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US4058732/en",
-  :title
-  "Method and apparatus for improved analytical fluorescent spectroscopy",
-  :status :granted,
-  :id "US4058732",
-  :sourcing :authoritative,
-  :filing-year 1975,
-  :assignee :analytical-radiation,
-  :grant-year 1977,
-  :cites ["US3842264" "US3886363" "US4006360"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:summa],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US4059685/en",
-  :title "Immobilized immunoadsorbent",
-  :status :granted,
-  :id "US4059685",
-  :sourcing :authoritative,
-  :filing-year 1975,
-  :assignee :summa,
-  :grant-year 1977,
-  :cites
-  ["DE2412833A1"
-   "GB1257263A"
-   "US3505785"
-   "US3639558"
-   "US3652761"
-   "US3700609"
-   "US3796634"
-   "US3975511"],
-  :term-years 20,
-  :open-license :none}
- {:jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US4061141/en",
-  :title
-  "Apparatus and method for selectively separating amino acids and defined proteins in blood",
-  :status :granted,
-  :id "US4061141",
-  :sourcing :authoritative,
-  :filing-year 1972,
-  :assignee :unassigned,
-  :grant-year 1977,
-  :cites
-  ["GB953414A"
-   "SE320155B"
-   "US3608729"
-   "US3617545"
-   "US3619423"
-   "US3669878"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:rca],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US4061529/en",
-  :title
-  "Method for making etch-resistant stencil with dichromate-sensitized casein coating",
-  :status :granted,
-  :id "US4061529",
-  :sourcing :authoritative,
-  :filing-year 1977,
-  :assignee :rca,
-  :grant-year 1977,
-  :cites ["US3011890" "US3929532"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:formica],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US4064297/en",
-  :title "Interlaminar flocked laminate",
-  :status :granted,
-  :id "US4064297",
-  :sourcing :authoritative,
-  :filing-year 1975,
-  :assignee :formica,
-  :grant-year 1977,
-  :cites ["US2491530" "US2494848" "US3900650" "US3900651"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:perkin-elmer],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US4066365/en",
-  :title "Temperature control apparatus",
-  :status :granted,
-  :id "US4066365",
-  :sourcing :authoritative,
-  :filing-year 1976,
-  :assignee :perkin-elmer,
-  :grant-year 1978,
-  :cites ["GB884570A"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:millipore],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US4066512/en",
-  :title "Biologically active membrane material",
-  :status :granted,
-  :id "US4066512",
-  :sourcing :authoritative,
-  :filing-year 1976,
-  :assignee :millipore,
-  :grant-year 1978,
-  :cites
-  ["US2930736"
-   "US3322632"
-   "US3705084"
-   "US3758396"
-   "US3809613"
-   "US3843446"
-   "US3865548"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:toyo-soda-manufacturing],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US4066827/en",
-  :title
-  "Process for producing a polyion complex having a nucleic acid base",
-  :status :granted,
-  :id "US4066827",
-  :sourcing :authoritative,
-  :filing-year 1976,
-  :assignee :toyo-soda-manufacturing,
-  :grant-year 1978,
-  :cites ["US3929750" "US3963662"],
   :term-years 20,
   :open-license :none}]

@@ -1,4 +1,335 @@
-[{:assignees [:blair-malcolm-a-d],
+[{:jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US844783/en",
+  :title "Paper-cigarette machine.",
+  :status :granted,
+  :id "US844783",
+  :sourcing :authoritative,
+  :filing-year 1904,
+  :assignee :unassigned,
+  :grant-year 1907,
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:broad-institute :massachusetts-institute-of-technology],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US8697359B1/en",
+  :title
+  "CRISPR-Cas systems and methods for altering expression of gene products",
+  :status :granted,
+  :id "US8697359B1",
+  :sourcing :authoritative,
+  :filing-year 2013,
+  :assignee :broad-institute,
+  :grant-year 2014,
+  :cites
+  ["US20100076057A1"
+   "US20110189776A1"
+   "US20110223638A1"
+   "US20130130248A1"
+   "WO2008108989A2"
+   "WO2010054108A2"
+   "WO2012164565A1"
+   "WO2013098244A1"
+   "WO2013176772A1"],
+  :term-years 20,
+  :open-license :none}
+ {:jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US885276/en",
+  :title "Shoe-polisher.",
+  :status :granted,
+  :id "US885276",
+  :sourcing :authoritative,
+  :filing-year 1906,
+  :assignee :unassigned,
+  :grant-year 1908,
+  :term-years 20,
+  :open-license :none}
+ {:jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US888464/en",
+  :title "Scaling-machine.",
+  :status :granted,
+  :id "US888464",
+  :sourcing :authoritative,
+  :filing-year 1907,
+  :assignee :unassigned,
+  :grant-year 1908,
+  :term-years 20,
+  :open-license :none}
+ {:jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US931434/en",
+  :title "Device for feeding cans to operating mechanisms.",
+  :status :granted,
+  :id "US931434",
+  :sourcing :authoritative,
+  :filing-year 1908,
+  :assignee :unassigned,
+  :grant-year 1909,
+  :term-years 20,
+  :open-license :none}
+ {:jurisdiction :us,
+  :essentiality 0.7,
+  :field "H04W",
+  :title "Royalty-free standardized video coding tool",
+  :status :granted,
+  :id "US9500000B2",
+  :sourcing :representative,
+  :filing-year 2013,
+  :assignee :google,
+  :grant-year 2016,
+  :term-years 20,
+  :open-license :royalty-free-standard}
+ {:assignees [:noah-w-workman],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US961741/en",
+  :title "Measuring and filling machine.",
+  :status :granted,
+  :id "US961741",
+  :sourcing :authoritative,
+  :filing-year 1909,
+  :assignee :noah-w-workman,
+  :grant-year 1910,
+  :term-years 20,
+  :open-license :none}
+ {:jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US969992/en",
+  :title "Method of making cigar-bunches.",
+  :status :granted,
+  :id "US969992",
+  :sourcing :authoritative,
+  :filing-year 1910,
+  :assignee :unassigned,
+  :grant-year 1910,
+  :term-years 20,
+  :open-license :none}
+ {:jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US981383/en",
+  :title "Machine for treating interior woodwork and flooring.",
+  :status :granted,
+  :id "US981383",
+  :sourcing :authoritative,
+  :assignee :unassigned,
+  :grant-year 1911,
+  :term-years 20,
+  :open-license :none}
+ {:jurisdiction :wo,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/WO1979000377A1/en",
+  :title "Optical sensing apparatus and method",
+  :status :pending,
+  :id "WO1979000377A1",
+  :sourcing :authoritative,
+  :filing-year 1978,
+  :assignee :unassigned,
+  :cites
+  ["DE2620914A1"
+   "DE2819590A1"
+   "FR2103683A5"
+   "FR2334125A1"
+   "GB1536340A"
+   "US3625589"
+   "US3786681"
+   "US3931518"
+   "US3950987"
+   "US4019051"
+   "US4071753"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:beckman-instruments],
+  :jurisdiction :wo,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/WO1980000188A1/en",
+  :title "Photometer apparatus",
+  :status :pending,
+  :id "WO1980000188A1",
+  :sourcing :authoritative,
+  :filing-year 1979,
+  :assignee :beckman-instruments,
+  :cites ["US3764214" "US3917404" "US4066365" "US4099920"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:yale-university],
+  :jurisdiction :wo,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/WO1982002060A1/en",
+  :title "Method for cloning genes",
+  :status :pending,
+  :id "WO1982002060A1",
+  :sourcing :authoritative,
+  :filing-year 1981,
+  :assignee :yale-university,
+  :cites ["WO1980000030A1"],
+  :term-years 20,
+  :open-license :none}
+ {:jurisdiction :wo,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/WO1983001073A1/en",
+  :title "Method for identifying and characterizing organisms",
+  :status :pending,
+  :id "WO1983001073A1",
+  :sourcing :authoritative,
+  :filing-year 1982,
+  :assignee :unassigned,
+  :cites ["US4302204"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:orion-yhtyma-oy :soderlund-hans-erik],
+  :jurisdiction :wo,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/WO1983001459A1/en",
+  :title
+  "A method and reagent combination for the diagnosis of microorganisms by sandwich hybridization of nucleic acids",
+  :status :pending,
+  :id "WO1983001459A1",
+  :sourcing :authoritative,
+  :filing-year 1982,
+  :assignee :orion-yhtyma-oy,
+  :cites
+  ["DE3211311A1"
+   "EP0062286A1"
+   "EP0063879A2"
+   "GB2019408A"
+   "GB2034323A"
+   "SU649751A1"
+   "US4302204"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:institut-pasteur],
+  :jurisdiction :wo,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/WO1983002277A1/en",
+  :title
+  "Dna fragments marked at least at one of the ends thereof by modified ribonucleotides recognizable by related molecules and method for analyzing such dna fragments",
+  :status :pending,
+  :id "WO1983002277A1",
+  :sourcing :authoritative,
+  :filing-year 1982,
+  :assignee :institut-pasteur,
+  :cites ["DE2618419A1" "DE2618511A1"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:institut-pasteur],
+  :jurisdiction :wo,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/WO1983002286A1/en",
+  :title
+  "Probe containing a modified nucleic acid recognizable by specific antibodies and utilization of said probe to test for and characterize an homologous dna sequence",
+  :status :pending,
+  :id "WO1983002286A1",
+  :sourcing :authoritative,
+  :filing-year 1982,
+  :assignee :institut-pasteur,
+  :cites ["GB2019408A" "US4358535"],
+  :term-years 20,
+  :open-license :none}
+ {:jurisdiction :wo,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/WO1983003104A1/en",
+  :title "Enhanced luminescent and luminometric assay",
+  :status :pending,
+  :id "WO1983003104A1",
+  :sourcing :authoritative,
+  :filing-year 1983,
+  :assignee :unassigned,
+  :cites
+  ["EP0070686A2"
+   "FR2383441A1"
+   "GB2008247A"
+   "GB2026690A"
+   "GB2070767A"
+   "GB2070768A"
+   "GB2095830A"],
+  :term-years 20,
+  :open-license :none}
+ {:jurisdiction :wo,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/WO1983003260A1/en",
+  :title
+  "Method and probe for determination of tissue types coded by mhc genes",
+  :status :pending,
+  :id "WO1983003260A1",
+  :sourcing :authoritative,
+  :filing-year 1983,
+  :assignee :unassigned,
+  :cites ["EP0062286A1" "EP0063879A2" "WO1982002060A1"],
+  :term-years 20,
+  :open-license :none}
+ {:jurisdiction :wo,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/WO1983003363A1/en",
+  :title "Chromatographic method for isolating macromolecules",
+  :status :pending,
+  :id "WO1983003363A1",
+  :sourcing :authoritative,
+  :filing-year 1983,
+  :assignee :unassigned,
+  :cites
+  ["DE2601930A1"
+   "FR2462183A1"
+   "GB2075362A"
+   "US4029583"
+   "US4118316"
+   "US4140653"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:harvard-university],
+  :jurisdiction :wo,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/WO1984001174A1/en",
+  :title "Identification of microorganisms",
+  :status :pending,
+  :id "WO1984001174A1",
+  :sourcing :authoritative,
+  :filing-year 1983,
+  :assignee :harvard-university,
+  :cites ["US4358535" "US4396713"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:gen-probe],
+  :jurisdiction :wo,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/WO1984002721A1/en",
+  :title
+  "Method for detecting, identifying, and quantitating organisms and viruses",
+  :status :pending,
+  :id "WO1984002721A1",
+  :sourcing :authoritative,
+  :filing-year 1984,
+  :assignee :gen-probe,
+  :cites
+  ["US4228238" "US4302204" "US4358535" "US4416988" "WO1983001073A1"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:molecular-biosystems],
+  :jurisdiction :wo,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/WO1984003285A1/en",
+  :title
+  "Defined sequence single strand oligonucleotides incorporating reporter groups, process for the chemical synthesis thereof, and nucleosides useful in such synthesis",
+  :status :pending,
+  :id "WO1984003285A1",
+  :sourcing :authoritative,
+  :filing-year 1984,
+  :assignee :molecular-biosystems,
+  :cites
+  ["EP0063879A2"
+   "US4199498"
+   "US4247544"
+   "US4267171"
+   "US4336188"
+   "US4358535"
+   "WO1983001459A1"
+   "WO1983002286A1"
+   "WO1983003620A1"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:blair-malcolm-a-d],
   :jurisdiction :wo,
   :field "UNKNOWN",
   :source "https://patents.google.com/patent/WO1984003520A1/en",
