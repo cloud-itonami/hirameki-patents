@@ -1,4 +1,29 @@
-[{:assignees [:seaman-paper-company-of-massachusetts],
+[{:jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2127538/en",
+  :title "Signaling device",
+  :status :granted,
+  :id "US2127538",
+  :sourcing :authoritative,
+  :filing-year 1936,
+  :assignee :unassigned,
+  :grant-year 1938,
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:schleicher-and-schuell],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2129754/en",
+  :title "Test paper",
+  :status :granted,
+  :id "US2129754",
+  :sourcing :authoritative,
+  :filing-year 1937,
+  :assignee :schleicher-and-schuell,
+  :grant-year 1938,
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:seaman-paper-company-of-massachusetts],
   :jurisdiction :us,
   :field "UNKNOWN",
   :source "https://patents.google.com/patent/US2130241/en",
@@ -352,6 +377,18 @@
   :id "US2193437",
   :sourcing :authoritative,
   :filing-year 1938,
+  :assignee :unassigned,
+  :grant-year 1940,
+  :term-years 20,
+  :open-license :none}
+ {:jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2193931/en",
+  :title "Process for producing multicolored photographic images",
+  :status :granted,
+  :id "US2193931",
+  :sourcing :authoritative,
+  :filing-year 1937,
   :assignee :unassigned,
   :grant-year 1940,
   :term-years 20,
@@ -738,6 +775,19 @@
   :sourcing :authoritative,
   :filing-year 1938,
   :assignee :unassigned,
+  :grant-year 1941,
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:chromogen],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2241413/en",
+  :title "Photographic printing process and image for use therein",
+  :status :granted,
+  :id "US2241413",
+  :sourcing :authoritative,
+  :filing-year 1939,
+  :assignee :chromogen,
   :grant-year 1941,
   :term-years 20,
   :open-license :none}
@@ -1300,6 +1350,20 @@
   :grant-year 1942,
   :term-years 20,
   :open-license :none}
+ {:assignees [:ei-du-pont-de-nemours-and],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2297732/en",
+  :title
+  "Photographic color process involving the formation of azo dye images",
+  :status :granted,
+  :id "US2297732",
+  :sourcing :authoritative,
+  :filing-year 1940,
+  :assignee :ei-du-pont-de-nemours-and,
+  :grant-year 1942,
+  :term-years 20,
+  :open-license :none}
  {:assignees [:socony-vacuum-oil],
   :jurisdiction :us,
   :field "UNKNOWN",
@@ -1375,6 +1439,32 @@
   :filing-year 1939,
   :assignee :unassigned,
   :grant-year 1942,
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:eastman-kodak],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2306410/en",
+  :title "Color development",
+  :status :granted,
+  :id "US2306410",
+  :sourcing :authoritative,
+  :filing-year 1937,
+  :assignee :eastman-kodak,
+  :grant-year 1942,
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:general-aniline-and-film],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2307162/en",
+  :title "Process for the production of color images",
+  :status :granted,
+  :id "US2307162",
+  :sourcing :authoritative,
+  :filing-year 1940,
+  :assignee :general-aniline-and-film,
+  :grant-year 1943,
   :term-years 20,
   :open-license :none}
  {:assignees [:stein-hall-manufacturing],
@@ -1571,6 +1661,19 @@
  {:assignees [:eastman-kodak],
   :jurisdiction :us,
   :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2322027/en",
+  :title "Color photography",
+  :status :granted,
+  :id "US2322027",
+  :sourcing :authoritative,
+  :filing-year 1940,
+  :assignee :eastman-kodak,
+  :grant-year 1943,
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:eastman-kodak],
+  :jurisdiction :us,
+  :field "UNKNOWN",
   :source "https://patents.google.com/patent/US2322048/en",
   :title "Nontacky adhesive coated sheeting",
   :status :granted,
@@ -1617,6 +1720,19 @@
   :sourcing :authoritative,
   :filing-year 1940,
   :assignee :warren-sd,
+  :grant-year 1943,
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:ei-du-pont-de-nemours-and],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2328034/en",
+  :title "Photographic element and process",
+  :status :granted,
+  :id "US2328034",
+  :sourcing :authoritative,
+  :filing-year 1940,
+  :assignee :ei-du-pont-de-nemours-and,
   :grant-year 1943,
   :term-years 20,
   :open-license :none}
@@ -2881,6 +2997,27 @@
    "US2386259"],
   :term-years 20,
   :open-license :none}
+ {:assignees [:general-aniline-and-film],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2431996/en",
+  :title
+  "Production of color negative film containing integral masking images for color correction",
+  :status :granted,
+  :id "US2431996",
+  :sourcing :authoritative,
+  :filing-year 1944,
+  :assignee :general-aniline-and-film,
+  :grant-year 1947,
+  :cites
+  ["US1229546"
+   "US1308538"
+   "US2193931"
+   "US2203656"
+   "US2221025"
+   "US2340656"],
+  :term-years 20,
+  :open-license :none}
  {:assignees [:molins-machine],
   :jurisdiction :us,
   :field "UNKNOWN",
@@ -3319,6 +3456,19 @@
   :cites ["US2305082" "US2329824" "US2337443" "US2337465"],
   :term-years 20,
   :open-license :none}
+ {:assignees [:merck-and],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2460225/en",
+  :title "Biotin intermediate",
+  :status :granted,
+  :id "US2460225",
+  :sourcing :authoritative,
+  :filing-year 1945,
+  :assignee :merck-and,
+  :grant-year 1949,
+  :term-years 20,
+  :open-license :none}
  {:assignees [:sun-chemical],
   :jurisdiction :us,
   :field "UNKNOWN",
@@ -3744,6 +3894,20 @@
   :cites ["US1637153" "US2430995" "US700805"],
   :term-years 20,
   :open-license :none}
+ {:assignees [:merck-and],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2508457/en",
+  :title "3-keto-4-acylamido-tetrahydrothiophene",
+  :status :granted,
+  :id "US2508457",
+  :sourcing :authoritative,
+  :filing-year 1944,
+  :assignee :merck-and,
+  :grant-year 1950,
+  :cites ["US2472433"],
+  :term-years 20,
+  :open-license :none}
  {:assignees [:bendix-aviation],
   :jurisdiction :us,
   :field "UNKNOWN",
@@ -3841,6 +4005,20 @@
   :assignee :corning-glass-works,
   :grant-year 1950,
   :cites ["US2049765" "US2144943" "US2237042" "US2326012" "US2422472"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:eastman-kodak],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2518739/en",
+  :title "Method of masking photographic color images",
+  :status :granted,
+  :id "US2518739",
+  :sourcing :authoritative,
+  :filing-year 1947,
+  :assignee :eastman-kodak,
+  :grant-year 1950,
+  :cites ["US2193931" "US2306410" "US2339213"],
   :term-years 20,
   :open-license :none}
  {:assignees [:ei-du-pont-de-nemours-and],
@@ -4360,6 +4538,20 @@
    "US2361634"
    "US2375273"
    "US2412782"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:merck-and],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2571238/en",
+  :title "Biotin intermediate",
+  :status :granted,
+  :id "US2571238",
+  :sourcing :authoritative,
+  :filing-year 1945,
+  :assignee :merck-and,
+  :grant-year 1951,
+  :cites ["US2373136" "US2399974"],
   :term-years 20,
   :open-license :none}
  {:assignees [:corning-glass-works],
@@ -9620,203 +9812,5 @@
   :assignee :unassigned,
   :grant-year 1960,
   :cites ["US2466963" "US2824816"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:american-cyanamid],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US2935493/en",
-  :title
-  "Composition comprising a reaction product of formaldehyde and a copolymer of acrylamide and an unsaturated betaine",
-  :status :granted,
-  :id "US2935493",
-  :sourcing :authoritative,
-  :filing-year 1955,
-  :assignee :american-cyanamid,
-  :grant-year 1960,
-  :cites
-  ["DE716322C"
-   "US2082275"
-   "US2548428"
-   "US2563289"
-   "US2595575"
-   "US2744130"
-   "US2777872"
-   "US2834758"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:bell-telephone-laboratories],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US2935781/en",
-  :title "Manufacture of germanium translators",
-  :status :granted,
-  :id "US2935781",
-  :sourcing :authoritative,
-  :filing-year 1955,
-  :assignee :bell-telephone-laboratories,
-  :grant-year 1960,
-  :cites
-  ["US2577803"
-   "US2650311"
-   "US2673312"
-   "US2686279"
-   "US2695852"
-   "US2812480"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:sylvania-electric-products],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US2937353/en",
-  :title "Photoconductive devices",
-  :status :granted,
-  :id "US2937353",
-  :sourcing :authoritative,
-  :filing-year 1959,
-  :assignee :sylvania-electric-products,
-  :grant-year 1960,
-  :cites ["US2843914" "US2844640" "US2876202" "US2879182" "US2879362"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:union-carbide],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US2938064/en",
-  :title "Air-depolarized cell",
-  :status :granted,
-  :id "US2938064",
-  :sourcing :authoritative,
-  :filing-year 1958,
-  :assignee :union-carbide,
-  :grant-year 1960,
-  :cites ["US2097077" "US2615932"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:usines-decoufle],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US2938521/en",
-  :title "Tobacco-manipulating machines",
-  :status :granted,
-  :id "US2938521",
-  :sourcing :authoritative,
-  :filing-year 1957,
-  :assignee :usines-decoufle,
-  :grant-year 1960,
-  :cites ["US2264725"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:general-tire-and-rubber],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US2938823/en",
-  :title "Treatment of polyethylene terephthalate fibers",
-  :status :granted,
-  :id "US2938823",
-  :sourcing :authoritative,
-  :filing-year 1956,
-  :assignee :general-tire-and-rubber,
-  :grant-year 1960,
-  :cites
-  ["US2415839"
-   "US2419922"
-   "US2590586"
-   "US2657162"
-   "US2679088"
-   "US2758908"
-   "US2768057"
-   "US2768868"
-   "US2783176"
-   "US7709148"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:union-carbide],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US2938879/en",
-  :title "Non-blocking polyethylene compositions",
-  :status :granted,
-  :id "US2938879",
-  :sourcing :authoritative,
-  :filing-year 1955,
-  :assignee :union-carbide,
-  :grant-year 1960,
-  :cites ["US2516591" "US2530769" "US2632751" "US2654722" "US2770608"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:arthur-d-little],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US2938892/en",
-  :title "Amides and process of preparing same with a monocarbodhmide",
-  :status :granted,
-  :id "US2938892",
-  :sourcing :authoritative,
-  :filing-year 1958,
-  :assignee :arthur-d-little,
-  :grant-year 1960,
-  :cites ["US2284896" "US2786049" "US2793204" "US2850496" "US2891059"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:ei-du-pont-de-nemours-and],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US2940884/en",
-  :title "Adhesive tape",
-  :status :granted,
-  :id "US2940884",
-  :sourcing :authoritative,
-  :filing-year 1956,
-  :assignee :ei-du-pont-de-nemours-and,
-  :grant-year 1960,
-  :cites
-  ["US2133609"
-   "US2329527"
-   "US2506933"
-   "US2649199"
-   "US2651588"
-   "US2679968"
-   "US2725322"
-   "US986655"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:american-viscose],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US2940889/en",
-  :title "Vinyl-coated fabrics",
-  :status :granted,
-  :id "US2940889",
-  :sourcing :authoritative,
-  :filing-year 1955,
-  :assignee :american-viscose,
-  :grant-year 1960,
-  :cites
-  ["GB696364A"
-   "US2171324"
-   "US2182306"
-   "US2237344"
-   "US2348039"
-   "US2406905"
-   "US2408682"
-   "US2533976"
-   "US2593540"
-   "US2698793"
-   "US2732002"
-   "US2823156"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:armstrong-cork],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US2945020/en",
-  :title "Method of forming fine polyethylene powders",
-  :status :granted,
-  :id "US2945020",
-  :sourcing :authoritative,
-  :filing-year 1959,
-  :assignee :armstrong-cork,
-  :grant-year 1960,
   :term-years 20,
   :open-license :none}]

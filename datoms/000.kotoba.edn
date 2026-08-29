@@ -1781,6 +1781,47 @@
   ":hirameki/source"
   "https://patents.google.com/patent/DE2907635A1/en"]
  [":db/add"
+  "hirameki-patent:DE2917001A1"
+  ":hirameki.patent/title"
+  "NEW DISULFIDE COMPOUNDS"]
+ [":db/add"
+  "hirameki-patent:DE2917001A1"
+  ":hirameki.patent/jurisdiction"
+  ":de"]
+ [":db/add"
+  "hirameki-patent:DE2917001A1"
+  ":hirameki.patent/field"
+  "UNKNOWN"]
+ [":db/add"
+  "hirameki-patent:DE2917001A1"
+  ":hirameki.patent/assignee"
+  ":toyo-jozo"]
+ [":db/add"
+  "hirameki-patent:DE2917001A1"
+  ":hirameki.patent/status"
+  ":pending"]
+ [":db/add"
+  "hirameki-patent:DE2917001A1"
+  ":hirameki.patent/open-license"
+  ":none"]
+ [":db/add"
+  "hirameki-patent:DE2917001A1"
+  ":hirameki.obs/release-status"
+  ":pending"]
+ [":db/add"
+  "hirameki-patent:DE2917001A1"
+  ":hirameki/sourcing"
+  ":authoritative"]
+ [":db/add" "hirameki-patent:DE2917001A1" ":hirameki/derived" true]
+ [":db/add"
+  "hirameki-patent:DE2917001A1"
+  ":hirameki.obs/years-to-expiry"
+  -27]
+ [":db/add"
+  "hirameki-patent:DE2917001A1"
+  ":hirameki/source"
+  "https://patents.google.com/patent/DE2917001A1/en"]
+ [":db/add"
   "hirameki-patent:DE2930604A1"
   ":hirameki.patent/title"
   "DOUBLE STRAND RIBONUCLEIC ACID, METHOD FOR THE PRODUCTION THEREOF, AND INTERFERON INDUCTORS CONTAINING THE SAME"]
@@ -9908,46 +9949,5 @@
   "Binding assays"]
  [":db/add"
   "hirameki-patent:GB2078370A"
-  ":hirameki.patent/jurisdiction"
-  ":gb"]
- [":db/add"
-  "hirameki-patent:GB2078370A"
-  ":hirameki.patent/field"
-  "UNKNOWN"]
- [":db/add"
-  "hirameki-patent:GB2078370A"
-  ":hirameki.patent/assignee"
-  ":nat-res-dev"]
- [":db/add"
-  "hirameki-patent:GB2078370A"
-  ":hirameki.patent/status"
-  ":pending"]
- [":db/add"
-  "hirameki-patent:GB2078370A"
-  ":hirameki.patent/open-license"
-  ":none"]
- [":db/add"
-  "hirameki-patent:GB2078370A"
-  ":hirameki.obs/release-status"
-  ":pending"]
- [":db/add"
-  "hirameki-patent:GB2078370A"
-  ":hirameki/sourcing"
-  ":authoritative"]
- [":db/add" "hirameki-patent:GB2078370A" ":hirameki/derived" true]
- [":db/add"
-  "hirameki-patent:GB2078370A"
-  ":hirameki.obs/years-to-expiry"
-  -25]
- [":db/add"
-  "hirameki-patent:GB2078370A"
-  ":hirameki/source"
-  "https://patents.google.com/patent/GB2078370A/en"]
- [":db/add"
-  "hirameki-patent:GB2095830A"
-  ":hirameki.patent/title"
-  "Detecting or quantifying substances of biological interest using luminescent reactions"]
- [":db/add"
-  "hirameki-patent:GB2095830A"
   ":hirameki.patent/jurisdiction"
   ":gb"]]

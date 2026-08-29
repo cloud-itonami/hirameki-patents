@@ -1,4 +1,45 @@
 [[":db/add"
+  "hirameki-patent:GB2078370A"
+  ":hirameki.patent/field"
+  "UNKNOWN"]
+ [":db/add"
+  "hirameki-patent:GB2078370A"
+  ":hirameki.patent/assignee"
+  ":nat-res-dev"]
+ [":db/add"
+  "hirameki-patent:GB2078370A"
+  ":hirameki.patent/status"
+  ":pending"]
+ [":db/add"
+  "hirameki-patent:GB2078370A"
+  ":hirameki.patent/open-license"
+  ":none"]
+ [":db/add"
+  "hirameki-patent:GB2078370A"
+  ":hirameki.obs/release-status"
+  ":pending"]
+ [":db/add"
+  "hirameki-patent:GB2078370A"
+  ":hirameki/sourcing"
+  ":authoritative"]
+ [":db/add" "hirameki-patent:GB2078370A" ":hirameki/derived" true]
+ [":db/add"
+  "hirameki-patent:GB2078370A"
+  ":hirameki.obs/years-to-expiry"
+  -25]
+ [":db/add"
+  "hirameki-patent:GB2078370A"
+  ":hirameki/source"
+  "https://patents.google.com/patent/GB2078370A/en"]
+ [":db/add"
+  "hirameki-patent:GB2095830A"
+  ":hirameki.patent/title"
+  "Detecting or quantifying substances of biological interest using luminescent reactions"]
+ [":db/add"
+  "hirameki-patent:GB2095830A"
+  ":hirameki.patent/jurisdiction"
+  ":gb"]
+ [":db/add"
   "hirameki-patent:GB2095830A"
   ":hirameki.patent/field"
   "UNKNOWN"]
@@ -892,6 +933,47 @@
   "hirameki-patent:GB392742A"
   ":hirameki/source"
   "https://patents.google.com/patent/GB392742A/en"]
+ [":db/add"
+  "hirameki-patent:GB503824A"
+  ":hirameki.patent/title"
+  "Process of colour photography"]
+ [":db/add"
+  "hirameki-patent:GB503824A"
+  ":hirameki.patent/jurisdiction"
+  ":gb"]
+ [":db/add"
+  "hirameki-patent:GB503824A"
+  ":hirameki.patent/field"
+  "UNKNOWN"]
+ [":db/add"
+  "hirameki-patent:GB503824A"
+  ":hirameki.patent/assignee"
+  ":kodak"]
+ [":db/add"
+  "hirameki-patent:GB503824A"
+  ":hirameki.patent/status"
+  ":pending"]
+ [":db/add"
+  "hirameki-patent:GB503824A"
+  ":hirameki.patent/open-license"
+  ":none"]
+ [":db/add"
+  "hirameki-patent:GB503824A"
+  ":hirameki.obs/release-status"
+  ":pending"]
+ [":db/add"
+  "hirameki-patent:GB503824A"
+  ":hirameki/sourcing"
+  ":authoritative"]
+ [":db/add" "hirameki-patent:GB503824A" ":hirameki/derived" true]
+ [":db/add"
+  "hirameki-patent:GB503824A"
+  ":hirameki.obs/years-to-expiry"
+  -69]
+ [":db/add"
+  "hirameki-patent:GB503824A"
+  ":hirameki/source"
+  "https://patents.google.com/patent/GB503824A/en"]
  [":db/add"
   "hirameki-patent:GB519298A"
   ":hirameki.patent/title"
@@ -9868,86 +9950,4 @@
  [":db/add"
   "hirameki-patent:US1070556"
   ":hirameki.patent/assignee"
-  ":unassigned"]
- [":db/add"
-  "hirameki-patent:US1070556"
-  ":hirameki.patent/status"
-  ":granted"]
- [":db/add"
-  "hirameki-patent:US1070556"
-  ":hirameki.patent/open-license"
-  ":none"]
- [":db/add"
-  "hirameki-patent:US1070556"
-  ":hirameki.obs/release-status"
-  ":public-domain"]
- [":db/add"
-  "hirameki-patent:US1070556"
-  ":hirameki/sourcing"
-  ":authoritative"]
- [":db/add" "hirameki-patent:US1070556" ":hirameki/derived" true]
- [":db/add"
-  "hirameki-patent:US1070556"
-  ":hirameki.obs/years-to-expiry"
-  -93]
- [":db/add"
-  "hirameki-patent:US1070556"
-  ":hirameki/source"
-  "https://patents.google.com/patent/US1070556/en"]
- [":db/add"
-  "hirameki-patent:US1084636"
-  ":hirameki.patent/title"
-  "Device for scattering handbills and the like."]
- [":db/add"
-  "hirameki-patent:US1084636"
-  ":hirameki.patent/jurisdiction"
-  ":us"]
- [":db/add"
-  "hirameki-patent:US1084636"
-  ":hirameki.patent/field"
-  "UNKNOWN"]
- [":db/add"
-  "hirameki-patent:US1084636"
-  ":hirameki.patent/assignee"
-  ":unassigned"]
- [":db/add"
-  "hirameki-patent:US1084636"
-  ":hirameki.patent/status"
-  ":granted"]
- [":db/add"
-  "hirameki-patent:US1084636"
-  ":hirameki.patent/open-license"
-  ":none"]
- [":db/add"
-  "hirameki-patent:US1084636"
-  ":hirameki.obs/release-status"
-  ":public-domain"]
- [":db/add"
-  "hirameki-patent:US1084636"
-  ":hirameki/sourcing"
-  ":authoritative"]
- [":db/add" "hirameki-patent:US1084636" ":hirameki/derived" true]
- [":db/add"
-  "hirameki-patent:US1084636"
-  ":hirameki.obs/years-to-expiry"
-  -93]
- [":db/add"
-  "hirameki-patent:US1084636"
-  ":hirameki/source"
-  "https://patents.google.com/patent/US1084636/en"]
- [":db/add"
-  "hirameki-patent:US1095757"
-  ":hirameki.patent/title"
-  "Drainage means for drying-drums."]
- [":db/add"
-  "hirameki-patent:US1095757"
-  ":hirameki.patent/jurisdiction"
-  ":us"]
- [":db/add"
-  "hirameki-patent:US1095757"
-  ":hirameki.patent/field"
-  "UNKNOWN"]
- [":db/add"
-  "hirameki-patent:US1095757"
-  ":hirameki.patent/assignee"
-  ":spotless-steam-sponger"]]
+  ":unassigned"]]
