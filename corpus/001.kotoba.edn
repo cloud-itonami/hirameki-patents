@@ -1,5 +1,43 @@
 [{:jurisdiction :us,
   :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2122363/en",
+  :title "Concentration testing apparatus and method",
+  :status :granted,
+  :id "US2122363",
+  :sourcing :authoritative,
+  :filing-year 1935,
+  :assignee :unassigned,
+  :grant-year 1938,
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:sperry-products],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2124411/en",
+  :title "Flaw detector mechanism",
+  :status :granted,
+  :id "US2124411",
+  :sourcing :authoritative,
+  :filing-year 1933,
+  :assignee :sperry-products,
+  :grant-year 1938,
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:filtration-equipment],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2125846/en",
+  :title "Magnetic sewage clarification",
+  :status :granted,
+  :id "US2125846",
+  :sourcing :authoritative,
+  :filing-year 1936,
+  :assignee :filtration-equipment,
+  :grant-year 1938,
+  :term-years 20,
+  :open-license :none}
+ {:jurisdiction :us,
+  :field "UNKNOWN",
   :source "https://patents.google.com/patent/US2127538/en",
   :title "Signaling device",
   :status :granted,
@@ -1995,6 +2033,19 @@
   :grant-year 1944,
   :term-years 20,
   :open-license :none}
+ {:assignees [:research],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2348417/en",
+  :title "Arsanilic acid azo sulphonamide compound",
+  :status :granted,
+  :id "US2348417",
+  :sourcing :authoritative,
+  :filing-year 1941,
+  :assignee :research,
+  :grant-year 1944,
+  :term-years 20,
+  :open-license :none}
  {:assignees [:copeman-laboratories],
   :jurisdiction :us,
   :field "UNKNOWN",
@@ -2069,6 +2120,19 @@
   :sourcing :authoritative,
   :filing-year 1941,
   :assignee :spencer-lens,
+  :grant-year 1944,
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:eastman-kodak],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2353262/en",
+  :title "Preventing crystallization of couplers",
+  :status :granted,
+  :id "US2353262",
+  :sourcing :authoritative,
+  :filing-year 1942,
+  :assignee :eastman-kodak,
   :grant-year 1944,
   :term-years 20,
   :open-license :none}
@@ -3714,6 +3778,31 @@
    "US2323562"
    "US2377867"
    "US2428654"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:ciba],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2495244/en",
+  :title "Ester-like derivatives of azo dyestuffs",
+  :status :granted,
+  :id "US2495244",
+  :sourcing :authoritative,
+  :filing-year 1945,
+  :assignee :ciba,
+  :grant-year 1950,
+  :cites
+  ["US2095077"
+   "US2095600"
+   "US2109806"
+   "US2120741"
+   "US2170262"
+   "US2199048"
+   "US2237483"
+   "US2249956"
+   "US2274544"
+   "US2276187"
+   "US2359862"],
   :term-years 20,
   :open-license :none}
  {:assignees [:universal-oil-products],
@@ -8010,6 +8099,34 @@
    "US2454082"],
   :term-years 20,
   :open-license :none}
+ {:assignees [:eastman-kodak],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2801170/en",
+  :title "Preparation of color former dispersions",
+  :status :granted,
+  :id "US2801170",
+  :sourcing :authoritative,
+  :filing-year 1954,
+  :assignee :eastman-kodak,
+  :grant-year 1957,
+  :cites ["US2322027" "US2478400"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:eastman-kodak],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2801171/en",
+  :title "Photographic color former dispersions",
+  :status :granted,
+  :id "US2801171",
+  :sourcing :authoritative,
+  :filing-year 1954,
+  :assignee :eastman-kodak,
+  :grant-year 1957,
+  :cites ["US2322027" "US2478400" "US2699794"],
+  :term-years 20,
+  :open-license :none}
  {:assignees [:bell-telephone-laboratories],
   :jurisdiction :us,
   :field "UNKNOWN",
@@ -8368,6 +8485,20 @@
    "US2509068"],
   :term-years 20,
   :open-license :none}
+ {:assignees [:bayer],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2830042/en",
+  :title "Monoazo dyestuffs",
+  :status :granted,
+  :id "US2830042",
+  :sourcing :authoritative,
+  :filing-year 1955,
+  :assignee :bayer,
+  :grant-year 1958,
+  :cites ["US2551056" "US2640825"],
+  :term-years 20,
+  :open-license :none}
  {:assignees [:jones-graphic-products],
   :jurisdiction :us,
   :field "UNKNOWN",
@@ -8588,6 +8719,20 @@
    "US2569100"
    "US2615839"
    "US2773237"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:eastman-kodak],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2852381/en",
+  :title "Photographic emulsions containing polymeric color formers",
+  :status :granted,
+  :id "US2852381",
+  :sourcing :authoritative,
+  :filing-year 1953,
+  :assignee :eastman-kodak,
+  :grant-year 1958,
+  :cites ["US2322006" "US2322027" "US2533514" "US2759816"],
   :term-years 20,
   :open-license :none}
  {:jurisdiction :us,
@@ -9648,169 +9793,5 @@
   :assignee :glanzstoff,
   :grant-year 1960,
   :cites ["US2375256" "US2608554" "US2608555" "US2675372"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:garden-photoengraving],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US2925332/en",
-  :title "Method of etching printing plates",
-  :status :granted,
-  :id "US2925332",
-  :sourcing :authoritative,
-  :filing-year 1956,
-  :assignee :garden-photoengraving,
-  :grant-year 1960,
-  :cites ["US1709327" "US2314285" "US2640765"],
-  :term-years 20,
-  :open-license :none}
- {:jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US2926072/en",
-  :title "Detection of g agents",
-  :status :granted,
-  :id "US2926072",
-  :sourcing :authoritative,
-  :filing-year 1959,
-  :assignee :unassigned,
-  :grant-year 1960,
-  :term-years 20,
-  :open-license :none}
- {:jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US2927219/en",
-  :title "Apparatus for counting discrete particles",
-  :status :granted,
-  :id "US2927219",
-  :sourcing :authoritative,
-  :filing-year 1953,
-  :assignee :unassigned,
-  :grant-year 1960,
-  :cites
-  ["US2415191"
-   "US2427319"
-   "US2443722"
-   "US2494441"
-   "US2661902"
-   "US2789765"
-   "US2791377"
-   "US2791695"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:jersey-production-research],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US2927640/en",
-  :title "Well tool placement apparatus",
-  :status :granted,
-  :id "US2927640",
-  :sourcing :authoritative,
-  :filing-year 1957,
-  :assignee :jersey-production-research,
-  :grant-year 1960,
-  :cites
-  ["US1839310"
-   "US2261564"
-   "US2315931"
-   "US2436252"
-   "US2591603"
-   "US2606616"
-   "US2805718"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:bayer :mobay],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US2929737/en",
-  :title "Coated textiles and method of producing the same",
-  :status :granted,
-  :id "US2929737",
-  :sourcing :authoritative,
-  :filing-year 1954,
-  :assignee :bayer,
-  :grant-year 1960,
-  :cites
-  ["CA501126A"
-   "DE821934C"
-   "GB604834A"
-   "US2333922"
-   "US2430479"
-   "US2555745"
-   "US2606162"],
-  :term-years 20,
-  :open-license :none}
- {:jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US2930727/en",
-  :title "Aminoplastic resin impregnated laminates",
-  :status :granted,
-  :id "US2930727",
-  :sourcing :authoritative,
-  :filing-year 1958,
-  :assignee :unassigned,
-  :grant-year 1960,
-  :cites
-  ["US1851177"
-   "US2325376"
-   "US2415763"
-   "US2525676"
-   "US2680700"
-   "US2694028"
-   "US2728741"
-   "US2769796"
-   "US2773793"
-   "US2773794"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:national-drug],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US2930736/en",
-  :title
-  "Stabilized trypsin compositions containing partially hydrolyzed gelatin and method of making",
-  :status :granted,
-  :id "US2930736",
-  :sourcing :authoritative,
-  :filing-year 1957,
-  :assignee :national-drug,
-  :grant-year 1960,
-  :term-years 20,
-  :open-license :none}
- {:assignees [:amf],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US2932300/en",
-  :title "Cigarette machine",
-  :status :granted,
-  :id "US2932300",
-  :sourcing :authoritative,
-  :filing-year 1956,
-  :assignee :amf,
-  :grant-year 1960,
-  :cites
-  ["DE542226C"
-   "FR406842A"
-   "GB445044A"
-   "US1052381"
-   "US1647255"
-   "US1755080"
-   "US1999120"
-   "US2181229"
-   "US2310460"
-   "US2570270"
-   "US7226"],
-  :term-years 20,
-  :open-license :none}
- {:jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US2933418/en",
-  :title "Impregnation of the grain side of leather with polysulfides",
-  :status :granted,
-  :id "US2933418",
-  :sourcing :authoritative,
-  :filing-year 1959,
-  :assignee :unassigned,
-  :grant-year 1960,
-  :cites ["US2466963" "US2824816"],
   :term-years 20,
   :open-license :none}]

@@ -1,4 +1,90 @@
 [[":db/add"
+  "hirameki-patent:GB2070767A"
+  ":hirameki.patent/jurisdiction"
+  ":gb"]
+ [":db/add"
+  "hirameki-patent:GB2070767A"
+  ":hirameki.patent/field"
+  "UNKNOWN"]
+ [":db/add"
+  "hirameki-patent:GB2070767A"
+  ":hirameki.patent/assignee"
+  ":abbott-laboratories"]
+ [":db/add"
+  "hirameki-patent:GB2070767A"
+  ":hirameki.patent/status"
+  ":pending"]
+ [":db/add"
+  "hirameki-patent:GB2070767A"
+  ":hirameki.patent/open-license"
+  ":none"]
+ [":db/add"
+  "hirameki-patent:GB2070767A"
+  ":hirameki.obs/release-status"
+  ":pending"]
+ [":db/add"
+  "hirameki-patent:GB2070767A"
+  ":hirameki/sourcing"
+  ":authoritative"]
+ [":db/add" "hirameki-patent:GB2070767A" ":hirameki/derived" true]
+ [":db/add"
+  "hirameki-patent:GB2070767A"
+  ":hirameki.obs/years-to-expiry"
+  -25]
+ [":db/add"
+  "hirameki-patent:GB2070767A"
+  ":hirameki/source"
+  "https://patents.google.com/patent/GB2070767A/en"]
+ [":db/add"
+  "hirameki-patent:GB2070768A"
+  ":hirameki.patent/title"
+  "Measuring lipid peroxides"]
+ [":db/add"
+  "hirameki-patent:GB2070768A"
+  ":hirameki.patent/jurisdiction"
+  ":gb"]
+ [":db/add"
+  "hirameki-patent:GB2070768A"
+  ":hirameki.patent/field"
+  "UNKNOWN"]
+ [":db/add"
+  "hirameki-patent:GB2070768A"
+  ":hirameki.patent/assignee"
+  ":toyo-jozo"]
+ [":db/add"
+  "hirameki-patent:GB2070768A"
+  ":hirameki.patent/status"
+  ":pending"]
+ [":db/add"
+  "hirameki-patent:GB2070768A"
+  ":hirameki.patent/open-license"
+  ":none"]
+ [":db/add"
+  "hirameki-patent:GB2070768A"
+  ":hirameki.obs/release-status"
+  ":pending"]
+ [":db/add"
+  "hirameki-patent:GB2070768A"
+  ":hirameki/sourcing"
+  ":authoritative"]
+ [":db/add" "hirameki-patent:GB2070768A" ":hirameki/derived" true]
+ [":db/add"
+  "hirameki-patent:GB2070768A"
+  ":hirameki.obs/years-to-expiry"
+  -25]
+ [":db/add"
+  "hirameki-patent:GB2070768A"
+  ":hirameki/source"
+  "https://patents.google.com/patent/GB2070768A/en"]
+ [":db/add"
+  "hirameki-patent:GB2078370A"
+  ":hirameki.patent/title"
+  "Binding assays"]
+ [":db/add"
+  "hirameki-patent:GB2078370A"
+  ":hirameki.patent/jurisdiction"
+  ":gb"]
+ [":db/add"
   "hirameki-patent:GB2078370A"
   ":hirameki.patent/field"
   "UNKNOWN"]
@@ -1958,6 +2044,47 @@
   "hirameki-patent:GB888624A"
   ":hirameki/source"
   "https://patents.google.com/patent/GB888624A/en"]
+ [":db/add"
+  "hirameki-patent:GB899758A"
+  ":hirameki.patent/title"
+  "Silver dye bleach process for producing colour photographs"]
+ [":db/add"
+  "hirameki-patent:GB899758A"
+  ":hirameki.patent/jurisdiction"
+  ":gb"]
+ [":db/add"
+  "hirameki-patent:GB899758A"
+  ":hirameki.patent/field"
+  "UNKNOWN"]
+ [":db/add"
+  "hirameki-patent:GB899758A"
+  ":hirameki.patent/assignee"
+  ":ciba"]
+ [":db/add"
+  "hirameki-patent:GB899758A"
+  ":hirameki.patent/status"
+  ":pending"]
+ [":db/add"
+  "hirameki-patent:GB899758A"
+  ":hirameki.patent/open-license"
+  ":none"]
+ [":db/add"
+  "hirameki-patent:GB899758A"
+  ":hirameki.obs/release-status"
+  ":pending"]
+ [":db/add"
+  "hirameki-patent:GB899758A"
+  ":hirameki/sourcing"
+  ":authoritative"]
+ [":db/add" "hirameki-patent:GB899758A" ":hirameki/derived" true]
+ [":db/add"
+  "hirameki-patent:GB899758A"
+  ":hirameki.obs/years-to-expiry"
+  -46]
+ [":db/add"
+  "hirameki-patent:GB899758A"
+  ":hirameki/source"
+  "https://patents.google.com/patent/GB899758A/en"]
  [":db/add"
   "hirameki-patent:GB900181A"
   ":hirameki.patent/title"
@@ -9827,127 +9954,4 @@
  [":db/add"
   "hirameki-patent:US10000000B1"
   ":hirameki.patent/field"
-  "G06N"]
- [":db/add"
-  "hirameki-patent:US10000000B1"
-  ":hirameki.patent/assignee"
-  ":google"]
- [":db/add"
-  "hirameki-patent:US10000000B1"
-  ":hirameki.patent/status"
-  ":granted"]
- [":db/add"
-  "hirameki-patent:US10000000B1"
-  ":hirameki.patent/open-license"
-  ":pledge"]
- [":db/add"
-  "hirameki-patent:US10000000B1"
-  ":hirameki.obs/release-status"
-  ":in-force"]
- [":db/add"
-  "hirameki-patent:US10000000B1"
-  ":hirameki/sourcing"
-  ":representative"]
- [":db/add" "hirameki-patent:US10000000B1" ":hirameki/derived" true]
- [":db/add"
-  "hirameki-patent:US10000000B1"
-  ":hirameki.obs/years-to-expiry"
-  11]
- [":db/add"
-  "hirameki-patent:US10196540B2"
-  ":hirameki.patent/title"
-  "Aqueous coating composition"]
- [":db/add"
-  "hirameki-patent:US10196540B2"
-  ":hirameki.patent/jurisdiction"
-  ":us"]
- [":db/add"
-  "hirameki-patent:US10196540B2"
-  ":hirameki.patent/field"
-  "UNKNOWN"]
- [":db/add"
-  "hirameki-patent:US10196540B2"
-  ":hirameki.patent/assignee"
-  ":kansai-paint"]
- [":db/add"
-  "hirameki-patent:US10196540B2"
-  ":hirameki.patent/status"
-  ":granted"]
- [":db/add"
-  "hirameki-patent:US10196540B2"
-  ":hirameki.patent/open-license"
-  ":none"]
- [":db/add"
-  "hirameki-patent:US10196540B2"
-  ":hirameki.obs/release-status"
-  ":in-force"]
- [":db/add"
-  "hirameki-patent:US10196540B2"
-  ":hirameki/sourcing"
-  ":authoritative"]
- [":db/add" "hirameki-patent:US10196540B2" ":hirameki/derived" true]
- [":db/add"
-  "hirameki-patent:US10196540B2"
-  ":hirameki.obs/years-to-expiry"
-  8]
- [":db/add"
-  "hirameki-patent:US10196540B2"
-  ":hirameki/source"
-  "https://patents.google.com/patent/US10196540B2/en"]
- [":db/add"
-  "hirameki-patent:US10584378B2"
-  ":hirameki.patent/title"
-  "Methods for synchronizing nucleic acid molecules"]
- [":db/add"
-  "hirameki-patent:US10584378B2"
-  ":hirameki.patent/jurisdiction"
-  ":us"]
- [":db/add"
-  "hirameki-patent:US10584378B2"
-  ":hirameki.patent/field"
-  "UNKNOWN"]
- [":db/add"
-  "hirameki-patent:US10584378B2"
-  ":hirameki.patent/assignee"
-  ":centrillion-technology-holdings"]
- [":db/add"
-  "hirameki-patent:US10584378B2"
-  ":hirameki.patent/status"
-  ":granted"]
- [":db/add"
-  "hirameki-patent:US10584378B2"
-  ":hirameki.patent/open-license"
-  ":none"]
- [":db/add"
-  "hirameki-patent:US10584378B2"
-  ":hirameki.obs/release-status"
-  ":in-force"]
- [":db/add"
-  "hirameki-patent:US10584378B2"
-  ":hirameki/sourcing"
-  ":authoritative"]
- [":db/add" "hirameki-patent:US10584378B2" ":hirameki/derived" true]
- [":db/add"
-  "hirameki-patent:US10584378B2"
-  ":hirameki.obs/years-to-expiry"
-  10]
- [":db/add"
-  "hirameki-patent:US10584378B2"
-  ":hirameki/source"
-  "https://patents.google.com/patent/US10584378B2/en"]
- [":db/add"
-  "hirameki-patent:US1070556"
-  ":hirameki.patent/title"
-  "Device for detecting suspended matter in gases."]
- [":db/add"
-  "hirameki-patent:US1070556"
-  ":hirameki.patent/jurisdiction"
-  ":us"]
- [":db/add"
-  "hirameki-patent:US1070556"
-  ":hirameki.patent/field"
-  "UNKNOWN"]
- [":db/add"
-  "hirameki-patent:US1070556"
-  ":hirameki.patent/assignee"
-  ":unassigned"]]
+  "G06N"]]

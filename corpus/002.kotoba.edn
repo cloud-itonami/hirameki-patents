@@ -1,4 +1,168 @@
-[{:assignees [:american-cyanamid],
+[{:assignees [:garden-photoengraving],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2925332/en",
+  :title "Method of etching printing plates",
+  :status :granted,
+  :id "US2925332",
+  :sourcing :authoritative,
+  :filing-year 1956,
+  :assignee :garden-photoengraving,
+  :grant-year 1960,
+  :cites ["US1709327" "US2314285" "US2640765"],
+  :term-years 20,
+  :open-license :none}
+ {:jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2926072/en",
+  :title "Detection of g agents",
+  :status :granted,
+  :id "US2926072",
+  :sourcing :authoritative,
+  :filing-year 1959,
+  :assignee :unassigned,
+  :grant-year 1960,
+  :term-years 20,
+  :open-license :none}
+ {:jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2927219/en",
+  :title "Apparatus for counting discrete particles",
+  :status :granted,
+  :id "US2927219",
+  :sourcing :authoritative,
+  :filing-year 1953,
+  :assignee :unassigned,
+  :grant-year 1960,
+  :cites
+  ["US2415191"
+   "US2427319"
+   "US2443722"
+   "US2494441"
+   "US2661902"
+   "US2789765"
+   "US2791377"
+   "US2791695"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:jersey-production-research],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2927640/en",
+  :title "Well tool placement apparatus",
+  :status :granted,
+  :id "US2927640",
+  :sourcing :authoritative,
+  :filing-year 1957,
+  :assignee :jersey-production-research,
+  :grant-year 1960,
+  :cites
+  ["US1839310"
+   "US2261564"
+   "US2315931"
+   "US2436252"
+   "US2591603"
+   "US2606616"
+   "US2805718"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:bayer :mobay],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2929737/en",
+  :title "Coated textiles and method of producing the same",
+  :status :granted,
+  :id "US2929737",
+  :sourcing :authoritative,
+  :filing-year 1954,
+  :assignee :bayer,
+  :grant-year 1960,
+  :cites
+  ["CA501126A"
+   "DE821934C"
+   "GB604834A"
+   "US2333922"
+   "US2430479"
+   "US2555745"
+   "US2606162"],
+  :term-years 20,
+  :open-license :none}
+ {:jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2930727/en",
+  :title "Aminoplastic resin impregnated laminates",
+  :status :granted,
+  :id "US2930727",
+  :sourcing :authoritative,
+  :filing-year 1958,
+  :assignee :unassigned,
+  :grant-year 1960,
+  :cites
+  ["US1851177"
+   "US2325376"
+   "US2415763"
+   "US2525676"
+   "US2680700"
+   "US2694028"
+   "US2728741"
+   "US2769796"
+   "US2773793"
+   "US2773794"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:national-drug],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2930736/en",
+  :title
+  "Stabilized trypsin compositions containing partially hydrolyzed gelatin and method of making",
+  :status :granted,
+  :id "US2930736",
+  :sourcing :authoritative,
+  :filing-year 1957,
+  :assignee :national-drug,
+  :grant-year 1960,
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:amf],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2932300/en",
+  :title "Cigarette machine",
+  :status :granted,
+  :id "US2932300",
+  :sourcing :authoritative,
+  :filing-year 1956,
+  :assignee :amf,
+  :grant-year 1960,
+  :cites
+  ["DE542226C"
+   "FR406842A"
+   "GB445044A"
+   "US1052381"
+   "US1647255"
+   "US1755080"
+   "US1999120"
+   "US2181229"
+   "US2310460"
+   "US2570270"
+   "US7226"],
+  :term-years 20,
+  :open-license :none}
+ {:jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2933418/en",
+  :title "Impregnation of the grain side of leather with polysulfides",
+  :status :granted,
+  :id "US2933418",
+  :sourcing :authoritative,
+  :filing-year 1959,
+  :assignee :unassigned,
+  :grant-year 1960,
+  :cites ["US2466963" "US2824816"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:american-cyanamid],
   :jurisdiction :us,
   :field "UNKNOWN",
   :source "https://patents.google.com/patent/US2935493/en",
@@ -133,6 +297,21 @@
   :assignee :arthur-d-little,
   :grant-year 1960,
   :cites ["US2284896" "US2786049" "US2793204" "US2850496" "US2891059"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:ciba],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2938895/en",
+  :title
+  "Metalliferous disazo dyestuffs containing heavy metal in complex union and a reactive triazine nucleus",
+  :status :granted,
+  :id "US2938895",
+  :sourcing :authoritative,
+  :filing-year 1958,
+  :assignee :ciba,
+  :grant-year 1960,
+  :cites ["US2780619" "US2860128"],
   :term-years 20,
   :open-license :none}
  {:assignees [:ei-du-pont-de-nemours-and],
@@ -868,6 +1047,20 @@
   :assignee :nat-res-dev,
   :grant-year 1961,
   :cites ["US1874667" "US2658310"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:ei-du-pont-de-nemours-and],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2976294/en",
+  :title "Dye intermediates",
+  :status :granted,
+  :id "US2976294",
+  :sourcing :authoritative,
+  :filing-year 1959,
+  :assignee :ei-du-pont-de-nemours-and,
+  :grant-year 1961,
+  :cites ["US2320089" "US2529455" "US2635960"],
   :term-years 20,
   :open-license :none}
  {:assignees [:technicon-instruments],
@@ -1754,6 +1947,20 @@
    "US2825721"
    "US2855517"
    "US2877500"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:dow-chemical],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3024221/en",
+  :title "Sulfo esters of alpha-methylene carboxylic acids",
+  :status :granted,
+  :id "US3024221",
+  :sourcing :authoritative,
+  :filing-year 1957,
+  :assignee :dow-chemical,
+  :grant-year 1962,
+  :cites ["US1881172" "US2812267" "US2923734"],
   :term-years 20,
   :open-license :none}
  {:jurisdiction :us,
@@ -2894,6 +3101,20 @@
    "US2744859"
    "US2756676"
    "US2845348"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:polaroid],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3081167/en",
+  :title "Photographic products and processes using metallic chelates",
+  :status :granted,
+  :id "US3081167",
+  :sourcing :authoritative,
+  :filing-year 1959,
+  :assignee :polaroid,
+  :grant-year 1963,
+  :cites ["GB779621A" "GB804971A" "US2559643" "US2774668" "US2983606"],
   :term-years 20,
   :open-license :none}
  {:assignees [:deutsche-itt-industries],
@@ -4132,6 +4353,30 @@
    "US2962376"],
   :term-years 20,
   :open-license :none}
+ {:assignees [:ei-du-pont-de-nemours-and],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3163625/en",
+  :title
+  "Color-forming monomers and polymers of acrylic acid amides of 3-aminopyrazolone",
+  :status :granted,
+  :id "US3163625",
+  :sourcing :authoritative,
+  :filing-year 1960,
+  :assignee :ei-du-pont-de-nemours-and,
+  :grant-year 1964,
+  :cites
+  ["US2469696"
+   "US2759910"
+   "US2794016"
+   "US2817666"
+   "US2829975"
+   "US2850485"
+   "US2852386"
+   "US2860986"
+   "US2927928"],
+  :term-years 20,
+  :open-license :none}
  {:jurisdiction :us,
   :field "UNKNOWN",
   :source "https://patents.google.com/patent/US3163968/en",
@@ -4807,6 +5052,37 @@
    "US2985866"
    "US3055006"
    "US3063872"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:polaroid],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3196014/en",
+  :title "Photographic processes",
+  :status :granted,
+  :id "US3196014",
+  :sourcing :authoritative,
+  :filing-year 1959,
+  :assignee :polaroid,
+  :grant-year 1965,
+  :cites
+  ["BE554212A"
+   "BE554935A"
+   "US1300616"
+   "US2070222"
+   "US2074858"
+   "US2199902"
+   "US2374106"
+   "US2456271"
+   "US2559643"
+   "US2560707"
+   "US2707150"
+   "US2774668"
+   "US2892710"
+   "US2908677"
+   "US2983605"
+   "US2992106"
+   "US3081167"],
   :term-years 20,
   :open-license :none}
  {:assignees [:zellsloff-fabrik-waldhof],
@@ -5588,6 +5864,28 @@
   :assignee :union-carbide,
   :grant-year 1966,
   :cites ["US2970948" "US3046201"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:gevaert-photo-producten],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3249431/en",
+  :title "Production of color photographic images",
+  :status :granted,
+  :id "US3249431",
+  :sourcing :authoritative,
+  :filing-year 1961,
+  :assignee :gevaert-photo-producten,
+  :grant-year 1966,
+  :cites
+  ["US2276254"
+   "US2419975"
+   "US2498418"
+   "US2518739"
+   "US2823998"
+   "US3012884"
+   "US3013879"
+   "US3028237"],
   :term-years 20,
   :open-license :none}
  {:assignees [:electro-organics],
@@ -7272,6 +7570,27 @@
    "US3097070"],
   :term-years 20,
   :open-license :none}
+ {:assignees [:ei-du-pont-de-nemours-and],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3356686/en",
+  :title
+  "Substituted amidopyrazalones containing a terminal ethylenically unsaturated group",
+  :status :granted,
+  :id "US3356686",
+  :sourcing :authoritative,
+  :filing-year 1964,
+  :assignee :ei-du-pont-de-nemours-and,
+  :grant-year 1967,
+  :cites
+  ["GB599919A"
+   "US2369489"
+   "US2600788"
+   "US2850485"
+   "US2976294"
+   "US3070442"],
+  :term-years 20,
+  :open-license :none}
  {:assignees [:sun-oil],
   :jurisdiction :us,
   :field "UNKNOWN",
@@ -7429,6 +7748,20 @@
   :assignee :monsanto,
   :grant-year 1968,
   :cites ["US2734047" "US2887473" "US2924589" "US2972607"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:ei-du-pont-de-nemours-and],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3370952/en",
+  :title "Color formers",
+  :status :granted,
+  :id "US3370952",
+  :sourcing :authoritative,
+  :filing-year 1964,
+  :assignee :ei-du-pont-de-nemours-and,
+  :grant-year 1968,
+  :cites ["US2548520" "US2763625" "US2956884" "US2976294" "US3211552"],
   :term-years 20,
   :open-license :none}
  {:assignees [:abbott-laboratories],
@@ -9333,303 +9666,5 @@
   :filing-year 1967,
   :assignee :pharmacia,
   :grant-year 1970,
-  :term-years 20,
-  :open-license :none}
- {:assignees [:ei-du-pont-de-nemours-and],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3505785/en",
-  :title "Superficially porous supports for chromatography",
-  :status :granted,
-  :id "US3505785",
-  :sourcing :authoritative,
-  :filing-year 1967,
-  :assignee :ei-du-pont-de-nemours-and,
-  :grant-year 1970,
-  :cites ["CA729581A" "GB1016635A" "US3340085"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:general-electric],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3507145/en",
-  :title "Indium sesquioxide thin film combustible gas detector",
-  :status :granted,
-  :id "US3507145",
-  :sourcing :authoritative,
-  :filing-year 1967,
-  :assignee :general-electric,
-  :grant-year 1970,
-  :cites ["US2508588"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:minnesota-mining-and-manufacturing],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3507661/en",
-  :title
-  "Gelatin containing dispersions having gelatin reactive polymers therein and coatings prepared therefrom",
-  :status :granted,
-  :id "US3507661",
-  :sourcing :authoritative,
-  :filing-year 1969,
-  :assignee :minnesota-mining-and-manufacturing,
-  :grant-year 1970,
-  :cites ["US3158484" "US3306750"],
-  :term-years 20,
-  :open-license :none}
- {:jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3507987/en",
-  :title
-  "High resolution ultra-violet microscope systems utilizing a video display",
-  :status :granted,
-  :id "US3507987",
-  :sourcing :authoritative,
-  :filing-year 1966,
-  :assignee :unassigned,
-  :grant-year 1970,
-  :cites
-  ["US2153010"
-   "US2510670"
-   "US2731202"
-   "US2803406"
-   "US2835167"
-   "US2837655"
-   "US2913584"
-   "US3124682"
-   "US3221099"
-   "US3297873"
-   "US3427273"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:international-business-machines],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3508654/en",
-  :title "Particle separation apparatus",
-  :status :granted,
-  :id "US3508654",
-  :sourcing :authoritative,
-  :filing-year 1967,
-  :assignee :international-business-machines,
-  :grant-year 1970,
-  :cites ["US3159208" "US3215900" "US3217727" "US3335724"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:international-business-machines],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3508655/en",
-  :title "Cell extraction and collection apparatus",
-  :status :granted,
-  :id "US3508655",
-  :sourcing :authoritative,
-  :filing-year 1967,
-  :assignee :international-business-machines,
-  :grant-year 1970,
-  :cites ["US2905169" "US2961302" "US3215900" "US3335724"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:xerox],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3508879/en",
-  :title "Aliquotting device",
-  :status :granted,
-  :id "US3508879",
-  :sourcing :authoritative,
-  :filing-year 1966,
-  :assignee :xerox,
-  :grant-year 1970,
-  :cites
-  ["US3025405"
-   "US3036893"
-   "US3098719"
-   "US3143393"
-   "US3193358"
-   "US3193359"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:litton-systems],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3509026/en",
-  :title
-  "Method of and apparatus for indicating the sensitivity of microorganisms to antibiotics",
-  :status :granted,
-  :id "US3509026",
-  :sourcing :authoritative,
-  :filing-year 1967,
-  :assignee :litton-systems,
-  :grant-year 1970,
-  :term-years 20,
-  :open-license :none}
- {:assignees [:technicon-instruments],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3511573/en",
-  :title
-  "Flow cell structure for particle counting having improved wash",
-  :status :granted,
-  :id "US3511573",
-  :sourcing :authoritative,
-  :filing-year 1965,
-  :assignee :technicon-instruments,
-  :grant-year 1970,
-  :cites
-  ["DE170115C"
-   "DE381209C"
-   "US1945839"
-   "US2617940"
-   "US2621557"
-   "US2716371"
-   "US2797149"
-   "US2819402"
-   "US2858727"
-   "US2954472"
-   "US3008370"
-   "US3047367"
-   "US3084592"
-   "US3090861"
-   "US3177706"
-   "US3234846"
-   "US851388"
-   "US893070"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:abbott-laboratories],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3511684/en",
-  :title
-  "Method of treating polymeric resin to display nonthrombogenicity",
-  :status :granted,
-  :id "US3511684",
-  :sourcing :authoritative,
-  :filing-year 1967,
-  :assignee :abbott-laboratories,
-  :grant-year 1970,
-  :cites ["US3235426" "US3279996" "US3314743" "US3317339"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:shell-oil],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3514217/en",
-  :title "Method of controlling pipeline slurries",
-  :status :granted,
-  :id "US3514217",
-  :sourcing :authoritative,
-  :filing-year 1968,
-  :assignee :shell-oil,
-  :grant-year 1970,
-  :cites ["US2627788" "US3004544" "US3027756" "US3106933" "US3380463"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:shell-oil],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3515528/en",
-  :title
-  "Block copolymer strippable coatings of butadiene styrene block copolymer containing a fatty acid amide",
-  :status :granted,
-  :id "US3515528",
-  :sourcing :authoritative,
-  :filing-year 1965,
-  :assignee :shell-oil,
-  :grant-year 1970,
-  :cites
-  ["US2770608"
-   "US2770609"
-   "US2938879"
-   "US3104232"
-   "US3227589"
-   "US3239478"
-   "US3251905"
-   "US3330796"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:ei-du-pont-de-nemours-and],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3515557/en",
-  :title "Photographic color film and process of making same",
-  :status :granted,
-  :id "US3515557",
-  :sourcing :authoritative,
-  :filing-year 1965,
-  :assignee :ei-du-pont-de-nemours-and,
-  :grant-year 1970,
-  :cites ["US2322027" "US2801170" "US2852381" "US3249431"],
-  :term-years 20,
-  :open-license :none}
- {:jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3515877/en",
-  :title "Electro-optical positioner",
-  :status :granted,
-  :id "US3515877",
-  :sourcing :authoritative,
-  :filing-year 1965,
-  :assignee :unassigned,
-  :grant-year 1970,
-  :cites ["US2532063" "US3038369" "US3039002" "US3230308" "US3372266"],
-  :term-years 20,
-  :open-license :none}
- {:jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3516654/en",
-  :title
-  "Sheet sorter having automatic sheet feed control and restart",
-  :status :granted,
-  :id "US3516654",
-  :sourcing :authoritative,
-  :filing-year 1968,
-  :assignee :unassigned,
-  :grant-year 1970,
-  :cites ["US3356362" "US3414254" "US3420517"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:voigtlander],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3516742/en",
-  :title
-  "Method and apparatus for focussing an optical device on an object distant therefrom",
-  :status :granted,
-  :id "US3516742",
-  :sourcing :authoritative,
-  :filing-year 1966,
-  :assignee :voigtlander,
-  :grant-year 1970,
-  :cites ["US2831057" "US3035176" "US3041459"],
-  :term-years 20,
-  :open-license :none}
- {:jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3516971/en",
-  :title
-  "Aromatic diamine-aromatic dialdehyde high - molecular - weight schiff - base polymers prepared in a monofunctional schiff-base",
-  :status :granted,
-  :id "US3516971",
-  :sourcing :authoritative,
-  :filing-year 1966,
-  :assignee :unassigned,
-  :grant-year 1970,
-  :cites ["US3198767"],
-  :term-years 20,
-  :open-license :none}
- {:jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3517807/en",
-  :title "Apparatus for sorting fish eggs",
-  :status :granted,
-  :id "US3517807",
-  :sourcing :authoritative,
-  :filing-year 1968,
-  :assignee :unassigned,
-  :grant-year 1970,
-  :cites ["US3297157" "US3410403"],
   :term-years 20,
   :open-license :none}]
