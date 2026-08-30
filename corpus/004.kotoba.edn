@@ -1,4 +1,248 @@
-[{:assignees [:ciba-geigy],
+[{:assignees [:general-electric],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US4012637/en",
+  :title "Radiographic screen with improved resolution",
+  :status :granted,
+  :id "US4012637",
+  :sourcing :authoritative,
+  :filing-year 1975,
+  :assignee :general-electric,
+  :grant-year 1977,
+  :cites ["US3499150" "US3912933"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:coulter-electronics],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US4014611/en",
+  :title "Aperture module for use in particle testing apparatus",
+  :status :granted,
+  :id "US4014611",
+  :sourcing :authoritative,
+  :filing-year 1975,
+  :assignee :coulter-electronics,
+  :grant-year 1977,
+  :cites ["US3746976" "US3810010" "US3902115"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:akzona],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US4016043/en",
+  :title
+  "Enzymatic immunological method for the determination of antigens and antibodies",
+  :status :granted,
+  :id "US4016043",
+  :sourcing :authoritative,
+  :filing-year 1975,
+  :assignee :akzona,
+  :grant-year 1977,
+  :cites ["US3791932" "US3852157" "US3876504" "US3896217" "US3905767"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:cornell-research-foundation],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US4016250/en",
+  :title "Method for testing for pregnancy",
+  :status :granted,
+  :id "US4016250",
+  :sourcing :authoritative,
+  :filing-year 1974,
+  :assignee :cornell-research-foundation,
+  :grant-year 1977,
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:monsanto],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US4017597/en",
+  :title "Unitized solid phase immunoassay kit and method",
+  :status :granted,
+  :id "US4017597",
+  :sourcing :authoritative,
+  :filing-year 1974,
+  :assignee :monsanto,
+  :grant-year 1977,
+  :cites ["US3646346" "US3790663"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:block-engineering],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US4018530/en",
+  :title
+  "Fluorescence spectrometry employing excitation of bleaching intensity",
+  :status :granted,
+  :id "US4018530",
+  :sourcing :authoritative,
+  :filing-year 1975,
+  :assignee :block-engineering,
+  :grant-year 1977,
+  :cites ["US3829696" "US3886363"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:signetics],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US4018627/en",
+  :title
+  "Method for fabricating semiconductor devices utilizing oxide protective layer",
+  :status :granted,
+  :id "US4018627",
+  :sourcing :authoritative,
+  :filing-year 1975,
+  :assignee :signetics,
+  :grant-year 1977,
+  :cites
+  ["US3542551"
+   "US3551221"
+   "US3560278"
+   "US3793088"
+   "US3920483"
+   "US3925105"
+   "US3928081"
+   "US3928082"
+   "US3933528"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:general-electric],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US4018886/en",
+  :title
+  "Diagnostic method and device employing protein-coated magnetic particles",
+  :status :granted,
+  :id "US4018886",
+  :sourcing :authoritative,
+  :filing-year 1975,
+  :assignee :general-electric,
+  :grant-year 1977,
+  :cites
+  ["US2666355"
+   "US3470067"
+   "US3539509"
+   "US3657119"
+   "US3843324"
+   "US3933997"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:international-diagnostic-technologies],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US4020151/en",
+  :title
+  "Method for quantitation of antigens or antibodies on a solid surface",
+  :status :granted,
+  :id "US4020151",
+  :sourcing :authoritative,
+  :filing-year 1976,
+  :assignee :international-diagnostic-technologies,
+  :grant-year 1977,
+  :cites ["US3551555" "US3555143" "US3646346" "US3790663"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:university-of-utah],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US4020830/en",
+  :title "Selective chemical sensitive FET transducers",
+  :status :granted,
+  :id "US4020830",
+  :sourcing :authoritative,
+  :filing-year 1975,
+  :assignee :university-of-utah,
+  :grant-year 1977,
+  :cites
+  ["US3049118"
+   "US3294988"
+   "US3649505"
+   "US3776819"
+   "US3787309"
+   "US3831432"
+   "US3896008"
+   "US3932233"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:hoffmann-la-roche],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US4021534/en",
+  :title "Radioimmunoassay",
+  :status :granted,
+  :id "US4021534",
+  :sourcing :authoritative,
+  :filing-year 1975,
+  :assignee :hoffmann-la-roche,
+  :grant-year 1977,
+  :cites ["US2957808" "US3867363" "US3867518"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:university-of-virginia-uva],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US4022577/en",
+  :title "Automated radioimmunoassay",
+  :status :granted,
+  :id "US4022577",
+  :sourcing :authoritative,
+  :filing-year 1976,
+  :assignee :university-of-virginia-uva,
+  :grant-year 1977,
+  :cites ["US3524366" "US3679312" "US3841834" "US3876374"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:gulf-research-and-development],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US4022810/en",
+  :title "Metal chrysotile methane synthesis catalyst",
+  :status :granted,
+  :id "US4022810",
+  :sourcing :authoritative,
+  :filing-year 1976,
+  :assignee :gulf-research-and-development,
+  :grant-year 1977,
+  :cites
+  ["US3361535"
+   "US3379505"
+   "US3625664"
+   "US3625665"
+   "US3729429"
+   "US3730694"
+   "US3912775"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:stanford-research-institute],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US4022876/en",
+  :title "Mass spectrometric immunoassay",
+  :status :granted,
+  :id "US4022876",
+  :sourcing :authoritative,
+  :filing-year 1973,
+  :assignee :stanford-research-institute,
+  :grant-year 1977,
+  :cites ["US3663684" "US3666854" "US3697638" "US3776698"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:corning-glass-works],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US4024235/en",
+  :title "Detection and quantitation of viral antibodies",
+  :status :granted,
+  :id "US4024235",
+  :sourcing :authoritative,
+  :filing-year 1975,
+  :assignee :corning-glass-works,
+  :grant-year 1977,
+  :cites ["US3652761"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:ciba-geigy],
   :jurisdiction :us,
   :field "UNKNOWN",
   :source "https://patents.google.com/patent/US4024249/en",
@@ -779,6 +1023,28 @@
   :cites ["US3781110" "US3958117" "US4031383"],
   :term-years 20,
   :open-license :none}
+ {:assignees [:agfa-gevaert],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US4080211/en",
+  :title "Polymerization of monomeric color couplets",
+  :status :granted,
+  :id "US4080211",
+  :sourcing :authoritative,
+  :filing-year 1975,
+  :assignee :agfa-gevaert,
+  :grant-year 1978,
+  :cites
+  ["US2563524"
+   "US2976294"
+   "US3163625"
+   "US3202642"
+   "US3211552"
+   "US3325286"
+   "US3356686"
+   "US3370952"],
+  :term-years 20,
+  :open-license :none}
  {:assignees [:chemed],
   :jurisdiction :us,
   :field "UNKNOWN",
@@ -1377,6 +1643,20 @@
   :cites ["US3278392"],
   :term-years 20,
   :open-license :none}
+ {:assignees [:agfa-gevaert],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US4128427/en",
+  :title "Silver halide emulsions containing polymeric color couplers",
+  :status :granted,
+  :id "US4128427",
+  :sourcing :authoritative,
+  :filing-year 1977,
+  :assignee :agfa-gevaert,
+  :grant-year 1978,
+  :cites ["DE2044992A1" "US3580722" "US3912513" "US3926436"],
+  :term-years 20,
+  :open-license :none}
  {:assignees [:fuji-photo-film],
   :jurisdiction :us,
   :field "UNKNOWN",
@@ -1434,6 +1714,26 @@
   :assignee :toyo-soda-manufacturing,
   :grant-year 1978,
   :cites ["US3645996" "US3970603" "US4038469"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:rca],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US4128868/en",
+  :title "D-C converter using pulsed resonant circuit",
+  :status :granted,
+  :id "US4128868",
+  :sourcing :authoritative,
+  :filing-year 1977,
+  :assignee :rca,
+  :grant-year 1978,
+  :cites
+  ["US2965856"
+   "US3332001"
+   "US3373334"
+   "US3582754"
+   "US3596165"
+   "US4017784"],
   :term-years 20,
   :open-license :none}
  {:assignees [:syva],
@@ -9402,354 +9702,5 @@
    "US4687808"
    "WO1985004674A1"
    "WO1988001302A1"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:daikin-industries],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US5229461/en",
-  :title
-  "Vinylidene fluoride copolymer and composition containing the same",
-  :status :granted,
-  :id "US5229461",
-  :sourcing :authoritative,
-  :filing-year 1991,
-  :assignee :daikin-industries,
-  :grant-year 1993,
-  :cites
-  ["EP0190654A2"
-   "EP0328157A1"
-   "US4028431"
-   "US4197380"
-   "US4345057"
-   "US4575533"
-   "US4612351"
-   "US4617351"
-   "US4631326"
-   "US4731417"
-   "US4935467"
-   "US4954589"
-   "US5008340"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:nippon-paint],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US5270392/en",
-  :title
-  "Hydroxyl polyglycidyl ether or acrylic copolymer with anhydride copolymer",
-  :status :granted,
-  :id "US5270392",
-  :sourcing :authoritative,
-  :filing-year 1991,
-  :assignee :nippon-paint,
-  :grant-year 1993,
-  :cites ["US3399109" "US3900440" "US4288493" "US5073602"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:beckman-instruments],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US5302509/en",
-  :title "Method for sequencing polynucleotides",
-  :status :granted,
-  :id "US5302509",
-  :sourcing :authoritative,
-  :filing-year 1991,
-  :assignee :beckman-instruments,
-  :grant-year 1994,
-  :cites ["US5001051" "WO1989009282A1"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:rohm-and-haas],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US5308890/en",
-  :title
-  "Emulsion polymer blend of a multi-stage latex and a non-film forming latex",
-  :status :granted,
-  :id "US5308890",
-  :sourcing :authoritative,
-  :filing-year 1993,
-  :assignee :rohm-and-haas,
-  :grant-year 1994,
-  :cites ["EP0466409A1" "US4385152" "US4567099"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:davidson-textron],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US5320869/en",
-  :title
-  "Method for producing high gloss bright colored plastic articles",
-  :status :granted,
-  :id "US5320869",
-  :sourcing :authoritative,
-  :filing-year 1992,
-  :assignee :davidson-textron,
-  :grant-year 1994,
-  :cites
-  ["US2993806"
-   "US3992477"
-   "US4101698"
-   "US4349402"
-   "US4369225"
-   "US4407871"
-   "US4431711"
-   "US4524106"
-   "US4551387"
-   "US4699814"
-   "US4713143"
-   "US4911811"
-   "US4923717"
-   "US4956196"
-   "US4971841"
-   "US4975305"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:basf-lacke-und-farben],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US5322715/en",
-  :title "Process for production of a multicoat coating",
-  :status :granted,
-  :id "US5322715",
-  :sourcing :authoritative,
-  :filing-year 1990,
-  :assignee :basf-lacke-und-farben,
-  :grant-year 1994,
-  :cites
-  ["CA2004988A1"
-   "GB2034334A"
-   "GB2060654A"
-   "US3823205"
-   "US3998768"
-   "US4150005"
-   "US4151143"
-   "US4385152"
-   "US4973621"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:eastman-kodak],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US5324788/en",
-  :title "Thermosetting coating compositions",
-  :status :granted,
-  :id "US5324788",
-  :sourcing :authoritative,
-  :filing-year 1993,
-  :assignee :eastman-kodak,
-  :grant-year 1994,
-  :cites
-  ["EP0419088A1"
-   "EP0466359A2"
-   "US4137279"
-   "US4678843"
-   "US4857601"
-   "US4898916"
-   "US5106651"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:ei-du-pont-de-nemours-and],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US5376704/en",
-  :title
-  "Water-borne coating compositions comprising half esters of anhydride polymers crosslinked by epoxies",
-  :status :granted,
-  :id "US5376704",
-  :sourcing :authoritative,
-  :filing-year 1992,
-  :assignee :ei-du-pont-de-nemours-and,
-  :grant-year 1994,
-  :cites
-  ["EP0353734A2"
-   "EP0450963A1"
-   "US4247439"
-   "US4600737"
-   "US4871806"
-   "US4906677"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:nippon-paint],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US5397603/en",
-  :title
-  "Resin composition and coating composition containing the same",
-  :status :granted,
-  :id "US5397603",
-  :sourcing :authoritative,
-  :filing-year 1994,
-  :assignee :nippon-paint,
-  :grant-year 1995,
-  :cites ["US5166265" "US5229461" "US5270392"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:affymax-technologies],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US5445934/en",
-  :title "Array of oligonucleotides on a solid substrate",
-  :status :granted,
-  :id "US5445934",
-  :sourcing :authoritative,
-  :filing-year 1992,
-  :assignee :affymax-technologies,
-  :grant-year 1995,
-  :cites
-  ["EP0328256A1"
-   "US4562157"
-   "US4689405"
-   "US4728591"
-   "US4886741"
-   "US4888278"
-   "US4923901"
-   "US4973493"
-   "US5079600"
-   "US5143854"
-   "US5202231"
-   "WO1989010977A1"
-   "WO1990003382A1"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:ciba-geigy],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US5486452/en",
-  :title "Devices and kits for immunological analysis",
-  :status :granted,
-  :id "US5486452",
-  :sourcing :authoritative,
-  :filing-year 1987,
-  :assignee :ciba-geigy,
-  :grant-year 1996,
-  :cites
-  ["EP0027008A1"
-   "EP0050424A1"
-   "FR2074061A5"
-   "FR2257259A1"
-   "GB1235685A"
-   "GB1235686A"
-   "GB1486826A"
-   "GB1526708A"
-   "GB1553083A"
-   "GB1597345A"
-   "GB1601283A"
-   "US3654090"
-   "US3979509"
-   "US4020151"
-   "US4048298"
-   "US4071315"
-   "US4119589"
-   "US4139346"
-   "US4168146"
-   "US4176174"
-   "US4189464"
-   "US4200690"
-   "US4216245"
-   "US4267270"
-   "US4275053"
-   "US4302204"
-   "US4305720"
-   "US4305721"
-   "US4332283"
-   "US4358535"
-   "US4378344"
-   "US4407943"
-   "US4414324"
-   "US4436824"
-   "US4452901"
-   "US4459360"
-   "US4591570"],
-  :term-years 20,
-  :open-license :none}
- {:jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US548686/en",
-  :title "Cigar-bunching machine",
-  :status :granted,
-  :id "US548686",
-  :sourcing :authoritative,
-  :assignee :unassigned,
-  :grant-year 1895,
-  :term-years 20,
-  :open-license :none}
- {:assignees [:hyseq],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US5492806/en",
-  :title
-  "Method of determining an ordered sequence of subfragments of a nucleic acid fragment by hybridization of oligonucleotide probes",
-  :status :granted,
-  :id "US5492806",
-  :sourcing :authoritative,
-  :filing-year 1993,
-  :assignee :hyseq,
-  :grant-year 1996,
-  :cites
-  ["EP0197266A2" "US4562159" "US4613566" "US4683202" "US4849334"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:bayer],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US5504178/en",
-  :title
-  "One-component coating compositions containing oxime- or lactam-blocked polyisocyanates which have improved resistance to yellowing",
-  :status :granted,
-  :id "US5504178",
-  :sourcing :authoritative,
-  :filing-year 1995,
-  :assignee :bayer,
-  :grant-year 1996,
-  :cites
-  ["US3929726"
-   "US4145512"
-   "US4178279"
-   "US4369301"
-   "US4447571"
-   "US4857596"
-   "US5091475"
-   "US5112931"
-   "US5132387"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:hyseq],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US5525464/en",
-  :title
-  "Method of sequencing by hybridization of oligonucleotide probes",
-  :status :granted,
-  :id "US5525464",
-  :sourcing :authoritative,
-  :filing-year 1994,
-  :assignee :hyseq,
-  :grant-year 1996,
-  :cites
-  ["EP0152886A2"
-   "US4562159"
-   "US4591567"
-   "US4613566"
-   "US4672040"
-   "US4683195"
-   "US4683202"
-   "US4720786"
-   "US4766062"
-   "US4770992"
-   "US4794073"
-   "US4849334"
-   "US4865967"
-   "US4865968"
-   "US4942124"
-   "US5002867"
-   "US5149625"
-   "US5202231"
-   "WO1988001302A1"
-   "WO1989010977A1"
-   "WO1990003382A1"
-   "WO1990004652A1"],
   :term-years 20,
   :open-license :none}]

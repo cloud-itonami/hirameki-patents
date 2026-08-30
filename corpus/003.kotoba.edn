@@ -1,4 +1,91 @@
-[{:assignees [:ei-du-pont-de-nemours-and],
+[{:assignees [:perkin-elmer],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3503684/en",
+  :title
+  "Method and apparatus for detecting mitotic blood cells on a blood cell sample slide",
+  :status :granted,
+  :id "US3503684",
+  :sourcing :authoritative,
+  :filing-year 1966,
+  :assignee :perkin-elmer,
+  :grant-year 1970,
+  :cites
+  ["US2875666"
+   "US2938424"
+   "US3090281"
+   "US3177757"
+   "US3178997"
+   "US3194110"
+   "US3296444"
+   "US3305834"
+   "US3306156"
+   "US3402001"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:eastman-kodak],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3503739/en",
+  :title
+  "Photoconductive layers and their application to electrophotography",
+  :status :granted,
+  :id "US3503739",
+  :sourcing :authoritative,
+  :filing-year 1966,
+  :assignee :eastman-kodak,
+  :grant-year 1970,
+  :cites
+  ["US2349979"
+   "US2870123"
+   "US3041165"
+   "US3163531"
+   "US3244517"
+   "US3373141"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:phillips-petroleum],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3503782/en",
+  :title "Differential release paper",
+  :status :granted,
+  :id "US3503782",
+  :sourcing :authoritative,
+  :filing-year 1967,
+  :assignee :phillips-petroleum,
+  :grant-year 1970,
+  :cites ["US2816655"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:william-j-berry],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3503877/en",
+  :title "Dialyzer agitator",
+  :status :granted,
+  :id "US3503877",
+  :sourcing :authoritative,
+  :filing-year 1965,
+  :assignee :william-j-berry,
+  :grant-year 1970,
+  :cites ["US2985587" "US3055504" "US3199680" "US3212499" "US3265366"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:pharmacia],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3505019/en",
+  :title "Method for determining vitamin b12 and reagent therefor",
+  :status :granted,
+  :id "US3505019",
+  :sourcing :authoritative,
+  :filing-year 1967,
+  :assignee :pharmacia,
+  :grant-year 1970,
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:ei-du-pont-de-nemours-and],
   :jurisdiction :us,
   :field "UNKNOWN",
   :source "https://patents.google.com/patent/US3505785/en",
@@ -335,6 +422,26 @@
   :assignee :bell-telephone-laboratories,
   :grant-year 1970,
   :cites ["GB894186A" "US3398210" "US3405017"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:research],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3522346/en",
+  :title "Nonthrombogenic microcapsules",
+  :status :granted,
+  :id "US3522346",
+  :sourcing :authoritative,
+  :filing-year 1968,
+  :assignee :research,
+  :grant-year 1970,
+  :cites
+  ["US2846057"
+   "US2989438"
+   "US3063904"
+   "US3212498"
+   "US3436452"
+   "US3453194"],
   :term-years 20,
   :open-license :none}
  {:assignees [:xerox],
@@ -991,6 +1098,19 @@
    "US3270234"],
   :term-years 20,
   :open-license :none}
+ {:assignees [:hydronautics],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3579441/en",
+  :title "Blood purification by dual filtration",
+  :status :granted,
+  :id "US3579441",
+  :sourcing :authoritative,
+  :filing-year 1968,
+  :assignee :hydronautics,
+  :grant-year 1971,
+  :term-years 20,
+  :open-license :none}
  {:assignees [:automation-products],
   :jurisdiction :us,
   :field "UNKNOWN",
@@ -1309,6 +1429,20 @@
   :grant-year 1971,
   :term-years 20,
   :open-license :none}
+ {:assignees [:nat-res-dev],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3608729/en",
+  :title "Disposable dialyser pack with adsorbent",
+  :status :granted,
+  :id "US3608729",
+  :sourcing :authoritative,
+  :filing-year 1968,
+  :assignee :nat-res-dev,
+  :grant-year 1971,
+  :cites ["US2502614" "US3397785"],
+  :term-years 20,
+  :open-license :none}
  {:assignees [:buckbee-mears],
   :jurisdiction :us,
   :field "UNKNOWN",
@@ -1519,6 +1653,21 @@
   :grant-year 1971,
   :term-years 20,
   :open-license :none}
+ {:assignees [:thomson-csf],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3617545/en",
+  :title
+  "Removing urea from saline water solutions particularly in an artificial kidney",
+  :status :granted,
+  :id "US3617545",
+  :sourcing :authoritative,
+  :filing-year 1970,
+  :assignee :thomson-csf,
+  :grant-year 1971,
+  :cites ["US3268441" "US3463728"],
+  :term-years 20,
+  :open-license :none}
  {:assignees [:bell-and-howell],
   :jurisdiction :us,
   :field "UNKNOWN",
@@ -1594,6 +1743,20 @@
   :assignee :ppg-industries,
   :grant-year 1971,
   :cites ["US3301804" "US3410773" "US3450655" "US3455805" "US3468779"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:us-department-of-health-and-human-services],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3619423/en",
+  :title "Cascade dialysis apparatus and method",
+  :status :granted,
+  :id "US3619423",
+  :sourcing :authoritative,
+  :filing-year 1970,
+  :assignee :us-department-of-health-and-human-services,
+  :grant-year 1971,
+  :cites ["US3212642" "US3463728" "US3506126"],
   :term-years 20,
   :open-license :none}
  {:jurisdiction :us,
@@ -2424,6 +2587,20 @@
   :cites ["US3502545" "US3519538"],
   :term-years 20,
   :open-license :none}
+ {:assignees [:health-education-and-welfare-u],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3669878/en",
+  :title "Treatment of dialysate solution for removal of urea",
+  :status :granted,
+  :id "US3669878",
+  :sourcing :authoritative,
+  :filing-year 1970,
+  :assignee :health-education-and-welfare-u,
+  :grant-year 1972,
+  :cites ["US3268441" "US3463728" "US3506126"],
+  :term-years 20,
+  :open-license :none}
  {:assignees [:national-aeronautics-and-space-administration-nasa],
   :jurisdiction :us,
   :field "UNKNOWN",
@@ -3073,6 +3250,26 @@
   :filing-year 1969,
   :assignee :kalle-and-kg,
   :grant-year 1972,
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:cci-aerospace],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3703959/en",
+  :title "Disposable recirculating dialysate module",
+  :status :granted,
+  :id "US3703959",
+  :sourcing :authoritative,
+  :filing-year 1969,
+  :assignee :cci-aerospace,
+  :grant-year 1972,
+  :cites
+  ["US2720879"
+   "US2969150"
+   "US3416664"
+   "US3457944"
+   "US3506126"
+   "US3515275"],
   :term-years 20,
   :open-license :none}
  {:jurisdiction :us,
@@ -4432,6 +4629,28 @@
   :filing-year 1971,
   :assignee :miles-laboratories,
   :grant-year 1974,
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:reliance-electric],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3792286/en",
+  :title "Combining inverters for harmonic reduction",
+  :status :granted,
+  :id "US3792286",
+  :sourcing :authoritative,
+  :filing-year 1971,
+  :assignee :reliance-electric,
+  :grant-year 1974,
+  :cites
+  ["SU190974A1"
+   "SU276231A1"
+   "US3477010"
+   "US3611085"
+   "US3628123"
+   "US3648149"
+   "US3657633"
+   "US3671846"],
   :term-years 20,
   :open-license :none}
  {:assignees [:bell-telephone-laboratories],
@@ -6156,6 +6375,20 @@
   :cites ["US3766162" "US3775536" "US3817837"],
   :term-years 20,
   :open-license :none}
+ {:assignees [:sandoz],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3880760/en",
+  :title "Connector device for coil-type dialyser",
+  :status :granted,
+  :id "US3880760",
+  :sourcing :authoritative,
+  :filing-year 1973,
+  :assignee :sandoz,
+  :grant-year 1975,
+  :cites ["US3397790" "US3508662"],
+  :term-years 20,
+  :open-license :none}
  {:assignees [:syntex-usa],
   :jurisdiction :us,
   :field "UNKNOWN",
@@ -6395,6 +6628,27 @@
    "US3618213"
    "US3625214"
    "US3636956"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:becton-dickinson-and],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3888250/en",
+  :title
+  "Disposable hemoperfusion assembly for detoxification of blood and method therefor",
+  :status :granted,
+  :id "US3888250",
+  :sourcing :authoritative,
+  :filing-year 1973,
+  :assignee :becton-dickinson-and,
+  :grant-year 1975,
+  :cites
+  ["US3005514"
+   "US3327859"
+   "US3462361"
+   "US3701433"
+   "US3742946"
+   "US3794584"],
   :term-years 20,
   :open-license :none}
  {:assignees [:forsyth-dental-infirmary-for-children],
@@ -8923,249 +9177,5 @@
   :assignee :abbott-laboratories,
   :grant-year 1977,
   :cites ["US3646346" "US3790663" "US3867517"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:general-electric],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US4012637/en",
-  :title "Radiographic screen with improved resolution",
-  :status :granted,
-  :id "US4012637",
-  :sourcing :authoritative,
-  :filing-year 1975,
-  :assignee :general-electric,
-  :grant-year 1977,
-  :cites ["US3499150" "US3912933"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:coulter-electronics],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US4014611/en",
-  :title "Aperture module for use in particle testing apparatus",
-  :status :granted,
-  :id "US4014611",
-  :sourcing :authoritative,
-  :filing-year 1975,
-  :assignee :coulter-electronics,
-  :grant-year 1977,
-  :cites ["US3746976" "US3810010" "US3902115"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:akzona],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US4016043/en",
-  :title
-  "Enzymatic immunological method for the determination of antigens and antibodies",
-  :status :granted,
-  :id "US4016043",
-  :sourcing :authoritative,
-  :filing-year 1975,
-  :assignee :akzona,
-  :grant-year 1977,
-  :cites ["US3791932" "US3852157" "US3876504" "US3896217" "US3905767"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:cornell-research-foundation],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US4016250/en",
-  :title "Method for testing for pregnancy",
-  :status :granted,
-  :id "US4016250",
-  :sourcing :authoritative,
-  :filing-year 1974,
-  :assignee :cornell-research-foundation,
-  :grant-year 1977,
-  :term-years 20,
-  :open-license :none}
- {:assignees [:monsanto],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US4017597/en",
-  :title "Unitized solid phase immunoassay kit and method",
-  :status :granted,
-  :id "US4017597",
-  :sourcing :authoritative,
-  :filing-year 1974,
-  :assignee :monsanto,
-  :grant-year 1977,
-  :cites ["US3646346" "US3790663"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:block-engineering],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US4018530/en",
-  :title
-  "Fluorescence spectrometry employing excitation of bleaching intensity",
-  :status :granted,
-  :id "US4018530",
-  :sourcing :authoritative,
-  :filing-year 1975,
-  :assignee :block-engineering,
-  :grant-year 1977,
-  :cites ["US3829696" "US3886363"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:signetics],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US4018627/en",
-  :title
-  "Method for fabricating semiconductor devices utilizing oxide protective layer",
-  :status :granted,
-  :id "US4018627",
-  :sourcing :authoritative,
-  :filing-year 1975,
-  :assignee :signetics,
-  :grant-year 1977,
-  :cites
-  ["US3542551"
-   "US3551221"
-   "US3560278"
-   "US3793088"
-   "US3920483"
-   "US3925105"
-   "US3928081"
-   "US3928082"
-   "US3933528"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:general-electric],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US4018886/en",
-  :title
-  "Diagnostic method and device employing protein-coated magnetic particles",
-  :status :granted,
-  :id "US4018886",
-  :sourcing :authoritative,
-  :filing-year 1975,
-  :assignee :general-electric,
-  :grant-year 1977,
-  :cites
-  ["US2666355"
-   "US3470067"
-   "US3539509"
-   "US3657119"
-   "US3843324"
-   "US3933997"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:international-diagnostic-technologies],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US4020151/en",
-  :title
-  "Method for quantitation of antigens or antibodies on a solid surface",
-  :status :granted,
-  :id "US4020151",
-  :sourcing :authoritative,
-  :filing-year 1976,
-  :assignee :international-diagnostic-technologies,
-  :grant-year 1977,
-  :cites ["US3551555" "US3555143" "US3646346" "US3790663"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:university-of-utah],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US4020830/en",
-  :title "Selective chemical sensitive FET transducers",
-  :status :granted,
-  :id "US4020830",
-  :sourcing :authoritative,
-  :filing-year 1975,
-  :assignee :university-of-utah,
-  :grant-year 1977,
-  :cites
-  ["US3049118"
-   "US3294988"
-   "US3649505"
-   "US3776819"
-   "US3787309"
-   "US3831432"
-   "US3896008"
-   "US3932233"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:hoffmann-la-roche],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US4021534/en",
-  :title "Radioimmunoassay",
-  :status :granted,
-  :id "US4021534",
-  :sourcing :authoritative,
-  :filing-year 1975,
-  :assignee :hoffmann-la-roche,
-  :grant-year 1977,
-  :cites ["US2957808" "US3867363" "US3867518"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:university-of-virginia-uva],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US4022577/en",
-  :title "Automated radioimmunoassay",
-  :status :granted,
-  :id "US4022577",
-  :sourcing :authoritative,
-  :filing-year 1976,
-  :assignee :university-of-virginia-uva,
-  :grant-year 1977,
-  :cites ["US3524366" "US3679312" "US3841834" "US3876374"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:gulf-research-and-development],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US4022810/en",
-  :title "Metal chrysotile methane synthesis catalyst",
-  :status :granted,
-  :id "US4022810",
-  :sourcing :authoritative,
-  :filing-year 1976,
-  :assignee :gulf-research-and-development,
-  :grant-year 1977,
-  :cites
-  ["US3361535"
-   "US3379505"
-   "US3625664"
-   "US3625665"
-   "US3729429"
-   "US3730694"
-   "US3912775"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:stanford-research-institute],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US4022876/en",
-  :title "Mass spectrometric immunoassay",
-  :status :granted,
-  :id "US4022876",
-  :sourcing :authoritative,
-  :filing-year 1973,
-  :assignee :stanford-research-institute,
-  :grant-year 1977,
-  :cites ["US3663684" "US3666854" "US3697638" "US3776698"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:corning-glass-works],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US4024235/en",
-  :title "Detection and quantitation of viral antibodies",
-  :status :granted,
-  :id "US4024235",
-  :sourcing :authoritative,
-  :filing-year 1975,
-  :assignee :corning-glass-works,
-  :grant-year 1977,
-  :cites ["US3652761"],
   :term-years 20,
   :open-license :none}]

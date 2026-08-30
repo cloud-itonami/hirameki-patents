@@ -1,4 +1,111 @@
 [[":db/add"
+  "hirameki-patent:SE437270B"
+  ":hirameki/sourcing"
+  ":authoritative"]
+ [":db/add" "hirameki-patent:SE437270B" ":hirameki/derived" true]
+ [":db/add"
+  "hirameki-patent:SE437270B"
+  ":hirameki.obs/years-to-expiry"
+  -23]
+ [":db/add"
+  "hirameki-patent:SE437270B"
+  ":hirameki/source"
+  "https://patents.google.com/patent/SE437270B/en"]
+ [":db/add"
+  "hirameki-patent:SU559701A1"
+  ":hirameki.patent/title"
+  "A method of making collagen-elastic tubes for vascular plastics"]
+ [":db/add"
+  "hirameki-patent:SU559701A1"
+  ":hirameki.patent/jurisdiction"
+  ":su"]
+ [":db/add"
+  "hirameki-patent:SU559701A1"
+  ":hirameki.patent/field"
+  "UNKNOWN"]
+ [":db/add"
+  "hirameki-patent:SU559701A1"
+  ":hirameki.patent/assignee"
+  ":всесоюзный-научно-исследовательский-институт-клинической-и-экспериментальной-хирургии"]
+ [":db/add"
+  "hirameki-patent:SU559701A1"
+  ":hirameki.patent/status"
+  ":granted"]
+ [":db/add"
+  "hirameki-patent:SU559701A1"
+  ":hirameki.patent/open-license"
+  ":none"]
+ [":db/add"
+  "hirameki-patent:SU559701A1"
+  ":hirameki.obs/release-status"
+  ":public-domain"]
+ [":db/add"
+  "hirameki-patent:SU559701A1"
+  ":hirameki/sourcing"
+  ":authoritative"]
+ [":db/add" "hirameki-patent:SU559701A1" ":hirameki/derived" true]
+ [":db/add"
+  "hirameki-patent:SU559701A1"
+  ":hirameki.obs/years-to-expiry"
+  -32]
+ [":db/add"
+  "hirameki-patent:SU559701A1"
+  ":hirameki/source"
+  "https://patents.google.com/patent/SU559701A1/en"]
+ [":db/add"
+  "hirameki-patent:SU649751A1"
+  ":hirameki.patent/title"
+  "Method of identification of microorganisms"]
+ [":db/add"
+  "hirameki-patent:SU649751A1"
+  ":hirameki.patent/jurisdiction"
+  ":su"]
+ [":db/add"
+  "hirameki-patent:SU649751A1"
+  ":hirameki.patent/field"
+  "UNKNOWN"]
+ [":db/add"
+  "hirameki-patent:SU649751A1"
+  ":hirameki.patent/assignee"
+  ":московский-ордена-ленина-и-ордена-трудового-красного-знамени-государственный-университет-иммвломоносова"]
+ [":db/add"
+  "hirameki-patent:SU649751A1"
+  ":hirameki.patent/status"
+  ":granted"]
+ [":db/add"
+  "hirameki-patent:SU649751A1"
+  ":hirameki.patent/open-license"
+  ":none"]
+ [":db/add"
+  "hirameki-patent:SU649751A1"
+  ":hirameki.obs/release-status"
+  ":public-domain"]
+ [":db/add"
+  "hirameki-patent:SU649751A1"
+  ":hirameki/sourcing"
+  ":authoritative"]
+ [":db/add" "hirameki-patent:SU649751A1" ":hirameki/derived" true]
+ [":db/add"
+  "hirameki-patent:SU649751A1"
+  ":hirameki.obs/years-to-expiry"
+  -29]
+ [":db/add"
+  "hirameki-patent:SU649751A1"
+  ":hirameki/source"
+  "https://patents.google.com/patent/SU649751A1/en"]
+ [":db/add"
+  "hirameki-patent:US10000000B1"
+  ":hirameki.patent/title"
+  "Coordinating distributed AI inference workloads"]
+ [":db/add"
+  "hirameki-patent:US10000000B1"
+  ":hirameki.patent/jurisdiction"
+  ":us"]
+ [":db/add"
+  "hirameki-patent:US10000000B1"
+  ":hirameki.patent/field"
+  "G06N"]
+ [":db/add"
   "hirameki-patent:US10000000B1"
   ":hirameki.patent/assignee"
   ":google"]
@@ -9677,6 +9784,43 @@
   ":hirameki/source"
   "https://patents.google.com/patent/US2232169/en"]
  [":db/add"
+  "hirameki-patent:US2233805"
+  ":hirameki.patent/title"
+  "Triazoles"]
+ [":db/add"
+  "hirameki-patent:US2233805"
+  ":hirameki.patent/jurisdiction"
+  ":us"]
+ [":db/add"
+  "hirameki-patent:US2233805"
+  ":hirameki.patent/field"
+  "UNKNOWN"]
+ [":db/add"
+  "hirameki-patent:US2233805"
+  ":hirameki.patent/assignee"
+  ":unassigned"]
+ [":db/add"
+  "hirameki-patent:US2233805"
+  ":hirameki.patent/status"
+  ":granted"]
+ [":db/add"
+  "hirameki-patent:US2233805"
+  ":hirameki.patent/open-license"
+  ":none"]
+ [":db/add"
+  "hirameki-patent:US2233805"
+  ":hirameki.obs/release-status"
+  ":in-force"]
+ [":db/add"
+  "hirameki-patent:US2233805"
+  ":hirameki/sourcing"
+  ":authoritative"]
+ [":db/add" "hirameki-patent:US2233805" ":hirameki/derived" true]
+ [":db/add"
+  "hirameki-patent:US2233805"
+  ":hirameki/source"
+  "https://patents.google.com/patent/US2233805/en"]
+ [":db/add"
   "hirameki-patent:US2241413"
   ":hirameki.patent/title"
   "Photographic printing process and image for use therein"]
@@ -10268,169 +10412,5 @@
   ":th-goldschmidt"]
  [":db/add"
   "hirameki-patent:US2261264"
-  ":hirameki.patent/status"
-  ":granted"]
- [":db/add"
-  "hirameki-patent:US2261264"
-  ":hirameki.patent/open-license"
-  ":none"]
- [":db/add"
-  "hirameki-patent:US2261264"
-  ":hirameki.obs/release-status"
-  ":public-domain"]
- [":db/add"
-  "hirameki-patent:US2261264"
-  ":hirameki/sourcing"
-  ":authoritative"]
- [":db/add" "hirameki-patent:US2261264" ":hirameki/derived" true]
- [":db/add"
-  "hirameki-patent:US2261264"
-  ":hirameki.obs/years-to-expiry"
-  -67]
- [":db/add"
-  "hirameki-patent:US2261264"
-  ":hirameki/source"
-  "https://patents.google.com/patent/US2261264/en"]
- [":db/add"
-  "hirameki-patent:US2261564"
-  ":hirameki.patent/title"
-  "Method of removing stuck pipe from wells"]
- [":db/add"
-  "hirameki-patent:US2261564"
-  ":hirameki.patent/jurisdiction"
-  ":us"]
- [":db/add"
-  "hirameki-patent:US2261564"
-  ":hirameki.patent/field"
-  "UNKNOWN"]
- [":db/add"
-  "hirameki-patent:US2261564"
-  ":hirameki.patent/assignee"
-  ":unassigned"]
- [":db/add"
-  "hirameki-patent:US2261564"
-  ":hirameki.patent/status"
-  ":granted"]
- [":db/add"
-  "hirameki-patent:US2261564"
-  ":hirameki.patent/open-license"
-  ":none"]
- [":db/add"
-  "hirameki-patent:US2261564"
-  ":hirameki.obs/release-status"
-  ":public-domain"]
- [":db/add"
-  "hirameki-patent:US2261564"
-  ":hirameki/sourcing"
-  ":authoritative"]
- [":db/add" "hirameki-patent:US2261564" ":hirameki/derived" true]
- [":db/add"
-  "hirameki-patent:US2261564"
-  ":hirameki.obs/years-to-expiry"
-  -66]
- [":db/add"
-  "hirameki-patent:US2261564"
-  ":hirameki/source"
-  "https://patents.google.com/patent/US2261564/en"]
- [":db/add"
-  "hirameki-patent:US2262370"
-  ":hirameki.patent/title"
-  "Smoke meter"]
- [":db/add"
-  "hirameki-patent:US2262370"
-  ":hirameki.patent/jurisdiction"
-  ":us"]
- [":db/add"
-  "hirameki-patent:US2262370"
-  ":hirameki.patent/field"
-  "UNKNOWN"]
- [":db/add"
-  "hirameki-patent:US2262370"
-  ":hirameki.patent/assignee"
-  ":westinghouse-electric"]
- [":db/add"
-  "hirameki-patent:US2262370"
-  ":hirameki.patent/status"
-  ":granted"]
- [":db/add"
-  "hirameki-patent:US2262370"
-  ":hirameki.patent/open-license"
-  ":none"]
- [":db/add"
-  "hirameki-patent:US2262370"
-  ":hirameki.obs/release-status"
-  ":public-domain"]
- [":db/add"
-  "hirameki-patent:US2262370"
-  ":hirameki/sourcing"
-  ":authoritative"]
- [":db/add" "hirameki-patent:US2262370" ":hirameki/derived" true]
- [":db/add"
-  "hirameki-patent:US2262370"
-  ":hirameki.obs/years-to-expiry"
-  -67]
- [":db/add"
-  "hirameki-patent:US2262370"
-  ":hirameki/source"
-  "https://patents.google.com/patent/US2262370/en"]
- [":db/add"
-  "hirameki-patent:US2262655"
-  ":hirameki.patent/title"
-  "Formation tester"]
- [":db/add"
-  "hirameki-patent:US2262655"
-  ":hirameki.patent/jurisdiction"
-  ":us"]
- [":db/add"
-  "hirameki-patent:US2262655"
-  ":hirameki.patent/field"
-  "UNKNOWN"]
- [":db/add"
-  "hirameki-patent:US2262655"
-  ":hirameki.patent/assignee"
-  ":unassigned"]
- [":db/add"
-  "hirameki-patent:US2262655"
-  ":hirameki.patent/status"
-  ":granted"]
- [":db/add"
-  "hirameki-patent:US2262655"
-  ":hirameki.patent/open-license"
-  ":none"]
- [":db/add"
-  "hirameki-patent:US2262655"
-  ":hirameki.obs/release-status"
-  ":public-domain"]
- [":db/add"
-  "hirameki-patent:US2262655"
-  ":hirameki/sourcing"
-  ":authoritative"]
- [":db/add" "hirameki-patent:US2262655" ":hirameki/derived" true]
- [":db/add"
-  "hirameki-patent:US2262655"
-  ":hirameki.obs/years-to-expiry"
-  -66]
- [":db/add"
-  "hirameki-patent:US2262655"
-  ":hirameki/source"
-  "https://patents.google.com/patent/US2262655/en"]
- [":db/add"
-  "hirameki-patent:US2263131"
-  ":hirameki.patent/title"
-  "Apparatus for the application of adhesives and the like"]
- [":db/add"
-  "hirameki-patent:US2263131"
-  ":hirameki.patent/jurisdiction"
-  ":us"]
- [":db/add"
-  "hirameki-patent:US2263131"
-  ":hirameki.patent/field"
-  "UNKNOWN"]
- [":db/add"
-  "hirameki-patent:US2263131"
-  ":hirameki.patent/assignee"
-  ":unassigned"]
- [":db/add"
-  "hirameki-patent:US2263131"
   ":hirameki.patent/status"
   ":granted"]]

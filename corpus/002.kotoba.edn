@@ -1,4 +1,52 @@
-[{:assignees [:garden-photoengraving],
+[{:assignees [:halliburton-oil-well-cementing],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2922478/en",
+  :title "Well packer",
+  :status :granted,
+  :id "US2922478",
+  :sourcing :authoritative,
+  :filing-year 1956,
+  :assignee :halliburton-oil-well-cementing,
+  :grant-year 1960,
+  :cites
+  ["US1842107"
+   "US2029380"
+   "US2155609"
+   "US2602511"
+   "US2611436"
+   "US2618344"
+   "US2633916"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:philco-ford],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2922893/en",
+  :title "Document identifying system",
+  :status :granted,
+  :id "US2922893",
+  :sourcing :authoritative,
+  :filing-year 1954,
+  :assignee :philco-ford,
+  :grant-year 1960,
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:glanzstoff],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2924589/en",
+  :title "Process of polymerization of vinyl compounds",
+  :status :granted,
+  :id "US2924589",
+  :sourcing :authoritative,
+  :filing-year 1955,
+  :assignee :glanzstoff,
+  :grant-year 1960,
+  :cites ["US2375256" "US2608554" "US2608555" "US2675372"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:garden-photoengraving],
   :jurisdiction :us,
   :field "UNKNOWN",
   :source "https://patents.google.com/patent/US2925332/en",
@@ -6088,6 +6136,20 @@
    "US678699"],
   :term-years 20,
   :open-license :none}
+ {:assignees [:siemens-schuckertwerke],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3260978/en",
+  :title "Interleaved winding arrangement for electrical apparatus",
+  :status :granted,
+  :id "US3260978",
+  :sourcing :authoritative,
+  :filing-year 1963,
+  :assignee :siemens-schuckertwerke,
+  :grant-year 1966,
+  :cites ["FR1222757A" "FR1244867A" "NL99508C"],
+  :term-years 20,
+  :open-license :none}
  {:assignees [:scientific-industries],
   :jurisdiction :us,
   :field "UNKNOWN",
@@ -9593,78 +9655,5 @@
   :assignee :monsanto,
   :grant-year 1970,
   :cites ["US3318782" "US3415804"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:perkin-elmer],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3503684/en",
-  :title
-  "Method and apparatus for detecting mitotic blood cells on a blood cell sample slide",
-  :status :granted,
-  :id "US3503684",
-  :sourcing :authoritative,
-  :filing-year 1966,
-  :assignee :perkin-elmer,
-  :grant-year 1970,
-  :cites
-  ["US2875666"
-   "US2938424"
-   "US3090281"
-   "US3177757"
-   "US3178997"
-   "US3194110"
-   "US3296444"
-   "US3305834"
-   "US3306156"
-   "US3402001"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:eastman-kodak],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3503739/en",
-  :title
-  "Photoconductive layers and their application to electrophotography",
-  :status :granted,
-  :id "US3503739",
-  :sourcing :authoritative,
-  :filing-year 1966,
-  :assignee :eastman-kodak,
-  :grant-year 1970,
-  :cites
-  ["US2349979"
-   "US2870123"
-   "US3041165"
-   "US3163531"
-   "US3244517"
-   "US3373141"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:phillips-petroleum],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3503782/en",
-  :title "Differential release paper",
-  :status :granted,
-  :id "US3503782",
-  :sourcing :authoritative,
-  :filing-year 1967,
-  :assignee :phillips-petroleum,
-  :grant-year 1970,
-  :cites ["US2816655"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:pharmacia],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3505019/en",
-  :title "Method for determining vitamin b12 and reagent therefor",
-  :status :granted,
-  :id "US3505019",
-  :sourcing :authoritative,
-  :filing-year 1967,
-  :assignee :pharmacia,
-  :grant-year 1970,
   :term-years 20,
   :open-license :none}]
