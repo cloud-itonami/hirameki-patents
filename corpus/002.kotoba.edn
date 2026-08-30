@@ -1,4 +1,84 @@
-[{:jurisdiction :us,
+[{:assignees [:rohm-and-haas],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2906756/en",
+  :title "New organic silicon compounds and methods of making them",
+  :status :granted,
+  :id "US2906756",
+  :sourcing :authoritative,
+  :filing-year 1956,
+  :assignee :rohm-and-haas,
+  :grant-year 1959,
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:ei-du-pont-de-nemours-and],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2909449/en",
+  :title "Vinylidene chloride copolymer coating compositions",
+  :status :granted,
+  :id "US2909449",
+  :sourcing :authoritative,
+  :filing-year 1956,
+  :assignee :ei-du-pont-de-nemours-and,
+  :grant-year 1959,
+  :cites ["GB665479A" "US2570478" "US2636870" "US2748027"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:british-cellophane],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2910385/en",
+  :title
+  "Production of moistureproof sheet wrapping materials coated with copolymers applied from aqueous dispersions",
+  :status :granted,
+  :id "US2910385",
+  :sourcing :authoritative,
+  :filing-year 1955,
+  :assignee :british-cellophane,
+  :grant-year 1959,
+  :cites ["GB655732A" "US2570478" "US2618575" "US2721150" "US2721151"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:jersey-production-research],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2911048/en",
+  :title "Apparatus for working over and servicing wells",
+  :status :granted,
+  :id "US2911048",
+  :sourcing :authoritative,
+  :filing-year 1954,
+  :assignee :jersey-production-research,
+  :grant-year 1959,
+  :cites
+  ["US1916875"
+   "US2016919"
+   "US2543814"
+   "US2636563"
+   "US2645291"
+   "US2649916"
+   "US2673614"
+   "US2674315"
+   "US2749989"
+   "US2760578"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:johnson-and-johnson],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2913355/en",
+  :title "Adhesive tape with low adhesion backsize coating",
+  :status :granted,
+  :id "US2913355",
+  :sourcing :authoritative,
+  :filing-year 1955,
+  :assignee :johnson-and-johnson,
+  :grant-year 1959,
+  :cites ["GB531497A"],
+  :term-years 20,
+  :open-license :none}
+ {:jurisdiction :us,
   :field "UNKNOWN",
   :source "https://patents.google.com/patent/US2913386/en",
   :title "Electrochemical device for chemical analysis",
@@ -535,6 +615,27 @@
   :filing-year 1959,
   :assignee :armstrong-cork,
   :grant-year 1960,
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:general-motors],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2945954/en",
+  :title "Refrigerating apparatus",
+  :status :granted,
+  :id "US2945954",
+  :sourcing :authoritative,
+  :filing-year 1958,
+  :assignee :general-motors,
+  :grant-year 1960,
+  :cites
+  ["US2333641"
+   "US2434448"
+   "US2614430"
+   "US2642538"
+   "US2694153"
+   "US2817767"
+   "US2834891"],
   :term-years 20,
   :open-license :none}
  {:assignees [:champion-paper-and-fibre],
@@ -4099,6 +4200,19 @@
   :cites ["US2567719" "US2922768" "US2951772"],
   :term-years 20,
   :open-license :none}
+ {:jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3134019/en",
+  :title "Radiation detecting with shutter glass",
+  :status :granted,
+  :id "US3134019",
+  :sourcing :authoritative,
+  :filing-year 1962,
+  :assignee :unassigned,
+  :grant-year 1964,
+  :cites ["US2532386" "US2569793" "US3032428" "US3052637"],
+  :term-years 20,
+  :open-license :none}
  {:assignees [:meiji-seika-kaisha],
   :jurisdiction :us,
   :field "UNKNOWN",
@@ -7357,6 +7471,20 @@
   :cites ["US2395489" "US2790438" "US3210546"],
   :term-years 20,
   :open-license :none}
+ {:jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3327120/en",
+  :title
+  "Infrared imaging system using a photochromic glass viewing screen",
+  :status :granted,
+  :id "US3327120",
+  :sourcing :authoritative,
+  :filing-year 1964,
+  :assignee :unassigned,
+  :grant-year 1967,
+  :cites ["US3085469" "US3152215" "US3155451"],
+  :term-years 20,
+  :open-license :none}
  {:assignees [:honeywell],
   :jurisdiction :us,
   :field "UNKNOWN",
@@ -8966,6 +9094,20 @@
   :cites ["US3057953" "US3114859" "US3161725"],
   :term-years 20,
   :open-license :none}
+ {:assignees [:bionetics-research-lab],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3449488/en",
+  :title "Immunology",
+  :status :granted,
+  :id "US3449488",
+  :sourcing :authoritative,
+  :filing-year 1965,
+  :assignee :bionetics-research-lab,
+  :grant-year 1969,
+  :cites ["US2439229" "US3141824" "US3313706" "US3316153"],
+  :term-years 20,
+  :open-license :none}
  {:assignees [:us-department-of-navy],
   :jurisdiction :us,
   :field "UNKNOWN",
@@ -9341,6 +9483,21 @@
   :cites ["US2971429" "US3092722" "US3359973"],
   :term-years 20,
   :open-license :none}
+ {:assignees [:american-cyanamid],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3473027/en",
+  :title
+  "Process for recording and retrieving information employing photoluminescent inks which luminesce under ultraviolet illumination",
+  :status :granted,
+  :id "US3473027",
+  :sourcing :authoritative,
+  :filing-year 1966,
+  :assignee :american-cyanamid,
+  :grant-year 1969,
+  :cites ["US2957079" "US3059112"],
+  :term-years 20,
+  :open-license :none}
  {:assignees [:boehringer-mannheim],
   :jurisdiction :us,
   :field "UNKNOWN",
@@ -9491,161 +9648,5 @@
    "US3378347"
    "US3378481"
    "US3401087"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:merck-and],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3480613/en",
-  :title
-  "2-c or 3-c-alkylribofuranosyl - 1-substituted compounds and the nucleosides thereof",
-  :status :granted,
-  :id "US3480613",
-  :sourcing :authoritative,
-  :filing-year 1967,
-  :assignee :merck-and,
-  :grant-year 1969,
-  :cites
-  ["US2876230"
-   "US2881164"
-   "US3074929"
-   "US3116282"
-   "US3225029"
-   "US3300478"
-   "US3328389"
-   "US3380996"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:johnson-and-johnson],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3483017/en",
-  :title "Method of unifying bibulous papers",
-  :status :granted,
-  :id "US3483017",
-  :sourcing :authoritative,
-  :filing-year 1966,
-  :assignee :johnson-and-johnson,
-  :grant-year 1969,
-  :cites
-  ["US2253922"
-   "US2954868"
-   "US3020169"
-   "US3036927"
-   "US3066043"
-   "US3068117"
-   "US3133825"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:us-philips],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3487939/en",
-  :title
-  "Apparatus for separating ferromagnetic material from a liquid",
-  :status :granted,
-  :id "US3487939",
-  :sourcing :authoritative,
-  :filing-year 1967,
-  :assignee :us-philips,
-  :grant-year 1970,
-  :cites ["US2854137" "US3357559"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:billingsfors-langed],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3489592/en",
-  :title
-  "Method and device for coating or covering paper or sheet material with surface layers",
-  :status :granted,
-  :id "US3489592",
-  :sourcing :authoritative,
-  :filing-year 1966,
-  :assignee :billingsfors-langed,
-  :grant-year 1970,
-  :cites ["FR1308186A" "US1484705" "US2051403" "US2855895"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:harvest-queen-mill-and-elevator],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3491086/en",
-  :title
-  "Metal-polysaccharide composition and its preparation and use",
-  :status :granted,
-  :id "US3491086",
-  :sourcing :authoritative,
-  :filing-year 1966,
-  :assignee :harvest-queen-mill-and-elevator,
-  :grant-year 1970,
-  :term-years 20,
-  :open-license :none}
- {:jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3492096/en",
-  :title
-  "Apparatus for and method of detecting the coagulation of whole blood",
-  :status :granted,
-  :id "US3492096",
-  :sourcing :authoritative,
-  :filing-year 1967,
-  :assignee :unassigned,
-  :grant-year 1970,
-  :cites ["US2616796"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:becton-dickinson-and],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3492396/en",
-  :title "Agglutinate separation method and apparatus",
-  :status :granted,
-  :id "US3492396",
-  :sourcing :authoritative,
-  :filing-year 1967,
-  :assignee :becton-dickinson-and,
-  :grant-year 1970,
-  :cites
-  ["GB189512072A" "US2462612" "US3352197" "US3382983" "US3392834"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:appleton-coated-paper],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3493369/en",
-  :title
-  "Low electrical resistance varnish coatings on an insulating base",
-  :status :granted,
-  :id "US3493369",
-  :sourcing :authoritative,
-  :filing-year 1964,
-  :assignee :appleton-coated-paper,
-  :grant-year 1970,
-  :cites
-  ["US2374214"
-   "US2880181"
-   "US3030237"
-   "US3057749"
-   "US3113022"
-   "US3137666"
-   "US3245833"
-   "US3265497"
-   "US3295967"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:scott-paper],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3493419/en",
-  :title
-  "Release paper for casting urethane resins and process for making same",
-  :status :granted,
-  :id "US3493419",
-  :sourcing :authoritative,
-  :filing-year 1967,
-  :assignee :scott-paper,
-  :grant-year 1970,
-  :cites ["US2565491" "US2869722" "US2913355" "US3230289" "US3335017"],
   :term-years 20,
   :open-license :none}]

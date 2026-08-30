@@ -1,4 +1,53 @@
-[{:assignees [:ei-du-pont-de-nemours-and],
+[{:assignees [:marathon-paper-mills],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2089524/en",
+  :title "Machine for and method of making coated sheet material",
+  :status :granted,
+  :id "US2089524",
+  :sourcing :authoritative,
+  :filing-year 1935,
+  :assignee :marathon-paper-mills,
+  :grant-year 1937,
+  :term-years 20,
+  :open-license :none}
+ {:jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2090427/en",
+  :title "Bottle drier",
+  :status :granted,
+  :id "US2090427",
+  :sourcing :authoritative,
+  :filing-year 1936,
+  :assignee :unassigned,
+  :grant-year 1937,
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:shell-development],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2092295/en",
+  :title "Production of synthetic resins and resinous materials",
+  :status :granted,
+  :id "US2092295",
+  :sourcing :authoritative,
+  :filing-year 1935,
+  :assignee :shell-development,
+  :grant-year 1937,
+  :term-years 20,
+  :open-license :none}
+ {:jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2094702/en",
+  :title "Color mixing machine",
+  :status :granted,
+  :id "US2094702",
+  :sourcing :authoritative,
+  :assignee :unassigned,
+  :grant-year 1937,
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:ei-du-pont-de-nemours-and],
   :jurisdiction :us,
   :field "UNKNOWN",
   :source "https://patents.google.com/patent/US2098534/en",
@@ -8188,6 +8237,35 @@
  {:assignees [:general-electric],
   :jurisdiction :us,
   :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2792484/en",
+  :title "Temperature measuring and controlling apparatus",
+  :status :granted,
+  :id "US2792484",
+  :sourcing :authoritative,
+  :filing-year 1951,
+  :assignee :general-electric,
+  :grant-year 1957,
+  :cites
+  ["US1362281"
+   "US1419725"
+   "US1623666"
+   "US1676536"
+   "US1881616"
+   "US2103623"
+   "US2239452"
+   "US2335659"
+   "US2341295"
+   "US2359787"
+   "US2404147"
+   "US2411672"
+   "US2462823"
+   "US2466696"
+   "US2666583"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:general-electric],
+  :jurisdiction :us,
+  :field "UNKNOWN",
   :source "https://patents.google.com/patent/US2792871/en",
   :title
   "Electrical insulating structure and method of making the same",
@@ -8569,6 +8647,19 @@
   :assignee :boyce-thompson-institute-for-plant-research,
   :grant-year 1958,
   :cites ["GB566389A" "US2606102" "US691249"],
+  :term-years 20,
+  :open-license :none}
+ {:jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2824235/en",
+  :title "Infra-red radiation detector",
+  :status :granted,
+  :id "US2824235",
+  :sourcing :authoritative,
+  :filing-year 1954,
+  :assignee :unassigned,
+  :grant-year 1958,
+  :cites ["US2678400" "US2705758" "US2706792"],
   :term-years 20,
   :open-license :none}
  {:assignees [:thomas-electronics],
@@ -9717,85 +9808,5 @@
   :assignee :american-cyanamid,
   :grant-year 1959,
   :cites ["US2469408" "US2653140"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:rohm-and-haas],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US2906756/en",
-  :title "New organic silicon compounds and methods of making them",
-  :status :granted,
-  :id "US2906756",
-  :sourcing :authoritative,
-  :filing-year 1956,
-  :assignee :rohm-and-haas,
-  :grant-year 1959,
-  :term-years 20,
-  :open-license :none}
- {:assignees [:ei-du-pont-de-nemours-and],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US2909449/en",
-  :title "Vinylidene chloride copolymer coating compositions",
-  :status :granted,
-  :id "US2909449",
-  :sourcing :authoritative,
-  :filing-year 1956,
-  :assignee :ei-du-pont-de-nemours-and,
-  :grant-year 1959,
-  :cites ["GB665479A" "US2570478" "US2636870" "US2748027"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:british-cellophane],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US2910385/en",
-  :title
-  "Production of moistureproof sheet wrapping materials coated with copolymers applied from aqueous dispersions",
-  :status :granted,
-  :id "US2910385",
-  :sourcing :authoritative,
-  :filing-year 1955,
-  :assignee :british-cellophane,
-  :grant-year 1959,
-  :cites ["GB655732A" "US2570478" "US2618575" "US2721150" "US2721151"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:jersey-production-research],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US2911048/en",
-  :title "Apparatus for working over and servicing wells",
-  :status :granted,
-  :id "US2911048",
-  :sourcing :authoritative,
-  :filing-year 1954,
-  :assignee :jersey-production-research,
-  :grant-year 1959,
-  :cites
-  ["US1916875"
-   "US2016919"
-   "US2543814"
-   "US2636563"
-   "US2645291"
-   "US2649916"
-   "US2673614"
-   "US2674315"
-   "US2749989"
-   "US2760578"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:johnson-and-johnson],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US2913355/en",
-  :title "Adhesive tape with low adhesion backsize coating",
-  :status :granted,
-  :id "US2913355",
-  :sourcing :authoritative,
-  :filing-year 1955,
-  :assignee :johnson-and-johnson,
-  :grant-year 1959,
-  :cites ["GB531497A"],
   :term-years 20,
   :open-license :none}]
