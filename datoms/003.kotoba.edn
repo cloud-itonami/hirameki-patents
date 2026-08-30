@@ -1,4 +1,45 @@
 [[":db/add"
+  "hirameki-patent:US2260749"
+  ":hirameki.patent/open-license"
+  ":none"]
+ [":db/add"
+  "hirameki-patent:US2260749"
+  ":hirameki.obs/release-status"
+  ":public-domain"]
+ [":db/add"
+  "hirameki-patent:US2260749"
+  ":hirameki/sourcing"
+  ":authoritative"]
+ [":db/add" "hirameki-patent:US2260749" ":hirameki/derived" true]
+ [":db/add"
+  "hirameki-patent:US2260749"
+  ":hirameki.obs/years-to-expiry"
+  -67]
+ [":db/add"
+  "hirameki-patent:US2260749"
+  ":hirameki/source"
+  "https://patents.google.com/patent/US2260749/en"]
+ [":db/add"
+  "hirameki-patent:US2261264"
+  ":hirameki.patent/title"
+  "Manufacture of laminated products"]
+ [":db/add"
+  "hirameki-patent:US2261264"
+  ":hirameki.patent/jurisdiction"
+  ":us"]
+ [":db/add"
+  "hirameki-patent:US2261264"
+  ":hirameki.patent/field"
+  "UNKNOWN"]
+ [":db/add"
+  "hirameki-patent:US2261264"
+  ":hirameki.patent/assignee"
+  ":th-goldschmidt"]
+ [":db/add"
+  "hirameki-patent:US2261264"
+  ":hirameki.patent/status"
+  ":granted"]
+ [":db/add"
   "hirameki-patent:US2261264"
   ":hirameki.patent/open-license"
   ":none"]
@@ -10372,45 +10413,4 @@
  [":db/add"
   "hirameki-patent:US2597741"
   ":hirameki.obs/years-to-expiry"
-  -56]
- [":db/add"
-  "hirameki-patent:US2597741"
-  ":hirameki/source"
-  "https://patents.google.com/patent/US2597741/en"]
- [":db/add"
-  "hirameki-patent:US2598733"
-  ":hirameki.patent/title"
-  "Wiping blade for coating devices"]
- [":db/add"
-  "hirameki-patent:US2598733"
-  ":hirameki.patent/jurisdiction"
-  ":us"]
- [":db/add"
-  "hirameki-patent:US2598733"
-  ":hirameki.patent/field"
-  "UNKNOWN"]
- [":db/add"
-  "hirameki-patent:US2598733"
-  ":hirameki.patent/assignee"
-  ":champion-paper-and-fibre"]
- [":db/add"
-  "hirameki-patent:US2598733"
-  ":hirameki.patent/status"
-  ":granted"]
- [":db/add"
-  "hirameki-patent:US2598733"
-  ":hirameki.patent/open-license"
-  ":none"]
- [":db/add"
-  "hirameki-patent:US2598733"
-  ":hirameki.obs/release-status"
-  ":public-domain"]
- [":db/add"
-  "hirameki-patent:US2598733"
-  ":hirameki/sourcing"
-  ":authoritative"]
- [":db/add" "hirameki-patent:US2598733" ":hirameki/derived" true]
- [":db/add"
-  "hirameki-patent:US2598733"
-  ":hirameki.obs/years-to-expiry"
-  -57]]
+  -56]]

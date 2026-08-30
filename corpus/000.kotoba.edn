@@ -507,6 +507,19 @@
   :assignee :riedel-de-haen,
   :term-years 20,
   :open-license :none}
+ {:assignees [:thoma-hans-a-dipl-chemdr],
+  :jurisdiction :de,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/DE2731028A1/en",
+  :title "METHOD FOR DETERMINING UNBONDED HORMONES OR PHARMACA",
+  :status :pending,
+  :id "DE2731028A1",
+  :sourcing :authoritative,
+  :filing-year 1977,
+  :assignee :thoma-hans-a-dipl-chemdr,
+  :cites ["US3970429"],
+  :term-years 20,
+  :open-license :none}
  {:assignees
   [:kommandiittiyhtioe-finnpipette-osmo-a-suovaniemi
    :suovaniemi-finnpipette],
@@ -8644,18 +8657,6 @@
   :sourcing :authoritative,
   :filing-year 1936,
   :assignee :h-r-bennett,
-  :grant-year 1938,
-  :term-years 20,
-  :open-license :none}
- {:jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US2114234/en",
-  :title "Apparatus for indicating oxidizing gases in aqueous liquids",
-  :status :granted,
-  :id "US2114234",
-  :sourcing :authoritative,
-  :filing-year 1936,
-  :assignee :unassigned,
   :grant-year 1938,
   :term-years 20,
   :open-license :none}]

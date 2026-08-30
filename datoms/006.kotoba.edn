@@ -1,4 +1,45 @@
 [[":db/add"
+  "hirameki-patent:US3164004"
+  ":hirameki/sourcing"
+  ":authoritative"]
+ [":db/add" "hirameki-patent:US3164004" ":hirameki/derived" true]
+ [":db/add"
+  "hirameki-patent:US3164004"
+  ":hirameki.obs/years-to-expiry"
+  -45]
+ [":db/add"
+  "hirameki-patent:US3164004"
+  ":hirameki/source"
+  "https://patents.google.com/patent/US3164004/en"]
+ [":db/add"
+  "hirameki-patent:US3166186"
+  ":hirameki.patent/title"
+  "Pressure sensitive labels, label stocks, and methods for manufacturing the same"]
+ [":db/add"
+  "hirameki-patent:US3166186"
+  ":hirameki.patent/jurisdiction"
+  ":us"]
+ [":db/add"
+  "hirameki-patent:US3166186"
+  ":hirameki.patent/field"
+  "UNKNOWN"]
+ [":db/add"
+  "hirameki-patent:US3166186"
+  ":hirameki.patent/assignee"
+  ":unassigned"]
+ [":db/add"
+  "hirameki-patent:US3166186"
+  ":hirameki.patent/status"
+  ":granted"]
+ [":db/add"
+  "hirameki-patent:US3166186"
+  ":hirameki.patent/open-license"
+  ":none"]
+ [":db/add"
+  "hirameki-patent:US3166186"
+  ":hirameki.obs/release-status"
+  ":public-domain"]
+ [":db/add"
   "hirameki-patent:US3166186"
   ":hirameki/sourcing"
   ":authoritative"]
@@ -10201,75 +10242,34 @@
   ":hirameki/source"
   "https://patents.google.com/patent/US343387/en"]
  [":db/add"
-  "hirameki-patent:US3434801"
+  "hirameki-patent:US3434467"
   ":hirameki.patent/title"
-  "Diagnostic test material for determination of ovulatory function and method for production of said test material"]
+  "Implantable radiation assembly for circulating systems"]
  [":db/add"
-  "hirameki-patent:US3434801"
+  "hirameki-patent:US3434467"
   ":hirameki.patent/jurisdiction"
   ":us"]
  [":db/add"
-  "hirameki-patent:US3434801"
+  "hirameki-patent:US3434467"
   ":hirameki.patent/field"
   "UNKNOWN"]
  [":db/add"
-  "hirameki-patent:US3434801"
+  "hirameki-patent:US3434467"
   ":hirameki.patent/assignee"
-  ":colab-lab"]
+  ":united-states-department-of-the-air-force"]
  [":db/add"
-  "hirameki-patent:US3434801"
+  "hirameki-patent:US3434467"
   ":hirameki.patent/status"
   ":granted"]
  [":db/add"
-  "hirameki-patent:US3434801"
+  "hirameki-patent:US3434467"
   ":hirameki.patent/open-license"
   ":none"]
  [":db/add"
-  "hirameki-patent:US3434801"
+  "hirameki-patent:US3434467"
   ":hirameki.obs/release-status"
   ":public-domain"]
  [":db/add"
-  "hirameki-patent:US3434801"
-  ":hirameki/sourcing"
-  ":authoritative"]
- [":db/add" "hirameki-patent:US3434801" ":hirameki/derived" true]
- [":db/add"
-  "hirameki-patent:US3434801"
-  ":hirameki.obs/years-to-expiry"
-  -42]
- [":db/add"
-  "hirameki-patent:US3434801"
-  ":hirameki/source"
-  "https://patents.google.com/patent/US3434801/en"]
- [":db/add"
-  "hirameki-patent:US3435239"
-  ":hirameki.patent/title"
-  "Radiation absorption tester using rc network to simulate absorption function"]
- [":db/add"
-  "hirameki-patent:US3435239"
-  ":hirameki.patent/jurisdiction"
-  ":us"]
- [":db/add"
-  "hirameki-patent:US3435239"
-  ":hirameki.patent/field"
-  "UNKNOWN"]
- [":db/add"
-  "hirameki-patent:US3435239"
-  ":hirameki.patent/assignee"
-  ":lkb-produkter"]
- [":db/add"
-  "hirameki-patent:US3435239"
-  ":hirameki.patent/status"
-  ":granted"]
- [":db/add"
-  "hirameki-patent:US3435239"
-  ":hirameki.patent/open-license"
-  ":none"]
- [":db/add"
-  "hirameki-patent:US3435239"
-  ":hirameki.obs/release-status"
-  ":public-domain"]
- [":db/add"
-  "hirameki-patent:US3435239"
+  "hirameki-patent:US3434467"
   ":hirameki/sourcing"
   ":authoritative"]]

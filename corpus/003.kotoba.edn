@@ -1,4 +1,33 @@
-[{:assignees [:perkin-elmer],
+[{:assignees [:scientific-industries],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3502438/en",
+  :title "Automated tape chemical analyzer",
+  :status :granted,
+  :id "US3502438",
+  :sourcing :authoritative,
+  :filing-year 1967,
+  :assignee :scientific-industries,
+  :grant-year 1970,
+  :cites ["US3036893" "US3036894" "US3260413"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:monsanto],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3502545/en",
+  :title
+  "Process for the separation of water-soluble polymeric materials from unbound protein or peptide using semiporous gel",
+  :status :granted,
+  :id "US3502545",
+  :sourcing :authoritative,
+  :filing-year 1968,
+  :assignee :monsanto,
+  :grant-year 1970,
+  :cites ["US3318782" "US3415804"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:perkin-elmer],
   :jurisdiction :us,
   :field "UNKNOWN",
   :source "https://patents.google.com/patent/US3503684/en",
@@ -275,6 +304,20 @@
   :assignee :shell-oil,
   :grant-year 1970,
   :cites ["US2627788" "US3004544" "US3027756" "US3106933" "US3380463"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:amicon],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3514438/en",
+  :title "Antithrombogenic materials",
+  :status :granted,
+  :id "US3514438",
+  :sourcing :authoritative,
+  :filing-year 1969,
+  :assignee :amicon,
+  :grant-year 1970,
+  :cites ["US2832746" "US2832747" "US3271496" "US3324068"],
   :term-years 20,
   :open-license :none}
  {:assignees [:shell-oil],
@@ -4810,6 +4853,19 @@
   :cites ["US3215849" "US3555284" "US3576441"],
   :term-years 20,
   :open-license :none}
+ {:assignees [:mallinckrodt-chemical-works],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3799740/en",
+  :title "Clinical competitive-binding test methods",
+  :status :granted,
+  :id "US3799740",
+  :sourcing :authoritative,
+  :filing-year 1971,
+  :assignee :mallinckrodt-chemical-works,
+  :grant-year 1974,
+  :term-years 20,
+  :open-license :none}
  {:assignees [:wtc-chemical],
   :jurisdiction :us,
   :field "UNKNOWN",
@@ -5101,6 +5157,20 @@
   :grant-year 1974,
   :term-years 20,
   :open-license :none}
+ {:assignees [:cox-&-a],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3822344/en",
+  :title
+  "Pharmaceutical compositions providing potassium chloride in aqueous solution",
+  :status :granted,
+  :id "US3822344",
+  :sourcing :authoritative,
+  :filing-year 1972,
+  :assignee :cox-&-a,
+  :grant-year 1974,
+  :term-years 20,
+  :open-license :none}
  {:jurisdiction :us,
   :field "UNKNOWN",
   :source "https://patents.google.com/patent/US3823126/en",
@@ -5313,6 +5383,19 @@
   :sourcing :authoritative,
   :filing-year 1973,
   :assignee :aerospace,
+  :grant-year 1974,
+  :term-years 20,
+  :open-license :none}
+ {:jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3830931/en",
+  :title
+  "Carnitine and its use in the treatment of arrhythmia and impaired cardiac function",
+  :status :granted,
+  :id "US3830931",
+  :sourcing :authoritative,
+  :filing-year 1972,
+  :assignee :unassigned,
   :grant-year 1974,
   :term-years 20,
   :open-license :none}
@@ -7672,6 +7755,27 @@
   :cites ["US3542475" "US3714524" "US3833806"],
   :term-years 20,
   :open-license :none}
+ {:assignees [:hoechst],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3938953/en",
+  :title
+  "Process and device for blood examination using substances labelled with radioactive nuclides",
+  :status :granted,
+  :id "US3938953",
+  :sourcing :authoritative,
+  :filing-year 1974,
+  :assignee :hoechst,
+  :grant-year 1976,
+  :cites
+  ["US3376114"
+   "US3507618"
+   "US3646346"
+   "US3743482"
+   "US3768979"
+   "US3826619"],
+  :term-years 20,
+  :open-license :none}
  {:assignees [:leland-stanford-junior-university],
   :jurisdiction :us,
   :field "UNKNOWN",
@@ -7712,6 +7816,20 @@
   :assignee :biological-developments,
   :grant-year 1976,
   :cites ["US3555143" "US3646346"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:miles-laboratories],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3941564/en",
+  :title "Method for assessing thyroid function",
+  :status :granted,
+  :id "US3941564",
+  :sourcing :authoritative,
+  :filing-year 1973,
+  :assignee :miles-laboratories,
+  :grant-year 1976,
+  :cites ["US3659104" "US3710117" "US3799740"],
   :term-years 20,
   :open-license :none}
  {:assignees [:massachusetts-institute-of-technology],
@@ -8030,6 +8148,33 @@
   :cites ["US3479183" "US3519538" "US3639558" "US3817837" "US3843447"],
   :term-years 20,
   :open-license :none}
+ {:assignees
+  [:lair-liquide-pour-letude-et-lexploitation-des-procedes-georges-claude
+   :orsan-les-produits-organiques-du-santerre],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3959079/en",
+  :title
+  "Insolubilization of proteins by chemical activation of a polymerized support and crosslinking of the protein to the support",
+  :status :granted,
+  :id "US3959079",
+  :sourcing :authoritative,
+  :filing-year 1974,
+  :assignee
+  :lair-liquide-pour-letude-et-lexploitation-des-procedes-georges-claude,
+  :grant-year 1976,
+  :cites
+  ["US3278392"
+   "US3645852"
+   "US3654083"
+   "US3741871"
+   "US3746622"
+   "US3821084"
+   "US3836433"
+   "US3853708"
+   "US3904478"],
+  :term-years 20,
+  :open-license :none}
  {:assignees [:essilor-international-compagnie-generale-doptique],
   :jurisdiction :us,
   :field "UNKNOWN",
@@ -8043,6 +8188,31 @@
   :assignee :essilor-international-compagnie-generale-doptique,
   :grant-year 1976,
   :cites ["US3639524" "US3647736" "US3700573" "US3700761" "US3840448"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:nuclear-diagnostics],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3960492/en",
+  :title
+  "Method for determining an index of binding protein content of blood",
+  :status :granted,
+  :id "US3960492",
+  :sourcing :authoritative,
+  :filing-year 1974,
+  :assignee :nuclear-diagnostics,
+  :grant-year 1976,
+  :cites
+  ["US3376114"
+   "US3451777"
+   "US3519390"
+   "US3646346"
+   "US3666854"
+   "US3716632"
+   "US3730684"
+   "US3743482"
+   "US3745211"
+   "US3776698"],
   :term-years 20,
   :open-license :none}
  {:assignees [:dexter],
@@ -8218,6 +8388,20 @@
   :assignee :pharmacia-diagnostics,
   :grant-year 1976,
   :cites ["US3859430"],
+  :term-years 20,
+  :open-license :none}
+ {:jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3968241/en",
+  :title
+  "Method of treating cardiac arrhythmias and of improving myocardial contractility and systolic rhythm with carnitive or a pharmaceutically acceptable salt thereof",
+  :status :granted,
+  :id "US3968241",
+  :sourcing :authoritative,
+  :filing-year 1974,
+  :assignee :unassigned,
+  :grant-year 1976,
+  :cites ["US2278123" "US2761807"],
   :term-years 20,
   :open-license :none}
  {:jurisdiction :us,
@@ -8999,183 +9183,5 @@
   :assignee :purdue-research-foundation,
   :grant-year 1977,
   :cites ["US3909360"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:block-engineering],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US4006360/en",
-  :title
-  "Method of discriminating between dyed particles and background fluorescence of the dye",
-  :status :granted,
-  :id "US4006360",
-  :sourcing :authoritative,
-  :filing-year 1976,
-  :assignee :block-engineering,
-  :grant-year 1977,
-  :cites ["US3886363" "US3918812"],
-  :term-years 20,
-  :open-license :none}
- {:jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US4007008/en",
-  :title "Preparation of reference serum from animal blood",
-  :status :granted,
-  :id "US4007008",
-  :sourcing :authoritative,
-  :filing-year 1975,
-  :assignee :unassigned,
-  :grant-year 1977,
-  :cites ["US3269911" "US3298789" "US3640896" "US3682835" "US3873467"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:nelson-research-and-development],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US4007089/en",
-  :title "Method for binding biologically active compounds",
-  :status :granted,
-  :id "US4007089",
-  :sourcing :authoritative,
-  :filing-year 1975,
-  :assignee :nelson-research-and-development,
-  :grant-year 1977,
-  :cites ["US3824150" "US3843447"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:snamprogetti-spa],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US4008363/en",
-  :title
-  "Process for the preparation of adenine derivatives made functional and products obtained therefrom",
-  :status :granted,
-  :id "US4008363",
-  :sourcing :authoritative,
-  :filing-year 1975,
-  :assignee :snamprogetti-spa,
-  :grant-year 1977,
-  :cites ["US3287352" "US3475408"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:hoffmann-la-roche],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US4008397/en",
-  :title "Fluorometer flow cell",
-  :status :granted,
-  :id "US4008397",
-  :sourcing :authoritative,
-  :filing-year 1975,
-  :assignee :hoffmann-la-roche,
-  :grant-year 1977,
-  :cites ["US3413464" "US3586859" "US3917404"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:becton-dickinson-and],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US4009005/en",
-  :title
-  "Apparatus for radioimmunoassay with regeneration of immunadsorbent",
-  :status :granted,
-  :id "US4009005",
-  :sourcing :authoritative,
-  :filing-year 1975,
-  :assignee :becton-dickinson-and,
-  :grant-year 1977,
-  :cites
-  ["US3519390"
-   "US3607073"
-   "US3788812"
-   "US3793445"
-   "US3806321"
-   "US3814581"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:roe],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US4009782/en",
-  :title "Method and apparatus for sorting and counting fish eggs",
-  :status :granted,
-  :id "US4009782",
-  :sourcing :authoritative,
-  :filing-year 1975,
-  :assignee :roe,
-  :grant-year 1977,
-  :cites
-  ["US2961046"
-   "US3297157"
-   "US3517807"
-   "US3613884"
-   "US3746166"
-   "US3791517"
-   "US3827555"],
-  :term-years 20,
-  :open-license :none}
- {:jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US4010251/en",
-  :title
-  "Scanning agent composition and use in imaging liver and for biliary function",
-  :status :granted,
-  :id "US4010251",
-  :sourcing :authoritative,
-  :filing-year 1974,
-  :assignee :unassigned,
-  :grant-year 1977,
-  :term-years 20,
-  :open-license :none}
- {:assignees [:general-electric],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US4011308/en",
-  :title
-  "Method for surface immunological detection of biological particles by the use of tagged antibodies",
-  :status :granted,
-  :id "US4011308",
-  :sourcing :authoritative,
-  :filing-year 1976,
-  :assignee :general-electric,
-  :grant-year 1977,
-  :cites
-  ["US3206602"
-   "US3592888"
-   "US3646346"
-   "US3790663"
-   "US3793445"
-   "US3826619"
-   "US3843775"
-   "US3935074"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:autochem-instrument],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US4012200/en",
-  :title
-  "Apparatus for removing liquid from the inside of a test tube",
-  :status :granted,
-  :id "US4012200",
-  :sourcing :authoritative,
-  :filing-year 1976,
-  :assignee :autochem-instrument,
-  :grant-year 1977,
-  :cites ["US2259367" "US3572998" "US3836329"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:abbott-laboratories],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US4012494/en",
-  :title "Direct radioimmunoassay for antigens and their antibodies",
-  :status :granted,
-  :id "US4012494",
-  :sourcing :authoritative,
-  :filing-year 1974,
-  :assignee :abbott-laboratories,
-  :grant-year 1977,
-  :cites ["US3646346" "US3790663" "US3867517"],
   :term-years 20,
   :open-license :none}]

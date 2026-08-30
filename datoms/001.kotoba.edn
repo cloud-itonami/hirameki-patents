@@ -1,4 +1,45 @@
 [[":db/add"
+  "hirameki-patent:GB2055626A"
+  ":hirameki.patent/jurisdiction"
+  ":gb"]
+ [":db/add"
+  "hirameki-patent:GB2055626A"
+  ":hirameki.patent/field"
+  "UNKNOWN"]
+ [":db/add"
+  "hirameki-patent:GB2055626A"
+  ":hirameki.patent/assignee"
+  ":mitsui-toatsu-chemicals"]
+ [":db/add"
+  "hirameki-patent:GB2055626A"
+  ":hirameki.patent/status"
+  ":pending"]
+ [":db/add"
+  "hirameki-patent:GB2055626A"
+  ":hirameki.patent/open-license"
+  ":none"]
+ [":db/add"
+  "hirameki-patent:GB2055626A"
+  ":hirameki.obs/release-status"
+  ":pending"]
+ [":db/add"
+  "hirameki-patent:GB2055626A"
+  ":hirameki/sourcing"
+  ":authoritative"]
+ [":db/add" "hirameki-patent:GB2055626A" ":hirameki/derived" true]
+ [":db/add"
+  "hirameki-patent:GB2055626A"
+  ":hirameki.obs/years-to-expiry"
+  -26]
+ [":db/add"
+  "hirameki-patent:GB2055626A"
+  ":hirameki/source"
+  "https://patents.google.com/patent/GB2055626A/en"]
+ [":db/add"
+  "hirameki-patent:GB2060654A"
+  ":hirameki.patent/title"
+  "Water-dispersed acrylic graft polymer coating composition"]
+ [":db/add"
   "hirameki-patent:GB2060654A"
   ":hirameki.patent/jurisdiction"
   ":gb"]
@@ -9930,41 +9971,4 @@
  [":db/add"
   "hirameki-patent:SE417431B"
   ":hirameki/sourcing"
-  ":authoritative"]
- [":db/add" "hirameki-patent:SE417431B" ":hirameki/derived" true]
- [":db/add"
-  "hirameki-patent:SE417431B"
-  ":hirameki.obs/years-to-expiry"
-  -31]
- [":db/add"
-  "hirameki-patent:SE417431B"
-  ":hirameki/source"
-  "https://patents.google.com/patent/SE417431B/en"]
- [":db/add"
-  "hirameki-patent:SE437270B"
-  ":hirameki.patent/title"
-  "SEPARATION MATERIAL OF THE CIRCUIT AGAROS AND ITS PREPARATION SEPARATION MATERIAL OF THE CIVIL-AGAROS AND ITS PREPARATION"]
- [":db/add"
-  "hirameki-patent:SE437270B"
-  ":hirameki.patent/jurisdiction"
-  ":se"]
- [":db/add"
-  "hirameki-patent:SE437270B"
-  ":hirameki.patent/field"
-  "UNKNOWN"]
- [":db/add"
-  "hirameki-patent:SE437270B"
-  ":hirameki.patent/assignee"
-  ":pharmacia"]
- [":db/add"
-  "hirameki-patent:SE437270B"
-  ":hirameki.patent/status"
-  ":pending"]
- [":db/add"
-  "hirameki-patent:SE437270B"
-  ":hirameki.patent/open-license"
-  ":none"]
- [":db/add"
-  "hirameki-patent:SE437270B"
-  ":hirameki.obs/release-status"
-  ":pending"]]
+  ":authoritative"]]

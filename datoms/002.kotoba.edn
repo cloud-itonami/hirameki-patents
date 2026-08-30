@@ -1,4 +1,41 @@
-[[":db/add"
+[[":db/add" "hirameki-patent:SE417431B" ":hirameki/derived" true]
+ [":db/add"
+  "hirameki-patent:SE417431B"
+  ":hirameki.obs/years-to-expiry"
+  -31]
+ [":db/add"
+  "hirameki-patent:SE417431B"
+  ":hirameki/source"
+  "https://patents.google.com/patent/SE417431B/en"]
+ [":db/add"
+  "hirameki-patent:SE437270B"
+  ":hirameki.patent/title"
+  "SEPARATION MATERIAL OF THE CIRCUIT AGAROS AND ITS PREPARATION SEPARATION MATERIAL OF THE CIVIL-AGAROS AND ITS PREPARATION"]
+ [":db/add"
+  "hirameki-patent:SE437270B"
+  ":hirameki.patent/jurisdiction"
+  ":se"]
+ [":db/add"
+  "hirameki-patent:SE437270B"
+  ":hirameki.patent/field"
+  "UNKNOWN"]
+ [":db/add"
+  "hirameki-patent:SE437270B"
+  ":hirameki.patent/assignee"
+  ":pharmacia"]
+ [":db/add"
+  "hirameki-patent:SE437270B"
+  ":hirameki.patent/status"
+  ":pending"]
+ [":db/add"
+  "hirameki-patent:SE437270B"
+  ":hirameki.patent/open-license"
+  ":none"]
+ [":db/add"
+  "hirameki-patent:SE437270B"
+  ":hirameki.obs/release-status"
+  ":pending"]
+ [":db/add"
   "hirameki-patent:SE437270B"
   ":hirameki/sourcing"
   ":authoritative"]
@@ -10371,46 +10408,5 @@
   ":dominion-minerals"]
  [":db/add"
   "hirameki-patent:US2260749"
-  ":hirameki.patent/status"
-  ":granted"]
- [":db/add"
-  "hirameki-patent:US2260749"
-  ":hirameki.patent/open-license"
-  ":none"]
- [":db/add"
-  "hirameki-patent:US2260749"
-  ":hirameki.obs/release-status"
-  ":public-domain"]
- [":db/add"
-  "hirameki-patent:US2260749"
-  ":hirameki/sourcing"
-  ":authoritative"]
- [":db/add" "hirameki-patent:US2260749" ":hirameki/derived" true]
- [":db/add"
-  "hirameki-patent:US2260749"
-  ":hirameki.obs/years-to-expiry"
-  -67]
- [":db/add"
-  "hirameki-patent:US2260749"
-  ":hirameki/source"
-  "https://patents.google.com/patent/US2260749/en"]
- [":db/add"
-  "hirameki-patent:US2261264"
-  ":hirameki.patent/title"
-  "Manufacture of laminated products"]
- [":db/add"
-  "hirameki-patent:US2261264"
-  ":hirameki.patent/jurisdiction"
-  ":us"]
- [":db/add"
-  "hirameki-patent:US2261264"
-  ":hirameki.patent/field"
-  "UNKNOWN"]
- [":db/add"
-  "hirameki-patent:US2261264"
-  ":hirameki.patent/assignee"
-  ":th-goldschmidt"]
- [":db/add"
-  "hirameki-patent:US2261264"
   ":hirameki.patent/status"
   ":granted"]]
