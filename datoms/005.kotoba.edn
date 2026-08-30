@@ -1,4 +1,46 @@
-[[":db/add"
+[[":db/add" "hirameki-patent:US2910385" ":hirameki/derived" true]
+ [":db/add"
+  "hirameki-patent:US2910385"
+  ":hirameki.obs/years-to-expiry"
+  -51]
+ [":db/add"
+  "hirameki-patent:US2910385"
+  ":hirameki/source"
+  "https://patents.google.com/patent/US2910385/en"]
+ [":db/add"
+  "hirameki-patent:US2911048"
+  ":hirameki.patent/title"
+  "Apparatus for working over and servicing wells"]
+ [":db/add"
+  "hirameki-patent:US2911048"
+  ":hirameki.patent/jurisdiction"
+  ":us"]
+ [":db/add"
+  "hirameki-patent:US2911048"
+  ":hirameki.patent/field"
+  "UNKNOWN"]
+ [":db/add"
+  "hirameki-patent:US2911048"
+  ":hirameki.patent/assignee"
+  ":jersey-production-research"]
+ [":db/add"
+  "hirameki-patent:US2911048"
+  ":hirameki.patent/status"
+  ":granted"]
+ [":db/add"
+  "hirameki-patent:US2911048"
+  ":hirameki.patent/open-license"
+  ":none"]
+ [":db/add"
+  "hirameki-patent:US2911048"
+  ":hirameki.obs/release-status"
+  ":public-domain"]
+ [":db/add"
+  "hirameki-patent:US2911048"
+  ":hirameki/sourcing"
+  ":authoritative"]
+ [":db/add" "hirameki-patent:US2911048" ":hirameki/derived" true]
+ [":db/add"
   "hirameki-patent:US2911048"
   ":hirameki.obs/years-to-expiry"
   -52]
@@ -10284,49 +10326,4 @@
  [":db/add"
   "hirameki-patent:US3163968"
   ":hirameki.patent/open-license"
-  ":none"]
- [":db/add"
-  "hirameki-patent:US3163968"
-  ":hirameki.obs/release-status"
-  ":public-domain"]
- [":db/add"
-  "hirameki-patent:US3163968"
-  ":hirameki/sourcing"
-  ":authoritative"]
- [":db/add" "hirameki-patent:US3163968" ":hirameki/derived" true]
- [":db/add"
-  "hirameki-patent:US3163968"
-  ":hirameki.obs/years-to-expiry"
-  -44]
- [":db/add"
-  "hirameki-patent:US3163968"
-  ":hirameki/source"
-  "https://patents.google.com/patent/US3163968/en"]
- [":db/add"
-  "hirameki-patent:US3164004"
-  ":hirameki.patent/title"
-  "Coated piezoelectric analyzers"]
- [":db/add"
-  "hirameki-patent:US3164004"
-  ":hirameki.patent/jurisdiction"
-  ":us"]
- [":db/add"
-  "hirameki-patent:US3164004"
-  ":hirameki.patent/field"
-  "UNKNOWN"]
- [":db/add"
-  "hirameki-patent:US3164004"
-  ":hirameki.patent/assignee"
-  ":exxon-research-and-engineering"]
- [":db/add"
-  "hirameki-patent:US3164004"
-  ":hirameki.patent/status"
-  ":granted"]
- [":db/add"
-  "hirameki-patent:US3164004"
-  ":hirameki.patent/open-license"
-  ":none"]
- [":db/add"
-  "hirameki-patent:US3164004"
-  ":hirameki.obs/release-status"
-  ":public-domain"]]
+  ":none"]]

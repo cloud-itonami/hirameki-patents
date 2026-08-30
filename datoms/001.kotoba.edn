@@ -1,4 +1,49 @@
 [[":db/add"
+  "hirameki-patent:GB2043323A"
+  ":hirameki.patent/title"
+  "Gramophone record players"]
+ [":db/add"
+  "hirameki-patent:GB2043323A"
+  ":hirameki.patent/jurisdiction"
+  ":gb"]
+ [":db/add"
+  "hirameki-patent:GB2043323A"
+  ":hirameki.patent/field"
+  "UNKNOWN"]
+ [":db/add"
+  "hirameki-patent:GB2043323A"
+  ":hirameki.patent/assignee"
+  ":sony"]
+ [":db/add"
+  "hirameki-patent:GB2043323A"
+  ":hirameki.patent/status"
+  ":pending"]
+ [":db/add"
+  "hirameki-patent:GB2043323A"
+  ":hirameki.patent/open-license"
+  ":none"]
+ [":db/add"
+  "hirameki-patent:GB2043323A"
+  ":hirameki.obs/release-status"
+  ":pending"]
+ [":db/add"
+  "hirameki-patent:GB2043323A"
+  ":hirameki/sourcing"
+  ":authoritative"]
+ [":db/add" "hirameki-patent:GB2043323A" ":hirameki/derived" true]
+ [":db/add"
+  "hirameki-patent:GB2043323A"
+  ":hirameki.obs/years-to-expiry"
+  -26]
+ [":db/add"
+  "hirameki-patent:GB2043323A"
+  ":hirameki/source"
+  "https://patents.google.com/patent/GB2043323A/en"]
+ [":db/add"
+  "hirameki-patent:GB2055626A"
+  ":hirameki.patent/title"
+  "Process for metallic coat finishing"]
+ [":db/add"
   "hirameki-patent:GB2055626A"
   ":hirameki.patent/jurisdiction"
   ":gb"]
@@ -9926,49 +9971,4 @@
  [":db/add"
   "hirameki-patent:SE320155B"
   ":hirameki.obs/release-status"
-  ":pending"]
- [":db/add"
-  "hirameki-patent:SE320155B"
-  ":hirameki/sourcing"
-  ":authoritative"]
- [":db/add" "hirameki-patent:SE320155B" ":hirameki/derived" true]
- [":db/add"
-  "hirameki-patent:SE320155B"
-  ":hirameki.obs/years-to-expiry"
-  -37]
- [":db/add"
-  "hirameki-patent:SE320155B"
-  ":hirameki/source"
-  "https://patents.google.com/patent/SE320155B/en"]
- [":db/add"
-  "hirameki-patent:SE417431B"
-  ":hirameki.patent/title"
-  "DEXTRANDER RIVEL FOR ELECTROPHORETIC SEPARATION"]
- [":db/add"
-  "hirameki-patent:SE417431B"
-  ":hirameki.patent/jurisdiction"
-  ":se"]
- [":db/add"
-  "hirameki-patent:SE417431B"
-  ":hirameki.patent/field"
-  "UNKNOWN"]
- [":db/add"
-  "hirameki-patent:SE417431B"
-  ":hirameki.patent/assignee"
-  ":pharmacia-fine-chemicals"]
- [":db/add"
-  "hirameki-patent:SE417431B"
-  ":hirameki.patent/status"
-  ":pending"]
- [":db/add"
-  "hirameki-patent:SE417431B"
-  ":hirameki.patent/open-license"
-  ":none"]
- [":db/add"
-  "hirameki-patent:SE417431B"
-  ":hirameki.obs/release-status"
-  ":pending"]
- [":db/add"
-  "hirameki-patent:SE417431B"
-  ":hirameki/sourcing"
-  ":authoritative"]]
+  ":pending"]]

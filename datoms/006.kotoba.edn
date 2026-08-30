@@ -1,4 +1,49 @@
 [[":db/add"
+  "hirameki-patent:US3163968"
+  ":hirameki.obs/release-status"
+  ":public-domain"]
+ [":db/add"
+  "hirameki-patent:US3163968"
+  ":hirameki/sourcing"
+  ":authoritative"]
+ [":db/add" "hirameki-patent:US3163968" ":hirameki/derived" true]
+ [":db/add"
+  "hirameki-patent:US3163968"
+  ":hirameki.obs/years-to-expiry"
+  -44]
+ [":db/add"
+  "hirameki-patent:US3163968"
+  ":hirameki/source"
+  "https://patents.google.com/patent/US3163968/en"]
+ [":db/add"
+  "hirameki-patent:US3164004"
+  ":hirameki.patent/title"
+  "Coated piezoelectric analyzers"]
+ [":db/add"
+  "hirameki-patent:US3164004"
+  ":hirameki.patent/jurisdiction"
+  ":us"]
+ [":db/add"
+  "hirameki-patent:US3164004"
+  ":hirameki.patent/field"
+  "UNKNOWN"]
+ [":db/add"
+  "hirameki-patent:US3164004"
+  ":hirameki.patent/assignee"
+  ":exxon-research-and-engineering"]
+ [":db/add"
+  "hirameki-patent:US3164004"
+  ":hirameki.patent/status"
+  ":granted"]
+ [":db/add"
+  "hirameki-patent:US3164004"
+  ":hirameki.patent/open-license"
+  ":none"]
+ [":db/add"
+  "hirameki-patent:US3164004"
+  ":hirameki.obs/release-status"
+  ":public-domain"]
+ [":db/add"
   "hirameki-patent:US3164004"
   ":hirameki/sourcing"
   ":authoritative"]
@@ -10227,49 +10272,4 @@
  [":db/add"
   "hirameki-patent:US343387"
   ":hirameki.patent/open-license"
-  ":none"]
- [":db/add"
-  "hirameki-patent:US343387"
-  ":hirameki.obs/release-status"
-  ":in-force"]
- [":db/add"
-  "hirameki-patent:US343387"
-  ":hirameki/sourcing"
-  ":authoritative"]
- [":db/add" "hirameki-patent:US343387" ":hirameki/derived" true]
- [":db/add"
-  "hirameki-patent:US343387"
-  ":hirameki/source"
-  "https://patents.google.com/patent/US343387/en"]
- [":db/add"
-  "hirameki-patent:US3434467"
-  ":hirameki.patent/title"
-  "Implantable radiation assembly for circulating systems"]
- [":db/add"
-  "hirameki-patent:US3434467"
-  ":hirameki.patent/jurisdiction"
-  ":us"]
- [":db/add"
-  "hirameki-patent:US3434467"
-  ":hirameki.patent/field"
-  "UNKNOWN"]
- [":db/add"
-  "hirameki-patent:US3434467"
-  ":hirameki.patent/assignee"
-  ":united-states-department-of-the-air-force"]
- [":db/add"
-  "hirameki-patent:US3434467"
-  ":hirameki.patent/status"
-  ":granted"]
- [":db/add"
-  "hirameki-patent:US3434467"
-  ":hirameki.patent/open-license"
-  ":none"]
- [":db/add"
-  "hirameki-patent:US3434467"
-  ":hirameki.obs/release-status"
-  ":public-domain"]
- [":db/add"
-  "hirameki-patent:US3434467"
-  ":hirameki/sourcing"
-  ":authoritative"]]
+  ":none"]]

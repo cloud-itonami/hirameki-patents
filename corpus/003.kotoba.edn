@@ -1,4 +1,18 @@
-[{:assignees [:scientific-industries],
+[{:assignees [:haematronics],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3502437/en",
+  :title "Identification card",
+  :status :granted,
+  :id "US3502437",
+  :sourcing :authoritative,
+  :filing-year 1967,
+  :assignee :haematronics,
+  :grant-year 1970,
+  :cites ["US2350239" "US2770572" "US2822476" "US3074853" "US3232710"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:scientific-industries],
   :jurisdiction :us,
   :field "UNKNOWN",
   :source "https://patents.google.com/patent/US3502438/en",
@@ -1759,6 +1773,21 @@
   :cites ["US1580136" "US2494542" "US2526839" "US3345250" "US3481684"],
   :term-years 20,
   :open-license :none}
+ {:assignees [:nat-res-dev],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3619371/en",
+  :title
+  "Production of a polymeric matrix having a biologically active substance bound thereto",
+  :status :granted,
+  :id "US3619371",
+  :sourcing :authoritative,
+  :filing-year 1968,
+  :assignee :nat-res-dev,
+  :grant-year 1971,
+  :cites ["US3403146"],
+  :term-years 20,
+  :open-license :none}
  {:assignees [:wr-grace-and],
   :jurisdiction :us,
   :field "UNKNOWN",
@@ -2074,6 +2103,20 @@
    "US3476530"
    "US3493369"
    "US3515528"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:baxter-laboratories],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3639213/en",
+  :title "Streptokinase chemically bonded to a carbohydrate matrix",
+  :status :granted,
+  :id "US3639213",
+  :sourcing :authoritative,
+  :filing-year 1969,
+  :assignee :baxter-laboratories,
+  :grant-year 1972,
+  :cites ["FR1577571A" "US3186920" "US3255094"],
   :term-years 20,
   :open-license :none}
  {:jurisdiction :us,
@@ -3579,6 +3622,18 @@
   :grant-year 1973,
   :term-years 20,
   :open-license :none}
+ {:jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3715277/en",
+  :title "Preparation of fibers containing fibers",
+  :status :granted,
+  :id "US3715277",
+  :sourcing :authoritative,
+  :filing-year 1969,
+  :assignee :unassigned,
+  :grant-year 1973,
+  :term-years 20,
+  :open-license :none}
  {:assignees [:monsanto],
   :jurisdiction :us,
   :field "UNKNOWN",
@@ -3835,6 +3890,20 @@
   :filing-year 1970,
   :assignee :becton-dickinson-and,
   :grant-year 1973,
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:american-cyanamid],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3730841/en",
+  :title "Encapsulated carrier bound enzymes",
+  :status :granted,
+  :id "US3730841",
+  :sourcing :authoritative,
+  :filing-year 1971,
+  :assignee :american-cyanamid,
+  :grant-year 1973,
+  :cites ["US2642376" "US3282702" "US3639306" "US3649457"],
   :term-years 20,
   :open-license :none}
  {:assignees [:science-spectrum],
@@ -4757,6 +4826,19 @@
   :grant-year 1974,
   :term-years 20,
   :open-license :none}
+ {:assignees [:beecham-group],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3794630/en",
+  :title "Protein allergenic extracts reacted with dialdehydes",
+  :status :granted,
+  :id "US3794630",
+  :sourcing :authoritative,
+  :filing-year 1970,
+  :assignee :beecham-group,
+  :grant-year 1974,
+  :term-years 20,
+  :open-license :none}
  {:jurisdiction :us,
   :field "UNKNOWN",
   :source "https://patents.google.com/patent/US3795792/en",
@@ -4952,6 +5034,20 @@
   :sourcing :authoritative,
   :filing-year 1971,
   :assignee :research-institute-for-production-development,
+  :grant-year 1974,
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:american-cyanamid],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3809605/en",
+  :title
+  "Fibrous mats and sheets containing immobilized enzymes entrapped in their interstices",
+  :status :granted,
+  :id "US3809605",
+  :sourcing :authoritative,
+  :filing-year 1972,
+  :assignee :american-cyanamid,
   :grant-year 1974,
   :term-years 20,
   :open-license :none}
@@ -6058,6 +6154,28 @@
    "US3826678"],
   :term-years 20,
   :open-license :none}
+ {:assignees [:tanabe-seiyaku],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3865726/en",
+  :title "Blood urea removal device",
+  :status :granted,
+  :id "US3865726",
+  :sourcing :authoritative,
+  :filing-year 1973,
+  :assignee :tanabe-seiyaku,
+  :grant-year 1975,
+  :cites
+  ["US2682268"
+   "US3483867"
+   "US3522346"
+   "US3608729"
+   "US3617545"
+   "US3669878"
+   "US3669880"
+   "US3794584"],
+  :term-years 20,
+  :open-license :none}
  {:assignees [:hoechst],
   :jurisdiction :us,
   :field "UNKNOWN",
@@ -6369,6 +6487,20 @@
    "US3526876"
    "US3714372"
    "US3795792"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:asahi-chemical-industry],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3875008/en",
+  :title "Hollow filament containing enzymes and/or microorganisms",
+  :status :granted,
+  :id "US3875008",
+  :sourcing :authoritative,
+  :filing-year 1973,
+  :assignee :asahi-chemical-industry,
+  :grant-year 1975,
+  :cites ["US3082057" "US3674628" "US3715277"],
   :term-years 20,
   :open-license :none}
  {:assignees [:honeywell],
@@ -7122,6 +7254,20 @@
    "US3688317"
    "US3765414"
    "US3766567"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:us-department-of-agriculture-usda],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3909358/en",
+  :title "Insolubilized enzymes",
+  :status :granted,
+  :id "US3909358",
+  :sourcing :authoritative,
+  :filing-year 1974,
+  :assignee :us-department-of-agriculture-usda,
+  :grant-year 1975,
+  :cites ["US3767531"],
   :term-years 20,
   :open-license :none}
  {:assignees [:dearborn-glass],
@@ -8696,6 +8842,21 @@
   :cites ["US2957808" "US3410839"],
   :term-years 20,
   :open-license :none}
+ {:assignees [:baxter-laboratories],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3980772/en",
+  :title
+  "Methods of dissolving blood clots and the like with streptokinase chemically bonded to a carbohydrate matrix",
+  :status :granted,
+  :id "US3980772",
+  :sourcing :authoritative,
+  :filing-year 1971,
+  :assignee :baxter-laboratories,
+  :grant-year 1976,
+  :cites ["DE1815332A1" "US3226304"],
+  :term-years 20,
+  :open-license :none}
  {:assignees [:abbott-laboratories],
   :jurisdiction :us,
   :field "UNKNOWN",
@@ -8992,196 +9153,5 @@
    "US3663383"
    "US3819586"
    "US3822240"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:syva],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3998943/en",
-  :title "Double receptor fluorescent immunoassay",
-  :status :granted,
-  :id "US3998943",
-  :sourcing :authoritative,
-  :filing-year 1973,
-  :assignee :syva,
-  :grant-year 1976,
-  :cites
-  ["US3656906"
-   "US3709868"
-   "US3766162"
-   "US3775536"
-   "US3789116"
-   "US3809782"
-   "US3817706"
-   "US3901654"
-   "US3935074"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:siemens],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3999122/en",
-  :title "Semiconductor sensing device for fluids",
-  :status :granted,
-  :id "US3999122",
-  :sourcing :authoritative,
-  :filing-year 1975,
-  :assignee :siemens,
-  :grant-year 1976,
-  :cites ["US3045198" "US3255324" "US3428892" "US3831432" "US3865550"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:suwa-seikosha],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3999298/en",
-  :title "Watch with distance measure",
-  :status :granted,
-  :id "US3999298",
-  :sourcing :authoritative,
-  :filing-year 1975,
-  :assignee :suwa-seikosha,
-  :grant-year 1976,
-  :cites
-  ["US1433640"
-   "US1942130"
-   "US2421581"
-   "US3319415"
-   "US3548588"
-   "US3665701"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:hoffmann-la-roche],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3999944/en",
-  :title "Detection of breast cancer",
-  :status :granted,
-  :id "US3999944",
-  :sourcing :authoritative,
-  :filing-year 1975,
-  :assignee :hoffmann-la-roche,
-  :grant-year 1976,
-  :cites ["US3594466" "US3663684" "US3840655" "US3852415" "US3867363"],
-  :term-years 20,
-  :open-license :none}
- {:jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US4000252/en",
-  :title "Immunoscintillation cell",
-  :status :granted,
-  :id "US4000252",
-  :sourcing :authoritative,
-  :filing-year 1974,
-  :assignee :unassigned,
-  :grant-year 1976,
-  :cites ["US3206602" "US3404270" "US3573220" "US3758412" "US3798448"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:hitachi],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US4001870/en",
-  :title
-  "Isolating protective film for semiconductor devices and method for making the same",
-  :status :granted,
-  :id "US4001870",
-  :sourcing :authoritative,
-  :filing-year 1973,
-  :assignee :hitachi,
-  :grant-year 1977,
-  :cites
-  ["US3405017"
-   "US3411122"
-   "US3447975"
-   "US3597269"
-   "US3597665"
-   "US3597834"
-   "US3615913"
-   "US3700497"
-   "US3725344"
-   "US3725743"
-   "US3737340"
-   "US3788895"
-   "US3801880"],
-  :term-years 20,
-  :open-license :none}
- {:jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US4002532/en",
-  :title "Enzyme conjugates",
-  :status :granted,
-  :id "US4002532",
-  :sourcing :authoritative,
-  :filing-year 1974,
-  :assignee :unassigned,
-  :grant-year 1977,
-  :cites ["US3639558" "US3654090" "US3839153" "US3859169"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:honeywell],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US4002899/en",
-  :title "Focus detecting apparatus",
-  :status :granted,
-  :id "US4002899",
-  :sourcing :authoritative,
-  :filing-year 1975,
-  :assignee :honeywell,
-  :grant-year 1977,
-  :cites ["US3450883" "US3493764" "US3610934" "US3684374" "US3844658"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:miles-laboratories],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US4003792/en",
-  :title
-  "Conjugates of acid polysaccharides and complex organic substances",
-  :status :granted,
-  :id "US4003792",
-  :sourcing :authoritative,
-  :filing-year 1972,
-  :assignee :miles-laboratories,
-  :grant-year 1977,
-  :cites ["GB1174854A"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:warner-lambert],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US4003988/en",
-  :title "Direct agglutination test for pregnancy",
-  :status :granted,
-  :id "US4003988",
-  :sourcing :authoritative,
-  :filing-year 1976,
-  :assignee :warner-lambert,
-  :grant-year 1977,
-  :cites
-  ["US3088875"
-   "US3171783"
-   "US3234096"
-   "US3236732"
-   "US3309275"
-   "US3551555"
-   "US3565987"
-   "US3862302"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:purdue-research-foundation],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US4006059/en",
-  :title
-  "Hydrophobic noncovalent binding of proteins to support materials",
-  :status :granted,
-  :id "US4006059",
-  :sourcing :authoritative,
-  :filing-year 1974,
-  :assignee :purdue-research-foundation,
-  :grant-year 1977,
-  :cites ["US3909360"],
   :term-years 20,
   :open-license :none}]

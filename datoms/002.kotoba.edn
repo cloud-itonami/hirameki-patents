@@ -1,4 +1,49 @@
-[[":db/add" "hirameki-patent:SE417431B" ":hirameki/derived" true]
+[[":db/add"
+  "hirameki-patent:SE320155B"
+  ":hirameki/sourcing"
+  ":authoritative"]
+ [":db/add" "hirameki-patent:SE320155B" ":hirameki/derived" true]
+ [":db/add"
+  "hirameki-patent:SE320155B"
+  ":hirameki.obs/years-to-expiry"
+  -37]
+ [":db/add"
+  "hirameki-patent:SE320155B"
+  ":hirameki/source"
+  "https://patents.google.com/patent/SE320155B/en"]
+ [":db/add"
+  "hirameki-patent:SE417431B"
+  ":hirameki.patent/title"
+  "DEXTRANDER RIVEL FOR ELECTROPHORETIC SEPARATION"]
+ [":db/add"
+  "hirameki-patent:SE417431B"
+  ":hirameki.patent/jurisdiction"
+  ":se"]
+ [":db/add"
+  "hirameki-patent:SE417431B"
+  ":hirameki.patent/field"
+  "UNKNOWN"]
+ [":db/add"
+  "hirameki-patent:SE417431B"
+  ":hirameki.patent/assignee"
+  ":pharmacia-fine-chemicals"]
+ [":db/add"
+  "hirameki-patent:SE417431B"
+  ":hirameki.patent/status"
+  ":pending"]
+ [":db/add"
+  "hirameki-patent:SE417431B"
+  ":hirameki.patent/open-license"
+  ":none"]
+ [":db/add"
+  "hirameki-patent:SE417431B"
+  ":hirameki.obs/release-status"
+  ":pending"]
+ [":db/add"
+  "hirameki-patent:SE417431B"
+  ":hirameki/sourcing"
+  ":authoritative"]
+ [":db/add" "hirameki-patent:SE417431B" ":hirameki/derived" true]
  [":db/add"
   "hirameki-patent:SE417431B"
   ":hirameki.obs/years-to-expiry"
@@ -10364,49 +10409,4 @@
  [":db/add"
   "hirameki-patent:US2259910"
   ":hirameki.patent/assignee"
-  ":bendix-aviation"]
- [":db/add"
-  "hirameki-patent:US2259910"
-  ":hirameki.patent/status"
-  ":granted"]
- [":db/add"
-  "hirameki-patent:US2259910"
-  ":hirameki.patent/open-license"
-  ":none"]
- [":db/add"
-  "hirameki-patent:US2259910"
-  ":hirameki.obs/release-status"
-  ":public-domain"]
- [":db/add"
-  "hirameki-patent:US2259910"
-  ":hirameki/sourcing"
-  ":authoritative"]
- [":db/add" "hirameki-patent:US2259910" ":hirameki/derived" true]
- [":db/add"
-  "hirameki-patent:US2259910"
-  ":hirameki.obs/years-to-expiry"
-  -68]
- [":db/add"
-  "hirameki-patent:US2259910"
-  ":hirameki/source"
-  "https://patents.google.com/patent/US2259910/en"]
- [":db/add"
-  "hirameki-patent:US2260749"
-  ":hirameki.patent/title"
-  "Mineral composition"]
- [":db/add"
-  "hirameki-patent:US2260749"
-  ":hirameki.patent/jurisdiction"
-  ":us"]
- [":db/add"
-  "hirameki-patent:US2260749"
-  ":hirameki.patent/field"
-  "UNKNOWN"]
- [":db/add"
-  "hirameki-patent:US2260749"
-  ":hirameki.patent/assignee"
-  ":dominion-minerals"]
- [":db/add"
-  "hirameki-patent:US2260749"
-  ":hirameki.patent/status"
-  ":granted"]]
+  ":bendix-aviation"]]

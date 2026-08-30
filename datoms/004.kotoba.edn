@@ -1,4 +1,49 @@
 [[":db/add"
+  "hirameki-patent:US2597625"
+  ":hirameki.obs/years-to-expiry"
+  -56]
+ [":db/add"
+  "hirameki-patent:US2597625"
+  ":hirameki/source"
+  "https://patents.google.com/patent/US2597625/en"]
+ [":db/add"
+  "hirameki-patent:US2597741"
+  ":hirameki.patent/title"
+  "Electrical-conductive rubbery composition and method of making same"]
+ [":db/add"
+  "hirameki-patent:US2597741"
+  ":hirameki.patent/jurisdiction"
+  ":us"]
+ [":db/add"
+  "hirameki-patent:US2597741"
+  ":hirameki.patent/field"
+  "UNKNOWN"]
+ [":db/add"
+  "hirameki-patent:US2597741"
+  ":hirameki.patent/assignee"
+  ":bf-goodrich"]
+ [":db/add"
+  "hirameki-patent:US2597741"
+  ":hirameki.patent/status"
+  ":granted"]
+ [":db/add"
+  "hirameki-patent:US2597741"
+  ":hirameki.patent/open-license"
+  ":none"]
+ [":db/add"
+  "hirameki-patent:US2597741"
+  ":hirameki.obs/release-status"
+  ":public-domain"]
+ [":db/add"
+  "hirameki-patent:US2597741"
+  ":hirameki/sourcing"
+  ":authoritative"]
+ [":db/add" "hirameki-patent:US2597741" ":hirameki/derived" true]
+ [":db/add"
+  "hirameki-patent:US2597741"
+  ":hirameki.obs/years-to-expiry"
+  -56]
+ [":db/add"
   "hirameki-patent:US2597741"
   ":hirameki/source"
   "https://patents.google.com/patent/US2597741/en"]
@@ -10259,46 +10304,4 @@
  [":db/add"
   "hirameki-patent:US2910385"
   ":hirameki/sourcing"
-  ":authoritative"]
- [":db/add" "hirameki-patent:US2910385" ":hirameki/derived" true]
- [":db/add"
-  "hirameki-patent:US2910385"
-  ":hirameki.obs/years-to-expiry"
-  -51]
- [":db/add"
-  "hirameki-patent:US2910385"
-  ":hirameki/source"
-  "https://patents.google.com/patent/US2910385/en"]
- [":db/add"
-  "hirameki-patent:US2911048"
-  ":hirameki.patent/title"
-  "Apparatus for working over and servicing wells"]
- [":db/add"
-  "hirameki-patent:US2911048"
-  ":hirameki.patent/jurisdiction"
-  ":us"]
- [":db/add"
-  "hirameki-patent:US2911048"
-  ":hirameki.patent/field"
-  "UNKNOWN"]
- [":db/add"
-  "hirameki-patent:US2911048"
-  ":hirameki.patent/assignee"
-  ":jersey-production-research"]
- [":db/add"
-  "hirameki-patent:US2911048"
-  ":hirameki.patent/status"
-  ":granted"]
- [":db/add"
-  "hirameki-patent:US2911048"
-  ":hirameki.patent/open-license"
-  ":none"]
- [":db/add"
-  "hirameki-patent:US2911048"
-  ":hirameki.obs/release-status"
-  ":public-domain"]
- [":db/add"
-  "hirameki-patent:US2911048"
-  ":hirameki/sourcing"
-  ":authoritative"]
- [":db/add" "hirameki-patent:US2911048" ":hirameki/derived" true]]
+  ":authoritative"]]

@@ -1,4 +1,49 @@
 [[":db/add"
+  "hirameki-patent:US2259910"
+  ":hirameki.patent/status"
+  ":granted"]
+ [":db/add"
+  "hirameki-patent:US2259910"
+  ":hirameki.patent/open-license"
+  ":none"]
+ [":db/add"
+  "hirameki-patent:US2259910"
+  ":hirameki.obs/release-status"
+  ":public-domain"]
+ [":db/add"
+  "hirameki-patent:US2259910"
+  ":hirameki/sourcing"
+  ":authoritative"]
+ [":db/add" "hirameki-patent:US2259910" ":hirameki/derived" true]
+ [":db/add"
+  "hirameki-patent:US2259910"
+  ":hirameki.obs/years-to-expiry"
+  -68]
+ [":db/add"
+  "hirameki-patent:US2259910"
+  ":hirameki/source"
+  "https://patents.google.com/patent/US2259910/en"]
+ [":db/add"
+  "hirameki-patent:US2260749"
+  ":hirameki.patent/title"
+  "Mineral composition"]
+ [":db/add"
+  "hirameki-patent:US2260749"
+  ":hirameki.patent/jurisdiction"
+  ":us"]
+ [":db/add"
+  "hirameki-patent:US2260749"
+  ":hirameki.patent/field"
+  "UNKNOWN"]
+ [":db/add"
+  "hirameki-patent:US2260749"
+  ":hirameki.patent/assignee"
+  ":dominion-minerals"]
+ [":db/add"
+  "hirameki-patent:US2260749"
+  ":hirameki.patent/status"
+  ":granted"]
+ [":db/add"
   "hirameki-patent:US2260749"
   ":hirameki.patent/open-license"
   ":none"]
@@ -10368,49 +10413,4 @@
   "hirameki-patent:US2597625"
   ":hirameki/sourcing"
   ":authoritative"]
- [":db/add" "hirameki-patent:US2597625" ":hirameki/derived" true]
- [":db/add"
-  "hirameki-patent:US2597625"
-  ":hirameki.obs/years-to-expiry"
-  -56]
- [":db/add"
-  "hirameki-patent:US2597625"
-  ":hirameki/source"
-  "https://patents.google.com/patent/US2597625/en"]
- [":db/add"
-  "hirameki-patent:US2597741"
-  ":hirameki.patent/title"
-  "Electrical-conductive rubbery composition and method of making same"]
- [":db/add"
-  "hirameki-patent:US2597741"
-  ":hirameki.patent/jurisdiction"
-  ":us"]
- [":db/add"
-  "hirameki-patent:US2597741"
-  ":hirameki.patent/field"
-  "UNKNOWN"]
- [":db/add"
-  "hirameki-patent:US2597741"
-  ":hirameki.patent/assignee"
-  ":bf-goodrich"]
- [":db/add"
-  "hirameki-patent:US2597741"
-  ":hirameki.patent/status"
-  ":granted"]
- [":db/add"
-  "hirameki-patent:US2597741"
-  ":hirameki.patent/open-license"
-  ":none"]
- [":db/add"
-  "hirameki-patent:US2597741"
-  ":hirameki.obs/release-status"
-  ":public-domain"]
- [":db/add"
-  "hirameki-patent:US2597741"
-  ":hirameki/sourcing"
-  ":authoritative"]
- [":db/add" "hirameki-patent:US2597741" ":hirameki/derived" true]
- [":db/add"
-  "hirameki-patent:US2597741"
-  ":hirameki.obs/years-to-expiry"
-  -56]]
+ [":db/add" "hirameki-patent:US2597625" ":hirameki/derived" true]]

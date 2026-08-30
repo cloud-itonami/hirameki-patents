@@ -1,4 +1,49 @@
-[[":db/add" "hirameki-patent:US3434467" ":hirameki/derived" true]
+[[":db/add"
+  "hirameki-patent:US343387"
+  ":hirameki.obs/release-status"
+  ":in-force"]
+ [":db/add"
+  "hirameki-patent:US343387"
+  ":hirameki/sourcing"
+  ":authoritative"]
+ [":db/add" "hirameki-patent:US343387" ":hirameki/derived" true]
+ [":db/add"
+  "hirameki-patent:US343387"
+  ":hirameki/source"
+  "https://patents.google.com/patent/US343387/en"]
+ [":db/add"
+  "hirameki-patent:US3434467"
+  ":hirameki.patent/title"
+  "Implantable radiation assembly for circulating systems"]
+ [":db/add"
+  "hirameki-patent:US3434467"
+  ":hirameki.patent/jurisdiction"
+  ":us"]
+ [":db/add"
+  "hirameki-patent:US3434467"
+  ":hirameki.patent/field"
+  "UNKNOWN"]
+ [":db/add"
+  "hirameki-patent:US3434467"
+  ":hirameki.patent/assignee"
+  ":united-states-department-of-the-air-force"]
+ [":db/add"
+  "hirameki-patent:US3434467"
+  ":hirameki.patent/status"
+  ":granted"]
+ [":db/add"
+  "hirameki-patent:US3434467"
+  ":hirameki.patent/open-license"
+  ":none"]
+ [":db/add"
+  "hirameki-patent:US3434467"
+  ":hirameki.obs/release-status"
+  ":public-domain"]
+ [":db/add"
+  "hirameki-patent:US3434467"
+  ":hirameki/sourcing"
+  ":authoritative"]
+ [":db/add" "hirameki-patent:US3434467" ":hirameki/derived" true]
  [":db/add"
   "hirameki-patent:US3434467"
   ":hirameki.obs/years-to-expiry"
@@ -7388,6 +7433,47 @@
   ":hirameki/source"
   "https://patents.google.com/patent/US3619110/en"]
  [":db/add"
+  "hirameki-patent:US3619371"
+  ":hirameki.patent/title"
+  "Production of a polymeric matrix having a biologically active substance bound thereto"]
+ [":db/add"
+  "hirameki-patent:US3619371"
+  ":hirameki.patent/jurisdiction"
+  ":us"]
+ [":db/add"
+  "hirameki-patent:US3619371"
+  ":hirameki.patent/field"
+  "UNKNOWN"]
+ [":db/add"
+  "hirameki-patent:US3619371"
+  ":hirameki.patent/assignee"
+  ":nat-res-dev"]
+ [":db/add"
+  "hirameki-patent:US3619371"
+  ":hirameki.patent/status"
+  ":granted"]
+ [":db/add"
+  "hirameki-patent:US3619371"
+  ":hirameki.patent/open-license"
+  ":none"]
+ [":db/add"
+  "hirameki-patent:US3619371"
+  ":hirameki.obs/release-status"
+  ":public-domain"]
+ [":db/add"
+  "hirameki-patent:US3619371"
+  ":hirameki/sourcing"
+  ":authoritative"]
+ [":db/add" "hirameki-patent:US3619371" ":hirameki/derived" true]
+ [":db/add"
+  "hirameki-patent:US3619371"
+  ":hirameki.obs/years-to-expiry"
+  -38]
+ [":db/add"
+  "hirameki-patent:US3619371"
+  ":hirameki/source"
+  "https://patents.google.com/patent/US3619371/en"]
+ [":db/add"
   "hirameki-patent:US3619393"
   ":hirameki.patent/title"
   "Process for the preparation of shelf-stable, photocurable polythiols"]
@@ -8207,6 +8293,47 @@
   "hirameki-patent:US3639163"
   ":hirameki/source"
   "https://patents.google.com/patent/US3639163/en"]
+ [":db/add"
+  "hirameki-patent:US3639213"
+  ":hirameki.patent/title"
+  "Streptokinase chemically bonded to a carbohydrate matrix"]
+ [":db/add"
+  "hirameki-patent:US3639213"
+  ":hirameki.patent/jurisdiction"
+  ":us"]
+ [":db/add"
+  "hirameki-patent:US3639213"
+  ":hirameki.patent/field"
+  "UNKNOWN"]
+ [":db/add"
+  "hirameki-patent:US3639213"
+  ":hirameki.patent/assignee"
+  ":baxter-laboratories"]
+ [":db/add"
+  "hirameki-patent:US3639213"
+  ":hirameki.patent/status"
+  ":granted"]
+ [":db/add"
+  "hirameki-patent:US3639213"
+  ":hirameki.patent/open-license"
+  ":none"]
+ [":db/add"
+  "hirameki-patent:US3639213"
+  ":hirameki.obs/release-status"
+  ":public-domain"]
+ [":db/add"
+  "hirameki-patent:US3639213"
+  ":hirameki/sourcing"
+  ":authoritative"]
+ [":db/add" "hirameki-patent:US3639213" ":hirameki/derived" true]
+ [":db/add"
+  "hirameki-patent:US3639213"
+  ":hirameki.obs/years-to-expiry"
+  -37]
+ [":db/add"
+  "hirameki-patent:US3639213"
+  ":hirameki/source"
+  "https://patents.google.com/patent/US3639213/en"]
  [":db/add"
   "hirameki-patent:US3639558"
   ":hirameki.patent/title"
@@ -10082,128 +10209,5 @@
   ":public-domain"]
  [":db/add"
   "hirameki-patent:US3676184"
-  ":hirameki/sourcing"
-  ":authoritative"]
- [":db/add" "hirameki-patent:US3676184" ":hirameki/derived" true]
- [":db/add"
-  "hirameki-patent:US3676184"
-  ":hirameki.obs/years-to-expiry"
-  -37]
- [":db/add"
-  "hirameki-patent:US3676184"
-  ":hirameki/source"
-  "https://patents.google.com/patent/US3676184/en"]
- [":db/add"
-  "hirameki-patent:US3676383"
-  ":hirameki.patent/title"
-  "Non-aqueous electrophoretic compositions comprising liquid nitroalkanes as a solvent"]
- [":db/add"
-  "hirameki-patent:US3676383"
-  ":hirameki.patent/jurisdiction"
-  ":us"]
- [":db/add"
-  "hirameki-patent:US3676383"
-  ":hirameki.patent/field"
-  "UNKNOWN"]
- [":db/add"
-  "hirameki-patent:US3676383"
-  ":hirameki.patent/assignee"
-  ":westinghouse-electric"]
- [":db/add"
-  "hirameki-patent:US3676383"
-  ":hirameki.patent/status"
-  ":granted"]
- [":db/add"
-  "hirameki-patent:US3676383"
-  ":hirameki.patent/open-license"
-  ":none"]
- [":db/add"
-  "hirameki-patent:US3676383"
-  ":hirameki.obs/release-status"
-  ":public-domain"]
- [":db/add"
-  "hirameki-patent:US3676383"
-  ":hirameki/sourcing"
-  ":authoritative"]
- [":db/add" "hirameki-patent:US3676383" ":hirameki/derived" true]
- [":db/add"
-  "hirameki-patent:US3676383"
-  ":hirameki.obs/years-to-expiry"
-  -37]
- [":db/add"
-  "hirameki-patent:US3676383"
-  ":hirameki/source"
-  "https://patents.google.com/patent/US3676383/en"]
- [":db/add"
-  "hirameki-patent:US3676820"
-  ":hirameki.patent/title"
-  "Gas detecting element and method of manufacturing same"]
- [":db/add"
-  "hirameki-patent:US3676820"
-  ":hirameki.patent/jurisdiction"
-  ":us"]
- [":db/add"
-  "hirameki-patent:US3676820"
-  ":hirameki.patent/field"
-  "UNKNOWN"]
- [":db/add"
-  "hirameki-patent:US3676820"
-  ":hirameki.patent/assignee"
-  ":unassigned"]
- [":db/add"
-  "hirameki-patent:US3676820"
-  ":hirameki.patent/status"
-  ":granted"]
- [":db/add"
-  "hirameki-patent:US3676820"
-  ":hirameki.patent/open-license"
-  ":none"]
- [":db/add"
-  "hirameki-patent:US3676820"
-  ":hirameki.obs/release-status"
-  ":public-domain"]
- [":db/add"
-  "hirameki-patent:US3676820"
-  ":hirameki/sourcing"
-  ":authoritative"]
- [":db/add" "hirameki-patent:US3676820" ":hirameki/derived" true]
- [":db/add"
-  "hirameki-patent:US3676820"
-  ":hirameki.obs/years-to-expiry"
-  -36]
- [":db/add"
-  "hirameki-patent:US3676820"
-  ":hirameki/source"
-  "https://patents.google.com/patent/US3676820/en"]
- [":db/add"
-  "hirameki-patent:US3679312"
-  ":hirameki.patent/title"
-  "Method and apparatus for measuring bioluminescence or chemiluminescence for quantitative analysis of samples"]
- [":db/add"
-  "hirameki-patent:US3679312"
-  ":hirameki.patent/jurisdiction"
-  ":us"]
- [":db/add"
-  "hirameki-patent:US3679312"
-  ":hirameki.patent/field"
-  "UNKNOWN"]
- [":db/add"
-  "hirameki-patent:US3679312"
-  ":hirameki.patent/assignee"
-  ":technicon-instruments"]
- [":db/add"
-  "hirameki-patent:US3679312"
-  ":hirameki.patent/status"
-  ":granted"]
- [":db/add"
-  "hirameki-patent:US3679312"
-  ":hirameki.patent/open-license"
-  ":none"]
- [":db/add"
-  "hirameki-patent:US3679312"
-  ":hirameki.obs/release-status"
-  ":public-domain"]
- [":db/add"
-  "hirameki-patent:US3679312"
   ":hirameki/sourcing"
   ":authoritative"]]
