@@ -1,4 +1,89 @@
-[{:assignees [:standard-brands],
+[{:jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2913386/en",
+  :title "Electrochemical device for chemical analysis",
+  :status :granted,
+  :id "US2913386",
+  :sourcing :authoritative,
+  :filing-year 1956,
+  :assignee :unassigned,
+  :grant-year 1959,
+  :cites
+  ["US2278248"
+   "US2415067"
+   "US2624701"
+   "US2651612"
+   "US2732335"
+   "US2745803"
+   "US2745804"
+   "US2760922"
+   "US2787903"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:bf-goodrich],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2913444/en",
+  :title
+  "Process for polymerizing conjugated diolefins using a mixture of metallic lithium and alkyl lithium as the catalyst",
+  :status :granted,
+  :id "US2913444",
+  :sourcing :authoritative,
+  :filing-year 1956,
+  :assignee :bf-goodrich,
+  :grant-year 1959,
+  :cites ["US1058056" "US2377779" "US2506857" "US2699457"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:american-viscose],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2916864/en",
+  :title "Packaging apparatus",
+  :status :granted,
+  :id "US2916864",
+  :sourcing :authoritative,
+  :filing-year 1957,
+  :assignee :american-viscose,
+  :grant-year 1959,
+  :cites ["US2146308" "US2146831" "US2693067" "US2761264" "US2828591"],
+  :term-years 20,
+  :open-license :none}
+ {:jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2918033/en",
+  :title "Pipe leakage detector",
+  :status :granted,
+  :id "US2918033",
+  :sourcing :authoritative,
+  :filing-year 1957,
+  :assignee :unassigned,
+  :grant-year 1959,
+  :cites ["US2133609" "US2490933" "US2708896" "US2782749"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:american-cyanamid],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2918452/en",
+  :title
+  "Process for the manufacture of methylol melamines and alkylated methylol melamines",
+  :status :granted,
+  :id "US2918452",
+  :sourcing :authoritative,
+  :filing-year 1956,
+  :assignee :american-cyanamid,
+  :grant-year 1959,
+  :cites
+  ["US2331446"
+   "US2486665"
+   "US2645625"
+   "US2715619"
+   "US2781332"
+   "US2804441"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:standard-brands],
   :jurisdiction :us,
   :field "UNKNOWN",
   :source "https://patents.google.com/patent/US2919194/en",
@@ -5598,6 +5683,28 @@
    "US95061"],
   :term-years 20,
   :open-license :none}
+ {:assignees [:wr-grace-and],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3225766/en",
+  :title
+  "Method of making absorbable surgical sutures from poly beta hydroxy acids",
+  :status :granted,
+  :id "US3225766",
+  :sourcing :authoritative,
+  :filing-year 1962,
+  :assignee :wr-grace-and,
+  :grant-year 1965,
+  :cites
+  ["US2072302"
+   "US2127903"
+   "US2428918"
+   "US2487885"
+   "US3021310"
+   "US3036959"
+   "US3044942"],
+  :term-years 20,
+  :open-license :none}
  {:assignees [:organo-cerams],
   :jurisdiction :us,
   :field "UNKNOWN",
@@ -6758,6 +6865,26 @@
    "US2991412"
    "US3060374"
    "US819355"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:american-cyanamid],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3297033/en",
+  :title "Surgical sutures",
+  :status :granted,
+  :id "US3297033",
+  :sourcing :authoritative,
+  :filing-year 1963,
+  :assignee :american-cyanamid,
+  :grant-year 1967,
+  :cites
+  ["US2615450"
+   "US2676945"
+   "US2764159"
+   "US2870906"
+   "US2909177"
+   "US3044942"],
   :term-years 20,
   :open-license :none}
  {:jurisdiction :us,
@@ -8647,6 +8774,21 @@
   :cites ["US2676874" "US3021257"],
   :term-years 20,
   :open-license :none}
+ {:assignees [:american-cyanamid],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3435008/en",
+  :title
+  "Method for preparation of isomerically pure beta-glycolide and polymerization method for glycolide compositions employing partial hydrolyzate of said beta-glycolide",
+  :status :granted,
+  :id "US3435008",
+  :sourcing :authoritative,
+  :filing-year 1967,
+  :assignee :american-cyanamid,
+  :grant-year 1969,
+  :cites ["US2585427" "US2668162" "US2676945" "US3297033"],
+  :term-years 20,
+  :open-license :none}
  {:assignees [:lkb-produkter],
   :jurisdiction :us,
   :field "UNKNOWN",
@@ -9505,155 +9647,5 @@
   :assignee :scott-paper,
   :grant-year 1970,
   :cites ["US2565491" "US2869722" "US2913355" "US3230289" "US3335017"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:logetronics],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3493764/en",
-  :title "Automatic focusing apparatus using a diffusing element",
-  :status :granted,
-  :id "US3493764",
-  :sourcing :authoritative,
-  :filing-year 1967,
-  :assignee :logetronics,
-  :grant-year 1970,
-  :cites
-  ["US1794222"
-   "US2286471"
-   "US2818775"
-   "US2831057"
-   "US3035176"
-   "US3041459"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:palo-alto-medical-research-foundation],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3493772/en",
-  :title "Bacterial counting machine and method",
-  :status :granted,
-  :id "US3493772",
-  :sourcing :authoritative,
-  :filing-year 1967,
-  :assignee :palo-alto-medical-research-foundation,
-  :grant-year 1970,
-  :cites
-  ["GB1030742A" "US3206606" "US3233506" "US3349227" "US3415997"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:beckman-instruments],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3497302/en",
-  :title "Ratio recording spectrophotometer",
-  :status :granted,
-  :id "US3497302",
-  :sourcing :authoritative,
-  :filing-year 1966,
-  :assignee :beckman-instruments,
-  :grant-year 1970,
-  :cites ["US3207996" "US3352156" "US3381135"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:xerox],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3497320/en",
-  :title "Automated chemical analyzer",
-  :status :granted,
-  :id "US3497320",
-  :sourcing :authoritative,
-  :filing-year 1966,
-  :assignee :xerox,
-  :grant-year 1970,
-  :cites ["US2487236" "US3028000" "US3064802" "US3344914" "US3476515"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:bausch-and-lomb],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3497690/en",
-  :title
-  "Method and apparatus for classifying biological cells by measuring the size and fluorescent response thereof",
-  :status :granted,
-  :id "US3497690",
-  :sourcing :authoritative,
-  :filing-year 1967,
-  :assignee :bausch-and-lomb,
-  :grant-year 1970,
-  :cites
-  ["US3092722"
-   "US3306156"
-   "US3316896"
-   "US3327117"
-   "US3327119"
-   "US3364358"
-   "US3413464"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:kollsman-instrument],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3497696/en",
-  :title
-  "Star tracker assembly using mangin mirror and field scanning device",
-  :status :granted,
-  :id "US3497696",
-  :sourcing :authoritative,
-  :filing-year 1966,
-  :assignee :kollsman-instrument,
-  :grant-year 1970,
-  :cites ["US2997598" "US3206608" "US3326621"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:pfizer],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3501379/en",
-  :title "Apparatus for preparation of microbiological culture media",
-  :status :granted,
-  :id "US3501379",
-  :sourcing :authoritative,
-  :filing-year 1967,
-  :assignee :pfizer,
-  :grant-year 1970,
-  :cites ["US2689818" "US3139343"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:shell-oil],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3501389/en",
-  :title "Irradiated olefin oxide polymers",
-  :status :granted,
-  :id "US3501389",
-  :sourcing :authoritative,
-  :filing-year 1963,
-  :assignee :shell-oil,
-  :grant-year 1970,
-  :cites ["FR1258138A" "US3004961" "US3135705" "US3135706"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:international-business-machines],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3501623/en",
-  :title "High speed skip and search",
-  :status :granted,
-  :id "US3501623",
-  :sourcing :authoritative,
-  :filing-year 1967,
-  :assignee :international-business-machines,
-  :grant-year 1970,
-  :cites
-  ["US2904777"
-   "US3025740"
-   "US3208041"
-   "US3240872"
-   "US3273123"
-   "US3322961"
-   "US3328788"
-   "US3440630"],
   :term-years 20,
   :open-license :none}]

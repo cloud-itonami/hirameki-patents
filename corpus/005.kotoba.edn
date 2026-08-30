@@ -1,4 +1,342 @@
-[{:assignees [:umass-memorial-medical-center],
+[{:assignees [:california-institute-of-technology],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US4795700/en",
+  :title "Nucleic acid probes and methods of using same",
+  :status :granted,
+  :id "US4795700",
+  :sourcing :authoritative,
+  :filing-year 1985,
+  :assignee :california-institute-of-technology,
+  :grant-year 1989,
+  :cites ["US4358535" "US4563417" "US4599303" "US4665184"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:cetus],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US4800159/en",
+  :title
+  "Process for amplifying, detecting, and/or cloning nucleic acid sequences",
+  :status :granted,
+  :id "US4800159",
+  :sourcing :authoritative,
+  :filing-year 1986,
+  :assignee :cetus,
+  :grant-year 1989,
+  :cites ["US4237224" "US4683195" "US4683202"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:nippon-paint],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US4812335/en",
+  :title "Method of painting",
+  :status :granted,
+  :id "US4812335",
+  :sourcing :authoritative,
+  :filing-year 1987,
+  :assignee :nippon-paint,
+  :grant-year 1989,
+  :cites ["US4391858" "US4403003" "US4490417"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:basf-lacke-und-farben],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US4818356/en",
+  :title
+  "Process for multicoat cathodic wet-on-wet painting of metallic conductive substrates",
+  :status :granted,
+  :id "US4818356",
+  :sourcing :authoritative,
+  :filing-year 1985,
+  :assignee :basf-lacke-und-farben,
+  :grant-year 1989,
+  :cites
+  ["EP0102566A1"
+   "GB1309356A"
+   "US4175018"
+   "US4259163"
+   "US4310398"
+   "US4375498"
+   "US4404332"
+   "US4430462"
+   "US4456507"
+   "US4500399"
+   "US4536558"
+   "US4557976"
+   "US4595717"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:tufts-university],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US4822746/en",
+  :title
+  "Radiative and non-radiative energy transfer and absorbance modulated fluorescence detection methods and sensors",
+  :status :granted,
+  :id "US4822746",
+  :sourcing :authoritative,
+  :filing-year 1986,
+  :assignee :tufts-university,
+  :grant-year 1989,
+  :cites ["US4144452" "US4495293"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:life-technologies],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US4849332/en",
+  :title
+  "Human papillomavirus 35 nucleic acid hybridization probes and methods for employing the same",
+  :status :granted,
+  :id "US4849332",
+  :sourcing :authoritative,
+  :filing-year 1987,
+  :assignee :life-technologies,
+  :grant-year 1989,
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:life-technologies],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US4849334/en",
+  :title
+  "Human papillomavirus 43 nucleic acid hybridization probes and methods for employing the same",
+  :status :granted,
+  :id "US4849334",
+  :sourcing :authoritative,
+  :filing-year 1987,
+  :assignee :life-technologies,
+  :grant-year 1989,
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:applied-biosystems],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US4855225/en",
+  :title
+  "Method of detecting electrophoretically separated oligonucleotides",
+  :status :granted,
+  :id "US4855225",
+  :sourcing :authoritative,
+  :filing-year 1986,
+  :assignee :applied-biosystems,
+  :grant-year 1989,
+  :cites
+  ["DE3501306A1"
+   "GB2153356A"
+   "GB2155176A"
+   "US4318846"
+   "US4415732"
+   "US4458066"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:hoechst-celanese],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US4857601/en",
+  :title
+  "Selective hydrolysis of copolymers of para-acetoxy styrene and dialkyl muconates or alkyl sorbates",
+  :status :granted,
+  :id "US4857601",
+  :sourcing :authoritative,
+  :filing-year 1987,
+  :assignee :hoechst-celanese,
+  :grant-year 1989,
+  :cites ["US4689371" "US4775730"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:new-york-medical-college],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US4863849/en",
+  :title "Automatable process for sequencing nucleotide",
+  :status :granted,
+  :id "US4863849",
+  :sourcing :authoritative,
+  :filing-year 1985,
+  :assignee :new-york-medical-college,
+  :grant-year 1989,
+  :cites ["US4072574"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:fuji-photo-film],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US4865967/en",
+  :title "Autoradiographic gene-screening method",
+  :status :granted,
+  :id "US4865967",
+  :sourcing :authoritative,
+  :filing-year 1987,
+  :assignee :fuji-photo-film,
+  :grant-year 1989,
+  :cites
+  ["EP0056638A1" "US4239968" "US4297587" "US4302671" "US4389670"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:salk-institute-for-biological-studies],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US4865968/en",
+  :title "DNA sequencing",
+  :status :granted,
+  :id "US4865968",
+  :sourcing :authoritative,
+  :filing-year 1985,
+  :assignee :salk-institute-for-biological-studies,
+  :grant-year 1989,
+  :cites ["EP0115777A2"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:syntex-usa],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US4868104/en",
+  :title "Homogeneous assay for specific polynucleotides",
+  :status :granted,
+  :id "US4868104",
+  :sourcing :authoritative,
+  :filing-year 1985,
+  :assignee :syntex-usa,
+  :grant-year 1989,
+  :cites
+  ["EP0070685A2"
+   "EP0079139A1"
+   "EP0130515A2"
+   "EP0139489A2"
+   "EP0153873A2"
+   "EP0154505A2"
+   "US4193983"
+   "US4313734"
+   "US4522922"
+   "US4563417"
+   "US4563419"
+   "US4623627"
+   "US4749647"
+   "US4751177"
+   "WO1985002628A1"
+   "WO1986003227A1"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:sherwin-williams],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US4871806/en",
+  :title
+  "Reactive coatings comprising an acid-functional compound, an anhydride-functional compound, an epoxy-functional compound and a hydroxy-functional compound",
+  :status :granted,
+  :id "US4871806",
+  :sourcing :authoritative,
+  :filing-year 1987,
+  :assignee :sherwin-williams,
+  :grant-year 1989,
+  :cites
+  ["EP0123793A1"
+   "EP0134691A2"
+   "GB1583316A"
+   "GB994907A"
+   "US2712535"
+   "US2884408"
+   "US2890194"
+   "US2890210"
+   "US3027279"
+   "US3215756"
+   "US3218274"
+   "US3242142"
+   "US3247144"
+   "US3247283"
+   "US3280077"
+   "US3427255"
+   "US3523143"
+   "US3557035"
+   "US3624180"
+   "US3639345"
+   "US3897514"
+   "US3925507"
+   "US3932367"
+   "US3953644"
+   "US3954712"
+   "US3975314"
+   "US3978026"
+   "US3979477"
+   "US4046727"
+   "US4069275"
+   "US4076674"
+   "US4086293"
+   "US4086294"
+   "US4156700"
+   "US4176143"
+   "US4226755"
+   "US4261871"
+   "US4294939"
+   "US4322325"
+   "US4327200"
+   "US4346144"
+   "US4391965"
+   "US4403091"
+   "US4403093"
+   "US4415697"
+   "US4418182"
+   "US4452948"
+   "US4465815"
+   "US4471025"
+   "US4507411"
+   "US4511682"
+   "US4535148"
+   "US4548963"
+   "US4620994"
+   "US4650718"
+   "US4681811"
+   "US4703101"
+   "US4732790"
+   "US4732791"
+   "US4798745"
+   "US4798746"
+   "WO1984000770A1"
+   "WO1984000771A1"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:applied-biosystems],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US4883750/en",
+  :title "Detection of specific sequences in nucleic acids",
+  :status :granted,
+  :id "US4883750",
+  :sourcing :authoritative,
+  :filing-year 1984,
+  :assignee :applied-biosystems,
+  :grant-year 1989,
+  :cites
+  ["EP0070685A2"
+   "EP0154505A2"
+   "US4358535"
+   "US4395486"
+   "US4486539"
+   "US4563419"
+   "US4710465"
+   "WO1985004902A1"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:microprobe],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US4886741/en",
+  :title
+  "Use of volume exclusion agents for the enhancement of in situ hybridization",
+  :status :granted,
+  :id "US4886741",
+  :sourcing :authoritative,
+  :filing-year 1987,
+  :assignee :microprobe,
+  :grant-year 1989,
+  :cites ["EP0098373A2" "WO1986005816A1"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:umass-memorial-medical-center],
   :jurisdiction :us,
   :field "UNKNOWN",
   :source "https://patents.google.com/patent/US4888278/en",

@@ -1,4 +1,317 @@
-[{:assignees [:syva],
+[{:assignees [:baxter-laboratories],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3980772/en",
+  :title
+  "Methods of dissolving blood clots and the like with streptokinase chemically bonded to a carbohydrate matrix",
+  :status :granted,
+  :id "US3980772",
+  :sourcing :authoritative,
+  :filing-year 1971,
+  :assignee :baxter-laboratories,
+  :grant-year 1976,
+  :cites ["DE1815332A1" "US3226304"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:abbott-laboratories],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3981982/en",
+  :title
+  "Radioimmunoassay for determining the digoxin content of a sample",
+  :status :granted,
+  :id "US3981982",
+  :sourcing :authoritative,
+  :filing-year 1974,
+  :assignee :abbott-laboratories,
+  :grant-year 1976,
+  :cites ["CH459997A"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:purdue-research-foundation],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3983299/en",
+  :title "Bonded carbohydrate stationary phases for chromatography",
+  :status :granted,
+  :id "US3983299",
+  :sourcing :authoritative,
+  :filing-year 1974,
+  :assignee :purdue-research-foundation,
+  :grant-year 1976,
+  :cites
+  ["US2446119"
+   "US2787518"
+   "US2950985"
+   "US2953478"
+   "US3481771"
+   "US3673150"
+   "US3677938"
+   "US3722181"
+   "US3808125"
+   "US3840464"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:formica],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3983307/en",
+  :title "Thin, tough, stable laminate",
+  :status :granted,
+  :id "US3983307",
+  :sourcing :authoritative,
+  :filing-year 1975,
+  :assignee :formica,
+  :grant-year 1976,
+  :cites ["US2918452" "US3220916" "US3589974"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:biophysics-systems],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3984307/en",
+  :title "Combined particle sorter and segregation indicator",
+  :status :granted,
+  :id "US3984307",
+  :sourcing :authoritative,
+  :filing-year 1974,
+  :assignee :biophysics-systems,
+  :grant-year 1976,
+  :cites
+  ["US2333791"
+   "US2656508"
+   "US3269419"
+   "US3362421"
+   "US3426879"
+   "US3508654"
+   "US3508655"
+   "US3560754"
+   "US3710933"
+   "US3743090"
+   "US3827555"],
+  :term-years 20,
+  :open-license :none}
+ {:jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3985649/en",
+  :title "Ferromagnetic separation process and material",
+  :status :granted,
+  :id "US3985649",
+  :sourcing :authoritative,
+  :filing-year 1974,
+  :assignee :unassigned,
+  :grant-year 1976,
+  :cites
+  ["US3219318"
+   "US3428179"
+   "US3487939"
+   "US3712472"
+   "US3793886"
+   "US3869251"
+   "US3892908"],
+  :term-years 20,
+  :open-license :none}
+ {:jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3985690/en",
+  :title "Enzyme separation",
+  :status :granted,
+  :id "US3985690",
+  :sourcing :authoritative,
+  :filing-year 1974,
+  :assignee :unassigned,
+  :grant-year 1976,
+  :cites ["DE1959169A1"],
+  :term-years 20,
+  :open-license :none}
+ {:jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3988115/en",
+  :title
+  "Diagnostic method for determining pathological condition by antigen-combining capacity of lymphocytes",
+  :status :granted,
+  :id "US3988115",
+  :sourcing :authoritative,
+  :filing-year 1975,
+  :assignee :unassigned,
+  :grant-year 1976,
+  :cites ["US3654090" "US3816263" "US3843324" "US3900558"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:american-cyanamid],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3991766/en",
+  :title
+  "Controlled release of medicaments using polymers from glycolic acid",
+  :status :granted,
+  :id "US3991766",
+  :sourcing :authoritative,
+  :filing-year 1975,
+  :assignee :american-cyanamid,
+  :grant-year 1976,
+  :cites ["US3297033" "US3773919" "US3887699"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:istituto-farmacologico-serono-spa],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3992514/en",
+  :title
+  "Radioimmunoassay method for human chorionic gonadotropin in the presence of luteinizing hormone",
+  :status :granted,
+  :id "US3992514",
+  :sourcing :authoritative,
+  :filing-year 1974,
+  :assignee :istituto-farmacologico-serono-spa,
+  :grant-year 1976,
+  :term-years 20,
+  :open-license :none}
+ {:jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3992516/en",
+  :title
+  "Direct fluorescent antibody composition and method for P. Pneumocystis carinii",
+  :status :granted,
+  :id "US3992516",
+  :sourcing :authoritative,
+  :filing-year 1974,
+  :assignee :unassigned,
+  :grant-year 1976,
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:international-diagnostic-technologies],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3992631/en",
+  :title "Fluorometric system, method and test article",
+  :status :granted,
+  :id "US3992631",
+  :sourcing :authoritative,
+  :filing-year 1975,
+  :assignee :international-diagnostic-technologies,
+  :grant-year 1976,
+  :cites
+  ["US3074853"
+   "US3449488"
+   "US3449571"
+   "US3473027"
+   "US3666421"
+   "US3770383"
+   "US3806256"
+   "US3826619"
+   "US3831137"
+   "US3916205"
+   "US3918812"
+   "US3941876"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:miles-laboratories],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3993451/en",
+  :title "Test for a given constituent in a liquid",
+  :status :granted,
+  :id "US3993451",
+  :sourcing :authoritative,
+  :filing-year 1974,
+  :assignee :miles-laboratories,
+  :grant-year 1976,
+  :cites
+  ["US2249867"
+   "US2785057"
+   "US2918893"
+   "US3002385"
+   "US3018611"
+   "US3092465"
+   "US3311084"
+   "US3552925"
+   "US3847553"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:community-blood-concil-of-greater-new-york],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3994870/en",
+  :title "Purification of hepatitis B surface antigen",
+  :status :granted,
+  :id "US3994870",
+  :sourcing :authoritative,
+  :filing-year 1974,
+  :assignee :community-blood-concil-of-greater-new-york,
+  :grant-year 1976,
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:pharmacia],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3995018/en",
+  :title
+  "Method of binding immunoglobulin employing a polypeptide from microorganisms",
+  :status :granted,
+  :id "US3995018",
+  :sourcing :authoritative,
+  :filing-year 1973,
+  :assignee :pharmacia,
+  :grant-year 1976,
+  :cites ["US3555143" "US3788948" "US3790663" "US3850798"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:baxter-travenol-laboratories],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3995019/en",
+  :title "Diagnostic reagent system",
+  :status :granted,
+  :id "US3995019",
+  :sourcing :authoritative,
+  :filing-year 1975,
+  :assignee :baxter-travenol-laboratories,
+  :grant-year 1976,
+  :cites ["US3415804" "US3862302"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:syva],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3996345/en",
+  :title
+  "Fluorescence quenching with immunological pairs in immunoassays",
+  :status :granted,
+  :id "US3996345",
+  :sourcing :authoritative,
+  :filing-year 1975,
+  :assignee :syva,
+  :grant-year 1976,
+  :cites ["US3901654" "US3935074"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:inmont],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3998716/en",
+  :title "Method of applying coatings",
+  :status :granted,
+  :id "US3998716",
+  :sourcing :authoritative,
+  :filing-year 1974,
+  :assignee :inmont,
+  :grant-year 1976,
+  :cites
+  ["US3290235"
+   "US3326848"
+   "US3340172"
+   "US3499852"
+   "US3532613"
+   "US3541274"
+   "US3575909"
+   "US3658763"
+   "US3663383"
+   "US3819586"
+   "US3822240"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:syva],
   :jurisdiction :us,
   :field "UNKNOWN",
   :source "https://patents.google.com/patent/US3998943/en",
@@ -2139,6 +2452,32 @@
    "US3851972"
    "US3902799"
    "US3928140"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:calgon],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US4118316/en",
+  :title
+  "Quaternized siliceous supports for gel permeation chromatography",
+  :status :granted,
+  :id "US4118316",
+  :sourcing :authoritative,
+  :filing-year 1976,
+  :assignee :calgon,
+  :grant-year 1978,
+  :cites
+  ["US3326875"
+   "US3514925"
+   "US3577266"
+   "US3666530"
+   "US3722181"
+   "US3962206"
+   "US3983299"
+   "US3993443"
+   "US4029583"
+   "US4039463"
+   "US4488922"],
   :term-years 20,
   :open-license :none}
  {:assignees [:rhone-poulenc-industries],
@@ -9260,343 +9599,5 @@
    "US4663283"
    "US4663290"
    "US4670379"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:california-institute-of-technology],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US4795700/en",
-  :title "Nucleic acid probes and methods of using same",
-  :status :granted,
-  :id "US4795700",
-  :sourcing :authoritative,
-  :filing-year 1985,
-  :assignee :california-institute-of-technology,
-  :grant-year 1989,
-  :cites ["US4358535" "US4563417" "US4599303" "US4665184"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:cetus],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US4800159/en",
-  :title
-  "Process for amplifying, detecting, and/or cloning nucleic acid sequences",
-  :status :granted,
-  :id "US4800159",
-  :sourcing :authoritative,
-  :filing-year 1986,
-  :assignee :cetus,
-  :grant-year 1989,
-  :cites ["US4237224" "US4683195" "US4683202"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:nippon-paint],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US4812335/en",
-  :title "Method of painting",
-  :status :granted,
-  :id "US4812335",
-  :sourcing :authoritative,
-  :filing-year 1987,
-  :assignee :nippon-paint,
-  :grant-year 1989,
-  :cites ["US4391858" "US4403003" "US4490417"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:basf-lacke-und-farben],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US4818356/en",
-  :title
-  "Process for multicoat cathodic wet-on-wet painting of metallic conductive substrates",
-  :status :granted,
-  :id "US4818356",
-  :sourcing :authoritative,
-  :filing-year 1985,
-  :assignee :basf-lacke-und-farben,
-  :grant-year 1989,
-  :cites
-  ["EP0102566A1"
-   "GB1309356A"
-   "US4175018"
-   "US4259163"
-   "US4310398"
-   "US4375498"
-   "US4404332"
-   "US4430462"
-   "US4456507"
-   "US4500399"
-   "US4536558"
-   "US4557976"
-   "US4595717"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:tufts-university],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US4822746/en",
-  :title
-  "Radiative and non-radiative energy transfer and absorbance modulated fluorescence detection methods and sensors",
-  :status :granted,
-  :id "US4822746",
-  :sourcing :authoritative,
-  :filing-year 1986,
-  :assignee :tufts-university,
-  :grant-year 1989,
-  :cites ["US4144452" "US4495293"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:life-technologies],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US4849332/en",
-  :title
-  "Human papillomavirus 35 nucleic acid hybridization probes and methods for employing the same",
-  :status :granted,
-  :id "US4849332",
-  :sourcing :authoritative,
-  :filing-year 1987,
-  :assignee :life-technologies,
-  :grant-year 1989,
-  :term-years 20,
-  :open-license :none}
- {:assignees [:life-technologies],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US4849334/en",
-  :title
-  "Human papillomavirus 43 nucleic acid hybridization probes and methods for employing the same",
-  :status :granted,
-  :id "US4849334",
-  :sourcing :authoritative,
-  :filing-year 1987,
-  :assignee :life-technologies,
-  :grant-year 1989,
-  :term-years 20,
-  :open-license :none}
- {:assignees [:applied-biosystems],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US4855225/en",
-  :title
-  "Method of detecting electrophoretically separated oligonucleotides",
-  :status :granted,
-  :id "US4855225",
-  :sourcing :authoritative,
-  :filing-year 1986,
-  :assignee :applied-biosystems,
-  :grant-year 1989,
-  :cites
-  ["DE3501306A1"
-   "GB2153356A"
-   "GB2155176A"
-   "US4318846"
-   "US4415732"
-   "US4458066"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:hoechst-celanese],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US4857601/en",
-  :title
-  "Selective hydrolysis of copolymers of para-acetoxy styrene and dialkyl muconates or alkyl sorbates",
-  :status :granted,
-  :id "US4857601",
-  :sourcing :authoritative,
-  :filing-year 1987,
-  :assignee :hoechst-celanese,
-  :grant-year 1989,
-  :cites ["US4689371" "US4775730"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:new-york-medical-college],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US4863849/en",
-  :title "Automatable process for sequencing nucleotide",
-  :status :granted,
-  :id "US4863849",
-  :sourcing :authoritative,
-  :filing-year 1985,
-  :assignee :new-york-medical-college,
-  :grant-year 1989,
-  :cites ["US4072574"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:fuji-photo-film],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US4865967/en",
-  :title "Autoradiographic gene-screening method",
-  :status :granted,
-  :id "US4865967",
-  :sourcing :authoritative,
-  :filing-year 1987,
-  :assignee :fuji-photo-film,
-  :grant-year 1989,
-  :cites
-  ["EP0056638A1" "US4239968" "US4297587" "US4302671" "US4389670"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:salk-institute-for-biological-studies],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US4865968/en",
-  :title "DNA sequencing",
-  :status :granted,
-  :id "US4865968",
-  :sourcing :authoritative,
-  :filing-year 1985,
-  :assignee :salk-institute-for-biological-studies,
-  :grant-year 1989,
-  :cites ["EP0115777A2"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:syntex-usa],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US4868104/en",
-  :title "Homogeneous assay for specific polynucleotides",
-  :status :granted,
-  :id "US4868104",
-  :sourcing :authoritative,
-  :filing-year 1985,
-  :assignee :syntex-usa,
-  :grant-year 1989,
-  :cites
-  ["EP0070685A2"
-   "EP0079139A1"
-   "EP0130515A2"
-   "EP0139489A2"
-   "EP0153873A2"
-   "EP0154505A2"
-   "US4193983"
-   "US4313734"
-   "US4522922"
-   "US4563417"
-   "US4563419"
-   "US4623627"
-   "US4749647"
-   "US4751177"
-   "WO1985002628A1"
-   "WO1986003227A1"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:sherwin-williams],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US4871806/en",
-  :title
-  "Reactive coatings comprising an acid-functional compound, an anhydride-functional compound, an epoxy-functional compound and a hydroxy-functional compound",
-  :status :granted,
-  :id "US4871806",
-  :sourcing :authoritative,
-  :filing-year 1987,
-  :assignee :sherwin-williams,
-  :grant-year 1989,
-  :cites
-  ["EP0123793A1"
-   "EP0134691A2"
-   "GB1583316A"
-   "GB994907A"
-   "US2712535"
-   "US2884408"
-   "US2890194"
-   "US2890210"
-   "US3027279"
-   "US3215756"
-   "US3218274"
-   "US3242142"
-   "US3247144"
-   "US3247283"
-   "US3280077"
-   "US3427255"
-   "US3523143"
-   "US3557035"
-   "US3624180"
-   "US3639345"
-   "US3897514"
-   "US3925507"
-   "US3932367"
-   "US3953644"
-   "US3954712"
-   "US3975314"
-   "US3978026"
-   "US3979477"
-   "US4046727"
-   "US4069275"
-   "US4076674"
-   "US4086293"
-   "US4086294"
-   "US4156700"
-   "US4176143"
-   "US4226755"
-   "US4261871"
-   "US4294939"
-   "US4322325"
-   "US4327200"
-   "US4346144"
-   "US4391965"
-   "US4403091"
-   "US4403093"
-   "US4415697"
-   "US4418182"
-   "US4452948"
-   "US4465815"
-   "US4471025"
-   "US4507411"
-   "US4511682"
-   "US4535148"
-   "US4548963"
-   "US4620994"
-   "US4650718"
-   "US4681811"
-   "US4703101"
-   "US4732790"
-   "US4732791"
-   "US4798745"
-   "US4798746"
-   "WO1984000770A1"
-   "WO1984000771A1"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:applied-biosystems],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US4883750/en",
-  :title "Detection of specific sequences in nucleic acids",
-  :status :granted,
-  :id "US4883750",
-  :sourcing :authoritative,
-  :filing-year 1984,
-  :assignee :applied-biosystems,
-  :grant-year 1989,
-  :cites
-  ["EP0070685A2"
-   "EP0154505A2"
-   "US4358535"
-   "US4395486"
-   "US4486539"
-   "US4563419"
-   "US4710465"
-   "WO1985004902A1"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:microprobe],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US4886741/en",
-  :title
-  "Use of volume exclusion agents for the enhancement of in situ hybridization",
-  :status :granted,
-  :id "US4886741",
-  :sourcing :authoritative,
-  :filing-year 1987,
-  :assignee :microprobe,
-  :grant-year 1989,
-  :cites ["EP0098373A2" "WO1986005816A1"],
   :term-years 20,
   :open-license :none}]

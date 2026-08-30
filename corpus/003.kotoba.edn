@@ -1,4 +1,168 @@
-[{:assignees [:haematronics],
+[{:assignees [:logetronics],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3493764/en",
+  :title "Automatic focusing apparatus using a diffusing element",
+  :status :granted,
+  :id "US3493764",
+  :sourcing :authoritative,
+  :filing-year 1967,
+  :assignee :logetronics,
+  :grant-year 1970,
+  :cites
+  ["US1794222"
+   "US2286471"
+   "US2818775"
+   "US2831057"
+   "US3035176"
+   "US3041459"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:palo-alto-medical-research-foundation],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3493772/en",
+  :title "Bacterial counting machine and method",
+  :status :granted,
+  :id "US3493772",
+  :sourcing :authoritative,
+  :filing-year 1967,
+  :assignee :palo-alto-medical-research-foundation,
+  :grant-year 1970,
+  :cites
+  ["GB1030742A" "US3206606" "US3233506" "US3349227" "US3415997"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:beckman-instruments],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3497302/en",
+  :title "Ratio recording spectrophotometer",
+  :status :granted,
+  :id "US3497302",
+  :sourcing :authoritative,
+  :filing-year 1966,
+  :assignee :beckman-instruments,
+  :grant-year 1970,
+  :cites ["US3207996" "US3352156" "US3381135"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:xerox],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3497320/en",
+  :title "Automated chemical analyzer",
+  :status :granted,
+  :id "US3497320",
+  :sourcing :authoritative,
+  :filing-year 1966,
+  :assignee :xerox,
+  :grant-year 1970,
+  :cites ["US2487236" "US3028000" "US3064802" "US3344914" "US3476515"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:bausch-and-lomb],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3497690/en",
+  :title
+  "Method and apparatus for classifying biological cells by measuring the size and fluorescent response thereof",
+  :status :granted,
+  :id "US3497690",
+  :sourcing :authoritative,
+  :filing-year 1967,
+  :assignee :bausch-and-lomb,
+  :grant-year 1970,
+  :cites
+  ["US3092722"
+   "US3306156"
+   "US3316896"
+   "US3327117"
+   "US3327119"
+   "US3364358"
+   "US3413464"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:kollsman-instrument],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3497696/en",
+  :title
+  "Star tracker assembly using mangin mirror and field scanning device",
+  :status :granted,
+  :id "US3497696",
+  :sourcing :authoritative,
+  :filing-year 1966,
+  :assignee :kollsman-instrument,
+  :grant-year 1970,
+  :cites ["US2997598" "US3206608" "US3326621"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:phytogen-products],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3499445/en",
+  :title "Animal husbandry",
+  :status :granted,
+  :id "US3499445",
+  :sourcing :authoritative,
+  :filing-year 1966,
+  :assignee :phytogen-products,
+  :grant-year 1970,
+  :cites ["CA562095A" "US2541447" "US2895875" "US2987445" "US3279996"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:pfizer],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3501379/en",
+  :title "Apparatus for preparation of microbiological culture media",
+  :status :granted,
+  :id "US3501379",
+  :sourcing :authoritative,
+  :filing-year 1967,
+  :assignee :pfizer,
+  :grant-year 1970,
+  :cites ["US2689818" "US3139343"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:shell-oil],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3501389/en",
+  :title "Irradiated olefin oxide polymers",
+  :status :granted,
+  :id "US3501389",
+  :sourcing :authoritative,
+  :filing-year 1963,
+  :assignee :shell-oil,
+  :grant-year 1970,
+  :cites ["FR1258138A" "US3004961" "US3135705" "US3135706"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:international-business-machines],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3501623/en",
+  :title "High speed skip and search",
+  :status :granted,
+  :id "US3501623",
+  :sourcing :authoritative,
+  :filing-year 1967,
+  :assignee :international-business-machines,
+  :grant-year 1970,
+  :cites
+  ["US2904777"
+   "US3025740"
+   "US3208041"
+   "US3240872"
+   "US3273123"
+   "US3322961"
+   "US3328788"
+   "US3440630"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:haematronics],
   :jurisdiction :us,
   :field "UNKNOWN",
   :source "https://patents.google.com/patent/US3502437/en",
@@ -789,6 +953,19 @@
   :cites ["CA659059A" "US3296113" "US3328277"],
   :term-years 20,
   :open-license :none}
+ {:assignees [:upjohn],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3545439/en",
+  :title "Medicated devices and methods",
+  :status :granted,
+  :id "US3545439",
+  :sourcing :authoritative,
+  :filing-year 1968,
+  :assignee :upjohn,
+  :grant-year 1970,
+  :term-years 20,
+  :open-license :none}
  {:assignees [:bayer],
   :jurisdiction :us,
   :field "UNKNOWN",
@@ -1062,6 +1239,20 @@
   :sourcing :authoritative,
   :filing-year 1967,
   :assignee :organon,
+  :grant-year 1971,
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:gd-searle],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3565991/en",
+  :title
+  "Methods for use and compositions of 17alpha-ethyl-19-nortestosterone and carriers for the sustained release of steroids",
+  :status :granted,
+  :id "US3565991",
+  :sourcing :authoritative,
+  :filing-year 1968,
+  :assignee :gd-searle,
   :grant-year 1971,
   :term-years 20,
   :open-license :none}
@@ -1746,6 +1937,19 @@
    "US3502888"],
   :term-years 20,
   :open-license :none}
+ {:assignees [:national-patent-development],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3618213/en",
+  :title "Denture liners",
+  :status :granted,
+  :id "US3618213",
+  :sourcing :authoritative,
+  :filing-year 1970,
+  :assignee :national-patent-development,
+  :grant-year 1971,
+  :term-years 20,
+  :open-license :none}
  {:jurisdiction :us,
   :field "UNKNOWN",
   :source "https://patents.google.com/patent/US3619073/en",
@@ -1917,6 +2121,20 @@
   :cites ["US3054898" "US3270647" "US3273124"],
   :term-years 20,
   :open-license :none}
+ {:assignees [:alza],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3625214/en",
+  :title "Drug-delivery device",
+  :status :granted,
+  :id "US3625214",
+  :sourcing :authoritative,
+  :filing-year 1970,
+  :assignee :alza,
+  :grant-year 1971,
+  :cites ["US2099402" "US2928770" "US3184386" "US3416530"],
+  :term-years 20,
+  :open-license :none}
  {:assignees [:sybron],
   :jurisdiction :us,
   :field "UNKNOWN",
@@ -1972,6 +2190,26 @@
   :filing-year 1969,
   :assignee :dow-chemical,
   :grant-year 1971,
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:alza],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3630200/en",
+  :title "Ocular insert",
+  :status :granted,
+  :id "US3630200",
+  :sourcing :authoritative,
+  :filing-year 1969,
+  :assignee :alza,
+  :grant-year 1971,
+  :cites
+  ["US3006338"
+   "US3220960"
+   "US3301257"
+   "US3416530"
+   "US3490454"
+   "US3520949"],
   :term-years 20,
   :open-license :none}
  {:jurisdiction :us,
@@ -2042,6 +2280,20 @@
   :filing-year 1969,
   :assignee :eastman-kodak,
   :grant-year 1972,
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:ethicon],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3636956/en",
+  :title "Polylactide sutures",
+  :status :granted,
+  :id "US3636956",
+  :sourcing :authoritative,
+  :filing-year 1970,
+  :assignee :ethicon,
+  :grant-year 1972,
+  :cites ["GB779291A" "US2668162" "US2703316" "US3225766" "US3297033"],
   :term-years 20,
   :open-license :none}
  {:assignees [:teeg-research],
@@ -2182,6 +2434,19 @@
   :sourcing :authoritative,
   :filing-year 1968,
   :assignee :miles-laboratories,
+  :grant-year 1972,
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:national-patent-development],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3641237/en",
+  :title "Zero order release constant elution rate drug dosage",
+  :status :granted,
+  :id "US3641237",
+  :sourcing :authoritative,
+  :filing-year 1970,
+  :assignee :national-patent-development,
   :grant-year 1972,
   :term-years 20,
   :open-license :none}
@@ -5093,6 +5358,20 @@
   :cites ["US2656508" "US2985830" "US3299354"],
   :term-years 20,
   :open-license :none}
+ {:assignees [:american-cyanamid],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3810458/en",
+  :title "Minimizing tissue reaction to glove powder",
+  :status :granted,
+  :id "US3810458",
+  :sourcing :authoritative,
+  :filing-year 1973,
+  :assignee :american-cyanamid,
+  :grant-year 1974,
+  :cites ["US3297033" "US3468853" "US3728739"],
+  :term-years 20,
+  :open-license :none}
  {:assignees [:rhone-poulenc],
   :jurisdiction :us,
   :field "UNKNOWN",
@@ -5104,6 +5383,32 @@
   :filing-year 1973,
   :assignee :rhone-poulenc,
   :grant-year 1974,
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:alza],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3811444/en",
+  :title "Bioerodible ocular device",
+  :status :granted,
+  :id "US3811444",
+  :sourcing :authoritative,
+  :filing-year 1972,
+  :assignee :alza,
+  :grant-year 1974,
+  :cites
+  ["US27401"
+   "US2935449"
+   "US3143472"
+   "US3279996"
+   "US3551556"
+   "US3608063"
+   "US3618604"
+   "US3629392"
+   "US3630200"
+   "US3674902"
+   "US3710795"
+   "US3737521"],
   :term-years 20,
   :open-license :none}
  {:assignees [:research],
@@ -8840,318 +9145,5 @@
   :assignee :curtis-nuclear,
   :grant-year 1976,
   :cites ["US2957808" "US3410839"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:baxter-laboratories],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3980772/en",
-  :title
-  "Methods of dissolving blood clots and the like with streptokinase chemically bonded to a carbohydrate matrix",
-  :status :granted,
-  :id "US3980772",
-  :sourcing :authoritative,
-  :filing-year 1971,
-  :assignee :baxter-laboratories,
-  :grant-year 1976,
-  :cites ["DE1815332A1" "US3226304"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:abbott-laboratories],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3981982/en",
-  :title
-  "Radioimmunoassay for determining the digoxin content of a sample",
-  :status :granted,
-  :id "US3981982",
-  :sourcing :authoritative,
-  :filing-year 1974,
-  :assignee :abbott-laboratories,
-  :grant-year 1976,
-  :cites ["CH459997A"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:purdue-research-foundation],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3983299/en",
-  :title "Bonded carbohydrate stationary phases for chromatography",
-  :status :granted,
-  :id "US3983299",
-  :sourcing :authoritative,
-  :filing-year 1974,
-  :assignee :purdue-research-foundation,
-  :grant-year 1976,
-  :cites
-  ["US2446119"
-   "US2787518"
-   "US2950985"
-   "US2953478"
-   "US3481771"
-   "US3673150"
-   "US3677938"
-   "US3722181"
-   "US3808125"
-   "US3840464"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:formica],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3983307/en",
-  :title "Thin, tough, stable laminate",
-  :status :granted,
-  :id "US3983307",
-  :sourcing :authoritative,
-  :filing-year 1975,
-  :assignee :formica,
-  :grant-year 1976,
-  :cites ["US2918452" "US3220916" "US3589974"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:biophysics-systems],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3984307/en",
-  :title "Combined particle sorter and segregation indicator",
-  :status :granted,
-  :id "US3984307",
-  :sourcing :authoritative,
-  :filing-year 1974,
-  :assignee :biophysics-systems,
-  :grant-year 1976,
-  :cites
-  ["US2333791"
-   "US2656508"
-   "US3269419"
-   "US3362421"
-   "US3426879"
-   "US3508654"
-   "US3508655"
-   "US3560754"
-   "US3710933"
-   "US3743090"
-   "US3827555"],
-  :term-years 20,
-  :open-license :none}
- {:jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3985649/en",
-  :title "Ferromagnetic separation process and material",
-  :status :granted,
-  :id "US3985649",
-  :sourcing :authoritative,
-  :filing-year 1974,
-  :assignee :unassigned,
-  :grant-year 1976,
-  :cites
-  ["US3219318"
-   "US3428179"
-   "US3487939"
-   "US3712472"
-   "US3793886"
-   "US3869251"
-   "US3892908"],
-  :term-years 20,
-  :open-license :none}
- {:jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3985690/en",
-  :title "Enzyme separation",
-  :status :granted,
-  :id "US3985690",
-  :sourcing :authoritative,
-  :filing-year 1974,
-  :assignee :unassigned,
-  :grant-year 1976,
-  :cites ["DE1959169A1"],
-  :term-years 20,
-  :open-license :none}
- {:jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3988115/en",
-  :title
-  "Diagnostic method for determining pathological condition by antigen-combining capacity of lymphocytes",
-  :status :granted,
-  :id "US3988115",
-  :sourcing :authoritative,
-  :filing-year 1975,
-  :assignee :unassigned,
-  :grant-year 1976,
-  :cites ["US3654090" "US3816263" "US3843324" "US3900558"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:american-cyanamid],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3991766/en",
-  :title
-  "Controlled release of medicaments using polymers from glycolic acid",
-  :status :granted,
-  :id "US3991766",
-  :sourcing :authoritative,
-  :filing-year 1975,
-  :assignee :american-cyanamid,
-  :grant-year 1976,
-  :cites ["US3297033" "US3773919" "US3887699"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:istituto-farmacologico-serono-spa],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3992514/en",
-  :title
-  "Radioimmunoassay method for human chorionic gonadotropin in the presence of luteinizing hormone",
-  :status :granted,
-  :id "US3992514",
-  :sourcing :authoritative,
-  :filing-year 1974,
-  :assignee :istituto-farmacologico-serono-spa,
-  :grant-year 1976,
-  :term-years 20,
-  :open-license :none}
- {:jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3992516/en",
-  :title
-  "Direct fluorescent antibody composition and method for P. Pneumocystis carinii",
-  :status :granted,
-  :id "US3992516",
-  :sourcing :authoritative,
-  :filing-year 1974,
-  :assignee :unassigned,
-  :grant-year 1976,
-  :term-years 20,
-  :open-license :none}
- {:assignees [:international-diagnostic-technologies],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3992631/en",
-  :title "Fluorometric system, method and test article",
-  :status :granted,
-  :id "US3992631",
-  :sourcing :authoritative,
-  :filing-year 1975,
-  :assignee :international-diagnostic-technologies,
-  :grant-year 1976,
-  :cites
-  ["US3074853"
-   "US3449488"
-   "US3449571"
-   "US3473027"
-   "US3666421"
-   "US3770383"
-   "US3806256"
-   "US3826619"
-   "US3831137"
-   "US3916205"
-   "US3918812"
-   "US3941876"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:miles-laboratories],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3993451/en",
-  :title "Test for a given constituent in a liquid",
-  :status :granted,
-  :id "US3993451",
-  :sourcing :authoritative,
-  :filing-year 1974,
-  :assignee :miles-laboratories,
-  :grant-year 1976,
-  :cites
-  ["US2249867"
-   "US2785057"
-   "US2918893"
-   "US3002385"
-   "US3018611"
-   "US3092465"
-   "US3311084"
-   "US3552925"
-   "US3847553"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:community-blood-concil-of-greater-new-york],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3994870/en",
-  :title "Purification of hepatitis B surface antigen",
-  :status :granted,
-  :id "US3994870",
-  :sourcing :authoritative,
-  :filing-year 1974,
-  :assignee :community-blood-concil-of-greater-new-york,
-  :grant-year 1976,
-  :term-years 20,
-  :open-license :none}
- {:assignees [:pharmacia],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3995018/en",
-  :title
-  "Method of binding immunoglobulin employing a polypeptide from microorganisms",
-  :status :granted,
-  :id "US3995018",
-  :sourcing :authoritative,
-  :filing-year 1973,
-  :assignee :pharmacia,
-  :grant-year 1976,
-  :cites ["US3555143" "US3788948" "US3790663" "US3850798"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:baxter-travenol-laboratories],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3995019/en",
-  :title "Diagnostic reagent system",
-  :status :granted,
-  :id "US3995019",
-  :sourcing :authoritative,
-  :filing-year 1975,
-  :assignee :baxter-travenol-laboratories,
-  :grant-year 1976,
-  :cites ["US3415804" "US3862302"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:syva],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3996345/en",
-  :title
-  "Fluorescence quenching with immunological pairs in immunoassays",
-  :status :granted,
-  :id "US3996345",
-  :sourcing :authoritative,
-  :filing-year 1975,
-  :assignee :syva,
-  :grant-year 1976,
-  :cites ["US3901654" "US3935074"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:inmont],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3998716/en",
-  :title "Method of applying coatings",
-  :status :granted,
-  :id "US3998716",
-  :sourcing :authoritative,
-  :filing-year 1974,
-  :assignee :inmont,
-  :grant-year 1976,
-  :cites
-  ["US3290235"
-   "US3326848"
-   "US3340172"
-   "US3499852"
-   "US3532613"
-   "US3541274"
-   "US3575909"
-   "US3658763"
-   "US3663383"
-   "US3819586"
-   "US3822240"],
   :term-years 20,
   :open-license :none}]
