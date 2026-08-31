@@ -8244,6 +8244,44 @@
   "hirameki-patent:FR2083067A5"
   ":hirameki/source"
   "https://patents.google.com/patent/FR2083067A5/en"]
+ [":db/add" "hirameki-patent:FR2103683A5" ":hirameki.patent/title" ""]
+ [":db/add"
+  "hirameki-patent:FR2103683A5"
+  ":hirameki.patent/jurisdiction"
+  ":fr"]
+ [":db/add"
+  "hirameki-patent:FR2103683A5"
+  ":hirameki.patent/field"
+  "UNKNOWN"]
+ [":db/add"
+  "hirameki-patent:FR2103683A5"
+  ":hirameki.patent/assignee"
+  ":unassigned"]
+ [":db/add"
+  "hirameki-patent:FR2103683A5"
+  ":hirameki.patent/status"
+  ":granted"]
+ [":db/add"
+  "hirameki-patent:FR2103683A5"
+  ":hirameki.patent/open-license"
+  ":none"]
+ [":db/add"
+  "hirameki-patent:FR2103683A5"
+  ":hirameki.obs/release-status"
+  ":public-domain"]
+ [":db/add"
+  "hirameki-patent:FR2103683A5"
+  ":hirameki/sourcing"
+  ":authoritative"]
+ [":db/add" "hirameki-patent:FR2103683A5" ":hirameki/derived" true]
+ [":db/add"
+  "hirameki-patent:FR2103683A5"
+  ":hirameki.obs/years-to-expiry"
+  -35]
+ [":db/add"
+  "hirameki-patent:FR2103683A5"
+  ":hirameki/source"
+  "https://patents.google.com/patent/FR2103683A5/en"]
  [":db/add" "hirameki-patent:FR2257259A1" ":hirameki.patent/title" ""]
  [":db/add"
   "hirameki-patent:FR2257259A1"
@@ -9893,41 +9931,4 @@
  [":db/add"
   "hirameki-patent:GB2023607A"
   ":hirameki.obs/years-to-expiry"
-  -27]
- [":db/add"
-  "hirameki-patent:GB2023607A"
-  ":hirameki/source"
-  "https://patents.google.com/patent/GB2023607A/en"]
- [":db/add"
-  "hirameki-patent:GB2026690A"
-  ":hirameki.patent/title"
-  "Chemiluminescent-labeled conjugates for use in specific binding assays"]
- [":db/add"
-  "hirameki-patent:GB2026690A"
-  ":hirameki.patent/jurisdiction"
-  ":gb"]
- [":db/add"
-  "hirameki-patent:GB2026690A"
-  ":hirameki.patent/field"
-  "UNKNOWN"]
- [":db/add"
-  "hirameki-patent:GB2026690A"
-  ":hirameki.patent/assignee"
-  ":miles-laboratories"]
- [":db/add"
-  "hirameki-patent:GB2026690A"
-  ":hirameki.patent/status"
-  ":pending"]
- [":db/add"
-  "hirameki-patent:GB2026690A"
-  ":hirameki.patent/open-license"
-  ":none"]
- [":db/add"
-  "hirameki-patent:GB2026690A"
-  ":hirameki.obs/release-status"
-  ":pending"]
- [":db/add"
-  "hirameki-patent:GB2026690A"
-  ":hirameki/sourcing"
-  ":authoritative"]
- [":db/add" "hirameki-patent:GB2026690A" ":hirameki/derived" true]]
+  -27]]

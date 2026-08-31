@@ -1,4 +1,47 @@
-[{:assignees [:rohm-and-haas],
+[{:assignees [:ei-du-pont-de-nemours-and],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2905645/en",
+  :title "Polymerization catalysts",
+  :status :granted,
+  :id "US2905645",
+  :sourcing :authoritative,
+  :filing-year 1954,
+  :assignee :ei-du-pont-de-nemours-and,
+  :grant-year 1959,
+  :cites ["US2355925" "US2475520"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:bayer],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2906715/en",
+  :title "Sulphonamides of organic polymers",
+  :status :granted,
+  :id "US2906715",
+  :sourcing :authoritative,
+  :filing-year 1955,
+  :assignee :bayer,
+  :grant-year 1959,
+  :cites ["US2366007" "US2618655" "US2725368" "US2759816" "US2778813"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:american-cyanamid],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2906724/en",
+  :title
+  "Composition containing polymethylol melamine and an ammonium salt of a copolymer of an unsaturated monocarboxylic acid and an alkyl ester of such an acid",
+  :status :granted,
+  :id "US2906724",
+  :sourcing :authoritative,
+  :filing-year 1957,
+  :assignee :american-cyanamid,
+  :grant-year 1959,
+  :cites ["US2469408" "US2653140"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:rohm-and-haas],
   :jurisdiction :us,
   :field "UNKNOWN",
   :source "https://patents.google.com/patent/US2906756/en",
@@ -4680,6 +4723,28 @@
   :cites ["US1559461" "US2571171" "US2740032" "US2857532" "US2937524"],
   :term-years 20,
   :open-license :none}
+ {:assignees [:beckman-instruments],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3164663/en",
+  :title "Probe for colorimetric measurement",
+  :status :granted,
+  :id "US3164663",
+  :sourcing :authoritative,
+  :filing-year 1960,
+  :assignee :beckman-instruments,
+  :grant-year 1965,
+  :cites
+  ["US1806199"
+   "US1877501"
+   "US2281545"
+   "US2324304"
+   "US2727997"
+   "US2892378"
+   "US2922891"
+   "US2964640"],
+  :term-years 20,
+  :open-license :none}
  {:jurisdiction :us,
   :field "UNKNOWN",
   :source "https://patents.google.com/patent/US3166186/en",
@@ -5117,6 +5182,21 @@
    "US3079287"
    "US3085033"
    "US3108915"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:koppers],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3183208/en",
+  :title
+  "Incorporating finely divided particles during suspension polymerization",
+  :status :granted,
+  :id "US3183208",
+  :sourcing :authoritative,
+  :filing-year 1961,
+  :assignee :koppers,
+  :grant-year 1965,
+  :cites ["US2489226" "US2512697" "US2751369" "US2848428" "US2986547"],
   :term-years 20,
   :open-license :none}
  {:assignees [:international-business-machines],
@@ -9551,102 +9631,5 @@
   :assignee :ralph-j-de-falco,
   :grant-year 1969,
   :cites ["US2418033" "US2608533" "US2659700"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:tecnifax],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3479183/en",
-  :title "Negative-working diazosulfonate reproduction process",
-  :status :granted,
-  :id "US3479183",
-  :sourcing :authoritative,
-  :filing-year 1965,
-  :assignee :tecnifax,
-  :grant-year 1969,
-  :cites
-  ["GB865680A"
-   "US1926322"
-   "US1934011"
-   "US1997507"
-   "US2500099"
-   "US2529029"
-   "US2541886"
-   "US2613149"
-   "US2741558"
-   "US2789904"
-   "US2854338"
-   "US2893866"
-   "US2980534"
-   "US3076707"
-   "US3103436"
-   "US3153592"
-   "US3309200"
-   "US3312551"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:beckman-instruments],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3479255/en",
-  :title "Electrochemical transducer",
-  :status :granted,
-  :id "US3479255",
-  :sourcing :authoritative,
-  :filing-year 1964,
-  :assignee :beckman-instruments,
-  :grant-year 1969,
-  :cites
-  ["US2755243"
-   "US2829090"
-   "US3075887"
-   "US3228799"
-   "US3296113"
-   "US3403081"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:general-electric],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3479257/en",
-  :title
-  "Methods and apparatus for measuring the content of hydrogen or reducing gases in an atmosphere",
-  :status :granted,
-  :id "US3479257",
-  :sourcing :authoritative,
-  :filing-year 1966,
-  :assignee :general-electric,
-  :grant-year 1969,
-  :cites
-  ["US1077920"
-   "US1968570"
-   "US1970804"
-   "US2305539"
-   "US2517382"
-   "US3038849"
-   "US3133872"
-   "US3377697"
-   "US3386894"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:miles-laboratories],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3480400/en",
-  :title "Placement device",
-  :status :granted,
-  :id "US3480400",
-  :sourcing :authoritative,
-  :filing-year 1966,
-  :assignee :miles-laboratories,
-  :grant-year 1969,
-  :cites
-  ["US2092938"
-   "US2422584"
-   "US2639050"
-   "US3151754"
-   "US3378347"
-   "US3378481"
-   "US3401087"],
   :term-years 20,
   :open-license :none}]

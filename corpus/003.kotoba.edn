@@ -1,4 +1,101 @@
-[{:assignees [:merck-and],
+[{:assignees [:tecnifax],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3479183/en",
+  :title "Negative-working diazosulfonate reproduction process",
+  :status :granted,
+  :id "US3479183",
+  :sourcing :authoritative,
+  :filing-year 1965,
+  :assignee :tecnifax,
+  :grant-year 1969,
+  :cites
+  ["GB865680A"
+   "US1926322"
+   "US1934011"
+   "US1997507"
+   "US2500099"
+   "US2529029"
+   "US2541886"
+   "US2613149"
+   "US2741558"
+   "US2789904"
+   "US2854338"
+   "US2893866"
+   "US2980534"
+   "US3076707"
+   "US3103436"
+   "US3153592"
+   "US3309200"
+   "US3312551"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:beckman-instruments],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3479255/en",
+  :title "Electrochemical transducer",
+  :status :granted,
+  :id "US3479255",
+  :sourcing :authoritative,
+  :filing-year 1964,
+  :assignee :beckman-instruments,
+  :grant-year 1969,
+  :cites
+  ["US2755243"
+   "US2829090"
+   "US3075887"
+   "US3228799"
+   "US3296113"
+   "US3403081"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:general-electric],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3479257/en",
+  :title
+  "Methods and apparatus for measuring the content of hydrogen or reducing gases in an atmosphere",
+  :status :granted,
+  :id "US3479257",
+  :sourcing :authoritative,
+  :filing-year 1966,
+  :assignee :general-electric,
+  :grant-year 1969,
+  :cites
+  ["US1077920"
+   "US1968570"
+   "US1970804"
+   "US2305539"
+   "US2517382"
+   "US3038849"
+   "US3133872"
+   "US3377697"
+   "US3386894"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:miles-laboratories],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3480400/en",
+  :title "Placement device",
+  :status :granted,
+  :id "US3480400",
+  :sourcing :authoritative,
+  :filing-year 1966,
+  :assignee :miles-laboratories,
+  :grant-year 1969,
+  :cites
+  ["US2092938"
+   "US2422584"
+   "US2639050"
+   "US3151754"
+   "US3378347"
+   "US3378481"
+   "US3401087"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:merck-and],
   :jurisdiction :us,
   :field "UNKNOWN",
   :source "https://patents.google.com/patent/US3480613/en",
@@ -624,6 +721,20 @@
   :assignee :abbott-laboratories,
   :grant-year 1970,
   :cites ["US3235426" "US3279996" "US3314743" "US3317339"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:us-atomic-energy-commission-aec],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3513704/en",
+  :title "Photometric thermometer and method of operation",
+  :status :granted,
+  :id "US3513704",
+  :sourcing :authoritative,
+  :filing-year 1969,
+  :assignee :us-atomic-energy-commission-aec,
+  :grant-year 1970,
+  :cites ["US2792484" "US2844033" "US2871758"],
   :term-years 20,
   :open-license :none}
  {:assignees [:shell-oil],
@@ -2291,6 +2402,21 @@
   :cites ["US2099402" "US2928770" "US3184386" "US3416530"],
   :term-years 20,
   :open-license :none}
+ {:assignees [:american-optical],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3625589/en",
+  :title
+  "Apparatus for controlling the propagation characteristics of coherent light within an optical fiber",
+  :status :granted,
+  :id "US3625589",
+  :sourcing :authoritative,
+  :filing-year 1969,
+  :assignee :american-optical,
+  :grant-year 1971,
+  :cites ["US1889852" "US3051003" "US3331651" "US3408131" "US3464762"],
+  :term-years 20,
+  :open-license :none}
  {:assignees [:sybron],
   :jurisdiction :us,
   :field "UNKNOWN",
@@ -3134,6 +3260,19 @@
   :assignee :f-hoffmann-la-roche,
   :grant-year 1972,
   :cites ["US3340156"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:monsanto],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3672221/en",
+  :title "Temperature sensor",
+  :status :granted,
+  :id "US3672221",
+  :sourcing :authoritative,
+  :filing-year 1969,
+  :assignee :monsanto,
+  :grant-year 1972,
   :term-years 20,
   :open-license :none}
  {:assignees [:miles-laboratories],
@@ -4865,6 +5004,28 @@
   :cites ["US3425977" "US3448089" "US3542587" "US3650978"],
   :term-years 20,
   :open-license :none}
+ {:assignees [:lewis-engineering],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3770965/en",
+  :title
+  "Photosensitive control apparatus with movable light control member",
+  :status :granted,
+  :id "US3770965",
+  :sourcing :authoritative,
+  :filing-year 1972,
+  :assignee :lewis-engineering,
+  :grant-year 1973,
+  :cites
+  ["US1880020"
+   "US2199071"
+   "US2216472"
+   "US2524807"
+   "US2753487"
+   "US3155830"
+   "US3651324"],
+  :term-years 20,
+  :open-license :none}
  {:assignees [:technicon-instruments],
   :jurisdiction :us,
   :field "UNKNOWN",
@@ -5017,6 +5178,42 @@
   :assignee :american-optical,
   :grant-year 1974,
   :cites ["US3348547" "US3463594"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:sci-systems],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3786681/en",
+  :title
+  "Electromagnetic wave modulation and measurement system and method",
+  :status :granted,
+  :id "US3786681",
+  :sourcing :authoritative,
+  :filing-year 1971,
+  :assignee :sci-systems,
+  :grant-year 1974,
+  :cites ["US3463924" "US3473031" "US3506362" "US3517560" "US3625589"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:caen-faculte-des-sciences-university-of],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3787119/en",
+  :title
+  "Catheterizable multiple photometer usable in any penetrable medium",
+  :status :granted,
+  :id "US3787119",
+  :sourcing :authoritative,
+  :filing-year 1972,
+  :assignee :caen-faculte-des-sciences-university-of,
+  :grant-year 1974,
+  :cites
+  ["FR1526973A"
+   "US3068742"
+   "US3123066"
+   "US3300385"
+   "US3437747"
+   "US3461856"],
   :term-years 20,
   :open-license :none}
  {:jurisdiction :us,
@@ -5607,6 +5804,20 @@
   :filing-year 1972,
   :assignee :general-electric,
   :grant-year 1974,
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:olympus-optical],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3814081/en",
+  :title "Optical measuring catheter",
+  :status :granted,
+  :id "US3814081",
+  :sourcing :authoritative,
+  :filing-year 1972,
+  :assignee :olympus-optical,
+  :grant-year 1974,
+  :cites ["US3273447" "US3335715" "US3417745" "US3461856" "US3690769"],
   :term-years 20,
   :open-license :none}
  {:assignees [:miles-laboratories],
@@ -6535,6 +6746,19 @@
   :assignee :allied-chemical,
   :grant-year 1975,
   :cites ["US2597741" "US3639163"],
+  :term-years 20,
+  :open-license :none}
+ {:jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3863067/en",
+  :title "Orientation indicating apparatus",
+  :status :granted,
+  :id "US3863067",
+  :sourcing :authoritative,
+  :filing-year 1973,
+  :assignee :unassigned,
+  :grant-year 1975,
+  :cites ["US2252727" "US2427902" "US3293513" "US3371424"],
   :term-years 20,
   :open-license :none}
  {:assignees [:corning-glass-works],
@@ -8218,6 +8442,28 @@
   :grant-year 1976,
   :term-years 20,
   :open-license :none}
+ {:assignees [:bell-telephone-laboratories],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3931518/en",
+  :title "Optical fiber power taps employing mode coupling means",
+  :status :granted,
+  :id "US3931518",
+  :sourcing :authoritative,
+  :filing-year 1974,
+  :assignee :bell-telephone-laboratories,
+  :grant-year 1976,
+  :cites
+  ["US3058021"
+   "US3274392"
+   "US3350654"
+   "US3412255"
+   "US3508589"
+   "US3773289"
+   "US3777149"
+   "US3801389"],
+  :term-years 20,
+  :open-license :none}
  {:assignees [:olympus-optical],
   :jurisdiction :us,
   :field "UNKNOWN",
@@ -8945,222 +9191,5 @@
    "US3485706"
    "US3720578"
    "US3834983"],
-  :term-years 20,
-  :open-license :none}
- {:jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3960827/en",
-  :title
-  "Cancer associated polypeptide antigen, process for its preparation, process for preparing antibodies, process of cancer diagnosis and composition useful as an immunizing agent",
-  :status :granted,
-  :id "US3960827",
-  :sourcing :authoritative,
-  :filing-year 1973,
-  :assignee :unassigned,
-  :grant-year 1976,
-  :cites ["US3823126"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:university-of-illinois-foundation],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3960840/en",
-  :title "Fluorescent derivatives of adenine-containing compounds",
-  :status :granted,
-  :id "US3960840",
-  :sourcing :authoritative,
-  :filing-year 1972,
-  :assignee :university-of-illinois-foundation,
-  :grant-year 1976,
-  :cites ["US3462416" "US3701772" "US3712885" "US3872098"],
-  :term-years 20,
-  :open-license :none}
- {:jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3960884/en",
-  :title "Method of preparing racemic biotin",
-  :status :granted,
-  :id "US3960884",
-  :sourcing :authoritative,
-  :filing-year 1974,
-  :assignee :unassigned,
-  :grant-year 1976,
-  :cites ["US2460225" "US2508457" "US2571238"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:maruzen-oil],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3963662/en",
-  :title "Polyion complex and process for preparation thereof",
-  :status :granted,
-  :id "US3963662",
-  :sourcing :authoritative,
-  :filing-year 1974,
-  :assignee :maruzen-oil,
-  :grant-year 1976,
-  :cites
-  ["US2636851"
-   "US3168486"
-   "US3335100"
-   "US3467604"
-   "US3558744"
-   "US3645922"
-   "US3839237"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:sigma-chemical],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3964865/en",
-  :title
-  "Lyophilized human hemoglobin standard for colorimetric determination of total hemoglobin",
-  :status :granted,
-  :id "US3964865",
-  :sourcing :authoritative,
-  :filing-year 1975,
-  :assignee :sigma-chemical,
-  :grant-year 1976,
-  :term-years 20,
-  :open-license :none}
- {:assignees [:hancock-jaffe-laboratories],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3966401/en",
-  :title
-  "Preparing natural tissue for implantation so as to provide improved flexibility",
-  :status :granted,
-  :id "US3966401",
-  :sourcing :authoritative,
-  :filing-year 1974,
-  :assignee :hancock-jaffe-laboratories,
-  :grant-year 1976,
-  :cites ["US2900644"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:syva],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3966556/en",
-  :title "Compounds for enzyme amplification assay methadone analogs",
-  :status :granted,
-  :id "US3966556",
-  :sourcing :authoritative,
-  :filing-year 1974,
-  :assignee :syva,
-  :grant-year 1976,
-  :cites ["US3850752"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:marine-colloids],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3966897/en",
-  :title "Medium for use in bioassay and method of using same",
-  :status :granted,
-  :id "US3966897",
-  :sourcing :authoritative,
-  :filing-year 1973,
-  :assignee :marine-colloids,
-  :grant-year 1976,
-  :cites
-  ["GB1248764A"
-   "GB1248765A"
-   "GB953414A"
-   "US2358549"
-   "US2385363"
-   "US2487077"
-   "US3043751"
-   "US3063916"
-   "US3179600"
-   "US3453180"
-   "US3527712"
-   "US3531254"
-   "US3553310"
-   "US3578604"
-   "US3639558"
-   "US3641235"
-   "US3646346"
-   "US3654090"
-   "US3714344"
-   "US3793445"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:pharmacia-diagnostics],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3966898/en",
-  :title "Method and reagent for determining immunologic materials",
-  :status :granted,
-  :id "US3966898",
-  :sourcing :authoritative,
-  :filing-year 1974,
-  :assignee :pharmacia-diagnostics,
-  :grant-year 1976,
-  :cites ["US3859430"],
-  :term-years 20,
-  :open-license :none}
- {:jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3968241/en",
-  :title
-  "Method of treating cardiac arrhythmias and of improving myocardial contractility and systolic rhythm with carnitive or a pharmaceutically acceptable salt thereof",
-  :status :granted,
-  :id "US3968241",
-  :sourcing :authoritative,
-  :filing-year 1974,
-  :assignee :unassigned,
-  :grant-year 1976,
-  :cites ["US2278123" "US2761807"],
-  :term-years 20,
-  :open-license :none}
- {:jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3968827/en",
-  :title
-  "Method of preparing ceramic casting moulds for pouring metal therein",
-  :status :granted,
-  :id "US3968827",
-  :sourcing :authoritative,
-  :filing-year 1975,
-  :assignee :unassigned,
-  :grant-year 1976,
-  :cites ["GB711940A" "GB785228A" "US3204303" "US3478815"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:boehringer-mannheim],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3969287/en",
-  :title
-  "Carrier-bound protein prepared by reacting the protein with an acylating or alkylating compound having a carrier-bonding group and reacting the product with a carrier",
-  :status :granted,
-  :id "US3969287",
-  :sourcing :authoritative,
-  :filing-year 1973,
-  :assignee :boehringer-mannheim,
-  :grant-year 1976,
-  :cites
-  ["US3574062"
-   "US3619371"
-   "US3759890"
-   "US3764477"
-   "US3775253"
-   "US3788948"
-   "US3806417"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:general-electric],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3970518/en",
-  :title "Magnetic separation of biological particles",
-  :status :granted,
-  :id "US3970518",
-  :sourcing :authoritative,
-  :filing-year 1975,
-  :assignee :general-electric,
-  :grant-year 1976,
-  :cites ["US3470067" "US3539509" "US3657119" "US3843324"],
   :term-years 20,
   :open-license :none}]

@@ -1,4 +1,78 @@
 [[":db/add"
+  "hirameki-patent:JP2011525415A"
+  ":hirameki.patent/field"
+  "UNKNOWN"]
+ [":db/add"
+  "hirameki-patent:JP2011525415A"
+  ":hirameki.patent/assignee"
+  ":kansai-paint"]
+ [":db/add"
+  "hirameki-patent:JP2011525415A"
+  ":hirameki.patent/status"
+  ":pending"]
+ [":db/add"
+  "hirameki-patent:JP2011525415A"
+  ":hirameki.patent/open-license"
+  ":none"]
+ [":db/add"
+  "hirameki-patent:JP2011525415A"
+  ":hirameki.obs/release-status"
+  ":pending"]
+ [":db/add"
+  "hirameki-patent:JP2011525415A"
+  ":hirameki/sourcing"
+  ":authoritative"]
+ [":db/add" "hirameki-patent:JP2011525415A" ":hirameki/derived" true]
+ [":db/add"
+  "hirameki-patent:JP2011525415A"
+  ":hirameki.obs/years-to-expiry"
+  3]
+ [":db/add"
+  "hirameki-patent:JP2011525415A"
+  ":hirameki/source"
+  "https://patents.google.com/patent/JP2011525415A/en"]
+ [":db/add"
+  "hirameki-patent:JP2012062445A"
+  ":hirameki.patent/title"
+  "Aqueous electrodeposition coating, method of manufacturing electrodeposition coating film, and electrodeposition coating film"]
+ [":db/add"
+  "hirameki-patent:JP2012062445A"
+  ":hirameki.patent/jurisdiction"
+  ":jp"]
+ [":db/add"
+  "hirameki-patent:JP2012062445A"
+  ":hirameki.patent/field"
+  "UNKNOWN"]
+ [":db/add"
+  "hirameki-patent:JP2012062445A"
+  ":hirameki.patent/assignee"
+  ":mk-science"]
+ [":db/add"
+  "hirameki-patent:JP2012062445A"
+  ":hirameki.patent/status"
+  ":pending"]
+ [":db/add"
+  "hirameki-patent:JP2012062445A"
+  ":hirameki.patent/open-license"
+  ":none"]
+ [":db/add"
+  "hirameki-patent:JP2012062445A"
+  ":hirameki.obs/release-status"
+  ":pending"]
+ [":db/add"
+  "hirameki-patent:JP2012062445A"
+  ":hirameki/sourcing"
+  ":authoritative"]
+ [":db/add" "hirameki-patent:JP2012062445A" ":hirameki/derived" true]
+ [":db/add"
+  "hirameki-patent:JP2012062445A"
+  ":hirameki.obs/years-to-expiry"
+  4]
+ [":db/add"
+  "hirameki-patent:JP2012062445A"
+  ":hirameki/source"
+  "https://patents.google.com/patent/JP2012062445A/en"]
+ [":db/add"
   "hirameki-patent:JP2012116091A"
   ":hirameki.patent/title"
   "Decorative melamine board"]
@@ -6929,6 +7003,47 @@
   ":hirameki/source"
   "https://patents.google.com/patent/US2084094/en"]
  [":db/add"
+  "hirameki-patent:US2084399"
+  ":hirameki.patent/title"
+  "Polymerization process"]
+ [":db/add"
+  "hirameki-patent:US2084399"
+  ":hirameki.patent/jurisdiction"
+  ":us"]
+ [":db/add"
+  "hirameki-patent:US2084399"
+  ":hirameki.patent/field"
+  "UNKNOWN"]
+ [":db/add"
+  "hirameki-patent:US2084399"
+  ":hirameki.patent/assignee"
+  ":ei-du-pont-de-nemours-and"]
+ [":db/add"
+  "hirameki-patent:US2084399"
+  ":hirameki.patent/status"
+  ":granted"]
+ [":db/add"
+  "hirameki-patent:US2084399"
+  ":hirameki.patent/open-license"
+  ":none"]
+ [":db/add"
+  "hirameki-patent:US2084399"
+  ":hirameki.obs/release-status"
+  ":public-domain"]
+ [":db/add"
+  "hirameki-patent:US2084399"
+  ":hirameki/sourcing"
+  ":authoritative"]
+ [":db/add" "hirameki-patent:US2084399" ":hirameki/derived" true]
+ [":db/add"
+  "hirameki-patent:US2084399"
+  ":hirameki.obs/years-to-expiry"
+  -71]
+ [":db/add"
+  "hirameki-patent:US2084399"
+  ":hirameki/source"
+  "https://patents.google.com/patent/US2084399/en"]
+ [":db/add"
   "hirameki-patent:US2089302"
   ":hirameki.patent/title"
   "Rubber compositon and method of preserving rubber"]
@@ -10271,128 +10386,5 @@
   ":public-domain"]
  [":db/add"
   "hirameki-patent:US2241413"
-  ":hirameki/sourcing"
-  ":authoritative"]
- [":db/add" "hirameki-patent:US2241413" ":hirameki/derived" true]
- [":db/add"
-  "hirameki-patent:US2241413"
-  ":hirameki.obs/years-to-expiry"
-  -67]
- [":db/add"
-  "hirameki-patent:US2241413"
-  ":hirameki/source"
-  "https://patents.google.com/patent/US2241413/en"]
- [":db/add"
-  "hirameki-patent:US2243604"
-  ":hirameki.patent/title"
-  "Device for applying films of coating material to paper webs"]
- [":db/add"
-  "hirameki-patent:US2243604"
-  ":hirameki.patent/jurisdiction"
-  ":us"]
- [":db/add"
-  "hirameki-patent:US2243604"
-  ":hirameki.patent/field"
-  "UNKNOWN"]
- [":db/add"
-  "hirameki-patent:US2243604"
-  ":hirameki.patent/assignee"
-  ":unassigned"]
- [":db/add"
-  "hirameki-patent:US2243604"
-  ":hirameki.patent/status"
-  ":granted"]
- [":db/add"
-  "hirameki-patent:US2243604"
-  ":hirameki.patent/open-license"
-  ":none"]
- [":db/add"
-  "hirameki-patent:US2243604"
-  ":hirameki.obs/release-status"
-  ":public-domain"]
- [":db/add"
-  "hirameki-patent:US2243604"
-  ":hirameki/sourcing"
-  ":authoritative"]
- [":db/add" "hirameki-patent:US2243604" ":hirameki/derived" true]
- [":db/add"
-  "hirameki-patent:US2243604"
-  ":hirameki.obs/years-to-expiry"
-  -67]
- [":db/add"
-  "hirameki-patent:US2243604"
-  ":hirameki/source"
-  "https://patents.google.com/patent/US2243604/en"]
- [":db/add"
-  "hirameki-patent:US2244362"
-  ":hirameki.patent/title"
-  "Motor control system"]
- [":db/add"
-  "hirameki-patent:US2244362"
-  ":hirameki.patent/jurisdiction"
-  ":us"]
- [":db/add"
-  "hirameki-patent:US2244362"
-  ":hirameki.patent/field"
-  "UNKNOWN"]
- [":db/add"
-  "hirameki-patent:US2244362"
-  ":hirameki.patent/assignee"
-  ":honeywell"]
- [":db/add"
-  "hirameki-patent:US2244362"
-  ":hirameki.patent/status"
-  ":granted"]
- [":db/add"
-  "hirameki-patent:US2244362"
-  ":hirameki.patent/open-license"
-  ":none"]
- [":db/add"
-  "hirameki-patent:US2244362"
-  ":hirameki.obs/release-status"
-  ":public-domain"]
- [":db/add"
-  "hirameki-patent:US2244362"
-  ":hirameki/sourcing"
-  ":authoritative"]
- [":db/add" "hirameki-patent:US2244362" ":hirameki/derived" true]
- [":db/add"
-  "hirameki-patent:US2244362"
-  ":hirameki.obs/years-to-expiry"
-  -69]
- [":db/add"
-  "hirameki-patent:US2244362"
-  ":hirameki/source"
-  "https://patents.google.com/patent/US2244362/en"]
- [":db/add"
-  "hirameki-patent:US2247737"
-  ":hirameki.patent/title"
-  "Inspection apparatus"]
- [":db/add"
-  "hirameki-patent:US2247737"
-  ":hirameki.patent/jurisdiction"
-  ":us"]
- [":db/add"
-  "hirameki-patent:US2247737"
-  ":hirameki.patent/field"
-  "UNKNOWN"]
- [":db/add"
-  "hirameki-patent:US2247737"
-  ":hirameki.patent/assignee"
-  ":western-electric"]
- [":db/add"
-  "hirameki-patent:US2247737"
-  ":hirameki.patent/status"
-  ":granted"]
- [":db/add"
-  "hirameki-patent:US2247737"
-  ":hirameki.patent/open-license"
-  ":none"]
- [":db/add"
-  "hirameki-patent:US2247737"
-  ":hirameki.obs/release-status"
-  ":public-domain"]
- [":db/add"
-  "hirameki-patent:US2247737"
   ":hirameki/sourcing"
   ":authoritative"]]
