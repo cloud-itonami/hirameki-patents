@@ -1,4 +1,58 @@
-[{:assignees [:ei-du-pont-de-nemours-and],
+[{:assignees [:xerox],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2901348/en",
+  :title "Radiation sensitive photoconductive member",
+  :status :granted,
+  :id "US2901348",
+  :sourcing :authoritative,
+  :filing-year 1953,
+  :assignee :xerox,
+  :grant-year 1959,
+  :cites
+  ["US2139731"
+   "US2189576"
+   "US2199104"
+   "US2277013"
+   "US2297691"
+   "US2337329"
+   "US2554225"
+   "US2613301"
+   "US2619418"
+   "US2654853"
+   "US2659670"
+   "US2662832"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:bacto-strip],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2904474/en",
+  :title
+  "Process and means for carrying out bacteriological operations",
+  :status :granted,
+  :id "US2904474",
+  :sourcing :authoritative,
+  :filing-year 1955,
+  :assignee :bacto-strip,
+  :grant-year 1959,
+  :cites ["US2672432" "US2677646" "US2677647" "US2771398" "US2784146"],
+  :term-years 20,
+  :open-license :none}
+ {:jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2905169/en",
+  :title "Device for cancer detection",
+  :status :granted,
+  :id "US2905169",
+  :sourcing :authoritative,
+  :filing-year 1955,
+  :assignee :unassigned,
+  :grant-year 1959,
+  :cites ["US2046566"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:ei-du-pont-de-nemours-and],
   :jurisdiction :us,
   :field "UNKNOWN",
   :source "https://patents.google.com/patent/US2905645/en",
@@ -597,6 +651,30 @@
   :assignee :ciba,
   :grant-year 1960,
   :cites ["US2780619" "US2860128"],
+  :term-years 20,
+  :open-license :none}
+ {:jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2940448/en",
+  :title "Disposable blood-gas analyzer",
+  :status :granted,
+  :id "US2940448",
+  :sourcing :authoritative,
+  :filing-year 1957,
+  :assignee :unassigned,
+  :grant-year 1960,
+  :cites
+  ["US1687502"
+   "US2054885"
+   "US2103136"
+   "US2487077"
+   "US2616423"
+   "US2667872"
+   "US2676591"
+   "US2680060"
+   "US2690179"
+   "US2768623"
+   "US2771879"],
   :term-years 20,
   :open-license :none}
  {:assignees [:ei-du-pont-de-nemours-and],
@@ -2834,6 +2912,26 @@
   :open-license :none}
  {:jurisdiction :us,
   :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3053138/en",
+  :title "Sample holder for photometric analyzing apparatus",
+  :status :granted,
+  :id "US3053138",
+  :sourcing :authoritative,
+  :filing-year 1958,
+  :assignee :unassigned,
+  :grant-year 1962,
+  :cites
+  ["US1133065"
+   "US1794134"
+   "US1916589"
+   "US2090041"
+   "US2446668"
+   "US960912"
+   "US961419"],
+  :term-years 20,
+  :open-license :none}
+ {:jurisdiction :us,
+  :field "UNKNOWN",
   :source "https://patents.google.com/patent/US3056935/en",
   :title "Feeler element for a humidostat",
   :status :granted,
@@ -4042,6 +4140,27 @@
   :assignee :bell-telephone-laboratories,
   :grant-year 1964,
   :cites ["US2411298" "US2506604" "US2802760" "US3025589"],
+  :term-years 20,
+  :open-license :none}
+ {:jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3123066/en",
+  :title "brumley",
+  :status :granted,
+  :id "US3123066",
+  :sourcing :authoritative,
+  :assignee :unassigned,
+  :grant-year 1964,
+  :cites
+  ["FR1123371A"
+   "US1590283"
+   "US1751584"
+   "US2268321"
+   "US2790438"
+   "US2825260"
+   "US2877368"
+   "US2932294"
+   "US3068739"],
   :term-years 20,
   :open-license :none}
  {:jurisdiction :us,
@@ -6617,6 +6736,21 @@
    "US3166929"],
   :term-years 20,
   :open-license :none}
+ {:assignees [:technicon-instruments],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3266322/en",
+  :title
+  "Automatic liquid sample supply and wash apparatus for automatic analysis system",
+  :status :granted,
+  :id "US3266322",
+  :sourcing :authoritative,
+  :filing-year 1964,
+  :assignee :technicon-instruments,
+  :grant-year 1966,
+  :cites ["US3134263"],
+  :term-years 20,
+  :open-license :none}
  {:assignees [:ionics],
   :jurisdiction :us,
   :field "UNKNOWN",
@@ -8808,6 +8942,20 @@
   :cites ["US2139114" "US2596560" "US2878715" "US3097928" "US3225601"],
   :term-years 20,
   :open-license :none}
+ {:assignees [:beckman-instruments],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3418080/en",
+  :title "Sample transport system",
+  :status :granted,
+  :id "US3418080",
+  :sourcing :authoritative,
+  :filing-year 1964,
+  :assignee :beckman-instruments,
+  :grant-year 1968,
+  :cites ["US2893660" "US3072362" "US3080136"],
+  :term-years 20,
+  :open-license :none}
  {:assignees [:general-electric],
   :jurisdiction :us,
   :field "UNKNOWN",
@@ -9504,132 +9652,5 @@
   :assignee :international-business-machines,
   :grant-year 1969,
   :cites ["US3188879" "US3371256" "US3390315"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:union-carbide],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3469147/en",
-  :title "Dielectrically isolated structures and method",
-  :status :granted,
-  :id "US3469147",
-  :sourcing :authoritative,
-  :filing-year 1966,
-  :assignee :union-carbide,
-  :grant-year 1969,
-  :cites ["US3368113" "US3381182"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:pfizer],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3470067/en",
-  :title
-  "Concentration and purification of viruses from particulate magnetic iron oxide-virus complexes",
-  :status :granted,
-  :id "US3470067",
-  :sourcing :authoritative,
-  :filing-year 1967,
-  :assignee :pfizer,
-  :grant-year 1969,
-  :cites
-  ["GB876027A"
-   "GB887339A"
-   "US2125846"
-   "US2351160"
-   "US2461505"
-   "US2642514"
-   "US2749306"
-   "US2999792"
-   "US3078224"
-   "US3139401"
-   "US3197374"
-   "US3256152"
-   "US3351203"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:litton-systems],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3470373/en",
-  :title
-  "Method for analysis and identification of biologic entities by phosphorescence",
-  :status :granted,
-  :id "US3470373",
-  :sourcing :authoritative,
-  :filing-year 1966,
-  :assignee :litton-systems,
-  :grant-year 1969,
-  :cites ["US2971429" "US3092722" "US3359973"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:american-cyanamid],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3473027/en",
-  :title
-  "Process for recording and retrieving information employing photoluminescent inks which luminesce under ultraviolet illumination",
-  :status :granted,
-  :id "US3473027",
-  :sourcing :authoritative,
-  :filing-year 1966,
-  :assignee :american-cyanamid,
-  :grant-year 1969,
-  :cites ["US2957079" "US3059112"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:boehringer-mannheim],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3475408/en",
-  :title "N(6) alkenyl 5-substituted adenosine",
-  :status :granted,
-  :id "US3475408",
-  :sourcing :authoritative,
-  :filing-year 1966,
-  :assignee :boehringer-mannheim,
-  :grant-year 1969,
-  :cites ["US3346560"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:daniel-roth],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3476514/en",
-  :title "Cancer cytoscreening",
-  :status :granted,
-  :id "US3476514",
-  :sourcing :authoritative,
-  :filing-year 1966,
-  :assignee :daniel-roth,
-  :grant-year 1969,
-  :term-years 20,
-  :open-license :none}
- {:assignees [:ei-du-pont-de-nemours-and],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3476515/en",
-  :title "Analytical test pack and process for analysis",
-  :status :granted,
-  :id "US3476515",
-  :sourcing :authoritative,
-  :filing-year 1966,
-  :assignee :ei-du-pont-de-nemours-and,
-  :grant-year 1969,
-  :cites ["US3036894" "US3278014" "US3326363"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:ralph-j-de-falco],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3477817/en",
-  :title "Diagnostic test for presence of galactose",
-  :status :granted,
-  :id "US3477817",
-  :sourcing :authoritative,
-  :filing-year 1966,
-  :assignee :ralph-j-de-falco,
-  :grant-year 1969,
-  :cites ["US2418033" "US2608533" "US2659700"],
   :term-years 20,
   :open-license :none}]

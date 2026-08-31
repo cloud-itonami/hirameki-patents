@@ -1,4 +1,131 @@
-[{:assignees [:tecnifax],
+[{:assignees [:union-carbide],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3469147/en",
+  :title "Dielectrically isolated structures and method",
+  :status :granted,
+  :id "US3469147",
+  :sourcing :authoritative,
+  :filing-year 1966,
+  :assignee :union-carbide,
+  :grant-year 1969,
+  :cites ["US3368113" "US3381182"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:pfizer],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3470067/en",
+  :title
+  "Concentration and purification of viruses from particulate magnetic iron oxide-virus complexes",
+  :status :granted,
+  :id "US3470067",
+  :sourcing :authoritative,
+  :filing-year 1967,
+  :assignee :pfizer,
+  :grant-year 1969,
+  :cites
+  ["GB876027A"
+   "GB887339A"
+   "US2125846"
+   "US2351160"
+   "US2461505"
+   "US2642514"
+   "US2749306"
+   "US2999792"
+   "US3078224"
+   "US3139401"
+   "US3197374"
+   "US3256152"
+   "US3351203"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:litton-systems],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3470373/en",
+  :title
+  "Method for analysis and identification of biologic entities by phosphorescence",
+  :status :granted,
+  :id "US3470373",
+  :sourcing :authoritative,
+  :filing-year 1966,
+  :assignee :litton-systems,
+  :grant-year 1969,
+  :cites ["US2971429" "US3092722" "US3359973"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:american-cyanamid],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3473027/en",
+  :title
+  "Process for recording and retrieving information employing photoluminescent inks which luminesce under ultraviolet illumination",
+  :status :granted,
+  :id "US3473027",
+  :sourcing :authoritative,
+  :filing-year 1966,
+  :assignee :american-cyanamid,
+  :grant-year 1969,
+  :cites ["US2957079" "US3059112"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:boehringer-mannheim],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3475408/en",
+  :title "N(6) alkenyl 5-substituted adenosine",
+  :status :granted,
+  :id "US3475408",
+  :sourcing :authoritative,
+  :filing-year 1966,
+  :assignee :boehringer-mannheim,
+  :grant-year 1969,
+  :cites ["US3346560"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:daniel-roth],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3476514/en",
+  :title "Cancer cytoscreening",
+  :status :granted,
+  :id "US3476514",
+  :sourcing :authoritative,
+  :filing-year 1966,
+  :assignee :daniel-roth,
+  :grant-year 1969,
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:ei-du-pont-de-nemours-and],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3476515/en",
+  :title "Analytical test pack and process for analysis",
+  :status :granted,
+  :id "US3476515",
+  :sourcing :authoritative,
+  :filing-year 1966,
+  :assignee :ei-du-pont-de-nemours-and,
+  :grant-year 1969,
+  :cites ["US3036894" "US3278014" "US3326363"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:ralph-j-de-falco],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3477817/en",
+  :title "Diagnostic test for presence of galactose",
+  :status :granted,
+  :id "US3477817",
+  :sourcing :authoritative,
+  :filing-year 1966,
+  :assignee :ralph-j-de-falco,
+  :grant-year 1969,
+  :cites ["US2418033" "US2608533" "US2659700"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:tecnifax],
   :jurisdiction :us,
   :field "UNKNOWN",
   :source "https://patents.google.com/patent/US3479183/en",
@@ -2002,6 +2129,20 @@
   :open-license :none}
  {:jurisdiction :us,
   :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3612866/en",
+  :title
+  "Instrument for determining oxygen quantities by measuring oxygen quenching of fluorescent radiation",
+  :status :granted,
+  :id "US3612866",
+  :sourcing :authoritative,
+  :filing-year 1969,
+  :assignee :unassigned,
+  :grant-year 1971,
+  :cites ["US3285703"],
+  :term-years 20,
+  :open-license :none}
+ {:jurisdiction :us,
+  :field "UNKNOWN",
   :source "https://patents.google.com/patent/US3613884/en",
   :title "Fish egg sorting apparatus",
   :status :granted,
@@ -2610,6 +2751,19 @@
   :filing-year 1968,
   :assignee :nippon-kayaku,
   :grant-year 1972,
+  :term-years 20,
+  :open-license :none}
+ {:jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3638639/en",
+  :title "Apparatus for removing lipids from the human bloodstream",
+  :status :granted,
+  :id "US3638639",
+  :sourcing :authoritative,
+  :filing-year 1970,
+  :assignee :unassigned,
+  :grant-year 1972,
+  :cites ["US2763266" "US3512517" "US3572315"],
   :term-years 20,
   :open-license :none}
  {:assignees [:shell-oil],
@@ -5180,6 +5334,20 @@
   :cites ["US3348547" "US3463594"],
   :term-years 20,
   :open-license :none}
+ {:assignees [:blowitz-m :magnor :pastin-m],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3785772/en",
+  :title "Blood analyzer",
+  :status :granted,
+  :id "US3785772",
+  :sourcing :authoritative,
+  :filing-year 1971,
+  :assignee :blowitz-m,
+  :grant-year 1974,
+  :cites ["US3130156" "US3211645" "US3591493" "US3660037" "US3682596"],
+  :term-years 20,
+  :open-license :none}
  {:assignees [:sci-systems],
   :jurisdiction :us,
   :field "UNKNOWN",
@@ -6228,6 +6396,27 @@
   :filing-year 1973,
   :assignee :dexter-c-&-sons,
   :grant-year 1974,
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:whittaker],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3837339/en",
+  :title
+  "Blood glucose level monitoring-alarm system and method therefor",
+  :status :granted,
+  :id "US3837339",
+  :sourcing :authoritative,
+  :filing-year 1972,
+  :assignee :whittaker,
+  :grant-year 1974,
+  :cites
+  ["FR1444363A"
+   "US3143111"
+   "US3144019"
+   "US3216411"
+   "US3453546"
+   "US3682160"],
   :term-years 20,
   :open-license :none}
  {:assignees [:f-hoffmann-la-roche],
@@ -8888,6 +9077,20 @@
   :cites ["US3497690"],
   :term-years 20,
   :open-license :none}
+ {:jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3950987/en",
+  :title
+  "Piezo-optic measuring transducer and accelerometer, pressure gauge, dynamometer, and thermometer based thereon",
+  :status :granted,
+  :id "US3950987",
+  :sourcing :authoritative,
+  :filing-year 1975,
+  :assignee :unassigned,
+  :grant-year 1976,
+  :cites ["US3039298" "US3800594"],
+  :term-years 20,
+  :open-license :none}
  {:assignees [:medical-products],
   :jurisdiction :us,
   :field "UNKNOWN",
@@ -8968,228 +9171,5 @@
    "US3384606"
    "US3457324"
    "US3759873"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:research-institute-for-production-development],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3955012/en",
-  :title
-  "Method for manufacturing medical articles composed of silicone rubber coated with collagen",
-  :status :granted,
-  :id "US3955012",
-  :sourcing :authoritative,
-  :filing-year 1973,
-  :assignee :research-institute-for-production-development,
-  :grant-year 1976,
-  :cites
-  ["GB751991A"
-   "GB900181A"
-   "US3188229"
-   "US3451394"
-   "US3632386"
-   "US3649347"],
-  :term-years 20,
-  :open-license :none}
- {:jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3956113/en",
-  :title
-  "Process for the manufacture of amino compounds fixed to carriers",
-  :status :granted,
-  :id "US3956113",
-  :sourcing :authoritative,
-  :filing-year 1973,
-  :assignee :unassigned,
-  :grant-year 1976,
-  :cites ["US3281331" "US3403146" "US3645852" "US3674767"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:honeywell],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3958117/en",
-  :title "Distance determining and automatic focusing apparatus",
-  :status :granted,
-  :id "US3958117",
-  :sourcing :authoritative,
-  :filing-year 1975,
-  :assignee :honeywell,
-  :grant-year 1976,
-  :cites
-  ["US3274914"
-   "US3450883"
-   "US3493764"
-   "US3610934"
-   "US3682071"
-   "US3684374"
-   "US3708619"
-   "US3723003"
-   "US3733989"
-   "US3792260"
-   "US3846628"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:ei-du-pont-de-nemours-and],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3958127/en",
-  :title "Optical-electrical web inspection system",
-  :status :granted,
-  :id "US3958127",
-  :sourcing :authoritative,
-  :filing-year 1974,
-  :assignee :ei-du-pont-de-nemours-and,
-  :grant-year 1976,
-  :cites
-  ["US3001080"
-   "US3061731"
-   "US3427462"
-   "US3493769"
-   "US3556664"
-   "US3646353"
-   "US3728548"
-   "US3744905"
-   "US3843890"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:bell-telephone-laboratories],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3958263/en",
-  :title "Stress reduction in algaas-algaasp multilayer structures",
-  :status :granted,
-  :id "US3958263",
-  :sourcing :authoritative,
-  :filing-year 1974,
-  :assignee :bell-telephone-laboratories,
-  :grant-year 1976,
-  :cites ["US3812516" "US3838359"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:midwest-research-institute],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3959078/en",
-  :title
-  "Enzyme immobilization with a thermochemical-photochemical bifunctional agent",
-  :status :granted,
-  :id "US3959078",
-  :sourcing :authoritative,
-  :filing-year 1973,
-  :assignee :midwest-research-institute,
-  :grant-year 1976,
-  :cites ["US3479183" "US3519538" "US3639558" "US3817837" "US3843447"],
-  :term-years 20,
-  :open-license :none}
- {:assignees
-  [:lair-liquide-pour-letude-et-lexploitation-des-procedes-georges-claude
-   :orsan-les-produits-organiques-du-santerre],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3959079/en",
-  :title
-  "Insolubilization of proteins by chemical activation of a polymerized support and crosslinking of the protein to the support",
-  :status :granted,
-  :id "US3959079",
-  :sourcing :authoritative,
-  :filing-year 1974,
-  :assignee
-  :lair-liquide-pour-letude-et-lexploitation-des-procedes-georges-claude,
-  :grant-year 1976,
-  :cites
-  ["US3278392"
-   "US3645852"
-   "US3654083"
-   "US3741871"
-   "US3746622"
-   "US3821084"
-   "US3836433"
-   "US3853708"
-   "US3904478"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:essilor-international-compagnie-generale-doptique],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3959102/en",
-  :title
-  "Method for preparing a crosslinked graft copolymer of silicone and polyvinylpyrrolidone for use as a contact lens, and a contact lens produced thereby",
-  :status :granted,
-  :id "US3959102",
-  :sourcing :authoritative,
-  :filing-year 1974,
-  :assignee :essilor-international-compagnie-generale-doptique,
-  :grant-year 1976,
-  :cites ["US3639524" "US3647736" "US3700573" "US3700761" "US3840448"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:qualitrol],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3960017/en",
-  :title
-  "Thermometer insertable in winding of fluid cooled transformer",
-  :status :granted,
-  :id "US3960017",
-  :sourcing :authoritative,
-  :filing-year 1975,
-  :assignee :qualitrol,
-  :grant-year 1976,
-  :cites
-  ["GB599578A"
-   "US2197190"
-   "US3580082"
-   "US3611791"
-   "US3686958"
-   "US3691501"
-   "US3789667"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:nuclear-diagnostics],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3960492/en",
-  :title
-  "Method for determining an index of binding protein content of blood",
-  :status :granted,
-  :id "US3960492",
-  :sourcing :authoritative,
-  :filing-year 1974,
-  :assignee :nuclear-diagnostics,
-  :grant-year 1976,
-  :cites
-  ["US3376114"
-   "US3451777"
-   "US3519390"
-   "US3646346"
-   "US3666854"
-   "US3716632"
-   "US3730684"
-   "US3743482"
-   "US3745211"
-   "US3776698"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:dexter],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3960652/en",
-  :title
-  "Process of forming wet laid tufted nonwoven fibrous web and tufted product",
-  :status :granted,
-  :id "US3960652",
-  :sourcing :authoritative,
-  :filing-year 1974,
-  :assignee :dexter,
-  :grant-year 1976,
-  :cites
-  ["GB475819A"
-   "US2730933"
-   "US3322617"
-   "US3350260"
-   "US3485706"
-   "US3720578"
-   "US3834983"],
   :term-years 20,
   :open-license :none}]

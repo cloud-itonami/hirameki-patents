@@ -1,4 +1,43 @@
-[{:assignees [:continental-can],
+[{:jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2076553/en",
+  :title
+  "Apparatus for measuring, recording, and controlling dilute dust concentrations",
+  :status :granted,
+  :id "US2076553",
+  :sourcing :authoritative,
+  :filing-year 1934,
+  :assignee :unassigned,
+  :grant-year 1937,
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:sheet-polarizer],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2078181/en",
+  :title "Device employing polarized light",
+  :status :granted,
+  :id "US2078181",
+  :sourcing :authoritative,
+  :filing-year 1935,
+  :assignee :sheet-polarizer,
+  :grant-year 1937,
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:canadian-walipaper-manufacture],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2081320/en",
+  :title "Doctor blade for rolls, traveling webs, and the like",
+  :status :granted,
+  :id "US2081320",
+  :sourcing :authoritative,
+  :filing-year 1935,
+  :assignee :canadian-walipaper-manufacture,
+  :grant-year 1937,
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:continental-can],
   :jurisdiction :us,
   :field "UNKNOWN",
   :source "https://patents.google.com/patent/US2084094/en",
@@ -6191,6 +6230,26 @@
    "US844783"],
   :term-years 20,
   :open-license :none}
+ {:jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2660342/en",
+  :title "Burette with variable capacity",
+  :status :granted,
+  :id "US2660342",
+  :sourcing :authoritative,
+  :filing-year 1949,
+  :assignee :unassigned,
+  :grant-year 1953,
+  :cites
+  ["CH210119A"
+   "US1433075"
+   "US2244952"
+   "US2250467"
+   "US2354649"
+   "US2412295"
+   "US589386"],
+  :term-years 20,
+  :open-license :none}
  {:assignees [:nat-res-dev],
   :jurisdiction :us,
   :field "UNKNOWN",
@@ -9750,59 +9809,5 @@
   :assignee :ei-du-pont-de-nemours-and,
   :grant-year 1959,
   :cites ["US2130523" "US2464693" "US2710853"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:xerox],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US2901348/en",
-  :title "Radiation sensitive photoconductive member",
-  :status :granted,
-  :id "US2901348",
-  :sourcing :authoritative,
-  :filing-year 1953,
-  :assignee :xerox,
-  :grant-year 1959,
-  :cites
-  ["US2139731"
-   "US2189576"
-   "US2199104"
-   "US2277013"
-   "US2297691"
-   "US2337329"
-   "US2554225"
-   "US2613301"
-   "US2619418"
-   "US2654853"
-   "US2659670"
-   "US2662832"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:bacto-strip],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US2904474/en",
-  :title
-  "Process and means for carrying out bacteriological operations",
-  :status :granted,
-  :id "US2904474",
-  :sourcing :authoritative,
-  :filing-year 1955,
-  :assignee :bacto-strip,
-  :grant-year 1959,
-  :cites ["US2672432" "US2677646" "US2677647" "US2771398" "US2784146"],
-  :term-years 20,
-  :open-license :none}
- {:jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US2905169/en",
-  :title "Device for cancer detection",
-  :status :granted,
-  :id "US2905169",
-  :sourcing :authoritative,
-  :filing-year 1955,
-  :assignee :unassigned,
-  :grant-year 1959,
-  :cites ["US2046566"],
   :term-years 20,
   :open-license :none}]
