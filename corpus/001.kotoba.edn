@@ -1,4 +1,43 @@
-[{:jurisdiction :us,
+[{:assignees [:ivers-lee],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2069333/en",
+  :title "Package structure",
+  :status :granted,
+  :id "US2069333",
+  :sourcing :authoritative,
+  :filing-year 1934,
+  :assignee :ivers-lee,
+  :grant-year 1937,
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:ei-du-pont-de-nemours-and],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2071250/en",
+  :title "Linear condensation polymers",
+  :status :granted,
+  :id "US2071250",
+  :sourcing :authoritative,
+  :filing-year 1931,
+  :assignee :ei-du-pont-de-nemours-and,
+  :grant-year 1937,
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:us-rubber-prod],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2072597/en",
+  :title "Paste applying apparatus",
+  :status :granted,
+  :id "US2072597",
+  :sourcing :authoritative,
+  :filing-year 1936,
+  :assignee :us-rubber-prod,
+  :grant-year 1937,
+  :term-years 20,
+  :open-license :none}
+ {:jurisdiction :us,
   :field "UNKNOWN",
   :source "https://patents.google.com/patent/US2076553/en",
   :title
@@ -3148,6 +3187,20 @@
    "US940449"],
   :term-years 20,
   :open-license :none}
+ {:assignees [:dow-chemical],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2423457/en",
+  :title "Preparation of parasiticidal mixtures",
+  :status :granted,
+  :id "US2423457",
+  :sourcing :authoritative,
+  :filing-year 1944,
+  :assignee :dow-chemical,
+  :grant-year 1947,
+  :cites ["US1617255" "US2161462" "US2217358" "US2330227" "US2330234"],
+  :term-years 20,
+  :open-license :none}
  {:jurisdiction :us,
   :field "UNKNOWN",
   :source "https://patents.google.com/patent/US2423554/en",
@@ -3601,6 +3654,35 @@
    "US2313730"
    "US503556"
    "US731055"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:kansas-city-testing-lab],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2444154/en",
+  :title "Parasiticidal composition",
+  :status :granted,
+  :id "US2444154",
+  :sourcing :authoritative,
+  :filing-year 1939,
+  :assignee :kansas-city-testing-lab,
+  :grant-year 1948,
+  :cites
+  ["US100327"
+   "US1511623"
+   "US1520197"
+   "US1532631"
+   "US1550650"
+   "US1694620"
+   "US1733958"
+   "US1793922"
+   "US1870383"
+   "US1934989"
+   "US1986218"
+   "US2014609"
+   "US2157861"
+   "US2304749"
+   "US2415282"],
   :term-years 20,
   :open-license :none}
  {:assignees [:allen-b-du-mont-laboratories],
@@ -4424,6 +4506,26 @@
    "US2163467"
    "US2209764"
    "US2396260"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:weyerhaeuser-timber],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2522947/en",
+  :title "Apparatus for growing aerobic organisms",
+  :status :granted,
+  :id "US2522947",
+  :sourcing :authoritative,
+  :filing-year 1947,
+  :assignee :weyerhaeuser-timber,
+  :grant-year 1950,
+  :cites
+  ["US1876994"
+   "US1982002"
+   "US2111726"
+   "US2244902"
+   "US2298561"
+   "US328585"],
   :term-years 20,
   :open-license :none}
  {:assignees [:motor-products],
@@ -6911,6 +7013,21 @@
   :cites ["GB630647A" "US2324483" "US2510503" "US2557667"],
   :term-years 20,
   :open-license :none}
+ {:assignees [:american-cyanamid],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2707900/en",
+  :title
+  "Movable sample holders in a spectrophotometer integrating sphere",
+  :status :granted,
+  :id "US2707900",
+  :sourcing :authoritative,
+  :filing-year 1951,
+  :assignee :american-cyanamid,
+  :grant-year 1955,
+  :cites ["US1831766" "US1834905" "US1882919" "US2383346"],
+  :term-years 20,
+  :open-license :none}
  {:assignees [:baker-oil-tools],
   :jurisdiction :us,
   :field "UNKNOWN",
@@ -7674,6 +7791,20 @@
   :cites ["US2403987" "US2537066" "US2607425"],
   :term-years 20,
   :open-license :none}
+ {:assignees [:united-states-rubber],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2760900/en",
+  :title "Stabilized chlorinated pesticidal compositions",
+  :status :granted,
+  :id "US2760900",
+  :sourcing :authoritative,
+  :filing-year 1952,
+  :assignee :united-states-rubber,
+  :grant-year 1956,
+  :cites ["AU592027A" "GB613957A" "US2140794" "US2219364"],
+  :term-years 20,
+  :open-license :none}
  {:assignees [:ei-du-pont-de-nemours-and],
   :jurisdiction :us,
   :field "UNKNOWN",
@@ -8236,6 +8367,21 @@
    "US2601840"],
   :term-years 20,
   :open-license :none}
+ {:assignees [:calcium-carbonate],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2786012/en",
+  :title
+  "Compositions and method of producing a calcium carbonate carrier for insecticides",
+  :status :granted,
+  :id "US2786012",
+  :sourcing :authoritative,
+  :filing-year 1954,
+  :assignee :calcium-carbonate,
+  :grant-year 1957,
+  :cites ["US1847540" "US2034797" "US2523420"],
+  :term-years 20,
+  :open-license :none}
  {:jurisdiction :us,
   :field "UNKNOWN",
   :source "https://patents.google.com/patent/US2788336/en",
@@ -8601,6 +8747,20 @@
   :cites ["US2037749" "US2200363" "US2441945" "US2463452" "US882770"],
   :term-years 20,
   :open-license :none}
+ {:jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2809147/en",
+  :title
+  "Insecticidal film-forming composition and method of making same",
+  :status :granted,
+  :id "US2809147",
+  :sourcing :authoritative,
+  :filing-year 1954,
+  :assignee :unassigned,
+  :grant-year 1957,
+  :cites ["GB578206A" "GB592670A" "US2517930" "US2572864" "US2621163"],
+  :term-years 20,
+  :open-license :none}
  {:assignees [:phillips-petroleum],
   :jurisdiction :us,
   :field "UNKNOWN",
@@ -8697,6 +8857,20 @@
   :cites ["GB611317A" "US1719166" "US2331922" "US2524915" "US2656286"],
   :term-years 20,
   :open-license :none}
+ {:assignees [:phillips-petroleum],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2819198/en",
+  :title "Cold-stable pesticide solutions",
+  :status :granted,
+  :id "US2819198",
+  :sourcing :authoritative,
+  :filing-year 1953,
+  :assignee :phillips-petroleum,
+  :grant-year 1958,
+  :cites ["US1817227" "US2416460" "US2543723" "US2543955" "US2658017"],
+  :term-years 20,
+  :open-license :none}
  {:assignees [:ei-du-pont-de-nemours-and],
   :jurisdiction :us,
   :field "UNKNOWN",
@@ -8710,6 +8884,21 @@
   :assignee :ei-du-pont-de-nemours-and,
   :grant-year 1958,
   :cites ["CA500178A" "US2698240"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:wilson-and-toomer-fertilizer],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2821500/en",
+  :title
+  "Coated dustless, granular insecticide for flies, their larvae, and other insects",
+  :status :granted,
+  :id "US2821500",
+  :sourcing :authoritative,
+  :filing-year 1956,
+  :assignee :wilson-and-toomer-fertilizer,
+  :grant-year 1958,
+  :cites ["GB708155A" "US1450128" "US2263827"],
   :term-years 20,
   :open-license :none}
  {:assignees [:stamford-engineered-products-c],
@@ -9580,234 +9769,5 @@
   :assignee :ei-du-pont-de-nemours-and,
   :grant-year 1959,
   :cites ["US2092295" "US2692258"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:us-philips],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US2887629/en",
-  :title "Transistor",
-  :status :granted,
-  :id "US2887629",
-  :sourcing :authoritative,
-  :filing-year 1957,
-  :assignee :us-philips,
-  :grant-year 1959,
-  :cites ["US2812480"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:bowater-research-and-development],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US2888902/en",
-  :title "Apparatus for coating paper",
-  :status :granted,
-  :id "US2888902",
-  :sourcing :authoritative,
-  :filing-year 1956,
-  :assignee :bowater-research-and-development,
-  :grant-year 1959,
-  :cites
-  ["US1711596"
-   "US1847065"
-   "US2369378"
-   "US2398844"
-   "US2645201"
-   "US2772184"],
-  :term-years 20,
-  :open-license :none}
- {:jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US2889736/en",
-  :title "Oil testing apparatus",
-  :status :granted,
-  :id "US2889736",
-  :sourcing :authoritative,
-  :filing-year 1954,
-  :assignee :unassigned,
-  :grant-year 1959,
-  :cites
-  ["DE246050C"
-   "GB500892A"
-   "US1864092"
-   "US1938544"
-   "US1940772"
-   "US2059374"
-   "US2062587"
-   "US2062588"
-   "US2082252"
-   "US2510347"
-   "US2690695"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:union-carbide],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US2890209/en",
-  :title
-  "Polymers of 3, 4-epoxycyclohexylmethyl 3, 4-epoxycyclohexanecarboxylates",
-  :status :granted,
-  :id "US2890209",
-  :sourcing :authoritative,
-  :filing-year 1956,
-  :assignee :union-carbide,
-  :grant-year 1959,
-  :cites ["US2706181" "US2706182" "US2706189" "US2716123"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:ei-du-pont-de-nemours-and],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US2892712/en",
-  :title "Process for preparing relief images",
-  :status :granted,
-  :id "US2892712",
-  :sourcing :authoritative,
-  :filing-year 1954,
-  :assignee :ei-du-pont-de-nemours-and,
-  :grant-year 1959,
-  :cites
-  ["US1574357"
-   "US1655127"
-   "US1957900"
-   "US2484529"
-   "US2604388"
-   "US2675315"
-   "US2712996"
-   "US2760863"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:general-electric],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US2895891/en",
-  :title "Cellulosic materials",
-  :status :granted,
-  :id "US2895891",
-  :sourcing :authoritative,
-  :filing-year 1957,
-  :assignee :general-electric,
-  :grant-year 1959,
-  :term-years 20,
-  :open-license :none}
- {:jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US2895944/en",
-  :title "Novel condensation products",
-  :status :granted,
-  :id "US2895944",
-  :sourcing :authoritative,
-  :filing-year 1955,
-  :assignee :unassigned,
-  :grant-year 1959,
-  :cites ["GB474601A"],
-  :term-years 20,
-  :open-license :none}
- {:jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US2896387/en",
-  :title "Machine for packaging articles",
-  :status :granted,
-  :id "US2896387",
-  :sourcing :authoritative,
-  :filing-year 1957,
-  :assignee :unassigned,
-  :grant-year 1959,
-  :cites
-  ["US2530306"
-   "US2546059"
-   "US2549122"
-   "US2549123"
-   "US2597041"
-   "US2736150"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:fenwal-laboratories],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US2896619/en",
-  :title "Apparatus for handling fluid blood",
-  :status :granted,
-  :id "US2896619",
-  :sourcing :authoritative,
-  :filing-year 1954,
-  :assignee :fenwal-laboratories,
-  :grant-year 1959,
-  :cites
-  ["DE88138C"
-   "GB105038A"
-   "GB189127A"
-   "US2700973"
-   "US2702034"
-   "US2780225"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:lehigh],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US2896763/en",
-  :title "Vending machine",
-  :status :granted,
-  :id "US2896763",
-  :sourcing :authoritative,
-  :filing-year 1954,
-  :assignee :lehigh,
-  :grant-year 1959,
-  :cites
-  ["GB451694A"
-   "NL73584C"
-   "US1891908"
-   "US2153113"
-   "US2224646"
-   "US2231494"
-   "US2237132"
-   "US2295000"
-   "US2323981"
-   "US2333176"
-   "US2526512"
-   "US2552156"
-   "US2589214"
-   "US2615545"
-   "US2642974"
-   "US2659470"
-   "US2731621"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:ei-du-pont-de-nemours-and],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US2898282/en",
-  :title "Electrolytic oxygen analysis",
-  :status :granted,
-  :id "US2898282",
-  :sourcing :authoritative,
-  :filing-year 1956,
-  :assignee :ei-du-pont-de-nemours-and,
-  :grant-year 1959,
-  :cites
-  ["BE516935A"
-   "CA516165A"
-   "US1474151"
-   "US2370871"
-   "US2401287"
-   "US2464087"
-   "US2540674"
-   "US2651612"
-   "US2685025"
-   "US2805191"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:ei-du-pont-de-nemours-and],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US2900369/en",
-  :title "Polyimide composition",
-  :status :granted,
-  :id "US2900369",
-  :sourcing :authoritative,
-  :filing-year 1955,
-  :assignee :ei-du-pont-de-nemours-and,
-  :grant-year 1959,
-  :cites ["US2130523" "US2464693" "US2710853"],
   :term-years 20,
   :open-license :none}]

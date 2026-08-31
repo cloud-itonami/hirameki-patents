@@ -1,4 +1,233 @@
-[{:assignees [:xerox],
+[{:assignees [:us-philips],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2887629/en",
+  :title "Transistor",
+  :status :granted,
+  :id "US2887629",
+  :sourcing :authoritative,
+  :filing-year 1957,
+  :assignee :us-philips,
+  :grant-year 1959,
+  :cites ["US2812480"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:bowater-research-and-development],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2888902/en",
+  :title "Apparatus for coating paper",
+  :status :granted,
+  :id "US2888902",
+  :sourcing :authoritative,
+  :filing-year 1956,
+  :assignee :bowater-research-and-development,
+  :grant-year 1959,
+  :cites
+  ["US1711596"
+   "US1847065"
+   "US2369378"
+   "US2398844"
+   "US2645201"
+   "US2772184"],
+  :term-years 20,
+  :open-license :none}
+ {:jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2889736/en",
+  :title "Oil testing apparatus",
+  :status :granted,
+  :id "US2889736",
+  :sourcing :authoritative,
+  :filing-year 1954,
+  :assignee :unassigned,
+  :grant-year 1959,
+  :cites
+  ["DE246050C"
+   "GB500892A"
+   "US1864092"
+   "US1938544"
+   "US1940772"
+   "US2059374"
+   "US2062587"
+   "US2062588"
+   "US2082252"
+   "US2510347"
+   "US2690695"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:union-carbide],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2890209/en",
+  :title
+  "Polymers of 3, 4-epoxycyclohexylmethyl 3, 4-epoxycyclohexanecarboxylates",
+  :status :granted,
+  :id "US2890209",
+  :sourcing :authoritative,
+  :filing-year 1956,
+  :assignee :union-carbide,
+  :grant-year 1959,
+  :cites ["US2706181" "US2706182" "US2706189" "US2716123"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:ei-du-pont-de-nemours-and],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2892712/en",
+  :title "Process for preparing relief images",
+  :status :granted,
+  :id "US2892712",
+  :sourcing :authoritative,
+  :filing-year 1954,
+  :assignee :ei-du-pont-de-nemours-and,
+  :grant-year 1959,
+  :cites
+  ["US1574357"
+   "US1655127"
+   "US1957900"
+   "US2484529"
+   "US2604388"
+   "US2675315"
+   "US2712996"
+   "US2760863"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:general-electric],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2895891/en",
+  :title "Cellulosic materials",
+  :status :granted,
+  :id "US2895891",
+  :sourcing :authoritative,
+  :filing-year 1957,
+  :assignee :general-electric,
+  :grant-year 1959,
+  :term-years 20,
+  :open-license :none}
+ {:jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2895944/en",
+  :title "Novel condensation products",
+  :status :granted,
+  :id "US2895944",
+  :sourcing :authoritative,
+  :filing-year 1955,
+  :assignee :unassigned,
+  :grant-year 1959,
+  :cites ["GB474601A"],
+  :term-years 20,
+  :open-license :none}
+ {:jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2896387/en",
+  :title "Machine for packaging articles",
+  :status :granted,
+  :id "US2896387",
+  :sourcing :authoritative,
+  :filing-year 1957,
+  :assignee :unassigned,
+  :grant-year 1959,
+  :cites
+  ["US2530306"
+   "US2546059"
+   "US2549122"
+   "US2549123"
+   "US2597041"
+   "US2736150"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:fenwal-laboratories],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2896619/en",
+  :title "Apparatus for handling fluid blood",
+  :status :granted,
+  :id "US2896619",
+  :sourcing :authoritative,
+  :filing-year 1954,
+  :assignee :fenwal-laboratories,
+  :grant-year 1959,
+  :cites
+  ["DE88138C"
+   "GB105038A"
+   "GB189127A"
+   "US2700973"
+   "US2702034"
+   "US2780225"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:lehigh],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2896763/en",
+  :title "Vending machine",
+  :status :granted,
+  :id "US2896763",
+  :sourcing :authoritative,
+  :filing-year 1954,
+  :assignee :lehigh,
+  :grant-year 1959,
+  :cites
+  ["GB451694A"
+   "NL73584C"
+   "US1891908"
+   "US2153113"
+   "US2224646"
+   "US2231494"
+   "US2237132"
+   "US2295000"
+   "US2323981"
+   "US2333176"
+   "US2526512"
+   "US2552156"
+   "US2589214"
+   "US2615545"
+   "US2642974"
+   "US2659470"
+   "US2731621"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:ei-du-pont-de-nemours-and],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2898282/en",
+  :title "Electrolytic oxygen analysis",
+  :status :granted,
+  :id "US2898282",
+  :sourcing :authoritative,
+  :filing-year 1956,
+  :assignee :ei-du-pont-de-nemours-and,
+  :grant-year 1959,
+  :cites
+  ["BE516935A"
+   "CA516165A"
+   "US1474151"
+   "US2370871"
+   "US2401287"
+   "US2464087"
+   "US2540674"
+   "US2651612"
+   "US2685025"
+   "US2805191"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:ei-du-pont-de-nemours-and],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2900369/en",
+  :title "Polyimide composition",
+  :status :granted,
+  :id "US2900369",
+  :sourcing :authoritative,
+  :filing-year 1955,
+  :assignee :ei-du-pont-de-nemours-and,
+  :grant-year 1959,
+  :cites ["US2130523" "US2464693" "US2710853"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:xerox],
   :jurisdiction :us,
   :field "UNKNOWN",
   :source "https://patents.google.com/patent/US2901348/en",
@@ -3829,6 +4058,19 @@
   :cites ["US2848308"],
   :term-years 20,
   :open-license :none}
+ {:jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3102082/en",
+  :title "Apparatus and method for culturing micro-organisms",
+  :status :granted,
+  :id "US3102082",
+  :sourcing :authoritative,
+  :filing-year 1961,
+  :assignee :unassigned,
+  :grant-year 1963,
+  :cites ["US2954327" "US2971850" "US2980540"],
+  :term-years 20,
+  :open-license :none}
  {:assignees [:mead],
   :jurisdiction :us,
   :field "UNKNOWN",
@@ -5946,6 +6188,26 @@
   :cites ["US2344232" "US2513394" "US2554663" "US3043211"],
   :term-years 20,
   :open-license :none}
+ {:jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3223595/en",
+  :title "Culturflex apparatus and flexible tubular casing therein",
+  :status :granted,
+  :id "US3223595",
+  :sourcing :authoritative,
+  :filing-year 1962,
+  :assignee :unassigned,
+  :grant-year 1965,
+  :cites
+  ["US2244902"
+   "US2715795"
+   "US2981660"
+   "US3000706"
+   "US3015612"
+   "US3028312"
+   "US3065148"],
+  :term-years 20,
+  :open-license :none}
  {:assignees [:canadian-industries],
   :jurisdiction :us,
   :field "UNKNOWN",
@@ -6918,6 +7180,20 @@
   :assignee :roche-palo-alto,
   :grant-year 1966,
   :cites ["US3079379" "US3155646" "US3171833"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:dow-chemical],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3281307/en",
+  :title "Packing",
+  :status :granted,
+  :id "US3281307",
+  :sourcing :authoritative,
+  :filing-year 1962,
+  :assignee :dow-chemical,
+  :grant-year 1966,
+  :cites ["GB157332A" "US1908389" "US1967026" "US752775"],
   :term-years 20,
   :open-license :none}
  {:assignees [:telefunken-patentverwertungs],
@@ -8011,6 +8287,21 @@
   :assignee :coulter-electronics,
   :grant-year 1967,
   :cites ["US3165692" "US3165693"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:dow-chemical],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3342729/en",
+  :title
+  "Permeability separatory cell and apparatus and method of using the same",
+  :status :granted,
+  :id "US3342729",
+  :sourcing :authoritative,
+  :filing-year 1964,
+  :assignee :dow-chemical,
+  :grant-year 1967,
+  :cites ["US2982416" "US3228877"],
   :term-years 20,
   :open-license :none}
  {:assignees [:merck-and],
@@ -9401,256 +9692,5 @@
    "US3043067"
    "US3046210"
    "US3157524"],
-  :term-years 20,
-  :open-license :none}
- {:jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3451777/en",
-  :title
-  "Method and apparatus for determining the thyroid hormone content of blood",
-  :status :granted,
-  :id "US3451777",
-  :sourcing :authoritative,
-  :filing-year 1965,
-  :assignee :unassigned,
-  :grant-year 1969,
-  :cites ["US2702034" "US2935194" "US3206602"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:ei-du-pont-de-nemours-and],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3451820/en",
-  :title "Dispersions of lipophilic colorcoupling copolymers",
-  :status :granted,
-  :id "US3451820",
-  :sourcing :authoritative,
-  :filing-year 1965,
-  :assignee :ei-du-pont-de-nemours-and,
-  :grant-year 1969,
-  :cites ["US2801171" "US3163625"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:miles-laboratories],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3453180/en",
-  :title "Test article",
-  :status :granted,
-  :id "US3453180",
-  :sourcing :authoritative,
-  :filing-year 1965,
-  :assignee :miles-laboratories,
-  :grant-year 1969,
-  :cites ["US3016292" "US3123443" "US3298789"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:dow-corning],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3453194/en",
-  :title
-  "Anticoagulant surfaces produced by radiation grafting heparin to a silicone substrate",
-  :status :granted,
-  :id "US3453194",
-  :sourcing :authoritative,
-  :filing-year 1966,
-  :assignee :dow-corning,
-  :grant-year 1969,
-  :term-years 20,
-  :open-license :none}
- {:assignees [:ajinomoto],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3454559/en",
-  :title "Preparation of guanosine and intermediates obtained thereby",
-  :status :granted,
-  :id "US3454559",
-  :sourcing :authoritative,
-  :filing-year 1968,
-  :assignee :ajinomoto,
-  :grant-year 1969,
-  :cites ["US3116282" "US3332935"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:minnesota-mining-and-manufacturing],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3455736/en",
-  :title "Cured polyarylene oxides and process therefor",
-  :status :granted,
-  :id "US3455736",
-  :sourcing :authoritative,
-  :filing-year 1967,
-  :assignee :minnesota-mining-and-manufacturing,
-  :grant-year 1969,
-  :cites ["US3228910" "US3306875" "US3373226"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:lever-brothers],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3455788/en",
-  :title "Multiple inoculation device",
-  :status :granted,
-  :id "US3455788",
-  :sourcing :authoritative,
-  :filing-year 1966,
-  :assignee :lever-brothers,
-  :grant-year 1969,
-  :cites ["US1512893" "US2838781" "US2956931" "US3234107"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:hercules],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3458597/en",
-  :title "Process for preparation of polymer hydroperoxides",
-  :status :granted,
-  :id "US3458597",
-  :sourcing :authoritative,
-  :filing-year 1965,
-  :assignee :hercules,
-  :grant-year 1969,
-  :cites ["US3069382"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:schlumberger-technology],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3460618/en",
-  :title "Thru-tubing bridge plug",
-  :status :granted,
-  :id "US3460618",
-  :sourcing :authoritative,
-  :filing-year 1967,
-  :assignee :schlumberger-technology,
-  :grant-year 1969,
-  :cites
-  ["US2222750"
-   "US2618344"
-   "US2629446"
-   "US2717644"
-   "US2769498"
-   "US2978029"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:recognition-equipment],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3460673/en",
-  :title "Document sorting apparatus",
-  :status :granted,
-  :id "US3460673",
-  :sourcing :authoritative,
-  :filing-year 1967,
-  :assignee :recognition-equipment,
-  :grant-year 1969,
-  :cites ["US3038607" "US3352417" "US3368672"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:dynachem],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3462267/en",
-  :title "Offset printing plates",
-  :status :granted,
-  :id "US3462267",
-  :sourcing :authoritative,
-  :filing-year 1966,
-  :assignee :dynachem,
-  :grant-year 1969,
-  :cites ["US3376138" "US3376139"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:upjohn],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3462416/en",
-  :title "Hydrogenated pyrimidine nucleosides and nucleotides",
-  :status :granted,
-  :id "US3462416",
-  :sourcing :authoritative,
-  :filing-year 1967,
-  :assignee :upjohn,
-  :grant-year 1969,
-  :cites ["US3328388"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:alpana-aluminum-products],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3462884/en",
-  :title "Insulated metal frame and sliding closure",
-  :status :granted,
-  :id "US3462884",
-  :sourcing :authoritative,
-  :filing-year 1968,
-  :assignee :alpana-aluminum-products,
-  :grant-year 1969,
-  :cites ["US2843233" "US2912077" "US2952883" "US3336719"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:sperry-rand],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3463566/en",
-  :title "Automatic article-handling system",
-  :status :granted,
-  :id "US3463566",
-  :sourcing :authoritative,
-  :filing-year 1967,
-  :assignee :sperry-rand,
-  :grant-year 1969,
-  :cites
-  ["US2386520"
-   "US2707666"
-   "US2965291"
-   "US2974803"
-   "US3049247"
-   "US3076566"
-   "US3297379"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:hughes-aircraft],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3463594/en",
-  :title "Laser tool apparatus",
-  :status :granted,
-  :id "US3463594",
-  :sourcing :authoritative,
-  :filing-year 1965,
-  :assignee :hughes-aircraft,
-  :grant-year 1969,
-  :cites ["US1932337" "US3369101"],
-  :term-years 20,
-  :open-license :none}
- {:jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3464798/en",
-  :title "Ion-exchange or chemical interaction plastic form",
-  :status :granted,
-  :id "US3464798",
-  :sourcing :authoritative,
-  :filing-year 1965,
-  :assignee :unassigned,
-  :grant-year 1969,
-  :cites ["US2587221" "US3206602"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:international-business-machines],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3466514/en",
-  :title
-  "Method and apparatus for positioning objects in preselected orientations",
-  :status :granted,
-  :id "US3466514",
-  :sourcing :authoritative,
-  :filing-year 1967,
-  :assignee :international-business-machines,
-  :grant-year 1969,
-  :cites ["US3188879" "US3371256" "US3390315"],
   :term-years 20,
   :open-license :none}]
