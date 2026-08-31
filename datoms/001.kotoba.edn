@@ -3312,6 +3312,47 @@
   ":hirameki/source"
   "https://patents.google.com/patent/JP2000062112A/en"]
  [":db/add"
+  "hirameki-patent:JP2000095808A"
+  ":hirameki.patent/title"
+  "Production of propylene-based polymer"]
+ [":db/add"
+  "hirameki-patent:JP2000095808A"
+  ":hirameki.patent/jurisdiction"
+  ":jp"]
+ [":db/add"
+  "hirameki-patent:JP2000095808A"
+  ":hirameki.patent/field"
+  "UNKNOWN"]
+ [":db/add"
+  "hirameki-patent:JP2000095808A"
+  ":hirameki.patent/assignee"
+  ":idemitsu-petrochemical"]
+ [":db/add"
+  "hirameki-patent:JP2000095808A"
+  ":hirameki.patent/status"
+  ":pending"]
+ [":db/add"
+  "hirameki-patent:JP2000095808A"
+  ":hirameki.patent/open-license"
+  ":none"]
+ [":db/add"
+  "hirameki-patent:JP2000095808A"
+  ":hirameki.obs/release-status"
+  ":pending"]
+ [":db/add"
+  "hirameki-patent:JP2000095808A"
+  ":hirameki/sourcing"
+  ":authoritative"]
+ [":db/add" "hirameki-patent:JP2000095808A" ":hirameki/derived" true]
+ [":db/add"
+  "hirameki-patent:JP2000095808A"
+  ":hirameki.obs/years-to-expiry"
+  -7]
+ [":db/add"
+  "hirameki-patent:JP2000095808A"
+  ":hirameki/source"
+  "https://patents.google.com/patent/JP2000095808A/en"]
+ [":db/add"
   "hirameki-patent:JP2000117889A"
   ":hirameki.patent/title"
   "Fluororesin coated metal plate"]
@@ -9934,46 +9975,5 @@
   ":pending"]
  [":db/add"
   "hirameki-patent:JP2009222295A"
-  ":hirameki.patent/open-license"
-  ":none"]
- [":db/add"
-  "hirameki-patent:JP2009222295A"
-  ":hirameki.obs/release-status"
-  ":pending"]
- [":db/add"
-  "hirameki-patent:JP2009222295A"
-  ":hirameki/sourcing"
-  ":authoritative"]
- [":db/add" "hirameki-patent:JP2009222295A" ":hirameki/derived" true]
- [":db/add"
-  "hirameki-patent:JP2009222295A"
-  ":hirameki.obs/years-to-expiry"
-  2]
- [":db/add"
-  "hirameki-patent:JP2009222295A"
-  ":hirameki/source"
-  "https://patents.google.com/patent/JP2009222295A/en"]
- [":db/add"
-  "hirameki-patent:JP2009505807A"
-  ":hirameki.patent/title"
-  "Method for forming glittering multilayer coating film"]
- [":db/add"
-  "hirameki-patent:JP2009505807A"
-  ":hirameki.patent/jurisdiction"
-  ":jp"]
- [":db/add"
-  "hirameki-patent:JP2009505807A"
-  ":hirameki.patent/field"
-  "UNKNOWN"]
- [":db/add"
-  "hirameki-patent:JP2009505807A"
-  ":hirameki.patent/assignee"
-  ":kansai-paint"]
- [":db/add"
-  "hirameki-patent:JP2009505807A"
-  ":hirameki.patent/status"
-  ":pending"]
- [":db/add"
-  "hirameki-patent:JP2009505807A"
   ":hirameki.patent/open-license"
   ":none"]]

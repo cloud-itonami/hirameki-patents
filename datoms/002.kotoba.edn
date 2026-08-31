@@ -1,4 +1,45 @@
 [[":db/add"
+  "hirameki-patent:JP2009222295A"
+  ":hirameki.obs/release-status"
+  ":pending"]
+ [":db/add"
+  "hirameki-patent:JP2009222295A"
+  ":hirameki/sourcing"
+  ":authoritative"]
+ [":db/add" "hirameki-patent:JP2009222295A" ":hirameki/derived" true]
+ [":db/add"
+  "hirameki-patent:JP2009222295A"
+  ":hirameki.obs/years-to-expiry"
+  2]
+ [":db/add"
+  "hirameki-patent:JP2009222295A"
+  ":hirameki/source"
+  "https://patents.google.com/patent/JP2009222295A/en"]
+ [":db/add"
+  "hirameki-patent:JP2009505807A"
+  ":hirameki.patent/title"
+  "Method for forming glittering multilayer coating film"]
+ [":db/add"
+  "hirameki-patent:JP2009505807A"
+  ":hirameki.patent/jurisdiction"
+  ":jp"]
+ [":db/add"
+  "hirameki-patent:JP2009505807A"
+  ":hirameki.patent/field"
+  "UNKNOWN"]
+ [":db/add"
+  "hirameki-patent:JP2009505807A"
+  ":hirameki.patent/assignee"
+  ":kansai-paint"]
+ [":db/add"
+  "hirameki-patent:JP2009505807A"
+  ":hirameki.patent/status"
+  ":pending"]
+ [":db/add"
+  "hirameki-patent:JP2009505807A"
+  ":hirameki.patent/open-license"
+  ":none"]
+ [":db/add"
   "hirameki-patent:JP2009505807A"
   ":hirameki.obs/release-status"
   ":pending"]
@@ -10318,49 +10359,4 @@
  [":db/add"
   "hirameki-patent:US2224538"
   ":hirameki.patent/assignee"
-  ":standard-oil-development"]
- [":db/add"
-  "hirameki-patent:US2224538"
-  ":hirameki.patent/status"
-  ":granted"]
- [":db/add"
-  "hirameki-patent:US2224538"
-  ":hirameki.patent/open-license"
-  ":none"]
- [":db/add"
-  "hirameki-patent:US2224538"
-  ":hirameki.obs/release-status"
-  ":public-domain"]
- [":db/add"
-  "hirameki-patent:US2224538"
-  ":hirameki/sourcing"
-  ":authoritative"]
- [":db/add" "hirameki-patent:US2224538" ":hirameki/derived" true]
- [":db/add"
-  "hirameki-patent:US2224538"
-  ":hirameki.obs/years-to-expiry"
-  -67]
- [":db/add"
-  "hirameki-patent:US2224538"
-  ":hirameki/source"
-  "https://patents.google.com/patent/US2224538/en"]
- [":db/add"
-  "hirameki-patent:US2224922"
-  ":hirameki.patent/title"
-  "Handling of continuous filaments"]
- [":db/add"
-  "hirameki-patent:US2224922"
-  ":hirameki.patent/jurisdiction"
-  ":us"]
- [":db/add"
-  "hirameki-patent:US2224922"
-  ":hirameki.patent/field"
-  "UNKNOWN"]
- [":db/add"
-  "hirameki-patent:US2224922"
-  ":hirameki.patent/assignee"
-  ":celanese"]
- [":db/add"
-  "hirameki-patent:US2224922"
-  ":hirameki.patent/status"
-  ":granted"]]
+  ":standard-oil-development"]]

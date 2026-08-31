@@ -1,4 +1,17 @@
-[{:assignees [:k-c-m],
+[{:assignees [:general-electric],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2064651/en",
+  :title "Humidity responsive device",
+  :status :granted,
+  :id "US2064651",
+  :sourcing :authoritative,
+  :filing-year 1931,
+  :assignee :general-electric,
+  :grant-year 1936,
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:k-c-m],
   :jurisdiction :us,
   :field "UNKNOWN",
   :source "https://patents.google.com/patent/US2064776/en",
@@ -5907,6 +5920,20 @@
    "US826781"],
   :term-years 20,
   :open-license :none}
+ {:assignees [:american-cyanamid],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2632020/en",
+  :title "Dithiophosphate esters",
+  :status :granted,
+  :id "US2632020",
+  :sourcing :authoritative,
+  :filing-year 1951,
+  :assignee :american-cyanamid,
+  :grant-year 1953,
+  :cites ["US2494283" "US2494284" "US2578652"],
+  :term-years 20,
+  :open-license :none}
  {:assignees [:ei-du-pont-de-nemours-and],
   :jurisdiction :us,
   :field "UNKNOWN",
@@ -6698,6 +6725,20 @@
    "US2176093"
    "US2511415"
    "US2545266"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:jr-geigy],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2679508/en",
+  :title "Phosphoric acid esters and their production",
+  :status :granted,
+  :id "US2679508",
+  :sourcing :authoritative,
+  :filing-year 1951,
+  :assignee :jr-geigy,
+  :grant-year 1954,
+  :cites ["US2318296"],
   :term-years 20,
   :open-license :none}
  {:assignees [:general-electric],
@@ -7868,6 +7909,21 @@
    "US2652742"],
   :term-years 20,
   :open-license :none}
+ {:assignees [:fmc],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2758954/en",
+  :title
+  "Stable mixture of diethylparanitro-phenylthionophosphate and solid extender and method of making same",
+  :status :granted,
+  :id "US2758954",
+  :sourcing :authoritative,
+  :filing-year 1952,
+  :assignee :fmc,
+  :grant-year 1956,
+  :cites ["CH266295A" "GB655875A" "US2520393"],
+  :term-years 20,
+  :open-license :none}
  {:assignees [:polaroid],
   :jurisdiction :us,
   :field "UNKNOWN",
@@ -8541,6 +8597,21 @@
    "US2513189"
    "US2543181"
    "US2606832"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:allied-chemical-and-dye],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2789124/en",
+  :title
+  "Organic phosphate compounds and method of preparation and use thereof",
+  :status :granted,
+  :id "US2789124",
+  :sourcing :authoritative,
+  :filing-year 1951,
+  :assignee :allied-chemical-and-dye,
+  :grant-year 1957,
+  :cites ["US2565920" "US2565921" "US2583744"],
   :term-years 20,
   :open-license :none}
  {:assignees [:gardner-board-and-carton],
@@ -9262,6 +9333,20 @@
   :cites ["DE592923C" "US2290436" "US2387244" "US2418392" "US2567445"],
   :term-years 20,
   :open-license :none}
+ {:assignees [:pabst-brewing],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2844514/en",
+  :title "Process for the production of nucleotides",
+  :status :granted,
+  :id "US2844514",
+  :sourcing :authoritative,
+  :filing-year 1953,
+  :assignee :pabst-brewing,
+  :grant-year 1958,
+  :cites ["GB615891A" "US2101099" "US2152662" "US2606899"],
+  :term-years 20,
+  :open-license :none}
  {:assignees [:american-cyanamid],
   :jurisdiction :us,
   :field "UNKNOWN",
@@ -9657,97 +9742,5 @@
   :assignee :hyland-laboratories,
   :grant-year 1959,
   :cites ["US2672431" "US2677646"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:firestone-tire-and-rubber],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US2874407/en",
-  :title "Latex slab making apparatus",
-  :status :granted,
-  :id "US2874407",
-  :sourcing :authoritative,
-  :filing-year 1955,
-  :assignee :firestone-tire-and-rubber,
-  :grant-year 1959,
-  :cites
-  ["GB699667A"
-   "NL39915C"
-   "US2072597"
-   "US2161308"
-   "US2324977"
-   "US2369484"
-   "US2404582"
-   "US2441235"
-   "US2623239"
-   "US2712154"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:commonwealth-engineering-company-of-ohio],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US2875666/en",
-  :title "Method of simultaneously counting red and white blood cells",
-  :status :granted,
-  :id "US2875666",
-  :sourcing :authoritative,
-  :filing-year 1953,
-  :assignee :commonwealth-engineering-company-of-ohio,
-  :grant-year 1959,
-  :cites
-  ["US1971443"
-   "US1974522"
-   "US2369577"
-   "US2519997"
-   "US2584052"
-   "US2661902"
-   "US2791150"],
-  :term-years 20,
-  :open-license :none}
- {:jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US2877121/en",
-  :title "Method of forming frozen confection packages",
-  :status :granted,
-  :id "US2877121",
-  :sourcing :authoritative,
-  :filing-year 1954,
-  :assignee :unassigned,
-  :grant-year 1959,
-  :cites
-  ["US1618324"
-   "US1986589"
-   "US2227236"
-   "US2450364"
-   "US2582655"
-   "US2627472"
-   "US2691259"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:e-h-sargent-and],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US2878106/en",
-  :title "Automatic differential potentiometric titrator",
-  :status :granted,
-  :id "US2878106",
-  :sourcing :authoritative,
-  :filing-year 1955,
-  :assignee :e-h-sargent-and,
-  :grant-year 1959,
-  :cites ["US1684645" "US2621673"],
-  :term-years 20,
-  :open-license :none}
- {:jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US2878388/en",
-  :title "Gas analyzing system",
-  :status :granted,
-  :id "US2878388",
-  :sourcing :authoritative,
-  :filing-year 1954,
-  :assignee :unassigned,
-  :grant-year 1959,
-  :cites ["US2212211" "US2697789" "US2703844" "US2761067"],
   :term-years 20,
   :open-license :none}]

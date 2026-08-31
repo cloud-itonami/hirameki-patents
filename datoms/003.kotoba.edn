@@ -1,4 +1,49 @@
 [[":db/add"
+  "hirameki-patent:US2224538"
+  ":hirameki.patent/status"
+  ":granted"]
+ [":db/add"
+  "hirameki-patent:US2224538"
+  ":hirameki.patent/open-license"
+  ":none"]
+ [":db/add"
+  "hirameki-patent:US2224538"
+  ":hirameki.obs/release-status"
+  ":public-domain"]
+ [":db/add"
+  "hirameki-patent:US2224538"
+  ":hirameki/sourcing"
+  ":authoritative"]
+ [":db/add" "hirameki-patent:US2224538" ":hirameki/derived" true]
+ [":db/add"
+  "hirameki-patent:US2224538"
+  ":hirameki.obs/years-to-expiry"
+  -67]
+ [":db/add"
+  "hirameki-patent:US2224538"
+  ":hirameki/source"
+  "https://patents.google.com/patent/US2224538/en"]
+ [":db/add"
+  "hirameki-patent:US2224922"
+  ":hirameki.patent/title"
+  "Handling of continuous filaments"]
+ [":db/add"
+  "hirameki-patent:US2224922"
+  ":hirameki.patent/jurisdiction"
+  ":us"]
+ [":db/add"
+  "hirameki-patent:US2224922"
+  ":hirameki.patent/field"
+  "UNKNOWN"]
+ [":db/add"
+  "hirameki-patent:US2224922"
+  ":hirameki.patent/assignee"
+  ":celanese"]
+ [":db/add"
+  "hirameki-patent:US2224922"
+  ":hirameki.patent/status"
+  ":granted"]
+ [":db/add"
   "hirameki-patent:US2224922"
   ":hirameki.patent/open-license"
   ":none"]
@@ -10376,45 +10421,4 @@
  [":db/add"
   "hirameki-patent:US2543814"
   ":hirameki/source"
-  "https://patents.google.com/patent/US2543814/en"]
- [":db/add"
-  "hirameki-patent:US2549574"
-  ":hirameki.patent/title"
-  "Apparatus for making fluorophotometric measurements"]
- [":db/add"
-  "hirameki-patent:US2549574"
-  ":hirameki.patent/jurisdiction"
-  ":us"]
- [":db/add"
-  "hirameki-patent:US2549574"
-  ":hirameki.patent/field"
-  "UNKNOWN"]
- [":db/add"
-  "hirameki-patent:US2549574"
-  ":hirameki.patent/assignee"
-  ":archer-daniels-midland"]
- [":db/add"
-  "hirameki-patent:US2549574"
-  ":hirameki.patent/status"
-  ":granted"]
- [":db/add"
-  "hirameki-patent:US2549574"
-  ":hirameki.patent/open-license"
-  ":none"]
- [":db/add"
-  "hirameki-patent:US2549574"
-  ":hirameki.obs/release-status"
-  ":public-domain"]
- [":db/add"
-  "hirameki-patent:US2549574"
-  ":hirameki/sourcing"
-  ":authoritative"]
- [":db/add" "hirameki-patent:US2549574" ":hirameki/derived" true]
- [":db/add"
-  "hirameki-patent:US2549574"
-  ":hirameki.obs/years-to-expiry"
-  -58]
- [":db/add"
-  "hirameki-patent:US2549574"
-  ":hirameki/source"
-  "https://patents.google.com/patent/US2549574/en"]]
+  "https://patents.google.com/patent/US2543814/en"]]

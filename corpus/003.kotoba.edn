@@ -1,4 +1,218 @@
-[{:assignees [:bausch-and-lomb],
+[{:assignees [:universal-oil-products],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3428179/en",
+  :title "In-line magnetic particle collector",
+  :status :granted,
+  :id "US3428179",
+  :sourcing :authoritative,
+  :filing-year 1965,
+  :assignee :universal-oil-products,
+  :grant-year 1969,
+  :cites
+  ["DE1128821B"
+   "SU151749A1"
+   "US2688403"
+   "US2717080"
+   "US2759606"
+   "US3121683"
+   "US453317"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:james-e-meinhard],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3428892/en",
+  :title
+  "Electronic olfactory detector having organic semiconductor barrier layer structure",
+  :status :granted,
+  :id "US3428892",
+  :sourcing :authoritative,
+  :filing-year 1965,
+  :assignee :james-e-meinhard,
+  :grant-year 1969,
+  :cites ["US2007324" "US2047638" "US2504965" "US2711511" "US3249830"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:merck-and],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3431252/en",
+  :title
+  "5,5-dialkyl-d-ribofuranosyl purine compounds and intermediates",
+  :status :granted,
+  :id "US3431252",
+  :sourcing :authoritative,
+  :filing-year 1966,
+  :assignee :merck-and,
+  :grant-year 1969,
+  :cites ["US2719843" "US2876230" "US3074930" "US3116282" "US3225029"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:phillips-petroleum],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3432333/en",
+  :title "Composite differential release tape",
+  :status :granted,
+  :id "US3432333",
+  :sourcing :authoritative,
+  :filing-year 1966,
+  :assignee :phillips-petroleum,
+  :grant-year 1969,
+  :cites ["US2940884" "US3076726" "US3166186" "US3214285"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:beckman-instruments],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3432424/en",
+  :title "Immunoelectrophoresis antiserum strips",
+  :status :granted,
+  :id "US3432424",
+  :sourcing :authoritative,
+  :filing-year 1965,
+  :assignee :beckman-instruments,
+  :grant-year 1969,
+  :cites ["US2768948" "US2834729" "US3317418"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:miles-laboratories],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3433782/en",
+  :title "Separation and recovery of oligonucleotides",
+  :status :granted,
+  :id "US3433782",
+  :sourcing :authoritative,
+  :filing-year 1965,
+  :assignee :miles-laboratories,
+  :grant-year 1969,
+  :cites ["US3157635" "US3324110"],
+  :term-years 20,
+  :open-license :none}
+ {:jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US343387/en",
+  :title "Heney j",
+  :status :granted,
+  :id "US343387",
+  :sourcing :authoritative,
+  :assignee :unassigned,
+  :grant-year 1886,
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:united-states-department-of-the-air-force],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3434467/en",
+  :title "Implantable radiation assembly for circulating systems",
+  :status :granted,
+  :id "US3434467",
+  :sourcing :authoritative,
+  :filing-year 1966,
+  :assignee :united-states-department-of-the-air-force,
+  :grant-year 1969,
+  :cites ["DE600716C" "US2479882" "US2968734"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:colab-lab],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3434801/en",
+  :title
+  "Diagnostic test material for determination of ovulatory function and method for production of said test material",
+  :status :granted,
+  :id "US3434801",
+  :sourcing :authoritative,
+  :filing-year 1964,
+  :assignee :colab-lab,
+  :grant-year 1969,
+  :cites ["US2676874" "US3021257"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:american-cyanamid],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3435008/en",
+  :title
+  "Method for preparation of isomerically pure beta-glycolide and polymerization method for glycolide compositions employing partial hydrolyzate of said beta-glycolide",
+  :status :granted,
+  :id "US3435008",
+  :sourcing :authoritative,
+  :filing-year 1967,
+  :assignee :american-cyanamid,
+  :grant-year 1969,
+  :cites ["US2585427" "US2668162" "US2676945" "US3297033"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:lkb-produkter],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3435239/en",
+  :title
+  "Radiation absorption tester using rc network to simulate absorption function",
+  :status :granted,
+  :id "US3435239",
+  :sourcing :authoritative,
+  :filing-year 1965,
+  :assignee :lkb-produkter,
+  :grant-year 1969,
+  :cites ["US2668284" "US3109930"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:biological-research],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3436171/en",
+  :title "Device for sterilizing inoculation needles and loops",
+  :status :granted,
+  :id "US3436171",
+  :sourcing :authoritative,
+  :filing-year 1965,
+  :assignee :biological-research,
+  :grant-year 1969,
+  :cites ["US1505726" "US1530199" "US1625487" "US3311694" "US699146"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:texas-instruments],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3436468/en",
+  :title
+  "Plastic bodies having regions of altered chemical structure and method of making same",
+  :status :granted,
+  :id "US3436468",
+  :sourcing :authoritative,
+  :filing-year 1965,
+  :assignee :texas-instruments,
+  :grant-year 1969,
+  :cites
+  ["US2690403"
+   "US3011920"
+   "US3113896"
+   "US3119707"
+   "US3181172"
+   "US3272670"
+   "US3296359"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:weather-proof],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3436884/en",
+  :title
+  "Thermal-barrier between inner and outer frames of double frame window structure",
+  :status :granted,
+  :id "US3436884",
+  :sourcing :authoritative,
+  :filing-year 1967,
+  :assignee :weather-proof,
+  :grant-year 1969,
+  :cites ["US2835360" "US3055468" "US3114179" "US3156332" "US3191727"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:bausch-and-lomb],
   :jurisdiction :us,
   :field "UNKNOWN",
   :source "https://patents.google.com/patent/US3437447/en",
@@ -2327,6 +2541,19 @@
   :sourcing :authoritative,
   :filing-year 1968,
   :assignee :formica,
+  :grant-year 1971,
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:boehringer-mannheim],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3590029/en",
+  :title "2-amino-adenosine derivatives",
+  :status :granted,
+  :id "US3590029",
+  :sourcing :authoritative,
+  :filing-year 1968,
+  :assignee :boehringer-mannheim,
   :grant-year 1971,
   :term-years 20,
   :open-license :none}
@@ -5368,6 +5595,19 @@
   :grant-year 1973,
   :term-years 20,
   :open-license :none}
+ {:assignees [:university-of-sydney],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3752805/en",
+  :title "2-loweralkylthioadenosines",
+  :status :granted,
+  :id "US3752805",
+  :sourcing :authoritative,
+  :filing-year 1970,
+  :assignee :university-of-sydney,
+  :grant-year 1973,
+  :term-years 20,
+  :open-license :none}
  {:assignees [:wr-grace-and],
   :jurisdiction :us,
   :field "UNKNOWN",
@@ -7434,6 +7674,20 @@
   :cites ["US3234096" "US3505019" "US3555143" "US3592888" "US3646346"],
   :term-years 20,
   :open-license :none}
+ {:assignees [:ajinomoto],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3856777/en",
+  :title "Method of producing pyrimidine nucleoside derivatives",
+  :status :granted,
+  :id "US3856777",
+  :sourcing :authoritative,
+  :filing-year 1972,
+  :assignee :ajinomoto,
+  :grant-year 1974,
+  :cites ["US3463850" "US3705147"],
+  :term-years 20,
+  :open-license :none}
  {:assignees [:f-hoffmann-la-roche],
   :jurisdiction :us,
   :field "UNKNOWN",
@@ -8414,6 +8668,28 @@
   :grant-year 1975,
   :term-years 20,
   :open-license :none}
+ {:assignees [:schering],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3891623/en",
+  :title "Process for preparing cytidines",
+  :status :granted,
+  :id "US3891623",
+  :sourcing :authoritative,
+  :filing-year 1972,
+  :assignee :schering,
+  :grant-year 1975,
+  :cites
+  ["US3328388"
+   "US3328389"
+   "US3346561"
+   "US3354160"
+   "US3404144"
+   "US3522237"
+   "US3708469"
+   "US3721664"],
+  :term-years 20,
+  :open-license :none}
  {:assignees [:minnesota-mining-and-manufacturing],
   :jurisdiction :us,
   :field "UNKNOWN",
@@ -8832,303 +9108,5 @@
   :assignee :us-department-of-agriculture-usda,
   :grant-year 1975,
   :cites ["US3767531"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:dearborn-glass],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3910254/en",
-  :title "Oven door construction",
-  :status :granted,
-  :id "US3910254",
-  :sourcing :authoritative,
-  :filing-year 1973,
-  :assignee :dearborn-glass,
-  :grant-year 1975,
-  :cites ["US1966620" "US2358397" "US2713301" "US3190281"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:bayer],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3910825/en",
-  :title "Water-insoluble peptide materials",
-  :status :granted,
-  :id "US3910825",
-  :sourcing :authoritative,
-  :filing-year 1973,
-  :assignee :bayer,
-  :grant-year 1975,
-  :cites ["US3576760" "US3577512" "US3650901" "US3764477" "US3775253"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:international-foundation-of-microbiology],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3912596/en",
-  :title "Multiple inoculating system",
-  :status :granted,
-  :id "US3912596",
-  :sourcing :authoritative,
-  :filing-year 1973,
-  :assignee :international-foundation-of-microbiology,
-  :grant-year 1975,
-  :cites ["US2874091" "US2956931"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:hitachi],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3914462/en",
-  :title
-  "Method for forming a resist mask using a positive electron resist",
-  :status :granted,
-  :id "US3914462",
-  :sourcing :authoritative,
-  :filing-year 1973,
-  :assignee :hitachi,
-  :grant-year 1975,
-  :cites ["US3037955" "US3234303" "US3703402"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:icn-pharmaceuticals],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3915958/en",
-  :title "6-Substituted purine nucleotides",
-  :status :granted,
-  :id "US3915958",
-  :sourcing :authoritative,
-  :filing-year 1972,
-  :assignee :icn-pharmaceuticals,
-  :grant-year 1975,
-  :cites ["US3317511" "US3712885"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:texas-instruments],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3916035/en",
-  :title "Epoxy-polymer electron beam resists",
-  :status :granted,
-  :id "US3916035",
-  :sourcing :authoritative,
-  :filing-year 1973,
-  :assignee :texas-instruments,
-  :grant-year 1975,
-  :cites ["US3573334" "US3681103" "US3794510" "US3816281"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:particle-technology],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3916197/en",
-  :title "Method and apparatus for classifying biological cells",
-  :status :granted,
-  :id "US3916197",
-  :sourcing :authoritative,
-  :filing-year 1974,
-  :assignee :particle-technology,
-  :grant-year 1975,
-  :cites ["US3062963" "US3413464" "US3470373" "US3497690"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:block-engineering],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3916205/en",
-  :title "Differential counting of leukocytes and other cells",
-  :status :granted,
-  :id "US3916205",
-  :sourcing :authoritative,
-  :filing-year 1973,
-  :assignee :block-engineering,
-  :grant-year 1975,
-  :cites ["US3315229" "US3497690"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:baxter-laboratories],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3917404/en",
-  :title "Fluorometer assembly including a flow cell",
-  :status :granted,
-  :id "US3917404",
-  :sourcing :authoritative,
-  :filing-year 1974,
-  :assignee :baxter-laboratories,
-  :grant-year 1975,
-  :cites
-  ["US2076553"
-   "US2381414"
-   "US2549574"
-   "US2889736"
-   "US3418061"
-   "US3622795"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:icn-pharmaceuticals],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3917583/en",
-  :title "2-Substituted cyclic AMP derivatives",
-  :status :granted,
-  :id "US3917583",
-  :sourcing :authoritative,
-  :filing-year 1973,
-  :assignee :icn-pharmaceuticals,
-  :grant-year 1975,
-  :cites
-  ["US3332935"
-   "US3337528"
-   "US3364199"
-   "US3450693"
-   "US3454559"
-   "US3712885"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:us-department-of-energy],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3918812/en",
-  :title
-  "Diagnoses of disease states by fluorescent measurements utilizing scanning laser beams",
-  :status :granted,
-  :id "US3918812",
-  :sourcing :authoritative,
-  :filing-year 1973,
-  :assignee :us-department-of-energy,
-  :grant-year 1975,
-  :cites ["US3297873" "US3699336"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:olympus-optical],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3918910/en",
-  :title
-  "System for detecting the particular chemical constituent of a fluid",
-  :status :granted,
-  :id "US3918910",
-  :sourcing :authoritative,
-  :filing-year 1974,
-  :assignee :olympus-optical,
-  :grant-year 1975,
-  :cites ["US3368872" "US3497320" "US3554700" "US3607090" "US3620678"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:ifp-energies-nouvelles-ifpen],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3919075/en",
-  :title "Process for regenerating used lubricating oils",
-  :status :granted,
-  :id "US3919075",
-  :sourcing :authoritative,
-  :filing-year 1974,
-  :assignee :ifp-energies-nouvelles-ifpen,
-  :grant-year 1975,
-  :cites
-  ["US2341329"
-   "US2367803"
-   "US3105038"
-   "US3228876"
-   "US3785968"
-   "US3819742"
-   "US3821108"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:international-business-machines],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3920483/en",
-  :title "Method of ion implantation through a photoresist mask",
-  :status :granted,
-  :id "US3920483",
-  :sourcing :authoritative,
-  :filing-year 1974,
-  :assignee :international-business-machines,
-  :grant-year 1975,
-  :cites
-  ["US3113896"
-   "US3410776"
-   "US3570112"
-   "US3575745"
-   "US3615956"
-   "US3653977"
-   "US3663265"
-   "US3771948"
-   "US3793088"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:technicon-instruments],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3925018/en",
-  :title
-  "Method and apparatus for quantitative analysis utilizing particulate reagent material",
-  :status :granted,
-  :id "US3925018",
-  :sourcing :authoritative,
-  :filing-year 1973,
-  :assignee :technicon-instruments,
-  :grant-year 1975,
-  :cites
-  ["US2379158"
-   "US2875666"
-   "US3088875"
-   "US3247078"
-   "US3275834"
-   "US3492396"
-   "US3794467"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:texas-instruments],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3925105/en",
-  :title
-  "Process for fabricating integrated circuits utilizing ion implantation",
-  :status :granted,
-  :id "US3925105",
-  :sourcing :authoritative,
-  :filing-year 1974,
-  :assignee :texas-instruments,
-  :grant-year 1975,
-  :cites ["US3602781" "US3756861" "US3793088" "US3853634"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:bell-telephone-laboratories],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3925677/en",
-  :title "Platinum oxide lithographic masks",
-  :status :granted,
-  :id "US3925677",
-  :sourcing :authoritative,
-  :filing-year 1974,
-  :assignee :bell-telephone-laboratories,
-  :grant-year 1975,
-  :cites ["US2382674" "US3743842"],
-  :term-years 20,
-  :open-license :none}
- {:jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3926436/en",
-  :title
-  "Silver halide element containing polymeric colour forming couplers",
-  :status :granted,
-  :id "US3926436",
-  :sourcing :authoritative,
-  :filing-year 1974,
-  :assignee :unassigned,
-  :grant-year 1975,
-  :cites
-  ["US2353262"
-   "US2976294"
-   "US3024221"
-   "US3356686"
-   "US3370952"
-   "US3767412"],
   :term-years 20,
   :open-license :none}]
