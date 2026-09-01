@@ -1,4 +1,293 @@
-[{:assignees [:early-warning],
+[{:assignees [:synvar-associates-a-k-a-syva-c],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3867366/en",
+  :title "Opiate imidates and protein conjugates thereof",
+  :status :granted,
+  :id "US3867366",
+  :sourcing :authoritative,
+  :filing-year 1973,
+  :assignee :synvar-associates-a-k-a-syva-c,
+  :grant-year 1975,
+  :cites ["US3690834"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:abbott-laboratories],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3867517/en",
+  :title "Direct radioimmunoassay for antigens and their antibodies",
+  :status :granted,
+  :id "US3867517",
+  :sourcing :authoritative,
+  :filing-year 1971,
+  :assignee :abbott-laboratories,
+  :grant-year 1975,
+  :cites ["US3592888" "US3646346"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:akzona],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3868219/en",
+  :title
+  "Determination of HCG glucose and galactose in body fluids with chromogenic indicators",
+  :status :granted,
+  :id "US3868219",
+  :sourcing :authoritative,
+  :filing-year 1973,
+  :assignee :akzona,
+  :grant-year 1975,
+  :cites
+  ["US3008879"
+   "US3092465"
+   "US3099605"
+   "US3123443"
+   "US3411863"
+   "US3415361"
+   "US3453180"
+   "US3598704"
+   "US3619110"
+   "US3627698"
+   "US3663357"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:instrumentation-laboratory],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3869215/en",
+  :title
+  "Sample cell assembly having a heat conductive chamber surrounded by an electrothermal heating layer",
+  :status :granted,
+  :id "US3869215",
+  :sourcing :authoritative,
+  :filing-year 1974,
+  :assignee :instrumentation-laboratory,
+  :grant-year 1975,
+  :cites ["US3619073"],
+  :term-years 20,
+  :open-license :none}
+ {:jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3869251/en",
+  :title
+  "Apparatus for intermixing materials in a reaction vessel containing ferromagnetic particles",
+  :status :granted,
+  :id "US3869251",
+  :sourcing :authoritative,
+  :filing-year 1973,
+  :assignee :unassigned,
+  :grant-year 1975,
+  :cites ["US2363994" "US3219318" "US3439899"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:us-department-of-navy],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3869354/en",
+  :title "Ammonium ion specific electrode and method therewith",
+  :status :granted,
+  :id "US3869354",
+  :sourcing :authoritative,
+  :filing-year 1973,
+  :assignee :us-department-of-navy,
+  :grant-year 1975,
+  :cites ["US3357908" "US3649505" "US3673069" "US3689222" "US3776819"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:production],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3870889/en",
+  :title "Film sheet cassette",
+  :status :granted,
+  :id "US3870889",
+  :sourcing :authoritative,
+  :filing-year 1973,
+  :assignee :production,
+  :grant-year 1975,
+  :cites ["US3174039" "US3240936" "US3504180" "US3784835"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:syntex-usa],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3872098/en",
+  :title "1,n{hu 6{b ethenoadenosine cyclophosphate compounds",
+  :status :granted,
+  :id "US3872098",
+  :sourcing :authoritative,
+  :filing-year 1973,
+  :assignee :syntex-usa,
+  :grant-year 1975,
+  :cites ["US3558595" "US3712885"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:united-medical-laboratories],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3873467/en",
+  :title "Hematologic reference control",
+  :status :granted,
+  :id "US3873467",
+  :sourcing :authoritative,
+  :filing-year 1974,
+  :assignee :united-medical-laboratories,
+  :grant-year 1975,
+  :cites ["US3558522" "US3574137" "US3632735" "US3640896"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:dow-corning],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3873499/en",
+  :title "Fast curing mercaptoalkyl vinyl siloxane resins",
+  :status :granted,
+  :id "US3873499",
+  :sourcing :authoritative,
+  :filing-year 1973,
+  :assignee :dow-corning,
+  :grant-year 1975,
+  :cites ["US3632715"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:astra-lakemedel],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3873521/en",
+  :title "Esters of {60 -amino penicillins",
+  :status :granted,
+  :id "US3873521",
+  :sourcing :authoritative,
+  :filing-year 1971,
+  :assignee :astra-lakemedel,
+  :grant-year 1975,
+  :cites ["US3674776" "US3697507"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:mochida-pharmaceutical],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3873682/en",
+  :title
+  "Filter for urine samples to be used in pregnancy tests and method of using same",
+  :status :granted,
+  :id "US3873682",
+  :sourcing :authoritative,
+  :filing-year 1972,
+  :assignee :mochida-pharmaceutical,
+  :grant-year 1975,
+  :cites
+  ["US3228877"
+   "US3462361"
+   "US3485751"
+   "US3488768"
+   "US3593854"
+   "US3616930"
+   "US3674865"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:fujizoki-pharmaceutical],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3873684/en",
+  :title
+  "Sensitized cell for use in the passive agglutination and method of preparing the same",
+  :status :granted,
+  :id "US3873684",
+  :sourcing :authoritative,
+  :filing-year 1973,
+  :assignee :fujizoki-pharmaceutical,
+  :grant-year 1975,
+  :cites ["US3553310"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:texas-instruments],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3873824/en",
+  :title "X-ray lithography mask",
+  :status :granted,
+  :id "US3873824",
+  :sourcing :authoritative,
+  :filing-year 1973,
+  :assignee :texas-instruments,
+  :grant-year 1975,
+  :cites ["US3742230"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:geometric-data],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3873974/en",
+  :title "Scanning system for location and classification of patterns",
+  :status :granted,
+  :id "US3873974",
+  :sourcing :authoritative,
+  :filing-year 1973,
+  :assignee :geometric-data,
+  :grant-year 1975,
+  :cites
+  ["US3315229"
+   "US3497690"
+   "US3501623"
+   "US3526876"
+   "US3714372"
+   "US3795792"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:damon],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3874853/en",
+  :title
+  "Process for determining the concentration of inorganic phosphates in human fluids",
+  :status :granted,
+  :id "US3874853",
+  :sourcing :authoritative,
+  :filing-year 1972,
+  :assignee :damon,
+  :grant-year 1975,
+  :cites ["US3547586" "US3771961" "US3795484" "US3801466"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:asahi-chemical-industry],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3875008/en",
+  :title "Hollow filament containing enzymes and/or microorganisms",
+  :status :granted,
+  :id "US3875008",
+  :sourcing :authoritative,
+  :filing-year 1973,
+  :assignee :asahi-chemical-industry,
+  :grant-year 1975,
+  :cites ["US3082057" "US3674628" "US3715277"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:honeywell],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3875401/en",
+  :title "Focus detecting apparatus",
+  :status :granted,
+  :id "US3875401",
+  :sourcing :authoritative,
+  :filing-year 1973,
+  :assignee :honeywell,
+  :grant-year 1975,
+  :cites
+  ["US2651771"
+   "US3516742"
+   "US3532045"
+   "US3617761"
+   "US3622797"
+   "US3623811"
+   "US3682071"
+   "US3723003"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:early-warning],
   :jurisdiction :us,
   :field "UNKNOWN",
   :source "https://patents.google.com/patent/US3876504/en",
@@ -9105,302 +9394,5 @@
   :assignee :genentech,
   :grant-year 1982,
   :cites ["US4237224"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:warner-lambert],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US4357311/en",
-  :title "Substrate for immunoassay and means of preparing same",
-  :status :granted,
-  :id "US4357311",
-  :sourcing :authoritative,
-  :filing-year 1980,
-  :assignee :warner-lambert,
-  :grant-year 1982,
-  :cites ["US3619371" "US3824150" "US4007089" "US4119494" "US4229537"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:novo-industri-as],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US4357357/en",
-  :title "Thermal destabilization of microbial rennet",
-  :status :granted,
-  :id "US4357357",
-  :sourcing :authoritative,
-  :filing-year 1979,
-  :assignee :novo-industri-as,
-  :grant-year 1982,
-  :cites ["US2053740" "US3275453" "US3886288" "US4086139"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:university-of-washington],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US4358535/en",
-  :title "Specific DNA probes in diagnostic microbiology",
-  :status :granted,
-  :id "US4358535",
-  :sourcing :authoritative,
-  :filing-year 1980,
-  :assignee :university-of-washington,
-  :grant-year 1982,
-  :cites ["US3755086" "US3930956" "US4038143" "US4275149"],
-  :term-years 20,
-  :open-license :none}
- {:jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US4359535/en",
-  :title
-  "Autonomously replicating DNA containing inserted DNA sequences",
-  :status :granted,
-  :id "US4359535",
-  :sourcing :authoritative,
-  :filing-year 1979,
-  :assignee :unassigned,
-  :grant-year 1982,
-  :cites ["US4237224"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:wisconsin-alumni-research-foundation],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US4360471/en",
-  :title "23-Dehydro-25-hydroxyvitamin D3",
-  :status :granted,
-  :id "US4360471",
-  :sourcing :authoritative,
-  :filing-year 1981,
-  :assignee :wisconsin-alumni-research-foundation,
-  :grant-year 1982,
-  :cites ["US4263214" "US4292250"],
-  :term-years 20,
-  :open-license :none}
- {:jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US4361544/en",
-  :title
-  "Tumor localization and therapy with labeled antibodies specific to intracellular tumor-associated markers",
-  :status :granted,
-  :id "US4361544",
-  :sourcing :authoritative,
-  :filing-year 1980,
-  :assignee :unassigned,
-  :grant-year 1982,
-  :cites
-  ["EP0005638A2"
-   "US3927193"
-   "US3960827"
-   "US4144031"
-   "US4146603"
-   "US4160019"
-   "US4174385"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:university-of-california-san-diego-ucsd],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US4363877/en",
-  :title "Recombinant DNA transfer vectors",
-  :status :granted,
-  :id "US4363877",
-  :sourcing :authoritative,
-  :filing-year 1978,
-  :assignee :university-of-california-san-diego-ucsd,
-  :grant-year 1982,
-  :term-years 20,
-  :open-license :none}
- {:assignees [:amersham-international],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US4366143/en",
-  :title
-  "Assay for the free portion of substances in biological fluids",
-  :status :granted,
-  :id "US4366143",
-  :sourcing :authoritative,
-  :filing-year 1980,
-  :assignee :amersham-international,
-  :grant-year 1982,
-  :cites
-  ["DE2731028A1"
-   "DE2806860A1"
-   "DE2822462A1"
-   "US4046870"
-   "US4069305"
-   "US4128629"
-   "US4225574"
-   "US4235865"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:miles-laboratories],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US4366243/en",
-  :title "Stabilization of glucose oxidase apoenzyme",
-  :status :granted,
-  :id "US4366243",
-  :sourcing :authoritative,
-  :filing-year 1981,
-  :assignee :miles-laboratories,
-  :grant-year 1982,
-  :cites ["GB1552607A" "US3413198" "US4238565" "US4286062"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:research],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US4368262/en",
-  :title "Diagnostic test for the detection of cancer",
-  :status :granted,
-  :id "US4368262",
-  :sourcing :authoritative,
-  :filing-year 1981,
-  :assignee :research,
-  :grant-year 1983,
-  :cites ["US4160817"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:forsyth-dental-infirmary-for-children],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US4368272/en",
-  :title "Device for identifying and locating dental microorganisms",
-  :status :granted,
-  :id "US4368272",
-  :sourcing :authoritative,
-  :filing-year 1980,
-  :assignee :forsyth-dental-infirmary-for-children,
-  :grant-year 1983,
-  :cites
-  ["US1668216"
-   "US2904474"
-   "US3040352"
-   "US3232710"
-   "US3718543"
-   "US3746624"
-   "US3814670"
-   "US3834983"
-   "US3881993"
-   "US3890200"
-   "US3902969"
-   "US3960652"
-   "US885276"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:immuno-nuclear],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US4369138/en",
-  :title "Parathyroid radioimmunoassay",
-  :status :granted,
-  :id "US4369138",
-  :sourcing :authoritative,
-  :filing-year 1981,
-  :assignee :immuno-nuclear,
-  :grant-year 1983,
-  :cites ["US4146602"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:bayer],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US4369301/en",
-  :title
-  "Lacquer polyisocyanates, process for the production thereof and use thereof as isocyanate component in thermosetting two-component polyurethane lacquers",
-  :status :granted,
-  :id "US4369301",
-  :sourcing :authoritative,
-  :filing-year 1981,
-  :assignee :bayer,
-  :grant-year 1983,
-  :cites
-  ["AT253221B"
-   "US3647848"
-   "US4055550"
-   "US4101473"
-   "US4150211"
-   "US4151152"
-   "US4177342"
-   "US4212962"
-   "US4246380"
-   "US4252923"
-   "US4310646"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:e-y-laboratories],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US4371515/en",
-  :title
-  "Method for forming an isolated lectin-immunological conjugate",
-  :status :granted,
-  :id "US4371515",
-  :sourcing :authoritative,
-  :filing-year 1978,
-  :assignee :e-y-laboratories,
-  :grant-year 1983,
-  :cites ["US3994870" "US4041146" "US4289747"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:beckman-research-institute-of-city-of-hope],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US4373071/en",
-  :title "Solid-phase synthesis of polynucleotides",
-  :status :granted,
-  :id "US4373071",
-  :sourcing :authoritative,
-  :filing-year 1981,
-  :assignee :beckman-research-institute-of-city-of-hope,
-  :grant-year 1983,
-  :cites
-  ["US3985690"
-   "US4037037"
-   "US4043948"
-   "US4066827"
-   "US4217421"
-   "US4276395"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:peintures-corona],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US4375498/en",
-  :title "Wet-on-wet coating process",
-  :status :granted,
-  :id "US4375498",
-  :sourcing :authoritative,
-  :filing-year 1981,
-  :assignee :peintures-corona,
-  :grant-year 1983,
-  :cites ["US4175018" "US4208262"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:heart-valve-licensing],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US4378224/en",
-  :title "Coating for bioprosthetic device and method of making same",
-  :status :granted,
-  :id "US4378224",
-  :sourcing :authoritative,
-  :filing-year 1980,
-  :assignee :heart-valve-licensing,
-  :grant-year 1983,
-  :cites
-  ["SU559701A1"
-   "US2640752"
-   "US2938892"
-   "US3673612"
-   "US3865615"
-   "US3908201"
-   "US3966401"
-   "US4050893"
-   "US4077069"
-   "US4082507"
-   "US4098571"
-   "US4120649"],
   :term-years 20,
   :open-license :none}]

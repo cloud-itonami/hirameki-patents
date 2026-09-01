@@ -1,4 +1,301 @@
-[{:assignees [:westinghouse-electric],
+[{:assignees [:novo-terapeutisk-laboratorium-as],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3340156/en",
+  :title "Purification of plasminogen",
+  :status :granted,
+  :id "US3340156",
+  :sourcing :authoritative,
+  :filing-year 1965,
+  :assignee :novo-terapeutisk-laboratorium-as,
+  :grant-year 1967,
+  :cites ["US3066079"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:coulter-electronics],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3340471/en",
+  :title
+  "Flow-through sample apparatus for use with electrical particle study device",
+  :status :granted,
+  :id "US3340471",
+  :sourcing :authoritative,
+  :filing-year 1966,
+  :assignee :coulter-electronics,
+  :grant-year 1967,
+  :cites ["US3165692" "US3165693"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:dow-chemical],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3342729/en",
+  :title
+  "Permeability separatory cell and apparatus and method of using the same",
+  :status :granted,
+  :id "US3342729",
+  :sourcing :authoritative,
+  :filing-year 1964,
+  :assignee :dow-chemical,
+  :grant-year 1967,
+  :cites ["US2982416" "US3228877"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:merck-and],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3346560/en",
+  :title "Purine 3-deoxynucleosides",
+  :status :granted,
+  :id "US3346560",
+  :sourcing :authoritative,
+  :filing-year 1965,
+  :assignee :merck-and,
+  :grant-year 1967,
+  :cites ["US2852505" "US3208997"],
+  :term-years 20,
+  :open-license :none}
+ {:jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3347846/en",
+  :title "Method of preparing 5&#39;-ribonucleotide",
+  :status :granted,
+  :id "US3347846",
+  :sourcing :authoritative,
+  :filing-year 1965,
+  :assignee :unassigned,
+  :grant-year 1967,
+  :cites ["US3201389" "US3282920" "US3288780"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:american-optical],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3348547/en",
+  :title "Photocoagulating apparatus",
+  :status :granted,
+  :id "US3348547",
+  :sourcing :authoritative,
+  :filing-year 1964,
+  :assignee :american-optical,
+  :grant-year 1967,
+  :cites ["US2930379" "US3084694" "US3096767"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:bausch-and-lomb],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3349227/en",
+  :title "Particle counter",
+  :status :granted,
+  :id "US3349227",
+  :sourcing :authoritative,
+  :filing-year 1964,
+  :assignee :bausch-and-lomb,
+  :grant-year 1967,
+  :cites ["US2803406" "US2817265" "US3061672"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:general-electric],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3351203/en",
+  :title "Separation apparatus and method for its operation",
+  :status :granted,
+  :id "US3351203",
+  :sourcing :authoritative,
+  :filing-year 1965,
+  :assignee :general-electric,
+  :grant-year 1967,
+  :cites ["US1872759" "US2398725" "US2937752" "US2973096"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:california-texas-oil],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3352197/en",
+  :title
+  "Method for determining the amount of particulate contaminants in a liquid by employing series filters",
+  :status :granted,
+  :id "US3352197",
+  :sourcing :authoritative,
+  :filing-year 1963,
+  :assignee :california-texas-oil,
+  :grant-year 1967,
+  :cites
+  ["GB139424A"
+   "US1547182"
+   "US2040066"
+   "US2072872"
+   "US2692528"
+   "US2751779"
+   "US2866379"
+   "US3172286"
+   "US3218908"
+   "US3236095"
+   "US3240110"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:cooke-engineering],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3356462/en",
+  :title "Disposable microtitration plate",
+  :status :granted,
+  :id "US3356462",
+  :sourcing :authoritative,
+  :filing-year 1966,
+  :assignee :cooke-engineering,
+  :grant-year 1967,
+  :cites
+  ["AT170898B"
+   "US2561339"
+   "US2612261"
+   "US2666951"
+   "US2911681"
+   "US2965219"
+   "US3057510"
+   "US3097070"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:ei-du-pont-de-nemours-and],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3356686/en",
+  :title
+  "Substituted amidopyrazalones containing a terminal ethylenically unsaturated group",
+  :status :granted,
+  :id "US3356686",
+  :sourcing :authoritative,
+  :filing-year 1964,
+  :assignee :ei-du-pont-de-nemours-and,
+  :grant-year 1967,
+  :cites
+  ["GB599919A"
+   "US2369489"
+   "US2600788"
+   "US2850485"
+   "US2976294"
+   "US3070442"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:sun-oil],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3361680/en",
+  :title
+  "Use of ultrasonic vibrations to disperse a liquid in another liquid",
+  :status :granted,
+  :id "US3361680",
+  :sourcing :authoritative,
+  :filing-year 1963,
+  :assignee :sun-oil,
+  :grant-year 1968,
+  :cites ["US1734975" "US1992938" "US2158374" "US2304125" "US2407462"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:dow-chemical],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3361842/en",
+  :title
+  "Liquid copolymers of ethylene, another alpha olefin and carboxylic acids and compositions thereof with polyepoxides",
+  :status :granted,
+  :id "US3361842",
+  :sourcing :authoritative,
+  :filing-year 1963,
+  :assignee :dow-chemical,
+  :grant-year 1968,
+  :cites ["US2396785" "US3249570" "US3278495"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:international-business-machines],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3362421/en",
+  :title "Bounded free jet fluid amplifier with turbulent attachment",
+  :status :granted,
+  :id "US3362421",
+  :sourcing :authoritative,
+  :filing-year 1963,
+  :assignee :international-business-machines,
+  :grant-year 1968,
+  :cites
+  ["US1628723"
+   "US2132961"
+   "US3001539"
+   "US3024805"
+   "US3093306"
+   "US3122165"
+   "US3123900"
+   "US3144037"
+   "US3182674"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:ajinomoto],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3364199/en",
+  :title "2-alkylinosines",
+  :status :granted,
+  :id "US3364199",
+  :sourcing :authoritative,
+  :filing-year 1965,
+  :assignee :ajinomoto,
+  :grant-year 1968,
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:english-electric],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3364358/en",
+  :title
+  "Measuring apparatus for measuring a linear dimension of a body",
+  :status :granted,
+  :id "US3364358",
+  :sourcing :authoritative,
+  :assignee :english-electric,
+  :grant-year 1968,
+  :cites ["US2659823" "US2848921" "US2941086" "US3003066" "US3066226"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:promoveo],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3367841/en",
+  :title
+  "Device and process for the study of the enzymatic characteristics of living cells",
+  :status :granted,
+  :id "US3367841",
+  :sourcing :authoritative,
+  :filing-year 1964,
+  :assignee :promoveo,
+  :grant-year 1968,
+  :cites
+  ["US2784146"
+   "US2785057"
+   "US2904474"
+   "US3068154"
+   "US3107204"
+   "US3197384"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:atomic-energy-commission-usa],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3367849/en",
+  :title "Amperometric determination of glucose",
+  :status :granted,
+  :id "US3367849",
+  :sourcing :authoritative,
+  :filing-year 1964,
+  :assignee :atomic-energy-commission-usa,
+  :grant-year 1968,
+  :cites ["US3208926"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:westinghouse-electric],
   :jurisdiction :us,
   :field "UNKNOWN",
   :source "https://patents.google.com/patent/US3368113/en",
@@ -8797,294 +9094,5 @@
   :assignee :unassigned,
   :grant-year 1975,
   :cites ["US3663684" "US3697638"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:synvar-associates-a-k-a-syva-c],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3867366/en",
-  :title "Opiate imidates and protein conjugates thereof",
-  :status :granted,
-  :id "US3867366",
-  :sourcing :authoritative,
-  :filing-year 1973,
-  :assignee :synvar-associates-a-k-a-syva-c,
-  :grant-year 1975,
-  :cites ["US3690834"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:abbott-laboratories],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3867517/en",
-  :title "Direct radioimmunoassay for antigens and their antibodies",
-  :status :granted,
-  :id "US3867517",
-  :sourcing :authoritative,
-  :filing-year 1971,
-  :assignee :abbott-laboratories,
-  :grant-year 1975,
-  :cites ["US3592888" "US3646346"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:akzona],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3868219/en",
-  :title
-  "Determination of HCG glucose and galactose in body fluids with chromogenic indicators",
-  :status :granted,
-  :id "US3868219",
-  :sourcing :authoritative,
-  :filing-year 1973,
-  :assignee :akzona,
-  :grant-year 1975,
-  :cites
-  ["US3008879"
-   "US3092465"
-   "US3099605"
-   "US3123443"
-   "US3411863"
-   "US3415361"
-   "US3453180"
-   "US3598704"
-   "US3619110"
-   "US3627698"
-   "US3663357"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:instrumentation-laboratory],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3869215/en",
-  :title
-  "Sample cell assembly having a heat conductive chamber surrounded by an electrothermal heating layer",
-  :status :granted,
-  :id "US3869215",
-  :sourcing :authoritative,
-  :filing-year 1974,
-  :assignee :instrumentation-laboratory,
-  :grant-year 1975,
-  :cites ["US3619073"],
-  :term-years 20,
-  :open-license :none}
- {:jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3869251/en",
-  :title
-  "Apparatus for intermixing materials in a reaction vessel containing ferromagnetic particles",
-  :status :granted,
-  :id "US3869251",
-  :sourcing :authoritative,
-  :filing-year 1973,
-  :assignee :unassigned,
-  :grant-year 1975,
-  :cites ["US2363994" "US3219318" "US3439899"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:us-department-of-navy],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3869354/en",
-  :title "Ammonium ion specific electrode and method therewith",
-  :status :granted,
-  :id "US3869354",
-  :sourcing :authoritative,
-  :filing-year 1973,
-  :assignee :us-department-of-navy,
-  :grant-year 1975,
-  :cites ["US3357908" "US3649505" "US3673069" "US3689222" "US3776819"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:production],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3870889/en",
-  :title "Film sheet cassette",
-  :status :granted,
-  :id "US3870889",
-  :sourcing :authoritative,
-  :filing-year 1973,
-  :assignee :production,
-  :grant-year 1975,
-  :cites ["US3174039" "US3240936" "US3504180" "US3784835"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:syntex-usa],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3872098/en",
-  :title "1,n{hu 6{b ethenoadenosine cyclophosphate compounds",
-  :status :granted,
-  :id "US3872098",
-  :sourcing :authoritative,
-  :filing-year 1973,
-  :assignee :syntex-usa,
-  :grant-year 1975,
-  :cites ["US3558595" "US3712885"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:united-medical-laboratories],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3873467/en",
-  :title "Hematologic reference control",
-  :status :granted,
-  :id "US3873467",
-  :sourcing :authoritative,
-  :filing-year 1974,
-  :assignee :united-medical-laboratories,
-  :grant-year 1975,
-  :cites ["US3558522" "US3574137" "US3632735" "US3640896"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:dow-corning],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3873499/en",
-  :title "Fast curing mercaptoalkyl vinyl siloxane resins",
-  :status :granted,
-  :id "US3873499",
-  :sourcing :authoritative,
-  :filing-year 1973,
-  :assignee :dow-corning,
-  :grant-year 1975,
-  :cites ["US3632715"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:astra-lakemedel],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3873521/en",
-  :title "Esters of {60 -amino penicillins",
-  :status :granted,
-  :id "US3873521",
-  :sourcing :authoritative,
-  :filing-year 1971,
-  :assignee :astra-lakemedel,
-  :grant-year 1975,
-  :cites ["US3674776" "US3697507"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:mochida-pharmaceutical],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3873682/en",
-  :title
-  "Filter for urine samples to be used in pregnancy tests and method of using same",
-  :status :granted,
-  :id "US3873682",
-  :sourcing :authoritative,
-  :filing-year 1972,
-  :assignee :mochida-pharmaceutical,
-  :grant-year 1975,
-  :cites
-  ["US3228877"
-   "US3462361"
-   "US3485751"
-   "US3488768"
-   "US3593854"
-   "US3616930"
-   "US3674865"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:fujizoki-pharmaceutical],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3873684/en",
-  :title
-  "Sensitized cell for use in the passive agglutination and method of preparing the same",
-  :status :granted,
-  :id "US3873684",
-  :sourcing :authoritative,
-  :filing-year 1973,
-  :assignee :fujizoki-pharmaceutical,
-  :grant-year 1975,
-  :cites ["US3553310"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:texas-instruments],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3873824/en",
-  :title "X-ray lithography mask",
-  :status :granted,
-  :id "US3873824",
-  :sourcing :authoritative,
-  :filing-year 1973,
-  :assignee :texas-instruments,
-  :grant-year 1975,
-  :cites ["US3742230"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:geometric-data],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3873974/en",
-  :title "Scanning system for location and classification of patterns",
-  :status :granted,
-  :id "US3873974",
-  :sourcing :authoritative,
-  :filing-year 1973,
-  :assignee :geometric-data,
-  :grant-year 1975,
-  :cites
-  ["US3315229"
-   "US3497690"
-   "US3501623"
-   "US3526876"
-   "US3714372"
-   "US3795792"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:damon],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3874853/en",
-  :title
-  "Process for determining the concentration of inorganic phosphates in human fluids",
-  :status :granted,
-  :id "US3874853",
-  :sourcing :authoritative,
-  :filing-year 1972,
-  :assignee :damon,
-  :grant-year 1975,
-  :cites ["US3547586" "US3771961" "US3795484" "US3801466"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:asahi-chemical-industry],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3875008/en",
-  :title "Hollow filament containing enzymes and/or microorganisms",
-  :status :granted,
-  :id "US3875008",
-  :sourcing :authoritative,
-  :filing-year 1973,
-  :assignee :asahi-chemical-industry,
-  :grant-year 1975,
-  :cites ["US3082057" "US3674628" "US3715277"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:honeywell],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3875401/en",
-  :title "Focus detecting apparatus",
-  :status :granted,
-  :id "US3875401",
-  :sourcing :authoritative,
-  :filing-year 1973,
-  :assignee :honeywell,
-  :grant-year 1975,
-  :cites
-  ["US2651771"
-   "US3516742"
-   "US3532045"
-   "US3617761"
-   "US3622797"
-   "US3623811"
-   "US3682071"
-   "US3723003"],
   :term-years 20,
   :open-license :none}]

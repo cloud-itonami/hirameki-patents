@@ -1,4 +1,298 @@
-[{:assignees [:burgess-battery],
+[{:assignees [:rohm-and-haas],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2790736/en",
+  :title
+  "Methods of making coated paper products and the products obtained",
+  :status :granted,
+  :id "US2790736",
+  :sourcing :authoritative,
+  :filing-year 1955,
+  :assignee :rohm-and-haas,
+  :grant-year 1957,
+  :cites ["US2577624" "US2583274" "US2661308" "US2685538"],
+  :term-years 20,
+  :open-license :none}
+ {:jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2791150/en",
+  :title "Device for determining the red blood cell count",
+  :status :granted,
+  :id "US2791150",
+  :sourcing :authoritative,
+  :filing-year 1952,
+  :assignee :unassigned,
+  :grant-year 1957,
+  :cites ["US1974522" "US2369577" "US2480312" "US2584052" "US2661902"],
+  :term-years 20,
+  :open-license :none}
+ {:jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US279135/en",
+  :title "William h",
+  :status :granted,
+  :id "US279135",
+  :sourcing :authoritative,
+  :assignee :unassigned,
+  :grant-year 1883,
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:general-electric],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2792484/en",
+  :title "Temperature measuring and controlling apparatus",
+  :status :granted,
+  :id "US2792484",
+  :sourcing :authoritative,
+  :filing-year 1951,
+  :assignee :general-electric,
+  :grant-year 1957,
+  :cites
+  ["US1362281"
+   "US1419725"
+   "US1623666"
+   "US1676536"
+   "US1881616"
+   "US2103623"
+   "US2239452"
+   "US2335659"
+   "US2341295"
+   "US2359787"
+   "US2404147"
+   "US2411672"
+   "US2462823"
+   "US2466696"
+   "US2666583"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:general-electric],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2792871/en",
+  :title
+  "Electrical insulating structure and method of making the same",
+  :status :granted,
+  :id "US2792871",
+  :sourcing :authoritative,
+  :filing-year 1955,
+  :assignee :general-electric,
+  :grant-year 1957,
+  :cites ["US2443739" "US2443741" "US2530983" "US2542819" "US2581862"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:ei-du-pont-de-nemours-and],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2794010/en",
+  :title
+  "Polymeric blends of a water-insoluble, water-dispersible, non-electrolyte film-forming polymer and a watersoluble, anionic polyelectrolyte epoxy polyemer and preparationof shaped articles therefrom",
+  :status :granted,
+  :id "US2794010",
+  :sourcing :authoritative,
+  :filing-year 1953,
+  :assignee :ei-du-pont-de-nemours-and,
+  :grant-year 1957,
+  :cites ["US2510885" "US2558949" "US2607754" "US2723971"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:rohm-and-haas],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2795564/en",
+  :title
+  "Aqueous paint bases and water-base paints and process for preparing them",
+  :status :granted,
+  :id "US2795564",
+  :sourcing :authoritative,
+  :filing-year 1953,
+  :assignee :rohm-and-haas,
+  :grant-year 1957,
+  :cites ["US2536018" "US2536470" "US2570253"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:servo-of-america],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2798961/en",
+  :title "Total-radiation pyrometer",
+  :status :granted,
+  :id "US2798961",
+  :sourcing :authoritative,
+  :filing-year 1956,
+  :assignee :servo-of-america,
+  :grant-year 1957,
+  :cites ["US2612610" "US2679010"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:nat-res-dev],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2800559/en",
+  :title
+  "Electrical semi-conductors comprising organo metallic compounds and process of producing same",
+  :status :granted,
+  :id "US2800559",
+  :sourcing :authoritative,
+  :filing-year 1953,
+  :assignee :nat-res-dev,
+  :grant-year 1957,
+  :cites
+  ["US2027000"
+   "US2108277"
+   "US2164595"
+   "US2239642"
+   "US2451739"
+   "US2454082"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:eastman-kodak],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2801170/en",
+  :title "Preparation of color former dispersions",
+  :status :granted,
+  :id "US2801170",
+  :sourcing :authoritative,
+  :filing-year 1954,
+  :assignee :eastman-kodak,
+  :grant-year 1957,
+  :cites ["US2322027" "US2478400"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:eastman-kodak],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2801171/en",
+  :title "Photographic color former dispersions",
+  :status :granted,
+  :id "US2801171",
+  :sourcing :authoritative,
+  :filing-year 1954,
+  :assignee :eastman-kodak,
+  :grant-year 1957,
+  :cites ["US2322027" "US2478400" "US2699794"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:bell-telephone-laboratories],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2802760/en",
+  :title
+  "Oxidation of semiconductive surfaces for controlled diffusion",
+  :status :granted,
+  :id "US2802760",
+  :sourcing :authoritative,
+  :filing-year 1955,
+  :assignee :bell-telephone-laboratories,
+  :grant-year 1957,
+  :cites ["US2485069" "US2583681" "US2683676"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:firestone-tire-and-rubber],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2802808/en",
+  :title
+  "Compositions of a styrene-acrylonitrile resin, a graft of styrene and acrylonitrile upon a diene rubber and a diene rubber",
+  :status :granted,
+  :id "US2802808",
+  :sourcing :authoritative,
+  :filing-year 1953,
+  :assignee :firestone-tire-and-rubber,
+  :grant-year 1957,
+  :cites ["US2550139"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:crown-zellerbach],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2804418/en",
+  :title "Overlaid woody material and method of making the same",
+  :status :granted,
+  :id "US2804418",
+  :sourcing :authoritative,
+  :filing-year 1955,
+  :assignee :crown-zellerbach,
+  :grant-year 1957,
+  :cites ["US2319267" "US2343740" "US2497712" "US2656296" "US2666726"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:monsanto-chemicals],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2804441/en",
+  :title
+  "Compositions of methyl ethers of polymethylol melamine and a catalyst",
+  :status :granted,
+  :id "US2804441",
+  :sourcing :authoritative,
+  :filing-year 1954,
+  :assignee :monsanto-chemicals,
+  :grant-year 1957,
+  :cites
+  ["FR1047928A"
+   "GB480339A"
+   "US2197357"
+   "US2582961"
+   "US2645625"
+   "US2684346"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:international-nickel],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2805191/en",
+  :title "Oxygen analysis of gases",
+  :status :granted,
+  :id "US2805191",
+  :sourcing :authoritative,
+  :filing-year 1954,
+  :assignee :international-nickel,
+  :grant-year 1957,
+  :cites ["US2069562" "US2430895" "US2508238" "US2651612"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:exxon-research-and-engineering],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2805718/en",
+  :title "Method for running a tubular member in a well",
+  :status :granted,
+  :id "US2805718",
+  :sourcing :authoritative,
+  :filing-year 1954,
+  :assignee :exxon-research-and-engineering,
+  :grant-year 1957,
+  :cites
+  ["US2058825"
+   "US2171416"
+   "US2179017"
+   "US2352744"
+   "US2571478"
+   "US2636563"
+   "US2656151"
+   "US2673614"
+   "US2690123"
+   "US2698056"
+   "US2749989"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:commonwealth-engineering-company-of-ohio],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2807416/en",
+  :title "Device for automatically counting blood cells",
+  :status :granted,
+  :id "US2807416",
+  :sourcing :authoritative,
+  :filing-year 1954,
+  :assignee :commonwealth-engineering-company-of-ohio,
+  :grant-year 1957,
+  :cites ["US1974522" "US2369577" "US2480312" "US2584082" "US2661902"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:burgess-battery],
   :jurisdiction :us,
   :field "UNKNOWN",
   :source "https://patents.google.com/patent/US2808352/en",
@@ -9466,302 +9760,5 @@
    "US3048029"
    "US3232782"
    "US3273315"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:novo-terapeutisk-laboratorium-as],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3340156/en",
-  :title "Purification of plasminogen",
-  :status :granted,
-  :id "US3340156",
-  :sourcing :authoritative,
-  :filing-year 1965,
-  :assignee :novo-terapeutisk-laboratorium-as,
-  :grant-year 1967,
-  :cites ["US3066079"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:coulter-electronics],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3340471/en",
-  :title
-  "Flow-through sample apparatus for use with electrical particle study device",
-  :status :granted,
-  :id "US3340471",
-  :sourcing :authoritative,
-  :filing-year 1966,
-  :assignee :coulter-electronics,
-  :grant-year 1967,
-  :cites ["US3165692" "US3165693"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:dow-chemical],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3342729/en",
-  :title
-  "Permeability separatory cell and apparatus and method of using the same",
-  :status :granted,
-  :id "US3342729",
-  :sourcing :authoritative,
-  :filing-year 1964,
-  :assignee :dow-chemical,
-  :grant-year 1967,
-  :cites ["US2982416" "US3228877"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:merck-and],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3346560/en",
-  :title "Purine 3-deoxynucleosides",
-  :status :granted,
-  :id "US3346560",
-  :sourcing :authoritative,
-  :filing-year 1965,
-  :assignee :merck-and,
-  :grant-year 1967,
-  :cites ["US2852505" "US3208997"],
-  :term-years 20,
-  :open-license :none}
- {:jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3347846/en",
-  :title "Method of preparing 5&#39;-ribonucleotide",
-  :status :granted,
-  :id "US3347846",
-  :sourcing :authoritative,
-  :filing-year 1965,
-  :assignee :unassigned,
-  :grant-year 1967,
-  :cites ["US3201389" "US3282920" "US3288780"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:american-optical],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3348547/en",
-  :title "Photocoagulating apparatus",
-  :status :granted,
-  :id "US3348547",
-  :sourcing :authoritative,
-  :filing-year 1964,
-  :assignee :american-optical,
-  :grant-year 1967,
-  :cites ["US2930379" "US3084694" "US3096767"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:bausch-and-lomb],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3349227/en",
-  :title "Particle counter",
-  :status :granted,
-  :id "US3349227",
-  :sourcing :authoritative,
-  :filing-year 1964,
-  :assignee :bausch-and-lomb,
-  :grant-year 1967,
-  :cites ["US2803406" "US2817265" "US3061672"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:general-electric],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3351203/en",
-  :title "Separation apparatus and method for its operation",
-  :status :granted,
-  :id "US3351203",
-  :sourcing :authoritative,
-  :filing-year 1965,
-  :assignee :general-electric,
-  :grant-year 1967,
-  :cites ["US1872759" "US2398725" "US2937752" "US2973096"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:california-texas-oil],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3352197/en",
-  :title
-  "Method for determining the amount of particulate contaminants in a liquid by employing series filters",
-  :status :granted,
-  :id "US3352197",
-  :sourcing :authoritative,
-  :filing-year 1963,
-  :assignee :california-texas-oil,
-  :grant-year 1967,
-  :cites
-  ["GB139424A"
-   "US1547182"
-   "US2040066"
-   "US2072872"
-   "US2692528"
-   "US2751779"
-   "US2866379"
-   "US3172286"
-   "US3218908"
-   "US3236095"
-   "US3240110"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:cooke-engineering],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3356462/en",
-  :title "Disposable microtitration plate",
-  :status :granted,
-  :id "US3356462",
-  :sourcing :authoritative,
-  :filing-year 1966,
-  :assignee :cooke-engineering,
-  :grant-year 1967,
-  :cites
-  ["AT170898B"
-   "US2561339"
-   "US2612261"
-   "US2666951"
-   "US2911681"
-   "US2965219"
-   "US3057510"
-   "US3097070"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:ei-du-pont-de-nemours-and],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3356686/en",
-  :title
-  "Substituted amidopyrazalones containing a terminal ethylenically unsaturated group",
-  :status :granted,
-  :id "US3356686",
-  :sourcing :authoritative,
-  :filing-year 1964,
-  :assignee :ei-du-pont-de-nemours-and,
-  :grant-year 1967,
-  :cites
-  ["GB599919A"
-   "US2369489"
-   "US2600788"
-   "US2850485"
-   "US2976294"
-   "US3070442"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:sun-oil],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3361680/en",
-  :title
-  "Use of ultrasonic vibrations to disperse a liquid in another liquid",
-  :status :granted,
-  :id "US3361680",
-  :sourcing :authoritative,
-  :filing-year 1963,
-  :assignee :sun-oil,
-  :grant-year 1968,
-  :cites ["US1734975" "US1992938" "US2158374" "US2304125" "US2407462"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:dow-chemical],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3361842/en",
-  :title
-  "Liquid copolymers of ethylene, another alpha olefin and carboxylic acids and compositions thereof with polyepoxides",
-  :status :granted,
-  :id "US3361842",
-  :sourcing :authoritative,
-  :filing-year 1963,
-  :assignee :dow-chemical,
-  :grant-year 1968,
-  :cites ["US2396785" "US3249570" "US3278495"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:international-business-machines],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3362421/en",
-  :title "Bounded free jet fluid amplifier with turbulent attachment",
-  :status :granted,
-  :id "US3362421",
-  :sourcing :authoritative,
-  :filing-year 1963,
-  :assignee :international-business-machines,
-  :grant-year 1968,
-  :cites
-  ["US1628723"
-   "US2132961"
-   "US3001539"
-   "US3024805"
-   "US3093306"
-   "US3122165"
-   "US3123900"
-   "US3144037"
-   "US3182674"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:ajinomoto],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3364199/en",
-  :title "2-alkylinosines",
-  :status :granted,
-  :id "US3364199",
-  :sourcing :authoritative,
-  :filing-year 1965,
-  :assignee :ajinomoto,
-  :grant-year 1968,
-  :term-years 20,
-  :open-license :none}
- {:assignees [:english-electric],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3364358/en",
-  :title
-  "Measuring apparatus for measuring a linear dimension of a body",
-  :status :granted,
-  :id "US3364358",
-  :sourcing :authoritative,
-  :assignee :english-electric,
-  :grant-year 1968,
-  :cites ["US2659823" "US2848921" "US2941086" "US3003066" "US3066226"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:promoveo],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3367841/en",
-  :title
-  "Device and process for the study of the enzymatic characteristics of living cells",
-  :status :granted,
-  :id "US3367841",
-  :sourcing :authoritative,
-  :filing-year 1964,
-  :assignee :promoveo,
-  :grant-year 1968,
-  :cites
-  ["US2784146"
-   "US2785057"
-   "US2904474"
-   "US3068154"
-   "US3107204"
-   "US3197384"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:atomic-energy-commission-usa],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3367849/en",
-  :title "Amperometric determination of glucose",
-  :status :granted,
-  :id "US3367849",
-  :sourcing :authoritative,
-  :filing-year 1964,
-  :assignee :atomic-energy-commission-usa,
-  :grant-year 1968,
-  :cites ["US3208926"],
   :term-years 20,
   :open-license :none}]

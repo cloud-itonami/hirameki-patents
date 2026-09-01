@@ -1,4 +1,45 @@
 [[":db/add"
+  "hirameki-patent:GB1274869A"
+  ":hirameki.patent/title"
+  "Enzymes"]
+ [":db/add"
+  "hirameki-patent:GB1274869A"
+  ":hirameki.patent/jurisdiction"
+  ":gb"]
+ [":db/add"
+  "hirameki-patent:GB1274869A"
+  ":hirameki.patent/field"
+  "UNKNOWN"]
+ [":db/add"
+  "hirameki-patent:GB1274869A"
+  ":hirameki.patent/assignee"
+  ":arthur-guinness-son-and-dublin"]
+ [":db/add"
+  "hirameki-patent:GB1274869A"
+  ":hirameki.patent/status"
+  ":pending"]
+ [":db/add"
+  "hirameki-patent:GB1274869A"
+  ":hirameki.patent/open-license"
+  ":none"]
+ [":db/add"
+  "hirameki-patent:GB1274869A"
+  ":hirameki.obs/release-status"
+  ":pending"]
+ [":db/add"
+  "hirameki-patent:GB1274869A"
+  ":hirameki/sourcing"
+  ":authoritative"]
+ [":db/add" "hirameki-patent:GB1274869A" ":hirameki/derived" true]
+ [":db/add"
+  "hirameki-patent:GB1274869A"
+  ":hirameki.obs/years-to-expiry"
+  -37]
+ [":db/add"
+  "hirameki-patent:GB1274869A"
+  ":hirameki/source"
+  "https://patents.google.com/patent/GB1274869A/en"]
+ [":db/add"
   "hirameki-patent:GB1412591A"
   ":hirameki.patent/title"
   "Antiviral ds rna and compositions thereof"]
@@ -9942,46 +9983,5 @@
   ":pending"]
  [":db/add"
   "hirameki-patent:JP2006272931A"
-  ":hirameki.patent/open-license"
-  ":none"]
- [":db/add"
-  "hirameki-patent:JP2006272931A"
-  ":hirameki.obs/release-status"
-  ":pending"]
- [":db/add"
-  "hirameki-patent:JP2006272931A"
-  ":hirameki/sourcing"
-  ":authoritative"]
- [":db/add" "hirameki-patent:JP2006272931A" ":hirameki/derived" true]
- [":db/add"
-  "hirameki-patent:JP2006272931A"
-  ":hirameki.obs/years-to-expiry"
-  -1]
- [":db/add"
-  "hirameki-patent:JP2006272931A"
-  ":hirameki/source"
-  "https://patents.google.com/patent/JP2006272931A/en"]
- [":db/add"
-  "hirameki-patent:JP2006272936A"
-  ":hirameki.patent/title"
-  "Decorative sheet"]
- [":db/add"
-  "hirameki-patent:JP2006272936A"
-  ":hirameki.patent/jurisdiction"
-  ":jp"]
- [":db/add"
-  "hirameki-patent:JP2006272936A"
-  ":hirameki.patent/field"
-  "UNKNOWN"]
- [":db/add"
-  "hirameki-patent:JP2006272936A"
-  ":hirameki.patent/assignee"
-  ":dai-nippon-printing"]
- [":db/add"
-  "hirameki-patent:JP2006272936A"
-  ":hirameki.patent/status"
-  ":pending"]
- [":db/add"
-  "hirameki-patent:JP2006272936A"
   ":hirameki.patent/open-license"
   ":none"]]
