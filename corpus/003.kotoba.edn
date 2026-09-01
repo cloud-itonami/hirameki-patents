@@ -1,4 +1,245 @@
-[{:jurisdiction :us,
+[{:assignees [:westinghouse-electric],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3368113/en",
+  :title
+  "Integrated circuit structures, and method of making same, including a dielectric medium for internal isolation",
+  :status :granted,
+  :id "US3368113",
+  :sourcing :authoritative,
+  :filing-year 1965,
+  :assignee :westinghouse-electric,
+  :grant-year 1968,
+  :cites ["US3206647" "US3295031" "US3312871"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:scientific-industries],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3368872/en",
+  :title "Automatic chemical analyzer",
+  :status :granted,
+  :id "US3368872",
+  :sourcing :authoritative,
+  :filing-year 1966,
+  :assignee :scientific-industries,
+  :grant-year 1968,
+  :cites ["US3036893" "US3092465" "US3261668"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:monsanto],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3370041/en",
+  :title
+  "Polymerization process employing transition metal compounds as catalysts",
+  :status :granted,
+  :id "US3370041",
+  :sourcing :authoritative,
+  :filing-year 1966,
+  :assignee :monsanto,
+  :grant-year 1968,
+  :cites ["US2734047" "US2887473" "US2924589" "US2972607"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:ei-du-pont-de-nemours-and],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3370952/en",
+  :title "Color formers",
+  :status :granted,
+  :id "US3370952",
+  :sourcing :authoritative,
+  :filing-year 1964,
+  :assignee :ei-du-pont-de-nemours-and,
+  :grant-year 1968,
+  :cites ["US2548520" "US2763625" "US2956884" "US2976294" "US3211552"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:abbott-laboratories],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3372992/en",
+  :title "Method for determining blood serum iron-binding capacity",
+  :status :granted,
+  :id "US3372992",
+  :sourcing :authoritative,
+  :filing-year 1964,
+  :assignee :abbott-laboratories,
+  :grant-year 1968,
+  :cites ["US3206602"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:general-electric],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3373141/en",
+  :title
+  "Photoconductive copolymers of styrene and acrolein derivatized with aryl amines",
+  :status :granted,
+  :id "US3373141",
+  :sourcing :authoritative,
+  :filing-year 1964,
+  :assignee :general-electric,
+  :grant-year 1968,
+  :cites ["US3163531"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:international-business-machines],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3374111/en",
+  :title "Method for depositing thin dielectric polymer films",
+  :status :granted,
+  :id "US3374111",
+  :sourcing :authoritative,
+  :filing-year 1964,
+  :assignee :international-business-machines,
+  :grant-year 1968,
+  :cites ["GB906324A" "GB917151A" "US3119707" "US3297465"],
+  :term-years 20,
+  :open-license :none}
+ {:jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3376139/en",
+  :title "Photosensitive prepolymer composition and method",
+  :status :granted,
+  :id "US3376139",
+  :sourcing :authoritative,
+  :filing-year 1966,
+  :assignee :unassigned,
+  :grant-year 1968,
+  :cites
+  ["US2339058"
+   "US2722512"
+   "US2791504"
+   "US2832758"
+   "US3030341"
+   "US3036915"
+   "US3060025"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:upjohn],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3376283/en",
+  :title "1-arabinofuranosyl-3-hydrocarbyl-cytosines and process",
+  :status :granted,
+  :id "US3376283",
+  :sourcing :authoritative,
+  :filing-year 1965,
+  :assignee :upjohn,
+  :grant-year 1968,
+  :cites ["US3155646" "US3300478"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:owens-corning-fiberglas],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3380463/en",
+  :title "Viscosity measuring process and apparatus",
+  :status :granted,
+  :id "US3380463",
+  :sourcing :authoritative,
+  :filing-year 1965,
+  :assignee :owens-corning-fiberglas,
+  :grant-year 1968,
+  :cites ["US1605171" "US2302327" "US2613535" "US3200971"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:atomic-energy-commission-usa],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3380584/en",
+  :title "Particle separator",
+  :status :granted,
+  :id "US3380584",
+  :sourcing :authoritative,
+  :filing-year 1965,
+  :assignee :atomic-energy-commission-usa,
+  :grant-year 1968,
+  :cites ["US2646880" "US2656508" "US2756388" "US3123541" "US3124172"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:er-squibb-and-sons],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3380888/en",
+  :title "Test units",
+  :status :granted,
+  :id "US3380888",
+  :sourcing :authoritative,
+  :filing-year 1963,
+  :assignee :er-squibb-and-sons,
+  :grant-year 1968,
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:takeda-chemical-industries],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3380996/en",
+  :title "Method for producing purine nucleosides",
+  :status :granted,
+  :id "US3380996",
+  :sourcing :authoritative,
+  :filing-year 1966,
+  :assignee :takeda-chemical-industries,
+  :grant-year 1968,
+  :cites ["US2482069" "US3225029"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:philco-ford],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3381182/en",
+  :title "Microcircuits having buried conductive layers",
+  :status :granted,
+  :id "US3381182",
+  :sourcing :authoritative,
+  :filing-year 1964,
+  :assignee :philco-ford,
+  :grant-year 1968,
+  :cites
+  ["US3114865"
+   "US3210620"
+   "US3236701"
+   "US3254277"
+   "US3260902"
+   "US3290753"
+   "US3312879"
+   "US3312882"
+   "US3320485"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:inventor-s-group],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3381432/en",
+  :title "Stressed-skin span structure",
+  :status :granted,
+  :id "US3381432",
+  :sourcing :authoritative,
+  :filing-year 1966,
+  :assignee :inventor-s-group,
+  :grant-year 1968,
+  :cites ["US2150217" "US3148230" "US3315424"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:dixie-entpr],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3382983/en",
+  :title "Multi-layered filter apparatus",
+  :status :granted,
+  :id "US3382983",
+  :sourcing :authoritative,
+  :filing-year 1964,
+  :assignee :dixie-entpr,
+  :grant-year 1968,
+  :cites ["US2670328" "US2723761"],
+  :term-years 20,
+  :open-license :none}
+ {:jurisdiction :us,
   :field "UNKNOWN",
   :source "https://patents.google.com/patent/US3389966/en",
   :title
@@ -8845,260 +9086,5 @@
    "US3623811"
    "US3682071"
    "US3723003"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:early-warning],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3876504/en",
-  :title
-  "Procedure for determination of antigens and antibodies and articles for use therewith",
-  :status :granted,
-  :id "US3876504",
-  :sourcing :authoritative,
-  :filing-year 1974,
-  :assignee :early-warning,
-  :grant-year 1975,
-  :cites ["US3236732" "US3654090"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:amf],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3876738/en",
-  :title "Process for producing microporous films and products",
-  :status :granted,
-  :id "US3876738",
-  :sourcing :authoritative,
-  :filing-year 1973,
-  :assignee :amf,
-  :grant-year 1975,
-  :cites
-  ["US2783894"
-   "US3000757"
-   "US3190765"
-   "US3208875"
-   "US3642668"
-   "US3699038"
-   "US3703570"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:syva],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3878187/en",
-  :title
-  "Polypeptide derivatives of amphetamine and analogs for immunoassays",
-  :status :granted,
-  :id "US3878187",
-  :sourcing :authoritative,
-  :filing-year 1972,
-  :assignee :syva,
-  :grant-year 1975,
-  :cites ["US3690834" "US3704282" "US3817837"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:akzona],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3879262/en",
-  :title "Detection and determination of haptens",
-  :status :granted,
-  :id "US3879262",
-  :sourcing :authoritative,
-  :filing-year 1973,
-  :assignee :akzona,
-  :grant-year 1975,
-  :cites ["US3766162" "US3775536" "US3817837"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:sandoz],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3880760/en",
-  :title "Connector device for coil-type dialyser",
-  :status :granted,
-  :id "US3880760",
-  :sourcing :authoritative,
-  :filing-year 1973,
-  :assignee :sandoz,
-  :grant-year 1975,
-  :cites ["US3397790" "US3508662"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:syntex-usa],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3880934/en",
-  :title "Nitrophenyloxy-butanediols",
-  :status :granted,
-  :id "US3880934",
-  :sourcing :authoritative,
-  :filing-year 1972,
-  :assignee :syntex-usa,
-  :grant-year 1975,
-  :cites ["GB714617A"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:miles-laboratories],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3881993/en",
-  :title "Testing device for microorganisms",
-  :status :granted,
-  :id "US3881993",
-  :sourcing :authoritative,
-  :filing-year 1973,
-  :assignee :miles-laboratories,
-  :grant-year 1975,
-  :cites ["US2904474" "US3532603"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:american-cyanamid],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3882224/en",
-  :title "Reagents and tests for syphilis",
-  :status :granted,
-  :id "US3882224",
-  :sourcing :authoritative,
-  :filing-year 1973,
-  :assignee :american-cyanamid,
-  :grant-year 1975,
-  :cites
-  ["US2111976"
-   "US2112496"
-   "US2301717"
-   "US2770572"
-   "US3074853"
-   "US3666421"
-   "US3689632"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:miles-laboratories],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3882225/en",
-  :title "Direct agglutination immunological reagent",
-  :status :granted,
-  :id "US3882225",
-  :sourcing :authoritative,
-  :filing-year 1968,
-  :assignee :miles-laboratories,
-  :grant-year 1975,
-  :cites ["US2957808" "US3074853" "US3096250"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:wr-grace-and],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3883352/en",
-  :title "Process for forming a photocured solder resist",
-  :status :granted,
-  :id "US3883352",
-  :sourcing :authoritative,
-  :filing-year 1974,
-  :assignee :wr-grace-and,
-  :grant-year 1975,
-  :cites
-  ["US3376139"
-   "US3462267"
-   "US3615450"
-   "US3619393"
-   "US3701721"
-   "US3708413"
-   "US3753720"
-   "US3767398"
-   "US3770491"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:us-department-of-health-and-human-services],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3883393/en",
-  :title "Cell culture on semi-permeable tubular membranes",
-  :status :granted,
-  :id "US3883393",
-  :sourcing :authoritative,
-  :filing-year 1974,
-  :assignee :us-department-of-health-and-human-services,
-  :grant-year 1975,
-  :cites ["US3223595" "US3583907"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:macdermid],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3884704/en",
-  :title
-  "Catalyst system for activating surfaces prior to electroless deposition",
-  :status :granted,
-  :id "US3884704",
-  :sourcing :authoritative,
-  :filing-year 1973,
-  :assignee :macdermid,
-  :grant-year 1975,
-  :cites ["US3532518" "US3632388"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:bofors],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3884896/en",
-  :title
-  "New substrates for diagnostic use, with high susceptibility to thrombin and other proteolytic",
-  :status :granted,
-  :id "US3884896",
-  :sourcing :authoritative,
-  :filing-year 1973,
-  :assignee :bofors,
-  :grant-year 1975,
-  :term-years 20,
-  :open-license :none}
- {:assignees [:hitachi],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3885060/en",
-  :title "Production of insolubilized organic polymers",
-  :status :granted,
-  :id "US3885060",
-  :sourcing :authoritative,
-  :filing-year 1972,
-  :assignee :hitachi,
-  :grant-year 1975,
-  :cites
-  ["US3253000"
-   "US3291600"
-   "US3361842"
-   "US3374111"
-   "US3406040"
-   "US3417069"
-   "US3501389"
-   "US3531547"
-   "US3535137"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:fisher-scientific],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3885879/en",
-  :title
-  "Dual beam spectrophotometer utilizing a spectral wedge and bifurcated fiber optic bundle",
-  :status :granted,
-  :id "US3885879",
-  :sourcing :authoritative,
-  :filing-year 1973,
-  :assignee :fisher-scientific,
-  :grant-year 1975,
-  :cites
-  ["US1751584"
-   "US2708389"
-   "US3068742"
-   "US3457002"
-   "US3525869"
-   "US3583813"
-   "US3692415"
-   "US3707030"
-   "US3733137"],
   :term-years 20,
   :open-license :none}]

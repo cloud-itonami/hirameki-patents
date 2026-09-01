@@ -1,4 +1,56 @@
-[{:assignees [:ao-smith],
+[{:assignees [:swift-and],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US1983681/en",
+  :title "Sausage treating method",
+  :status :granted,
+  :id "US1983681",
+  :sourcing :authoritative,
+  :filing-year 1931,
+  :assignee :swift-and,
+  :grant-year 1934,
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:gardner-richardson],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US1985698/en",
+  :title "Paper manufacture",
+  :status :granted,
+  :id "US1985698",
+  :sourcing :authoritative,
+  :filing-year 1932,
+  :assignee :gardner-richardson,
+  :grant-year 1934,
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:universal-oil-products],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US1986196/en",
+  :title "Apparatus for conducting reactions at elevated pressures",
+  :status :granted,
+  :id "US1986196",
+  :sourcing :authoritative,
+  :filing-year 1933,
+  :assignee :universal-oil-products,
+  :grant-year 1935,
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:john-waldron],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US1987183/en",
+  :title "Apparatus for roll coating",
+  :status :granted,
+  :id "US1987183",
+  :sourcing :authoritative,
+  :filing-year 1932,
+  :assignee :john-waldron,
+  :grant-year 1935,
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:ao-smith],
   :jurisdiction :us,
   :field "UNKNOWN",
   :source "https://patents.google.com/patent/US1995492/en",
@@ -610,6 +662,19 @@
   :grant-year 1937,
   :term-years 20,
   :open-license :none}
+ {:assignees [:edna-may-bergstein],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2097428/en",
+  :title "Mechanism for sealing packages hermetically",
+  :status :granted,
+  :id "US2097428",
+  :sourcing :authoritative,
+  :filing-year 1935,
+  :assignee :edna-may-bergstein,
+  :grant-year 1937,
+  :term-years 20,
+  :open-license :none}
  {:assignees [:ei-du-pont-de-nemours-and],
   :jurisdiction :us,
   :field "UNKNOWN",
@@ -930,6 +995,19 @@
   :grant-year 1939,
   :term-years 20,
   :open-license :none}
+ {:assignees [:hinde-&-dauch-paper],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2155083/en",
+  :title "Roll clearing",
+  :status :granted,
+  :id "US2155083",
+  :sourcing :authoritative,
+  :filing-year 1937,
+  :assignee :hinde-&-dauch-paper,
+  :grant-year 1939,
+  :term-years 20,
+  :open-license :none}
  {:assignees [:mine-safety-appliances],
   :jurisdiction :us,
   :field "UNKNOWN",
@@ -1018,6 +1096,19 @@
   :grant-year 1939,
   :term-years 20,
   :open-license :none}
+ {:assignees [:beveridge-marvellum],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2163712/en",
+  :title "Coating machine",
+  :status :granted,
+  :id "US2163712",
+  :sourcing :authoritative,
+  :filing-year 1938,
+  :assignee :beveridge-marvellum,
+  :grant-year 1939,
+  :term-years 20,
+  :open-license :none}
  {:assignees [:general-electric-company],
   :jurisdiction :us,
   :field "UNKNOWN",
@@ -1081,6 +1172,18 @@
   :sourcing :authoritative,
   :filing-year 1936,
   :assignee :hygrade-sylvania,
+  :grant-year 1939,
+  :term-years 20,
+  :open-license :none}
+ {:jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2176093/en",
+  :title "Apparatus for and method of double web coating",
+  :status :granted,
+  :id "US2176093",
+  :sourcing :authoritative,
+  :filing-year 1937,
+  :assignee :unassigned,
   :grant-year 1939,
   :term-years 20,
   :open-license :none}
@@ -1617,6 +1720,32 @@
   :id "US2233805",
   :sourcing :authoritative,
   :assignee :unassigned,
+  :grant-year 1941,
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:gen-printing-ink],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2236239/en",
+  :title "Coating machine",
+  :status :granted,
+  :id "US2236239",
+  :sourcing :authoritative,
+  :filing-year 1937,
+  :assignee :gen-printing-ink,
+  :grant-year 1941,
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:rca],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2236861/en",
+  :title "Cataphoretic coating apparatus",
+  :status :granted,
+  :id "US2236861",
+  :sourcing :authoritative,
+  :filing-year 1938,
+  :assignee :rca,
   :grant-year 1941,
   :term-years 20,
   :open-license :none}
@@ -2193,6 +2322,18 @@
   :grant-year 1942,
   :term-years 20,
   :open-license :none}
+ {:jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2294520/en",
+  :title "Adhesive applying mechanism for paper fabricating machines",
+  :status :granted,
+  :id "US2294520",
+  :sourcing :authoritative,
+  :filing-year 1940,
+  :assignee :unassigned,
+  :grant-year 1942,
+  :term-years 20,
+  :open-license :none}
  {:assignees [:hercules-powder],
   :jurisdiction :us,
   :field "UNKNOWN",
@@ -2333,6 +2474,19 @@
   :filing-year 1937,
   :assignee :eastman-kodak,
   :grant-year 1942,
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:raytheon-production],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2307018/en",
+  :title "Cataphoretic deposition of insulating coatings",
+  :status :granted,
+  :id "US2307018",
+  :sourcing :authoritative,
+  :filing-year 1938,
+  :assignee :raytheon-production,
+  :grant-year 1943,
   :term-years 20,
   :open-license :none}
  {:assignees [:general-aniline-and-film],
@@ -3032,6 +3186,19 @@
   :grant-year 1944,
   :term-years 20,
   :open-license :none}
+ {:assignees [:nathan-gromer],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2353504/en",
+  :title "Means for making film sheets",
+  :status :granted,
+  :id "US2353504",
+  :sourcing :authoritative,
+  :filing-year 1942,
+  :assignee :nathan-gromer,
+  :grant-year 1944,
+  :term-years 20,
+  :open-license :none}
  {:assignees [:jasco],
   :jurisdiction :us,
   :field "UNKNOWN",
@@ -3235,6 +3402,33 @@
   :sourcing :authoritative,
   :filing-year 1939,
   :assignee :united-gas-improvement,
+  :grant-year 1945,
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:rca],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2376047/en",
+  :title "Electrophoretic coating mixture",
+  :status :granted,
+  :id "US2376047",
+  :sourcing :authoritative,
+  :filing-year 1942,
+  :assignee :rca,
+  :grant-year 1945,
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:union-oil-company-of-california],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2376535/en",
+  :title
+  "Recovery of magnesium from suspensions in nonconducting liquids",
+  :status :granted,
+  :id "US2376535",
+  :sourcing :authoritative,
+  :filing-year 1941,
+  :assignee :union-oil-company-of-california,
   :grant-year 1945,
   :term-years 20,
   :open-license :none}
@@ -3839,6 +4033,19 @@
    "US2094702"
    "US2131662"
    "US2218808"],
+  :term-years 20,
+  :open-license :none}
+ {:jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2424323/en",
+  :title "Roller paint-coating device",
+  :status :granted,
+  :id "US2424323",
+  :sourcing :authoritative,
+  :filing-year 1944,
+  :assignee :unassigned,
+  :grant-year 1947,
+  :cites ["US1270410" "US1817683" "US2118719" "US2252903"],
   :term-years 20,
   :open-license :none}
  {:assignees [:ei-du-pont-de-nemours-and],
@@ -5388,6 +5595,19 @@
    "US2411188"],
   :term-years 20,
   :open-license :none}
+ {:jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2542804/en",
+  :title "Apparatus for applying adhesive to a mass of wood chips",
+  :status :granted,
+  :id "US2542804",
+  :sourcing :authoritative,
+  :filing-year 1948,
+  :assignee :unassigned,
+  :grant-year 1951,
+  :cites ["US1931570" "US2177093" "US2302526" "US2313082" "US686930"],
+  :term-years 20,
+  :open-license :none}
  {:assignees [:welex-jet-services],
   :jurisdiction :us,
   :field "UNKNOWN",
@@ -5747,6 +5967,29 @@
    "US2051922"
    "US2096221"
    "US2136566"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:new-wrinkle],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2576317/en",
+  :title "Apparatus for producing selfsupporting wrinkle film",
+  :status :granted,
+  :id "US2576317",
+  :sourcing :authoritative,
+  :filing-year 1947,
+  :assignee :new-wrinkle,
+  :grant-year 1951,
+  :cites
+  ["US2051781"
+   "US2241225"
+   "US2258659"
+   "US2320513"
+   "US2327627"
+   "US2345013"
+   "US2382187"
+   "US2398435"
+   "US2434231"],
   :term-years 20,
   :open-license :none}
  {:assignees [:devoe-and-raynolds],
@@ -7095,6 +7338,27 @@
    "US2433401"
    "US2436578"
    "US2485589"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:celloplast],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2665450/en",
+  :title
+  "Method and apparatus for continuous production of absorbing material",
+  :status :granted,
+  :id "US2665450",
+  :sourcing :authoritative,
+  :filing-year 1950,
+  :assignee :celloplast,
+  :grant-year 1954,
+  :cites
+  ["GB435128A"
+   "US1590999"
+   "US2289713"
+   "US2308951"
+   "US2336944"
+   "US2540906"],
   :term-years 20,
   :open-license :none}
  {:jurisdiction :us,
@@ -9455,256 +9719,5 @@
   :assignee :commonwealth-engineering-company-of-ohio,
   :grant-year 1957,
   :cites ["US1974522" "US2369577" "US2480312" "US2584082" "US2661902"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:burgess-battery],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US2808352/en",
-  :title "Electrically conductive adhesive tape",
-  :status :granted,
-  :id "US2808352",
-  :sourcing :authoritative,
-  :filing-year 1951,
-  :assignee :burgess-battery,
-  :grant-year 1957,
-  :cites ["US2037749" "US2200363" "US2441945" "US2463452" "US882770"],
-  :term-years 20,
-  :open-license :none}
- {:jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US2809147/en",
-  :title
-  "Insecticidal film-forming composition and method of making same",
-  :status :granted,
-  :id "US2809147",
-  :sourcing :authoritative,
-  :filing-year 1954,
-  :assignee :unassigned,
-  :grant-year 1957,
-  :cites ["GB578206A" "GB592670A" "US2517930" "US2572864" "US2621163"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:phillips-petroleum],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US2813809/en",
-  :title "Wire covered with a hydrogenated rubbery butadiene polymer",
-  :status :granted,
-  :id "US2813809",
-  :sourcing :authoritative,
-  :filing-year 1954,
-  :assignee :phillips-petroleum,
-  :grant-year 1957,
-  :cites
-  ["US2046160"
-   "US2046257"
-   "US2109495"
-   "US2312024"
-   "US2693461"
-   "US2743233"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:baker-oil-tools],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US2815817/en",
-  :title "Well packer and setting apparatus therefor",
-  :status :granted,
-  :id "US2815817",
-  :sourcing :authoritative,
-  :filing-year 1950,
-  :assignee :baker-oil-tools,
-  :grant-year 1957,
-  :cites
-  ["US1342927"
-   "US1850218"
-   "US2177601"
-   "US2189937"
-   "US2201096"
-   "US2202173"
-   "US2222750"
-   "US2228243"
-   "US2338369"
-   "US2467801"
-   "US2492212"
-   "US2618344"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:shawinigan-resins],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US2816655/en",
-  :title "Low adhesion coatings on adhesive tapes and liners",
-  :status :granted,
-  :id "US2816655",
-  :sourcing :authoritative,
-  :filing-year 1954,
-  :assignee :shawinigan-resins,
-  :grant-year 1957,
-  :cites ["US2168535"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:rca],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US2817265/en",
-  :title "Light dividing apparatus",
-  :status :granted,
-  :id "US2817265",
-  :sourcing :authoritative,
-  :filing-year 1953,
-  :assignee :rca,
-  :grant-year 1957,
-  :cites
-  ["DE435706C"
-   "US2415191"
-   "US2443722"
-   "US2494441"
-   "US2560351"
-   "US2648250"
-   "US2661902"
-   "US2724737"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:warren-sd],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US2819184/en",
-  :title "Production of cast surfaced coated paper",
-  :status :granted,
-  :id "US2819184",
-  :sourcing :authoritative,
-  :filing-year 1953,
-  :assignee :warren-sd,
-  :grant-year 1958,
-  :cites ["GB611317A" "US1719166" "US2331922" "US2524915" "US2656286"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:phillips-petroleum],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US2819198/en",
-  :title "Cold-stable pesticide solutions",
-  :status :granted,
-  :id "US2819198",
-  :sourcing :authoritative,
-  :filing-year 1953,
-  :assignee :phillips-petroleum,
-  :grant-year 1958,
-  :cites ["US1817227" "US2416460" "US2543723" "US2543955" "US2658017"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:ei-du-pont-de-nemours-and],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US2819984/en",
-  :title
-  "Regenerated cellulose packaging materials and process of making same",
-  :status :granted,
-  :id "US2819984",
-  :sourcing :authoritative,
-  :filing-year 1954,
-  :assignee :ei-du-pont-de-nemours-and,
-  :grant-year 1958,
-  :cites ["CA500178A" "US2698240"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:wilson-and-toomer-fertilizer],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US2821500/en",
-  :title
-  "Coated dustless, granular insecticide for flies, their larvae, and other insects",
-  :status :granted,
-  :id "US2821500",
-  :sourcing :authoritative,
-  :filing-year 1956,
-  :assignee :wilson-and-toomer-fertilizer,
-  :grant-year 1958,
-  :cites ["GB708155A" "US1450128" "US2263827"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:stamford-engineered-products-c],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US2822476/en",
-  :title "Sterilizer",
-  :status :granted,
-  :id "US2822476",
-  :sourcing :authoritative,
-  :filing-year 1952,
-  :assignee :stamford-engineered-products-c,
-  :grant-year 1958,
-  :cites
-  ["US2146688"
-   "US2245762"
-   "US2273449"
-   "US2484559"
-   "US2536613"
-   "US2554156"
-   "US2596219"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:boyce-thompson-institute-for-plant-research],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US2823984/en",
-  :title "Fluoride ion indicator and process of development",
-  :status :granted,
-  :id "US2823984",
-  :sourcing :authoritative,
-  :filing-year 1955,
-  :assignee :boyce-thompson-institute-for-plant-research,
-  :grant-year 1958,
-  :cites ["GB566389A" "US2606102" "US691249"],
-  :term-years 20,
-  :open-license :none}
- {:jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US2824235/en",
-  :title "Infra-red radiation detector",
-  :status :granted,
-  :id "US2824235",
-  :sourcing :authoritative,
-  :filing-year 1954,
-  :assignee :unassigned,
-  :grant-year 1958,
-  :cites ["US2678400" "US2705758" "US2706792"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:thomas-electronics],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US2827390/en",
-  :title "Production of kinescope targets",
-  :status :granted,
-  :id "US2827390",
-  :sourcing :authoritative,
-  :filing-year 1955,
-  :assignee :thomas-electronics,
-  :grant-year 1958,
-  :cites
-  ["GB713908A"
-   "US2404953"
-   "US2528969"
-   "US2685530"
-   "US2687360"
-   "US2769733"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:us-philips],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US2827391/en",
-  :title
-  "Method of coating the inside of a curved tube with fluorescent material",
-  :status :granted,
-  :id "US2827391",
-  :sourcing :authoritative,
-  :filing-year 1955,
-  :assignee :us-philips,
-  :grant-year 1958,
-  :cites ["US2634510" "US2643956"],
   :term-years 20,
   :open-license :none}]
