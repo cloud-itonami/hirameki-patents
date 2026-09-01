@@ -1,4 +1,236 @@
-[{:assignees [:research],
+[{:jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3389966/en",
+  :title
+  "Apparatus and process for semiqualitative, semiquantitative immunodiffusion reactions",
+  :status :granted,
+  :id "US3389966",
+  :sourcing :authoritative,
+  :filing-year 1964,
+  :assignee :unassigned,
+  :grant-year 1968,
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:army-usa],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3391084/en",
+  :title
+  "Organic stripper, radiation decontaminant, passivator and rust remover",
+  :status :granted,
+  :id "US3391084",
+  :sourcing :authoritative,
+  :filing-year 1965,
+  :assignee :army-usa,
+  :grant-year 1968,
+  :cites
+  ["US1884164"
+   "US2433517"
+   "US2443173"
+   "US2495728"
+   "US2614992"
+   "US2924576"
+   "US3060125"
+   "US3094491"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:international-business-machines],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3392051/en",
+  :title
+  "Method for forming thin film electrical circuit elements by preferential nucleation techniques",
+  :status :granted,
+  :id "US3392051",
+  :sourcing :authoritative,
+  :filing-year 1964,
+  :assignee :international-business-machines,
+  :grant-year 1968,
+  :cites ["US2883257" "US3271180"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:ruth-l-christensen],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3392834/en",
+  :title "Packaged serum treater",
+  :status :granted,
+  :id "US3392834",
+  :sourcing :authoritative,
+  :filing-year 1967,
+  :assignee :ruth-l-christensen,
+  :grant-year 1968,
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:notraco-internat],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3394388/en",
+  :title
+  "Container, package or carton for comestibles and non-edible products",
+  :status :granted,
+  :id "US3394388",
+  :sourcing :authoritative,
+  :filing-year 1966,
+  :assignee :notraco-internat,
+  :grant-year 1968,
+  :cites ["US2223240" "US2555380" "US2970736"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:warner-lambert-pharmaceutical],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3395210/en",
+  :title
+  "Lyophilized diagnostic reagent for the determination of blood coagulation factors",
+  :status :granted,
+  :id "US3395210",
+  :sourcing :authoritative,
+  :filing-year 1964,
+  :assignee :warner-lambert-pharmaceutical,
+  :grant-year 1968,
+  :cites ["US3179567"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:robert-r-berueffy],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3397965/en",
+  :title "Gas analysis unit",
+  :status :granted,
+  :id "US3397965",
+  :sourcing :authoritative,
+  :filing-year 1965,
+  :assignee :robert-r-berueffy,
+  :grant-year 1968,
+  :cites ["US3215500" "US3223488" "US3249403"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:perkin-elmer],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3398285/en",
+  :title
+  "Spectro-radiometer with means for eliminating background noise",
+  :status :granted,
+  :id "US3398285",
+  :sourcing :authoritative,
+  :filing-year 1961,
+  :assignee :perkin-elmer,
+  :grant-year 1968,
+  :cites
+  ["US2219775"
+   "US2474098"
+   "US2483008"
+   "US2674700"
+   "US2702494"
+   "US2817769"
+   "US2948185"
+   "US2952781"
+   "US2961545"
+   "US3010024"
+   "US3011389"
+   "US3012473"
+   "US3025023"
+   "US3035175"
+   "US3039006"
+   "US3143588"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:monsanto],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3401213/en",
+  :title
+  "Graft copolymers of diene rubber substrate and hydroxylic polymer superstrate",
+  :status :granted,
+  :id "US3401213",
+  :sourcing :authoritative,
+  :filing-year 1963,
+  :assignee :monsanto,
+  :grant-year 1968,
+  :cites
+  ["US2695834"
+   "US2802808"
+   "US3038890"
+   "US3085074"
+   "US3119785"
+   "US3223655"
+   "US3255276"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:warner-lambert-pharmaceutical],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3401591/en",
+  :title
+  "Analytical cuvette and supply system wherein the cuvette inlet and outlet are located on the bottom of the cuvette",
+  :status :granted,
+  :id "US3401591",
+  :sourcing :authoritative,
+  :filing-year 1963,
+  :assignee :warner-lambert-pharmaceutical,
+  :grant-year 1968,
+  :cites ["US2878388" "US3225645"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:albemarle-paper-manufacturing],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3403045/en",
+  :title "Coated release paper",
+  :status :granted,
+  :id "US3403045",
+  :sourcing :authoritative,
+  :filing-year 1967,
+  :assignee :albemarle-paper-manufacturing,
+  :grant-year 1968,
+  :cites ["US2885074" "US3094432" "US3162543" "US3230289"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:trw],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3403081/en",
+  :title "Bio-chemical sensor and method of using same",
+  :status :granted,
+  :id "US3403081",
+  :sourcing :authoritative,
+  :filing-year 1967,
+  :assignee :trw,
+  :grant-year 1968,
+  :cites ["US2898282" "US2913386" "US3022241" "US3058894"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:bell-telephone-laboratories],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3403353/en",
+  :title
+  "Gas laser having a second cathode for space charge neutralization",
+  :status :granted,
+  :id "US3403353",
+  :sourcing :authoritative,
+  :filing-year 1965,
+  :assignee :bell-telephone-laboratories,
+  :grant-year 1968,
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:deutsche-itt-industries],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3404049/en",
+  :title "Method of shaping a crystal by acid cutting",
+  :status :granted,
+  :id "US3404049",
+  :sourcing :authoritative,
+  :filing-year 1965,
+  :assignee :deutsche-itt-industries,
+  :grant-year 1968,
+  :cites ["US2952528"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:research],
   :jurisdiction :us,
   :field "UNKNOWN",
   :source "https://patents.google.com/patent/US3404144/en",
@@ -8868,247 +9100,5 @@
    "US3692415"
    "US3707030"
    "US3733137"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:hitachi],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3886363/en",
-  :title "Spectro fluorescence and absorption measuring instrument",
-  :status :granted,
-  :id "US3886363",
-  :sourcing :authoritative,
-  :filing-year 1974,
-  :assignee :hitachi,
-  :grant-year 1975,
-  :cites ["US2971429"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:instrumentation-laboratory],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3887436/en",
-  :title "Cell culturing system",
-  :status :granted,
-  :id "US3887436",
-  :sourcing :authoritative,
-  :filing-year 1973,
-  :assignee :instrumentation-laboratory,
-  :grant-year 1975,
-  :cites ["US3276589"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:leland-stanford-junior-university],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3887698/en",
-  :title
-  "Sacs with epitopic sites on walls enclosing stable free radicals",
-  :status :granted,
-  :id "US3887698",
-  :sourcing :authoritative,
-  :filing-year 1974,
-  :assignee :leland-stanford-junior-university,
-  :grant-year 1975,
-  :cites ["US3453288" "US3690834"],
-  :term-years 20,
-  :open-license :none}
- {:jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3887699/en",
-  :title "Biodegradable polymeric article for dispensing drugs",
-  :status :granted,
-  :id "US3887699",
-  :sourcing :authoritative,
-  :filing-year 1970,
-  :assignee :unassigned,
-  :grant-year 1975,
-  :cites
-  ["US2625158"
-   "US3297033"
-   "US3435008"
-   "US3499445"
-   "US3545439"
-   "US3565991"
-   "US3618213"
-   "US3625214"
-   "US3636956"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:becton-dickinson-and],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3888250/en",
-  :title
-  "Disposable hemoperfusion assembly for detoxification of blood and method therefor",
-  :status :granted,
-  :id "US3888250",
-  :sourcing :authoritative,
-  :filing-year 1973,
-  :assignee :becton-dickinson-and,
-  :grant-year 1975,
-  :cites
-  ["US3005514"
-   "US3327859"
-   "US3462361"
-   "US3701433"
-   "US3742946"
-   "US3794584"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:forsyth-dental-infirmary-for-children],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3890200/en",
-  :title "Selective medium for streptococcus mutans",
-  :status :granted,
-  :id "US3890200",
-  :sourcing :authoritative,
-  :filing-year 1973,
-  :assignee :forsyth-dental-infirmary-for-children,
-  :grant-year 1975,
-  :term-years 20,
-  :open-license :none}
- {:assignees [:schering],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3891623/en",
-  :title "Process for preparing cytidines",
-  :status :granted,
-  :id "US3891623",
-  :sourcing :authoritative,
-  :filing-year 1972,
-  :assignee :schering,
-  :grant-year 1975,
-  :cites
-  ["US3328388"
-   "US3328389"
-   "US3346561"
-   "US3354160"
-   "US3404144"
-   "US3522237"
-   "US3708469"
-   "US3721664"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:minnesota-mining-and-manufacturing],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3892908/en",
-  :title
-  "Coating of solid substrates with magnetically propelled particles",
-  :status :granted,
-  :id "US3892908",
-  :sourcing :authoritative,
-  :filing-year 1973,
-  :assignee :minnesota-mining-and-manufacturing,
-  :grant-year 1975,
-  :cites
-  ["US2735231"
-   "US2880554"
-   "US3219318"
-   "US3318284"
-   "US3423880"
-   "US3439899"
-   "US3455276"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:bell-telephone-laboratories],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3892973/en",
-  :title "Mask structure for X-ray lithography",
-  :status :granted,
-  :id "US3892973",
-  :sourcing :authoritative,
-  :filing-year 1974,
-  :assignee :bell-telephone-laboratories,
-  :grant-year 1975,
-  :cites ["US3743842"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:university-of-illinois-at-urbana-champaign],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3893998/en",
-  :title "Fluorescent derivatives of cytosine-containing compounds",
-  :status :granted,
-  :id "US3893998",
-  :sourcing :authoritative,
-  :filing-year 1973,
-  :assignee :university-of-illinois-at-urbana-champaign,
-  :grant-year 1975,
-  :cites ["US3462416" "US3701772" "US3712885"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:owens-illinois],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3896008/en",
-  :title
-  "Electrochemical potentiometric method for selectively determining alkaline phosphatase content in aqueous fluids",
-  :status :granted,
-  :id "US3896008",
-  :sourcing :authoritative,
-  :filing-year 1971,
-  :assignee :owens-illinois,
-  :grant-year 1975,
-  :cites
-  ["US2999793"
-   "US3306837"
-   "US3425912"
-   "US3479255"
-   "US3542662"
-   "US3707455"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:summa],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3896217/en",
-  :title
-  "Method and apparatus for radioimmunoassay with regeneration of immunoadsorbent",
-  :status :granted,
-  :id "US3896217",
-  :sourcing :authoritative,
-  :filing-year 1973,
-  :assignee :summa,
-  :grant-year 1975,
-  :cites ["US3555143" "US3592888" "US3720760"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:research],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3896218/en",
-  :title
-  "Radiommunoassay determining the hepatitis associated antigen content of blood",
-  :status :granted,
-  :id "US3896218",
-  :sourcing :authoritative,
-  :filing-year 1972,
-  :assignee :research,
-  :grant-year 1975,
-  :cites ["US3555143" "US3645852"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:semikron-and-kg],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3896254/en",
-  :title "Coating semiconductor surfaces",
-  :status :granted,
-  :id "US3896254",
-  :sourcing :authoritative,
-  :filing-year 1972,
-  :assignee :semikron-and-kg,
-  :grant-year 1975,
-  :cites
-  ["US3188229"
-   "US3346384"
-   "US3450017"
-   "US3620827"
-   "US3650796"
-   "US3666548"],
   :term-years 20,
   :open-license :none}]

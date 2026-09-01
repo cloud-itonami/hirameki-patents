@@ -1639,6 +1639,47 @@
   ":hirameki/source"
   "https://patents.google.com/patent/GB2162946A/en"]
  [":db/add"
+  "hirameki-patent:GB218340A"
+  ":hirameki.patent/title"
+  "Method of and apparatus for fire-extinguishing"]
+ [":db/add"
+  "hirameki-patent:GB218340A"
+  ":hirameki.patent/jurisdiction"
+  ":gb"]
+ [":db/add"
+  "hirameki-patent:GB218340A"
+  ":hirameki.patent/field"
+  "UNKNOWN"]
+ [":db/add"
+  "hirameki-patent:GB218340A"
+  ":hirameki.patent/assignee"
+  ":robert-lemuel-mcelroy"]
+ [":db/add"
+  "hirameki-patent:GB218340A"
+  ":hirameki.patent/status"
+  ":pending"]
+ [":db/add"
+  "hirameki-patent:GB218340A"
+  ":hirameki.patent/open-license"
+  ":none"]
+ [":db/add"
+  "hirameki-patent:GB218340A"
+  ":hirameki.obs/release-status"
+  ":pending"]
+ [":db/add"
+  "hirameki-patent:GB218340A"
+  ":hirameki/sourcing"
+  ":authoritative"]
+ [":db/add" "hirameki-patent:GB218340A" ":hirameki/derived" true]
+ [":db/add"
+  "hirameki-patent:GB218340A"
+  ":hirameki.obs/years-to-expiry"
+  -83]
+ [":db/add"
+  "hirameki-patent:GB218340A"
+  ":hirameki/source"
+  "https://patents.google.com/patent/GB218340A/en"]
+ [":db/add"
   "hirameki-patent:GB2197720A"
   ":hirameki.patent/title"
   "Immobilisation of polynucleotides"]
@@ -9943,41 +9984,4 @@
  [":db/add"
   "hirameki-patent:JP2007302835A"
   ":hirameki.patent/open-license"
-  ":none"]
- [":db/add"
-  "hirameki-patent:JP2007302835A"
-  ":hirameki.obs/release-status"
-  ":pending"]
- [":db/add"
-  "hirameki-patent:JP2007302835A"
-  ":hirameki/sourcing"
-  ":authoritative"]
- [":db/add" "hirameki-patent:JP2007302835A" ":hirameki/derived" true]
- [":db/add"
-  "hirameki-patent:JP2007302835A"
-  ":hirameki.obs/years-to-expiry"
-  0]
- [":db/add"
-  "hirameki-patent:JP2007302835A"
-  ":hirameki/source"
-  "https://patents.google.com/patent/JP2007302835A/en"]
- [":db/add"
-  "hirameki-patent:JP2008031453A"
-  ":hirameki.patent/title"
-  "Water-based coating composition and method of coating plastic molding using the same"]
- [":db/add"
-  "hirameki-patent:JP2008031453A"
-  ":hirameki.patent/jurisdiction"
-  ":jp"]
- [":db/add"
-  "hirameki-patent:JP2008031453A"
-  ":hirameki.patent/field"
-  "UNKNOWN"]
- [":db/add"
-  "hirameki-patent:JP2008031453A"
-  ":hirameki.patent/assignee"
-  ":kansai-paint"]
- [":db/add"
-  "hirameki-patent:JP2008031453A"
-  ":hirameki.patent/status"
-  ":pending"]]
+  ":none"]]

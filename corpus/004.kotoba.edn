@@ -1,4 +1,246 @@
-[{:jurisdiction :us,
+[{:assignees [:hitachi],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3886363/en",
+  :title "Spectro fluorescence and absorption measuring instrument",
+  :status :granted,
+  :id "US3886363",
+  :sourcing :authoritative,
+  :filing-year 1974,
+  :assignee :hitachi,
+  :grant-year 1975,
+  :cites ["US2971429"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:instrumentation-laboratory],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3887436/en",
+  :title "Cell culturing system",
+  :status :granted,
+  :id "US3887436",
+  :sourcing :authoritative,
+  :filing-year 1973,
+  :assignee :instrumentation-laboratory,
+  :grant-year 1975,
+  :cites ["US3276589"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:leland-stanford-junior-university],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3887698/en",
+  :title
+  "Sacs with epitopic sites on walls enclosing stable free radicals",
+  :status :granted,
+  :id "US3887698",
+  :sourcing :authoritative,
+  :filing-year 1974,
+  :assignee :leland-stanford-junior-university,
+  :grant-year 1975,
+  :cites ["US3453288" "US3690834"],
+  :term-years 20,
+  :open-license :none}
+ {:jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3887699/en",
+  :title "Biodegradable polymeric article for dispensing drugs",
+  :status :granted,
+  :id "US3887699",
+  :sourcing :authoritative,
+  :filing-year 1970,
+  :assignee :unassigned,
+  :grant-year 1975,
+  :cites
+  ["US2625158"
+   "US3297033"
+   "US3435008"
+   "US3499445"
+   "US3545439"
+   "US3565991"
+   "US3618213"
+   "US3625214"
+   "US3636956"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:becton-dickinson-and],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3888250/en",
+  :title
+  "Disposable hemoperfusion assembly for detoxification of blood and method therefor",
+  :status :granted,
+  :id "US3888250",
+  :sourcing :authoritative,
+  :filing-year 1973,
+  :assignee :becton-dickinson-and,
+  :grant-year 1975,
+  :cites
+  ["US3005514"
+   "US3327859"
+   "US3462361"
+   "US3701433"
+   "US3742946"
+   "US3794584"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:forsyth-dental-infirmary-for-children],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3890200/en",
+  :title "Selective medium for streptococcus mutans",
+  :status :granted,
+  :id "US3890200",
+  :sourcing :authoritative,
+  :filing-year 1973,
+  :assignee :forsyth-dental-infirmary-for-children,
+  :grant-year 1975,
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:schering],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3891623/en",
+  :title "Process for preparing cytidines",
+  :status :granted,
+  :id "US3891623",
+  :sourcing :authoritative,
+  :filing-year 1972,
+  :assignee :schering,
+  :grant-year 1975,
+  :cites
+  ["US3328388"
+   "US3328389"
+   "US3346561"
+   "US3354160"
+   "US3404144"
+   "US3522237"
+   "US3708469"
+   "US3721664"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:minnesota-mining-and-manufacturing],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3892908/en",
+  :title
+  "Coating of solid substrates with magnetically propelled particles",
+  :status :granted,
+  :id "US3892908",
+  :sourcing :authoritative,
+  :filing-year 1973,
+  :assignee :minnesota-mining-and-manufacturing,
+  :grant-year 1975,
+  :cites
+  ["US2735231"
+   "US2880554"
+   "US3219318"
+   "US3318284"
+   "US3423880"
+   "US3439899"
+   "US3455276"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:bell-telephone-laboratories],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3892973/en",
+  :title "Mask structure for X-ray lithography",
+  :status :granted,
+  :id "US3892973",
+  :sourcing :authoritative,
+  :filing-year 1974,
+  :assignee :bell-telephone-laboratories,
+  :grant-year 1975,
+  :cites ["US3743842"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:university-of-illinois-at-urbana-champaign],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3893998/en",
+  :title "Fluorescent derivatives of cytosine-containing compounds",
+  :status :granted,
+  :id "US3893998",
+  :sourcing :authoritative,
+  :filing-year 1973,
+  :assignee :university-of-illinois-at-urbana-champaign,
+  :grant-year 1975,
+  :cites ["US3462416" "US3701772" "US3712885"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:owens-illinois],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3896008/en",
+  :title
+  "Electrochemical potentiometric method for selectively determining alkaline phosphatase content in aqueous fluids",
+  :status :granted,
+  :id "US3896008",
+  :sourcing :authoritative,
+  :filing-year 1971,
+  :assignee :owens-illinois,
+  :grant-year 1975,
+  :cites
+  ["US2999793"
+   "US3306837"
+   "US3425912"
+   "US3479255"
+   "US3542662"
+   "US3707455"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:summa],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3896217/en",
+  :title
+  "Method and apparatus for radioimmunoassay with regeneration of immunoadsorbent",
+  :status :granted,
+  :id "US3896217",
+  :sourcing :authoritative,
+  :filing-year 1973,
+  :assignee :summa,
+  :grant-year 1975,
+  :cites ["US3555143" "US3592888" "US3720760"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:research],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3896218/en",
+  :title
+  "Radiommunoassay determining the hepatitis associated antigen content of blood",
+  :status :granted,
+  :id "US3896218",
+  :sourcing :authoritative,
+  :filing-year 1972,
+  :assignee :research,
+  :grant-year 1975,
+  :cites ["US3555143" "US3645852"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:semikron-and-kg],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3896254/en",
+  :title "Coating semiconductor surfaces",
+  :status :granted,
+  :id "US3896254",
+  :sourcing :authoritative,
+  :filing-year 1972,
+  :assignee :semikron-and-kg,
+  :grant-year 1975,
+  :cites
+  ["US3188229"
+   "US3346384"
+   "US3450017"
+   "US3620827"
+   "US3650796"
+   "US3666548"],
+  :term-years 20,
+  :open-license :none}
+ {:jurisdiction :us,
   :field "UNKNOWN",
   :source "https://patents.google.com/patent/US3897154/en",
   :title
@@ -9166,210 +9408,5 @@
    "US4189464"
    "US4223005"
    "US4293538"],
-  :term-years 20,
-  :open-license :none}
- {:jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US4401759/en",
-  :title
-  "Detection and isolation of glucagon mRNA using a synthetic oligodeoxynucleotide",
-  :status :granted,
-  :id "US4401759",
-  :sourcing :authoritative,
-  :filing-year 1982,
-  :assignee :unassigned,
-  :grant-year 1983,
-  :cites ["US3689475" "US4224408" "US4237224" "US4293652" "US4321365"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:beckman-research-institute-of-city-of-hope],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US4401796/en",
-  :title "Solid-phase synthesis of polynucleotides",
-  :status :granted,
-  :id "US4401796",
-  :sourcing :authoritative,
-  :filing-year 1981,
-  :assignee :beckman-research-institute-of-city-of-hope,
-  :grant-year 1983,
-  :cites
-  ["US3985690"
-   "US4037037"
-   "US4043948"
-   "US4066827"
-   "US4217421"
-   "US4276395"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:imperial-chemical-industries],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US4403003/en",
-  :title "Article having basecoat/clearcoat and process for coating",
-  :status :granted,
-  :id "US4403003",
-  :sourcing :authoritative,
-  :filing-year 1981,
-  :assignee :imperial-chemical-industries,
-  :grant-year 1983,
-  :cites
-  ["GB1517834A" "US3953643" "US3953644" "US3967045" "US4220675"],
-  :term-years 20,
-  :open-license :none}
- {:jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US4404368/en",
-  :title "Lyophilized phosphorylated nucleosides",
-  :status :granted,
-  :id "US4404368",
-  :sourcing :authoritative,
-  :filing-year 1981,
-  :assignee :unassigned,
-  :grant-year 1983,
-  :cites ["US3338882" "US3433782"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:yeda-research-and-development],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US4405771/en",
-  :title
-  "Organometallic polymers, their preparation and compositions containing them",
-  :status :granted,
-  :id "US4405771",
-  :sourcing :authoritative,
-  :filing-year 1981,
-  :assignee :yeda-research-and-development,
-  :grant-year 1983,
-  :cites
-  ["US3166532"
-   "US3370041"
-   "US3503739"
-   "US3516971"
-   "US3810848"
-   "US4172937"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:atomic-energy-of-canada-aecl],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US4407942/en",
-  :title "Fluorescent detection of DNA damage",
-  :status :granted,
-  :id "US4407942",
-  :sourcing :authoritative,
-  :filing-year 1981,
-  :assignee :atomic-energy-of-canada-aecl,
-  :grant-year 1983,
-  :cites
-  ["SU649751A1" "US3798131" "US3899297" "US4257774" "US4345027"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:toyo-jozo],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US4409141/en",
-  :title "Peptides for assaying human parathyroid hormone",
-  :status :granted,
-  :id "US4409141",
-  :sourcing :authoritative,
-  :filing-year 1981,
-  :assignee :toyo-jozo,
-  :grant-year 1983,
-  :cites ["CA1008846A" "GB1413198A" "US3886132" "US4086196"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:montedison-spa],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US4413075/en",
-  :title "Piperidine polymers and use thereof as stabilizers",
-  :status :granted,
-  :id "US4413075",
-  :sourcing :authoritative,
-  :filing-year 1982,
-  :assignee :montedison-spa,
-  :grant-year 1983,
-  :cites
-  ["US2730531"
-   "US3692778"
-   "US3998784"
-   "US4031095"
-   "US4234471"
-   "US4247694"
-   "US4265803"
-   "US4265805"
-   "US4340534"
-   "US4351915"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:university-of-california-san-diego-ucsd],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US4415491/en",
-  :title
-  "Synthetic vaccine peptide epitomes of hepatitis B surface antigen",
-  :status :granted,
-  :id "US4415491",
-  :sourcing :authoritative,
-  :filing-year 1980,
-  :assignee :university-of-california-san-diego-ucsd,
-  :grant-year 1983,
-  :term-years 20,
-  :open-license :none}
- {:jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US4415546/en",
-  :title
-  "Biologically active analogs of ACTH and radioimmuno assay therefor",
-  :status :granted,
-  :id "US4415546",
-  :sourcing :authoritative,
-  :filing-year 1981,
-  :assignee :unassigned,
-  :grant-year 1983,
-  :term-years 20,
-  :open-license :none}
- {:assignees [:university-patents],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US4415732/en",
-  :title "Phosphoramidite compounds and processes",
-  :status :granted,
-  :id "US4415732",
-  :sourcing :authoritative,
-  :filing-year 1981,
-  :assignee :university-patents,
-  :grant-year 1983,
-  :cites ["US3534017"],
-  :term-years 20,
-  :open-license :none}
- {:jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US4416988/en",
-  :title
-  "Detection and isolation of enkephalin mRNA using a synthetic oligodeoxynucleotide",
-  :status :granted,
-  :id "US4416988",
-  :sourcing :authoritative,
-  :filing-year 1982,
-  :assignee :unassigned,
-  :grant-year 1983,
-  :term-years 20,
-  :open-license :none}
- {:assignees [:university-of-delaware],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US4419340/en",
-  :title
-  "Controlled release of anticancer agents from biodegradable polymers",
-  :status :granted,
-  :id "US4419340",
-  :sourcing :authoritative,
-  :filing-year 1980,
-  :assignee :university-of-delaware,
-  :grant-year 1983,
-  :cites ["US3773919" "US3887699" "US3904663" "US3976071" "US3991766"],
   :term-years 20,
   :open-license :none}]
