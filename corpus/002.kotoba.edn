@@ -1,4 +1,235 @@
-[{:assignees [:dow-chemical],
+[{:assignees [:ei-du-pont-de-nemours-and],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2848437/en",
+  :title
+  "Metalorganic compounds as initiators for the polymerization of formaldehyde",
+  :status :granted,
+  :id "US2848437",
+  :sourcing :authoritative,
+  :filing-year 1954,
+  :assignee :ei-du-pont-de-nemours-and,
+  :grant-year 1958,
+  :cites ["US2162616" "US2178523" "US2519550" "US2551365" "US2734889"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:woodmont-products],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2851380/en",
+  :title "Conductive ink and article coated therewith",
+  :status :granted,
+  :id "US2851380",
+  :sourcing :authoritative,
+  :filing-year 1953,
+  :assignee :woodmont-products,
+  :grant-year 1958,
+  :cites
+  ["US1837678"
+   "US2443741"
+   "US2485294"
+   "US2510503"
+   "US2608539"
+   "US2632751"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:foxboro],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2851654/en",
+  :title "Amperometric differential measurement system",
+  :status :granted,
+  :id "US2851654",
+  :sourcing :authoritative,
+  :filing-year 1956,
+  :assignee :foxboro,
+  :grant-year 1958,
+  :cites
+  ["US1399200"
+   "US2173233"
+   "US2232211"
+   "US2289687"
+   "US2569100"
+   "US2615839"
+   "US2773237"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:eastman-kodak],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2852381/en",
+  :title "Photographic emulsions containing polymeric color formers",
+  :status :granted,
+  :id "US2852381",
+  :sourcing :authoritative,
+  :filing-year 1953,
+  :assignee :eastman-kodak,
+  :grant-year 1958,
+  :cites ["US2322006" "US2322027" "US2533514" "US2759816"],
+  :term-years 20,
+  :open-license :none}
+ {:jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2854351/en",
+  :title
+  "Method of applying dressing for prolonging the effective life of cloth belts and resultant article",
+  :status :granted,
+  :id "US2854351",
+  :sourcing :authoritative,
+  :filing-year 1953,
+  :assignee :unassigned,
+  :grant-year 1958,
+  :cites
+  ["US1356890"
+   "US1870408"
+   "US2001582"
+   "US2181835"
+   "US2287780"
+   "US2441090"
+   "US2558929"
+   "US2626941"
+   "US2640366"
+   "US2655195"
+   "US2700623"
+   "US862403"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:champion-paper-and-fibre],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2855895/en",
+  :title "Apparatus for coating paper",
+  :status :granted,
+  :id "US2855895",
+  :sourcing :authoritative,
+  :filing-year 1954,
+  :assignee :champion-paper-and-fibre,
+  :grant-year 1958,
+  :cites
+  ["US1422545"
+   "US1641403"
+   "US2190809"
+   "US2328183"
+   "US2439802"
+   "US2474691"
+   "US2534320"
+   "US2681294"
+   "US515941"
+   "US676237"],
+  :term-years 20,
+  :open-license :none}
+ {:jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2858356/en",
+  :title "High voltage transformer assemblies",
+  :status :granted,
+  :id "US2858356",
+  :sourcing :authoritative,
+  :filing-year 1953,
+  :assignee :unassigned,
+  :grant-year 1958,
+  :cites
+  ["GB613973A"
+   "US1543533"
+   "US1603580"
+   "US1690353"
+   "US1821016"
+   "US1976608"
+   "US2140707"
+   "US2184574"
+   "US2425250"
+   "US2454962"
+   "US743340"
+   "US756676"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:american-cyanamid],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2858727/en",
+  :title "Device for the measurement of absolute turbidity",
+  :status :granted,
+  :id "US2858727",
+  :sourcing :authoritative,
+  :filing-year 1954,
+  :assignee :american-cyanamid,
+  :grant-year 1958,
+  :cites
+  ["US1277040"
+   "US1569342"
+   "US1971443"
+   "US2045124"
+   "US2213307"
+   "US2309268"
+   "US2436262"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:servo-of-america],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2859653/en",
+  :title "Wide-angle prism scanner",
+  :status :granted,
+  :id "US2859653",
+  :sourcing :authoritative,
+  :filing-year 1955,
+  :assignee :servo-of-america,
+  :grant-year 1958,
+  :cites
+  ["GB670960A"
+   "US1697941"
+   "US2408115"
+   "US2465957"
+   "US2490899"
+   "US2506946"
+   "US2597001"
+   "US2779819"],
+  :term-years 20,
+  :open-license :none}
+ {:jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2865719/en",
+  :title
+  "Method and composition for detecting phosphorylating compounds",
+  :status :granted,
+  :id "US2865719",
+  :sourcing :authoritative,
+  :filing-year 1956,
+  :assignee :unassigned,
+  :grant-year 1958,
+  :cites ["US1831894" "US691249"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:eastman-kodak],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2865753/en",
+  :title
+  "Photographic emulsions containing a styrene-butadiene latex and photographic paper made therewith",
+  :status :granted,
+  :id "US2865753",
+  :sourcing :authoritative,
+  :filing-year 1955,
+  :assignee :eastman-kodak,
+  :grant-year 1958,
+  :cites ["US2284877" "US2410792" "US2604388"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:ei-du-pont-de-nemours-and],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2867609/en",
+  :title "Preparation of polypyromellitimides",
+  :status :granted,
+  :id "US2867609",
+  :sourcing :authoritative,
+  :filing-year 1955,
+  :assignee :ei-du-pont-de-nemours-and,
+  :grant-year 1959,
+  :cites ["US2172274" "US2710853"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:dow-chemical],
   :jurisdiction :us,
   :field "UNKNOWN",
   :source "https://patents.google.com/patent/US2867611/en",
@@ -9515,202 +9746,5 @@
   :assignee :deutsche-itt-industries,
   :grant-year 1968,
   :cites ["US2952528"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:research],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3404144/en",
-  :title "1-beta-d-arabinofuranosyl-5-fluorocytosine compounds",
-  :status :granted,
-  :id "US3404144",
-  :sourcing :authoritative,
-  :filing-year 1965,
-  :assignee :research,
-  :grant-year 1968,
-  :cites ["US3002965" "US3328388"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:international-business-machines],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3406040/en",
-  :title "Vapor deposition method for forming thin polymeric films",
-  :status :granted,
-  :id "US3406040",
-  :sourcing :authoritative,
-  :filing-year 1964,
-  :assignee :international-business-machines,
-  :grant-year 1968,
-  :cites
-  ["US2428868"
-   "US3080481"
-   "US3117022"
-   "US3132046"
-   "US3161542"
-   "US3168418"
-   "US3183563"
-   "US3192892"
-   "US3211570"
-   "US3297465"
-   "US3310424"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:millipore],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3408315/en",
-  :title "Nylon membrane filter",
-  :status :granted,
-  :id "US3408315",
-  :sourcing :authoritative,
-  :filing-year 1965,
-  :assignee :millipore,
-  :grant-year 1968,
-  :cites ["GB938694A" "US2772322" "US2783894" "US3022542"],
-  :term-years 20,
-  :open-license :none}
- {:jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3409405/en",
-  :title "Diagnostic preparation for the detection of formaldehyde",
-  :status :granted,
-  :id "US3409405",
-  :sourcing :authoritative,
-  :filing-year 1965,
-  :assignee :unassigned,
-  :grant-year 1968,
-  :cites ["US2314548"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:amerace],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3411247/en",
-  :title "Refrigerator door frame",
-  :status :granted,
-  :id "US3411247",
-  :sourcing :authoritative,
-  :filing-year 1966,
-  :assignee :amerace,
-  :grant-year 1968,
-  :cites
-  ["US2286890"
-   "US2933779"
-   "US2993242"
-   "US3012642"
-   "US3063524"
-   "US3090083"
-   "US3177989"
-   "US3302354"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:agriculture-usa],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3411863/en",
-  :title
-  "Process for chemically attaching compounds to aminized cellulose by means of formaldehyde",
-  :status :granted,
-  :id "US3411863",
-  :sourcing :authoritative,
-  :filing-year 1965,
-  :assignee :agriculture-usa,
-  :grant-year 1968,
-  :cites ["US2668096" "US2793930"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:miles-laboratories],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3411887/en",
-  :title "Diagnostic composition",
-  :status :granted,
-  :id "US3411887",
-  :sourcing :authoritative,
-  :filing-year 1964,
-  :assignee :miles-laboratories,
-  :grant-year 1968,
-  :cites ["US2799660" "US2850359" "US3104209" "US3235337" "US3266868"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:quarzlampengesellschaft-m-b-h],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3412254/en",
-  :title
-  "Apparatus for counting particles suspended in transparent fluids",
-  :status :granted,
-  :id "US3412254",
-  :sourcing :authoritative,
-  :filing-year 1965,
-  :assignee :quarzlampengesellschaft-m-b-h,
-  :grant-year 1968,
-  :cites ["US2791150" "US2875666" "US679774"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:ajinomoto],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3413282/en",
-  :title "Method of preparing 5&#39;-nucleotides",
-  :status :granted,
-  :id "US3413282",
-  :sourcing :authoritative,
-  :filing-year 1966,
-  :assignee :ajinomoto,
-  :grant-year 1968,
-  :cites ["US3201389" "US3282920" "US3288780" "US3290285"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:international-business-machines],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3413464/en",
-  :title
-  "Method for measuring the nucleic acid in biological cells after enhancement in an acidic solution",
-  :status :granted,
-  :id "US3413464",
-  :sourcing :authoritative,
-  :filing-year 1965,
-  :assignee :international-business-machines,
-  :grant-year 1968,
-  :cites ["GB679711A" "US2690093" "US2807416" "US2974227"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:miles-laboratories],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3415361/en",
-  :title "Test device and container therefor",
-  :status :granted,
-  :id "US3415361",
-  :sourcing :authoritative,
-  :filing-year 1966,
-  :assignee :miles-laboratories,
-  :grant-year 1968,
-  :cites
-  ["DE1129884B"
-   "US2798631"
-   "US2844244"
-   "US3082903"
-   "US3139208"
-   "US3164478"
-   "US3252683"
-   "US3311229"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:philco-ford],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3415648/en",
-  :title "Pva etch masking process",
-  :status :granted,
-  :id "US3415648",
-  :sourcing :authoritative,
-  :filing-year 1964,
-  :assignee :philco-ford,
-  :grant-year 1968,
-  :cites ["US1840529" "US2827391" "US3230088" "US3255005"],
   :term-years 20,
   :open-license :none}]

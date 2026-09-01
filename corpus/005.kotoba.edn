@@ -1,4 +1,257 @@
-[{:assignees [:international-business-machines],
+[{:assignees
+  [:institut-national-de-la-sante-et-de-la-recherche-medicale-inserm],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US4419444/en",
+  :title
+  "Novel supports carrying side chains, processes for obtaining these supports, process for attaching organic compounds having carbohydrate residues one said supports, products and reagents resulting from said chemical fixation",
+  :status :granted,
+  :id "US4419444",
+  :sourcing :authoritative,
+  :filing-year 1980,
+  :assignee
+  :institut-national-de-la-sante-et-de-la-recherche-medicale-inserm,
+  :grant-year 1983,
+  :cites
+  ["US3553310"
+   "US3947352"
+   "US3956113"
+   "US3970521"
+   "US4177038"
+   "US4217338"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:us-department-of-health-and-human-services],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US4419446/en",
+  :title
+  "Recombinant DNA process utilizing a papilloma virus DNA as a vector",
+  :status :granted,
+  :id "US4419446",
+  :sourcing :authoritative,
+  :filing-year 1980,
+  :assignee :us-department-of-health-and-human-services,
+  :grant-year 1983,
+  :cites ["US4237224"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:toyo-jozo],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US4423034/en",
+  :title "Process for the preparation of antibodies",
+  :status :granted,
+  :id "US4423034",
+  :sourcing :authoritative,
+  :filing-year 1982,
+  :assignee :toyo-jozo,
+  :grant-year 1983,
+  :cites ["US3642763" "US4201770" "US4206199"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:university-of-texas-system],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US4423153/en",
+  :title
+  "Methods and compositions for the detection and determination of cellular DNA",
+  :status :granted,
+  :id "US4423153",
+  :sourcing :authoritative,
+  :filing-year 1981,
+  :assignee :university-of-texas-system,
+  :grant-year 1983,
+  :cites ["US4302437" "US4345027"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:inmont],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US4423179/en",
+  :title "Dimer acid based polyurethane coating compositions",
+  :status :granted,
+  :id "US4423179",
+  :sourcing :authoritative,
+  :filing-year 1983,
+  :assignee :inmont,
+  :grant-year 1983,
+  :cites
+  ["US2429219"
+   "US3267080"
+   "US3383343"
+   "US3578612"
+   "US3954899"
+   "US4045431"
+   "US4096102"
+   "US4155889"
+   "US4225645"
+   "US4352924"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:asahi-kasei-kogyo],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US4423185/en",
+  :title "Thermoplastic resinous composition",
+  :status :granted,
+  :id "US4423185",
+  :sourcing :authoritative,
+  :filing-year 1980,
+  :assignee :asahi-kasei-kogyo,
+  :grant-year 1983,
+  :cites
+  ["GB1440030A"
+   "US3271342"
+   "US3426099"
+   "US3646158"
+   "US3658635"
+   "US3833708"
+   "US3970715"
+   "US4223099"
+   "US4238574"
+   "US4284734"
+   "US4287314"],
+  :term-years 20,
+  :open-license :none}
+ {:jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US4423208/en",
+  :title "Affinity gel-adsorbent",
+  :status :granted,
+  :id "US4423208",
+  :sourcing :authoritative,
+  :filing-year 1982,
+  :assignee :unassigned,
+  :grant-year 1983,
+  :cites ["GB805830A"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:ciba-geigy],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US4426471/en",
+  :title "Stabilization of acid catalyzed stoving lacquers",
+  :status :granted,
+  :id "US4426471",
+  :sourcing :authoritative,
+  :filing-year 1982,
+  :assignee :ciba-geigy,
+  :grant-year 1984,
+  :cites ["US4315848"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:ciba-geigy],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US4426472/en",
+  :title "Light stabilization of metallic lacquers",
+  :status :granted,
+  :id "US4426472",
+  :sourcing :authoritative,
+  :filing-year 1982,
+  :assignee :ciba-geigy,
+  :grant-year 1984,
+  :cites
+  ["US3468973"
+   "US3548027"
+   "US3657384"
+   "US3832217"
+   "US3845023"
+   "US3925376"
+   "US3959413"
+   "US4102943"
+   "US4105626"
+   "US4110304"
+   "US4153596"
+   "US4344876"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:ortho-diagnostic-systems],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US4434150/en",
+  :title
+  "Immunological reagents employing polymeric backbone possessing reactive functional groups",
+  :status :granted,
+  :id "US4434150",
+  :sourcing :authoritative,
+  :filing-year 1981,
+  :assignee :ortho-diagnostic-systems,
+  :grant-year 1984,
+  :cites
+  ["CA1107644A"
+   "US3641235"
+   "US3652492"
+   "US3761357"
+   "US3764477"
+   "US3853987"
+   "US3857931"
+   "US3970597"
+   "US3996345"
+   "US4035316"
+   "US4108972"
+   "US4166105"
+   "US4169137"
+   "US4174384"
+   "US4199559"
+   "US4220722"
+   "US4225784"
+   "US4228237"
+   "US4231999"
+   "US4254096"
+   "US4267234"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:genex],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US4434228/en",
+  :title
+  "Immobilization of biological materials in condensed polyalkyleneimine polymers",
+  :status :granted,
+  :id "US4434228",
+  :sourcing :authoritative,
+  :filing-year 1982,
+  :assignee :genex,
+  :grant-year 1984,
+  :cites
+  ["GB1396714A"
+   "GB2019410B"
+   "US3791926"
+   "US3830699"
+   "US3859169"
+   "US4182695"
+   "US4248969"
+   "US4355105"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:ei-du-pont-de-nemours-and],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US4434236/en",
+  :title
+  "Immunoassay wherein labeled antibody is displaced from immobilized analyte-analogue",
+  :status :granted,
+  :id "US4434236",
+  :sourcing :authoritative,
+  :filing-year 1982,
+  :assignee :ei-du-pont-de-nemours-and,
+  :grant-year 1984,
+  :cites
+  ["US4039652"
+   "US4119709"
+   "US4125492"
+   "US4185084"
+   "US4235869"
+   "US4235960"
+   "US4256725"
+   "US4257884"
+   "US4298593"
+   "US4330299"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:international-business-machines],
   :jurisdiction :us,
   :field "UNKNOWN",
   :source "https://patents.google.com/patent/US4440801/en",
@@ -2922,6 +3175,61 @@
    "US4458066"],
   :term-years 20,
   :open-license :none}
+ {:assignees [:pennwalt],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US4857596/en",
+  :title "Polymer bound antioxidant stabilizers",
+  :status :granted,
+  :id "US4857596",
+  :sourcing :authoritative,
+  :filing-year 1987,
+  :assignee :pennwalt,
+  :grant-year 1989,
+  :cites
+  ["CA1180497A"
+   "CA677494A"
+   "EP0076691A1"
+   "EP0084882A1"
+   "EP0242800A2"
+   "FR2320310A1"
+   "US2769804"
+   "US2971939"
+   "US2989517"
+   "US3336267"
+   "US3488311"
+   "US3509110"
+   "US3522992"
+   "US3553177"
+   "US3555001"
+   "US3560455"
+   "US3560456"
+   "US3560457"
+   "US3632561"
+   "US3658769"
+   "US3723375"
+   "US3755354"
+   "US3767628"
+   "US3919354"
+   "US3956298"
+   "US3998907"
+   "US4066616"
+   "US4078091"
+   "US4097551"
+   "US4108943"
+   "US4152319"
+   "US4197370"
+   "US4238572"
+   "US4341695"
+   "US4376846"
+   "US4381373"
+   "US4452939"
+   "US4481337"
+   "US4486570"
+   "US4522983"
+   "US4785063"],
+  :term-years 20,
+  :open-license :none}
  {:assignees [:hoechst-celanese],
   :jurisdiction :us,
   :field "UNKNOWN",
@@ -3655,6 +3963,30 @@
    "US4661372"],
   :term-years 20,
   :open-license :none}
+ {:assignees [:mobay],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US5091475/en",
+  :title "Powder coatings with flat finishes",
+  :status :granted,
+  :id "US5091475",
+  :sourcing :authoritative,
+  :filing-year 1989,
+  :assignee :mobay,
+  :grant-year 1992,
+  :cites
+  ["US3202636"
+   "US3931117"
+   "US4055550"
+   "US4061845"
+   "US4162274"
+   "US4252923"
+   "US4289684"
+   "US4369301"
+   "US4480008"
+   "US4687813"],
+  :term-years 20,
+  :open-license :none}
  {:assignees [:ppg-industries],
   :jurisdiction :us,
   :field "UNKNOWN",
@@ -3679,6 +4011,28 @@
    "US5068288"],
   :term-years 20,
   :open-license :none}
+ {:assignees [:miles],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US5112931/en",
+  :title
+  "Blocked polyisocyanates for the production of powder coatings with flat finishes",
+  :status :granted,
+  :id "US5112931",
+  :sourcing :authoritative,
+  :filing-year 1991,
+  :assignee :miles,
+  :grant-year 1992,
+  :cites
+  ["US3931117"
+   "US4055550"
+   "US4248978"
+   "US4252923"
+   "US4369301"
+   "US4480008"
+   "US4559397"],
+  :term-years 20,
+  :open-license :none}
  {:assignees [:union-carbide-chemicals-and-plastics-technology],
   :jurisdiction :us,
   :field "UNKNOWN",
@@ -3691,6 +4045,34 @@
   :assignee :union-carbide-chemicals-and-plastics-technology,
   :grant-year 1992,
   :cites ["DE924751C" "US4977219"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:elf-atochem-north-america],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US5132387/en",
+  :title
+  "Hindered amine light stabilizer hydrazides for stabilizing polyurethane, polyurea and polyurethane-polyurea polymers",
+  :status :granted,
+  :id "US5132387",
+  :sourcing :authoritative,
+  :filing-year 1991,
+  :assignee :elf-atochem-north-america,
+  :grant-year 1992,
+  :cites
+  ["EP0219333A2"
+   "US4145512"
+   "US4153596"
+   "US4178279"
+   "US4191683"
+   "US4199489"
+   "US4233410"
+   "US4260691"
+   "US4348524"
+   "US4692486"
+   "US4780493"
+   "US4983738"
+   "US5043372"],
   :term-years 20,
   :open-license :none}
  {:assignees [:affymax-technologies],
@@ -4520,6 +4902,17 @@
   :term-years 20,
   :open-license :none}
  {:jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US598400/en",
+  :title "Apron-board for paper-making machines",
+  :status :granted,
+  :id "US598400",
+  :sourcing :authoritative,
+  :assignee :unassigned,
+  :grant-year 1898,
+  :term-years 20,
+  :open-license :none}
+ {:jurisdiction :us,
   :essentiality 0.3,
   :field "G06F",
   :title "Extensible markup language document processing",
@@ -4719,6 +5112,19 @@
    "US5753871"
    "WO1994012347A1"
    "WO1997020006A2"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:ralph-w-johnston-&],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US671213/en",
+  :title "Photograph and mount.",
+  :status :granted,
+  :id "US671213",
+  :sourcing :authoritative,
+  :filing-year 1900,
+  :assignee :ralph-w-johnston-&,
+  :grant-year 1901,
   :term-years 20,
   :open-license :none}
  {:jurisdiction :us,
