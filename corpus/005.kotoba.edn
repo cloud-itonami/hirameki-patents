@@ -1,4 +1,289 @@
-[{:assignees [:herberts],
+[{:assignees [:international-business-machines],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US4440801/en",
+  :title "Method for depositing a metal layer on polyesters",
+  :status :granted,
+  :id "US4440801",
+  :sourcing :authoritative,
+  :filing-year 1982,
+  :assignee :international-business-machines,
+  :grant-year 1984,
+  :cites
+  ["GB1324653A"
+   "US3394023"
+   "US3436468"
+   "US3801478"
+   "US3953658"
+   "US4042730"
+   "US4165394"
+   "US4229523"
+   "US4239789"
+   "US4268536"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:boston-biomedical-research-institute],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US4444878/en",
+  :title "Bispecific antibody determinants",
+  :status :granted,
+  :id "US4444878",
+  :sourcing :authoritative,
+  :filing-year 1981,
+  :assignee :boston-biomedical-research-institute,
+  :grant-year 1984,
+  :cites
+  ["EP0068763A2"
+   "US4193982"
+   "US4200436"
+   "US4208479"
+   "US4223005"
+   "US4235869"
+   "US4240889"
+   "US4278761"
+   "US4298685"
+   "US4331647"
+   "US4340535"
+   "US4350626"
+   "US4376110"],
+  :term-years 20,
+  :open-license :none}
+ {:jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US4444892/en",
+  :title
+  "Analytical device having semiconductive organic polymeric element associated with analyte-binding substance",
+  :status :granted,
+  :id "US4444892",
+  :sourcing :authoritative,
+  :filing-year 1982,
+  :assignee :unassigned,
+  :grant-year 1984,
+  :cites ["US3932807" "US3999122" "US4103227" "US4180771"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:life-technologies],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US4446237/en",
+  :title
+  "Method for detection of a suspect viral deoxyribonucleic acid in an acellular biological fluid",
+  :status :granted,
+  :id "US4446237",
+  :sourcing :authoritative,
+  :filing-year 1981,
+  :assignee :life-technologies,
+  :grant-year 1984,
+  :cites
+  ["GB2034323A"
+   "US4000252"
+   "US4048298"
+   "US4066512"
+   "US4139346"
+   "US4302204"
+   "US4358535"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:witco-chemical],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US4447571/en",
+  :title "Stabilization of polyurethanes",
+  :status :granted,
+  :id "US4447571",
+  :sourcing :authoritative,
+  :filing-year 1981,
+  :assignee :witco-chemical,
+  :grant-year 1984,
+  :cites ["US3188302" "US3923713" "US3929726"],
+  :term-years 20,
+  :open-license :none}
+ {:jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US444821/en",
+  :title "Apparatus for making leaf-hinges for books",
+  :status :granted,
+  :id "US444821",
+  :sourcing :authoritative,
+  :assignee :unassigned,
+  :grant-year 1891,
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:ei-du-pont-de-nemours-and],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US4451597/en",
+  :title
+  "High solids color coat containing alcohol soluble cellulose acetate butyrate",
+  :status :granted,
+  :id "US4451597",
+  :sourcing :authoritative,
+  :filing-year 1982,
+  :assignee :ei-du-pont-de-nemours-and,
+  :grant-year 1984,
+  :cites
+  ["US3558564"
+   "US3622651"
+   "US3637546"
+   "US3674734"
+   "US3862062"
+   "US3862063"
+   "US4131571"
+   "US4208465"
+   "US4359504"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:ei-du-pont-de-nemours-and],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US4455331/en",
+  :title
+  "Coating composition containing a rheology control additive of silica and polyvinyl pyrrolidone",
+  :status :granted,
+  :id "US4455331",
+  :sourcing :authoritative,
+  :filing-year 1983,
+  :assignee :ei-du-pont-de-nemours-and,
+  :grant-year 1984,
+  :cites
+  ["US3607822"
+   "US3630954"
+   "US3656981"
+   "US3959554"
+   "US4131571"
+   "US4238387"
+   "US4273693"
+   "US4321169"
+   "US4338379"
+   "US4350790"
+   "US4404248"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:ei-du-pont-de-nemours-and],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US4455370/en",
+  :title
+  "Transferring separated components in gel electrophoresis via nylon membrane",
+  :status :granted,
+  :id "US4455370",
+  :sourcing :authoritative,
+  :filing-year 1983,
+  :assignee :ei-du-pont-de-nemours-and,
+  :grant-year 1984,
+  :cites
+  ["US2783894"
+   "US3408315"
+   "US3553067"
+   "US3594263"
+   "US3759773"
+   "US3843324"
+   "US3876738"
+   "US4048038"
+   "US4106920"
+   "US4128470"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:becton-dickinson-and],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US4456689/en",
+  :title
+  "Competitive protein binding assay using an organosilane-silica gel separation medium",
+  :status :granted,
+  :id "US4456689",
+  :sourcing :authoritative,
+  :filing-year 1982,
+  :assignee :becton-dickinson-and,
+  :grant-year 1984,
+  :cites
+  ["US4173571"
+   "US4180642"
+   "US4201881"
+   "US4223131"
+   "US4241062"
+   "US4248992"
+   "US4265634"
+   "US4360471"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:university-patents],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US4458066/en",
+  :title "Process for preparing polynucleotides",
+  :status :granted,
+  :id "US4458066",
+  :sourcing :authoritative,
+  :filing-year 1981,
+  :assignee :university-patents,
+  :grant-year 1984,
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:nippon-paint],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US4463038/en",
+  :title "Metallic coating using two coat one bake method",
+  :status :granted,
+  :id "US4463038",
+  :sourcing :authoritative,
+  :filing-year 1982,
+  :assignee :nippon-paint,
+  :grant-year 1984,
+  :cites ["US4254168" "US4315053" "US4355071" "US4359504" "US4382114"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:pharmacia-diagnostics],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US4469796/en",
+  :title "Assaying methods involving biospecific affinity reactions",
+  :status :granted,
+  :id "US4469796",
+  :sourcing :authoritative,
+  :filing-year 1981,
+  :assignee :pharmacia-diagnostics,
+  :grant-year 1984,
+  :cites
+  ["GB2040935A"
+   "US3839153"
+   "US4139604"
+   "US4145406"
+   "US4149003"
+   "US4175073"
+   "US4180383"
+   "US4231999"
+   "US4232119"
+   "US4272506"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:leland-stanford-junior-university],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US4474892/en",
+  :title
+  "Two-site immunoassays using monoclonal antibodies of different classes or subclasses and test kits for performing same",
+  :status :granted,
+  :id "US4474892",
+  :sourcing :authoritative,
+  :filing-year 1983,
+  :assignee :leland-stanford-junior-university,
+  :grant-year 1984,
+  :cites
+  ["BE889855A"
+   "FR2487983A1"
+   "US3645852"
+   "US3654090"
+   "US3867517"
+   "US3940475"
+   "US4098876"
+   "US4174384"
+   "US4376110"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:herberts],
   :jurisdiction :us,
   :field "UNKNOWN",
   :source "https://patents.google.com/patent/US4476261/en",
@@ -1188,6 +1473,32 @@
    "US4444923"],
   :term-years 20,
   :open-license :none}
+ {:assignees [:uniroyal-chemical],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US4605743/en",
+  :title
+  "Process for the production of 2,2,6,6-tetraalkyl-4-piperidylamines",
+  :status :granted,
+  :id "US4605743",
+  :sourcing :authoritative,
+  :filing-year 1985,
+  :assignee :uniroyal-chemical,
+  :grant-year 1986,
+  :cites
+  ["DE3007996A1"
+   "US3480635"
+   "US3684765"
+   "US3734883"
+   "US3853890"
+   "US4046736"
+   "US4104248"
+   "US4191683"
+   "US4293466"
+   "US4326063"
+   "US4415688"],
+  :term-years 20,
+  :open-license :none}
  {:assignees [:genetic-systems],
   :jurisdiction :us,
   :field "UNKNOWN",
@@ -1720,6 +2031,40 @@
    "US4500707"],
   :term-years 20,
   :open-license :none}
+ {:assignees [:ciba-geigy],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US4691015/en",
+  :title "Hydroxylamines derived from hindered amines",
+  :status :granted,
+  :id "US4691015",
+  :sourcing :authoritative,
+  :filing-year 1985,
+  :assignee :ciba-geigy,
+  :grant-year 1987,
+  :cites
+  ["CH577011A5"
+   "GB1316341A"
+   "US3640928"
+   "US3644278"
+   "US3853890"
+   "US3936456"
+   "US3941744"
+   "US3994857"
+   "US4055536"
+   "US4064102"
+   "US4102858"
+   "US4104248"
+   "US4108829"
+   "US4198334"
+   "US4239891"
+   "US4292240"
+   "US4369274"
+   "US4396735"
+   "US4404302"
+   "US4472547"],
+  :term-years 20,
+  :open-license :none}
  {:assignees [:fuji-photo-film],
   :jurisdiction :us,
   :field "UNKNOWN",
@@ -1759,6 +2104,34 @@
    "US4358535"
    "US4361544"
    "US4535058"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:ciba-geigy],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US4703073/en",
+  :title
+  "Alkylated N,N-dibenzylhydroxylamines and polyolefin compositions stabilized therewith",
+  :status :granted,
+  :id "US4703073",
+  :sourcing :authoritative,
+  :filing-year 1986,
+  :assignee :ciba-geigy,
+  :grant-year 1987,
+  :cites
+  ["DE2160170A1"
+   "US3148225"
+   "US3219701"
+   "US3408422"
+   "US3432578"
+   "US3644278"
+   "US3778464"
+   "US3867445"
+   "US3926909"
+   "US4242224"
+   "US4316996"
+   "US4386224"
+   "US4547532"],
   :term-years 20,
   :open-license :none}
  {:assignees [:pharmacia],
