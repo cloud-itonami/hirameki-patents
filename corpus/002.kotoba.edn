@@ -1,4 +1,374 @@
-[{:assignees [:rohm-and-haas],
+[{:assignees [:kimberly-clark],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2772184/en",
+  :title "Paper coating",
+  :status :granted,
+  :id "US2772184",
+  :sourcing :authoritative,
+  :filing-year 1953,
+  :assignee :kimberly-clark,
+  :grant-year 1956,
+  :cites
+  ["US1060366"
+   "US2007578"
+   "US2183858"
+   "US2304818"
+   "US2419207"
+   "US2502783"
+   "US2632714"
+   "US2656286"
+   "US2661309"
+   "US2685571"
+   "US2698259"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:combined-locks-paper],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2772604/en",
+  :title
+  "Method of coating paper with high solids content coating material",
+  :status :granted,
+  :id "US2772604",
+  :sourcing :authoritative,
+  :filing-year 1953,
+  :assignee :combined-locks-paper,
+  :grant-year 1956,
+  :cites
+  ["GB189716315A"
+   "GB392742A"
+   "US1598302"
+   "US1921369"
+   "US2176418"
+   "US2208236"
+   "US2243604"
+   "US2398843"
+   "US2422345"
+   "US2649386"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:international-standard-electric],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2774747/en",
+  :title
+  "Electrically conducting cements containing epoxy resins and silver",
+  :status :granted,
+  :id "US2774747",
+  :sourcing :authoritative,
+  :filing-year 1952,
+  :assignee :international-standard-electric,
+  :grant-year 1956,
+  :cites
+  ["GB554972A"
+   "US1901391"
+   "US2137428"
+   "US2173249"
+   "US2280135"
+   "US2324961"
+   "US2470352"
+   "US2473884"
+   "US2500600"
+   "US2506130"
+   "US2570856"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:exxon-research-and-engineering],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2775303/en",
+  :title "Method for controlling sand in wells",
+  :status :granted,
+  :id "US2775303",
+  :sourcing :authoritative,
+  :filing-year 1953,
+  :assignee :exxon-research-and-engineering,
+  :grant-year 1956,
+  :cites
+  ["CA470229A"
+   "US2167190"
+   "US2167191"
+   "US2198573"
+   "US2205422"
+   "US2216037"
+   "US2297308"
+   "US2299057"
+   "US2310397"
+   "US2312862"
+   "US2652117"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:eastman-kodak],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2776236/en",
+  :title "Waterproof photographic paper and method of making same",
+  :status :granted,
+  :id "US2776236",
+  :sourcing :authoritative,
+  :filing-year 1954,
+  :assignee :eastman-kodak,
+  :grant-year 1957,
+  :cites
+  ["US1751882"
+   "US2273880"
+   "US2276244"
+   "US2392972"
+   "US2571725"
+   "US450963"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:hercules-powder],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2776912/en",
+  :title
+  "Process of coating paper with a gellable water-soluble cellulose derivative and pigment and gelling said coating",
+  :status :granted,
+  :id "US2776912",
+  :sourcing :authoritative,
+  :filing-year 1952,
+  :assignee :hercules-powder,
+  :grant-year 1957,
+  :cites
+  ["FR856012A"
+   "US2235798"
+   "US2297698"
+   "US2370517"
+   "US2502783"
+   "US2635972"
+   "US2640790"
+   "US2655864"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:gaspar],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2778813/en",
+  :title
+  "Color photographic material from resinous sulfonyl chlorides",
+  :status :granted,
+  :id "US2778813",
+  :sourcing :authoritative,
+  :filing-year 1951,
+  :assignee :gaspar,
+  :grant-year 1957,
+  :cites
+  ["DE580366C"
+   "US2269997"
+   "US2271176"
+   "US2283236"
+   "US2306410"
+   "US2310605"
+   "US2321891"
+   "US2333126"
+   "US2361541"
+   "US2368463"
+   "US2498722"
+   "US2592107"
+   "US2618655"
+   "US2632757"
+   "US2675371"
+   "US2725368"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:corning-glass-works],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2779136/en",
+  :title
+  "Method of making a glass article of high mechanical strength and article made thereby",
+  :status :granted,
+  :id "US2779136",
+  :sourcing :authoritative,
+  :filing-year 1955,
+  :assignee :corning-glass-works,
+  :grant-year 1957,
+  :cites ["US2428600"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:courtland-h-barr-jr :courtland-h-barr-sr],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2780225/en",
+  :title "Blood packaging unit",
+  :status :granted,
+  :id "US2780225",
+  :sourcing :authoritative,
+  :filing-year 1953,
+  :assignee :courtland-h-barr-jr,
+  :grant-year 1957,
+  :cites
+  ["DE729092C"
+   "DE808748C"
+   "NL34758C"
+   "US1686354"
+   "US2493922"
+   "US2612160"
+   "US529762"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:reichhold-chemicals],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2781332/en",
+  :title "Manufacture of etherified melamineformaldehyde resins",
+  :status :granted,
+  :id "US2781332",
+  :sourcing :authoritative,
+  :filing-year 1953,
+  :assignee :reichhold-chemicals,
+  :grant-year 1957,
+  :cites ["US2508875" "US2642418"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:millipore],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2783894/en",
+  :title "Microporous nylon film",
+  :status :granted,
+  :id "US2783894",
+  :sourcing :authoritative,
+  :filing-year 1955,
+  :assignee :millipore,
+  :grant-year 1957,
+  :cites ["US2562373" "US2631334"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:american-cyanamid],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2784135/en",
+  :title
+  "Process for the manufacture of polyacrylonitrile films and laminates",
+  :status :granted,
+  :id "US2784135",
+  :sourcing :authoritative,
+  :filing-year 1954,
+  :assignee :american-cyanamid,
+  :grant-year 1957,
+  :cites
+  ["US2357962"
+   "US2404714"
+   "US2558732"
+   "US2577763"
+   "US2677591"
+   "US2681265"
+   "US2695835"
+   "US2706674"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:union-central-life-insurance],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2785057/en",
+  :title "Device for testing liquids",
+  :status :granted,
+  :id "US2785057",
+  :sourcing :authoritative,
+  :filing-year 1953,
+  :assignee :union-central-life-insurance,
+  :grant-year 1957,
+  :cites
+  ["FR473720A"
+   "FR883659A"
+   "US1535536"
+   "US1826115"
+   "US2249867"
+   "US2567445"
+   "US2601840"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:calcium-carbonate],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2786012/en",
+  :title
+  "Compositions and method of producing a calcium carbonate carrier for insecticides",
+  :status :granted,
+  :id "US2786012",
+  :sourcing :authoritative,
+  :filing-year 1954,
+  :assignee :calcium-carbonate,
+  :grant-year 1957,
+  :cites ["US1847540" "US2034797" "US2523420"],
+  :term-years 20,
+  :open-license :none}
+ {:jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2788336/en",
+  :title
+  "Carboxymethyl protein as a stabilizer for a butadiene-styrene latex emulsion paint",
+  :status :granted,
+  :id "US2788336",
+  :sourcing :authoritative,
+  :filing-year 1952,
+  :assignee :unassigned,
+  :grant-year 1957,
+  :cites ["US2188167" "US2363892" "US2398317" "US2636819" "US2719837"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:polaroid],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2789054/en",
+  :title
+  "Print-receiving elements for diffusion transfer reversal processes and film assemblies embodying said elements",
+  :status :granted,
+  :id "US2789054",
+  :sourcing :authoritative,
+  :filing-year 1953,
+  :assignee :polaroid,
+  :grant-year 1957,
+  :cites
+  ["GB546559A"
+   "GB568782A"
+   "GB687751A"
+   "NL59365C"
+   "US2216736"
+   "US2360216"
+   "US2366723"
+   "US2415631"
+   "US2433515"
+   "US2462151"
+   "US2513189"
+   "US2543181"
+   "US2606832"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:allied-chemical-and-dye],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2789124/en",
+  :title
+  "Organic phosphate compounds and method of preparation and use thereof",
+  :status :granted,
+  :id "US2789124",
+  :sourcing :authoritative,
+  :filing-year 1951,
+  :assignee :allied-chemical-and-dye,
+  :grant-year 1957,
+  :cites ["US2565920" "US2565921" "US2583744"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:gardner-board-and-carton],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2790730/en",
+  :title
+  "Process of making and finishing coated paperboard and the like",
+  :status :granted,
+  :id "US2790730",
+  :sourcing :authoritative,
+  :filing-year 1954,
+  :assignee :gardner-board-and-carton,
+  :grant-year 1957,
+  :cites ["US2611717" "US2656286" "US2698259"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:rohm-and-haas],
   :jurisdiction :us,
   :field "UNKNOWN",
   :source "https://patents.google.com/patent/US2790736/en",
@@ -9433,332 +9803,5 @@
   :assignee :mead,
   :grant-year 1967,
   :cites ["US2558857" "US2759825" "US2789054" "US2949382" "US3174859"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:international-business-machines],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3327117/en",
-  :title "Cancer cell detector using two wavelengths for comparison",
-  :status :granted,
-  :id "US3327117",
-  :sourcing :authoritative,
-  :filing-year 1963,
-  :assignee :international-business-machines,
-  :grant-year 1967,
-  :cites ["US2395489" "US2790438" "US3210546"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:international-business-machines],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3327119/en",
-  :title "Method and apparatus for detecting cancer cells",
-  :status :granted,
-  :id "US3327119",
-  :sourcing :authoritative,
-  :filing-year 1964,
-  :assignee :international-business-machines,
-  :grant-year 1967,
-  :cites ["US2395489" "US2790438" "US3210546"],
-  :term-years 20,
-  :open-license :none}
- {:jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3327120/en",
-  :title
-  "Infrared imaging system using a photochromic glass viewing screen",
-  :status :granted,
-  :id "US3327120",
-  :sourcing :authoritative,
-  :filing-year 1964,
-  :assignee :unassigned,
-  :grant-year 1967,
-  :cites ["US3085469" "US3152215" "US3155451"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:honeywell],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3328277/en",
-  :title "Oxygen sensor with a scavenger electrode",
-  :status :granted,
-  :id "US3328277",
-  :sourcing :authoritative,
-  :filing-year 1964,
-  :assignee :honeywell,
-  :grant-year 1967,
-  :cites ["US2805191" "US3071530" "US3260656" "US3272725"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:merck-and],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3328388/en",
-  :title "Arabinofuranosyl pyrimidines and methods of preparing same",
-  :status :granted,
-  :id "US3328388",
-  :sourcing :authoritative,
-  :filing-year 1964,
-  :assignee :merck-and,
-  :grant-year 1967,
-  :cites ["US2885396" "US2949451" "US3040026" "US3135737"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:sankyo],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3328389/en",
-  :title "Process for preparing nucleotide derivatives",
-  :status :granted,
-  :id "US3328389",
-  :sourcing :authoritative,
-  :filing-year 1965,
-  :assignee :sankyo,
-  :grant-year 1967,
-  :cites ["US3208997"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:exxon-research-and-engineering],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3329004/en",
-  :title "Coated piezoelectric analyzer",
-  :status :granted,
-  :id "US3329004",
-  :sourcing :authoritative,
-  :filing-year 1963,
-  :assignee :exxon-research-and-engineering,
-  :grant-year 1967,
-  :cites ["US1559461" "US2571171" "US2768069" "US3164004" "US3194053"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:buckbee-mears],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3329541/en",
-  :title "Method of forming fine mesh screens",
-  :status :granted,
-  :id "US3329541",
-  :sourcing :authoritative,
-  :filing-year 1964,
-  :assignee :buckbee-mears,
-  :grant-year 1967,
-  :cites ["US2536383" "US2596617" "US378423"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:union-carbide],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3330796/en",
-  :title "Non-blocking polyolefin compositions",
-  :status :granted,
-  :id "US3330796",
-  :sourcing :authoritative,
-  :filing-year 1957,
-  :assignee :union-carbide,
-  :grant-year 1967,
-  :cites ["FR1132791A" "US2770608" "US2770609"],
-  :term-years 20,
-  :open-license :none}
- {:jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3330904/en",
-  :title
-  "Narrow band long range color television system incorporating color analyzer",
-  :status :granted,
-  :id "US3330904",
-  :sourcing :authoritative,
-  :filing-year 1965,
-  :assignee :unassigned,
-  :grant-year 1967,
-  :cites ["US2492926" "US2920131" "US2982811" "US3181987"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:ajinomoto],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3332935/en",
-  :title "Preparation of guanosine and intermediates therein",
-  :status :granted,
-  :id "US3332935",
-  :sourcing :authoritative,
-  :filing-year 1964,
-  :assignee :ajinomoto,
-  :grant-year 1967,
-  :cites ["US3082203" "US3170917" "US3201388" "US3208997"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:shell-oil],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3333024/en",
-  :title
-  "Block polymers, compositions containing them and process of their preparation",
-  :status :granted,
-  :id "US3333024",
-  :sourcing :authoritative,
-  :filing-year 1963,
-  :assignee :shell-oil,
-  :grant-year 1967,
-  :cites ["US3030346" "US3239478"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:abbott-laboratories],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3334039/en",
-  :title "Electrode construction in oxygen sensor",
-  :status :granted,
-  :id "US3334039",
-  :sourcing :authoritative,
-  :filing-year 1964,
-  :assignee :abbott-laboratories,
-  :grant-year 1967,
-  :cites
-  ["US2281594"
-   "US2480557"
-   "US2816739"
-   "US2906801"
-   "US2928782"
-   "US2960455"
-   "US2964941"
-   "US3224436"
-   "US3227643"
-   "US7799793"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:warren-sd],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3335017/en",
-  :title "Paper with release coating and process for making same",
-  :status :granted,
-  :id "US3335017",
-  :sourcing :authoritative,
-  :filing-year 1962,
-  :assignee :warren-sd,
-  :grant-year 1967,
-  :cites ["US2507200" "US2739910" "US2970932"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:pittsburgh-plate-glass],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3335524/en",
-  :title "Thermal break door",
-  :status :granted,
-  :id "US3335524",
-  :sourcing :authoritative,
-  :filing-year 1965,
-  :assignee :pittsburgh-plate-glass,
-  :grant-year 1967,
-  :cites ["AT225395B" "US1832847" "US2163566" "US2877876" "US3055468"],
-  :term-years 20,
-  :open-license :none}
- {:jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3335724/en",
-  :title
-  "Remote control, repeating, variable stroke hypodermic syringe device",
-  :status :granted,
-  :id "US3335724",
-  :sourcing :authoritative,
-  :filing-year 1964,
-  :assignee :unassigned,
-  :grant-year 1967,
-  :cites ["US1966498" "US2435440" "US2602446" "US2644450" "US2645224"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:upjohn],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3336289/en",
-  :title
-  "9-beta-d-ribofuranosyl-7-deazapurine 5&#39;-phosphate esters",
-  :status :granted,
-  :id "US3336289",
-  :sourcing :authoritative,
-  :filing-year 1965,
-  :assignee :upjohn,
-  :grant-year 1967,
-  :cites ["US3170835" "US3284440" "US3300479"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:ajinomoto],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3337528/en",
-  :title "Method of preparing inosine or derivative thereof",
-  :status :granted,
-  :id "US3337528",
-  :sourcing :authoritative,
-  :filing-year 1965,
-  :assignee :ajinomoto,
-  :grant-year 1967,
-  :cites ["US2844576"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:upjohn],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3337530/en",
-  :title
-  "Dinucleoside 3&#39;, 5&#39; -and 2&#39;, 5&#39;-phosphates containing one 7-deazapurin riboside moiety",
-  :status :granted,
-  :id "US3337530",
-  :sourcing :authoritative,
-  :filing-year 1965,
-  :assignee :upjohn,
-  :grant-year 1967,
-  :term-years 20,
-  :open-license :none}
- {:assignees [:upjohn],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3338882/en",
-  :title
-  "2&#39;-and 3&#39;-phosphates of 1-beta-d-arabinofuranosylcytosine",
-  :status :granted,
-  :id "US3338882",
-  :sourcing :authoritative,
-  :filing-year 1965,
-  :assignee :upjohn,
-  :grant-year 1967,
-  :term-years 20,
-  :open-license :none}
- {:assignees [:general-electric],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3340014/en",
-  :title "Stoichiometric indicator for combustion of gas",
-  :status :granted,
-  :id "US3340014",
-  :sourcing :authoritative,
-  :filing-year 1964,
-  :assignee :general-electric,
-  :grant-year 1967,
-  :cites ["US3051895" "US3119670"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:perkin-elmer],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3340085/en",
-  :title "Gas chromatographic separating material",
-  :status :granted,
-  :id "US3340085",
-  :sourcing :authoritative,
-  :filing-year 1963,
-  :assignee :perkin-elmer,
-  :grant-year 1967,
-  :cites
-  ["CA594400A"
-   "US2788297"
-   "US3005514"
-   "US3014815"
-   "US3048029"
-   "US3232782"
-   "US3273315"],
   :term-years 20,
   :open-license :none}]

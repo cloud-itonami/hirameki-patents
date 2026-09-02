@@ -1,4 +1,331 @@
-[{:assignees [:novo-terapeutisk-laboratorium-as],
+[{:assignees [:international-business-machines],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3327117/en",
+  :title "Cancer cell detector using two wavelengths for comparison",
+  :status :granted,
+  :id "US3327117",
+  :sourcing :authoritative,
+  :filing-year 1963,
+  :assignee :international-business-machines,
+  :grant-year 1967,
+  :cites ["US2395489" "US2790438" "US3210546"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:international-business-machines],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3327119/en",
+  :title "Method and apparatus for detecting cancer cells",
+  :status :granted,
+  :id "US3327119",
+  :sourcing :authoritative,
+  :filing-year 1964,
+  :assignee :international-business-machines,
+  :grant-year 1967,
+  :cites ["US2395489" "US2790438" "US3210546"],
+  :term-years 20,
+  :open-license :none}
+ {:jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3327120/en",
+  :title
+  "Infrared imaging system using a photochromic glass viewing screen",
+  :status :granted,
+  :id "US3327120",
+  :sourcing :authoritative,
+  :filing-year 1964,
+  :assignee :unassigned,
+  :grant-year 1967,
+  :cites ["US3085469" "US3152215" "US3155451"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:honeywell],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3328277/en",
+  :title "Oxygen sensor with a scavenger electrode",
+  :status :granted,
+  :id "US3328277",
+  :sourcing :authoritative,
+  :filing-year 1964,
+  :assignee :honeywell,
+  :grant-year 1967,
+  :cites ["US2805191" "US3071530" "US3260656" "US3272725"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:merck-and],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3328388/en",
+  :title "Arabinofuranosyl pyrimidines and methods of preparing same",
+  :status :granted,
+  :id "US3328388",
+  :sourcing :authoritative,
+  :filing-year 1964,
+  :assignee :merck-and,
+  :grant-year 1967,
+  :cites ["US2885396" "US2949451" "US3040026" "US3135737"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:sankyo],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3328389/en",
+  :title "Process for preparing nucleotide derivatives",
+  :status :granted,
+  :id "US3328389",
+  :sourcing :authoritative,
+  :filing-year 1965,
+  :assignee :sankyo,
+  :grant-year 1967,
+  :cites ["US3208997"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:exxon-research-and-engineering],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3329004/en",
+  :title "Coated piezoelectric analyzer",
+  :status :granted,
+  :id "US3329004",
+  :sourcing :authoritative,
+  :filing-year 1963,
+  :assignee :exxon-research-and-engineering,
+  :grant-year 1967,
+  :cites ["US1559461" "US2571171" "US2768069" "US3164004" "US3194053"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:buckbee-mears],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3329541/en",
+  :title "Method of forming fine mesh screens",
+  :status :granted,
+  :id "US3329541",
+  :sourcing :authoritative,
+  :filing-year 1964,
+  :assignee :buckbee-mears,
+  :grant-year 1967,
+  :cites ["US2536383" "US2596617" "US378423"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:union-carbide],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3330796/en",
+  :title "Non-blocking polyolefin compositions",
+  :status :granted,
+  :id "US3330796",
+  :sourcing :authoritative,
+  :filing-year 1957,
+  :assignee :union-carbide,
+  :grant-year 1967,
+  :cites ["FR1132791A" "US2770608" "US2770609"],
+  :term-years 20,
+  :open-license :none}
+ {:jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3330904/en",
+  :title
+  "Narrow band long range color television system incorporating color analyzer",
+  :status :granted,
+  :id "US3330904",
+  :sourcing :authoritative,
+  :filing-year 1965,
+  :assignee :unassigned,
+  :grant-year 1967,
+  :cites ["US2492926" "US2920131" "US2982811" "US3181987"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:ajinomoto],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3332935/en",
+  :title "Preparation of guanosine and intermediates therein",
+  :status :granted,
+  :id "US3332935",
+  :sourcing :authoritative,
+  :filing-year 1964,
+  :assignee :ajinomoto,
+  :grant-year 1967,
+  :cites ["US3082203" "US3170917" "US3201388" "US3208997"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:shell-oil],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3333024/en",
+  :title
+  "Block polymers, compositions containing them and process of their preparation",
+  :status :granted,
+  :id "US3333024",
+  :sourcing :authoritative,
+  :filing-year 1963,
+  :assignee :shell-oil,
+  :grant-year 1967,
+  :cites ["US3030346" "US3239478"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:abbott-laboratories],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3334039/en",
+  :title "Electrode construction in oxygen sensor",
+  :status :granted,
+  :id "US3334039",
+  :sourcing :authoritative,
+  :filing-year 1964,
+  :assignee :abbott-laboratories,
+  :grant-year 1967,
+  :cites
+  ["US2281594"
+   "US2480557"
+   "US2816739"
+   "US2906801"
+   "US2928782"
+   "US2960455"
+   "US2964941"
+   "US3224436"
+   "US3227643"
+   "US7799793"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:warren-sd],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3335017/en",
+  :title "Paper with release coating and process for making same",
+  :status :granted,
+  :id "US3335017",
+  :sourcing :authoritative,
+  :filing-year 1962,
+  :assignee :warren-sd,
+  :grant-year 1967,
+  :cites ["US2507200" "US2739910" "US2970932"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:pittsburgh-plate-glass],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3335524/en",
+  :title "Thermal break door",
+  :status :granted,
+  :id "US3335524",
+  :sourcing :authoritative,
+  :filing-year 1965,
+  :assignee :pittsburgh-plate-glass,
+  :grant-year 1967,
+  :cites ["AT225395B" "US1832847" "US2163566" "US2877876" "US3055468"],
+  :term-years 20,
+  :open-license :none}
+ {:jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3335724/en",
+  :title
+  "Remote control, repeating, variable stroke hypodermic syringe device",
+  :status :granted,
+  :id "US3335724",
+  :sourcing :authoritative,
+  :filing-year 1964,
+  :assignee :unassigned,
+  :grant-year 1967,
+  :cites ["US1966498" "US2435440" "US2602446" "US2644450" "US2645224"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:upjohn],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3336289/en",
+  :title
+  "9-beta-d-ribofuranosyl-7-deazapurine 5&#39;-phosphate esters",
+  :status :granted,
+  :id "US3336289",
+  :sourcing :authoritative,
+  :filing-year 1965,
+  :assignee :upjohn,
+  :grant-year 1967,
+  :cites ["US3170835" "US3284440" "US3300479"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:ajinomoto],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3337528/en",
+  :title "Method of preparing inosine or derivative thereof",
+  :status :granted,
+  :id "US3337528",
+  :sourcing :authoritative,
+  :filing-year 1965,
+  :assignee :ajinomoto,
+  :grant-year 1967,
+  :cites ["US2844576"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:upjohn],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3337530/en",
+  :title
+  "Dinucleoside 3&#39;, 5&#39; -and 2&#39;, 5&#39;-phosphates containing one 7-deazapurin riboside moiety",
+  :status :granted,
+  :id "US3337530",
+  :sourcing :authoritative,
+  :filing-year 1965,
+  :assignee :upjohn,
+  :grant-year 1967,
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:upjohn],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3338882/en",
+  :title
+  "2&#39;-and 3&#39;-phosphates of 1-beta-d-arabinofuranosylcytosine",
+  :status :granted,
+  :id "US3338882",
+  :sourcing :authoritative,
+  :filing-year 1965,
+  :assignee :upjohn,
+  :grant-year 1967,
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:general-electric],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3340014/en",
+  :title "Stoichiometric indicator for combustion of gas",
+  :status :granted,
+  :id "US3340014",
+  :sourcing :authoritative,
+  :filing-year 1964,
+  :assignee :general-electric,
+  :grant-year 1967,
+  :cites ["US3051895" "US3119670"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:perkin-elmer],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3340085/en",
+  :title "Gas chromatographic separating material",
+  :status :granted,
+  :id "US3340085",
+  :sourcing :authoritative,
+  :filing-year 1963,
+  :assignee :perkin-elmer,
+  :grant-year 1967,
+  :cites
+  ["CA594400A"
+   "US2788297"
+   "US3005514"
+   "US3014815"
+   "US3048029"
+   "US3232782"
+   "US3273315"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:novo-terapeutisk-laboratorium-as],
   :jurisdiction :us,
   :field "UNKNOWN",
   :source "https://patents.google.com/patent/US3340156/en",
@@ -8716,383 +9043,5 @@
   :assignee :general-electric,
   :grant-year 1974,
   :cites ["US3250596" "US3492396" "US3646346" "US3770380"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:nat-res-dev],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3853712/en",
-  :title "Cell culture systems",
-  :status :granted,
-  :id "US3853712",
-  :sourcing :authoritative,
-  :filing-year 1972,
-  :assignee :nat-res-dev,
-  :grant-year 1974,
-  :cites ["US2522947" "US3102082" "US3281307" "US3740321"],
-  :term-years 20,
-  :open-license :none}
- {:jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3853987/en",
-  :title "Immunological reagent and radioimmuno assay",
-  :status :granted,
-  :id "US3853987",
-  :sourcing :authoritative,
-  :filing-year 1971,
-  :assignee :unassigned,
-  :grant-year 1974,
-  :cites ["US3234096" "US3505019" "US3555143" "US3592888" "US3646346"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:ajinomoto],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3856777/en",
-  :title "Method of producing pyrimidine nucleoside derivatives",
-  :status :granted,
-  :id "US3856777",
-  :sourcing :authoritative,
-  :filing-year 1972,
-  :assignee :ajinomoto,
-  :grant-year 1974,
-  :cites ["US3463850" "US3705147"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:f-hoffmann-la-roche],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3857931/en",
-  :title "Latex polymer reagents for diagnostic tests",
-  :status :granted,
-  :id "US3857931",
-  :sourcing :authoritative,
-  :filing-year 1972,
-  :assignee :f-hoffmann-la-roche,
-  :grant-year 1974,
-  :cites
-  ["GB1172768A"
-   "US3502545"
-   "US3639558"
-   "US3652761"
-   "US3709868"
-   "US3720760"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:polymeric-enzymes],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3859169/en",
-  :title "Enzymes entrapped in gels",
-  :status :granted,
-  :id "US3859169",
-  :sourcing :authoritative,
-  :filing-year 1973,
-  :assignee :polymeric-enzymes,
-  :grant-year 1975,
-  :cites ["US3540984" "US3576760" "US3577512"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:us-department-of-navy],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3859430/en",
-  :title
-  "Radioactive iodine labeling of viruses, enzymes and flourescene isothyiocyanate",
-  :status :granted,
-  :id "US3859430",
-  :sourcing :authoritative,
-  :filing-year 1973,
-  :assignee :us-department-of-navy,
-  :grant-year 1975,
-  :cites ["DE1817308A1"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:eastman-kodak],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3859527/en",
-  :title
-  "Apparatus and method for producing images corresponding to patterns of high energy radiation",
-  :status :granted,
-  :id "US3859527",
-  :sourcing :authoritative,
-  :filing-year 1973,
-  :assignee :eastman-kodak,
-  :grant-year 1975,
-  :cites ["US3376416" "US3439114" "US3518697" "US3582651" "US3622785"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:honeywell],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3860935/en",
-  :title "Auto focus camera",
-  :status :granted,
-  :id "US3860935",
-  :sourcing :authoritative,
-  :filing-year 1973,
-  :assignee :honeywell,
-  :grant-year 1975,
-  :cites
-  ["US3336851"
-   "US3450883"
-   "US3571598"
-   "US3596101"
-   "US3610934"
-   "US3614456"
-   "US3691922"
-   "US3708619"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:perkin-elmer],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3861809/en",
-  :title "Confocal cavity optical gas sensor",
-  :status :granted,
-  :id "US3861809",
-  :sourcing :authoritative,
-  :filing-year 1973,
-  :assignee :perkin-elmer,
-  :grant-year 1975,
-  :cites
-  ["US3089382"
-   "US3250174"
-   "US3588496"
-   "US3696247"
-   "US3704951"
-   "US3728540"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:allied-chemical],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3862056/en",
-  :title
-  "Semiconductor polymer compositions comprising a grafted block copolymer of synthetic rubber and polyolefin and carbon black",
-  :status :granted,
-  :id "US3862056",
-  :sourcing :authoritative,
-  :filing-year 1972,
-  :assignee :allied-chemical,
-  :grant-year 1975,
-  :cites ["US2597741" "US3639163"],
-  :term-years 20,
-  :open-license :none}
- {:jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3863067/en",
-  :title "Orientation indicating apparatus",
-  :status :granted,
-  :id "US3863067",
-  :sourcing :authoritative,
-  :filing-year 1973,
-  :assignee :unassigned,
-  :grant-year 1975,
-  :cites ["US2252727" "US2427902" "US3293513" "US3371424"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:corning-glass-works],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3864564/en",
-  :title "Acquisition system for slide analysis",
-  :status :granted,
-  :id "US3864564",
-  :sourcing :authoritative,
-  :filing-year 1973,
-  :assignee :corning-glass-works,
-  :grant-year 1975,
-  :cites ["US2859653" "US3466514" "US3515877" "US3541338"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:wheeler-international],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3864571/en",
-  :title
-  "Method and Apparatus for Automatically, Identifying and Counting Various Cells in Body Fluids",
-  :status :granted,
-  :id "US3864571",
-  :sourcing :authoritative,
-  :filing-year 1971,
-  :assignee :wheeler-international,
-  :grant-year 1975,
-  :cites
-  ["US3413464"
-   "US3437823"
-   "US3487227"
-   "US3497690"
-   "US3515884"
-   "US3549994"
-   "US3578979"
-   "US3699336"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:albert-einstein-college-of-medicine],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3865548/en",
-  :title "Analytical apparatus and process",
-  :status :granted,
-  :id "US3865548",
-  :sourcing :authoritative,
-  :filing-year 1973,
-  :assignee :albert-einstein-college-of-medicine,
-  :grant-year 1975,
-  :cites
-  ["US2888331"
-   "US3000706"
-   "US3123444"
-   "US3227523"
-   "US3367850"
-   "US3480399"
-   "US3539300"
-   "US3573470"
-   "US3657073"
-   "US3660037"
-   "US3706381"
-   "US3748098"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:nat-res-dev],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3865550/en",
-  :title "Semi-conducting gas sensitive devices",
-  :status :granted,
-  :id "US3865550",
-  :sourcing :authoritative,
-  :filing-year 1973,
-  :assignee :nat-res-dev,
-  :grant-year 1975,
-  :cites
-  ["US3036895"
-   "US3255324"
-   "US3340014"
-   "US3479257"
-   "US3558280"
-   "US3567383"
-   "US3598762"
-   "US3631436"
-   "US3676820"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:air-products-and-chemicals],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3865615/en",
-  :title "Non-thrombogenic plastics",
-  :status :granted,
-  :id "US3865615",
-  :sourcing :authoritative,
-  :filing-year 1973,
-  :assignee :air-products-and-chemicals,
-  :grant-year 1975,
-  :cites
-  ["US2811468"
-   "US3617344"
-   "US3634123"
-   "US3639213"
-   "US3691016"
-   "US3826678"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:tanabe-seiyaku],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3865726/en",
-  :title "Blood urea removal device",
-  :status :granted,
-  :id "US3865726",
-  :sourcing :authoritative,
-  :filing-year 1973,
-  :assignee :tanabe-seiyaku,
-  :grant-year 1975,
-  :cites
-  ["US2682268"
-   "US3483867"
-   "US3522346"
-   "US3608729"
-   "US3617545"
-   "US3669878"
-   "US3669880"
-   "US3794584"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:hoechst],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3865796/en",
-  :title "Phosphorus-containing polymers",
-  :status :granted,
-  :id "US3865796",
-  :sourcing :authoritative,
-  :filing-year 1973,
-  :assignee :hoechst,
-  :grant-year 1975,
-  :cites ["US2934555"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:ei-du-pont-de-nemours-and],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3866054/en",
-  :title "Defect size discriminator circuit for web inspection system",
-  :status :granted,
-  :id "US3866054",
-  :sourcing :authoritative,
-  :filing-year 1973,
-  :assignee :ei-du-pont-de-nemours-and,
-  :grant-year 1975,
-  :cites
-  ["US2812447"
-   "US3020033"
-   "US3124289"
-   "US3158748"
-   "US3317734"
-   "US3347131"
-   "US3601615"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:warren-industries],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3866380/en",
-  :title "Connector for window spacer assembly",
-  :status :granted,
-  :id "US3866380",
-  :sourcing :authoritative,
-  :filing-year 1974,
-  :assignee :warren-industries,
-  :grant-year 1975,
-  :cites
-  ["US2989788"
-   "US3105274"
-   "US3307316"
-   "US3356403"
-   "US3368836"
-   "US3435511"
-   "US3485519"
-   "US3546842"
-   "US3553913"
-   "US3606419"
-   "US3627359"
-   "US3643989"
-   "US3782054"],
-  :term-years 20,
-  :open-license :none}
- {:jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3867363/en",
-  :title "Carcinoembryonic antigens",
-  :status :granted,
-  :id "US3867363",
-  :sourcing :authoritative,
-  :filing-year 1972,
-  :assignee :unassigned,
-  :grant-year 1975,
-  :cites ["US3663684" "US3697638"],
   :term-years 20,
   :open-license :none}]
