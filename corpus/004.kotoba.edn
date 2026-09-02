@@ -1,4 +1,303 @@
-[{:assignees [:nat-res-dev],
+[{:jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3843444/en",
+  :title "Membrane separation process",
+  :status :granted,
+  :id "US3843444",
+  :sourcing :authoritative,
+  :filing-year 1972,
+  :assignee :unassigned,
+  :grant-year 1974,
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:research],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3843446/en",
+  :title "Preparation of enzymatically active membranes",
+  :status :granted,
+  :id "US3843446",
+  :sourcing :authoritative,
+  :filing-year 1971,
+  :assignee :research,
+  :grant-year 1974,
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:syva],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3843447/en",
+  :title "Photolytically activated coupling to polypeptides",
+  :status :granted,
+  :id "US3843447",
+  :sourcing :authoritative,
+  :filing-year 1972,
+  :assignee :syva,
+  :grant-year 1974,
+  :term-years 20,
+  :open-license :none}
+ {:jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3843450/en",
+  :title
+  "Magnetically responsive,biologically active substance and associated methods",
+  :status :granted,
+  :id "US3843450",
+  :sourcing :authoritative,
+  :filing-year 1971,
+  :assignee :unassigned,
+  :grant-year 1974,
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:abbott-laboratories],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3843454/en",
+  :title "Flow through tissue culture propagator",
+  :status :granted,
+  :id "US3843454",
+  :sourcing :authoritative,
+  :filing-year 1972,
+  :assignee :abbott-laboratories,
+  :grant-year 1974,
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:syva],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3843696/en",
+  :title "Methadone analog compounds",
+  :status :granted,
+  :id "US3843696",
+  :sourcing :authoritative,
+  :filing-year 1972,
+  :assignee :syva,
+  :grant-year 1974,
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:mount-sinai-hospital-research-foundation],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3843775/en",
+  :title "Radioimmunoassay of angiotensin and renin activity",
+  :status :granted,
+  :id "US3843775",
+  :sourcing :authoritative,
+  :filing-year 1971,
+  :assignee :mount-sinai-hospital-research-foundation,
+  :grant-year 1974,
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:baxter-laboratories],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3843777/en",
+  :title "Hemolytic assay system",
+  :status :granted,
+  :id "US3843777",
+  :sourcing :authoritative,
+  :filing-year 1972,
+  :assignee :baxter-laboratories,
+  :grant-year 1974,
+  :term-years 20,
+  :open-license :none}
+ {:jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3844658/en",
+  :title "Range finder",
+  :status :granted,
+  :id "US3844658",
+  :sourcing :authoritative,
+  :filing-year 1972,
+  :assignee :unassigned,
+  :grant-year 1974,
+  :cites ["US3270647" "US3614921" "US3623811" "US3684374"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:lever-brothers],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3844896/en",
+  :title
+  "Apparatus for performing bacteriological tests automatically",
+  :status :granted,
+  :id "US3844896",
+  :sourcing :authoritative,
+  :filing-year 1973,
+  :assignee :lever-brothers,
+  :grant-year 1974,
+  :cites ["US3050915" "US3501379"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees
+  [:max-planck-gesellschaft-zur-foerderung-der-wissenschaften-ev],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3846402/en",
+  :title
+  "Thiophosphate analogues of the nucleoside diphosphates and triphosphates and a method for the preparation thereof",
+  :status :granted,
+  :id "US3846402",
+  :sourcing :authoritative,
+  :filing-year 1972,
+  :assignee
+  :max-planck-gesellschaft-zur-foerderung-der-wissenschaften-ev,
+  :grant-year 1974,
+  :cites ["US3687808" "US3709873"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:duke-university],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3847749/en",
+  :title
+  "Apparatus and method for rapid harvesting of roller culture supernatant fluid",
+  :status :granted,
+  :id "US3847749",
+  :sourcing :authoritative,
+  :filing-year 1973,
+  :assignee :duke-university,
+  :grant-year 1974,
+  :cites ["US3711379"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:basf-se],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3849137/en",
+  :title
+  "Lithographic printing plates and photoresists comprising a photosensitive polymer",
+  :status :granted,
+  :id "US3849137",
+  :sourcing :authoritative,
+  :filing-year 1972,
+  :assignee :basf-se,
+  :grant-year 1974,
+  :cites ["US3615629"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees
+  [:institut-national-de-la-sante-et-de-la-recherche-medicale-inserm],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3849546/en",
+  :title "Process for obtaining abtigenlipoid emulsions",
+  :status :granted,
+  :id "US3849546",
+  :sourcing :authoritative,
+  :filing-year 1972,
+  :assignee
+  :institut-national-de-la-sante-et-de-la-recherche-medicale-inserm,
+  :grant-year 1974,
+  :term-years 20,
+  :open-license :none}
+ {:jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3849830/en",
+  :title "Test tube washer",
+  :status :granted,
+  :id "US3849830",
+  :sourcing :authoritative,
+  :filing-year 1973,
+  :assignee :unassigned,
+  :grant-year 1974,
+  :cites
+  ["DE1942201A1"
+   "DE595019C"
+   "US1854471"
+   "US2302078"
+   "US2309290"
+   "US2779358"
+   "US3751755"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:yeda-research-and-development],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3850749/en",
+  :title "Preparation of oligoribonucleotides",
+  :status :granted,
+  :id "US3850749",
+  :sourcing :authoritative,
+  :filing-year 1972,
+  :assignee :yeda-research-and-development,
+  :grant-year 1974,
+  :cites ["US3594278"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:akzona],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3850752/en",
+  :title
+  "Process for the demonstration and determination of low molecular compounds and of proteins capable of binding these compounds specifically",
+  :status :granted,
+  :id "US3850752",
+  :sourcing :authoritative,
+  :filing-year 1971,
+  :assignee :akzona,
+  :grant-year 1974,
+  :cites ["US3615222" "US3654090"],
+  :term-years 20,
+  :open-license :none}
+ {:jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3850798/en",
+  :title "Method for separating a polypeptide from microorganisms",
+  :status :granted,
+  :id "US3850798",
+  :sourcing :authoritative,
+  :filing-year 1973,
+  :assignee :unassigned,
+  :grant-year 1974,
+  :cites ["US3476737" "US3502545" "US3686118" "US3706661"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:syva],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3852157/en",
+  :title "Compounds for enzyme amplification assay",
+  :status :granted,
+  :id "US3852157",
+  :sourcing :authoritative,
+  :filing-year 1972,
+  :assignee :syva,
+  :grant-year 1974,
+  :cites ["US3639558" "US3654090"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:f-hoffmann-la-roche],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3852415/en",
+  :title
+  "Compositions for use in radioimmunoassay as a substitute for blood plasma extract in determination of carcinoembryonic antigen",
+  :status :granted,
+  :id "US3852415",
+  :sourcing :authoritative,
+  :filing-year 1972,
+  :assignee :f-hoffmann-la-roche,
+  :grant-year 1974,
+  :cites ["US3697638" "US3720760"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:general-electric],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3853467/en",
+  :title
+  "Method and apparatus for immunological detection of biological particles",
+  :status :granted,
+  :id "US3853467",
+  :sourcing :authoritative,
+  :filing-year 1973,
+  :assignee :general-electric,
+  :grant-year 1974,
+  :cites ["US3250596" "US3492396" "US3646346" "US3770380"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:nat-res-dev],
   :jurisdiction :us,
   :field "UNKNOWN",
   :source "https://patents.google.com/patent/US3853712/en",
@@ -9089,332 +9388,5 @@
   :assignee :fuji-photo-film,
   :grant-year 1981,
   :cites ["US3859527" "US3975637"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:plessey-handel-und-investments],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US4304461/en",
-  :title "Optical fibre connectors",
-  :status :granted,
-  :id "US4304461",
-  :sourcing :authoritative,
-  :filing-year 1979,
-  :assignee :plessey-handel-und-investments,
-  :grant-year 1981,
-  :cites
-  ["DE2703887A1"
-   "FR2334969A1"
-   "NL7605819A"
-   "US3724383"
-   "US3950075"
-   "US4056307"
-   "US4109994"
-   "US4119362"
-   "US4135781"],
-  :term-years 20,
-  :open-license :none}
- {:jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US4305926/en",
-  :title "Immobilization of Streptokinase",
-  :status :granted,
-  :id "US4305926",
-  :sourcing :authoritative,
-  :filing-year 1979,
-  :assignee :unassigned,
-  :grant-year 1981,
-  :cites
-  ["US3522346"
-   "US3639213"
-   "US3715277"
-   "US3730841"
-   "US3809605"
-   "US3826678"
-   "US3865726"
-   "US3875008"
-   "US3980772"
-   "US3985616"
-   "US4004979"
-   "US4004980"
-   "US4029767"
-   "US4061141"
-   "US4169014"
-   "US4178368"],
-  :term-years 20,
-  :open-license :none}
- {:assignees
-  [:max-planck-gesellschaft-zur-foerderung-der-wissenschaften-ev],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US4306877/en",
-  :title "Optical measurement of concentration",
-  :status :granted,
-  :id "US4306877",
-  :sourcing :authoritative,
-  :filing-year 1979,
-  :assignee
-  :max-planck-gesellschaft-zur-foerderung-der-wissenschaften-ev,
-  :grant-year 1981,
-  :cites ["US3907503" "US3918910" "US3932132" "US4003707"],
-  :term-years 20,
-  :open-license :none}
- {:jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US4307189/en",
-  :title
-  "Method for the quantitative determination of terminal deoxynucleotidyl transferase in biological samples",
-  :status :granted,
-  :id "US4307189",
-  :sourcing :authoritative,
-  :filing-year 1980,
-  :assignee :unassigned,
-  :grant-year 1981,
-  :term-years 20,
-  :open-license :none}
- {:assignees [:genentech],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US4310662/en",
-  :title "Nucleosidic phosphorylating agent and methods",
-  :status :granted,
-  :id "US4310662",
-  :sourcing :authoritative,
-  :filing-year 1979,
-  :assignee :genentech,
-  :grant-year 1982,
-  :term-years 20,
-  :open-license :none}
- {:assignees [:american-hospital-supply],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US4311573/en",
-  :title
-  "Process for graft copolymerization of a pre-formed substrate",
-  :status :granted,
-  :id "US4311573",
-  :sourcing :authoritative,
-  :filing-year 1980,
-  :assignee :american-hospital-supply,
-  :grant-year 1982,
-  :cites
-  ["US3008920"
-   "US3070573"
-   "US3107206"
-   "US3453194"
-   "US3700573"
-   "US3959102"
-   "US4099859"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:damon],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US4311690/en",
-  :title "Test set and method for the determination of free hormones",
-  :status :granted,
-  :id "US4311690",
-  :sourcing :authoritative,
-  :filing-year 1979,
-  :assignee :damon,
-  :grant-year 1982,
-  :cites
-  ["US3716632"
-   "US3730684"
-   "US3816076"
-   "US3850577"
-   "US3911096"
-   "US3928553"
-   "US3929981"
-   "US3941564"
-   "US3947564"
-   "US4066410"],
-  :term-years 20,
-  :open-license :none}
- {:jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US4311791/en",
-  :title
-  "Automated kinetic determination of lactate dehydrogenase isoenzymes in serum",
-  :status :granted,
-  :id "US4311791",
-  :sourcing :authoritative,
-  :filing-year 1980,
-  :assignee :unassigned,
-  :grant-year 1982,
-  :cites ["US3862010" "US4003795"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:akzona],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US4313734/en",
-  :title "Metal sol particle immunoassay",
-  :status :granted,
-  :id "US4313734",
-  :sourcing :authoritative,
-  :filing-year 1979,
-  :assignee :akzona,
-  :grant-year 1982,
-  :cites
-  ["US3551555"
-   "US3933997"
-   "US3970518"
-   "US4018886"
-   "US4020151"
-   "US4067959"
-   "US4108972"
-   "US4177253"
-   "US4205952"
-   "US4219335"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:minnesota-mining-and-manufacturing],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US4314821/en",
-  :title "Sandwich immunoassay using piezoelectric oscillator",
-  :status :granted,
-  :id "US4314821",
-  :sourcing :authoritative,
-  :filing-year 1980,
-  :assignee :minnesota-mining-and-manufacturing,
-  :grant-year 1982,
-  :cites ["US4236893"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:trimetal-paint :wyns-bristol-peintures],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US4315959/en",
-  :title
-  "Process for coating mineral, organic or metallic microscopic or macroscopic substrates",
-  :status :granted,
-  :id "US4315959",
-  :sourcing :authoritative,
-  :filing-year 1980,
-  :assignee :trimetal-paint,
-  :grant-year 1982,
-  :cites
-  ["US2943955"
-   "US3560254"
-   "US3878183"
-   "US3905936"
-   "US3993835"
-   "US4241112"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:syva],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US4318846/en",
-  :title
-  "Novel ether substituted fluorescein polyamino acid compounds as fluorescers and quenchers",
-  :status :granted,
-  :id "US4318846",
-  :sourcing :authoritative,
-  :filing-year 1979,
-  :assignee :syva,
-  :grant-year 1982,
-  :cites ["US4174384" "US4220450" "US4220722"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:merck-and],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US4319271/en",
-  :title "Automated plate reader",
-  :status :granted,
-  :id "US4319271",
-  :sourcing :authoritative,
-  :filing-year 1978,
-  :assignee :merck-and,
-  :grant-year 1982,
-  :cites ["US3553358" "US3773426" "US3811036" "US4115010"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:research],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US4321365/en",
-  :title
-  "Oligonucleotides useful as adaptors in DNA cloning, adapted DNA molecules, and methods of preparing adaptors and adapted molecules",
-  :status :granted,
-  :id "US4321365",
-  :sourcing :authoritative,
-  :filing-year 1977,
-  :assignee :research,
-  :grant-year 1982,
-  :cites ["US4237224"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:minnesota-mining-and-manufacturing],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US4322495/en",
-  :title "Immunoassay",
-  :status :granted,
-  :id "US4322495",
-  :sourcing :authoritative,
-  :filing-year 1980,
-  :assignee :minnesota-mining-and-manufacturing,
-  :grant-year 1982,
-  :cites ["US3654090" "US3839153"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:kendrew-biosystems-a-of],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US4327073/en",
-  :title
-  "Automated method for quantitative analysis of biological fluids",
-  :status :granted,
-  :id "US4327073",
-  :sourcing :authoritative,
-  :filing-year 1980,
-  :assignee :kendrew-biosystems-a-of,
-  :grant-year 1982,
-  :cites
-  ["US3260413"
-   "US3526480"
-   "US3645852"
-   "US3675488"
-   "US3952091"
-   "US4071315"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:evreka],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US4330299/en",
-  :title
-  "Article and method for measuring glucose level in body fluids",
-  :status :granted,
-  :id "US4330299",
-  :sourcing :authoritative,
-  :filing-year 1981,
-  :assignee :evreka,
-  :grant-year 1982,
-  :cites
-  ["US3061523"
-   "US3778384"
-   "US3791988"
-   "US3897213"
-   "US4287028"
-   "US4289747"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:abbott-laboratories],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US4331589/en",
-  :title
-  "Deoxyribonucleic acid synthesis using binding protein extracted from chick embryo fibroblasts",
-  :status :granted,
-  :id "US4331589",
-  :sourcing :authoritative,
-  :filing-year 1981,
-  :assignee :abbott-laboratories,
-  :grant-year 1982,
   :term-years 20,
   :open-license :none}]

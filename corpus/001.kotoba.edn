@@ -1,4 +1,53 @@
-[{:assignees [:westinghouse-electric],
+[{:jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US1971443/en",
+  :title
+  "Electrooptical method and means for measuring concentrations, colors, dispersions, etc. of fluids and similar substances",
+  :status :granted,
+  :id "US1971443",
+  :sourcing :authoritative,
+  :filing-year 1930,
+  :assignee :unassigned,
+  :grant-year 1934,
+  :term-years 20,
+  :open-license :none}
+ {:jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US1971869/en",
+  :title "Cigarette making machine",
+  :status :granted,
+  :id "US1971869",
+  :sourcing :authoritative,
+  :filing-year 1933,
+  :assignee :unassigned,
+  :grant-year 1934,
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:swann-res],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US1972448/en",
+  :title "Adhesive composition",
+  :status :granted,
+  :id "US1972448",
+  :sourcing :authoritative,
+  :filing-year 1932,
+  :assignee :swann-res,
+  :grant-year 1934,
+  :term-years 20,
+  :open-license :none}
+ {:jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US1974522/en",
+  :title "Counting op microscopic bodies-",
+  :status :granted,
+  :id "US1974522",
+  :sourcing :authoritative,
+  :assignee :unassigned,
+  :grant-year 1934,
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:westinghouse-electric],
   :jurisdiction :us,
   :field "UNKNOWN",
   :source "https://patents.google.com/patent/US1977359/en",
@@ -1265,6 +1314,19 @@
   :grant-year 1939,
   :term-years 20,
   :open-license :none}
+ {:assignees [:ig-farbenindustrie],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2171324/en",
+  :title "Manufacture of artificial silk",
+  :status :granted,
+  :id "US2171324",
+  :sourcing :authoritative,
+  :filing-year 1936,
+  :assignee :ig-farbenindustrie,
+  :grant-year 1939,
+  :term-years 20,
+  :open-license :none}
  {:assignees [:hygrade-sylvania],
   :jurisdiction :us,
   :field "UNKNOWN",
@@ -1390,6 +1452,19 @@
   :sourcing :authoritative,
   :filing-year 1938,
   :assignee :ei-du-pont-de-nemours-and,
+  :grant-year 1939,
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:ig-farbenindustrie],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2182306/en",
+  :title "Polymerization of ethylene imines",
+  :status :granted,
+  :id "US2182306",
+  :sourcing :authoritative,
+  :filing-year 1936,
+  :assignee :ig-farbenindustrie,
   :grant-year 1939,
   :term-years 20,
   :open-license :none}
@@ -1875,6 +1950,19 @@
   :sourcing :authoritative,
   :filing-year 1938,
   :assignee :rca,
+  :grant-year 1941,
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:imperial-chemical-industries],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2237344/en",
+  :title "Semistiff collar",
+  :status :granted,
+  :id "US2237344",
+  :sourcing :authoritative,
+  :filing-year 1938,
+  :assignee :imperial-chemical-industries,
   :grant-year 1941,
   :term-years 20,
   :open-license :none}
@@ -3017,6 +3105,19 @@
   :grant-year 1943,
   :term-years 20,
   :open-license :none}
+ {:assignees [:champion-paper-and-fibre],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2331922/en",
+  :title "Process of coating paper",
+  :status :granted,
+  :id "US2331922",
+  :sourcing :authoritative,
+  :filing-year 1940,
+  :assignee :champion-paper-and-fibre,
+  :grant-year 1943,
+  :term-years 20,
+  :open-license :none}
  {:assignees [:eastman-kodak],
   :jurisdiction :us,
   :field "UNKNOWN",
@@ -3260,6 +3361,18 @@
   :sourcing :authoritative,
   :filing-year 1942,
   :assignee :internat-plastic,
+  :grant-year 1944,
+  :term-years 20,
+  :open-license :none}
+ {:jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2348039/en",
+  :title "Composition and process for treating fibrous materials",
+  :status :granted,
+  :id "US2348039",
+  :sourcing :authoritative,
+  :filing-year 1940,
+  :assignee :unassigned,
   :grant-year 1944,
   :term-years 20,
   :open-license :none}
@@ -3972,6 +4085,19 @@
   :grant-year 1946,
   :term-years 20,
   :open-license :none}
+ {:assignees [:ei-du-pont-de-nemours-and],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2406905/en",
+  :title "Method for producing cellulosic structures",
+  :status :granted,
+  :id "US2406905",
+  :sourcing :authoritative,
+  :filing-year 1941,
+  :assignee :ei-du-pont-de-nemours-and,
+  :grant-year 1946,
+  :term-years 20,
+  :open-license :none}
  {:assignees [:bird-and-son],
   :jurisdiction :us,
   :field "UNKNOWN",
@@ -4007,6 +4133,20 @@
   :sourcing :authoritative,
   :filing-year 1944,
   :assignee :bell-telephone-laboratories,
+  :grant-year 1946,
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:resistoflex],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2408682/en",
+  :title
+  "Adhering of polyvinyl alcohol compositions to other materials",
+  :status :granted,
+  :id "US2408682",
+  :sourcing :authoritative,
+  :filing-year 1944,
+  :assignee :resistoflex,
   :grant-year 1946,
   :term-years 20,
   :open-license :none}
@@ -5755,6 +5895,20 @@
    "US328585"],
   :term-years 20,
   :open-license :none}
+ {:assignees [:joseph-bancroft-and-sons],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2524915/en",
+  :title "Production of permanent lustrous finishes on fabrics",
+  :status :granted,
+  :id "US2524915",
+  :sourcing :authoritative,
+  :filing-year 1947,
+  :assignee :joseph-bancroft-and-sons,
+  :grant-year 1950,
+  :cites ["US1559289" "US1998539" "US2103293" "US2108806" "US2148316"],
+  :term-years 20,
+  :open-license :none}
  {:assignees [:motor-products],
   :jurisdiction :us,
   :field "UNKNOWN",
@@ -5851,6 +6005,27 @@
   :filing-year 1949,
   :assignee :general-aniline-and-film,
   :grant-year 1950,
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:united-states-rubber],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2533976/en",
+  :title "Leather-like material",
+  :status :granted,
+  :id "US2533976",
+  :sourcing :authoritative,
+  :filing-year 1945,
+  :assignee :united-states-rubber,
+  :grant-year 1950,
+  :cites
+  ["US2068533"
+   "US2213899"
+   "US2220549"
+   "US2235682"
+   "US2304123"
+   "US2323563"
+   "US2444094"],
   :term-years 20,
   :open-license :none}
  {:jurisdiction :us,
@@ -6279,6 +6454,21 @@
   :cites ["US2340111" "US2385931" "US2403112" "US2455652" "US2482825"],
   :term-years 20,
   :open-license :none}
+ {:assignees [:ei-du-pont-de-nemours-and],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2570478/en",
+  :title
+  "Vinylidene chloride interpolymer as a coating for regenerated cellulose film",
+  :status :granted,
+  :id "US2570478",
+  :sourcing :authoritative,
+  :filing-year 1948,
+  :assignee :ei-du-pont-de-nemours-and,
+  :grant-year 1951,
+  :cites ["US2047398" "US2279881" "US2298039" "US2462185"],
+  :term-years 20,
+  :open-license :none}
  {:jurisdiction :us,
   :field "UNKNOWN",
   :source "https://patents.google.com/patent/US2571171/en",
@@ -6474,6 +6664,31 @@
    "US2425231"],
   :term-years 20,
   :open-license :none}
+ {:assignees [:monsanto-chemicals],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2583274/en",
+  :title "Process for producing mineralcoated paper",
+  :status :granted,
+  :id "US2583274",
+  :sourcing :authoritative,
+  :filing-year 1947,
+  :assignee :monsanto-chemicals,
+  :grant-year 1952,
+  :cites
+  ["GB371396A"
+   "GB387736A"
+   "GB436084A"
+   "GB478309A"
+   "US1976679"
+   "US1982018"
+   "US2125527"
+   "US2140048"
+   "US2287348"
+   "US2370057"
+   "US2414313"],
+  :term-years 20,
+  :open-license :none}
  {:jurisdiction :us,
   :field "UNKNOWN",
   :source "https://patents.google.com/patent/US2584052/en",
@@ -6635,6 +6850,42 @@
    "US2443450"
    "US2504857"
    "US2526637"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:american-viscose],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2593540/en",
+  :title "Semipermeable membrane",
+  :status :granted,
+  :id "US2593540",
+  :sourcing :authoritative,
+  :filing-year 1945,
+  :assignee :american-viscose,
+  :grant-year 1952,
+  :cites
+  ["US1236460"
+   "US1964039"
+   "US2017797"
+   "US2022490"
+   "US2028776"
+   "US2107805"
+   "US2111808"
+   "US2135349"
+   "US2140341"
+   "US2197805"
+   "US2232153"
+   "US2261240"
+   "US2276210"
+   "US2316274"
+   "US2339885"
+   "US2355822"
+   "US2357767"
+   "US2361000"
+   "US2386381"
+   "US2386826"
+   "US2411239"
+   "US2467436"],
   :term-years 20,
   :open-license :none}
  {:jurisdiction :us,
@@ -6945,6 +7196,20 @@
   :cites ["US2377779" "US2458355" "US2475424" "US2478416"],
   :term-years 20,
   :open-license :none}
+ {:assignees [:gardner-board-and-carton],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2611717/en",
+  :title "Method of calendering mineral coated paper",
+  :status :granted,
+  :id "US2611717",
+  :sourcing :authoritative,
+  :filing-year 1949,
+  :assignee :gardner-board-and-carton,
+  :grant-year 1952,
+  :cites ["US2069786" "US2304818"],
+  :term-years 20,
+  :open-license :none}
  {:assignees [:jouan],
   :jurisdiction :us,
   :field "UNKNOWN",
@@ -7038,6 +7303,26 @@
    "US2207448"
    "US2229635"
    "US2248908"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:british-cellophane],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2618575/en",
+  :title "Production of moistureproof sheet wrapping material",
+  :status :granted,
+  :id "US2618575",
+  :sourcing :authoritative,
+  :filing-year 1949,
+  :assignee :british-cellophane,
+  :grant-year 1952,
+  :cites
+  ["US1405198"
+   "US2404779"
+   "US2404817"
+   "US2425231"
+   "US2457083"
+   "US4353"],
   :term-years 20,
   :open-license :none}
  {:assignees [:british-artificial-resin-compa],
@@ -7868,6 +8153,28 @@
    "US2354649"
    "US2412295"
    "US589386"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:hercules-powder],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2661308/en",
+  :title "Process of coating paper and product resulting therefrom",
+  :status :granted,
+  :id "US2661308",
+  :sourcing :authoritative,
+  :filing-year 1948,
+  :assignee :hercules-powder,
+  :grant-year 1953,
+  :cites
+  ["GB578767A"
+   "US1976679"
+   "US2067706"
+   "US2251296"
+   "US2287161"
+   "US2343095"
+   "US2419880"
+   "US2476527"],
   :term-years 20,
   :open-license :none}
  {:assignees [:hercules-powder],
@@ -8952,6 +9259,36 @@
   :cites ["DE281008C" "US2482069" "US2522854"],
   :term-years 20,
   :open-license :none}
+ {:assignees [:american-viscose],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2721150/en",
+  :title
+  "Coated cellulosic pellicles and methods of producing the same",
+  :status :granted,
+  :id "US2721150",
+  :sourcing :authoritative,
+  :filing-year 1952,
+  :assignee :american-viscose,
+  :grant-year 1955,
+  :cites ["US2334236" "US2417014" "US2570478" "US2618575"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:american-viscose],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2721151/en",
+  :title
+  "Coated cellulosic pellicles and methods of producing the same",
+  :status :granted,
+  :id "US2721151",
+  :sourcing :authoritative,
+  :filing-year 1952,
+  :assignee :american-viscose,
+  :grant-year 1955,
+  :cites ["GB466898A" "US2334236" "US2575443"],
+  :term-years 20,
+  :open-license :none}
  {:jurisdiction :us,
   :field "UNKNOWN",
   :source "https://patents.google.com/patent/US2722658/en",
@@ -9412,340 +9749,5 @@
   :assignee :fmc,
   :grant-year 1956,
   :cites ["CH266295A" "GB655875A" "US2520393"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:polaroid],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US2759825/en",
-  :title "Photographic image transfer process",
-  :status :granted,
-  :id "US2759825",
-  :sourcing :authoritative,
-  :filing-year 1951,
-  :assignee :polaroid,
-  :grant-year 1956,
-  :cites
-  ["BE441852A"
-   "BE444785A"
-   "FR53311E"
-   "FR873507A"
-   "FR879995A"
-   "GB511800A"
-   "US2347640"
-   "US2352014"
-   "US2367420"
-   "US2386167"
-   "US2543181"
-   "US2626858"
-   "US2698537"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:exxon-research-and-engineering],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US2760578/en",
-  :title
-  "Method for completion in a plurality of hydrocarbon productive strata",
-  :status :granted,
-  :id "US2760578",
-  :sourcing :authoritative,
-  :filing-year 1955,
-  :assignee :exxon-research-and-engineering,
-  :grant-year 1956,
-  :cites ["US2403987" "US2537066" "US2607425"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:united-states-rubber],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US2760900/en",
-  :title "Stabilized chlorinated pesticidal compositions",
-  :status :granted,
-  :id "US2760900",
-  :sourcing :authoritative,
-  :filing-year 1952,
-  :assignee :united-states-rubber,
-  :grant-year 1956,
-  :cites ["AU592027A" "GB613957A" "US2140794" "US2219364"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:ei-du-pont-de-nemours-and],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US2761067/en",
-  :title "Multi-component photometric analysis",
-  :status :granted,
-  :id "US2761067",
-  :sourcing :authoritative,
-  :filing-year 1953,
-  :assignee :ei-du-pont-de-nemours-and,
-  :grant-year 1956,
-  :cites ["US2395489" "US2613572"],
-  :term-years 20,
-  :open-license :none}
- {:jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US2761854/en",
-  :title "Manufacture of conductive plastics",
-  :status :granted,
-  :id "US2761854",
-  :sourcing :authoritative,
-  :filing-year 1952,
-  :assignee :unassigned,
-  :grant-year 1956,
-  :cites
-  ["GB519298A"
-   "US1922221"
-   "US2044608"
-   "US2280135"
-   "US2403657"
-   "US2416480"
-   "US2421154"
-   "US2434190"
-   "US2683669"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:ei-du-pont-de-nemours-and],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US2762720/en",
-  :title
-  "Heat-shrinkable packaging material and process for preparing same",
-  :status :granted,
-  :id "US2762720",
-  :sourcing :authoritative,
-  :filing-year 1955,
-  :assignee :ei-du-pont-de-nemours-and,
-  :grant-year 1956,
-  :term-years 20,
-  :open-license :none}
- {:jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US2763417/en",
-  :title "Filling machine",
-  :status :granted,
-  :id "US2763417",
-  :sourcing :authoritative,
-  :filing-year 1952,
-  :assignee :unassigned,
-  :grant-year 1956,
-  :cites ["US2049538" "US2433478" "US2452666" "US2542133" "US961741"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:general-tire-and-rubber],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US2766164/en",
-  :title "Adhesion of synthetic polymers to polymerizable materials",
-  :status :granted,
-  :id "US2766164",
-  :sourcing :authoritative,
-  :filing-year 1954,
-  :assignee :general-tire-and-rubber,
-  :grant-year 1956,
-  :cites ["US2415839" "US2417792" "US2561215"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:molins-machine],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US2766758/en",
-  :title "Apparatus for making a continuous tobacco filler",
-  :status :granted,
-  :id "US2766758",
-  :sourcing :authoritative,
-  :filing-year 1955,
-  :assignee :molins-machine,
-  :grant-year 1956,
-  :term-years 20,
-  :open-license :none}
- {:jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US2766807/en",
-  :title
-  "Apparatus and method for making a strip product capable of being wound up and provided with onefaced layer of cured thermosetting resin and product",
-  :status :granted,
-  :id "US2766807",
-  :sourcing :authoritative,
-  :filing-year 1953,
-  :assignee :unassigned,
-  :grant-year 1956,
-  :cites
-  ["GB391941A"
-   "US1887691"
-   "US2227494"
-   "US2306295"
-   "US2334485"
-   "US2359314"
-   "US2434795"
-   "US2448357"
-   "US2496122"
-   "US2496911"
-   "US2528152"
-   "US2528168"
-   "US2554150"
-   "US2568463"
-   "US2579949"
-   "US2584177"
-   "US2587171"
-   "US2640799"
-   "US2665221"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:factory-mutual-research],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US2768069/en",
-  :title "Combustible gas detector",
-  :status :granted,
-  :id "US2768069",
-  :sourcing :authoritative,
-  :filing-year 1952,
-  :assignee :factory-mutual-research,
-  :grant-year 1956,
-  :cites
-  ["DE290581C"
-   "DE418399C"
-   "DE539562C"
-   "GB190021714A"
-   "GB238531A"
-   "GB466391A"
-   "US1143473"
-   "US1506003"
-   "US1559461"
-   "US1779569"
-   "US1902427"
-   "US1960541"
-   "US2099548"
-   "US2285633"
-   "US2329840"
-   "US2369811"
-   "US2535950"
-   "US2541857"
-   "US2581812"
-   "US2583930"
-   "US2643316"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:milprint],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US2768906/en",
-  :title
-  "Art of producing wax-coated wrappers having a silicone anti-blocking layer",
-  :status :granted,
-  :id "US2768906",
-  :sourcing :authoritative,
-  :filing-year 1953,
-  :assignee :milprint,
-  :grant-year 1956,
-  :cites
-  ["US1759124"
-   "US1972448"
-   "US2159152"
-   "US2227787"
-   "US2282375"
-   "US2322048"
-   "US2431873"
-   "US2449572"
-   "US2588367"
-   "US2654681"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:precision-scientific],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US2768948/en",
-  :title "Method and apparatus for ionography",
-  :status :granted,
-  :id "US2768948",
-  :sourcing :authoritative,
-  :filing-year 1952,
-  :assignee :precision-scientific,
-  :grant-year 1956,
-  :cites ["US2118957" "US2555487"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:exxon-research-and-engineering],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US2769498/en",
-  :title "Apparatus for squeeze cementing well perforations",
-  :status :granted,
-  :id "US2769498",
-  :sourcing :authoritative,
-  :filing-year 1954,
-  :assignee :exxon-research-and-engineering,
-  :grant-year 1956,
-  :cites ["US2290141" "US2347729" "US2381929" "US2696259"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:nordisk-insulinlaboratorium],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US2770572/en",
-  :title "Blood grouping card",
-  :status :granted,
-  :id "US2770572",
-  :sourcing :authoritative,
-  :filing-year 1952,
-  :assignee :nordisk-insulinlaboratorium,
-  :grant-year 1956,
-  :cites ["US1839573" "US2194131" "US2334636" "US2357253" "US2561339"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:aloe-as],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US2770601/en",
-  :title "Method of preparing bilirubin standardized reagents",
-  :status :granted,
-  :id "US2770601",
-  :sourcing :authoritative,
-  :filing-year 1953,
-  :assignee :aloe-as,
-  :grant-year 1956,
-  :cites ["US2085391"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:ei-du-pont-de-nemours-and],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US2770608/en",
-  :title "Polyethylene composition",
-  :status :granted,
-  :id "US2770608",
-  :sourcing :authoritative,
-  :filing-year 1954,
-  :assignee :ei-du-pont-de-nemours-and,
-  :grant-year 1956,
-  :term-years 20,
-  :open-license :none}
- {:assignees [:ei-du-pont-de-nemours-and],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US2770609/en",
-  :title "Polyethylene-oleamide composition",
-  :status :granted,
-  :id "US2770609",
-  :sourcing :authoritative,
-  :filing-year 1953,
-  :assignee :ei-du-pont-de-nemours-and,
-  :grant-year 1956,
-  :cites ["US2516591"],
-  :term-years 20,
-  :open-license :none}
- {:jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US2771398/en",
-  :title "Method and apparatus for counting microorganisms",
-  :status :granted,
-  :id "US2771398",
-  :sourcing :authoritative,
-  :filing-year 1953,
-  :assignee :unassigned,
-  :grant-year 1956,
-  :cites ["US2306222" "US2672431" "US2677646" "US946695"],
   :term-years 20,
   :open-license :none}]
