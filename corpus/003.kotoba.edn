@@ -1,4 +1,230 @@
-[{:jurisdiction :us,
+[{:assignees [:dow-corning],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3262830/en",
+  :title
+  "Organosilicon molding compositions containing orthotitanate catalysts",
+  :status :granted,
+  :id "US3262830",
+  :sourcing :authoritative,
+  :filing-year 1961,
+  :assignee :dow-corning,
+  :grant-year 1966,
+  :cites ["US2486162" "US2718483" "US2970126" "US2993809"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:ei-du-pont-de-nemours-and],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3264272/en",
+  :title "Ionic hydrocarbon polymers",
+  :status :granted,
+  :id "US3264272",
+  :sourcing :authoritative,
+  :filing-year 1963,
+  :assignee :ei-du-pont-de-nemours-and,
+  :grant-year 1966,
+  :cites ["US2599123" "US2646425" "US2798053" "US2854357" "US3132120"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:american-instr],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3264474/en",
+  :title "Phosphorimeter attachment for fluorometer",
+  :status :granted,
+  :id "US3264474",
+  :sourcing :authoritative,
+  :filing-year 1963,
+  :assignee :american-instr,
+  :grant-year 1966,
+  :cites ["US2948127" "US3049620" "US3092722" "US3092974"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:renker-belipa-fa],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3265497/en",
+  :title "Electrophotographic material",
+  :status :granted,
+  :id "US3265497",
+  :sourcing :authoritative,
+  :filing-year 1962,
+  :assignee :renker-belipa-fa,
+  :grant-year 1966,
+  :cites
+  ["BE562336A"
+   "DE1060259B"
+   "DE1060713B"
+   "DE1105713B"
+   "US2710274"
+   "US3025160"
+   "US3155503"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:shell-oil],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3265765/en",
+  :title
+  "Block polymers of monovinyl aromatic hydrocarbons and conjugated dienes",
+  :status :granted,
+  :id "US3265765",
+  :sourcing :authoritative,
+  :filing-year 1962,
+  :assignee :shell-oil,
+  :grant-year 1966,
+  :cites
+  ["FR1270016A"
+   "GB838996A"
+   "GB856581A"
+   "US2666042"
+   "US3041310"
+   "US3078254"
+   "US3149182"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:technicon-instruments],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3266298/en",
+  :title
+  "Means and method for the identification of samples for blood typing",
+  :status :granted,
+  :id "US3266298",
+  :sourcing :authoritative,
+  :filing-year 1963,
+  :assignee :technicon-instruments,
+  :grant-year 1966,
+  :cites
+  ["US1384457"
+   "US2725782"
+   "US2780225"
+   "US2878574"
+   "US2896619"
+   "US2950716"
+   "US3080746"
+   "US3127892"
+   "US3166929"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:technicon-instruments],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3266322/en",
+  :title
+  "Automatic liquid sample supply and wash apparatus for automatic analysis system",
+  :status :granted,
+  :id "US3266322",
+  :sourcing :authoritative,
+  :filing-year 1964,
+  :assignee :technicon-instruments,
+  :grant-year 1966,
+  :cites ["US3134263"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:ionics],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3268441/en",
+  :title "Water recovery by electrodialysis",
+  :status :granted,
+  :id "US3268441",
+  :sourcing :authoritative,
+  :filing-year 1963,
+  :assignee :ionics,
+  :grant-year 1966,
+  :cites ["US3127243"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:general-electric],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3269419/en",
+  :title "Fluid amplifiers",
+  :status :granted,
+  :id "US3269419",
+  :sourcing :authoritative,
+  :filing-year 1963,
+  :assignee :general-electric,
+  :grant-year 1966,
+  :cites
+  ["DE1083607B"
+   "US1477645"
+   "US1549196"
+   "US1628723"
+   "US2132961"
+   "US3001539"
+   "US3122062"
+   "US3122165"
+   "US3123900"
+   "US3144037"
+   "US3144208"
+   "US3159208"
+   "US3168897"
+   "US3182674"
+   "US3182686"
+   "US3187762"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:rohm-and-haas],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3269911/en",
+  :title
+  "Restoration of blood to biochemical normalcy by treatment with ion exchange resins",
+  :status :granted,
+  :id "US3269911",
+  :sourcing :authoritative,
+  :filing-year 1962,
+  :assignee :rohm-and-haas,
+  :grant-year 1966,
+  :cites ["GB636172A" "US2673827" "US2684321" "US2833691" "US2879166"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:takeda-chemical-industries],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3269917/en",
+  :title "Process for producing purine-nucleosides",
+  :status :granted,
+  :id "US3269917",
+  :sourcing :authoritative,
+  :filing-year 1964,
+  :assignee :takeda-chemical-industries,
+  :grant-year 1966,
+  :cites ["CA672274A" "US3135666"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:agfa],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3274914/en",
+  :title "Camera focusing devices",
+  :status :granted,
+  :id "US3274914",
+  :sourcing :authoritative,
+  :filing-year 1964,
+  :assignee :agfa,
+  :grant-year 1966,
+  :cites ["US2968994" "US3143588"],
+  :term-years 20,
+  :open-license :none}
+ {:jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3275534/en",
+  :title
+  "Bioelectric method for the detection of anticholinester-ases",
+  :status :granted,
+  :id "US3275534",
+  :sourcing :authoritative,
+  :filing-year 1963,
+  :assignee :unassigned,
+  :grant-year 1966,
+  :cites ["US2757132" "US2926072" "US3049411"],
+  :term-years 20,
+  :open-license :none}
+ {:jurisdiction :us,
   :field "UNKNOWN",
   :source "https://patents.google.com/patent/US3275834/en",
   :title
@@ -8899,211 +9125,5 @@
    "US3251933"
    "US3443110"
    "US3670097"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:paint-res-ass],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3806256/en",
-  :title "Colorimeters",
-  :status :granted,
-  :id "US3806256",
-  :sourcing :authoritative,
-  :filing-year 1972,
-  :assignee :paint-res-ass,
-  :grant-year 1974,
-  :cites ["US3383979" "US3573476"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:avco],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3806449/en",
-  :title "Separation of liquid-liquid multiphase mixtures",
-  :status :granted,
-  :id "US3806449",
-  :sourcing :authoritative,
-  :filing-year 1973,
-  :assignee :avco,
-  :grant-year 1974,
-  :term-years 20,
-  :open-license :none}
- {:assignees [:research-institute-for-production-development],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3808113/en",
-  :title
-  "Method for manufacturing medical articles composed of various synthetic high polymers coated with collagen and exposed to radiation",
-  :status :granted,
-  :id "US3808113",
-  :sourcing :authoritative,
-  :filing-year 1971,
-  :assignee :research-institute-for-production-development,
-  :grant-year 1974,
-  :term-years 20,
-  :open-license :none}
- {:assignees [:american-cyanamid],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3809605/en",
-  :title
-  "Fibrous mats and sheets containing immobilized enzymes entrapped in their interstices",
-  :status :granted,
-  :id "US3809605",
-  :sourcing :authoritative,
-  :filing-year 1972,
-  :assignee :american-cyanamid,
-  :grant-year 1974,
-  :term-years 20,
-  :open-license :none}
- {:assignees [:research],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3809613/en",
-  :title "Biocatalytic module",
-  :status :granted,
-  :id "US3809613",
-  :sourcing :authoritative,
-  :filing-year 1971,
-  :assignee :research,
-  :grant-year 1974,
-  :term-years 20,
-  :open-license :none}
- {:assignees [:f-hoffmann-la-roche],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3809782/en",
-  :title "Tubocurarine antigens and antibodies specific therefor",
-  :status :granted,
-  :id "US3809782",
-  :sourcing :authoritative,
-  :filing-year 1972,
-  :assignee :f-hoffmann-la-roche,
-  :grant-year 1974,
-  :cites ["US2388260" "US2957808"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:telefunken-patentverwertungs],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3810010/en",
-  :title
-  "Particle analysis method and apparatus wherein liquid containing particles is sucked into a constricted flow path",
-  :status :granted,
-  :id "US3810010",
-  :sourcing :authoritative,
-  :filing-year 1972,
-  :assignee :telefunken-patentverwertungs,
-  :grant-year 1974,
-  :cites ["US2656508" "US2985830" "US3299354"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:american-cyanamid],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3810458/en",
-  :title "Minimizing tissue reaction to glove powder",
-  :status :granted,
-  :id "US3810458",
-  :sourcing :authoritative,
-  :filing-year 1973,
-  :assignee :american-cyanamid,
-  :grant-year 1974,
-  :cites ["US3297033" "US3468853" "US3728739"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:rhone-poulenc],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3810848/en",
-  :title "Complex forming polymers from dimethyl dipyridyl compounds",
-  :status :granted,
-  :id "US3810848",
-  :sourcing :authoritative,
-  :filing-year 1973,
-  :assignee :rhone-poulenc,
-  :grant-year 1974,
-  :term-years 20,
-  :open-license :none}
- {:assignees [:alza],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3811444/en",
-  :title "Bioerodible ocular device",
-  :status :granted,
-  :id "US3811444",
-  :sourcing :authoritative,
-  :filing-year 1972,
-  :assignee :alza,
-  :grant-year 1974,
-  :cites
-  ["US27401"
-   "US2935449"
-   "US3143472"
-   "US3279996"
-   "US3551556"
-   "US3608063"
-   "US3618604"
-   "US3629392"
-   "US3630200"
-   "US3674902"
-   "US3710795"
-   "US3737521"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:johnson-res-foundation-medical],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3811777/en",
-  :title "Time-sharing fluorometer and reflectometer",
-  :status :granted,
-  :id "US3811777",
-  :sourcing :authoritative,
-  :filing-year 1973,
-  :assignee :johnson-res-foundation-medical,
-  :grant-year 1974,
-  :cites ["US3392624" "US3461856" "US3512889" "US3711723"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:research],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3812245/en",
-  :title
-  "Novel compositions for radiotracer localization of deep vein thrombi",
-  :status :granted,
-  :id "US3812245",
-  :sourcing :authoritative,
-  :filing-year 1972,
-  :assignee :research,
-  :grant-year 1974,
-  :term-years 20,
-  :open-license :none}
- {:assignees [:general-electric],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3813316/en",
-  :title
-  "Microorganisms having multiple compatible degradative energy-generating plasmids and preparation thereof",
-  :status :granted,
-  :id "US3813316",
-  :sourcing :authoritative,
-  :filing-year 1972,
-  :assignee :general-electric,
-  :grant-year 1974,
-  :term-years 20,
-  :open-license :none}
- {:assignees [:olympus-optical],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3814081/en",
-  :title "Optical measuring catheter",
-  :status :granted,
-  :id "US3814081",
-  :sourcing :authoritative,
-  :filing-year 1972,
-  :assignee :olympus-optical,
-  :grant-year 1974,
-  :cites ["US3273447" "US3335715" "US3417745" "US3461856" "US3690769"],
   :term-years 20,
   :open-license :none}]

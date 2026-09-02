@@ -1,4 +1,222 @@
-[{:assignees [:university-of-california-san-diego-ucsd],
+[{:assignees [:honeywell],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US4250376/en",
+  :title "Apparatus for range finding equipment",
+  :status :granted,
+  :id "US4250376",
+  :sourcing :authoritative,
+  :filing-year 1979,
+  :assignee :honeywell,
+  :grant-year 1981,
+  :cites ["US4002899" "US4083056" "US4132888" "US4189232"],
+  :term-years 20,
+  :open-license :none}
+ {:jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US4251360/en",
+  :title
+  "Method and apparatus for the detection of a specific binding protein",
+  :status :granted,
+  :id "US4251360",
+  :sourcing :authoritative,
+  :filing-year 1979,
+  :assignee :unassigned,
+  :grant-year 1981,
+  :cites
+  ["US3203865"
+   "US3268441"
+   "US3901654"
+   "US3919075"
+   "US4088746"
+   "US4089778"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:jdja-services],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US4252897/en",
+  :title "Method and apparatus for bacteria testing",
+  :status :granted,
+  :id "US4252897",
+  :sourcing :authoritative,
+  :filing-year 1978,
+  :assignee :jdja-services,
+  :grant-year 1981,
+  :cites
+  ["US2956931"
+   "US3536449"
+   "US3772154"
+   "US3912596"
+   "US3928140"
+   "US3935075"
+   "US3936356"
+   "US4118280"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:massachusetts-institute-of-technology],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US4254174/en",
+  :title
+  "Supported membrane composite structure and its method of manufacture",
+  :status :granted,
+  :id "US4254174",
+  :sourcing :authoritative,
+  :filing-year 1979,
+  :assignee :massachusetts-institute-of-technology,
+  :grant-year 1981,
+  :cites
+  ["US3179634"
+   "US3179635"
+   "US3742230"
+   "US3743842"
+   "US3892973"
+   "US4057659"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:honeywell],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US4254330/en",
+  :title "Low frequency enhancement range finding equipment",
+  :status :granted,
+  :id "US4254330",
+  :sourcing :authoritative,
+  :filing-year 1979,
+  :assignee :honeywell,
+  :grant-year 1981,
+  :cites ["US4002899" "US4078172"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:becton-dickinson-and],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US4256725/en",
+  :title
+  "Preparation of solid substrate containing receptor and labeled form of ligand for assays",
+  :status :granted,
+  :id "US4256725",
+  :sourcing :authoritative,
+  :filing-year 1978,
+  :assignee :becton-dickinson-and,
+  :grant-year 1981,
+  :cites ["US3951748" "US4017597"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:meloy-laboratories],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US4257774/en",
+  :title
+  "Intercalation inhibition assay for compounds that interact with DNA or RNA",
+  :status :granted,
+  :id "US4257774",
+  :sourcing :authoritative,
+  :filing-year 1979,
+  :assignee :meloy-laboratories,
+  :grant-year 1981,
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:damon],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US4257884/en",
+  :title "Chromatography",
+  :status :granted,
+  :id "US4257884",
+  :sourcing :authoritative,
+  :filing-year 1979,
+  :assignee :damon,
+  :grant-year 1981,
+  :cites ["US3471261" "US3859228" "US3947352" "US3985840" "US4143201"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:syva],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US4261968/en",
+  :title
+  "Fluorescence quenching with immunological pairs in immunoassays",
+  :status :granted,
+  :id "US4261968",
+  :sourcing :authoritative,
+  :filing-year 1979,
+  :assignee :syva,
+  :grant-year 1981,
+  :cites ["US4160016" "US4174384"],
+  :term-years 20,
+  :open-license :none}
+ {:jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US4264327/en",
+  :title
+  "Method and apparatus for automatic competitive binding analysis",
+  :status :granted,
+  :id "US4264327",
+  :sourcing :authoritative,
+  :filing-year 1978,
+  :assignee :unassigned,
+  :grant-year 1981,
+  :cites
+  ["US3320148"
+   "US3320149"
+   "US4009005"
+   "US4128628"
+   "US4141687"
+   "US4153416"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:university-of-california-san-diego-ucsd],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US4264731/en",
+  :title "DNA Joining method",
+  :status :granted,
+  :id "US4264731",
+  :sourcing :authoritative,
+  :filing-year 1978,
+  :assignee :university-of-california-san-diego-ucsd,
+  :grant-year 1981,
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:dionex],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US4265634/en",
+  :title
+  "Chromatographic separation and quantitative analysis of ionic species",
+  :status :granted,
+  :id "US4265634",
+  :sourcing :authoritative,
+  :filing-year 1980,
+  :assignee :dionex,
+  :grant-year 1981,
+  :cites ["US3925019" "US3926559" "US4042327" "US4187177" "US4199323"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:novo-industri-as],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US4266029/en",
+  :title "Enzyme immobilization",
+  :status :granted,
+  :id "US4266029",
+  :sourcing :authoritative,
+  :filing-year 1979,
+  :assignee :novo-industri-as,
+  :grant-year 1981,
+  :cites
+  ["US3796634"
+   "US3838007"
+   "US3928143"
+   "US3980521"
+   "US4004979"
+   "US4138290"
+   "US4141857"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:university-of-california-san-diego-ucsd],
   :jurisdiction :us,
   :field "UNKNOWN",
   :source "https://patents.google.com/patent/US4267171/en",
@@ -6923,6 +7141,17 @@
   :grant-year 1898,
   :term-years 20,
   :open-license :none}
+ {:jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US602797/en",
+  :title "Frederick george annison",
+  :status :granted,
+  :id "US602797",
+  :sourcing :authoritative,
+  :assignee :unassigned,
+  :grant-year 1898,
+  :term-years 20,
+  :open-license :none}
  {:assignees [:affymetrix],
   :jurisdiction :us,
   :field "UNKNOWN",
@@ -7283,6 +7512,18 @@
   :filing-year 2007,
   :assignee :tsmc,
   :grant-year 2010,
+  :term-years 20,
+  :open-license :none}
+ {:jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US781659/en",
+  :title "Gumming-machine.",
+  :status :granted,
+  :id "US781659",
+  :sourcing :authoritative,
+  :filing-year 1904,
+  :assignee :unassigned,
+  :grant-year 1905,
   :term-years 20,
   :open-license :none}
  {:jurisdiction :us,
