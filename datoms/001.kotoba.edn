@@ -2746,6 +2746,47 @@
   ":hirameki/source"
   "https://patents.google.com/patent/GB602677A/en"]
  [":db/add"
+  "hirameki-patent:GB604544A"
+  ":hirameki.patent/title"
+  "Process for polymerizing unsaturated organic compounds"]
+ [":db/add"
+  "hirameki-patent:GB604544A"
+  ":hirameki.patent/jurisdiction"
+  ":gb"]
+ [":db/add"
+  "hirameki-patent:GB604544A"
+  ":hirameki.patent/field"
+  "UNKNOWN"]
+ [":db/add"
+  "hirameki-patent:GB604544A"
+  ":hirameki.patent/assignee"
+  ":shell-development"]
+ [":db/add"
+  "hirameki-patent:GB604544A"
+  ":hirameki.patent/status"
+  ":pending"]
+ [":db/add"
+  "hirameki-patent:GB604544A"
+  ":hirameki.patent/open-license"
+  ":none"]
+ [":db/add"
+  "hirameki-patent:GB604544A"
+  ":hirameki.obs/release-status"
+  ":pending"]
+ [":db/add"
+  "hirameki-patent:GB604544A"
+  ":hirameki/sourcing"
+  ":authoritative"]
+ [":db/add" "hirameki-patent:GB604544A" ":hirameki/derived" true]
+ [":db/add"
+  "hirameki-patent:GB604544A"
+  ":hirameki.obs/years-to-expiry"
+  -61]
+ [":db/add"
+  "hirameki-patent:GB604544A"
+  ":hirameki/source"
+  "https://patents.google.com/patent/GB604544A/en"]
+ [":db/add"
   "hirameki-patent:GB608203A"
   ":hirameki.patent/title"
   "Scraper for cleaning rotary cylinders"]
@@ -9946,46 +9987,5 @@
   ":none"]
  [":db/add"
   "hirameki-patent:JP2006037294A"
-  ":hirameki.obs/release-status"
-  ":pending"]
- [":db/add"
-  "hirameki-patent:JP2006037294A"
-  ":hirameki/sourcing"
-  ":authoritative"]
- [":db/add" "hirameki-patent:JP2006037294A" ":hirameki/derived" true]
- [":db/add"
-  "hirameki-patent:JP2006037294A"
-  ":hirameki.obs/years-to-expiry"
-  -2]
- [":db/add"
-  "hirameki-patent:JP2006037294A"
-  ":hirameki/source"
-  "https://patents.google.com/patent/JP2006037294A/en"]
- [":db/add"
-  "hirameki-patent:JP2006052294A"
-  ":hirameki.patent/title"
-  "Method for producing aqueous resin dispersion"]
- [":db/add"
-  "hirameki-patent:JP2006052294A"
-  ":hirameki.patent/jurisdiction"
-  ":jp"]
- [":db/add"
-  "hirameki-patent:JP2006052294A"
-  ":hirameki.patent/field"
-  "UNKNOWN"]
- [":db/add"
-  "hirameki-patent:JP2006052294A"
-  ":hirameki.patent/assignee"
-  ":kansai-paint"]
- [":db/add"
-  "hirameki-patent:JP2006052294A"
-  ":hirameki.patent/status"
-  ":pending"]
- [":db/add"
-  "hirameki-patent:JP2006052294A"
-  ":hirameki.patent/open-license"
-  ":none"]
- [":db/add"
-  "hirameki-patent:JP2006052294A"
   ":hirameki.obs/release-status"
   ":pending"]]

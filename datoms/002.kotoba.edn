@@ -1,4 +1,45 @@
 [[":db/add"
+  "hirameki-patent:JP2006037294A"
+  ":hirameki/sourcing"
+  ":authoritative"]
+ [":db/add" "hirameki-patent:JP2006037294A" ":hirameki/derived" true]
+ [":db/add"
+  "hirameki-patent:JP2006037294A"
+  ":hirameki.obs/years-to-expiry"
+  -2]
+ [":db/add"
+  "hirameki-patent:JP2006037294A"
+  ":hirameki/source"
+  "https://patents.google.com/patent/JP2006037294A/en"]
+ [":db/add"
+  "hirameki-patent:JP2006052294A"
+  ":hirameki.patent/title"
+  "Method for producing aqueous resin dispersion"]
+ [":db/add"
+  "hirameki-patent:JP2006052294A"
+  ":hirameki.patent/jurisdiction"
+  ":jp"]
+ [":db/add"
+  "hirameki-patent:JP2006052294A"
+  ":hirameki.patent/field"
+  "UNKNOWN"]
+ [":db/add"
+  "hirameki-patent:JP2006052294A"
+  ":hirameki.patent/assignee"
+  ":kansai-paint"]
+ [":db/add"
+  "hirameki-patent:JP2006052294A"
+  ":hirameki.patent/status"
+  ":pending"]
+ [":db/add"
+  "hirameki-patent:JP2006052294A"
+  ":hirameki.patent/open-license"
+  ":none"]
+ [":db/add"
+  "hirameki-patent:JP2006052294A"
+  ":hirameki.obs/release-status"
+  ":pending"]
+ [":db/add"
   "hirameki-patent:JP2006052294A"
   ":hirameki/sourcing"
   ":authoritative"]
@@ -3596,6 +3637,47 @@
   ":hirameki/source"
   "https://patents.google.com/patent/US1432735/en"]
  [":db/add"
+  "hirameki-patent:US1439743"
+  ":hirameki.patent/title"
+  "Process for finishing footwear"]
+ [":db/add"
+  "hirameki-patent:US1439743"
+  ":hirameki.patent/jurisdiction"
+  ":us"]
+ [":db/add"
+  "hirameki-patent:US1439743"
+  ":hirameki.patent/field"
+  "UNKNOWN"]
+ [":db/add"
+  "hirameki-patent:US1439743"
+  ":hirameki.patent/assignee"
+  ":ei-du-pont-de-nemours-and"]
+ [":db/add"
+  "hirameki-patent:US1439743"
+  ":hirameki.patent/status"
+  ":granted"]
+ [":db/add"
+  "hirameki-patent:US1439743"
+  ":hirameki.patent/open-license"
+  ":none"]
+ [":db/add"
+  "hirameki-patent:US1439743"
+  ":hirameki.obs/release-status"
+  ":public-domain"]
+ [":db/add"
+  "hirameki-patent:US1439743"
+  ":hirameki/sourcing"
+  ":authoritative"]
+ [":db/add" "hirameki-patent:US1439743" ":hirameki/derived" true]
+ [":db/add"
+  "hirameki-patent:US1439743"
+  ":hirameki.obs/years-to-expiry"
+  -88]
+ [":db/add"
+  "hirameki-patent:US1439743"
+  ":hirameki/source"
+  "https://patents.google.com/patent/US1439743/en"]
+ [":db/add"
   "hirameki-patent:US1463961"
   ":hirameki.patent/title"
   "Colored cement composition and method for preparing the same"]
@@ -6675,6 +6757,47 @@
   "hirameki-patent:US1853569"
   ":hirameki/source"
   "https://patents.google.com/patent/US1853569/en"]
+ [":db/add"
+  "hirameki-patent:US1857690"
+  ":hirameki.patent/title"
+  "Molding, coating, filling, impregnating, and binding"]
+ [":db/add"
+  "hirameki-patent:US1857690"
+  ":hirameki.patent/jurisdiction"
+  ":us"]
+ [":db/add"
+  "hirameki-patent:US1857690"
+  ":hirameki.patent/field"
+  "UNKNOWN"]
+ [":db/add"
+  "hirameki-patent:US1857690"
+  ":hirameki.patent/assignee"
+  ":kemikal"]
+ [":db/add"
+  "hirameki-patent:US1857690"
+  ":hirameki.patent/status"
+  ":granted"]
+ [":db/add"
+  "hirameki-patent:US1857690"
+  ":hirameki.patent/open-license"
+  ":none"]
+ [":db/add"
+  "hirameki-patent:US1857690"
+  ":hirameki.obs/release-status"
+  ":public-domain"]
+ [":db/add"
+  "hirameki-patent:US1857690"
+  ":hirameki/sourcing"
+  ":authoritative"]
+ [":db/add" "hirameki-patent:US1857690" ":hirameki/derived" true]
+ [":db/add"
+  "hirameki-patent:US1857690"
+  ":hirameki.obs/years-to-expiry"
+  -78]
+ [":db/add"
+  "hirameki-patent:US1857690"
+  ":hirameki/source"
+  "https://patents.google.com/patent/US1857690/en"]
  [":db/add"
   "hirameki-patent:US1864092"
   ":hirameki.patent/title"
@@ -10184,127 +10307,4 @@
  [":db/add"
   "hirameki-patent:US2071250"
   ":hirameki.patent/title"
-  "Linear condensation polymers"]
- [":db/add"
-  "hirameki-patent:US2071250"
-  ":hirameki.patent/jurisdiction"
-  ":us"]
- [":db/add"
-  "hirameki-patent:US2071250"
-  ":hirameki.patent/field"
-  "UNKNOWN"]
- [":db/add"
-  "hirameki-patent:US2071250"
-  ":hirameki.patent/assignee"
-  ":ei-du-pont-de-nemours-and"]
- [":db/add"
-  "hirameki-patent:US2071250"
-  ":hirameki.patent/status"
-  ":granted"]
- [":db/add"
-  "hirameki-patent:US2071250"
-  ":hirameki.patent/open-license"
-  ":none"]
- [":db/add"
-  "hirameki-patent:US2071250"
-  ":hirameki.obs/release-status"
-  ":public-domain"]
- [":db/add"
-  "hirameki-patent:US2071250"
-  ":hirameki/sourcing"
-  ":authoritative"]
- [":db/add" "hirameki-patent:US2071250" ":hirameki/derived" true]
- [":db/add"
-  "hirameki-patent:US2071250"
-  ":hirameki.obs/years-to-expiry"
-  -75]
- [":db/add"
-  "hirameki-patent:US2071250"
-  ":hirameki/source"
-  "https://patents.google.com/patent/US2071250/en"]
- [":db/add"
-  "hirameki-patent:US2072597"
-  ":hirameki.patent/title"
-  "Paste applying apparatus"]
- [":db/add"
-  "hirameki-patent:US2072597"
-  ":hirameki.patent/jurisdiction"
-  ":us"]
- [":db/add"
-  "hirameki-patent:US2072597"
-  ":hirameki.patent/field"
-  "UNKNOWN"]
- [":db/add"
-  "hirameki-patent:US2072597"
-  ":hirameki.patent/assignee"
-  ":us-rubber-prod"]
- [":db/add"
-  "hirameki-patent:US2072597"
-  ":hirameki.patent/status"
-  ":granted"]
- [":db/add"
-  "hirameki-patent:US2072597"
-  ":hirameki.patent/open-license"
-  ":none"]
- [":db/add"
-  "hirameki-patent:US2072597"
-  ":hirameki.obs/release-status"
-  ":public-domain"]
- [":db/add"
-  "hirameki-patent:US2072597"
-  ":hirameki/sourcing"
-  ":authoritative"]
- [":db/add" "hirameki-patent:US2072597" ":hirameki/derived" true]
- [":db/add"
-  "hirameki-patent:US2072597"
-  ":hirameki.obs/years-to-expiry"
-  -70]
- [":db/add"
-  "hirameki-patent:US2072597"
-  ":hirameki/source"
-  "https://patents.google.com/patent/US2072597/en"]
- [":db/add"
-  "hirameki-patent:US2074285"
-  ":hirameki.patent/title"
-  "Manufacture of flexible bands, threads, foils, and tubes of artificial substances"]
- [":db/add"
-  "hirameki-patent:US2074285"
-  ":hirameki.patent/jurisdiction"
-  ":us"]
- [":db/add"
-  "hirameki-patent:US2074285"
-  ":hirameki.patent/field"
-  "UNKNOWN"]
- [":db/add"
-  "hirameki-patent:US2074285"
-  ":hirameki.patent/assignee"
-  ":norddeutsche-seekabelwerke"]
- [":db/add"
-  "hirameki-patent:US2074285"
-  ":hirameki.patent/status"
-  ":granted"]
- [":db/add"
-  "hirameki-patent:US2074285"
-  ":hirameki.patent/open-license"
-  ":none"]
- [":db/add"
-  "hirameki-patent:US2074285"
-  ":hirameki.obs/release-status"
-  ":public-domain"]
- [":db/add"
-  "hirameki-patent:US2074285"
-  ":hirameki/sourcing"
-  ":authoritative"]
- [":db/add" "hirameki-patent:US2074285" ":hirameki/derived" true]
- [":db/add"
-  "hirameki-patent:US2074285"
-  ":hirameki.obs/years-to-expiry"
-  -73]
- [":db/add"
-  "hirameki-patent:US2074285"
-  ":hirameki/source"
-  "https://patents.google.com/patent/US2074285/en"]
- [":db/add"
-  "hirameki-patent:US2076553"
-  ":hirameki.patent/title"
-  "Apparatus for measuring, recording, and controlling dilute dust concentrations"]]
+  "Linear condensation polymers"]]
