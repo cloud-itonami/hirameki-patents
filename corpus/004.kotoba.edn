@@ -1,4 +1,279 @@
-[{:jurisdiction :us,
+[{:assignees [:canon],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3827064/en",
+  :title "Focus detector device",
+  :status :granted,
+  :id "US3827064",
+  :sourcing :authoritative,
+  :filing-year 1973,
+  :assignee :canon,
+  :grant-year 1974,
+  :cites
+  ["US3385190"
+   "US3504610"
+   "US3532043"
+   "US3605596"
+   "US3611895"
+   "US3618499"
+   "US3678835"
+   "US3691922"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:bio-physics-systems],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3827555/en",
+  :title "Particle sorter with segregation indicator",
+  :status :granted,
+  :id "US3827555",
+  :sourcing :authoritative,
+  :filing-year 1973,
+  :assignee :bio-physics-systems,
+  :grant-year 1974,
+  :cites
+  ["US2333791"
+   "US3269419"
+   "US3362421"
+   "US3508654"
+   "US3508655"
+   "US3560754"
+   "US3710933"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:geometric-data],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3827804/en",
+  :title
+  "Color separation for discrimination in pattern recognition systems",
+  :status :granted,
+  :id "US3827804",
+  :sourcing :authoritative,
+  :filing-year 1972,
+  :assignee :geometric-data,
+  :grant-year 1974,
+  :cites
+  ["US3188907"
+   "US3284566"
+   "US3315229"
+   "US3330904"
+   "US3497690"
+   "US3657537"
+   "US3663801"
+   "US3675768"
+   "US3699336"
+   "US3703337"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:burroughs-wellcome-usa],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3827943/en",
+  :title "Culture apparatus",
+  :status :granted,
+  :id "US3827943",
+  :sourcing :authoritative,
+  :filing-year 1971,
+  :assignee :burroughs-wellcome-usa,
+  :grant-year 1974,
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:us-atomic-energy-commission-aec],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3829223/en",
+  :title
+  "Mixing rotor for fast analyzer of rotary cuvette type with means for enhancing the mixing of sample and reagent liquids",
+  :status :granted,
+  :id "US3829223",
+  :sourcing :authoritative,
+  :filing-year 1973,
+  :assignee :us-atomic-energy-commission-aec,
+  :grant-year 1974,
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:aerospace],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3829696/en",
+  :title "Atmospheric no monitor",
+  :status :granted,
+  :id "US3829696",
+  :sourcing :authoritative,
+  :filing-year 1973,
+  :assignee :aerospace,
+  :grant-year 1974,
+  :term-years 20,
+  :open-license :none}
+ {:jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3830931/en",
+  :title
+  "Carnitine and its use in the treatment of arrhythmia and impaired cardiac function",
+  :status :granted,
+  :id "US3830931",
+  :sourcing :authoritative,
+  :filing-year 1972,
+  :assignee :unassigned,
+  :grant-year 1974,
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:us-department-of-navy],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3831137/en",
+  :title "Acousto-optic underwater detector",
+  :status :granted,
+  :id "US3831137",
+  :sourcing :authoritative,
+  :filing-year 1972,
+  :assignee :us-department-of-navy,
+  :grant-year 1974,
+  :cites ["US3533056" "US3541848" "US3580082" "US3584227" "US3642090"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:texas-instruments],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3831432/en",
+  :title "Environment monitoring device and system",
+  :status :granted,
+  :id "US3831432",
+  :sourcing :authoritative,
+  :filing-year 1972,
+  :assignee :texas-instruments,
+  :grant-year 1974,
+  :cites
+  ["US2975362"
+   "US2998554"
+   "US3329004"
+   "US3469147"
+   "US3507145"
+   "US3586554"
+   "US3685140"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:dexter-c-&-sons],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3834983/en",
+  :title
+  "Process of forming wet laid tufted non-woven fibrous web from a viscous fibrous dispersion and product",
+  :status :granted,
+  :id "US3834983",
+  :sourcing :authoritative,
+  :filing-year 1973,
+  :assignee :dexter-c-&-sons,
+  :grant-year 1974,
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:whittaker],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3837339/en",
+  :title
+  "Blood glucose level monitoring-alarm system and method therefor",
+  :status :granted,
+  :id "US3837339",
+  :sourcing :authoritative,
+  :filing-year 1972,
+  :assignee :whittaker,
+  :grant-year 1974,
+  :cites
+  ["FR1444363A"
+   "US3143111"
+   "US3144019"
+   "US3216411"
+   "US3453546"
+   "US3682160"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:f-hoffmann-la-roche],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3838033/en",
+  :title "Enzyme electrode",
+  :status :granted,
+  :id "US3838033",
+  :sourcing :authoritative,
+  :filing-year 1972,
+  :assignee :f-hoffmann-la-roche,
+  :grant-year 1974,
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:fuji-photo-film],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3838926/en",
+  :title
+  "Method of continuously determining the absorbance light of a chemical reaction mixture",
+  :status :granted,
+  :id "US3838926",
+  :sourcing :authoritative,
+  :filing-year 1973,
+  :assignee :fuji-photo-film,
+  :grant-year 1974,
+  :cites ["CH192183A" "DE675911C" "US2707900" "US3700335"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:akzona],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3839153/en",
+  :title
+  "Process for the detection and determination of specific binding proteins and their corresponding bindable substances",
+  :status :granted,
+  :id "US3839153",
+  :sourcing :authoritative,
+  :filing-year 1971,
+  :assignee :akzona,
+  :grant-year 1974,
+  :cites ["US3652761" "US3654090"],
+  :term-years 20,
+  :open-license :none}
+ {:jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3839234/en",
+  :title "Multi-purpose cleaning concentrate",
+  :status :granted,
+  :id "US3839234",
+  :sourcing :authoritative,
+  :filing-year 1973,
+  :assignee :unassigned,
+  :grant-year 1974,
+  :cites ["US2929789" "US3696042"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:texaco],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3842264/en",
+  :title
+  "Radiological well logging methods and apparatus for reducing the effect of activation from the detector crystal",
+  :status :granted,
+  :id "US3842264",
+  :sourcing :authoritative,
+  :filing-year 1972,
+  :assignee :texaco,
+  :grant-year 1974,
+  :cites ["US3733486"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:research],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3843324/en",
+  :title "Method of cell fractionation and apparatus therefor",
+  :status :granted,
+  :id "US3843324",
+  :sourcing :authoritative,
+  :filing-year 1972,
+  :assignee :research,
+  :grant-year 1974,
+  :term-years 20,
+  :open-license :none}
+ {:jurisdiction :us,
   :field "UNKNOWN",
   :source "https://patents.google.com/patent/US3843444/en",
   :title "Membrane separation process",
@@ -9117,276 +9392,5 @@
   :filing-year 1979,
   :assignee :harvard-university,
   :grant-year 1981,
-  :term-years 20,
-  :open-license :none}
- {:assignees [:dow-chemical],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US4279994/en",
-  :title "Lipase determination method and reagent",
-  :status :granted,
-  :id "US4279994",
-  :sourcing :authoritative,
-  :filing-year 1979,
-  :assignee :dow-chemical,
-  :grant-year 1981,
-  :cites ["US3119668" "US3867259" "US3875014" "US3917515" "US3986930"],
-  :term-years 20,
-  :open-license :none}
- {:jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US4282287/en",
-  :title "Biochemical avidin-biotin multiple-layer system",
-  :status :granted,
-  :id "US4282287",
-  :sourcing :authoritative,
-  :filing-year 1980,
-  :assignee :unassigned,
-  :grant-year 1981,
-  :cites ["US4132528" "US4134792" "US4168300"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:olympus-optical],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US4284897/en",
-  :title "Fluorescence determining microscope utilizing laser light",
-  :status :granted,
-  :id "US4284897",
-  :sourcing :authoritative,
-  :filing-year 1978,
-  :assignee :olympus-optical,
-  :grant-year 1981,
-  :cites ["US3657537" "US3950649" "US4058732" "US4172227"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:e-y-laboratories],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US4289747/en",
-  :title "Immunological determination using lectin",
-  :status :granted,
-  :id "US4289747",
-  :sourcing :authoritative,
-  :filing-year 1978,
-  :assignee :e-y-laboratories,
-  :grant-year 1981,
-  :cites ["US3555143" "US4053284" "US4098876"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:baxter-travenol-laboratories],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US4292296/en",
-  :title "Diagnostic method",
-  :status :granted,
-  :id "US4292296",
-  :sourcing :authoritative,
-  :filing-year 1978,
-  :assignee :baxter-travenol-laboratories,
-  :grant-year 1981,
-  :cites
-  ["DE2731028A1"
-   "US3799740"
-   "US3896218"
-   "US3941564"
-   "US3960492"
-   "US3980764"
-   "US4012494"
-   "US4016250"
-   "US4032626"
-   "US4046870"
-   "US4052504"
-   "US4120945"
-   "US4225574"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:cetus],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US4293652/en",
-  :title "Method for synthesizing DNA sequentially",
-  :status :granted,
-  :id "US4293652",
-  :sourcing :authoritative,
-  :filing-year 1979,
-  :assignee :cetus,
-  :grant-year 1981,
-  :term-years 20,
-  :open-license :none}
- {:assignees [:miles-laboratories],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US4297273/en",
-  :title
-  "Chemiluminescent phthalhydrazide-labeled protein and polypeptide conjugates",
-  :status :granted,
-  :id "US4297273",
-  :sourcing :authoritative,
-  :filing-year 1980,
-  :assignee :miles-laboratories,
-  :grant-year 1981,
-  :cites ["US4104029" "US4181650" "US4213894" "US4225485"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:baxter-travenol-laboratories],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US4297494/en",
-  :title "Xanthine tracers",
-  :status :granted,
-  :id "US4297494",
-  :sourcing :authoritative,
-  :filing-year 1978,
-  :assignee :baxter-travenol-laboratories,
-  :grant-year 1981,
-  :cites
-  ["US2729642"
-   "US2840559"
-   "US2879271"
-   "US3317533"
-   "US3996344"
-   "US955587"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:nippon-kogaku],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US4297571/en",
-  :title "Focus detecting device",
-  :status :granted,
-  :id "US4297571",
-  :sourcing :authoritative,
-  :filing-year 1980,
-  :assignee :nippon-kogaku,
-  :grant-year 1981,
-  :cites ["US3875401" "US4083056" "US4250376"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:intec],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US4297587/en",
-  :title "Absolute DC system for a laser inspection system",
-  :status :granted,
-  :id "US4297587",
-  :sourcing :authoritative,
-  :filing-year 1980,
-  :assignee :intec,
-  :grant-year 1981,
-  :cites ["US3866054" "US3900265" "US3958127"],
-  :term-years 20,
-  :open-license :none}
- {:jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US4298590/en",
-  :title "Detection of malignant tumor cells",
-  :status :granted,
-  :id "US4298590",
-  :sourcing :authoritative,
-  :filing-year 1978,
-  :assignee :unassigned,
-  :grant-year 1981,
-  :term-years 20,
-  :open-license :none}
- {:assignees [:abbott-laboratories],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US4298593/en",
-  :title
-  "Reagents and methods utilizing labeled Fab bound to antigens",
-  :status :granted,
-  :id "US4298593",
-  :sourcing :authoritative,
-  :filing-year 1979,
-  :assignee :abbott-laboratories,
-  :grant-year 1981,
-  :cites ["US4166106" "US4193982"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:burroughs-wellcome-usa],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US4298685/en",
-  :title "Diagnostic reagent",
-  :status :granted,
-  :id "US4298685",
-  :sourcing :authoritative,
-  :filing-year 1979,
-  :assignee :burroughs-wellcome-usa,
-  :grant-year 1981,
-  :cites ["US3839153" "US3852157" "US4017597" "US4134792"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:hoffmann-la-roche],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US4299815/en",
-  :title "Carcinoembryonic antigen determination",
-  :status :granted,
-  :id "US4299815",
-  :sourcing :authoritative,
-  :filing-year 1980,
-  :assignee :hoffmann-la-roche,
-  :grant-year 1981,
-  :cites
-  ["US3663684"
-   "US3697638"
-   "US3867363"
-   "US4098876"
-   "US4140753"
-   "US4180499"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:leland-stanford-junior-university],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US4302204/en",
-  :title "Transfer and detection of nucleic acids",
-  :status :granted,
-  :id "US4302204",
-  :sourcing :authoritative,
-  :filing-year 1979,
-  :assignee :leland-stanford-junior-university,
-  :grant-year 1981,
-  :cites ["US3730844" "US4072574" "US4139346"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:israel-institute-for-biological-research],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US4302534/en",
-  :title "Chemiluminescent enzyme immunoassay",
-  :status :granted,
-  :id "US4302534",
-  :sourcing :authoritative,
-  :filing-year 1978,
-  :assignee :israel-institute-for-biological-research,
-  :grant-year 1981,
-  :cites
-  ["DE2618419A1"
-   "DE2618511C3"
-   "US3359973"
-   "US3575812"
-   "US3791932"
-   "US3852157"
-   "US3999948"
-   "US4101383"
-   "US4104029"
-   "US4134792"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:fuji-photo-film],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US4302671/en",
-  :title "Radiation image read-out device",
-  :status :granted,
-  :id "US4302671",
-  :sourcing :authoritative,
-  :filing-year 1979,
-  :assignee :fuji-photo-film,
-  :grant-year 1981,
-  :cites ["US3859527" "US3975637"],
   :term-years 20,
   :open-license :none}]
