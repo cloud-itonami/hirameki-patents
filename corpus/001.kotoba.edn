@@ -189,6 +189,17 @@
   :grant-year 1933,
   :term-years 20,
   :open-license :none}
+ {:jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US1903325/en",
+  :title "Paper coating method and apparatus",
+  :status :granted,
+  :id "US1903325",
+  :sourcing :authoritative,
+  :assignee :unassigned,
+  :grant-year 1933,
+  :term-years 20,
+  :open-license :none}
  {:assignees [:h-a-metz-lab],
   :jurisdiction :us,
   :field "UNKNOWN",
@@ -325,6 +336,45 @@
   :sourcing :authoritative,
   :filing-year 1931,
   :assignee :champion-coated-paper,
+  :grant-year 1933,
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:raffold-process],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US1934639/en",
+  :title "Alkaline filler",
+  :status :granted,
+  :id "US1934639",
+  :sourcing :authoritative,
+  :filing-year 1930,
+  :assignee :raffold-process,
+  :grant-year 1933,
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:rafton-engineering],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US1934641/en",
+  :title "Satin white",
+  :status :granted,
+  :id "US1934641",
+  :sourcing :authoritative,
+  :filing-year 1930,
+  :assignee :rafton-engineering,
+  :grant-year 1933,
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:rafton-engineering],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US1934642/en",
+  :title "Clay",
+  :status :granted,
+  :id "US1934642",
+  :sourcing :authoritative,
+  :filing-year 1930,
+  :assignee :rafton-engineering,
   :grant-year 1933,
   :term-years 20,
   :open-license :none}
@@ -629,6 +679,19 @@
   :sourcing :authoritative,
   :filing-year 1932,
   :assignee :john-waldron,
+  :grant-year 1935,
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:champion-coated-paper],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US1989036/en",
+  :title "Paper coating",
+  :status :granted,
+  :id "US1989036",
+  :sourcing :authoritative,
+  :filing-year 1932,
+  :assignee :champion-coated-paper,
   :grant-year 1935,
   :term-years 20,
   :open-license :none}
@@ -2078,6 +2141,19 @@
   :grant-year 1939,
   :term-years 20,
   :open-license :none}
+ {:assignees [:k-c-m],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2186874/en",
+  :title "Paper manufacture",
+  :status :granted,
+  :id "US2186874",
+  :sourcing :authoritative,
+  :filing-year 1938,
+  :assignee :k-c-m,
+  :grant-year 1940,
+  :term-years 20,
+  :open-license :none}
  {:assignees [:john-r-beddingfield],
   :jurisdiction :us,
   :field "UNKNOWN",
@@ -3235,6 +3311,19 @@
   :sourcing :authoritative,
   :filing-year 1940,
   :assignee :hickok-manufacturing,
+  :grant-year 1942,
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:plastergon-wall-board],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2291616/en",
+  :title "Method of coating webs",
+  :status :granted,
+  :id "US2291616",
+  :sourcing :authoritative,
+  :filing-year 1939,
+  :assignee :plastergon-wall-board,
   :grant-year 1942,
   :term-years 20,
   :open-license :none}
@@ -4619,6 +4708,19 @@
   :grant-year 1945,
   :term-years 20,
   :open-license :none}
+ {:assignees [:k-c-m],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2378113/en",
+  :title "Paper manufacture",
+  :status :granted,
+  :id "US2378113",
+  :sourcing :authoritative,
+  :filing-year 1938,
+  :assignee :k-c-m,
+  :grant-year 1945,
+  :term-years 20,
+  :open-license :none}
  {:assignees [:westinghouse-electric],
   :jurisdiction :us,
   :field "UNKNOWN",
@@ -4809,6 +4911,19 @@
   :sourcing :authoritative,
   :filing-year 1942,
   :assignee :ei-du-pont-de-nemours-and,
+  :grant-year 1946,
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:warren-sd],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2395992/en",
+  :title "Mineral-coated printing paper",
+  :status :granted,
+  :id "US2395992",
+  :sourcing :authoritative,
+  :filing-year 1944,
+  :assignee :warren-sd,
   :grant-year 1946,
   :term-years 20,
   :open-license :none}
@@ -7136,6 +7251,41 @@
   :cites ["US2249538" "US2251296" "US2376371" "US2386347" "US2397866"],
   :term-years 20,
   :open-license :none}
+ {:jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2536018/en",
+  :title "Coating compositions",
+  :status :granted,
+  :id "US2536018",
+  :sourcing :authoritative,
+  :filing-year 1948,
+  :assignee :unassigned,
+  :grant-year 1951,
+  :cites ["US2413197"],
+  :term-years 20,
+  :open-license :none}
+ {:jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2536470/en",
+  :title
+  "Preparation of freeze-stable polyvinyl acetate emulsion compositions",
+  :status :granted,
+  :id "US2536470",
+  :sourcing :authoritative,
+  :filing-year 1946,
+  :assignee :unassigned,
+  :grant-year 1951,
+  :cites
+  ["US2316629"
+   "US2343095"
+   "US2373347"
+   "US2388600"
+   "US2388601"
+   "US2398344"
+   "US2444396"
+   "US2459955"],
+  :term-years 20,
+  :open-license :none}
  {:assignees [:patchogue-plymouth-mills],
   :jurisdiction :us,
   :field "UNKNOWN",
@@ -7378,6 +7528,20 @@
  {:assignees [:united-states-rubber],
   :jurisdiction :us,
   :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2554663/en",
+  :title "Method of glossing paper",
+  :status :granted,
+  :id "US2554663",
+  :sourcing :authoritative,
+  :filing-year 1949,
+  :assignee :united-states-rubber,
+  :grant-year 1951,
+  :cites ["US2416232" "US2439202"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:united-states-rubber],
+  :jurisdiction :us,
+  :field "UNKNOWN",
   :source "https://patents.google.com/patent/US2554899/en",
   :title "Grease-proof paper and process of making the same",
   :status :granted,
@@ -7570,6 +7734,28 @@
   :assignee :bf-goodrich,
   :grant-year 1951,
   :cites ["US2340111" "US2385931" "US2403112" "US2455652" "US2482825"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:minnesota-mining-and-manufacturing],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2570253/en",
+  :title
+  "Stable aqueous dispersions of copolymers of vinyl esters, neutral ethylenic polyesters, and acrylic acid, and method of making",
+  :status :granted,
+  :id "US2570253",
+  :sourcing :authoritative,
+  :filing-year 1946,
+  :assignee :minnesota-mining-and-manufacturing,
+  :grant-year 1951,
+  :cites
+  ["US2047398"
+   "US2194354"
+   "US2310780"
+   "US2324740"
+   "US2339184"
+   "US2410089"
+   "US2462354"],
   :term-years 20,
   :open-license :none}
  {:assignees [:ei-du-pont-de-nemours-and],
@@ -9416,211 +9602,5 @@
    "US2343095"
    "US2419880"
    "US2476527"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:hercules-powder],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US2661309/en",
-  :title "Coated paper and method of producing same",
-  :status :granted,
-  :id "US2661309",
-  :sourcing :authoritative,
-  :filing-year 1948,
-  :assignee :hercules-powder,
-  :grant-year 1953,
-  :cites
-  ["US1976679"
-   "US2147154"
-   "US2251296"
-   "US2287161"
-   "US2343095"
-   "US2419880"
-   "US2476527"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:nat-res-dev],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US2661902/en",
-  :title "Apparatus for counting microscopic particles",
-  :status :granted,
-  :id "US2661902",
-  :sourcing :authoritative,
-  :filing-year 1951,
-  :assignee :nat-res-dev,
-  :grant-year 1953,
-  :cites
-  ["US1974522"
-   "US2037044"
-   "US2073246"
-   "US2088297"
-   "US2369577"
-   "US2413965"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:detrex],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US2662837/en",
-  :title
-  "Composition and method for removing hardened silicone resin glazes from metal surfaces",
-  :status :granted,
-  :id "US2662837",
-  :sourcing :authoritative,
-  :filing-year 1949,
-  :assignee :detrex,
-  :grant-year 1953,
-  :cites
-  ["GB190205541A"
-   "US1501086"
-   "US2206776"
-   "US2212761"
-   "US2432665"
-   "US2445064"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:xerox],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US2663636/en",
-  :title "Electrophotographic plate and method of producing same",
-  :status :granted,
-  :id "US2663636",
-  :sourcing :authoritative,
-  :filing-year 1949,
-  :assignee :xerox,
-  :grant-year 1953,
-  :cites
-  ["DE725286C"
-   "US2067576"
-   "US2168259"
-   "US2178018"
-   "US2197552"
-   "US2199104"
-   "US2297691"
-   "US2433401"
-   "US2436578"
-   "US2485589"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:celloplast],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US2665450/en",
-  :title
-  "Method and apparatus for continuous production of absorbing material",
-  :status :granted,
-  :id "US2665450",
-  :sourcing :authoritative,
-  :filing-year 1950,
-  :assignee :celloplast,
-  :grant-year 1954,
-  :cites
-  ["GB435128A"
-   "US1590999"
-   "US2289713"
-   "US2308951"
-   "US2336944"
-   "US2540906"],
-  :term-years 20,
-  :open-license :none}
- {:jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US2666355/en",
-  :title
-  "Method of studying chemical reactions by measuring interfacial film thicknesses",
-  :status :granted,
-  :id "US2666355",
-  :sourcing :authoritative,
-  :filing-year 1951,
-  :assignee :unassigned,
-  :grant-year 1954,
-  :cites ["DE722746C" "US2425399"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:crown-zellerbach],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US2666726/en",
-  :title "Method of making masked lignocellulosic material",
-  :status :granted,
-  :id "US2666726",
-  :sourcing :authoritative,
-  :filing-year 1951,
-  :assignee :crown-zellerbach,
-  :grant-year 1954,
-  :cites
-  ["US1852964"
-   "US1999383"
-   "US2086187"
-   "US2137238"
-   "US2219251"
-   "US2245169"
-   "US2343740"
-   "US2442422"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:otis-engineering],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US2673614/en",
-  :title "Anchoring assembly for oil tools",
-  :status :granted,
-  :id "US2673614",
-  :sourcing :authoritative,
-  :filing-year 1949,
-  :assignee :otis-engineering,
-  :grant-year 1954,
-  :cites
-  ["US1856469"
-   "US2144850"
-   "US2177172"
-   "US2191750"
-   "US2338370"
-   "US2342930"
-   "US2392244"
-   "US2571478"],
-  :term-years 20,
-  :open-license :none}
- {:jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US2674315/en",
-  :title "Differential pressure well packer",
-  :status :granted,
-  :id "US2674315",
-  :sourcing :authoritative,
-  :filing-year 1949,
-  :assignee :unassigned,
-  :grant-year 1954,
-  :cites ["US2305062" "US2343076" "US2496546"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:sherwin-williams],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US2675129/en",
-  :title "Continuous filter",
-  :status :granted,
-  :id "US2675129",
-  :sourcing :authoritative,
-  :filing-year 1951,
-  :assignee :sherwin-williams,
-  :grant-year 1954,
-  :cites ["GB190222852A" "US2330542" "US794631"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:eastman-kodak],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US2675372/en",
-  :title "Polymerization of monomeric vinyl compounds",
-  :status :granted,
-  :id "US2675372",
-  :sourcing :authoritative,
-  :filing-year 1952,
-  :assignee :eastman-kodak,
-  :grant-year 1954,
-  :cites ["US2520601"],
   :term-years 20,
   :open-license :none}]

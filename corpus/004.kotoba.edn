@@ -1,4 +1,284 @@
-[{:assignees [:technicon-instruments],
+[{:assignees [:koch-light-laboratories],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3761357/en",
+  :title "Bonding of enzymes to polymeric materials",
+  :status :granted,
+  :id "US3761357",
+  :sourcing :authoritative,
+  :filing-year 1971,
+  :assignee :koch-light-laboratories,
+  :grant-year 1973,
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:minolta],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3762294/en",
+  :title "Focusing apparatus",
+  :status :granted,
+  :id "US3762294",
+  :sourcing :authoritative,
+  :filing-year 1971,
+  :assignee :minolta,
+  :grant-year 1973,
+  :cites
+  ["US3274913"
+   "US3336851"
+   "US3511155"
+   "US3532045"
+   "US3542475"
+   "US3555280"
+   "US3562785"
+   "US3571598"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:us-atomic-energy-commission-aec],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3763374/en",
+  :title "Dynamic multistation photometer-fluorometer",
+  :status :granted,
+  :id "US3763374",
+  :sourcing :authoritative,
+  :filing-year 1972,
+  :assignee :us-atomic-energy-commission-aec,
+  :grant-year 1973,
+  :cites ["US3547547" "US3649833"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:baxter-laboratories],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3764214/en",
+  :title "Photometer apparatus",
+  :status :granted,
+  :id "US3764214",
+  :sourcing :authoritative,
+  :filing-year 1972,
+  :assignee :baxter-laboratories,
+  :grant-year 1973,
+  :cites ["US3319512"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:roehm-darmstadt],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3764477/en",
+  :title
+  "Resin bound protein like active agents prepared by reacting a proteinwith a water insoluble polymer of acrylic or methacrylic acid anhydride",
+  :status :granted,
+  :id "US3764477",
+  :sourcing :authoritative,
+  :filing-year 1971,
+  :assignee :roehm-darmstadt,
+  :grant-year 1973,
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:f-hoffmann-la-roche],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3766162/en",
+  :title "Barbituric acid antigens and antibodies specific therefor",
+  :status :granted,
+  :id "US3766162",
+  :sourcing :authoritative,
+  :filing-year 1971,
+  :assignee :f-hoffmann-la-roche,
+  :grant-year 1973,
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:research],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3766167/en",
+  :title "Orally active anticoagulant",
+  :status :granted,
+  :id "US3766167",
+  :sourcing :authoritative,
+  :filing-year 1971,
+  :assignee :research,
+  :grant-year 1973,
+  :term-years 20,
+  :open-license :none}
+ {:jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3767398/en",
+  :title "Solid photoresist comprising a polyene and a polythiol",
+  :status :granted,
+  :id "US3767398",
+  :sourcing :authoritative,
+  :filing-year 1971,
+  :assignee :unassigned,
+  :grant-year 1973,
+  :cites
+  ["US3376138"
+   "US3556793"
+   "US3615450"
+   "US3656951"
+   "US3660088"
+   "US3677920"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:agfa-gevaert],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3767412/en",
+  :title
+  "Polymeric colour couplers and their use in colour photography",
+  :status :granted,
+  :id "US3767412",
+  :sourcing :authoritative,
+  :filing-year 1971,
+  :assignee :agfa-gevaert,
+  :grant-year 1973,
+  :cites ["US2852381" "US3551157"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:international-business-machines],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3767490/en",
+  :title "Process for etching organic coating layers",
+  :status :granted,
+  :id "US3767490",
+  :sourcing :authoritative,
+  :filing-year 1971,
+  :assignee :international-business-machines,
+  :grant-year 1973,
+  :cites ["US2443373" "US3705055"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:tokyo-shibaura-electric],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3767494/en",
+  :title
+  "Method for manufacturing a semiconductor photosensitive device",
+  :status :granted,
+  :id "US3767494",
+  :sourcing :authoritative,
+  :filing-year 1971,
+  :assignee :tokyo-shibaura-electric,
+  :grant-year 1973,
+  :cites ["US3616345" "US3616348"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:united-states-department-of-the-army],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3770380/en",
+  :title "Article and method for multiple immune adherence assay",
+  :status :granted,
+  :id "US3770380",
+  :sourcing :authoritative,
+  :filing-year 1971,
+  :assignee :united-states-department-of-the-army,
+  :grant-year 1973,
+  :cites ["US3415361" "US3502437" "US3666421"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:ei-du-pont-de-nemours-and],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3770382/en",
+  :title "Automatic clinical analyzer",
+  :status :granted,
+  :id "US3770382",
+  :sourcing :authoritative,
+  :filing-year 1971,
+  :assignee :ei-du-pont-de-nemours-and,
+  :grant-year 1973,
+  :cites
+  ["US3476515"
+   "US3497320"
+   "US3504376"
+   "US3532469"
+   "US3540858"
+   "US3556731"
+   "US3589867"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:akzona],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3770383/en",
+  :title "Diagnostic test slide",
+  :status :granted,
+  :id "US3770383",
+  :sourcing :authoritative,
+  :filing-year 1971,
+  :assignee :akzona,
+  :grant-year 1973,
+  :cites
+  ["GB953414A"
+   "US3502437"
+   "US3549328"
+   "US3616251"
+   "US3672845"
+   "US3697227"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:rca],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3770434/en",
+  :title
+  "Method for making an image screen structure for an apertured-mask cathode-ray tube using a mask having temporary apertures",
+  :status :granted,
+  :id "US3770434",
+  :sourcing :authoritative,
+  :filing-year 1971,
+  :assignee :rca,
+  :grant-year 1973,
+  :cites
+  ["US2750524"
+   "US2961314"
+   "US2971117"
+   "US3070441"
+   "US3231380"
+   "US3574013"
+   "US3600213"
+   "US3653901"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:basf-se],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3770491/en",
+  :title "System hardenable by ionizing radiation",
+  :status :granted,
+  :id "US3770491",
+  :sourcing :authoritative,
+  :filing-year 1971,
+  :assignee :basf-se,
+  :grant-year 1973,
+  :cites ["US3425977" "US3448089" "US3542587" "US3650978"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:lewis-engineering],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3770965/en",
+  :title
+  "Photosensitive control apparatus with movable light control member",
+  :status :granted,
+  :id "US3770965",
+  :sourcing :authoritative,
+  :filing-year 1972,
+  :assignee :lewis-engineering,
+  :grant-year 1973,
+  :cites
+  ["US1880020"
+   "US2199071"
+   "US2216472"
+   "US2524807"
+   "US2753487"
+   "US3155830"
+   "US3651324"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:technicon-instruments],
   :jurisdiction :us,
   :field "UNKNOWN",
   :source "https://patents.google.com/patent/US3772154/en",
@@ -9055,267 +9335,5 @@
   :assignee :millipore,
   :grant-year 1980,
   :cites ["US3839153" "US3951748" "US4066512"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:ohio-state-university],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US4201770/en",
-  :title "Antigenic modification of polypeptides",
-  :status :granted,
-  :id "US4201770",
-  :sourcing :authoritative,
-  :filing-year 1978,
-  :assignee :ohio-state-university,
-  :grant-year 1980,
-  :term-years 20,
-  :open-license :none}
- {:assignees [:monsanto],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US4201845/en",
-  :title "Cell culture reactor",
-  :status :granted,
-  :id "US4201845",
-  :sourcing :authoritative,
-  :filing-year 1978,
-  :assignee :monsanto,
-  :grant-year 1980,
-  :cites
-  ["US3342729"
-   "US3746175"
-   "US3821087"
-   "US3843454"
-   "US3883393"
-   "US3997396"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:wisconsin-alumni-research-foundation],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US4201881/en",
-  :title "24,24-Difluoro-1α,25-dihydroxycholecalciferol",
-  :status :granted,
-  :id "US4201881",
-  :sourcing :authoritative,
-  :filing-year 1979,
-  :assignee :wisconsin-alumni-research-foundation,
-  :grant-year 1980,
-  :cites ["DE2259661A1"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:leybold-heraeus],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US4204117/en",
-  :title "Sample analyzer",
-  :status :granted,
-  :id "US4204117",
-  :sourcing :authoritative,
-  :filing-year 1978,
-  :assignee :leybold-heraeus,
-  :grant-year 1980,
-  :cites ["US3782823" "US3972616" "US4018530"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:toyo-soda-manufacturing],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US4205134/en",
-  :title "Carrier for liquid chromatography",
-  :status :granted,
-  :id "US4205134",
-  :sourcing :authoritative,
-  :filing-year 1978,
-  :assignee :toyo-soda-manufacturing,
-  :grant-year 1980,
-  :cites ["US3645996" "US3970603" "US4038469" "US4128706"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:technion-research-and-development-foundation],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US4205952/en",
-  :title "Specific binding assay method and reagent means",
-  :status :granted,
-  :id "US4205952",
-  :sourcing :authoritative,
-  :filing-year 1977,
-  :assignee :technion-research-and-development-foundation,
-  :grant-year 1980,
-  :cites ["US3899298" "US3966556" "US4022876" "US4036823"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:gte-laboratories],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US4208242/en",
-  :title
-  "Method for color television picture tube aperture mask production employing PVA and removing the PVA by partial carmelizing and washing",
-  :status :granted,
-  :id "US4208242",
-  :sourcing :authoritative,
-  :filing-year 1978,
-  :assignee :gte-laboratories,
-  :grant-year 1980,
-  :cites
-  ["US3081203"
-   "US3175907"
-   "US3415648"
-   "US3672893"
-   "US3767490"
-   "US3770434"
-   "US3796603"
-   "US3980587"
-   "US4018627"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:radiochemical-centre],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US4208400/en",
-  :title "Assay of oestrogen",
-  :status :granted,
-  :id "US4208400",
-  :sourcing :authoritative,
-  :filing-year 1978,
-  :assignee :radiochemical-centre,
-  :grant-year 1980,
-  :cites ["US4081525"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:syva],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US4208479/en",
-  :title "Label modified immunoassays",
-  :status :granted,
-  :id "US4208479",
-  :sourcing :authoritative,
-  :filing-year 1977,
-  :assignee :syva,
-  :grant-year 1980,
-  :cites ["US3996345" "US3998943" "US4036946"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:bonnierforetagen],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US4211766/en",
-  :title "Cancer associated polypeptide antigen compositions",
-  :status :granted,
-  :id "US4211766",
-  :sourcing :authoritative,
-  :filing-year 1979,
-  :assignee :bonnierforetagen,
-  :grant-year 1980,
-  :term-years 20,
-  :open-license :none}
- {:assignees
-  [:max-planck-gesellschaft-zur-foerderung-der-wissenschaften-ev],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US4215940/en",
-  :title "Optode arrangement",
-  :status :granted,
-  :id "US4215940",
-  :sourcing :authoritative,
-  :filing-year 1977,
-  :assignee
-  :max-planck-gesellschaft-zur-foerderung-der-wissenschaften-ev,
-  :grant-year 1980,
-  :cites ["US4003707" "US4022529"],
-  :term-years 20,
-  :open-license :none}
- {:assignees
-  [:institut-national-de-la-sante-et-de-la-recherche-medicale-inserm],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US4217338/en",
-  :title
-  "Novel supports carrying side chains, processes for obtaining these supports, process for attaching organic compounds having carbohydrate residues on said supports, products and reagents resulting from said _chemical fixation",
-  :status :granted,
-  :id "US4217338",
-  :sourcing :authoritative,
-  :filing-year 1976,
-  :assignee
-  :institut-national-de-la-sante-et-de-la-recherche-medicale-inserm,
-  :grant-year 1980,
-  :cites
-  ["US3505785"
-   "US3519538"
-   "US3553310"
-   "US3853987"
-   "US3857931"
-   "US3947352"
-   "US3956113"
-   "US3970521"
-   "US4001583"
-   "US4081245"
-   "US4081246"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:rohm-and-haas],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US4217421/en",
-  :title
-  "Anion exchange resins prepared from crosslinked polystyrenesulfonylchloride",
-  :status :granted,
-  :id "US4217421",
-  :sourcing :authoritative,
-  :filing-year 1978,
-  :assignee :rohm-and-haas,
-  :grant-year 1980,
-  :cites ["US2778813" "US2867611" "US2906715" "US3128257" "US3133030"],
-  :term-years 20,
-  :open-license :none}
- {:jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US4218539/en",
-  :title "Enzyme conjugates and method of preparation and use",
-  :status :granted,
-  :id "US4218539",
-  :sourcing :authoritative,
-  :filing-year 1978,
-  :assignee :unassigned,
-  :grant-year 1980,
-  :cites ["US4144131"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:ei-du-pont-de-nemours-and],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US4219335/en",
-  :title "Immunochemical testing using tagged reagents",
-  :status :granted,
-  :id "US4219335",
-  :sourcing :authoritative,
-  :filing-year 1978,
-  :assignee :ei-du-pont-de-nemours-and,
-  :grant-year 1980,
-  :cites
-  ["FR2327547A1"
-   "US3074853"
-   "US3470067"
-   "US3826619"
-   "US3853467"
-   "US3853987"
-   "US3904367"
-   "US3926564"
-   "US3933997"
-   "US3951605"
-   "US3970518"
-   "US3979184"
-   "US3981776"
-   "US3985608"
-   "US4011308"
-   "US4018886"
-   "US4020151"
-   "US4022577"
-   "US4041146"
-   "US4054646"
-   "US4067959"
-   "US4087248"],
   :term-years 20,
   :open-license :none}]
