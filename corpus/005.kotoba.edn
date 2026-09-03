@@ -1,4 +1,287 @@
-[{:assignees [:ohio-state-university],
+[{:assignees [:sandoz],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US4184917/en",
+  :title "Process for producing a structurally modified interferon",
+  :status :granted,
+  :id "US4184917",
+  :sourcing :authoritative,
+  :filing-year 1977,
+  :assignee :sandoz,
+  :grant-year 1980,
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:government-of-the-united-states-of-america],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US4184922/en",
+  :title
+  "Dual circuit, woven artificial capillary bundle for cell culture",
+  :status :granted,
+  :id "US4184922",
+  :sourcing :authoritative,
+  :filing-year 1977,
+  :assignee :government-of-the-united-states-of-america,
+  :grant-year 1980,
+  :cites
+  ["US3732149"
+   "US3740321"
+   "US3821087"
+   "US3827943"
+   "US3843454"
+   "US3847749"
+   "US3853712"
+   "US3883393"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:mochida-pharmaceutical],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US4185084/en",
+  :title
+  "Immunochemical measuring method using second antigenic substance",
+  :status :granted,
+  :id "US4185084",
+  :sourcing :authoritative,
+  :filing-year 1977,
+  :assignee :mochida-pharmaceutical,
+  :grant-year 1980,
+  :cites ["US3935074" "US3940475" "US3949064"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:canon],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US4189232/en",
+  :title "Range detecting method and apparatus",
+  :status :granted,
+  :id "US4189232",
+  :sourcing :authoritative,
+  :filing-year 1978,
+  :assignee :canon,
+  :grant-year 1980,
+  :cites ["US3898676" "US3945023" "US4004852"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:research],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US4190495/en",
+  :title
+  "Modified microorganisms and method of preparing and using same",
+  :status :granted,
+  :id "US4190495",
+  :sourcing :authoritative,
+  :filing-year 1976,
+  :assignee :research,
+  :grant-year 1980,
+  :term-years 20,
+  :open-license :none}
+ {:jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US4192748/en",
+  :title "Dialysis apparatus with selective chemical activity",
+  :status :granted,
+  :id "US4192748",
+  :sourcing :authoritative,
+  :filing-year 1976,
+  :assignee :unassigned,
+  :grant-year 1980,
+  :cites
+  ["US3503877"
+   "US3522346"
+   "US3579441"
+   "US3608729"
+   "US3619423"
+   "US3645852"
+   "US3703959"
+   "US3880760"
+   "US3888250"
+   "US4061141"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:institut-pasteur],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US4193982/en",
+  :title
+  "Process for coupling biological substances by covalent bonds",
+  :status :granted,
+  :id "US4193982",
+  :sourcing :authoritative,
+  :filing-year 1976,
+  :assignee :institut-pasteur,
+  :grant-year 1980,
+  :cites ["GB1257263A" "US3322634"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:syva],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US4193983/en",
+  :title
+  "Labeled liposome particle compositions and immunoassays therewith",
+  :status :granted,
+  :id "US4193983",
+  :sourcing :authoritative,
+  :filing-year 1978,
+  :assignee :syva,
+  :grant-year 1980,
+  :cites
+  ["US3849546"
+   "US3882224"
+   "US3887698"
+   "US3949065"
+   "US3996345"
+   "US4104029"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:wistar-institute-of-anatomy-and-biology],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US4196265/en",
+  :title "Method of producing antibodies",
+  :status :granted,
+  :id "US4196265",
+  :sourcing :authoritative,
+  :filing-year 1978,
+  :assignee :wistar-institute-of-anatomy-and-biology,
+  :grant-year 1980,
+  :cites ["GB1300391A" "US2768114"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:massachusetts-institute-of-technology],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US4197369/en",
+  :title "Method for measuring reactant concentrations and quantities",
+  :status :granted,
+  :id "US4197369",
+  :sourcing :authoritative,
+  :filing-year 1978,
+  :assignee :massachusetts-institute-of-technology,
+  :grant-year 1980,
+  :cites ["US3700562" "US3948731"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:snamprogetti-spa],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US4199498/en",
+  :title "Macromolecularized adenine derivatives",
+  :status :granted,
+  :id "US4199498",
+  :sourcing :authoritative,
+  :filing-year 1978,
+  :assignee :snamprogetti-spa,
+  :grant-year 1980,
+  :cites ["US4088639"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:syva],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US4199559/en",
+  :title
+  "Fluorescence quenching with immunological pairs in immunoassays",
+  :status :granted,
+  :id "US4199559",
+  :sourcing :authoritative,
+  :filing-year 1977,
+  :assignee :syva,
+  :grant-year 1980,
+  :cites ["US3899298" "US3996345"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:bard-laboratories],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US4199649/en",
+  :title "Amorphous monomolecular surface coatings",
+  :status :granted,
+  :id "US4199649",
+  :sourcing :authoritative,
+  :filing-year 1978,
+  :assignee :bard-laboratories,
+  :grant-year 1980,
+  :cites
+  ["US3115424"
+   "US3455736"
+   "US3628996"
+   "US3873499"
+   "US3896254"
+   "US3916035"
+   "US3942982"
+   "US4001870"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:government-of-the-united-states-of-america],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US4200110/en",
+  :title "Fiber optic pH probe",
+  :status :granted,
+  :id "US4200110",
+  :sourcing :authoritative,
+  :filing-year 1977,
+  :assignee :government-of-the-united-states-of-america,
+  :grant-year 1980,
+  :cites
+  ["GB770889A"
+   "US2084399"
+   "US3164663"
+   "US3183208"
+   "US3787119"
+   "US3814081"
+   "US4016133"
+   "US4016863"
+   "US4033330"
+   "US4041932"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:mochida-pharmaceutical],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US4200436/en",
+  :title "Immunochemical measuring process",
+  :status :granted,
+  :id "US4200436",
+  :sourcing :authoritative,
+  :filing-year 1977,
+  :assignee :mochida-pharmaceutical,
+  :grant-year 1980,
+  :cites ["US3654090" "US3992516" "US4002532" "US4067959"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:becton-dickinson-and],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US4200625/en",
+  :title "Immobilized binder for automated assay",
+  :status :granted,
+  :id "US4200625",
+  :sourcing :authoritative,
+  :filing-year 1978,
+  :assignee :becton-dickinson-and,
+  :grant-year 1980,
+  :cites ["US3896217" "US4039652" "US4125375" "US4128628"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:millipore],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US4200690/en",
+  :title "Immunoassay with membrane immobilized antibody",
+  :status :granted,
+  :id "US4200690",
+  :sourcing :authoritative,
+  :filing-year 1978,
+  :assignee :millipore,
+  :grant-year 1980,
+  :cites ["US3839153" "US3951748" "US4066512"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:ohio-state-university],
   :jurisdiction :us,
   :field "UNKNOWN",
   :source "https://patents.google.com/patent/US4201770/en",
@@ -9562,161 +9845,5 @@
   :assignee :ishihara-sangyo-kaisha,
   :cites
   ["JP2001139875A" "JP2002020107A" "JP2002121462A" "JP2004075735A"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:kansai-paint],
-  :jurisdiction :wo,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/WO2006009219A1/en",
-  :title
-  "Thermosetting water-based coating composition and method of forming coating film",
-  :status :pending,
-  :id "WO2006009219A1",
-  :sourcing :authoritative,
-  :filing-year 2005,
-  :assignee :kansai-paint,
-  :cites
-  ["JP2002179988A"
-   "JP2002273332A"
-   "JP2003053255A"
-   "JP2003117481A"
-   "JP2004051784A"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:kansai-paint],
-  :jurisdiction :wo,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/WO2006019171A1/en",
-  :title "Water-based primer composition",
-  :status :pending,
-  :id "WO2006019171A1",
-  :sourcing :authoritative,
-  :filing-year 2005,
-  :assignee :kansai-paint,
-  :cites
-  ["JP2004018635A"
-   "JP2004051808A"
-   "JP2004115712A"
-   "JP2004156029A"
-   "JP2004331911A"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:kansai-paint],
-  :jurisdiction :wo,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/WO2007119760A1/en",
-  :title "Aqueous primer composition",
-  :status :pending,
-  :id "WO2007119760A1",
-  :sourcing :authoritative,
-  :filing-year 2007,
-  :assignee :kansai-paint,
-  :cites ["JP2005112953A" "JP2005126615A" "WO2005012449A1"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:kansai-paint],
-  :jurisdiction :wo,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/WO2007119762A1/en",
-  :title "Aqueous coating composition",
-  :status :pending,
-  :id "WO2007119762A1",
-  :sourcing :authoritative,
-  :filing-year 2007,
-  :assignee :kansai-paint,
-  :cites
-  ["JP2000154204A" "JP2005343966A" "JP2006176618A" "WO2006009219A1"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:microsoft],
-  :jurisdiction :wo,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/WO2010062607A2/en",
-  :title "Surfacing and management of window-specific controls",
-  :status :pending,
-  :id "WO2010062607A2",
-  :sourcing :authoritative,
-  :filing-year 2009,
-  :assignee :microsoft,
-  :term-years 20,
-  :open-license :none}
- {:assignees [:asahi-kasei-chemicals],
-  :jurisdiction :wo,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/WO2011096559A1/en",
-  :title
-  "Block polyisocyanate composition and coating composition containing same",
-  :status :pending,
-  :id "WO2011096559A1",
-  :sourcing :authoritative,
-  :filing-year 2011,
-  :assignee :asahi-kasei-chemicals,
-  :cites
-  ["EP0096210A1"
-   "EP0159117B1"
-   "EP0600314A1"
-   "JP2002521541A"
-   "JP2004528415A"
-   "JP2009155408A"
-   "JP2009155409A"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:kansai-paint],
-  :jurisdiction :wo,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/WO2012137881A1/en",
-  :title "Blocked polyisocyanate compound",
-  :status :pending,
-  :id "WO2012137881A1",
-  :sourcing :authoritative,
-  :filing-year 2012,
-  :assignee :kansai-paint,
-  :cites
-  ["JP2000290493A"
-   "JP2000327647A"
-   "JP2002322238A"
-   "JP2004026958A"
-   "JP2006160936A"
-   "JP2009155409A"
-   "JP2009191127A"
-   "WO2011096559A1"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:kansai-paint],
-  :jurisdiction :wo,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/WO2013151050A1/en",
-  :title "Aqueous paint composition and method for forming coating",
-  :status :pending,
-  :id "WO2013151050A1",
-  :sourcing :authoritative,
-  :filing-year 2013,
-  :assignee :kansai-paint,
-  :cites
-  ["JP2001205175A"
-   "JP2002153806A"
-   "JP2002322238A"
-   "JP2003105258A"
-   "JP2004026958A"
-   "JP2004358462A"
-   "JP2006056973A"
-   "JP2009155409A"
-   "JP2011016957A"
-   "JP2011506620A"
-   "WO2004061025A1"
-   "WO2012137881A1"
-   "WO2012137884A1"],
-  :term-years 20,
-  :open-license :none}
- {:jurisdiction :wo,
-  :essentiality 0.65,
-  :field "H01M",
-  :title "Solid-state battery electrolyte composition",
-  :status :pending,
-  :id "WO2020100000A1",
-  :sourcing :representative,
-  :filing-year 2019,
-  :assignee :toyota,
-  :grant-year nil,
   :term-years 20,
   :open-license :none}]
