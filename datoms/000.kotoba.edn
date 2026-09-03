@@ -388,6 +388,43 @@
   ":hirameki/source"
   "https://patents.google.com/patent/CA1107644A/en"]
  [":db/add"
+  "hirameki-patent:CA458647A"
+  ":hirameki.patent/title"
+  "Polymerization of unsaturated compounds"]
+ [":db/add"
+  "hirameki-patent:CA458647A"
+  ":hirameki.patent/jurisdiction"
+  ":ca"]
+ [":db/add"
+  "hirameki-patent:CA458647A"
+  ":hirameki.patent/field"
+  "UNKNOWN"]
+ [":db/add"
+  "hirameki-patent:CA458647A"
+  ":hirameki.patent/assignee"
+  ":shell-development"]
+ [":db/add"
+  "hirameki-patent:CA458647A"
+  ":hirameki.patent/status"
+  ":granted"]
+ [":db/add"
+  "hirameki-patent:CA458647A"
+  ":hirameki.patent/open-license"
+  ":none"]
+ [":db/add"
+  "hirameki-patent:CA458647A"
+  ":hirameki.obs/release-status"
+  ":in-force"]
+ [":db/add"
+  "hirameki-patent:CA458647A"
+  ":hirameki/sourcing"
+  ":authoritative"]
+ [":db/add" "hirameki-patent:CA458647A" ":hirameki/derived" true]
+ [":db/add"
+  "hirameki-patent:CA458647A"
+  ":hirameki/source"
+  "https://patents.google.com/patent/CA458647A/en"]
+ [":db/add"
   "hirameki-patent:CA470229A"
   ":hirameki.patent/title"
   "Gravel pack washing assemblies"]
@@ -9894,41 +9931,4 @@
   "hirameki-patent:GB1235686A"
   ":hirameki/source"
   "https://patents.google.com/patent/GB1235686A/en"]
- [":db/add" "hirameki-patent:GB1257263A" ":hirameki.patent/title" ""]
- [":db/add"
-  "hirameki-patent:GB1257263A"
-  ":hirameki.patent/jurisdiction"
-  ":gb"]
- [":db/add"
-  "hirameki-patent:GB1257263A"
-  ":hirameki.patent/field"
-  "UNKNOWN"]
- [":db/add"
-  "hirameki-patent:GB1257263A"
-  ":hirameki.patent/assignee"
-  ":unassigned"]
- [":db/add"
-  "hirameki-patent:GB1257263A"
-  ":hirameki.patent/status"
-  ":pending"]
- [":db/add"
-  "hirameki-patent:GB1257263A"
-  ":hirameki.patent/open-license"
-  ":none"]
- [":db/add"
-  "hirameki-patent:GB1257263A"
-  ":hirameki.obs/release-status"
-  ":pending"]
- [":db/add"
-  "hirameki-patent:GB1257263A"
-  ":hirameki/sourcing"
-  ":authoritative"]
- [":db/add" "hirameki-patent:GB1257263A" ":hirameki/derived" true]
- [":db/add"
-  "hirameki-patent:GB1257263A"
-  ":hirameki.obs/years-to-expiry"
-  -37]
- [":db/add"
-  "hirameki-patent:GB1257263A"
-  ":hirameki/source"
-  "https://patents.google.com/patent/GB1257263A/en"]]
+ [":db/add" "hirameki-patent:GB1257263A" ":hirameki.patent/title" ""]]

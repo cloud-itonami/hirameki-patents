@@ -1,4 +1,340 @@
-[{:assignees [:dynatech-laboratories],
+[{:assignees [:syva],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US4220450/en",
+  :title "Chemically induced fluorescence immunoassay",
+  :status :granted,
+  :id "US4220450",
+  :sourcing :authoritative,
+  :filing-year 1978,
+  :assignee :syva,
+  :grant-year 1980,
+  :cites
+  ["US3575812"
+   "US3660240"
+   "US3852157"
+   "US3996345"
+   "US3998943"
+   "US3999298"
+   "US4043872"
+   "US4104029"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:syva],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US4220722/en",
+  :title
+  "Method for conjugating to polyamino compounds employing haloacyl groups and compositions prepared thereby",
+  :status :granted,
+  :id "US4220722",
+  :sourcing :authoritative,
+  :filing-year 1978,
+  :assignee :syva,
+  :grant-year 1980,
+  :cites ["US4067774" "US4100268" "US4144131"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:scripps-clinic-and-research-foundation],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US4222907/en",
+  :title "Induction of immunological tolerance",
+  :status :granted,
+  :id "US4222907",
+  :sourcing :authoritative,
+  :filing-year 1978,
+  :assignee :scripps-clinic-and-research-foundation,
+  :grant-year 1980,
+  :cites ["US3794630"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:university-of-illinois-foundation],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US4223005/en",
+  :title "Antibody coated bacteria",
+  :status :granted,
+  :id "US4223005",
+  :sourcing :authoritative,
+  :filing-year 1979,
+  :assignee :university-of-illinois-foundation,
+  :grant-year 1980,
+  :cites ["US3553310" "US3639558" "US3873684" "US3882225" "US3925018"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:wisconsin-alumni-research-foundation],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US4223131/en",
+  :title "25-Hydroxycholecalciferol-26,23-lactone",
+  :status :granted,
+  :id "US4223131",
+  :sourcing :authoritative,
+  :filing-year 1979,
+  :assignee :wisconsin-alumni-research-foundation,
+  :grant-year 1980,
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:abbott-laboratories],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US4224408/en",
+  :title "Deoxyribonucleic acid synthesis using binding protein",
+  :status :granted,
+  :id "US4224408",
+  :sourcing :authoritative,
+  :filing-year 1978,
+  :assignee :abbott-laboratories,
+  :grant-year 1980,
+  :term-years 20,
+  :open-license :none}
+ {:jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US4225229/en",
+  :title "Apparatus for measuring cytological properties",
+  :status :granted,
+  :id "US4225229",
+  :sourcing :authoritative,
+  :filing-year 1978,
+  :assignee :unassigned,
+  :grant-year 1980,
+  :cites
+  ["DE7333009U"
+   "US3740665"
+   "US3788744"
+   "US3811777"
+   "US3897154"
+   "US3902807"
+   "US3916205"
+   "US3984307"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:gruppo-lepetit-spa],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US4225574/en",
+  :title
+  "Method for determination of free hormones in biologic fluids",
+  :status :granted,
+  :id "US4225574",
+  :sourcing :authoritative,
+  :filing-year 1978,
+  :assignee :gruppo-lepetit-spa,
+  :grant-year 1980,
+  :cites ["US4020151" "US4046870"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:smithkline-instrument],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US4225784/en",
+  :title
+  "Covalently bound biological substances to plastic materials and use in radioassay",
+  :status :granted,
+  :id "US4225784",
+  :sourcing :authoritative,
+  :filing-year 1976,
+  :assignee :smithkline-instrument,
+  :grant-year 1980,
+  :cites
+  ["GB1257263A"
+   "US3414383"
+   "US3505019"
+   "US3645852"
+   "US3646346"
+   "US3666854"
+   "US3826619"
+   "US3836433"
+   "US3941876"
+   "US3949064"
+   "US3951748"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:calbiochem-behring],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US4228237/en",
+  :title "Methods for the detection and determination of ligands",
+  :status :granted,
+  :id "US4228237",
+  :sourcing :authoritative,
+  :filing-year 1978,
+  :assignee :calbiochem-behring,
+  :grant-year 1980,
+  :cites ["BE841179A" "US4002532" "US4016043" "US4134792"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:allor-foundation],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US4228238/en",
+  :title
+  "Method of laboratory testing in water-based culture media for zones of inhibition",
+  :status :granted,
+  :id "US4228238",
+  :sourcing :authoritative,
+  :filing-year 1979,
+  :assignee :allor-foundation,
+  :grant-year 1980,
+  :cites ["US3126325" "US3597321" "US3992523" "US4168206"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:uop],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US4229536/en",
+  :title "Process for preparing immobilized enzymes",
+  :status :granted,
+  :id "US4229536",
+  :sourcing :authoritative,
+  :filing-year 1978,
+  :assignee :uop,
+  :grant-year 1980,
+  :cites
+  ["US3519538"
+   "US3669841"
+   "US3705084"
+   "US3715278"
+   "US3783101"
+   "US3796634"
+   "US3802997"
+   "US3821083"
+   "US3930950"
+   "US4071409"
+   "US4072566"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:new-york-university-nyu],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US4229537/en",
+  :title
+  "Preparation of trichloro-s-triazine activated supports for coupling ligands",
+  :status :granted,
+  :id "US4229537",
+  :sourcing :authoritative,
+  :filing-year 1978,
+  :assignee :new-york-university-nyu,
+  :grant-year 1980,
+  :cites
+  ["US3619371"
+   "US3674767"
+   "US3788948"
+   "US3824150"
+   "US3876501"
+   "US4007089"
+   "US4119494"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:us-department-of-energy],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US4230633/en",
+  :title "Novel Fischer-Tropsch catalysts",
+  :status :granted,
+  :id "US4230633",
+  :sourcing :authoritative,
+  :filing-year 1979,
+  :assignee :us-department-of-energy,
+  :grant-year 1980,
+  :cites ["US4022810" "US4032556" "US4096163" "US4132672"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:miles-laboratories],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US4230797/en",
+  :title
+  "Heterogenous specific binding assay employing a coenzyme as label",
+  :status :granted,
+  :id "US4230797",
+  :sourcing :authoritative,
+  :filing-year 1978,
+  :assignee :miles-laboratories,
+  :grant-year 1980,
+  :cites ["US3659104" "US3817837" "US3839153" "US3880934" "US3998943"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:pharmacia-diagnostics],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US4231999/en",
+  :title
+  "Method in assaying methods involving biospecific affinity reactions and reagent for use in said method",
+  :status :granted,
+  :id "US4231999",
+  :sourcing :authoritative,
+  :filing-year 1978,
+  :assignee :pharmacia-diagnostics,
+  :grant-year 1980,
+  :cites ["US3896217" "US4041146" "US4108975" "US4108976"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:pharmacia-diagnostics],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US4232119/en",
+  :title "Reagent for use in immunochemical assay methods",
+  :status :granted,
+  :id "US4232119",
+  :sourcing :authoritative,
+  :filing-year 1978,
+  :assignee :pharmacia-diagnostics,
+  :grant-year 1980,
+  :cites ["US4002532" "US4004979" "US4048416"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:research],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US4234561/en",
+  :title "Antigen for early pregnancy test and contraceptive vaccine",
+  :status :granted,
+  :id "US4234561",
+  :sourcing :authoritative,
+  :filing-year 1978,
+  :assignee :research,
+  :grant-year 1980,
+  :cites ["GB1473601A" "US3903262" "US3992514" "US4016250"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:syva],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US4235869/en",
+  :title "Assay employing a labeled Fab-fragment ligand complex",
+  :status :granted,
+  :id "US4235869",
+  :sourcing :authoritative,
+  :filing-year 1978,
+  :assignee :syva,
+  :grant-year 1980,
+  :cites ["US3935074" "US3996345" "US3998943" "US4104029"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:medical-college-of-wisconsin],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US4235960/en",
+  :title "Competitive enzyme-linked immunoassay",
+  :status :granted,
+  :id "US4235960",
+  :sourcing :authoritative,
+  :filing-year 1977,
+  :assignee :medical-college-of-wisconsin,
+  :grant-year 1980,
+  :cites
+  ["US3773625"
+   "US3879262"
+   "US4002532"
+   "US4021534"
+   "US4024235"
+   "US4034074"
+   "US4048298"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:dynatech-laboratories],
   :jurisdiction :us,
   :field "UNKNOWN",
   :source "https://patents.google.com/patent/US4235971/en",

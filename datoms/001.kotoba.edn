@@ -1,4 +1,41 @@
 [[":db/add"
+  "hirameki-patent:GB1257263A"
+  ":hirameki.patent/jurisdiction"
+  ":gb"]
+ [":db/add"
+  "hirameki-patent:GB1257263A"
+  ":hirameki.patent/field"
+  "UNKNOWN"]
+ [":db/add"
+  "hirameki-patent:GB1257263A"
+  ":hirameki.patent/assignee"
+  ":unassigned"]
+ [":db/add"
+  "hirameki-patent:GB1257263A"
+  ":hirameki.patent/status"
+  ":pending"]
+ [":db/add"
+  "hirameki-patent:GB1257263A"
+  ":hirameki.patent/open-license"
+  ":none"]
+ [":db/add"
+  "hirameki-patent:GB1257263A"
+  ":hirameki.obs/release-status"
+  ":pending"]
+ [":db/add"
+  "hirameki-patent:GB1257263A"
+  ":hirameki/sourcing"
+  ":authoritative"]
+ [":db/add" "hirameki-patent:GB1257263A" ":hirameki/derived" true]
+ [":db/add"
+  "hirameki-patent:GB1257263A"
+  ":hirameki.obs/years-to-expiry"
+  -37]
+ [":db/add"
+  "hirameki-patent:GB1257263A"
+  ":hirameki/source"
+  "https://patents.google.com/patent/GB1257263A/en"]
+ [":db/add"
   "hirameki-patent:GB1263408A"
   ":hirameki.patent/title"
   "Ara-cytidine derivatives and the manufacture thereof"]
@@ -2663,6 +2700,47 @@
   "hirameki-patent:GB540876A"
   ":hirameki/source"
   "https://patents.google.com/patent/GB540876A/en"]
+ [":db/add"
+  "hirameki-patent:GB590680A"
+  ":hirameki.patent/title"
+  "Improvements in and relating to coating compositions"]
+ [":db/add"
+  "hirameki-patent:GB590680A"
+  ":hirameki.patent/jurisdiction"
+  ":gb"]
+ [":db/add"
+  "hirameki-patent:GB590680A"
+  ":hirameki.patent/field"
+  "UNKNOWN"]
+ [":db/add"
+  "hirameki-patent:GB590680A"
+  ":hirameki.patent/assignee"
+  ":british-thomson-houston"]
+ [":db/add"
+  "hirameki-patent:GB590680A"
+  ":hirameki.patent/status"
+  ":pending"]
+ [":db/add"
+  "hirameki-patent:GB590680A"
+  ":hirameki.patent/open-license"
+  ":none"]
+ [":db/add"
+  "hirameki-patent:GB590680A"
+  ":hirameki.obs/release-status"
+  ":pending"]
+ [":db/add"
+  "hirameki-patent:GB590680A"
+  ":hirameki/sourcing"
+  ":authoritative"]
+ [":db/add" "hirameki-patent:GB590680A" ":hirameki/derived" true]
+ [":db/add"
+  "hirameki-patent:GB590680A"
+  ":hirameki.obs/years-to-expiry"
+  -63]
+ [":db/add"
+  "hirameki-patent:GB590680A"
+  ":hirameki/source"
+  "https://patents.google.com/patent/GB590680A/en"]
  [":db/add"
   "hirameki-patent:GB600687A"
   ":hirameki.patent/title"
@@ -9915,77 +9993,4 @@
  [":db/add"
   "hirameki-patent:JP2005343153A"
   ":hirameki.obs/years-to-expiry"
-  -2]
- [":db/add"
-  "hirameki-patent:JP2005343153A"
-  ":hirameki/source"
-  "https://patents.google.com/patent/JP2005343153A/en"]
- [":db/add"
-  "hirameki-patent:JP2005343966A"
-  ":hirameki.patent/title"
-  "Manufacturing method of aqueous resin dispersion"]
- [":db/add"
-  "hirameki-patent:JP2005343966A"
-  ":hirameki.patent/jurisdiction"
-  ":jp"]
- [":db/add"
-  "hirameki-patent:JP2005343966A"
-  ":hirameki.patent/field"
-  "UNKNOWN"]
- [":db/add"
-  "hirameki-patent:JP2005343966A"
-  ":hirameki.patent/assignee"
-  ":kansai-paint"]
- [":db/add"
-  "hirameki-patent:JP2005343966A"
-  ":hirameki.patent/status"
-  ":pending"]
- [":db/add"
-  "hirameki-patent:JP2005343966A"
-  ":hirameki.patent/open-license"
-  ":none"]
- [":db/add"
-  "hirameki-patent:JP2005343966A"
-  ":hirameki.obs/release-status"
-  ":pending"]
- [":db/add"
-  "hirameki-patent:JP2005343966A"
-  ":hirameki/sourcing"
-  ":authoritative"]
- [":db/add" "hirameki-patent:JP2005343966A" ":hirameki/derived" true]
- [":db/add"
-  "hirameki-patent:JP2005343966A"
-  ":hirameki.obs/years-to-expiry"
-  -2]
- [":db/add"
-  "hirameki-patent:JP2005343966A"
-  ":hirameki/source"
-  "https://patents.google.com/patent/JP2005343966A/en"]
- [":db/add"
-  "hirameki-patent:JP2006037294A"
-  ":hirameki.patent/title"
-  "Manufacturing method of fiber composite material and fiber composite material"]
- [":db/add"
-  "hirameki-patent:JP2006037294A"
-  ":hirameki.patent/jurisdiction"
-  ":jp"]
- [":db/add"
-  "hirameki-patent:JP2006037294A"
-  ":hirameki.patent/field"
-  "UNKNOWN"]
- [":db/add"
-  "hirameki-patent:JP2006037294A"
-  ":hirameki.patent/assignee"
-  ":nicca-chemical"]
- [":db/add"
-  "hirameki-patent:JP2006037294A"
-  ":hirameki.patent/status"
-  ":pending"]
- [":db/add"
-  "hirameki-patent:JP2006037294A"
-  ":hirameki.patent/open-license"
-  ":none"]
- [":db/add"
-  "hirameki-patent:JP2006037294A"
-  ":hirameki.obs/release-status"
-  ":pending"]]
+  -2]]

@@ -1,4 +1,245 @@
-[{:assignees [:unicam-instruments],
+[{:assignees [:champion-paper-and-fibre],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2676563/en",
+  :title "Apparatus for coating paper",
+  :status :granted,
+  :id "US2676563",
+  :sourcing :authoritative,
+  :filing-year 1949,
+  :assignee :champion-paper-and-fibre,
+  :grant-year 1954,
+  :cites
+  ["US1312034"
+   "US1661174"
+   "US1921369"
+   "US2214787"
+   "US2243604"
+   "US2334102"
+   "US2369378"
+   "US2398844"
+   "US2406057"
+   "US2560572"],
+  :term-years 20,
+  :open-license :none}
+ {:jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2678729/en",
+  :title "Automatically operative magnetic separator",
+  :status :granted,
+  :id "US2678729",
+  :sourcing :authoritative,
+  :filing-year 1951,
+  :assignee :unassigned,
+  :grant-year 1954,
+  :cites
+  ["GB194107A"
+   "US1136215"
+   "US1148990"
+   "US1527070"
+   "US2149764"
+   "US2466839"
+   "US467645"
+   "US792776"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:john-waldron],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2679231/en",
+  :title "Web coating apparatus",
+  :status :granted,
+  :id "US2679231",
+  :sourcing :authoritative,
+  :filing-year 1951,
+  :assignee :john-waldron,
+  :grant-year 1954,
+  :cites
+  ["US1899449"
+   "US2135406"
+   "US2139628"
+   "US2176093"
+   "US2511415"
+   "US2545266"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:jr-geigy],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2679508/en",
+  :title "Phosphoric acid esters and their production",
+  :status :granted,
+  :id "US2679508",
+  :sourcing :authoritative,
+  :filing-year 1951,
+  :assignee :jr-geigy,
+  :grant-year 1954,
+  :cites ["US2318296"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:general-electric],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2681571/en",
+  :title "Electrical moisture indicator",
+  :status :granted,
+  :id "US2681571",
+  :sourcing :authoritative,
+  :filing-year 1949,
+  :assignee :general-electric,
+  :grant-year 1954,
+  :cites
+  ["GB186052A"
+   "GB437821A"
+   "US1395282"
+   "US2047638"
+   "US2265920"
+   "US2506478"
+   "US336773"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:shell-development],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2682514/en",
+  :title
+  "Compositions containing glycidyl polyether of a polyhydric phenol and an epoxidizedester",
+  :status :granted,
+  :id "US2682514",
+  :sourcing :authoritative,
+  :filing-year 1952,
+  :assignee :shell-development,
+  :grant-year 1954,
+  :cites ["US2485160" "US2528932"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:shell-development],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2682515/en",
+  :title "Adhesive composition containing polyepoxide materials",
+  :status :granted,
+  :id "US2682515",
+  :sourcing :authoritative,
+  :filing-year 1952,
+  :assignee :shell-development,
+  :grant-year 1954,
+  :cites ["US2575558" "US2602785"],
+  :term-years 20,
+  :open-license :none}
+ {:jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2683669/en",
+  :title "Conductive plastics and method of making the same",
+  :status :granted,
+  :id "US2683669",
+  :sourcing :authoritative,
+  :filing-year 1950,
+  :assignee :unassigned,
+  :grant-year 1954,
+  :cites
+  ["US1299846"
+   "US2020085"
+   "US2120549"
+   "US2151083"
+   "US2406345"
+   "US2472801"
+   "US2509652"
+   "US2526059"
+   "US2543536"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:warren-sd],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2685538/en",
+  :title "Coated paper and process of making",
+  :status :granted,
+  :id "US2685538",
+  :sourcing :authoritative,
+  :filing-year 1946,
+  :assignee :warren-sd,
+  :grant-year 1954,
+  :cites
+  ["GB480679A"
+   "US1982018"
+   "US2204520"
+   "US2287348"
+   "US2317725"
+   "US2343093"
+   "US2394616"
+   "US2395992"
+   "US2416232"
+   "US2428716"
+   "US2431745"
+   "US693189"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:warren-sd],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2685571/en",
+  :title "Mineral-coated paper and composition therefor",
+  :status :granted,
+  :id "US2685571",
+  :sourcing :authoritative,
+  :filing-year 1949,
+  :assignee :warren-sd,
+  :grant-year 1954,
+  :cites
+  ["US1938731"
+   "US1982018"
+   "US2214565"
+   "US2287348"
+   "US2364847"
+   "US2370057"
+   "US2389796"
+   "US2395992"
+   "US2416232"
+   "US2444094"
+   "US2465295"
+   "US2537114"
+   "US2583274"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:rca],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2686275/en",
+  :title
+  "Art of storing or delaying the transmission of electrical signals",
+  :status :granted,
+  :id "US2686275",
+  :sourcing :authoritative,
+  :filing-year 1951,
+  :assignee :rca,
+  :grant-year 1954,
+  :cites
+  ["US1659636"
+   "US2004176"
+   "US2030492"
+   "US2050411"
+   "US2143095"
+   "US2161643"
+   "US2213070"
+   "US2258294"
+   "US2577628"],
+  :term-years 20,
+  :open-license :none}
+ {:jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2688306/en",
+  :title "Apparatus for forming an adhesive film",
+  :status :granted,
+  :id "US2688306",
+  :sourcing :authoritative,
+  :filing-year 1951,
+  :assignee :unassigned,
+  :grant-year 1954,
+  :cites ["US1223516" "US2236239" "US2424323" "US2542804"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:unicam-instruments],
   :jurisdiction :us,
   :field "UNKNOWN",
   :source "https://patents.google.com/patent/US2690093/en",
@@ -327,6 +568,38 @@
    "US2493745"
    "US2526636"
    "US2609688"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:owens-corning-fiberglas],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2702261/en",
+  :title "Method for processing mineral fibers",
+  :status :granted,
+  :id "US2702261",
+  :sourcing :authoritative,
+  :filing-year 1950,
+  :assignee :owens-corning-fiberglas,
+  :grant-year 1955,
+  :cites
+  ["FR896219A"
+   "GB320856A"
+   "GB384335A"
+   "NL56098C"
+   "US1336403"
+   "US1727307"
+   "US1781900"
+   "US2010078"
+   "US2057166"
+   "US2142475"
+   "US2323684"
+   "US2357392"
+   "US2438469"
+   "US2477555"
+   "US2489079"
+   "US2543101"
+   "US2577205"
+   "US2581069"],
   :term-years 20,
   :open-license :none}
  {:assignees [:general-mills],
@@ -950,6 +1223,31 @@
   :cites ["US2541167" "US2633434"],
   :term-years 20,
   :open-license :none}
+ {:assignees [:atlas-powder],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2748028/en",
+  :title "Glass fiber product and process",
+  :status :granted,
+  :id "US2748028",
+  :sourcing :authoritative,
+  :filing-year 1951,
+  :assignee :atlas-powder,
+  :grant-year 1956,
+  :cites
+  ["GB627255A"
+   "US2277049"
+   "US2288072"
+   "US2505347"
+   "US2528235"
+   "US2543101"
+   "US2550465"
+   "US2602037"
+   "US2634251"
+   "US2662069"
+   "US2662070"],
+  :term-years 20,
+  :open-license :none}
  {:assignees [:victor-chemical-works],
   :jurisdiction :us,
   :field "UNKNOWN",
@@ -1256,6 +1554,27 @@
   :assignee :unassigned,
   :grant-year 1956,
   :cites ["US2049538" "US2433478" "US2452666" "US2542133" "US961741"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:lof-glass-fibers],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2763629/en",
+  :title
+  "Product for treating glass fibers for improving the adhesion of resins thereto",
+  :status :granted,
+  :id "US2763629",
+  :sourcing :authoritative,
+  :filing-year 1952,
+  :assignee :lof-glass-fibers,
+  :grant-year 1956,
+  :cites
+  ["US2441422"
+   "US2486162"
+   "US2502286"
+   "US2574265"
+   "US2649396"
+   "US2688006"],
   :term-years 20,
   :open-license :none}
  {:assignees [:general-tire-and-rubber],
@@ -1770,6 +2089,21 @@
   :assignee :calcium-carbonate,
   :grant-year 1957,
   :cites ["US1847540" "US2034797" "US2523420"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:canadian-ingersoll-rand],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2787314/en",
+  :title
+  "Apparatus and method for forming a fiber reinforced plastic article",
+  :status :granted,
+  :id "US2787314",
+  :sourcing :authoritative,
+  :filing-year 1954,
+  :assignee :canadian-ingersoll-rand,
+  :grant-year 1957,
+  :cites ["US2571334" "US2702261"],
   :term-years 20,
   :open-license :none}
  {:jurisdiction :us,
@@ -2462,6 +2796,20 @@
   :cites ["US2174629" "US2184311" "US2702243"],
   :term-years 20,
   :open-license :none}
+ {:assignees [:fmc],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2832758/en",
+  :title "Solid prepolymers of diallyl phthalate",
+  :status :granted,
+  :id "US2832758",
+  :sourcing :authoritative,
+  :filing-year 1954,
+  :assignee :fmc,
+  :grant-year 1958,
+  :cites ["US2273891" "US2473801" "US2613201"],
+  :term-years 20,
+  :open-license :none}
  {:assignees [:phillips-petroleum],
   :jurisdiction :us,
   :field "UNKNOWN",
@@ -2722,6 +3070,29 @@
    "US2655195"
    "US2700623"
    "US862403"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:pittsburgh-plate-glass],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2855373/en",
+  :title
+  "Water dispersions of an ethylenic monomer and a polyester of an ethylenic dicarboxylic acid",
+  :status :granted,
+  :id "US2855373",
+  :sourcing :authoritative,
+  :filing-year 1952,
+  :assignee :pittsburgh-plate-glass,
+  :grant-year 1958,
+  :cites
+  ["US2166542"
+   "US2255313"
+   "US2388206"
+   "US2495640"
+   "US2531275"
+   "US2562879"
+   "US2634245"
+   "US2665263"],
   :term-years 20,
   :open-license :none}
  {:assignees [:champion-paper-and-fibre],
@@ -9522,350 +9893,5 @@
   :assignee :canadian-industries,
   :grant-year 1965,
   :cites ["GB867480A" "US2604464" "US2927095" "US3035008" "US3118853"],
-  :term-years 20,
-  :open-license :none}
- {:jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3225029/en",
-  :title
-  "Process for the preparation of nucleosides and products obtained thereby",
-  :status :granted,
-  :id "US3225029",
-  :sourcing :authoritative,
-  :filing-year 1963,
-  :assignee :unassigned,
-  :grant-year 1965,
-  :cites ["US2852505" "US3014900"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:warner-lambert-pharmaceutical],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3225645/en",
-  :title "Cuvette and supply system therefor",
-  :status :granted,
-  :id "US3225645",
-  :sourcing :authoritative,
-  :filing-year 1962,
-  :assignee :warner-lambert-pharmaceutical,
-  :grant-year 1965,
-  :cites
-  ["GB685624A"
-   "US1984296"
-   "US2806148"
-   "US2992077"
-   "US3084592"
-   "US3142719"
-   "US95061"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:wr-grace-and],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3225766/en",
-  :title
-  "Method of making absorbable surgical sutures from poly beta hydroxy acids",
-  :status :granted,
-  :id "US3225766",
-  :sourcing :authoritative,
-  :filing-year 1962,
-  :assignee :wr-grace-and,
-  :grant-year 1965,
-  :cites
-  ["US2072302"
-   "US2127903"
-   "US2428918"
-   "US2487885"
-   "US3021310"
-   "US3036959"
-   "US3044942"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:organo-cerams],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3227589/en",
-  :title "Method of chemically milling a metallic workpiece",
-  :status :granted,
-  :id "US3227589",
-  :sourcing :authoritative,
-  :filing-year 1963,
-  :assignee :organo-cerams,
-  :grant-year 1966,
-  :cites
-  ["US2430987"
-   "US2610162"
-   "US2838463"
-   "US3014883"
-   "US3029223"
-   "US3079352"
-   "US3128202"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:trw],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3228799/en",
-  :title "Biological electrical power generation",
-  :status :granted,
-  :id "US3228799",
-  :sourcing :authoritative,
-  :filing-year 1960,
-  :assignee :trw,
-  :grant-year 1966,
-  :cites ["US2497852" "US329724"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:rca],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3229218/en",
-  :title "Field-effect transistor circuit",
-  :status :granted,
-  :id "US3229218",
-  :sourcing :authoritative,
-  :filing-year 1963,
-  :assignee :rca,
-  :grant-year 1966,
-  :cites ["US2021920" "US2879344" "US2939916" "US3056888" "US3117287"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:harris-intertype],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3230088/en",
-  :title
-  "Process for preparing printing plates from photosensitized polyvinyl alcohol compositions",
-  :status :granted,
-  :id "US3230088",
-  :sourcing :authoritative,
-  :filing-year 1961,
-  :assignee :harris-intertype,
-  :grant-year 1966,
-  :cites
-  ["US1751909"
-   "US2249514"
-   "US2393821"
-   "US2604388"
-   "US2827390"
-   "US2830899"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:wacker-chemie],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3230289/en",
-  :title "Silicone treatment for paper",
-  :status :granted,
-  :id "US3230289",
-  :sourcing :authoritative,
-  :filing-year 1962,
-  :assignee :wacker-chemie,
-  :grant-year 1966,
-  :cites ["US2588367" "US2768906" "US2869722" "US3061567"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:rca],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3231380/en",
-  :title "Art of making electron-optical reticles",
-  :status :granted,
-  :id "US3231380",
-  :sourcing :authoritative,
-  :filing-year 1960,
-  :assignee :rca,
-  :grant-year 1966,
-  :cites ["FR866065A" "GB634217A" "US2539442" "US2961313" "US3070441"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:combined-locks-paper],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3231418/en",
-  :title
-  "Coating a moving paper web with a coating roller having lower peripheral speed than web",
-  :status :granted,
-  :id "US3231418",
-  :sourcing :authoritative,
-  :filing-year 1964,
-  :assignee :combined-locks-paper,
-  :grant-year 1966,
-  :cites
-  ["US1838358"
-   "US1987183"
-   "US2009631"
-   "US2257373"
-   "US2316202"
-   "US2582407"
-   "US2712508"
-   "US2772604"
-   "US2946307"
-   "US3146159"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:boehringer-mannheim],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3232710/en",
-  :title "Indicator and method for manufacturing the same",
-  :status :granted,
-  :id "US3232710",
-  :sourcing :authoritative,
-  :filing-year 1963,
-  :assignee :boehringer-mannheim,
-  :grant-year 1966,
-  :cites
-  ["GB831894A"
-   "US2229155"
-   "US2379459"
-   "US2567445"
-   "US2823984"
-   "US2838377"
-   "US2981606"
-   "US2998306"
-   "US3001915"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:purac],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3233964/en",
-  :title "Means for sterilizing liquid",
-  :status :granted,
-  :id "US3233964",
-  :sourcing :authoritative,
-  :filing-year 1962,
-  :assignee :purac,
-  :grant-year 1966,
-  :cites ["GB356783A" "US2138839" "US2219348" "US2585103"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:ortho-pharmaceutical],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3234096/en",
-  :title "Compositions and method for performing pregnancy tests",
-  :status :granted,
-  :id "US3234096",
-  :sourcing :authoritative,
-  :filing-year 1961,
-  :assignee :ortho-pharmaceutical,
-  :grant-year 1966,
-  :term-years 20,
-  :open-license :none}
- {:assignees [:imperial-chemical-industries],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3234303/en",
-  :title
-  "Continuous process for the production of methacrylate polymers",
-  :status :granted,
-  :id "US3234303",
-  :sourcing :authoritative,
-  :filing-year 1963,
-  :assignee :imperial-chemical-industries,
-  :grant-year 1966,
-  :cites ["US2426476" "US2745824" "US2769804" "US2931793"],
-  :term-years 20,
-  :open-license :none}
- {:jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3236732/en",
-  :title "Pregnancy test method and immunological indicator therefor",
-  :status :granted,
-  :id "US3236732",
-  :sourcing :authoritative,
-  :filing-year 1962,
-  :assignee :unassigned,
-  :grant-year 1966,
-  :cites ["US3088875"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:shell-oil],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3239478/en",
-  :title
-  "Block copolymer adhesive compositions and articles prepared therefrom",
-  :status :granted,
-  :id "US3239478",
-  :sourcing :authoritative,
-  :filing-year 1963,
-  :assignee :shell-oil,
-  :grant-year 1966,
-  :cites ["US2648650" "US2784165" "US2993874" "US3149182"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:lars-ljungberg-and],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3240110/en",
-  :title
-  "Apparatus for determining the losses of blood in surgical operations and deliveries",
-  :status :granted,
-  :id "US3240110",
-  :sourcing :authoritative,
-  :filing-year 1962,
-  :assignee :lars-ljungberg-and,
-  :grant-year 1966,
-  :cites
-  ["GB761980A"
-   "US2051317"
-   "US2261557"
-   "US2295366"
-   "US2386878"
-   "US264573"
-   "US2724304"
-   "US2797149"
-   "US2844066"
-   "US2980142"
-   "US3028225"
-   "US3080789"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:azoplate],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3244517/en",
-  :title "Electrophotographic process",
-  :status :granted,
-  :id "US3244517",
-  :sourcing :authoritative,
-  :filing-year 1961,
-  :assignee :azoplate,
-  :grant-year 1966,
-  :cites
-  ["BE562336A"
-   "US1587269"
-   "US1587272"
-   "US1587273"
-   "US1587274"
-   "US1777140"
-   "US1939691"
-   "US2997387"
-   "US3041165"
-   "US3081165"
-   "US3163531"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:barnes-engineering],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3244885/en",
-  :title "High resolution frequency modulated tracker",
-  :status :granted,
-  :id "US3244885",
-  :sourcing :authoritative,
-  :filing-year 1962,
-  :assignee :barnes-engineering,
-  :grant-year 1966,
-  :cites
-  ["US2490052"
-   "US2961545"
-   "US2997539"
-   "US3061730"
-   "US3091690"
-   "US3099748"],
   :term-years 20,
   :open-license :none}]

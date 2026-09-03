@@ -1,4 +1,349 @@
-[{:assignees [:mct-enterprises],
+[{:jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3225029/en",
+  :title
+  "Process for the preparation of nucleosides and products obtained thereby",
+  :status :granted,
+  :id "US3225029",
+  :sourcing :authoritative,
+  :filing-year 1963,
+  :assignee :unassigned,
+  :grant-year 1965,
+  :cites ["US2852505" "US3014900"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:warner-lambert-pharmaceutical],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3225645/en",
+  :title "Cuvette and supply system therefor",
+  :status :granted,
+  :id "US3225645",
+  :sourcing :authoritative,
+  :filing-year 1962,
+  :assignee :warner-lambert-pharmaceutical,
+  :grant-year 1965,
+  :cites
+  ["GB685624A"
+   "US1984296"
+   "US2806148"
+   "US2992077"
+   "US3084592"
+   "US3142719"
+   "US95061"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:wr-grace-and],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3225766/en",
+  :title
+  "Method of making absorbable surgical sutures from poly beta hydroxy acids",
+  :status :granted,
+  :id "US3225766",
+  :sourcing :authoritative,
+  :filing-year 1962,
+  :assignee :wr-grace-and,
+  :grant-year 1965,
+  :cites
+  ["US2072302"
+   "US2127903"
+   "US2428918"
+   "US2487885"
+   "US3021310"
+   "US3036959"
+   "US3044942"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:organo-cerams],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3227589/en",
+  :title "Method of chemically milling a metallic workpiece",
+  :status :granted,
+  :id "US3227589",
+  :sourcing :authoritative,
+  :filing-year 1963,
+  :assignee :organo-cerams,
+  :grant-year 1966,
+  :cites
+  ["US2430987"
+   "US2610162"
+   "US2838463"
+   "US3014883"
+   "US3029223"
+   "US3079352"
+   "US3128202"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:trw],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3228799/en",
+  :title "Biological electrical power generation",
+  :status :granted,
+  :id "US3228799",
+  :sourcing :authoritative,
+  :filing-year 1960,
+  :assignee :trw,
+  :grant-year 1966,
+  :cites ["US2497852" "US329724"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:rca],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3229218/en",
+  :title "Field-effect transistor circuit",
+  :status :granted,
+  :id "US3229218",
+  :sourcing :authoritative,
+  :filing-year 1963,
+  :assignee :rca,
+  :grant-year 1966,
+  :cites ["US2021920" "US2879344" "US2939916" "US3056888" "US3117287"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:harris-intertype],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3230088/en",
+  :title
+  "Process for preparing printing plates from photosensitized polyvinyl alcohol compositions",
+  :status :granted,
+  :id "US3230088",
+  :sourcing :authoritative,
+  :filing-year 1961,
+  :assignee :harris-intertype,
+  :grant-year 1966,
+  :cites
+  ["US1751909"
+   "US2249514"
+   "US2393821"
+   "US2604388"
+   "US2827390"
+   "US2830899"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:wacker-chemie],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3230289/en",
+  :title "Silicone treatment for paper",
+  :status :granted,
+  :id "US3230289",
+  :sourcing :authoritative,
+  :filing-year 1962,
+  :assignee :wacker-chemie,
+  :grant-year 1966,
+  :cites ["US2588367" "US2768906" "US2869722" "US3061567"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:rca],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3231380/en",
+  :title "Art of making electron-optical reticles",
+  :status :granted,
+  :id "US3231380",
+  :sourcing :authoritative,
+  :filing-year 1960,
+  :assignee :rca,
+  :grant-year 1966,
+  :cites ["FR866065A" "GB634217A" "US2539442" "US2961313" "US3070441"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:combined-locks-paper],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3231418/en",
+  :title
+  "Coating a moving paper web with a coating roller having lower peripheral speed than web",
+  :status :granted,
+  :id "US3231418",
+  :sourcing :authoritative,
+  :filing-year 1964,
+  :assignee :combined-locks-paper,
+  :grant-year 1966,
+  :cites
+  ["US1838358"
+   "US1987183"
+   "US2009631"
+   "US2257373"
+   "US2316202"
+   "US2582407"
+   "US2712508"
+   "US2772604"
+   "US2946307"
+   "US3146159"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:boehringer-mannheim],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3232710/en",
+  :title "Indicator and method for manufacturing the same",
+  :status :granted,
+  :id "US3232710",
+  :sourcing :authoritative,
+  :filing-year 1963,
+  :assignee :boehringer-mannheim,
+  :grant-year 1966,
+  :cites
+  ["GB831894A"
+   "US2229155"
+   "US2379459"
+   "US2567445"
+   "US2823984"
+   "US2838377"
+   "US2981606"
+   "US2998306"
+   "US3001915"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:purac],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3233964/en",
+  :title "Means for sterilizing liquid",
+  :status :granted,
+  :id "US3233964",
+  :sourcing :authoritative,
+  :filing-year 1962,
+  :assignee :purac,
+  :grant-year 1966,
+  :cites ["GB356783A" "US2138839" "US2219348" "US2585103"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:ortho-pharmaceutical],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3234096/en",
+  :title "Compositions and method for performing pregnancy tests",
+  :status :granted,
+  :id "US3234096",
+  :sourcing :authoritative,
+  :filing-year 1961,
+  :assignee :ortho-pharmaceutical,
+  :grant-year 1966,
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:imperial-chemical-industries],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3234303/en",
+  :title
+  "Continuous process for the production of methacrylate polymers",
+  :status :granted,
+  :id "US3234303",
+  :sourcing :authoritative,
+  :filing-year 1963,
+  :assignee :imperial-chemical-industries,
+  :grant-year 1966,
+  :cites ["US2426476" "US2745824" "US2769804" "US2931793"],
+  :term-years 20,
+  :open-license :none}
+ {:jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3236732/en",
+  :title "Pregnancy test method and immunological indicator therefor",
+  :status :granted,
+  :id "US3236732",
+  :sourcing :authoritative,
+  :filing-year 1962,
+  :assignee :unassigned,
+  :grant-year 1966,
+  :cites ["US3088875"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:shell-oil],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3239478/en",
+  :title
+  "Block copolymer adhesive compositions and articles prepared therefrom",
+  :status :granted,
+  :id "US3239478",
+  :sourcing :authoritative,
+  :filing-year 1963,
+  :assignee :shell-oil,
+  :grant-year 1966,
+  :cites ["US2648650" "US2784165" "US2993874" "US3149182"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:lars-ljungberg-and],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3240110/en",
+  :title
+  "Apparatus for determining the losses of blood in surgical operations and deliveries",
+  :status :granted,
+  :id "US3240110",
+  :sourcing :authoritative,
+  :filing-year 1962,
+  :assignee :lars-ljungberg-and,
+  :grant-year 1966,
+  :cites
+  ["GB761980A"
+   "US2051317"
+   "US2261557"
+   "US2295366"
+   "US2386878"
+   "US264573"
+   "US2724304"
+   "US2797149"
+   "US2844066"
+   "US2980142"
+   "US3028225"
+   "US3080789"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:azoplate],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3244517/en",
+  :title "Electrophotographic process",
+  :status :granted,
+  :id "US3244517",
+  :sourcing :authoritative,
+  :filing-year 1961,
+  :assignee :azoplate,
+  :grant-year 1966,
+  :cites
+  ["BE562336A"
+   "US1587269"
+   "US1587272"
+   "US1587273"
+   "US1587274"
+   "US1777140"
+   "US1939691"
+   "US2997387"
+   "US3041165"
+   "US3081165"
+   "US3163531"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:barnes-engineering],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3244885/en",
+  :title "High resolution frequency modulated tracker",
+  :status :granted,
+  :id "US3244885",
+  :sourcing :authoritative,
+  :filing-year 1962,
+  :assignee :barnes-engineering,
+  :grant-year 1966,
+  :cites
+  ["US2490052"
+   "US2961545"
+   "US2997539"
+   "US3061730"
+   "US3091690"
+   "US3099748"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:mct-enterprises],
   :jurisdiction :us,
   :field "UNKNOWN",
   :source "https://patents.google.com/patent/US3245198/en",
@@ -8815,325 +9160,5 @@
    "US2753487"
    "US3155830"
    "US3651324"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:technicon-instruments],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3772154/en",
-  :title
-  "Method and apparatus for automated antibiotic susceptibility analysis of bacteria samples",
-  :status :granted,
-  :id "US3772154",
-  :sourcing :authoritative,
-  :filing-year 1971,
-  :assignee :technicon-instruments,
-  :grant-year 1973,
-  :cites ["US3014848" "US3437447" "US3511573"],
-  :term-years 20,
-  :open-license :none}
- {:jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3773514/en",
-  :title "Light-sensitive structure",
-  :status :granted,
-  :id "US3773514",
-  :sourcing :authoritative,
-  :filing-year 1971,
-  :assignee :unassigned,
-  :grant-year 1973,
-  :cites ["US3136637" "US3458311"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:united-states-department-of-the-army],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3773625/en",
-  :title "Soluble antigen-antibody complexes",
-  :status :granted,
-  :id "US3773625",
-  :sourcing :authoritative,
-  :filing-year 1971,
-  :assignee :united-states-department-of-the-army,
-  :grant-year 1973,
-  :term-years 20,
-  :open-license :none}
- {:assignees [:ei-du-pont-de-nemours-and],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3773919/en",
-  :title "Polylactide-drug mixtures",
-  :status :granted,
-  :id "US3773919",
-  :sourcing :authoritative,
-  :filing-year 1970,
-  :assignee :ei-du-pont-de-nemours-and,
-  :grant-year 1973,
-  :term-years 20,
-  :open-license :none}
- {:assignees [:f-hoffmann-la-roche],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3775536/en",
-  :title "Opium alkaloid antigens and antibodies specific therefor",
-  :status :granted,
-  :id "US3775536",
-  :sourcing :authoritative,
-  :filing-year 1972,
-  :assignee :f-hoffmann-la-roche,
-  :grant-year 1973,
-  :term-years 20,
-  :open-license :none}
- {:assignees [:mitsubishi-electric],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3776627/en",
-  :title
-  "Electrophotographic apparatus using photosensitive member with electrically high insulating layer",
-  :status :granted,
-  :id "US3776627",
-  :sourcing :authoritative,
-  :filing-year 1972,
-  :assignee :mitsubishi-electric,
-  :grant-year 1973,
-  :cites ["US3536483" "US3575500" "US3630608"],
-  :term-years 20,
-  :open-license :none}
- {:jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3776817/en",
-  :title "Method and apparatus for determining bacterial growth",
-  :status :granted,
-  :id "US3776817",
-  :sourcing :authoritative,
-  :filing-year 1971,
-  :assignee :unassigned,
-  :grant-year 1973,
-  :term-years 20,
-  :open-license :none}
- {:assignees [:monsanto],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3776819/en",
-  :title "Urea determination and electrode therefor",
-  :status :granted,
-  :id "US3776819",
-  :sourcing :authoritative,
-  :filing-year 1969,
-  :assignee :monsanto,
-  :grant-year 1973,
-  :term-years 20,
-  :open-license :none}
- {:assignees [:international-business-machines],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3779806/en",
-  :title "Electron beam sensitive polymer t-butyl methacrylate resist",
-  :status :granted,
-  :id "US3779806",
-  :sourcing :authoritative,
-  :filing-year 1972,
-  :assignee :international-business-machines,
-  :grant-year 1973,
-  :cites
-  ["US3392051"
-   "US3436468"
-   "US3535137"
-   "US3607382"
-   "US3650796"
-   "US3696742"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:ernst-leitz-wetzlar],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3781110/en",
-  :title "Optical range finding system",
-  :status :granted,
-  :id "US3781110",
-  :sourcing :authoritative,
-  :filing-year 1972,
-  :assignee :ernst-leitz-wetzlar,
-  :grant-year 1973,
-  :term-years 20,
-  :open-license :none}
- {:assignees [:american-optical],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3782823/en",
-  :title "Laser microprobe",
-  :status :granted,
-  :id "US3782823",
-  :sourcing :authoritative,
-  :filing-year 1972,
-  :assignee :american-optical,
-  :grant-year 1974,
-  :cites ["US3348547" "US3463594"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:blowitz-m :magnor :pastin-m],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3785772/en",
-  :title "Blood analyzer",
-  :status :granted,
-  :id "US3785772",
-  :sourcing :authoritative,
-  :filing-year 1971,
-  :assignee :blowitz-m,
-  :grant-year 1974,
-  :cites ["US3130156" "US3211645" "US3591493" "US3660037" "US3682596"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:sci-systems],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3786681/en",
-  :title
-  "Electromagnetic wave modulation and measurement system and method",
-  :status :granted,
-  :id "US3786681",
-  :sourcing :authoritative,
-  :filing-year 1971,
-  :assignee :sci-systems,
-  :grant-year 1974,
-  :cites ["US3463924" "US3473031" "US3506362" "US3517560" "US3625589"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:caen-faculte-des-sciences-university-of],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3787119/en",
-  :title
-  "Catheterizable multiple photometer usable in any penetrable medium",
-  :status :granted,
-  :id "US3787119",
-  :sourcing :authoritative,
-  :filing-year 1972,
-  :assignee :caen-faculte-des-sciences-university-of,
-  :grant-year 1974,
-  :cites
-  ["FR1526973A"
-   "US3068742"
-   "US3123066"
-   "US3300385"
-   "US3437747"
-   "US3461856"],
-  :term-years 20,
-  :open-license :none}
- {:jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3787290/en",
-  :title
-  "Method and means for assaying biological factors demonstrating quantal response",
-  :status :granted,
-  :id "US3787290",
-  :sourcing :authoritative,
-  :filing-year 1972,
-  :assignee :unassigned,
-  :grant-year 1974,
-  :cites
-  ["US2129754"
-   "US2771398"
-   "US2904474"
-   "US2956931"
-   "US3001914"
-   "US3043669"
-   "US3107204"
-   "US3389966"
-   "US3480400"
-   "US3509026"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:beckman-instruments],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3787309/en",
-  :title "Specific ion electrode and method of making said electrode",
-  :status :granted,
-  :id "US3787309",
-  :sourcing :authoritative,
-  :filing-year 1972,
-  :assignee :beckman-instruments,
-  :grant-year 1974,
-  :cites ["FR1402343A" "FR1505744A"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:bio-physics-systems],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3788744/en",
-  :title "Method and apparatus for photoanalysis",
-  :status :granted,
-  :id "US3788744",
-  :sourcing :authoritative,
-  :filing-year 1971,
-  :assignee :bio-physics-systems,
-  :grant-year 1974,
-  :cites ["US2816479" "US3361030" "US3413464" "US3497690" "US3566114"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:abbott-laboratories],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3789116/en",
-  :title "Fluorescent labeled antibody reagent",
-  :status :granted,
-  :id "US3789116",
-  :sourcing :authoritative,
-  :filing-year 1970,
-  :assignee :abbott-laboratories,
-  :grant-year 1974,
-  :cites ["FR1299171A" "GB1180957A" "US3551296"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:sherwood-medical-industries],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3790346/en",
-  :title "Heating system",
-  :status :granted,
-  :id "US3790346",
-  :sourcing :authoritative,
-  :filing-year 1971,
-  :assignee :sherwood-medical-industries,
-  :grant-year 1974,
-  :cites
-  ["US3004524"
-   "US3145055"
-   "US3267364"
-   "US3556731"
-   "US3605010"
-   "US3607099"
-   "US3622279"
-   "US3645690"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:us-department-of-health-and-human-services],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3790663/en",
-  :title
-  "Preparation of dry antiserum coated solid-phase for radioimmunoassay of antigens",
-  :status :granted,
-  :id "US3790663",
-  :sourcing :authoritative,
-  :filing-year 1970,
-  :assignee :us-department-of-health-and-human-services,
-  :grant-year 1974,
-  :term-years 20,
-  :open-license :none}
- {:assignees [:bio-physics-systems],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3791517/en",
-  :title "Digital fluidic amplifier particle sorter",
-  :status :granted,
-  :id "US3791517",
-  :sourcing :authoritative,
-  :filing-year 1973,
-  :assignee :bio-physics-systems,
-  :grant-year 1974,
-  :cites ["US3560754" "US3710933"],
   :term-years 20,
   :open-license :none}]
