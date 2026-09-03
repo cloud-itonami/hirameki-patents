@@ -1,4 +1,296 @@
-[{:assignees [:beckman-instruments],
+[{:jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3146163/en",
+  :title "Apparatus for separating certain components from blood",
+  :status :granted,
+  :id "US3146163",
+  :sourcing :authoritative,
+  :filing-year 1962,
+  :assignee :unassigned,
+  :grant-year 1964,
+  :cites ["FR989480A" "US2561339"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:north-american-refractories],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3148230/en",
+  :title "Refractory structure",
+  :status :granted,
+  :id "US3148230",
+  :sourcing :authoritative,
+  :filing-year 1961,
+  :assignee :north-american-refractories,
+  :grant-year 1964,
+  :cites ["FR1184625A"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:shell-oil],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3149182/en",
+  :title
+  "Process for preparing block copolymers utilizing organolithium catalysts",
+  :status :granted,
+  :id "US3149182",
+  :sourcing :authoritative,
+  :filing-year 1957,
+  :assignee :shell-oil,
+  :grant-year 1964,
+  :cites
+  ["CA499577A"
+   "GB339243A"
+   "US2338741"
+   "US2377779"
+   "US2608555"
+   "US2694692"
+   "US2797208"
+   "US3031432"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:associated-electrical-industries],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3149286/en",
+  :title
+  "Pulse counter employing plural circulating delay-line stores for stages and coincident gating to effect counting",
+  :status :granted,
+  :id "US3149286",
+  :sourcing :authoritative,
+  :filing-year 1960,
+  :assignee :associated-electrical-industries,
+  :grant-year 1964,
+  :cites ["FR1162582A"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:phillips-petroleum],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3151204/en",
+  :title "Measurement of fluorescent materials",
+  :status :granted,
+  :id "US3151204",
+  :sourcing :authoritative,
+  :filing-year 1959,
+  :assignee :phillips-petroleum,
+  :grant-year 1964,
+  :cites
+  ["GB813579A"
+   "US1717702"
+   "US1755834"
+   "US2403631"
+   "US2436262"
+   "US2459512"
+   "US2554321"
+   "US2761067"
+   "US2829555"
+   "US2858727"
+   "US2971429"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:upjohn],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3152251/en",
+  :title
+  "Apparatus for automatically determining ultraviolet absorbance in a system",
+  :status :granted,
+  :id "US3152251",
+  :sourcing :authoritative,
+  :filing-year 1961,
+  :assignee :upjohn,
+  :grant-year 1964,
+  :cites ["US2540780" "US2976761" "US2977199" "US2984988"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:upjohn],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3155646/en",
+  :title
+  "1-arabinofuranosyl-5-halouracil and process for the preparation thereof",
+  :status :granted,
+  :id "US3155646",
+  :sourcing :authoritative,
+  :filing-year 1960,
+  :assignee :upjohn,
+  :grant-year 1964,
+  :cites ["US2885396"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:takeda-chemical-industries],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3157635/en",
+  :title
+  "Sulfonic acid cation exchange resin purification of nucleotides",
+  :status :granted,
+  :id "US3157635",
+  :sourcing :authoritative,
+  :filing-year 1961,
+  :assignee :takeda-chemical-industries,
+  :grant-year 1964,
+  :cites ["US2870139" "US2891945"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:gevaert-photo-producten],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3158484/en",
+  :title "Light-sensitive colloid silver halide photographic elements",
+  :status :granted,
+  :id "US3158484",
+  :sourcing :authoritative,
+  :filing-year 1961,
+  :assignee :gevaert-photo-producten,
+  :grant-year 1964,
+  :cites ["US1970578" "US2630424" "US2716062"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:honeywell],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3159208/en",
+  :title "Fluid flow control device",
+  :status :granted,
+  :id "US3159208",
+  :sourcing :authoritative,
+  :filing-year 1961,
+  :assignee :honeywell,
+  :grant-year 1964,
+  :cites
+  ["US1927215"
+   "US2517812"
+   "US2889856"
+   "US3001539"
+   "US3016063"
+   "US3016066"
+   "US3030979"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:commercial-filters],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3161589/en",
+  :title "By-pass assembly for filters",
+  :status :granted,
+  :id "US3161589",
+  :sourcing :authoritative,
+  :filing-year 1962,
+  :assignee :commercial-filters,
+  :grant-year 1964,
+  :cites ["US2369857" "US2401039" "US2773602"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:optron],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3161725/en",
+  :title "Optical displacement follower",
+  :status :granted,
+  :id "US3161725",
+  :sourcing :authoritative,
+  :filing-year 1961,
+  :assignee :optron,
+  :grant-year 1964,
+  :cites ["US2304755" "US2692945"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:owens-illinois-glass],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3162543/en",
+  :title
+  "Coated paper products and coating compositions and method therefor",
+  :status :granted,
+  :id "US3162543",
+  :sourcing :authoritative,
+  :filing-year 1960,
+  :assignee :owens-illinois-glass,
+  :grant-year 1964,
+  :cites
+  ["US1956866"
+   "US2458191"
+   "US2869722"
+   "US2885074"
+   "US2996462"
+   "US3022289"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:azoplate],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3163531/en",
+  :title "Photoconductive layers for electrophotographic purposes",
+  :status :granted,
+  :id "US3163531",
+  :sourcing :authoritative,
+  :filing-year 1960,
+  :assignee :azoplate,
+  :grant-year 1964,
+  :cites
+  ["BE562336A"
+   "US2377868"
+   "US2477462"
+   "US2495890"
+   "US2935493"
+   "US2953546"
+   "US2954291"
+   "US2962376"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:ei-du-pont-de-nemours-and],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3163625/en",
+  :title
+  "Color-forming monomers and polymers of acrylic acid amides of 3-aminopyrazolone",
+  :status :granted,
+  :id "US3163625",
+  :sourcing :authoritative,
+  :filing-year 1960,
+  :assignee :ei-du-pont-de-nemours-and,
+  :grant-year 1964,
+  :cites
+  ["US2469696"
+   "US2759910"
+   "US2794016"
+   "US2817666"
+   "US2829975"
+   "US2850485"
+   "US2852386"
+   "US2860986"
+   "US2927928"],
+  :term-years 20,
+  :open-license :none}
+ {:jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3163968/en",
+  :title "Graphite coated abrasive belts",
+  :status :granted,
+  :id "US3163968",
+  :sourcing :authoritative,
+  :filing-year 1962,
+  :assignee :unassigned,
+  :grant-year 1965,
+  :cites ["US2356367" "US2624160" "US2700623" "US2854351" "US3047526"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:exxon-research-and-engineering],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3164004/en",
+  :title "Coated piezoelectric analyzers",
+  :status :granted,
+  :id "US3164004",
+  :sourcing :authoritative,
+  :filing-year 1961,
+  :assignee :exxon-research-and-engineering,
+  :grant-year 1965,
+  :cites ["US1559461" "US2571171" "US2740032" "US2857532" "US2937524"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:beckman-instruments],
   :jurisdiction :us,
   :field "UNKNOWN",
   :source "https://patents.google.com/patent/US3164663/en",
@@ -8934,285 +9226,5 @@
   :assignee :shiney,
   :grant-year 1972,
   :cites ["DE2005497A1" "US3039053" "US3507145"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:eastman-kodak],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3700335/en",
-  :title
-  "Process and apparatus for sensitometrically testing a liquid,photosensitive emulsion",
-  :status :granted,
-  :id "US3700335",
-  :sourcing :authoritative,
-  :filing-year 1971,
-  :assignee :eastman-kodak,
-  :grant-year 1972,
-  :term-years 20,
-  :open-license :none}
- {:assignees [:rca],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3700497/en",
-  :title
-  "Method of making a semiconductor device including a polyimide resist film",
-  :status :granted,
-  :id "US3700497",
-  :sourcing :authoritative,
-  :filing-year 1970,
-  :assignee :rca,
-  :grant-year 1972,
-  :term-years 20,
-  :open-license :none}
- {:assignees [:technicon-instruments],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3700555/en",
-  :title "Method and apparatus for lymphocyte separation from blood",
-  :status :granted,
-  :id "US3700555",
-  :sourcing :authoritative,
-  :filing-year 1970,
-  :assignee :technicon-instruments,
-  :grant-year 1972,
-  :term-years 20,
-  :open-license :none}
- {:jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3700573/en",
-  :title
-  "Method of preparation of hydrophilic silicones by radiochemical grafting",
-  :status :granted,
-  :id "US3700573",
-  :sourcing :authoritative,
-  :filing-year 1969,
-  :assignee :unassigned,
-  :grant-year 1972,
-  :term-years 20,
-  :open-license :none}
- {:assignees [:ici-australia],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3700609/en",
-  :title "Graft copolymers",
-  :status :granted,
-  :id "US3700609",
-  :sourcing :authoritative,
-  :filing-year 1971,
-  :assignee :ici-australia,
-  :grant-year 1972,
-  :term-years 20,
-  :open-license :none}
- {:assignees [:wr-grace-and],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3701721/en",
-  :title
-  "Curable liquid polyene-polythiol compositions containing polyacrylic acid and derivatives thereof",
-  :status :granted,
-  :id "US3701721",
-  :sourcing :authoritative,
-  :filing-year 1971,
-  :assignee :wr-grace-and,
-  :grant-year 1972,
-  :term-years 20,
-  :open-license :none}
- {:assignees [:yamasa-shoyu],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3701772/en",
-  :title "Production of nucleotide anhydrides",
-  :status :granted,
-  :id "US3701772",
-  :sourcing :authoritative,
-  :filing-year 1970,
-  :assignee :yamasa-shoyu,
-  :grant-year 1972,
-  :term-years 20,
-  :open-license :none}
- {:assignees [:avco],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3702973/en",
-  :title
-  "Laser or ozone generator in which a broad electron beam with a sustainer field produce a large area, uniform discharge",
-  :status :granted,
-  :id "US3702973",
-  :sourcing :authoritative,
-  :filing-year 1970,
-  :assignee :avco,
-  :grant-year 1972,
-  :cites
-  ["US2030492"
-   "US2333842"
-   "US2373661"
-   "US2429217"
-   "US2686275"
-   "US3403353"
-   "US3555451"
-   "US3576583"
-   "US3641454"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:f-hoffmann-la-roche],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3703337/en",
-  :title "Analyzer processing and recording technique",
-  :status :granted,
-  :id "US3703337",
-  :sourcing :authoritative,
-  :filing-year 1971,
-  :assignee :f-hoffmann-la-roche,
-  :grant-year 1972,
-  :cites ["US2675734"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:general-electric],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3703402/en",
-  :title "Electron sensitive compositions",
-  :status :granted,
-  :id "US3703402",
-  :sourcing :authoritative,
-  :filing-year 1970,
-  :assignee :general-electric,
-  :grant-year 1972,
-  :term-years 20,
-  :open-license :none}
- {:assignees [:kalle-and-kg],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3703570/en",
-  :title
-  "Process for the preparation of a semipermeable membrane from polymerized beta-lactam unsubstituted at the nitrogen atom",
-  :status :granted,
-  :id "US3703570",
-  :sourcing :authoritative,
-  :filing-year 1969,
-  :assignee :kalle-and-kg,
-  :grant-year 1972,
-  :term-years 20,
-  :open-license :none}
- {:assignees [:cci-aerospace],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3703959/en",
-  :title "Disposable recirculating dialysate module",
-  :status :granted,
-  :id "US3703959",
-  :sourcing :authoritative,
-  :filing-year 1969,
-  :assignee :cci-aerospace,
-  :grant-year 1972,
-  :cites
-  ["US2720879"
-   "US2969150"
-   "US3416664"
-   "US3457944"
-   "US3506126"
-   "US3515275"],
-  :term-years 20,
-  :open-license :none}
- {:jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3704282/en",
-  :title "Catecholamine antigens and antibodies specific therefor",
-  :status :granted,
-  :id "US3704282",
-  :sourcing :authoritative,
-  :filing-year 1971,
-  :assignee :unassigned,
-  :grant-year 1972,
-  :term-years 20,
-  :open-license :none}
- {:assignees [:cary-instruments],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3704951/en",
-  :title
-  "S light cell for increasing the intensity level of raman light emission from a sample",
-  :status :granted,
-  :id "US3704951",
-  :sourcing :authoritative,
-  :filing-year 1971,
-  :assignee :cary-instruments,
-  :grant-year 1972,
-  :cites ["US3201709" "US3414354"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:western-electric],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3705055/en",
-  :title "Method of descumming photoresist patterns",
-  :status :granted,
-  :id "US3705055",
-  :sourcing :authoritative,
-  :filing-year 1970,
-  :assignee :western-electric,
-  :grant-year 1972,
-  :term-years 20,
-  :open-license :none}
- {:assignees [:monsanto],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3705084/en",
-  :title "Macroporous enzyme reactor",
-  :status :granted,
-  :id "US3705084",
-  :sourcing :authoritative,
-  :filing-year 1971,
-  :assignee :monsanto,
-  :grant-year 1972,
-  :term-years 20,
-  :open-license :none}
- {:assignees [:international-business-machines],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3707455/en",
-  :title "Measuring system",
-  :status :granted,
-  :id "US3707455",
-  :sourcing :authoritative,
-  :filing-year 1968,
-  :assignee :international-business-machines,
-  :grant-year 1972,
-  :term-years 20,
-  :open-license :none}
- {:assignees [:wr-grace-and],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3708413/en",
-  :title
-  "High energy curable liquid polyene-polythiol polymer composition",
-  :status :granted,
-  :id "US3708413",
-  :sourcing :authoritative,
-  :filing-year 1970,
-  :assignee :wr-grace-and,
-  :grant-year 1973,
-  :cites
-  ["US2921006"
-   "US3278352"
-   "US3338810"
-   "US3371072"
-   "US3405181"
-   "US3412049"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:f-hoffmann-la-roche],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3709868/en",
-  :title "Opium alkaloid antigens and antibodies specific therefor",
-  :status :granted,
-  :id "US3709868",
-  :sourcing :authoritative,
-  :filing-year 1971,
-  :assignee :f-hoffmann-la-roche,
-  :grant-year 1973,
-  :cites ["DE116806C" "US1906236" "US2301532" "US2372066"],
   :term-years 20,
   :open-license :none}]

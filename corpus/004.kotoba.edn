@@ -1,4 +1,284 @@
-[{:assignees [:kyowa-hakko-kogyo],
+[{:assignees [:eastman-kodak],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3700335/en",
+  :title
+  "Process and apparatus for sensitometrically testing a liquid,photosensitive emulsion",
+  :status :granted,
+  :id "US3700335",
+  :sourcing :authoritative,
+  :filing-year 1971,
+  :assignee :eastman-kodak,
+  :grant-year 1972,
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:rca],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3700497/en",
+  :title
+  "Method of making a semiconductor device including a polyimide resist film",
+  :status :granted,
+  :id "US3700497",
+  :sourcing :authoritative,
+  :filing-year 1970,
+  :assignee :rca,
+  :grant-year 1972,
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:technicon-instruments],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3700555/en",
+  :title "Method and apparatus for lymphocyte separation from blood",
+  :status :granted,
+  :id "US3700555",
+  :sourcing :authoritative,
+  :filing-year 1970,
+  :assignee :technicon-instruments,
+  :grant-year 1972,
+  :term-years 20,
+  :open-license :none}
+ {:jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3700573/en",
+  :title
+  "Method of preparation of hydrophilic silicones by radiochemical grafting",
+  :status :granted,
+  :id "US3700573",
+  :sourcing :authoritative,
+  :filing-year 1969,
+  :assignee :unassigned,
+  :grant-year 1972,
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:ici-australia],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3700609/en",
+  :title "Graft copolymers",
+  :status :granted,
+  :id "US3700609",
+  :sourcing :authoritative,
+  :filing-year 1971,
+  :assignee :ici-australia,
+  :grant-year 1972,
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:wr-grace-and],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3701721/en",
+  :title
+  "Curable liquid polyene-polythiol compositions containing polyacrylic acid and derivatives thereof",
+  :status :granted,
+  :id "US3701721",
+  :sourcing :authoritative,
+  :filing-year 1971,
+  :assignee :wr-grace-and,
+  :grant-year 1972,
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:yamasa-shoyu],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3701772/en",
+  :title "Production of nucleotide anhydrides",
+  :status :granted,
+  :id "US3701772",
+  :sourcing :authoritative,
+  :filing-year 1970,
+  :assignee :yamasa-shoyu,
+  :grant-year 1972,
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:avco],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3702973/en",
+  :title
+  "Laser or ozone generator in which a broad electron beam with a sustainer field produce a large area, uniform discharge",
+  :status :granted,
+  :id "US3702973",
+  :sourcing :authoritative,
+  :filing-year 1970,
+  :assignee :avco,
+  :grant-year 1972,
+  :cites
+  ["US2030492"
+   "US2333842"
+   "US2373661"
+   "US2429217"
+   "US2686275"
+   "US3403353"
+   "US3555451"
+   "US3576583"
+   "US3641454"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:f-hoffmann-la-roche],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3703337/en",
+  :title "Analyzer processing and recording technique",
+  :status :granted,
+  :id "US3703337",
+  :sourcing :authoritative,
+  :filing-year 1971,
+  :assignee :f-hoffmann-la-roche,
+  :grant-year 1972,
+  :cites ["US2675734"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:general-electric],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3703402/en",
+  :title "Electron sensitive compositions",
+  :status :granted,
+  :id "US3703402",
+  :sourcing :authoritative,
+  :filing-year 1970,
+  :assignee :general-electric,
+  :grant-year 1972,
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:kalle-and-kg],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3703570/en",
+  :title
+  "Process for the preparation of a semipermeable membrane from polymerized beta-lactam unsubstituted at the nitrogen atom",
+  :status :granted,
+  :id "US3703570",
+  :sourcing :authoritative,
+  :filing-year 1969,
+  :assignee :kalle-and-kg,
+  :grant-year 1972,
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:cci-aerospace],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3703959/en",
+  :title "Disposable recirculating dialysate module",
+  :status :granted,
+  :id "US3703959",
+  :sourcing :authoritative,
+  :filing-year 1969,
+  :assignee :cci-aerospace,
+  :grant-year 1972,
+  :cites
+  ["US2720879"
+   "US2969150"
+   "US3416664"
+   "US3457944"
+   "US3506126"
+   "US3515275"],
+  :term-years 20,
+  :open-license :none}
+ {:jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3704282/en",
+  :title "Catecholamine antigens and antibodies specific therefor",
+  :status :granted,
+  :id "US3704282",
+  :sourcing :authoritative,
+  :filing-year 1971,
+  :assignee :unassigned,
+  :grant-year 1972,
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:cary-instruments],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3704951/en",
+  :title
+  "S light cell for increasing the intensity level of raman light emission from a sample",
+  :status :granted,
+  :id "US3704951",
+  :sourcing :authoritative,
+  :filing-year 1971,
+  :assignee :cary-instruments,
+  :grant-year 1972,
+  :cites ["US3201709" "US3414354"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:western-electric],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3705055/en",
+  :title "Method of descumming photoresist patterns",
+  :status :granted,
+  :id "US3705055",
+  :sourcing :authoritative,
+  :filing-year 1970,
+  :assignee :western-electric,
+  :grant-year 1972,
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:monsanto],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3705084/en",
+  :title "Macroporous enzyme reactor",
+  :status :granted,
+  :id "US3705084",
+  :sourcing :authoritative,
+  :filing-year 1971,
+  :assignee :monsanto,
+  :grant-year 1972,
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:international-business-machines],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3707455/en",
+  :title "Measuring system",
+  :status :granted,
+  :id "US3707455",
+  :sourcing :authoritative,
+  :filing-year 1968,
+  :assignee :international-business-machines,
+  :grant-year 1972,
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:wr-grace-and],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3708413/en",
+  :title
+  "High energy curable liquid polyene-polythiol polymer composition",
+  :status :granted,
+  :id "US3708413",
+  :sourcing :authoritative,
+  :filing-year 1970,
+  :assignee :wr-grace-and,
+  :grant-year 1973,
+  :cites
+  ["US2921006"
+   "US3278352"
+   "US3338810"
+   "US3371072"
+   "US3405181"
+   "US3412049"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:f-hoffmann-la-roche],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3709868/en",
+  :title "Opium alkaloid antigens and antibodies specific therefor",
+  :status :granted,
+  :id "US3709868",
+  :sourcing :authoritative,
+  :filing-year 1971,
+  :assignee :f-hoffmann-la-roche,
+  :grant-year 1973,
+  :cites ["DE116806C" "US1906236" "US2301532" "US2372066"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:kyowa-hakko-kogyo],
   :jurisdiction :us,
   :field "UNKNOWN",
   :source "https://patents.google.com/patent/US3709873/en",
@@ -8990,280 +9270,5 @@
   :assignee :international-standard-electric,
   :grant-year 1979,
   :cites ["US3767910" "US3861781" "US4015894" "US4026633"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:university-of-utah],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US4136566/en",
-  :title "Semiconductor temperature sensor",
-  :status :granted,
-  :id "US4136566",
-  :sourcing :authoritative,
-  :filing-year 1977,
-  :assignee :university-of-utah,
-  :grant-year 1979,
-  :cites ["US2824235" "US3960017" "US4016761"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:union-carbide],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US4137279/en",
-  :title
-  "Copolymers of polycaprolactone derivatives and ethylenically unsaturated monomers",
-  :status :granted,
-  :id "US4137279",
-  :sourcing :authoritative,
-  :filing-year 1977,
-  :assignee :union-carbide,
-  :grant-year 1979,
-  :cites
-  ["US2890197"
-   "US3027357"
-   "US3169945"
-   "US3408421"
-   "US3511792"
-   "US3549586"
-   "US3583955"
-   "US3668178"
-   "US3784586"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:technicon-instruments],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US4138213/en",
-  :title "Agglutination immunoassay of immune complex with RF or Clq",
-  :status :granted,
-  :id "US4138213",
-  :sourcing :authoritative,
-  :filing-year 1977,
-  :assignee :technicon-instruments,
-  :grant-year 1979,
-  :cites ["US3658982" "US3689632"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:enzo-biochem],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US4139346/en",
-  :title "Nucleic acid and protein binding paper",
-  :status :granted,
-  :id "US4139346",
-  :sourcing :authoritative,
-  :filing-year 1977,
-  :assignee :enzo-biochem,
-  :grant-year 1979,
-  :cites ["US4069352"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:becton-dickinson-and],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US4139604/en",
-  :title "Separation technique for assays",
-  :status :granted,
-  :id "US4139604",
-  :sourcing :authoritative,
-  :filing-year 1977,
-  :assignee :becton-dickinson-and,
-  :grant-year 1979,
-  :cites ["US3920580" "US3925020" "US3933997" "US4018564"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:toyo-soda-manufacturing],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US4140653/en",
-  :title "Solid support for liquid chromatography",
-  :status :granted,
-  :id "US4140653",
-  :sourcing :authoritative,
-  :filing-year 1977,
-  :assignee :toyo-soda-manufacturing,
-  :grant-year 1979,
-  :cites
-  ["US3488922"
-   "US3502217"
-   "US3577266"
-   "US3663263"
-   "US3722181"
-   "US3941718"
-   "US3956179"
-   "US4045353"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:technicon-instruments],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US4141687/en",
-  :title
-  "Automatic apparatus and method for the assay of fluid samples",
-  :status :granted,
-  :id "US4141687",
-  :sourcing :authoritative,
-  :filing-year 1977,
-  :assignee :technicon-instruments,
-  :grant-year 1979,
-  :cites ["US3933997"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:eastman-kodak],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US4142891/en",
-  :title
-  "Photographic products and processes employing nondiffusible azo dye-releasing compounds",
-  :status :granted,
-  :id "US4142891",
-  :sourcing :authoritative,
-  :filing-year 1977,
-  :assignee :eastman-kodak,
-  :grant-year 1979,
-  :cites
-  ["FR1124882A"
-   "FR1200358A"
-   "GB899758A"
-   "US2348417"
-   "US2495244"
-   "US2830042"
-   "US2938895"
-   "US3081167"
-   "US3097196"
-   "US3196014"
-   "US3563739"
-   "US3931144"
-   "US3980479"
-   "US4013635"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:technicon-instruments],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US4143124/en",
-  :title "Antigen-antibody analysis with solid phase rf and c1q",
-  :status :granted,
-  :id "US4143124",
-  :sourcing :authoritative,
-  :filing-year 1975,
-  :assignee :technicon-instruments,
-  :grant-year 1979,
-  :cites ["US3639558" "US3639559"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:international-radioimmune-systems],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US4144031/en",
-  :title "Cell test for detecting human chorionic gonadotropin",
-  :status :granted,
-  :id "US4144031",
-  :sourcing :authoritative,
-  :filing-year 1976,
-  :assignee :international-radioimmune-systems,
-  :grant-year 1979,
-  :cites
-  ["US3516794"
-   "US3654090"
-   "US3697638"
-   "US3720760"
-   "US3789116"
-   "US3868219"
-   "US3873683"
-   "US3901654"
-   "US3935074"
-   "US3992514"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:wisconsin-alumni-research-foundation],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US4144131/en",
-  :title "Immobilization of enzymes on human tissue or erythrocytes",
-  :status :granted,
-  :id "US4144131",
-  :sourcing :authoritative,
-  :filing-year 1974,
-  :assignee :wisconsin-alumni-research-foundation,
-  :grant-year 1979,
-  :cites ["US3639558" "US3654083" "US3691016" "US3806417" "US3843447"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:international-diagnostic-technologies],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US4144452/en",
-  :title "Fluorometric system, method and test article",
-  :status :granted,
-  :id "US4144452",
-  :sourcing :authoritative,
-  :filing-year 1977,
-  :assignee :international-diagnostic-technologies,
-  :grant-year 1979,
-  :cites ["US3992631" "US4056724"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:miles-laboratories],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US4145406/en",
-  :title "Specific binding - adsorbent assay method and test means",
-  :status :granted,
-  :id "US4145406",
-  :sourcing :authoritative,
-  :filing-year 1977,
-  :assignee :miles-laboratories,
-  :grant-year 1979,
-  :cites ["US4041146"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:bayer],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US4145512/en",
-  :title "Permanently stabilized polyurethanes",
-  :status :granted,
-  :id "US4145512",
-  :sourcing :authoritative,
-  :filing-year 1977,
-  :assignee :bayer,
-  :grant-year 1979,
-  :cites ["US2702797" "US2871227" "US3829404"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:research],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US4146603/en",
-  :title
-  "Tumor specific glycoproteins and method for detecting tumorigenic cancers",
-  :status :granted,
-  :id "US4146603",
-  :sourcing :authoritative,
-  :filing-year 1977,
-  :assignee :research,
-  :grant-year 1979,
-  :cites ["US4010251"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:baxter-travenol-laboratories],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US4148869/en",
-  :title "Immunological reagent and method of using same",
-  :status :granted,
-  :id "US4148869",
-  :sourcing :authoritative,
-  :filing-year 1975,
-  :assignee :baxter-travenol-laboratories,
-  :grant-year 1979,
-  :cites
-  ["US3489688"
-   "US3492396"
-   "US3624197"
-   "US3770380"
-   "US3880989"
-   "US3897357"],
   :term-years 20,
   :open-license :none}]
