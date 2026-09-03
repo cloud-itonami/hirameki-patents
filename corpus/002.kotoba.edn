@@ -1,4 +1,253 @@
-[{:assignees [:owens-corning-fiberglas],
+[{:assignees [:american-cyanamid],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2642514/en",
+  :title "Ion exchange process with magnetic ion exchange resins",
+  :status :granted,
+  :id "US2642514",
+  :sourcing :authoritative,
+  :filing-year 1946,
+  :assignee :american-cyanamid,
+  :grant-year 1953,
+  :cites
+  ["US1494070"
+   "US1682364"
+   "US1683780"
+   "US1982689"
+   "US2197931"
+   "US2198378"
+   "US2275210"
+   "US2352324"
+   "US2365720"
+   "US2412668"
+   "US2434190"
+   "US2461505"
+   "US861782"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:us-sec-the-dept-of-the-interio],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2643940/en",
+  :title
+  "Extractor for removing soluble constituents in chemical analysis",
+  :status :granted,
+  :id "US2643940",
+  :sourcing :authoritative,
+  :filing-year 1951,
+  :assignee :us-sec-the-dept-of-the-interio,
+  :grant-year 1953,
+  :cites
+  ["DE641844C"
+   "DE642347C"
+   "US1313626"
+   "US1585447"
+   "US1722435"
+   "US175066"
+   "US1815711"
+   "US1887126"
+   "US2045866"
+   "US2485739"
+   "US411596"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:general-electric],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2643956/en",
+  :title "Coating method and apparatus for luminescent tubes",
+  :status :granted,
+  :id "US2643956",
+  :sourcing :authoritative,
+  :filing-year 1950,
+  :assignee :general-electric,
+  :grant-year 1953,
+  :cites
+  ["GB586613A"
+   "US1511835"
+   "US2287024"
+   "US2317977"
+   "US2318060"
+   "US2337740"
+   "US2415512"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:combined-locks-paper],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2645201/en",
+  :title "Apparatus for coating paper",
+  :status :granted,
+  :id "US2645201",
+  :sourcing :authoritative,
+  :filing-year 1951,
+  :assignee :combined-locks-paper,
+  :grant-year 1953,
+  :cites
+  ["US1203303"
+   "US1698544"
+   "US2291616"
+   "US229785"
+   "US2456495"
+   "US2476298"
+   "US2580667"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:standard-oil],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2645291/en",
+  :title "Hydraulically fracturing well formation",
+  :status :granted,
+  :id "US2645291",
+  :sourcing :authoritative,
+  :filing-year 1948,
+  :assignee :standard-oil,
+  :grant-year 1953,
+  :cites
+  ["GB471637A"
+   "US1382337"
+   "US1513371"
+   "US2010800"
+   "US2055666"
+   "US2354570"
+   "US2379516"
+   "US2596845"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:monsanto-chemicals],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2645625/en",
+  :title "Methods of concentrating solutions",
+  :status :granted,
+  :id "US2645625",
+  :sourcing :authoritative,
+  :filing-year 1951,
+  :assignee :monsanto-chemicals,
+  :grant-year 1953,
+  :cites
+  ["FR890760A"
+   "US2191957"
+   "US2213921"
+   "US2309412"
+   "US2529856"
+   "US438787"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:north-american-paper-process],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2649386/en",
+  :title "Coated paper and method for making same",
+  :status :granted,
+  :id "US2649386",
+  :sourcing :authoritative,
+  :filing-year 1948,
+  :assignee :north-american-paper-process,
+  :grant-year 1953,
+  :cites
+  ["US1502003"
+   "US1623280"
+   "US1695437"
+   "US1790822"
+   "US1877512"
+   "US1882090"
+   "US1911592"
+   "US1913329"
+   "US1921369"
+   "US2023175"
+   "US2032211"
+   "US2229620"
+   "US2245014"
+   "US2304818"
+   "US2378113"
+   "US2396946"
+   "US2406287"
+   "US2417009"
+   "US2429314"
+   "US2506153"
+   "US2589302"],
+  :term-years 20,
+  :open-license :none}
+ {:jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2649916/en",
+  :title "Well packer",
+  :status :granted,
+  :id "US2649916",
+  :sourcing :authoritative,
+  :filing-year 1951,
+  :assignee :unassigned,
+  :grant-year 1953,
+  :cites ["US2189703" "US2403987" "US2433942" "US2531258"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:sperry],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2651771/en",
+  :title "Angular motion detector and position indicator",
+  :status :granted,
+  :id "US2651771",
+  :sourcing :authoritative,
+  :filing-year 1949,
+  :assignee :sperry,
+  :grant-year 1953,
+  :cites
+  ["US1931852"
+   "US2167484"
+   "US2227147"
+   "US2309117"
+   "US2358103"
+   "US2402719"
+   "US2420013"
+   "US2420509"
+   "US2503023"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:standard-oil-development],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2652117/en",
+  :title "Method and apparatus for gravel packing wells",
+  :status :granted,
+  :id "US2652117",
+  :sourcing :authoritative,
+  :filing-year 1950,
+  :assignee :standard-oil-development,
+  :grant-year 1953,
+  :cites ["US2207334" "US2229493" "US2310397" "US2349062"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:eastman-kodak],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2652345/en",
+  :title "Method of setting protein containing coatings with ammonium",
+  :status :granted,
+  :id "US2652345",
+  :sourcing :authoritative,
+  :filing-year 1952,
+  :assignee :eastman-kodak,
+  :grant-year 1953,
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:rohm-and-haas],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2653143/en",
+  :title "Condensation products of bis-aminotriazines",
+  :status :granted,
+  :id "US2653143",
+  :sourcing :authoritative,
+  :filing-year 1952,
+  :assignee :rohm-and-haas,
+  :grant-year 1953,
+  :cites ["GB608186A" "US2524727"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:owens-corning-fiberglas],
   :jurisdiction :us,
   :field "UNKNOWN",
   :source "https://patents.google.com/patent/US2653355/en",
@@ -1881,6 +2130,21 @@
   :grant-year 1883,
   :term-years 20,
   :open-license :none}
+ {:assignees [:ei-du-pont-de-nemours-and],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2753263/en",
+  :title
+  "Silver halide emulsion containing a polymeric polyamine as an acid dye mordant",
+  :status :granted,
+  :id "US2753263",
+  :sourcing :authoritative,
+  :filing-year 1953,
+  :assignee :ei-du-pont-de-nemours-and,
+  :grant-year 1956,
+  :cites ["GB648472A" "US2423460" "US2486191"],
+  :term-years 20,
+  :open-license :none}
  {:jurisdiction :us,
   :field "UNKNOWN",
   :source "https://patents.google.com/patent/US2753760/en",
@@ -3406,6 +3670,21 @@
   :cites ["BE533362A" "CA502597A" "US2520601" "US2712189"],
   :term-years 20,
   :open-license :none}
+ {:assignees [:sperry-rand],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2834676/en",
+  :title
+  "Photographic diffusion transfer process for producing multiple direct positive copies",
+  :status :granted,
+  :id "US2834676",
+  :sourcing :authoritative,
+  :filing-year 1955,
+  :assignee :sperry-rand,
+  :grant-year 1958,
+  :cites ["US2663641" "US2675313" "US2712995" "US2725298" "US2740717"],
+  :term-years 20,
+  :open-license :none}
  {:assignees [:beckman-instruments],
   :jurisdiction :us,
   :field "UNKNOWN",
@@ -3699,6 +3978,49 @@
    "US2681294"
    "US515941"
    "US676237"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:polaroid],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2857274/en",
+  :title "Photographic compositions and processes",
+  :status :granted,
+  :id "US2857274",
+  :sourcing :authoritative,
+  :filing-year 1953,
+  :assignee :polaroid,
+  :grant-year 1958,
+  :cites
+  ["US1958609"
+   "US2017279"
+   "US2225384"
+   "US2354232"
+   "US2543181"
+   "US2590775"
+   "US2599518"
+   "US2635048"
+   "US2697100"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:polaroid],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2857276/en",
+  :title "Photographic processes and compositions useful therein",
+  :status :granted,
+  :id "US2857276",
+  :sourcing :authoritative,
+  :filing-year 1954,
+  :assignee :polaroid,
+  :grant-year 1958,
+  :cites
+  ["US2534599"
+   "US2543181"
+   "US2551134"
+   "US2567109"
+   "US2590775"
+   "US2635048"],
   :term-years 20,
   :open-license :none}
  {:jurisdiction :us,
@@ -7879,6 +8201,38 @@
   :cites ["US2852505" "US2852506"],
   :term-years 20,
   :open-license :none}
+ {:assignees [:ei-du-pont-de-nemours-and],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3075841/en",
+  :title "Mordant treating process and elements containing same",
+  :status :granted,
+  :id "US3075841",
+  :sourcing :authoritative,
+  :filing-year 1956,
+  :assignee :ei-du-pont-de-nemours-and,
+  :grant-year 1963,
+  :cites
+  ["GB330199A"
+   "GB344365A"
+   "US2182794"
+   "US2215196"
+   "US2256356"
+   "US2474612"
+   "US2527223"
+   "US2527260"
+   "US2548575"
+   "US2635535"
+   "US2675316"
+   "US2753263"
+   "US2768079"
+   "US2813845"
+   "US2821455"
+   "US2839401"
+   "US2857372"
+   "US2897200"],
+  :term-years 20,
+  :open-license :none}
  {:assignees [:swift-and],
   :jurisdiction :us,
   :field "UNKNOWN",
@@ -9657,304 +10011,5 @@
   :assignee :talb-ind,
   :grant-year 1965,
   :cites ["US3051603"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:rca],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3177100/en",
-  :title
-  "Depositing epitaxial layer of silicon from a vapor mixture of sih4 and h3",
-  :status :granted,
-  :id "US3177100",
-  :sourcing :authoritative,
-  :filing-year 1963,
-  :assignee :rca,
-  :grant-year 1965,
-  :cites ["GB745698A" "US2916359" "US2993762" "US3078150"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:robertshaw-controls],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3177898/en",
-  :title "Apparatus for sequential control",
-  :status :granted,
-  :id "US3177898",
-  :sourcing :authoritative,
-  :filing-year 1961,
-  :assignee :robertshaw-controls,
-  :grant-year 1965,
-  :cites
-  ["DE1044116B"
-   "GB222144A"
-   "US1633487"
-   "US2098410"
-   "US2530622"
-   "US2579598"
-   "US2678063"
-   "US2734674"
-   "US2960856"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:warner-lambert-pharmaceutical],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3178266/en",
-  :title "Materials handling apparatus",
-  :status :granted,
-  :id "US3178266",
-  :sourcing :authoritative,
-  :filing-year 1960,
-  :assignee :warner-lambert-pharmaceutical,
-  :grant-year 1965,
-  :cites ["FR1237774A" "US1742871" "US2624656" "US2879141"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:ei-du-pont-de-nemours-and],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3178310/en",
-  :title "Aqueous polyurethane coating emulsions",
-  :status :granted,
-  :id "US3178310",
-  :sourcing :authoritative,
-  :filing-year 1962,
-  :assignee :ei-du-pont-de-nemours-and,
-  :grant-year 1965,
-  :cites ["CA583572A" "US2929800" "US2968575"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:ei-du-pont-de-nemours-and],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3179634/en",
-  :title "Aromatic polyimides and the process for preparing them",
-  :status :granted,
-  :id "US3179634",
-  :sourcing :authoritative,
-  :filing-year 1962,
-  :assignee :ei-du-pont-de-nemours-and,
-  :grant-year 1965,
-  :cites
-  ["US2071250"
-   "US2710853"
-   "US2712543"
-   "US2731447"
-   "US2880230"
-   "US2900369"
-   "US3037966"
-   "US3073784"
-   "US3073785"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:westinghouse-electric],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3179635/en",
-  :title
-  "Linear polymeric amide-modified polyimides and process of making same",
-  :status :granted,
-  :id "US3179635",
-  :sourcing :authoritative,
-  :filing-year 1963,
-  :assignee :westinghouse-electric,
-  :grant-year 1965,
-  :cites ["US2710853" "US2867609"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:upjohn],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3180859/en",
-  :title "Derivatives of decoyinine and process for preparing same",
-  :status :granted,
-  :id "US3180859",
-  :sourcing :authoritative,
-  :filing-year 1962,
-  :assignee :upjohn,
-  :grant-year 1965,
-  :cites ["US2876230" "US3049536" "US3074930"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:sperry-rand],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3182674/en",
-  :title
-  "System and apparatus for producing, maintaining and controlling laminar fluid streamflow",
-  :status :granted,
-  :id "US3182674",
-  :sourcing :authoritative,
-  :filing-year 1961,
-  :assignee :sperry-rand,
-  :grant-year 1965,
-  :cites
-  ["US2130498"
-   "US2517820"
-   "US2760518"
-   "US2821205"
-   "US2838073"
-   "US2843138"
-   "US2995933"
-   "US3040760"
-   "US3099993"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:sperry-rand],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3182686/en",
-  :title "Transducer",
-  :status :granted,
-  :id "US3182686",
-  :sourcing :authoritative,
-  :filing-year 1962,
-  :assignee :sperry-rand,
-  :grant-year 1965,
-  :cites ["US2702559" "US2887294" "US2902251" "US3055631"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:fairchild-camera-and-instrument],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3183128/en",
-  :title "Method of making field-effect transistors",
-  :status :granted,
-  :id "US3183128",
-  :sourcing :authoritative,
-  :filing-year 1962,
-  :assignee :fairchild-camera-and-instrument,
-  :grant-year 1965,
-  :cites
-  ["US2754431"
-   "US2804405"
-   "US2815303"
-   "US2861018"
-   "US2953486"
-   "US2967985"
-   "US2980560"
-   "US2997634"
-   "US3079287"
-   "US3085033"
-   "US3108915"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:koppers],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3183208/en",
-  :title
-  "Incorporating finely divided particles during suspension polymerization",
-  :status :granted,
-  :id "US3183208",
-  :sourcing :authoritative,
-  :filing-year 1961,
-  :assignee :koppers,
-  :grant-year 1965,
-  :cites ["US2489226" "US2512697" "US2751369" "US2848428" "US2986547"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:international-business-machines],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3187762/en",
-  :title "Electro-fluid apparatus",
-  :status :granted,
-  :id "US3187762",
-  :sourcing :authoritative,
-  :filing-year 1962,
-  :assignee :international-business-machines,
-  :grant-year 1965,
-  :cites ["FR1041060A" "US2932307" "US3001539" "US3053276"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:parke-davis-and],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3188181/en",
-  :title "Serial dilution machine",
-  :status :granted,
-  :id "US3188181",
-  :sourcing :authoritative,
-  :filing-year 1963,
-  :assignee :parke-davis-and,
-  :grant-year 1965,
-  :cites ["US2624656" "US2894542" "US3012863"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:ei-du-pont-de-nemours-and],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3188229/en",
-  :title "Process of adhering an organic coating to a substrate",
-  :status :granted,
-  :id "US3188229",
-  :sourcing :authoritative,
-  :filing-year 1961,
-  :assignee :ei-du-pont-de-nemours-and,
-  :grant-year 1965,
-  :cites
-  ["FR1079401A"
-   "US2666025"
-   "US2670483"
-   "US2678285"
-   "US2766220"
-   "US2875092"
-   "US2955953"
-   "US2999772"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:international-business-machines],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3188907/en",
-  :title "Opto-electrical scanning system for gray level detection",
-  :status :granted,
-  :id "US3188907",
-  :sourcing :authoritative,
-  :filing-year 1962,
-  :assignee :international-business-machines,
-  :grant-year 1965,
-  :cites ["US3064249" "US3072889"],
-  :term-years 20,
-  :open-license :none}
- {:jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US318910/en",
-  :title "Roofing-felt and its manufacture",
-  :status :granted,
-  :id "US318910",
-  :sourcing :authoritative,
-  :assignee :unassigned,
-  :grant-year 1885,
-  :term-years 20,
-  :open-license :none}
- {:assignees [:control-data],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3189873/en",
-  :title "Scanning pattern normalizer",
-  :status :granted,
-  :id "US3189873",
-  :sourcing :authoritative,
-  :filing-year 1962,
-  :assignee :control-data,
-  :grant-year 1965,
-  :cites ["GB850581A" "US2838602" "US3039080" "US3050711" "US3065457"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:ei-du-pont-de-nemours-and],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3190765/en",
-  :title "Vapor permeable sheet material and method of making same",
-  :status :granted,
-  :id "US3190765",
-  :sourcing :authoritative,
-  :filing-year 1961,
-  :assignee :ei-du-pont-de-nemours-and,
-  :grant-year 1965,
-  :cites ["US2724707" "US2826509" "US2848752" "US3000757" "US3067482"],
   :term-years 20,
   :open-license :none}]

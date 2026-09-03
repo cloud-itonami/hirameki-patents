@@ -1,4 +1,335 @@
-[{:assignees [:sandoz],
+[{:assignees [:becton-dickinson-and],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US4172227/en",
+  :title "Flow microfluorometer",
+  :status :granted,
+  :id "US4172227",
+  :sourcing :authoritative,
+  :filing-year 1978,
+  :assignee :becton-dickinson-and,
+  :grant-year 1979,
+  :cites
+  ["US3470373"
+   "US3497690"
+   "US3586859"
+   "US3864571"
+   "US3885879"
+   "US3916197"
+   "US3918812"
+   "US3973129"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:asahi-kasei-kogyo],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US4172937/en",
+  :title "Process for preparing polyimines",
+  :status :granted,
+  :id "US4172937",
+  :sourcing :authoritative,
+  :filing-year 1978,
+  :assignee :asahi-kasei-kogyo,
+  :grant-year 1979,
+  :cites ["BE622556A" "US3503739" "US3516971"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:merck-and],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US4173571/en",
+  :title "13-Halo and 13-deoxy derivatives of C-076 compounds",
+  :status :granted,
+  :id "US4173571",
+  :sourcing :authoritative,
+  :filing-year 1977,
+  :assignee :merck-and,
+  :grant-year 1979,
+  :cites ["US3950360"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:mitsui-petrochemical-industries],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US4174335/en",
+  :title
+  "Aqueous dispersions of olefinic resin compositions and process for preparation thereof",
+  :status :granted,
+  :id "US4174335",
+  :sourcing :authoritative,
+  :filing-year 1976,
+  :assignee :mitsui-petrochemical-industries,
+  :grant-year 1979,
+  :cites
+  ["US2496989"
+   "US3356629"
+   "US3475369"
+   "US3483276"
+   "US3485785"
+   "US3658948"
+   "US3689445"
+   "US3769151"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:syva],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US4174384/en",
+  :title
+  "Fluorescence quenching with immunological pairs in immunoassays",
+  :status :granted,
+  :id "US4174384",
+  :sourcing :authoritative,
+  :filing-year 1976,
+  :assignee :syva,
+  :grant-year 1979,
+  :cites ["US3992631" "US3996345" "US3998943"],
+  :term-years 20,
+  :open-license :none}
+ {:jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US4174385/en",
+  :title
+  "Method of identification of surface proteins of cancer cells, clinical test and method of immunization",
+  :status :granted,
+  :id "US4174385",
+  :sourcing :authoritative,
+  :filing-year 1976,
+  :assignee :unassigned,
+  :grant-year 1979,
+  :cites ["US4041023"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:pharmacia-fine-chemicals],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US4175073/en",
+  :title "Reactive derivatives of HS-group-containing polymers",
+  :status :granted,
+  :id "US4175073",
+  :sourcing :authoritative,
+  :filing-year 1978,
+  :assignee :pharmacia-fine-chemicals,
+  :grant-year 1979,
+  :cites ["US3666739" "US3947352"],
+  :term-years 20,
+  :open-license :none}
+ {:jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US4175662/en",
+  :title
+  "Method and device for sorting particles suspended in an electrolyte",
+  :status :granted,
+  :id "US4175662",
+  :sourcing :authoritative,
+  :filing-year 1978,
+  :assignee :unassigned,
+  :grant-year 1979,
+  :cites
+  ["US3514217"
+   "US3560754"
+   "US3791517"
+   "US3826364"
+   "US3827555"
+   "US4009782"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:burroughs-wellcome-usa],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US4176174/en",
+  :title "Viral antibody diagnostic test system",
+  :status :granted,
+  :id "US4176174",
+  :sourcing :authoritative,
+  :filing-year 1978,
+  :assignee :burroughs-wellcome-usa,
+  :grant-year 1979,
+  :cites ["US3715427" "US3843777"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees
+  [:max-planck-gesellschaft-zur-foerderung-der-wissenschaften-ev],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US4177038/en",
+  :title
+  "Method for the production of a vehicle substance which is capable of covalent bonding with biologically active matter",
+  :status :granted,
+  :id "US4177038",
+  :sourcing :authoritative,
+  :filing-year 1977,
+  :assignee
+  :max-planck-gesellschaft-zur-foerderung-der-wissenschaften-ev,
+  :grant-year 1979,
+  :cites
+  ["US3574062"
+   "US3672955"
+   "US3705084"
+   "US3905923"
+   "US3929574"
+   "US3947352"
+   "US3950222"
+   "US4063017"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:imperial-chemical-industries],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US4177253/en",
+  :title "Magnetic particles for immunoassay",
+  :status :granted,
+  :id "US4177253",
+  :sourcing :authoritative,
+  :filing-year 1977,
+  :assignee :imperial-chemical-industries,
+  :grant-year 1979,
+  :cites
+  ["US2939804"
+   "US3175935"
+   "US3505785"
+   "US3622367"
+   "US3700499"
+   "US3853987"
+   "US3977984"
+   "US4001288"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:bayer],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US4178279/en",
+  :title "Permanently stabilized polyurethanes",
+  :status :granted,
+  :id "US4178279",
+  :sourcing :authoritative,
+  :filing-year 1977,
+  :assignee :bayer,
+  :grant-year 1979,
+  :cites ["US2871226" "US2917486" "US3684765"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:behringwerke],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US4178368/en",
+  :title "Method for the treatment of thromboembolism",
+  :status :granted,
+  :id "US4178368",
+  :sourcing :authoritative,
+  :filing-year 1978,
+  :assignee :behringwerke,
+  :grant-year 1979,
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:electric-power-research-institute],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US4179927/en",
+  :title "Temperature sensing device",
+  :status :granted,
+  :id "US4179927",
+  :sourcing :authoritative,
+  :filing-year 1977,
+  :assignee :electric-power-research-institute,
+  :grant-year 1979,
+  :cites
+  ["US3513704"
+   "US3591810"
+   "US3672221"
+   "US3770965"
+   "US3863067"
+   "US3960017"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:becton-dickinson-and],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US4180383/en",
+  :title "Chamber holder for immobilized immunoadsorbent",
+  :status :granted,
+  :id "US4180383",
+  :sourcing :authoritative,
+  :filing-year 1977,
+  :assignee :becton-dickinson-and,
+  :grant-year 1979,
+  :cites
+  ["US3492396"
+   "US3652761"
+   "US3843444"
+   "US3849830"
+   "US3932141"
+   "US4052010"
+   "US4053284"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:shin-etsu-chemical],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US4180642/en",
+  :title "Room temperature curable organopolysiloxane compositions",
+  :status :granted,
+  :id "US4180642",
+  :sourcing :authoritative,
+  :filing-year 1978,
+  :assignee :shin-etsu-chemical,
+  :grant-year 1979,
+  :cites ["US3819563" "US4020044"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:varian-associates],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US4180739/en",
+  :title "Thermostatable flow cell for fluorescence measurements",
+  :status :granted,
+  :id "US4180739",
+  :sourcing :authoritative,
+  :filing-year 1977,
+  :assignee :varian-associates,
+  :grant-year 1979,
+  :cites ["US3151204" "US3869215" "US4008397" "US4082459"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:airco],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US4180771/en",
+  :title "Chemical-sensitive field-effect transistor",
+  :status :granted,
+  :id "US4180771",
+  :sourcing :authoritative,
+  :filing-year 1977,
+  :assignee :airco,
+  :grant-year 1979,
+  :cites ["US3311756" "US3381432" "US3999122" "US4020830"],
+  :term-years 20,
+  :open-license :none}
+ {:jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US4182750/en",
+  :title "Bloodcompatible functional polymers",
+  :status :granted,
+  :id "US4182750",
+  :sourcing :authoritative,
+  :filing-year 1977,
+  :assignee :unassigned,
+  :grant-year 1980,
+  :cites
+  ["US3434467"
+   "US3514438"
+   "US3673612"
+   "US3853987"
+   "US3938953"
+   "US3959079"
+   "US3995019"
+   "US4008047"
+   "US4010250"
+   "US4012317"
+   "US4031201"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:sandoz],
   :jurisdiction :us,
   :field "UNKNOWN",
   :source "https://patents.google.com/patent/US4184917/en",
@@ -9557,293 +9888,5 @@
   :sourcing :authoritative,
   :filing-year 1989,
   :assignee :baylor-college-of-medicine,
-  :term-years 20,
-  :open-license :none}
- {:assignees [:oxford-university-innovation],
-  :jurisdiction :wo,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/WO1990003382A1/en",
-  :title "Support-bound oligonucleotides",
-  :status :pending,
-  :id "WO1990003382A1",
-  :sourcing :authoritative,
-  :filing-year 1989,
-  :assignee :oxford-university-innovation,
-  :cites
-  ["DE3446635A1"
-   "EP0090789A1"
-   "EP0241363A1"
-   "EP0261283B1"
-   "WO1985001051A1"],
-  :term-years 20,
-  :open-license :none}
- {:assignees
-  [:dnax-research-institute-of-molecular-and-cellular-biology],
-  :jurisdiction :wo,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/WO1990004652A1/en",
-  :title "Dna sequencing by multiple mixed oligonucleotide probes",
-  :status :pending,
-  :id "WO1990004652A1",
-  :sourcing :authoritative,
-  :filing-year 1989,
-  :assignee :dnax-research-institute-of-molecular-and-cellular-biology,
-  :cites ["US4613566" "US4689295" "US4710465" "US4849332" "US4868104"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:eastman-kodak],
-  :jurisdiction :wo,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/WO1990008839A1/en",
-  :title "Thermostable polymerase dna sequencing reaction concentrate",
-  :status :pending,
-  :id "WO1990008839A1",
-  :sourcing :authoritative,
-  :filing-year 1990,
-  :assignee :eastman-kodak,
-  :cites ["EP0258017A2" "WO1988005470A1"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:amersham-international],
-  :jurisdiction :wo,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/WO1990013666A1/en",
-  :title "Sequencing method",
-  :status :pending,
-  :id "WO1990013666A1",
-  :sourcing :authoritative,
-  :filing-year 1990,
-  :assignee :amersham-international,
-  :cites ["EP0223618A2" "EP0233053A2" "US4770992" "WO1989003432A1"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:affymax-technologies],
-  :jurisdiction :wo,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/WO1990015070A1/en",
-  :title "Very large scale immobilized peptide synthesis",
-  :status :pending,
-  :id "WO1990015070A1",
-  :sourcing :authoritative,
-  :filing-year 1990,
-  :assignee :affymax-technologies,
-  :cites ["EP0328256A1"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:sri-international :stanford-research-institute],
-  :jurisdiction :wo,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/WO1991006678A1/en",
-  :title "Dna sequencing",
-  :status :pending,
-  :id "WO1991006678A1",
-  :sourcing :authoritative,
-  :filing-year 1990,
-  :assignee :sri-international,
-  :cites
-  ["EP0219342A2"
-   "EP0223618A2"
-   "WO1989003432A1"
-   "WO1989009283A1"
-   "WO1990013666A1"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:affymax-technologies],
-  :jurisdiction :wo,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/WO1991007087A1/en",
-  :title
-  "Spatially-addressable immobilization of anti-ligands on surfaces",
-  :status :pending,
-  :id "WO1991007087A1",
-  :sourcing :authoritative,
-  :filing-year 1990,
-  :assignee :affymax-technologies,
-  :cites
-  ["US4016043"
-   "US4371515"
-   "US4557998"
-   "US4567902"
-   "US4656252"
-   "US4709044"
-   "US4722906"
-   "US4775745"
-   "US4895809"
-   "US4898951"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:uniroyal-adhesives-and-sealants],
-  :jurisdiction :wo,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/WO1992002568A1/en",
-  :title
-  "Aqueous polyurethane dispersion synthesis for adhesive thermoforming applications",
-  :status :pending,
-  :id "WO1992002568A1",
-  :sourcing :authoritative,
-  :filing-year 1991,
-  :assignee :uniroyal-adhesives-and-sealants,
-  :cites ["US4558090" "US4762880"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:ei-du-pont-de-nemours-and :kansai-paint],
-  :jurisdiction :wo,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/WO1994027741A1/en",
-  :title "Process for forming overcoat",
-  :status :pending,
-  :id "WO1994027741A1",
-  :sourcing :authoritative,
-  :filing-year 1993,
-  :assignee :ei-du-pont-de-nemours-and,
-  :cites ["EP0263429A2" "EP0275138A2" "US4732790" "US4732791"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:basf-lacke-und-farben :nippon-oil-and-fats],
-  :jurisdiction :wo,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/WO1996022339A1/en",
-  :title "Water-based paint composition",
-  :status :pending,
-  :id "WO1996022339A1",
-  :sourcing :authoritative,
-  :filing-year 1996,
-  :assignee :basf-lacke-und-farben,
-  :cites ["EP0292004A2" "GB2060654A" "US3821145" "US5308890"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:avco :textron-automotive-interiors],
-  :jurisdiction :wo,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/WO1996033026A1/en",
-  :title "Radiation cured island coating system",
-  :status :pending,
-  :id "WO1996033026A1",
-  :sourcing :authoritative,
-  :filing-year 1996,
-  :assignee :avco,
-  :cites ["US4713143" "US5320869"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:kansai-paint],
-  :jurisdiction :wo,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/WO1997047396A1/en",
-  :title "Method for forming multi-layer metallic coating",
-  :status :pending,
-  :id "WO1997047396A1",
-  :sourcing :authoritative,
-  :filing-year 1997,
-  :assignee :kansai-paint,
-  :term-years 20,
-  :open-license :none}
- {:assignees [:basf-coatings],
-  :jurisdiction :wo,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/WO1998055526A1/en",
-  :title
-  "Coating agent, method for its production and its use as coating lacquer or transparent lacquer, in particular for coating plastics",
-  :status :pending,
-  :id "WO1998055526A1",
-  :sourcing :authoritative,
-  :filing-year 1998,
-  :assignee :basf-coatings,
-  :cites ["DE3109604A1" "EP0518779A1" "US5145893" "US5504178"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:ppg-industries-ohio],
-  :jurisdiction :wo,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/WO2000035600A1/en",
-  :title "Methods for forming composite coatings on substrates",
-  :status :pending,
-  :id "WO2000035600A1",
-  :sourcing :authoritative,
-  :filing-year 1999,
-  :assignee :ppg-industries-ohio,
-  :cites ["EP0238037A2" "EP0899314A1" "US4731290"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:mitsui-chemicals],
-  :jurisdiction :wo,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/WO2002010296A1/en",
-  :title
-  "Aqueous dispersion composition for imparting chipping resistance",
-  :status :pending,
-  :id "WO2002010296A1",
-  :sourcing :authoritative,
-  :filing-year 2001,
-  :assignee :mitsui-chemicals,
-  :cites ["JP2000160059A" "JP2000160094A" "JP2000345097A" "US4174335"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:idemitsu-petrochemical],
-  :jurisdiction :wo,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/WO2002024714A1/en",
-  :title
-  "Transition metal compounds, polymerization catalysts for olefins, olefin polymers and process for their production",
-  :status :pending,
-  :id "WO2002024714A1",
-  :sourcing :authoritative,
-  :filing-year 2001,
-  :assignee :idemitsu-petrochemical,
-  :cites ["JP2000095808A" "JP2001064314A"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:basf-coatings],
-  :jurisdiction :wo,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/WO2002096572A2/en",
-  :title
-  "Aqueous functional coating material and integrated method for production of coloured or effect-generating multi-layer coatings",
-  :status :pending,
-  :id "WO2002096572A2",
-  :sourcing :authoritative,
-  :filing-year 2002,
-  :assignee :basf-coatings,
-  :term-years 20,
-  :open-license :none}
- {:assignees [:nippon-paint],
-  :jurisdiction :wo,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/WO2004061025A1/en",
-  :title
-  "Aqueous intercoating composition and method for forming multilayer coating films",
-  :status :pending,
-  :id "WO2004061025A1",
-  :sourcing :authoritative,
-  :filing-year 2003,
-  :assignee :nippon-paint,
-  :cites ["GB2360227A" "US5635251" "WO1996022339A1"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:kansai-paint],
-  :jurisdiction :wo,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/WO2004074327A1/en",
-  :title "Process for producing aqueous resin dispersion",
-  :status :pending,
-  :id "WO2004074327A1",
-  :sourcing :authoritative,
-  :filing-year 2004,
-  :assignee :kansai-paint,
-  :cites ["JP2000095980A" "JP2000226537A" "JP2003231859A"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:ishihara-sangyo-kaisha :kansai-paint],
-  :jurisdiction :wo,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/WO2005012449A1/en",
-  :title
-  "White electrically conducting primer composition and process for forming multilayer coating films",
-  :status :pending,
-  :id "WO2005012449A1",
-  :sourcing :authoritative,
-  :filing-year 2004,
-  :assignee :ishihara-sangyo-kaisha,
-  :cites
-  ["JP2001139875A" "JP2002020107A" "JP2002121462A" "JP2004075735A"],
   :term-years 20,
   :open-license :none}]

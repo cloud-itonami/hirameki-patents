@@ -1,4 +1,293 @@
-[{:assignees [:smith-kline-&-french-laboratories],
+[{:assignees [:beckman-instruments],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3718563/en",
+  :title "Polarographic sensor and membrane therefor",
+  :status :granted,
+  :id "US3718563",
+  :sourcing :authoritative,
+  :filing-year 1971,
+  :assignee :beckman-instruments,
+  :grant-year 1973,
+  :cites ["US3278408" "US3574078" "US3575836" "US3617460"],
+  :term-years 20,
+  :open-license :none}
+ {:jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3718737/en",
+  :title "Process of treating bile and novel iodine-131 complex",
+  :status :granted,
+  :id "US3718737",
+  :sourcing :authoritative,
+  :filing-year 1967,
+  :assignee :unassigned,
+  :grant-year 1973,
+  :cites ["US3061510"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:farrand-optical],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3719410/en",
+  :title "Mixing and measuring apparatus",
+  :status :granted,
+  :id "US3719410",
+  :sourcing :authoritative,
+  :filing-year 1971,
+  :assignee :farrand-optical,
+  :grant-year 1973,
+  :cites
+  ["US1660974"
+   "US2587221"
+   "US2643940"
+   "US2971429"
+   "US3193357"
+   "US3585007"
+   "US3586064"
+   "US3679312"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:sun-oil],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3719454/en",
+  :title "Laser controlled chemical reactor",
+  :status :granted,
+  :id "US3719454",
+  :sourcing :authoritative,
+  :filing-year 1970,
+  :assignee :sun-oil,
+  :grant-year 1973,
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:pharmacia],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3720760/en",
+  :title
+  "Method for determining the presence of reagin-immunoglobulins(reagin-ig)directed against certain allergens,in aqueous samples",
+  :status :granted,
+  :id "US3720760",
+  :sourcing :authoritative,
+  :filing-year 1968,
+  :assignee :pharmacia,
+  :grant-year 1973,
+  :term-years 20,
+  :open-license :none}
+ {:jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3721528/en",
+  :title
+  "Method and apparatus for measuring the amount of a component in a biological fluid",
+  :status :granted,
+  :id "US3721528",
+  :sourcing :authoritative,
+  :filing-year 1970,
+  :assignee :unassigned,
+  :grant-year 1973,
+  :term-years 20,
+  :open-license :none}
+ {:jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3723003/en",
+  :title "Rangefinder",
+  :status :granted,
+  :id "US3723003",
+  :sourcing :authoritative,
+  :filing-year 1969,
+  :assignee :unassigned,
+  :grant-year 1973,
+  :cites ["CA728860A" "CA790879A" "FR822388A" "US3435744" "US3493769"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:us-department-of-navy],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3724383/en",
+  :title "Lasser stimulated ordnance initiation device",
+  :status :granted,
+  :id "US3724383",
+  :sourcing :authoritative,
+  :filing-year 1971,
+  :assignee :us-department-of-navy,
+  :grant-year 1973,
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:hycel],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3728080/en",
+  :title "Control apparatus for automatic chemical testing apparatus",
+  :status :granted,
+  :id "US3728080",
+  :sourcing :authoritative,
+  :filing-year 1971,
+  :assignee :hycel,
+  :grant-year 1973,
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:north-american-rockwell],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3728227/en",
+  :title "Microorganism culture apparatus",
+  :status :granted,
+  :id "US3728227",
+  :sourcing :authoritative,
+  :filing-year 1968,
+  :assignee :north-american-rockwell,
+  :grant-year 1973,
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:tetra-tech],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3728540/en",
+  :title "Pressure-modulated multiple gas analyzer",
+  :status :granted,
+  :id "US3728540",
+  :sourcing :authoritative,
+  :filing-year 1971,
+  :assignee :tetra-tech,
+  :grant-year 1973,
+  :cites ["US3005097" "US3600091"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:becton-dickinson-and],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3729382/en",
+  :title "Microorganism sampling dish",
+  :status :granted,
+  :id "US3729382",
+  :sourcing :authoritative,
+  :filing-year 1970,
+  :assignee :becton-dickinson-and,
+  :grant-year 1973,
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:american-cyanamid],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3730841/en",
+  :title "Encapsulated carrier bound enzymes",
+  :status :granted,
+  :id "US3730841",
+  :sourcing :authoritative,
+  :filing-year 1971,
+  :assignee :american-cyanamid,
+  :grant-year 1973,
+  :cites ["US2642376" "US3282702" "US3639306" "US3649457"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:science-spectrum],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3730842/en",
+  :title "Process for determining bacterial drug sensitivity",
+  :status :granted,
+  :id "US3730842",
+  :sourcing :authoritative,
+  :filing-year 1970,
+  :assignee :science-spectrum,
+  :grant-year 1973,
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:purdue-research-foundation],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3730844/en",
+  :title "Polynucleotide analysis",
+  :status :granted,
+  :id "US3730844",
+  :sourcing :authoritative,
+  :filing-year 1971,
+  :assignee :purdue-research-foundation,
+  :grant-year 1973,
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:farmitalla-soc],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3732149/en",
+  :title "Apparatus for the large scale growth of living cells",
+  :status :granted,
+  :id "US3732149",
+  :sourcing :authoritative,
+  :filing-year 1970,
+  :assignee :farmitalla-soc,
+  :grant-year 1973,
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:agfa-gevaert],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3733989/en",
+  :title "Automatic focusing arrangement",
+  :status :granted,
+  :id "US3733989",
+  :sourcing :authoritative,
+  :filing-year 1971,
+  :assignee :agfa-gevaert,
+  :grant-year 1973,
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:technicon-instruments],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3734622/en",
+  :title
+  "Apparatus for photometrically analyzing a droplet of a sample liquid",
+  :status :granted,
+  :id "US3734622",
+  :sourcing :authoritative,
+  :filing-year 1971,
+  :assignee :technicon-instruments,
+  :grant-year 1973,
+  :cites ["US1939088" "US2176618" "US3263553" "US3432275" "US3520609"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:us-atomic-energy-commission-aec],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3735001/en",
+  :title "Technetium bone scanning medium",
+  :status :granted,
+  :id "US3735001",
+  :sourcing :authoritative,
+  :filing-year 1972,
+  :assignee :us-atomic-energy-commission-aec,
+  :grant-year 1973,
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:western-electric],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3738752/en",
+  :title
+  "Intensity spatial filter having non-uniformly spaced filter elements",
+  :status :granted,
+  :id "US3738752",
+  :sourcing :authoritative,
+  :filing-year 1972,
+  :assignee :western-electric,
+  :grant-year 1973,
+  :cites ["US3414875" "US3614232" "US3630596" "US3658420"],
+  :term-years 20,
+  :open-license :none}
+ {:jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3738813/en",
+  :title "Mass transfer device and method of making same",
+  :status :granted,
+  :id "US3738813",
+  :sourcing :authoritative,
+  :filing-year 1971,
+  :assignee :unassigned,
+  :grant-year 1973,
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:smith-kline-&-french-laboratories],
   :jurisdiction :us,
   :field "UNKNOWN",
   :source "https://patents.google.com/patent/US3740321/en",
@@ -8987,336 +9276,5 @@
    "US3892973"
    "US3930914"
    "US4037111"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:becton-dickinson-and],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US4172227/en",
-  :title "Flow microfluorometer",
-  :status :granted,
-  :id "US4172227",
-  :sourcing :authoritative,
-  :filing-year 1978,
-  :assignee :becton-dickinson-and,
-  :grant-year 1979,
-  :cites
-  ["US3470373"
-   "US3497690"
-   "US3586859"
-   "US3864571"
-   "US3885879"
-   "US3916197"
-   "US3918812"
-   "US3973129"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:asahi-kasei-kogyo],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US4172937/en",
-  :title "Process for preparing polyimines",
-  :status :granted,
-  :id "US4172937",
-  :sourcing :authoritative,
-  :filing-year 1978,
-  :assignee :asahi-kasei-kogyo,
-  :grant-year 1979,
-  :cites ["BE622556A" "US3503739" "US3516971"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:merck-and],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US4173571/en",
-  :title "13-Halo and 13-deoxy derivatives of C-076 compounds",
-  :status :granted,
-  :id "US4173571",
-  :sourcing :authoritative,
-  :filing-year 1977,
-  :assignee :merck-and,
-  :grant-year 1979,
-  :cites ["US3950360"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:mitsui-petrochemical-industries],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US4174335/en",
-  :title
-  "Aqueous dispersions of olefinic resin compositions and process for preparation thereof",
-  :status :granted,
-  :id "US4174335",
-  :sourcing :authoritative,
-  :filing-year 1976,
-  :assignee :mitsui-petrochemical-industries,
-  :grant-year 1979,
-  :cites
-  ["US2496989"
-   "US3356629"
-   "US3475369"
-   "US3483276"
-   "US3485785"
-   "US3658948"
-   "US3689445"
-   "US3769151"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:syva],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US4174384/en",
-  :title
-  "Fluorescence quenching with immunological pairs in immunoassays",
-  :status :granted,
-  :id "US4174384",
-  :sourcing :authoritative,
-  :filing-year 1976,
-  :assignee :syva,
-  :grant-year 1979,
-  :cites ["US3992631" "US3996345" "US3998943"],
-  :term-years 20,
-  :open-license :none}
- {:jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US4174385/en",
-  :title
-  "Method of identification of surface proteins of cancer cells, clinical test and method of immunization",
-  :status :granted,
-  :id "US4174385",
-  :sourcing :authoritative,
-  :filing-year 1976,
-  :assignee :unassigned,
-  :grant-year 1979,
-  :cites ["US4041023"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:pharmacia-fine-chemicals],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US4175073/en",
-  :title "Reactive derivatives of HS-group-containing polymers",
-  :status :granted,
-  :id "US4175073",
-  :sourcing :authoritative,
-  :filing-year 1978,
-  :assignee :pharmacia-fine-chemicals,
-  :grant-year 1979,
-  :cites ["US3666739" "US3947352"],
-  :term-years 20,
-  :open-license :none}
- {:jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US4175662/en",
-  :title
-  "Method and device for sorting particles suspended in an electrolyte",
-  :status :granted,
-  :id "US4175662",
-  :sourcing :authoritative,
-  :filing-year 1978,
-  :assignee :unassigned,
-  :grant-year 1979,
-  :cites
-  ["US3514217"
-   "US3560754"
-   "US3791517"
-   "US3826364"
-   "US3827555"
-   "US4009782"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:burroughs-wellcome-usa],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US4176174/en",
-  :title "Viral antibody diagnostic test system",
-  :status :granted,
-  :id "US4176174",
-  :sourcing :authoritative,
-  :filing-year 1978,
-  :assignee :burroughs-wellcome-usa,
-  :grant-year 1979,
-  :cites ["US3715427" "US3843777"],
-  :term-years 20,
-  :open-license :none}
- {:assignees
-  [:max-planck-gesellschaft-zur-foerderung-der-wissenschaften-ev],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US4177038/en",
-  :title
-  "Method for the production of a vehicle substance which is capable of covalent bonding with biologically active matter",
-  :status :granted,
-  :id "US4177038",
-  :sourcing :authoritative,
-  :filing-year 1977,
-  :assignee
-  :max-planck-gesellschaft-zur-foerderung-der-wissenschaften-ev,
-  :grant-year 1979,
-  :cites
-  ["US3574062"
-   "US3672955"
-   "US3705084"
-   "US3905923"
-   "US3929574"
-   "US3947352"
-   "US3950222"
-   "US4063017"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:imperial-chemical-industries],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US4177253/en",
-  :title "Magnetic particles for immunoassay",
-  :status :granted,
-  :id "US4177253",
-  :sourcing :authoritative,
-  :filing-year 1977,
-  :assignee :imperial-chemical-industries,
-  :grant-year 1979,
-  :cites
-  ["US2939804"
-   "US3175935"
-   "US3505785"
-   "US3622367"
-   "US3700499"
-   "US3853987"
-   "US3977984"
-   "US4001288"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:bayer],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US4178279/en",
-  :title "Permanently stabilized polyurethanes",
-  :status :granted,
-  :id "US4178279",
-  :sourcing :authoritative,
-  :filing-year 1977,
-  :assignee :bayer,
-  :grant-year 1979,
-  :cites ["US2871226" "US2917486" "US3684765"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:behringwerke],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US4178368/en",
-  :title "Method for the treatment of thromboembolism",
-  :status :granted,
-  :id "US4178368",
-  :sourcing :authoritative,
-  :filing-year 1978,
-  :assignee :behringwerke,
-  :grant-year 1979,
-  :term-years 20,
-  :open-license :none}
- {:assignees [:electric-power-research-institute],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US4179927/en",
-  :title "Temperature sensing device",
-  :status :granted,
-  :id "US4179927",
-  :sourcing :authoritative,
-  :filing-year 1977,
-  :assignee :electric-power-research-institute,
-  :grant-year 1979,
-  :cites
-  ["US3513704"
-   "US3591810"
-   "US3672221"
-   "US3770965"
-   "US3863067"
-   "US3960017"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:becton-dickinson-and],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US4180383/en",
-  :title "Chamber holder for immobilized immunoadsorbent",
-  :status :granted,
-  :id "US4180383",
-  :sourcing :authoritative,
-  :filing-year 1977,
-  :assignee :becton-dickinson-and,
-  :grant-year 1979,
-  :cites
-  ["US3492396"
-   "US3652761"
-   "US3843444"
-   "US3849830"
-   "US3932141"
-   "US4052010"
-   "US4053284"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:shin-etsu-chemical],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US4180642/en",
-  :title "Room temperature curable organopolysiloxane compositions",
-  :status :granted,
-  :id "US4180642",
-  :sourcing :authoritative,
-  :filing-year 1978,
-  :assignee :shin-etsu-chemical,
-  :grant-year 1979,
-  :cites ["US3819563" "US4020044"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:varian-associates],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US4180739/en",
-  :title "Thermostatable flow cell for fluorescence measurements",
-  :status :granted,
-  :id "US4180739",
-  :sourcing :authoritative,
-  :filing-year 1977,
-  :assignee :varian-associates,
-  :grant-year 1979,
-  :cites ["US3151204" "US3869215" "US4008397" "US4082459"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:airco],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US4180771/en",
-  :title "Chemical-sensitive field-effect transistor",
-  :status :granted,
-  :id "US4180771",
-  :sourcing :authoritative,
-  :filing-year 1977,
-  :assignee :airco,
-  :grant-year 1979,
-  :cites ["US3311756" "US3381432" "US3999122" "US4020830"],
-  :term-years 20,
-  :open-license :none}
- {:jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US4182750/en",
-  :title "Bloodcompatible functional polymers",
-  :status :granted,
-  :id "US4182750",
-  :sourcing :authoritative,
-  :filing-year 1977,
-  :assignee :unassigned,
-  :grant-year 1980,
-  :cites
-  ["US3434467"
-   "US3514438"
-   "US3673612"
-   "US3853987"
-   "US3938953"
-   "US3959079"
-   "US3995019"
-   "US4008047"
-   "US4010250"
-   "US4012317"
-   "US4031201"],
   :term-years 20,
   :open-license :none}]
