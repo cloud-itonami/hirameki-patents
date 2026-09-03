@@ -1,4 +1,291 @@
-[{:assignees [:becton-dickinson-and],
+[{:assignees [:pharmacia-fine-chemicals],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US4149003/en",
+  :title "Pyridine disulfide compounds",
+  :status :granted,
+  :id "US4149003",
+  :sourcing :authoritative,
+  :filing-year 1978,
+  :assignee :pharmacia-fine-chemicals,
+  :grant-year 1979,
+  :cites ["US2872450" "US3950348"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:beecham-group],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US4152210/en",
+  :title
+  "Biologically active materials attached to a ferromagnetic support",
+  :status :granted,
+  :id "US4152210",
+  :sourcing :authoritative,
+  :filing-year 1975,
+  :assignee :beecham-group,
+  :grant-year 1979,
+  :cites ["US3351203" "US3470067" "US3519538" "US3705084" "US3796634"],
+  :term-years 20,
+  :open-license :none}
+ {:jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US4153416/en",
+  :title
+  "Process and apparatus for pulse labelling protein material in the Edman degradation process",
+  :status :granted,
+  :id "US4153416",
+  :sourcing :authoritative,
+  :filing-year 1977,
+  :assignee :unassigned,
+  :grant-year 1979,
+  :cites ["US3531258" "US3557077" "US3647390" "US3725010"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:cordis],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US4157280/en",
+  :title
+  "Test set for detecting the presence of antigens associated with hepatitis",
+  :status :granted,
+  :id "US4157280",
+  :sourcing :authoritative,
+  :filing-year 1975,
+  :assignee :cordis,
+  :grant-year 1979,
+  :cites
+  ["US3646346"
+   "US3654090"
+   "US3700609"
+   "US3826619"
+   "US3876504"
+   "US4016043"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:nuclear-international],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US4157895/en",
+  :title "RIA reagents and processes",
+  :status :granted,
+  :id "US4157895",
+  :sourcing :authoritative,
+  :filing-year 1977,
+  :assignee :nuclear-international,
+  :grant-year 1979,
+  :cites ["US3477817" "US3615222" "US3953172" "US3964865" "US4007008"],
+  :term-years 20,
+  :open-license :none}
+ {:jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US4160018/en",
+  :title
+  "Stabilized cancer associated polypeptide antigen and preparation thereof",
+  :status :granted,
+  :id "US4160018",
+  :sourcing :authoritative,
+  :filing-year 1976,
+  :assignee :unassigned,
+  :grant-year 1979,
+  :cites ["US3010875" "US3551555" "US3823126" "US3968827"],
+  :term-years 20,
+  :open-license :none}
+ {:jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US4160019/en",
+  :title
+  "Detection of cancer associated polypeptide antigen and preparation of antibodies thereto",
+  :status :granted,
+  :id "US4160019",
+  :sourcing :authoritative,
+  :filing-year 1976,
+  :assignee :unassigned,
+  :grant-year 1979,
+  :cites ["US3823126" "US3968827"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:research],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US4160817/en",
+  :title
+  "Application of protein-protein interaction as an assay for the detection of cancer",
+  :status :granted,
+  :id "US4160817",
+  :sourcing :authoritative,
+  :filing-year 1976,
+  :assignee :research,
+  :grant-year 1979,
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:syva],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US4161515/en",
+  :title "Double receptor fluorescent immunoassay",
+  :status :granted,
+  :id "US4161515",
+  :sourcing :authoritative,
+  :filing-year 1976,
+  :assignee :syva,
+  :grant-year 1979,
+  :cites ["US3641235" "US3720760" "US3901654" "US3998943"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:ebauches],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US4165394/en",
+  :title
+  "Method of preparation of a substrate made of plastic material for its subsequent metallization",
+  :status :granted,
+  :id "US4165394",
+  :sourcing :authoritative,
+  :filing-year 1978,
+  :assignee :ebauches,
+  :grant-year 1979,
+  :cites
+  ["US3317339"
+   "US3362841"
+   "US3471320"
+   "US3686018"
+   "US3874877"
+   "US3954570"
+   "US4002778"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:block-engineering],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US4166105/en",
+  :title "Dye tagged reagent",
+  :status :granted,
+  :id "US4166105",
+  :sourcing :authoritative,
+  :filing-year 1974,
+  :assignee :block-engineering,
+  :grant-year 1979,
+  :cites
+  ["US3553310"
+   "US3636023"
+   "US3641235"
+   "US3789116"
+   "US3796634"
+   "US3816492"
+   "US3853987"
+   "US3970597"
+   "US4016149"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:kabi],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US4168146/en",
+  :title "Immunoassay with test strip having antibodies bound thereto",
+  :status :granted,
+  :id "US4168146",
+  :sourcing :authoritative,
+  :filing-year 1976,
+  :assignee :kabi,
+  :grant-year 1979,
+  :cites
+  ["US3432424"
+   "US3645852"
+   "US3654090"
+   "US3666421"
+   "US3770383"
+   "US3789116"
+   "US3790663"
+   "US3791933"
+   "US3843450"
+   "US3859430"
+   "US3868219"
+   "US3876504"
+   "US4036946"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:kabi],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US4168300/en",
+  :title "Method of removal of hepatitis virus",
+  :status :granted,
+  :id "US4168300",
+  :sourcing :authoritative,
+  :filing-year 1976,
+  :assignee :kabi,
+  :grant-year 1979,
+  :cites
+  ["US3425962"
+   "US3636191"
+   "US3836433"
+   "US3852157"
+   "US3951937"
+   "US3976767"
+   "US3991018"
+   "US3992517"
+   "US3994870"
+   "US4000098"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:block-engineering],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US4169137/en",
+  :title "Antigen detecting reagents",
+  :status :granted,
+  :id "US4169137",
+  :sourcing :authoritative,
+  :filing-year 1974,
+  :assignee :block-engineering,
+  :grant-year 1979,
+  :cites
+  ["US3553310"
+   "US3639558"
+   "US3641235"
+   "US3789116"
+   "US3796634"
+   "US3853987"
+   "US3970597"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:american-hospital-supply],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US4170043/en",
+  :title "Coated intraocular lens and surgical tool",
+  :status :granted,
+  :id "US4170043",
+  :sourcing :authoritative,
+  :filing-year 1977,
+  :assignee :american-hospital-supply,
+  :grant-year 1979,
+  :cites ["US3996626" "US4047532" "US4113088" "US4127903" "US4136406"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:massachusetts-institute-of-technology],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US4170512/en",
+  :title "Method of manufacture of a soft-X-ray mask",
+  :status :granted,
+  :id "US4170512",
+  :sourcing :authoritative,
+  :filing-year 1977,
+  :assignee :massachusetts-institute-of-technology,
+  :grant-year 1979,
+  :cites
+  ["US3179634"
+   "US3607997"
+   "US3742230"
+   "US3767494"
+   "US3873824"
+   "US3892973"
+   "US3930914"
+   "US4037111"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:becton-dickinson-and],
   :jurisdiction :us,
   :field "UNKNOWN",
   :source "https://patents.google.com/patent/US4172227/en",
@@ -9331,6 +9618,18 @@
   :grant-year 1911,
   :term-years 20,
   :open-license :none}
+ {:jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US988981/en",
+  :title "Preparing kinematographic-film supports.",
+  :status :granted,
+  :id "US988981",
+  :sourcing :authoritative,
+  :filing-year 1909,
+  :assignee :unassigned,
+  :grant-year 1911,
+  :term-years 20,
+  :open-license :none}
  {:jurisdiction :wo,
   :field "UNKNOWN",
   :source "https://patents.google.com/patent/WO1979000377A1/en",
@@ -9634,259 +9933,5 @@
   :filing-year 1985,
   :assignee :yale-university,
   :cites ["US4394443" "US4395486"],
-  :term-years 20,
-  :open-license :none}
- {:assignees
-  [:university-of-california-berkeley
-   :university-of-california-san-diego-ucsd],
-  :jurisdiction :wo,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/WO1986001834A1/en",
-  :title
-  "Retroviral polypeptides associated with human cellular transformation",
-  :status :pending,
-  :id "WO1986001834A1",
-  :sourcing :authoritative,
-  :filing-year 1985,
-  :assignee :university-of-california-berkeley,
-  :term-years 20,
-  :open-license :none}
- {:assignees [:dgi :qiagen-gaithersburg],
-  :jurisdiction :wo,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/WO1986003227A1/en",
-  :title
-  "An assay for nucleic acid sequences, particularly genetic lesions",
-  :status :pending,
-  :id "WO1986003227A1",
-  :sourcing :authoritative,
-  :filing-year 1985,
-  :assignee :dgi,
-  :cites
-  ["EP0070685A2"
-   "EP0070686A2"
-   "EP0124221A1"
-   "EP0130515A2"
-   "EP0137515A2"
-   "EP0142299A2"
-   "EP0144913A2"
-   "EP0147665A1"
-   "EP0159719B1"],
-  :term-years 20,
-  :open-license :none}
- {:jurisdiction :wo,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/WO1986003782A1/en",
-  :title
-  "Improved sandwich hybridisation technique for the detection of nucleotide sequences",
-  :status :pending,
-  :id "WO1986003782A1",
-  :sourcing :authoritative,
-  :filing-year 1985,
-  :assignee :unassigned,
-  :cites
-  ["EP0070687B1"
-   "EP0079139A1"
-   "EP0124221A1"
-   "EP0130515A2"
-   "EP0130523A2"
-   "US4395486"
-   "WO1984004332A1"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:georgetown-university],
-  :jurisdiction :wo,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/WO1986005816A1/en",
-  :title "Type-specific papillomavirus dna sequences and peptides",
-  :status :pending,
-  :id "WO1986005816A1",
-  :sourcing :authoritative,
-  :filing-year 1986,
-  :assignee :georgetown-university,
-  :cites ["US4358535" "US4419446" "US4551270"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:salk-institute-for-biological-studies],
-  :jurisdiction :wo,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/WO1986005817A1/en",
-  :title "Dna sequencing",
-  :status :pending,
-  :id "WO1986005817A1",
-  :sourcing :authoritative,
-  :filing-year 1986,
-  :assignee :salk-institute-for-biological-studies,
-  :cites ["EP0115777A2"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:royal-postgraduate-medical-school],
-  :jurisdiction :wo,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/WO1987007531A1/en",
-  :title "Endotoxin removal",
-  :status :pending,
-  :id "WO1987007531A1",
-  :sourcing :authoritative,
-  :filing-year 1987,
-  :assignee :royal-postgraduate-medical-school,
-  :cites ["EP0110409A2" "EP0129786A2"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:queen-mary-university-of-london],
-  :jurisdiction :wo,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/WO1987007645A1/en",
-  :title "A method of sequencing nucleic acids",
-  :status :pending,
-  :id "WO1987007645A1",
-  :sourcing :authoritative,
-  :filing-year 1987,
-  :assignee :queen-mary-university-of-london,
-  :cites ["EP0121778A1" "EP0127737A1"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:siska-diagnostics],
-  :jurisdiction :wo,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/WO1988001302A1/en",
-  :title "Nucleic acid probe assay methods and compositions",
-  :status :pending,
-  :id "WO1988001302A1",
-  :sourcing :authoritative,
-  :filing-year 1987,
-  :assignee :siska-diagnostics,
-  :cites
-  ["EP0070687B1"
-   "US2277"
-   "US4302204"
-   "US4358535"
-   "US4419444"
-   "US4469796"
-   "US4486539"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:ei-du-pont-de-nemours-and],
-  :jurisdiction :wo,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/WO1988002381A1/en",
-  :title "Pigment dispersant resin with s-containing acid",
-  :status :pending,
-  :id "WO1988002381A1",
-  :sourcing :authoritative,
-  :filing-year 1987,
-  :assignee :ei-du-pont-de-nemours-and,
-  :cites
-  ["EP0058865A2"
-   "EP0129329B1"
-   "US2914499"
-   "US3711449"
-   "US3898037"
-   "US4001150"
-   "US4008293"
-   "US4177178"
-   "US4450013"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:ei-du-pont-de-nemours-and],
-  :jurisdiction :wo,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/WO1988002382A1/en",
-  :title "Pigment dispersant resin with p-containing acid",
-  :status :pending,
-  :id "WO1988002382A1",
-  :sourcing :authoritative,
-  :filing-year 1987,
-  :assignee :ei-du-pont-de-nemours-and,
-  :cites ["EP0170474A2" "US4001150" "US4612384"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:harvard-university],
-  :jurisdiction :wo,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/WO1988005470A1/en",
-  :title "T7 dna polymerase",
-  :status :pending,
-  :id "WO1988005470A1",
-  :sourcing :authoritative,
-  :filing-year 1987,
-  :assignee :harvard-university,
-  :cites ["US4483922"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:us-department-of-energy],
-  :jurisdiction :wo,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/WO1989003432A1/en",
-  :title "Method for rapid base sequencing in dna and rna",
-  :status :pending,
-  :id "WO1989003432A1",
-  :sourcing :authoritative,
-  :filing-year 1988,
-  :assignee :us-department-of-energy,
-  :cites ["EP0251575A1" "US3730844" "US4521509" "US4793705"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:cemu-bioteknik],
-  :jurisdiction :wo,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/WO1989009282A1/en",
-  :title "Method of sequencing dna",
-  :status :pending,
-  :id "WO1989009282A1",
-  :sourcing :authoritative,
-  :filing-year 1989,
-  :assignee :cemu-bioteknik,
-  :cites ["EP0206411A2" "EP0229701A2" "WO1987007645A1"],
-  :term-years 20,
-  :open-license :none}
- {:jurisdiction :wo,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/WO1989009283A1/en",
-  :title
-  "Pyrophosphate-based method and apparatus for sequencing nucleic acids",
-  :status :pending,
-  :id "WO1989009283A1",
-  :sourcing :authoritative,
-  :filing-year 1989,
-  :assignee :unassigned,
-  :term-years 20,
-  :open-license :none}
- {:assignees [:oxford-university-innovation],
-  :jurisdiction :wo,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/WO1989010977A1/en",
-  :title "Analysing polynucleotide sequences",
-  :status :pending,
-  :id "WO1989010977A1",
-  :sourcing :authoritative,
-  :filing-year 1989,
-  :assignee :oxford-university-innovation,
-  :cites ["EP0228075A2" "GB2156074A" "WO1985001051A1"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:cetus],
-  :jurisdiction :wo,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/WO1989011548A1/en",
-  :title "Immobilized sequence-specific probes",
-  :status :pending,
-  :id "WO1989011548A1",
-  :sourcing :authoritative,
-  :filing-year 1989,
-  :assignee :cetus,
-  :cites ["EP0130523A2" "EP0142299A2"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:baylor-college-of-medicine],
-  :jurisdiction :wo,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/WO1990000626A1/en",
-  :title "Solid phase assembly and reconstruction of biopolymers",
-  :status :pending,
-  :id "WO1990000626A1",
-  :sourcing :authoritative,
-  :filing-year 1989,
-  :assignee :baylor-college-of-medicine,
   :term-years 20,
   :open-license :none}]

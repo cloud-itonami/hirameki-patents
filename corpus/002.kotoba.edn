@@ -1,4 +1,205 @@
-[{:assignees [:american-cyanamid],
+[{:assignees [:ei-du-pont-de-nemours-and],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2633422/en",
+  :title "Process for making integral color correction masks",
+  :status :granted,
+  :id "US2633422",
+  :sourcing :authoritative,
+  :filing-year 1948,
+  :assignee :ei-du-pont-de-nemours-and,
+  :grant-year 1953,
+  :cites
+  ["US2193931"
+   "US2297732"
+   "US2306410"
+   "US2431996"
+   "US2449966"
+   "US2518739"],
+  :term-years 20,
+  :open-license :none}
+ {:jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2633434/en",
+  :title "Method of producing mat surfaces",
+  :status :granted,
+  :id "US2633434",
+  :sourcing :authoritative,
+  :assignee :unassigned,
+  :grant-year 1953,
+  :cites ["US1967863" "US2311489" "US2385320" "US2428716" "US2431745"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:american-television],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2634510/en",
+  :title "Method for drying tenuous films",
+  :status :granted,
+  :id "US2634510",
+  :sourcing :authoritative,
+  :filing-year 1950,
+  :assignee :american-television,
+  :grant-year 1953,
+  :cites
+  ["GB189626075A"
+   "US1348757"
+   "US1512909"
+   "US2063350"
+   "US2077378"
+   "US2285261"
+   "US2391573"
+   "US2444572"
+   "US2519728"
+   "US2537416"
+   "US560561"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:babcock-and-wilcox],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2635192/en",
+  :title "Fluorescent spectral analysis",
+  :status :granted,
+  :id "US2635192",
+  :sourcing :authoritative,
+  :filing-year 1949,
+  :assignee :babcock-and-wilcox,
+  :grant-year 1953,
+  :cites
+  ["GB382518A"
+   "US2347638"
+   "US2442752"
+   "US2445132"
+   "US2449066"
+   "US2452045"
+   "US2521772"
+   "US2540821"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:hercules-powder],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2635972/en",
+  :title "Coated paper and process for making same",
+  :status :granted,
+  :id "US2635972",
+  :sourcing :authoritative,
+  :filing-year 1950,
+  :assignee :hercules-powder,
+  :grant-year 1953,
+  :cites ["GB491488A"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:carroll-v-radke :getty-manufacturing-&-tool],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2636563/en",
+  :title "Oil well finishing tool",
+  :status :granted,
+  :id "US2636563",
+  :sourcing :authoritative,
+  :filing-year 1948,
+  :assignee :carroll-v-radke,
+  :grant-year 1953,
+  :cites
+  ["US1920103"
+   "US2132081"
+   "US2133272"
+   "US2144850"
+   "US2152794"
+   "US2192236"
+   "US2241439"
+   "US2246811"
+   "US2374169"
+   "US2401119"
+   "US2431751"
+   "US2508286"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:bf-goodrich],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2636870/en",
+  :title
+  "Aqueous synthetic resin dispersion for the production of nontacky and nonblocking films and coatings",
+  :status :granted,
+  :id "US2636870",
+  :sourcing :authoritative,
+  :filing-year 1951,
+  :assignee :bf-goodrich,
+  :grant-year 1953,
+  :cites ["GB605517A"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:ethicon-suture-laboratories],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2640752/en",
+  :title "Process of making sutures",
+  :status :granted,
+  :id "US2640752",
+  :sourcing :authoritative,
+  :filing-year 1949,
+  :assignee :ethicon-suture-laboratories,
+  :grant-year 1953,
+  :cites
+  ["FR824219A"
+   "US194693"
+   "US2059817"
+   "US2205882"
+   "US2240388"
+   "US2374201"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:hercules-powder],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2640790/en",
+  :title "Coated paper and process for making same",
+  :status :granted,
+  :id "US2640790",
+  :sourcing :authoritative,
+  :filing-year 1949,
+  :assignee :hercules-powder,
+  :grant-year 1953,
+  :cites
+  ["FR480679A"
+   "US1682293"
+   "US2373933"
+   "US2422000"
+   "US2425769"
+   "US2441927"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:emhart-manufacturing],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2642212/en",
+  :title "Tilting bucket bottle loader",
+  :status :granted,
+  :id "US2642212",
+  :sourcing :authoritative,
+  :filing-year 1948,
+  :assignee :emhart-manufacturing,
+  :grant-year 1953,
+  :cites
+  ["FR657831A"
+   "US1263485"
+   "US1325527"
+   "US1422229"
+   "US1524641"
+   "US1696294"
+   "US1765419"
+   "US1981642"
+   "US2119596"
+   "US2355597"
+   "US2355722"
+   "US2436820"
+   "US931434"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:american-cyanamid],
   :jurisdiction :us,
   :field "UNKNOWN",
   :source "https://patents.google.com/patent/US2642514/en",
@@ -133,6 +334,21 @@
    "US2309412"
    "US2529856"
    "US438787"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:cowles-chemical],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2646373/en",
+  :title
+  "Treatment of papermaking fibers with organosilicon compounds",
+  :status :granted,
+  :id "US2646373",
+  :sourcing :authoritative,
+  :filing-year 1950,
+  :assignee :cowles-chemical,
+  :grant-year 1953,
+  :cites ["US2386259" "US2439689" "US2449572" "US2507200"],
   :term-years 20,
   :open-license :none}
  {:assignees [:north-american-paper-process],
@@ -1031,6 +1247,28 @@
    "US2444560"
    "US2605671"
    "US2613572"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:american-can],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2690255/en",
+  :title
+  "Method of packing adhesives in shipping containers for easy removal",
+  :status :granted,
+  :id "US2690255",
+  :sourcing :authoritative,
+  :filing-year 1951,
+  :assignee :american-can,
+  :grant-year 1954,
+  :cites
+  ["US1666730"
+   "US2310712"
+   "US2348622"
+   "US2462242"
+   "US2470593"
+   "US2477787"
+   "US2606510"],
   :term-years 20,
   :open-license :none}
  {:assignees [:eastman-kodak],
@@ -1935,6 +2173,21 @@
   :assignee :hermorion,
   :grant-year 1956,
   :cites ["US1036399" "US1485141" "US2083618" "US2484780"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:armstrong-cork],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2739910/en",
+  :title
+  "Method of improving the scrub resistance of polyvinyl acetate coating compositions",
+  :status :granted,
+  :id "US2739910",
+  :sourcing :authoritative,
+  :filing-year 1953,
+  :assignee :armstrong-cork,
+  :grant-year 1956,
+  :cites ["US2587636" "US2601315" "US2650170" "US2673824"],
   :term-years 20,
   :open-license :none}
  {:assignees [:phillips-petroleum],
@@ -6079,6 +6332,28 @@
    "US2829701"],
   :term-years 20,
   :open-license :none}
+ {:assignees [:fibreboard-paper-products],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2970932/en",
+  :title "Paperboard having a water-repellent coating",
+  :status :granted,
+  :id "US2970932",
+  :sourcing :authoritative,
+  :filing-year 1958,
+  :assignee :fibreboard-paper-products,
+  :grant-year 1961,
+  :cites
+  ["US2408656"
+   "US2441422"
+   "US2441423"
+   "US2601291"
+   "US2707157"
+   "US2713545"
+   "US2768906"
+   "US2833661"],
+  :term-years 20,
+  :open-license :none}
  {:assignees [:rca],
   :jurisdiction :us,
   :field "UNKNOWN",
@@ -6960,6 +7235,28 @@
   :sourcing :authoritative,
   :assignee :unassigned,
   :grant-year 1884,
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:eastman-kodak],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3017270/en",
+  :title "Photographic silver halide diffusion transfer process",
+  :status :granted,
+  :id "US3017270",
+  :sourcing :authoritative,
+  :filing-year 1958,
+  :assignee :eastman-kodak,
+  :grant-year 1962,
+  :cites
+  ["US2197809"
+   "US2271623"
+   "US2275727"
+   "US2289367"
+   "US2699393"
+   "US2725298"
+   "US2848330"
+   "US2886437"],
   :term-years 20,
   :open-license :none}
  {:assignees [:ekco-alcoa-containers],
@@ -9731,285 +10028,5 @@
   :assignee :exxon-research-and-engineering,
   :grant-year 1965,
   :cites ["US1559461" "US2571171" "US2740032" "US2857532" "US2937524"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:beckman-instruments],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3164663/en",
-  :title "Probe for colorimetric measurement",
-  :status :granted,
-  :id "US3164663",
-  :sourcing :authoritative,
-  :filing-year 1960,
-  :assignee :beckman-instruments,
-  :grant-year 1965,
-  :cites
-  ["US1806199"
-   "US1877501"
-   "US2281545"
-   "US2324304"
-   "US2727997"
-   "US2892378"
-   "US2922891"
-   "US2964640"],
-  :term-years 20,
-  :open-license :none}
- {:jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3166186/en",
-  :title
-  "Pressure sensitive labels, label stocks, and methods for manufacturing the same",
-  :status :granted,
-  :id "US3166186",
-  :sourcing :authoritative,
-  :filing-year 1962,
-  :assignee :unassigned,
-  :grant-year 1965,
-  :cites
-  ["US1996835"
-   "US2679928"
-   "US2732065"
-   "US2831277"
-   "US2883044"
-   "US3032463"
-   "US3038597"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:ei-du-pont-de-nemours-and],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3166435/en",
-  :title "Drying process for hydrophilic films",
-  :status :granted,
-  :id "US3166435",
-  :sourcing :authoritative,
-  :filing-year 1961,
-  :assignee :ei-du-pont-de-nemours-and,
-  :grant-year 1965,
-  :cites
-  ["US1978341"
-   "US2098534"
-   "US2201747"
-   "US2281496"
-   "US2321938"
-   "US2593207"
-   "US2597625"
-   "US2971857"
-   "US2977243"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:ei-du-pont-de-nemours-and],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3166532/en",
-  :title "Process for polymerizing an aromatic dialdehyde",
-  :status :granted,
-  :id "US3166532",
-  :sourcing :authoritative,
-  :filing-year 1961,
-  :assignee :ei-du-pont-de-nemours-and,
-  :grant-year 1965,
-  :cites ["US2848437"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:technicon-chromatography],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3166929/en",
-  :title
-  "Chromatography analysis apparatus with standardization provision",
-  :status :granted,
-  :id "US3166929",
-  :sourcing :authoritative,
-  :filing-year 1961,
-  :assignee :technicon-chromatography,
-  :grant-year 1965,
-  :cites ["US2797149" "US2890617"],
-  :term-years 20,
-  :open-license :none}
- {:jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3167485/en",
-  :title "Water insoluble modified enzymes",
-  :status :granted,
-  :id "US3167485",
-  :sourcing :authoritative,
-  :filing-year 1961,
-  :assignee :unassigned,
-  :grant-year 1965,
-  :term-years 20,
-  :open-license :none}
- {:assignees [:upjohn],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3167540/en",
-  :title "Derivatives of 7-d-ribofuranosyl-pyrrolopyrimidines",
-  :status :granted,
-  :id "US3167540",
-  :sourcing :authoritative,
-  :filing-year 1963,
-  :assignee :upjohn,
-  :grant-year 1965,
-  :cites ["US3049536"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:international-business-machines],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3168897/en",
-  :title "Fluid control apparatus",
-  :status :granted,
-  :id "US3168897",
-  :sourcing :authoritative,
-  :filing-year 1961,
-  :assignee :international-business-machines,
-  :grant-year 1965,
-  :cites ["US3001539" "US3071154"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:monsanto],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3170835/en",
-  :title
-  "Nitromethylbenzyl-phosphorothioic acid diesters and nematocidal methods employing same",
-  :status :granted,
-  :id "US3170835",
-  :sourcing :authoritative,
-  :filing-year 1957,
-  :assignee :monsanto,
-  :grant-year 1965,
-  :cites
-  ["CH257649A"
-   "US2177757"
-   "US2266514"
-   "US2494283"
-   "US2506344"
-   "US2526179"
-   "US2632020"
-   "US2679508"
-   "US2724719"
-   "US2758954"
-   "US2789124"
-   "US2802856"
-   "US2841520"
-   "US2979522"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:schwarz-biores],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3170917/en",
-  :title "Deamination of heterocyclic amino containing compounds",
-  :status :granted,
-  :id "US3170917",
-  :sourcing :authoritative,
-  :filing-year 1962,
-  :assignee :schwarz-biores,
-  :grant-year 1965,
-  :cites ["US3049536"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:nippon-electric],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3171187/en",
-  :title "Method of manufacturing semiconductor devices",
-  :status :granted,
-  :id "US3171187",
-  :sourcing :authoritative,
-  :filing-year 1963,
-  :assignee :nippon-electric,
-  :grant-year 1965,
-  :cites
-  ["GB809877A"
-   "US2627545"
-   "US2900584"
-   "US2985806"
-   "US3061766"
-   "US3065525"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:spofa-vereinigte-pharma-werke],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3171833/en",
-  :title "Method of preparing 1-glucosyl-6-azauracils",
-  :status :granted,
-  :id "US3171833",
-  :sourcing :authoritative,
-  :filing-year 1962,
-  :assignee :spofa-vereinigte-pharma-werke,
-  :grant-year 1965,
-  :cites ["US3041335"],
-  :term-years 20,
-  :open-license :none}
- {:jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3172235/en",
-  :title "Apparatus for live cell propagation",
-  :status :granted,
-  :id "US3172235",
-  :sourcing :authoritative,
-  :filing-year 1961,
-  :assignee :unassigned,
-  :grant-year 1965,
-  :cites ["DE485041C" "US2658310" "US2975553"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:optische-industrie-de-oude-delft],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3173012/en",
-  :title
-  "Telescope system for simultaneously viewing two superposed images of the same objectat different magnifications",
-  :status :granted,
-  :id "US3173012",
-  :sourcing :authoritative,
-  :filing-year 1962,
-  :assignee :optische-industrie-de-oude-delft,
-  :grant-year 1965,
-  :cites ["DE1087366B" "US1966823" "US3054899"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:gevaert-photo-producten],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3174859/en",
-  :title
-  "Process for obtaining multiple photographic positive images by diffusiontransfer",
-  :status :granted,
-  :id "US3174859",
-  :sourcing :authoritative,
-  :filing-year 1960,
-  :assignee :gevaert-photo-producten,
-  :grant-year 1965,
-  :cites
-  ["GB805854A"
-   "GB830189A"
-   "US2484423"
-   "US2518698"
-   "US2753263"
-   "US2834676"
-   "US2857274"
-   "US2857276"
-   "US2983606"
-   "US3017270"
-   "US3075841"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:talb-ind],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3175907/en",
-  :title "Stripping resists from printing plates",
-  :status :granted,
-  :id "US3175907",
-  :sourcing :authoritative,
-  :filing-year 1963,
-  :assignee :talb-ind,
-  :grant-year 1965,
-  :cites ["US3051603"],
   :term-years 20,
   :open-license :none}]
