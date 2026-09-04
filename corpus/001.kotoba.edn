@@ -1,5 +1,17 @@
 [{:jurisdiction :us,
   :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US1660974/en",
+  :title "Rapid-mixing flask",
+  :status :granted,
+  :id "US1660974",
+  :sourcing :authoritative,
+  :filing-year 1926,
+  :assignee :unassigned,
+  :grant-year 1928,
+  :term-years 20,
+  :open-license :none}
+ {:jurisdiction :us,
+  :field "UNKNOWN",
   :source "https://patents.google.com/patent/US1661174/en",
   :title "Glue spreader",
   :status :granted,
@@ -633,6 +645,19 @@
   :sourcing :authoritative,
   :filing-year 1929,
   :assignee :unassigned,
+  :grant-year 1932,
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:celanese],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US1870408/en",
+  :title "Coloring of textile materials",
+  :status :granted,
+  :id "US1870408",
+  :sourcing :authoritative,
+  :filing-year 1929,
+  :assignee :celanese,
   :grant-year 1932,
   :term-years 20,
   :open-license :none}
@@ -1384,6 +1409,18 @@
   :sourcing :authoritative,
   :filing-year 1933,
   :assignee :woodall-ind-incorproated,
+  :grant-year 1935,
+  :term-years 20,
+  :open-license :none}
+ {:jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2001582/en",
+  :title "Belt treatment",
+  :status :granted,
+  :id "US2001582",
+  :sourcing :authoritative,
+  :filing-year 1932,
+  :assignee :unassigned,
   :grant-year 1935,
   :term-years 20,
   :open-license :none}
@@ -2206,6 +2243,19 @@
   :grant-year 1937,
   :term-years 20,
   :open-license :none}
+ {:assignees [:garlock-packing],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2099241/en",
+  :title "Packing composition",
+  :status :granted,
+  :id "US2099241",
+  :sourcing :authoritative,
+  :filing-year 1935,
+  :assignee :garlock-packing,
+  :grant-year 1937,
+  :term-years 20,
+  :open-license :none}
  {:assignees [:consolidated-water-power-and-paper],
   :jurisdiction :us,
   :field "UNKNOWN",
@@ -2500,6 +2550,19 @@
   :sourcing :authoritative,
   :filing-year 1936,
   :assignee :jabez-burns-and-sons,
+  :grant-year 1938,
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:kendall],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2133609/en",
+  :title "Surgical dressing",
+  :status :granted,
+  :id "US2133609",
+  :sourcing :authoritative,
+  :filing-year 1934,
+  :assignee :kendall,
   :grant-year 1938,
   :term-years 20,
   :open-license :none}
@@ -2984,6 +3047,18 @@
   :sourcing :authoritative,
   :filing-year 1938,
   :assignee :ei-du-pont-de-nemours-and,
+  :grant-year 1939,
+  :term-years 20,
+  :open-license :none}
+ {:jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2181835/en",
+  :title "Thread surface coating composition",
+  :status :granted,
+  :id "US2181835",
+  :sourcing :authoritative,
+  :filing-year 1937,
+  :assignee :unassigned,
   :grant-year 1939,
   :term-years 20,
   :open-license :none}
@@ -4313,6 +4388,19 @@
   :grant-year 1942,
   :term-years 20,
   :open-license :none}
+ {:assignees [:armstrong-cork],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2287780/en",
+  :title "Long draft apron",
+  :status :granted,
+  :id "US2287780",
+  :sourcing :authoritative,
+  :filing-year 1939,
+  :assignee :armstrong-cork,
+  :grant-year 1942,
+  :term-years 20,
+  :open-license :none}
  {:assignees [:wallace-and-tiernan],
   :jurisdiction :us,
   :field "UNKNOWN",
@@ -4401,6 +4489,18 @@
   :sourcing :authoritative,
   :filing-year 1936,
   :assignee :hercules-powder,
+  :grant-year 1942,
+  :term-years 20,
+  :open-license :none}
+ {:jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2296990/en",
+  :title "Backing shoe for surface finishing apparatus",
+  :status :granted,
+  :id "US2296990",
+  :sourcing :authoritative,
+  :filing-year 1939,
+  :assignee :unassigned,
   :grant-year 1942,
   :term-years 20,
   :open-license :none}
@@ -5692,6 +5792,18 @@
   :sourcing :authoritative,
   :filing-year 1941,
   :assignee :eastman-kodak,
+  :grant-year 1945,
+  :term-years 20,
+  :open-license :none}
+ {:jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2367107/en",
+  :title "Grinding",
+  :status :granted,
+  :id "US2367107",
+  :sourcing :authoritative,
+  :filing-year 1943,
+  :assignee :unassigned,
   :grant-year 1945,
   :term-years 20,
   :open-license :none}
@@ -7439,6 +7551,21 @@
   :cites ["US1380333" "US1958456" "US2177094" "US2339723" "US378423"],
   :term-years 20,
   :open-license :none}
+ {:assignees [:general-tire-and-rubber],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2441090/en",
+  :title
+  "Method of making a mix of carbon black and a synthetic rubbery polymer of a conjugated diolefin",
+  :status :granted,
+  :id "US2441090",
+  :sourcing :authoritative,
+  :filing-year 1944,
+  :assignee :general-tire-and-rubber,
+  :grant-year 1948,
+  :cites ["US1610226" "US1611278" "US1846820" "US1991367" "US2354424"],
+  :term-years 20,
+  :open-license :none}
  {:assignees [:united-states-rubber],
   :jurisdiction :us,
   :field "UNKNOWN",
@@ -8039,6 +8166,20 @@
   :assignee :corning-glass-works,
   :grant-year 1949,
   :cites ["US2258218" "US2258220"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:nopco-chemical],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2465073/en",
+  :title "Plasticized compositions",
+  :status :granted,
+  :id "US2465073",
+  :sourcing :authoritative,
+  :filing-year 1947,
+  :assignee :nopco-chemical,
+  :grant-year 1949,
+  :cites ["FR799345A" "US2317663" "US2327007" "US2360865"],
   :term-years 20,
   :open-license :none}
  {:assignees [:amf],
@@ -9213,161 +9354,5 @@
   :assignee :unassigned,
   :grant-year 1951,
   :cites ["US1931570" "US2177093" "US2302526" "US2313082" "US686930"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:american-cyanamid],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US2542819/en",
-  :title "Method of impregnating fibrous sheet materials",
-  :status :granted,
-  :id "US2542819",
-  :sourcing :authoritative,
-  :filing-year 1947,
-  :assignee :american-cyanamid,
-  :grant-year 1951,
-  :cites
-  ["DE531910C"
-   "US1268430"
-   "US1953799"
-   "US2040105"
-   "US2176835"
-   "US2209850"
-   "US2273891"
-   "US2421876"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:welex-jet-services],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US2543814/en",
-  :title "Means and method of tilting explosive charges in wells",
-  :status :granted,
-  :id "US2543814",
-  :sourcing :authoritative,
-  :filing-year 1946,
-  :assignee :welex-jet-services,
-  :grant-year 1951,
-  :cites
-  ["US2016919"
-   "US2033562"
-   "US2067408"
-   "US2228623"
-   "US2229493"
-   "US2371270"
-   "US2390676"
-   "US2399211"
-   "US2426517"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:john-waldron],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US2545266/en",
-  :title "Apparatus for coating webs",
-  :status :granted,
-  :id "US2545266",
-  :sourcing :authoritative,
-  :filing-year 1946,
-  :assignee :john-waldron,
-  :grant-year 1951,
-  :cites
-  ["US1980923"
-   "US2135406"
-   "US2139628"
-   "US2251295"
-   "US2312927"
-   "US2400315"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:archer-daniels-midland],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US2549574/en",
-  :title "Apparatus for making fluorophotometric measurements",
-  :status :granted,
-  :id "US2549574",
-  :sourcing :authoritative,
-  :filing-year 1948,
-  :assignee :archer-daniels-midland,
-  :grant-year 1951,
-  :cites
-  ["DE675911C"
-   "FR783957A"
-   "US1412955"
-   "US1755834"
-   "US1807659"
-   "US2280993"
-   "US2344042"
-   "US2381414"
-   "US2403631"
-   "US2451979"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:ei-du-pont-de-nemours-and],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US2551365/en",
-  :title
-  "Polymerization of formaldehyde to paraformaldehyde with alkaline catalyst",
-  :status :granted,
-  :id "US2551365",
-  :sourcing :authoritative,
-  :filing-year 1949,
-  :assignee :ei-du-pont-de-nemours-and,
-  :grant-year 1951,
-  :cites ["GB303258A" "US1905290" "US2267290" "US2318341"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:socony-vacuum-oil],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US2554321/en",
-  :title "Measurement of fluorescence",
-  :status :granted,
-  :id "US2554321",
-  :sourcing :authoritative,
-  :filing-year 1948,
-  :assignee :socony-vacuum-oil,
-  :grant-year 1951,
-  :cites ["US2051320" "US2265357" "US2286985" "US2403631" "US2459512"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:phillips-petroleum],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US2554414/en",
-  :title "Apparatus for determining a chemically reactive gas",
-  :status :granted,
-  :id "US2554414",
-  :sourcing :authoritative,
-  :filing-year 1945,
-  :assignee :phillips-petroleum,
-  :grant-year 1951,
-  :cites
-  ["DE565192C"
-   "DE639177C"
-   "GB190225958A"
-   "GB191500379A"
-   "US1711742"
-   "US2113063"
-   "US2153568"
-   "US2232622"
-   "US2345090"
-   "US2382381"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:united-states-rubber],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US2554663/en",
-  :title "Method of glossing paper",
-  :status :granted,
-  :id "US2554663",
-  :sourcing :authoritative,
-  :filing-year 1949,
-  :assignee :united-states-rubber,
-  :grant-year 1951,
-  :cites ["US2416232" "US2439202"],
   :term-years 20,
   :open-license :none}]
