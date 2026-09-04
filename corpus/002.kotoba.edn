@@ -1,4 +1,50 @@
-[{:assignees [:american-cyanamid],
+[{:assignees [:ei-du-pont-de-nemours-and],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2541167/en",
+  :title
+  "Vinylidene chloride interpolymer as a coating for regenerated cellulose film",
+  :status :granted,
+  :id "US2541167",
+  :sourcing :authoritative,
+  :filing-year 1948,
+  :assignee :ei-du-pont-de-nemours-and,
+  :grant-year 1951,
+  :term-years 20,
+  :open-license :none}
+ {:jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2542133/en",
+  :title "Apparatus and method for canning fish",
+  :status :granted,
+  :id "US2542133",
+  :sourcing :authoritative,
+  :filing-year 1948,
+  :assignee :unassigned,
+  :grant-year 1951,
+  :cites
+  ["US2015089"
+   "US2037724"
+   "US2041986"
+   "US2044813"
+   "US227283"
+   "US2411188"],
+  :term-years 20,
+  :open-license :none}
+ {:jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2542804/en",
+  :title "Apparatus for applying adhesive to a mass of wood chips",
+  :status :granted,
+  :id "US2542804",
+  :sourcing :authoritative,
+  :filing-year 1948,
+  :assignee :unassigned,
+  :grant-year 1951,
+  :cites ["US1931570" "US2177093" "US2302526" "US2313082" "US686930"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:american-cyanamid],
   :jurisdiction :us,
   :field "UNKNOWN",
   :source "https://patents.google.com/patent/US2542819/en",
@@ -2043,6 +2089,28 @@
   :cites ["US2386259" "US2439689" "US2449572" "US2507200"],
   :term-years 20,
   :open-license :none}
+ {:jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2649199/en",
+  :title "Hygienic packing for dressings and the like",
+  :status :granted,
+  :id "US2649199",
+  :sourcing :authoritative,
+  :filing-year 1950,
+  :assignee :unassigned,
+  :grant-year 1953,
+  :cites
+  ["US1015000"
+   "US1434097"
+   "US1852040"
+   "US1911291"
+   "US2005676"
+   "US2133609"
+   "US2353332"
+   "US2431203"
+   "US663730"],
+  :term-years 20,
+  :open-license :none}
  {:assignees [:north-american-paper-process],
   :jurisdiction :us,
   :field "UNKNOWN",
@@ -2104,6 +2172,29 @@
   :assignee :bayer,
   :grant-year 1953,
   :cites ["US2424885"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:gummed-products],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2651588/en",
+  :title "Multiple layer stay tape",
+  :status :granted,
+  :id "US2651588",
+  :sourcing :authoritative,
+  :filing-year 1950,
+  :assignee :gummed-products,
+  :grant-year 1953,
+  :cites
+  ["US1523702"
+   "US1707515"
+   "US2142463"
+   "US2237346"
+   "US2276363"
+   "US2294347"
+   "US2364607"
+   "US2501815"
+   "US600745"],
   :term-years 20,
   :open-license :none}
  {:assignees [:sperry],
@@ -2808,6 +2899,67 @@
   :assignee :jr-geigy,
   :grant-year 1954,
   :cites ["US2318296"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:western-lithograph],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2679928/en",
+  :title "Label strip dispensing package",
+  :status :granted,
+  :id "US2679928",
+  :sourcing :authoritative,
+  :filing-year 1951,
+  :assignee :western-lithograph,
+  :grant-year 1954,
+  :cites
+  ["US1983875"
+   "US2095437"
+   "US2123760"
+   "US2237346"
+   "US2246984"
+   "US2248317"
+   "US2304787"
+   "US2372994"
+   "US2434545"
+   "US2483236"
+   "US2491281"
+   "US2496884"
+   "US2510263"
+   "US2511303"
+   "US2565944"
+   "US2566249"
+   "US2568458"
+   "US2622055"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:transparent-package],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2679968/en",
+  :title "Printed package and method of manufacturing the same",
+  :status :granted,
+  :id "US2679968",
+  :sourcing :authoritative,
+  :filing-year 1951,
+  :assignee :transparent-package,
+  :grant-year 1954,
+  :cites
+  ["US1714265"
+   "US2166819"
+   "US2307406"
+   "US2347439"
+   "US2472551"
+   "US2487061"
+   "US2491048"
+   "US2504500"
+   "US2529884"
+   "US2536773"
+   "US2545710"
+   "US2568463"
+   "US2585924"
+   "US2622991"
+   "US2648463"],
   :term-years 20,
   :open-license :none}
  {:assignees [:general-electric],
@@ -3801,6 +3953,20 @@
    "US2331922"],
   :term-years 20,
   :open-license :none}
+ {:assignees [:brady],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2725322/en",
+  :title "Protected adhesive article",
+  :status :granted,
+  :id "US2725322",
+  :sourcing :authoritative,
+  :filing-year 1954,
+  :assignee :brady,
+  :grant-year 1955,
+  :cites ["US2319272"],
+  :term-years 20,
+  :open-license :none}
  {:jurisdiction :us,
   :field "UNKNOWN",
   :source "https://patents.google.com/patent/US2725782/en",
@@ -3832,6 +3998,37 @@
   :filing-year 1954,
   :assignee :ei-du-pont-de-nemours-and,
   :grant-year 1956,
+  :term-years 20,
+  :open-license :none}
+ {:jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2732065/en",
+  :title "Dispensing roll of non-skid tape for",
+  :status :granted,
+  :id "US2732065",
+  :sourcing :authoritative,
+  :assignee :unassigned,
+  :grant-year 1956,
+  :cites
+  ["US1102203"
+   "US1555960"
+   "US1716790"
+   "US1747603"
+   "US1796399"
+   "US237529"
+   "US2485295"],
+  :term-years 20,
+  :open-license :none}
+ {:jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2732318/en",
+  :title "Pressure-sensitive tapes of organo-siloxane",
+  :status :granted,
+  :id "US2732318",
+  :sourcing :authoritative,
+  :assignee :unassigned,
+  :grant-year 1956,
+  :cites ["US2708289"],
   :term-years 20,
   :open-license :none}
  {:jurisdiction :us,
@@ -5719,6 +5916,19 @@
   :cites ["US2174629" "US2184311" "US2702243"],
   :term-years 20,
   :open-license :none}
+ {:jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2831277/en",
+  :title "Wire tab dispenser",
+  :status :granted,
+  :id "US2831277",
+  :sourcing :authoritative,
+  :filing-year 1954,
+  :assignee :unassigned,
+  :grant-year 1958,
+  :cites ["US2139377" "US2248317" "US2372994" "US2434545" "US2699103"],
+  :term-years 20,
+  :open-license :none}
  {:assignees [:fmc],
   :jurisdiction :us,
   :field "UNKNOWN",
@@ -6541,6 +6751,19 @@
    "US2707177"],
   :term-years 20,
   :open-license :none}
+ {:jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2883044/en",
+  :title "Adhesive label dispenser",
+  :status :granted,
+  :id "US2883044",
+  :sourcing :authoritative,
+  :filing-year 1958,
+  :assignee :unassigned,
+  :grant-year 1959,
+  :cites ["US2434545" "US2681732"],
+  :term-years 20,
+  :open-license :none}
  {:assignees [:crown-zellerbach],
   :jurisdiction :us,
   :field "UNKNOWN",
@@ -6998,6 +7221,21 @@
    "US2674315"
    "US2749989"
    "US2760578"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:columbia-ribbon-and-carbon-manufacturing],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2912344/en",
+  :title
+  "Pressure-sensitive transfer element for placing smudge-resistant marks",
+  :status :granted,
+  :id "US2912344",
+  :sourcing :authoritative,
+  :filing-year 1957,
+  :assignee :columbia-ribbon-and-carbon-manufacturing,
+  :grant-year 1959,
+  :cites ["US2744031" "US2762715" "US2777781"],
   :term-years 20,
   :open-license :none}
  {:assignees [:johnson-and-johnson],
@@ -9476,6 +9714,32 @@
   :open-license :none}
  {:jurisdiction :us,
   :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3032463/en",
+  :title "Method for making punched label stock",
+  :status :granted,
+  :id "US3032463",
+  :sourcing :authoritative,
+  :filing-year 1961,
+  :assignee :unassigned,
+  :grant-year 1962,
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:royal-mcbee],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3034918/en",
+  :title "Transfer sheet having completely transferable coating",
+  :status :granted,
+  :id "US3034918",
+  :sourcing :authoritative,
+  :filing-year 1960,
+  :assignee :royal-mcbee,
+  :grant-year 1962,
+  :cites ["US1925235" "US2318096" "US2508725" "US2810661"],
+  :term-years 20,
+  :open-license :none}
+ {:jurisdiction :us,
+  :field "UNKNOWN",
   :source "https://patents.google.com/patent/US30360/en",
   :title "Propeller and its",
   :status :granted,
@@ -9614,6 +9878,19 @@
   :assignee :union-carbide,
   :grant-year 1962,
   :cites ["US2706720" "US2859220" "US2890206" "US2890207"],
+  :term-years 20,
+  :open-license :none}
+ {:jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3038597/en",
+  :title "Multiple manipulation backing-boardmounted adhesive tape",
+  :status :granted,
+  :id "US3038597",
+  :sourcing :authoritative,
+  :filing-year 1959,
+  :assignee :unassigned,
+  :grant-year 1962,
+  :cites ["US2372994" "US2608341" "US2797801" "US2831277"],
   :term-years 20,
   :open-license :none}
  {:assignees [:monsanto-chemicals],
@@ -9811,277 +10088,5 @@
    "US2854351"
    "US2934510"
    "US2938876"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:beckman-instruments],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3049118/en",
-  :title "Ion electrode assembly",
-  :status :granted,
-  :id "US3049118",
-  :sourcing :authoritative,
-  :filing-year 1961,
-  :assignee :beckman-instruments,
-  :grant-year 1962,
-  :cites ["US2755243" "US2886771"],
-  :term-years 20,
-  :open-license :none}
- {:jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3049411/en",
-  :title "Enzymatic method for detection of anticholinesterases",
-  :status :granted,
-  :id "US3049411",
-  :sourcing :authoritative,
-  :filing-year 1959,
-  :assignee :unassigned,
-  :grant-year 1962,
-  :cites ["US2865719"],
-  :term-years 20,
-  :open-license :none}
- {:jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3050915/en",
-  :title
-  "Apparatus for aseptically pouring a bacteriological substrate or the like into cover-carrying vessels",
-  :status :granted,
-  :id "US3050915",
-  :sourcing :authoritative,
-  :filing-year 1960,
-  :assignee :unassigned,
-  :grant-year 1962,
-  :cites ["US2337170" "US2346118" "US2578815" "US2606707" "US2931147"],
-  :term-years 20,
-  :open-license :none}
- {:jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3051603/en",
-  :title "Descumming preparation and process",
-  :status :granted,
-  :id "US3051603",
-  :sourcing :authoritative,
-  :filing-year 1959,
-  :assignee :unassigned,
-  :grant-year 1962,
-  :cites
-  ["GB360126A"
-   "US1106107"
-   "US1717869"
-   "US2211400"
-   "US2529549"
-   "US2888391"
-   "US795216"
-   "US936842"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:floyd-v-richardson],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3052353/en",
-  :title "Ore sorting device",
-  :status :granted,
-  :id "US3052353",
-  :sourcing :authoritative,
-  :filing-year 1958,
-  :assignee :floyd-v-richardson,
-  :grant-year 1962,
-  :cites ["US2362774" "US2617526" "US2630043" "US2717693"],
-  :term-years 20,
-  :open-license :none}
- {:jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3053138/en",
-  :title "Sample holder for photometric analyzing apparatus",
-  :status :granted,
-  :id "US3053138",
-  :sourcing :authoritative,
-  :filing-year 1958,
-  :assignee :unassigned,
-  :grant-year 1962,
-  :cites
-  ["US1133065"
-   "US1794134"
-   "US1916589"
-   "US2090041"
-   "US2446668"
-   "US960912"
-   "US961419"],
-  :term-years 20,
-  :open-license :none}
- {:jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3056935/en",
-  :title "Feeler element for a humidostat",
-  :status :granted,
-  :id "US3056935",
-  :sourcing :authoritative,
-  :filing-year 1960,
-  :assignee :unassigned,
-  :grant-year 1962,
-  :cites ["US1648197" "US2937524"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:ei-du-pont-de-nemours-and],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3057749/en",
-  :title "Colored metallic finish",
-  :status :granted,
-  :id "US3057749",
-  :sourcing :authoritative,
-  :filing-year 1959,
-  :assignee :ei-du-pont-de-nemours-and,
-  :grant-year 1962,
-  :cites
-  ["US2453052"
-   "US2625689"
-   "US2683668"
-   "US2769722"
-   "US2878141"
-   "US2941894"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:champion],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3057775/en",
-  :title "Embalming composition",
-  :status :granted,
-  :id "US3057775",
-  :sourcing :authoritative,
-  :filing-year 1959,
-  :assignee :champion,
-  :grant-year 1962,
-  :cites ["US2113842" "US2333182" "US2801216"],
-  :term-years 20,
-  :open-license :none}
- {:jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3057953/en",
-  :title "Target tracking system",
-  :status :granted,
-  :id "US3057953",
-  :sourcing :authoritative,
-  :filing-year 1960,
-  :assignee :unassigned,
-  :grant-year 1962,
-  :cites ["US2734269" "US2842760" "US2917737" "US2938949"],
-  :term-years 20,
-  :open-license :none}
- {:jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3058079/en",
-  :title "Hygrometer elements",
-  :status :granted,
-  :id "US3058079",
-  :sourcing :authoritative,
-  :filing-year 1959,
-  :assignee :unassigned,
-  :grant-year 1962,
-  :cites
-  ["US2391299"
-   "US2609688"
-   "US2613302"
-   "US2707880"
-   "US2862090"
-   "US2876321"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:columbian-carbon],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3058894/en",
-  :title "Treatment of microorganisms",
-  :status :granted,
-  :id "US3058894",
-  :sourcing :authoritative,
-  :filing-year 1959,
-  :assignee :columbian-carbon,
-  :grant-year 1962,
-  :cites ["GB150318A" "US1711416" "US1718282" "US1738801" "US2428328"],
-  :term-years 20,
-  :open-license :none}
- {:jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3060374/en",
-  :title "Battery testers",
-  :status :granted,
-  :id "US3060374",
-  :sourcing :authoritative,
-  :filing-year 1960,
-  :assignee :unassigned,
-  :grant-year 1962,
-  :cites ["US1373951" "US2922104"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:dow-corning],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3061567/en",
-  :title
-  "Aqueous dispersions of a mixture of siloxanes and an aminoplast resin, method of coating, and article obtained",
-  :status :granted,
-  :id "US3061567",
-  :sourcing :authoritative,
-  :filing-year 1958,
-  :assignee :dow-corning,
-  :grant-year 1962,
-  :cites
-  ["US2588393"
-   "US2612482"
-   "US2728692"
-   "US2757152"
-   "US2774690"
-   "US2807601"
-   "US2985545"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:international-business-machines],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3064519/en",
-  :title "Specimen identification apparatus and method",
-  :status :granted,
-  :id "US3064519",
-  :sourcing :authoritative,
-  :filing-year 1960,
-  :assignee :international-business-machines,
-  :grant-year 1962,
-  :cites ["US2712415" "US2733631"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:kimberly-clark],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3066043/en",
-  :title
-  "Cellulosic product comprising saturated fibrous web having a coating comprising vinyl resin and alkyl acrylate-carboxylic acid plasticizer",
-  :status :granted,
-  :id "US3066043",
-  :sourcing :authoritative,
-  :filing-year 1958,
-  :assignee :kimberly-clark,
-  :grant-year 1962,
-  :cites
-  ["US2125527"
-   "US2201877"
-   "US2311249"
-   "US2330353"
-   "US2366414"
-   "US2438195"
-   "US2631947"
-   "US2636870"
-   "US2676942"
-   "US2682484"
-   "US2748027"
-   "US2763578"
-   "US2790735"
-   "US2829073"
-   "US2868763"
-   "US2887403"
-   "US2910385"
-   "US2944037"
-   "US2989423"],
   :term-years 20,
   :open-license :none}]

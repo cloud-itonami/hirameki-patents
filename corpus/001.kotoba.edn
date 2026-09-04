@@ -1399,6 +1399,19 @@
   :grant-year 1935,
   :term-years 20,
   :open-license :none}
+ {:assignees [:scholl-manufacturing],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US1996835/en",
+  :title "Medical pad",
+  :status :granted,
+  :id "US1996835",
+  :sourcing :authoritative,
+  :filing-year 1931,
+  :assignee :scholl-manufacturing,
+  :grant-year 1935,
+  :term-years 20,
+  :open-license :none}
  {:assignees [:woodall-ind-incorproated],
   :jurisdiction :us,
   :field "UNKNOWN",
@@ -5085,6 +5098,19 @@
   :grant-year 1943,
   :term-years 20,
   :open-license :none}
+ {:assignees [:atlantic-gummed-paper],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2329527/en",
+  :title "Method of manufacturing rolls of tape",
+  :status :granted,
+  :id "US2329527",
+  :sourcing :authoritative,
+  :filing-year 1941,
+  :assignee :atlantic-gummed-paper,
+  :grant-year 1943,
+  :term-years 20,
+  :open-license :none}
  {:jurisdiction :us,
   :field "UNKNOWN",
   :source "https://patents.google.com/patent/US2329632/en",
@@ -8699,6 +8725,28 @@
   :cites ["US1982903" "US2250049"],
   :term-years 20,
   :open-license :none}
+ {:jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2506933/en",
+  :title "Means for patching motion-picture film",
+  :status :granted,
+  :id "US2506933",
+  :sourcing :authoritative,
+  :filing-year 1945,
+  :assignee :unassigned,
+  :grant-year 1950,
+  :cites
+  ["US1310215"
+   "US1535129"
+   "US1591500"
+   "US1921954"
+   "US1921963"
+   "US2099439"
+   "US2318287"
+   "US2346874"
+   "US2348237"],
+  :term-years 20,
+  :open-license :none}
  {:assignees [:general-electric],
   :jurisdiction :us,
   :field "UNKNOWN",
@@ -9308,51 +9356,5 @@
   :assignee :american-cyanamid,
   :grant-year 1951,
   :cites ["US2359734" "US2383075" "US2467325"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:ei-du-pont-de-nemours-and],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US2541167/en",
-  :title
-  "Vinylidene chloride interpolymer as a coating for regenerated cellulose film",
-  :status :granted,
-  :id "US2541167",
-  :sourcing :authoritative,
-  :filing-year 1948,
-  :assignee :ei-du-pont-de-nemours-and,
-  :grant-year 1951,
-  :term-years 20,
-  :open-license :none}
- {:jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US2542133/en",
-  :title "Apparatus and method for canning fish",
-  :status :granted,
-  :id "US2542133",
-  :sourcing :authoritative,
-  :filing-year 1948,
-  :assignee :unassigned,
-  :grant-year 1951,
-  :cites
-  ["US2015089"
-   "US2037724"
-   "US2041986"
-   "US2044813"
-   "US227283"
-   "US2411188"],
-  :term-years 20,
-  :open-license :none}
- {:jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US2542804/en",
-  :title "Apparatus for applying adhesive to a mass of wood chips",
-  :status :granted,
-  :id "US2542804",
-  :sourcing :authoritative,
-  :filing-year 1948,
-  :assignee :unassigned,
-  :grant-year 1951,
-  :cites ["US1931570" "US2177093" "US2302526" "US2313082" "US686930"],
   :term-years 20,
   :open-license :none}]

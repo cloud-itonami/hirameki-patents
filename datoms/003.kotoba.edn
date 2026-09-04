@@ -926,6 +926,47 @@
   ":hirameki/source"
   "https://patents.google.com/patent/US1995492/en"]
  [":db/add"
+  "hirameki-patent:US1996835"
+  ":hirameki.patent/title"
+  "Medical pad"]
+ [":db/add"
+  "hirameki-patent:US1996835"
+  ":hirameki.patent/jurisdiction"
+  ":us"]
+ [":db/add"
+  "hirameki-patent:US1996835"
+  ":hirameki.patent/field"
+  "UNKNOWN"]
+ [":db/add"
+  "hirameki-patent:US1996835"
+  ":hirameki.patent/assignee"
+  ":scholl-manufacturing"]
+ [":db/add"
+  "hirameki-patent:US1996835"
+  ":hirameki.patent/status"
+  ":granted"]
+ [":db/add"
+  "hirameki-patent:US1996835"
+  ":hirameki.patent/open-license"
+  ":none"]
+ [":db/add"
+  "hirameki-patent:US1996835"
+  ":hirameki.obs/release-status"
+  ":public-domain"]
+ [":db/add"
+  "hirameki-patent:US1996835"
+  ":hirameki/sourcing"
+  ":authoritative"]
+ [":db/add" "hirameki-patent:US1996835" ":hirameki/derived" true]
+ [":db/add"
+  "hirameki-patent:US1996835"
+  ":hirameki.obs/years-to-expiry"
+  -75]
+ [":db/add"
+  "hirameki-patent:US1996835"
+  ":hirameki/source"
+  "https://patents.google.com/patent/US1996835/en"]
+ [":db/add"
   "hirameki-patent:US1999383"
   ":hirameki.patent/title"
   "Trim panel and process of fabricating same"]
@@ -10395,46 +10436,5 @@
   ":unassigned"]
  [":db/add"
   "hirameki-patent:US2285024"
-  ":hirameki.patent/status"
-  ":granted"]
- [":db/add"
-  "hirameki-patent:US2285024"
-  ":hirameki.patent/open-license"
-  ":none"]
- [":db/add"
-  "hirameki-patent:US2285024"
-  ":hirameki.obs/release-status"
-  ":public-domain"]
- [":db/add"
-  "hirameki-patent:US2285024"
-  ":hirameki/sourcing"
-  ":authoritative"]
- [":db/add" "hirameki-patent:US2285024" ":hirameki/derived" true]
- [":db/add"
-  "hirameki-patent:US2285024"
-  ":hirameki.obs/years-to-expiry"
-  -67]
- [":db/add"
-  "hirameki-patent:US2285024"
-  ":hirameki/source"
-  "https://patents.google.com/patent/US2285024/en"]
- [":db/add"
-  "hirameki-patent:US2286259"
-  ":hirameki.patent/title"
-  "Manufacture of coated paper"]
- [":db/add"
-  "hirameki-patent:US2286259"
-  ":hirameki.patent/jurisdiction"
-  ":us"]
- [":db/add"
-  "hirameki-patent:US2286259"
-  ":hirameki.patent/field"
-  "UNKNOWN"]
- [":db/add"
-  "hirameki-patent:US2286259"
-  ":hirameki.patent/assignee"
-  ":unassigned"]
- [":db/add"
-  "hirameki-patent:US2286259"
   ":hirameki.patent/status"
   ":granted"]]

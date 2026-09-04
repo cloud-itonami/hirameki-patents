@@ -1,4 +1,45 @@
 [[":db/add"
+  "hirameki-patent:US2285024"
+  ":hirameki.patent/open-license"
+  ":none"]
+ [":db/add"
+  "hirameki-patent:US2285024"
+  ":hirameki.obs/release-status"
+  ":public-domain"]
+ [":db/add"
+  "hirameki-patent:US2285024"
+  ":hirameki/sourcing"
+  ":authoritative"]
+ [":db/add" "hirameki-patent:US2285024" ":hirameki/derived" true]
+ [":db/add"
+  "hirameki-patent:US2285024"
+  ":hirameki.obs/years-to-expiry"
+  -67]
+ [":db/add"
+  "hirameki-patent:US2285024"
+  ":hirameki/source"
+  "https://patents.google.com/patent/US2285024/en"]
+ [":db/add"
+  "hirameki-patent:US2286259"
+  ":hirameki.patent/title"
+  "Manufacture of coated paper"]
+ [":db/add"
+  "hirameki-patent:US2286259"
+  ":hirameki.patent/jurisdiction"
+  ":us"]
+ [":db/add"
+  "hirameki-patent:US2286259"
+  ":hirameki.patent/field"
+  "UNKNOWN"]
+ [":db/add"
+  "hirameki-patent:US2286259"
+  ":hirameki.patent/assignee"
+  ":unassigned"]
+ [":db/add"
+  "hirameki-patent:US2286259"
+  ":hirameki.patent/status"
+  ":granted"]
+ [":db/add"
   "hirameki-patent:US2286259"
   ":hirameki.patent/open-license"
   ":none"]
@@ -2274,6 +2315,47 @@
   "hirameki-patent:US2328461"
   ":hirameki/source"
   "https://patents.google.com/patent/US2328461/en"]
+ [":db/add"
+  "hirameki-patent:US2329527"
+  ":hirameki.patent/title"
+  "Method of manufacturing rolls of tape"]
+ [":db/add"
+  "hirameki-patent:US2329527"
+  ":hirameki.patent/jurisdiction"
+  ":us"]
+ [":db/add"
+  "hirameki-patent:US2329527"
+  ":hirameki.patent/field"
+  "UNKNOWN"]
+ [":db/add"
+  "hirameki-patent:US2329527"
+  ":hirameki.patent/assignee"
+  ":atlantic-gummed-paper"]
+ [":db/add"
+  "hirameki-patent:US2329527"
+  ":hirameki.patent/status"
+  ":granted"]
+ [":db/add"
+  "hirameki-patent:US2329527"
+  ":hirameki.patent/open-license"
+  ":none"]
+ [":db/add"
+  "hirameki-patent:US2329527"
+  ":hirameki.obs/release-status"
+  ":public-domain"]
+ [":db/add"
+  "hirameki-patent:US2329527"
+  ":hirameki/sourcing"
+  ":authoritative"]
+ [":db/add" "hirameki-patent:US2329527" ":hirameki/derived" true]
+ [":db/add"
+  "hirameki-patent:US2329527"
+  ":hirameki.obs/years-to-expiry"
+  -65]
+ [":db/add"
+  "hirameki-patent:US2329527"
+  ":hirameki/source"
+  "https://patents.google.com/patent/US2329527/en"]
  [":db/add"
   "hirameki-patent:US2329632"
   ":hirameki.patent/title"
@@ -10324,87 +10406,5 @@
   ":ei-du-pont-de-nemours-and"]
  [":db/add"
   "hirameki-patent:US2462185"
-  ":hirameki.patent/status"
-  ":granted"]
- [":db/add"
-  "hirameki-patent:US2462185"
-  ":hirameki.patent/open-license"
-  ":none"]
- [":db/add"
-  "hirameki-patent:US2462185"
-  ":hirameki.obs/release-status"
-  ":public-domain"]
- [":db/add"
-  "hirameki-patent:US2462185"
-  ":hirameki/sourcing"
-  ":authoritative"]
- [":db/add" "hirameki-patent:US2462185" ":hirameki/derived" true]
- [":db/add"
-  "hirameki-patent:US2462185"
-  ":hirameki.obs/years-to-expiry"
-  -60]
- [":db/add"
-  "hirameki-patent:US2462185"
-  ":hirameki/source"
-  "https://patents.google.com/patent/US2462185/en"]
- [":db/add"
-  "hirameki-patent:US2462331"
-  ":hirameki.patent/title"
-  "Polyethylene compositions"]
- [":db/add"
-  "hirameki-patent:US2462331"
-  ":hirameki.patent/jurisdiction"
-  ":us"]
- [":db/add"
-  "hirameki-patent:US2462331"
-  ":hirameki.patent/field"
-  "UNKNOWN"]
- [":db/add"
-  "hirameki-patent:US2462331"
-  ":hirameki.patent/assignee"
-  ":bakelite"]
- [":db/add"
-  "hirameki-patent:US2462331"
-  ":hirameki.patent/status"
-  ":granted"]
- [":db/add"
-  "hirameki-patent:US2462331"
-  ":hirameki.patent/open-license"
-  ":none"]
- [":db/add"
-  "hirameki-patent:US2462331"
-  ":hirameki.obs/release-status"
-  ":public-domain"]
- [":db/add"
-  "hirameki-patent:US2462331"
-  ":hirameki/sourcing"
-  ":authoritative"]
- [":db/add" "hirameki-patent:US2462331" ":hirameki/derived" true]
- [":db/add"
-  "hirameki-patent:US2462331"
-  ":hirameki.obs/years-to-expiry"
-  -62]
- [":db/add"
-  "hirameki-patent:US2462331"
-  ":hirameki/source"
-  "https://patents.google.com/patent/US2462331/en"]
- [":db/add"
-  "hirameki-patent:US2462612"
-  ":hirameki.patent/title"
-  "Liquid treating apparatus"]
- [":db/add"
-  "hirameki-patent:US2462612"
-  ":hirameki.patent/jurisdiction"
-  ":us"]
- [":db/add"
-  "hirameki-patent:US2462612"
-  ":hirameki.patent/field"
-  "UNKNOWN"]
- [":db/add"
-  "hirameki-patent:US2462612"
-  ":hirameki.patent/assignee"
-  ":unassigned"]
- [":db/add"
-  "hirameki-patent:US2462612"
   ":hirameki.patent/status"
   ":granted"]]
