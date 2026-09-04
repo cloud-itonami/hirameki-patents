@@ -1,4 +1,311 @@
-[{:jurisdiction :us,
+[{:assignees [:baxter-laboratories],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3127892/en",
+  :title "Blood handling apparatus",
+  :status :granted,
+  :id "US3127892",
+  :sourcing :authoritative,
+  :filing-year 1960,
+  :assignee :baxter-laboratories,
+  :grant-year 1964,
+  :cites
+  ["FR1082035A"
+   "FR1107207A"
+   "US2371086"
+   "US2674265"
+   "US2737951"
+   "US2780225"
+   "US2836942"
+   "US2847995"
+   "US2896619"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:calgon],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3128257/en",
+  :title "Production of ion exchange resins",
+  :status :granted,
+  :id "US3128257",
+  :sourcing :authoritative,
+  :filing-year 1962,
+  :assignee :calgon,
+  :grant-year 1964,
+  :cites ["US2733231" "US2867611"],
+  :term-years 20,
+  :open-license :none}
+ {:jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3130787/en",
+  :title "Well bridging tool",
+  :status :granted,
+  :id "US3130787",
+  :sourcing :authoritative,
+  :filing-year 1960,
+  :assignee :unassigned,
+  :grant-year 1964,
+  :cites ["US1523286" "US2399125" "US2603293" "US2922478"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:phillips-petroleum],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3131521/en",
+  :title "Heat sealing thermoplastic packages",
+  :status :granted,
+  :id "US3131521",
+  :sourcing :authoritative,
+  :filing-year 1961,
+  :assignee :phillips-petroleum,
+  :grant-year 1964,
+  :cites
+  ["US2738631"
+   "US2877121"
+   "US2896387"
+   "US2916864"
+   "US3001348"
+   "US3018594"],
+  :term-years 20,
+  :open-license :none}
+ {:jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3132029/en",
+  :title "Method of providing a cooked meat and sauce package",
+  :status :granted,
+  :id "US3132029",
+  :sourcing :authoritative,
+  :filing-year 1961,
+  :assignee :unassigned,
+  :grant-year 1964,
+  :cites
+  ["US1058682"
+   "US2231791"
+   "US2369765"
+   "US2380134"
+   "US2398082"
+   "US2633284"
+   "US2807550"
+   "US2881078"
+   "US3037869"],
+  :term-years 20,
+  :open-license :none}
+ {:jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3133030/en",
+  :title "Low capacity sulfonated cation",
+  :status :granted,
+  :id "US3133030",
+  :sourcing :authoritative,
+  :assignee :unassigned,
+  :grant-year 1964,
+  :cites ["US2031929" "US2500149" "US2645621" "US2764563"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:dow-chemical],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3133825/en",
+  :title
+  "Fluid vinyl chloride polymer compositions, and rigid cross-linked vinyl chloride polymeric products having reinforcing fibrous material embedded therein, and method of making the same",
+  :status :granted,
+  :id "US3133825",
+  :sourcing :authoritative,
+  :filing-year 1960,
+  :assignee :dow-chemical,
+  :grant-year 1964,
+  :cites ["US2567719" "US2922768" "US2951772"],
+  :term-years 20,
+  :open-license :none}
+ {:jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3134019/en",
+  :title "Radiation detecting with shutter glass",
+  :status :granted,
+  :id "US3134019",
+  :sourcing :authoritative,
+  :filing-year 1962,
+  :assignee :unassigned,
+  :grant-year 1964,
+  :cites ["US2532386" "US2569793" "US3032428" "US3052637"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:meiji-seika-kaisha],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3135666/en",
+  :title
+  "Process for the production of nucleosides and nucleotides by microorganisms",
+  :status :granted,
+  :id "US3135666",
+  :sourcing :authoritative,
+  :filing-year 1961,
+  :assignee :meiji-seika-kaisha,
+  :grant-year 1964,
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:entpr-paint-manufacturing],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3137666/en",
+  :title
+  "Modified high molecular weight polyvinyl chloride resin coatings for metal, compositions and method of coating",
+  :status :granted,
+  :id "US3137666",
+  :sourcing :authoritative,
+  :filing-year 1958,
+  :assignee :entpr-paint-manufacturing,
+  :grant-year 1964,
+  :cites
+  ["US2337424"
+   "US2411590"
+   "US2563898"
+   "US2581908"
+   "US2607754"
+   "US2637621"
+   "US2743192"
+   "US2795565"
+   "US2843557"
+   "US2844557"
+   "US2892808"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:hach-chemical],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3139401/en",
+  :title "Method for removing rust from water softeners",
+  :status :granted,
+  :id "US3139401",
+  :sourcing :authoritative,
+  :filing-year 1962,
+  :assignee :hach-chemical,
+  :grant-year 1964,
+  :cites ["CA629715A" "US136770"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:exxon-research-and-engineering],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3140278/en",
+  :title "Block homopolymers of 1, 3 dienes",
+  :status :granted,
+  :id "US3140278",
+  :sourcing :authoritative,
+  :filing-year 1960,
+  :assignee :exxon-research-and-engineering,
+  :grant-year 1964,
+  :term-years 20,
+  :open-license :none}
+ {:jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3143393/en",
+  :title
+  "Apparatus for automatically performing chemical operations and similar or related operations",
+  :status :granted,
+  :id "US3143393",
+  :sourcing :authoritative,
+  :filing-year 1960,
+  :assignee :unassigned,
+  :grant-year 1964,
+  :cites ["US2332157" "US2550701" "US2624656" "US2710715" "US2950177"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:sperry-rand],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3144037/en",
+  :title "Electro-sonic fluid amplifier",
+  :status :granted,
+  :id "US3144037",
+  :sourcing :authoritative,
+  :filing-year 1961,
+  :assignee :sperry-rand,
+  :grant-year 1964,
+  :cites ["US1628723" "US3001539" "US3001698" "US3016063" "US3016066"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:honeywell],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3144208/en",
+  :title "Controlled fluid unit",
+  :status :granted,
+  :id "US3144208",
+  :sourcing :authoritative,
+  :filing-year 1962,
+  :assignee :honeywell,
+  :grant-year 1964,
+  :cites ["US2836197" "US3001539"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:perkin-elmer],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3144498/en",
+  :title "High resolution filter-grating spectrometer",
+  :status :granted,
+  :id "US3144498",
+  :sourcing :authoritative,
+  :filing-year 1961,
+  :assignee :perkin-elmer,
+  :grant-year 1964,
+  :cites
+  ["US2404064"
+   "US2704945"
+   "US2750836"
+   "US2775160"
+   "US2955508"
+   "US2969692"],
+  :term-years 20,
+  :open-license :none}
+ {:jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3144926/en",
+  :title "Installation for selectively dispatching articles",
+  :status :granted,
+  :id "US3144926",
+  :sourcing :authoritative,
+  :filing-year 1961,
+  :assignee :unassigned,
+  :grant-year 1964,
+  :cites
+  ["US1992687"
+   "US2000403"
+   "US2043293"
+   "US2294930"
+   "US2502503"
+   "US2824235"
+   "US2922893"
+   "US2998117"
+   "US3086121"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:combined-locks-paper],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3146159/en",
+  :title
+  "Method of coating paper with high solids high viscosity coating in the wet end of the paper making machine",
+  :status :granted,
+  :id "US3146159",
+  :sourcing :authoritative,
+  :filing-year 1960,
+  :assignee :combined-locks-paper,
+  :grant-year 1964,
+  :cites
+  ["US1933963"
+   "US2205557"
+   "US2216143"
+   "US2398844"
+   "US2676563"
+   "US2772184"
+   "US2772604"
+   "US2870738"
+   "US2888902"],
+  :term-years 20,
+  :open-license :none}
+ {:jurisdiction :us,
   :field "UNKNOWN",
   :source "https://patents.google.com/patent/US3146163/en",
   :title "Apparatus for separating certain components from blood",
@@ -8915,316 +9222,5 @@
   :filing-year 1970,
   :assignee :dainippon-screen-manufacturing,
   :grant-year 1972,
-  :term-years 20,
-  :open-license :none}
- {:assignees [:canon],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3682071/en",
-  :title "Automatic focusing device for cameras",
-  :status :granted,
-  :id "US3682071",
-  :sourcing :authoritative,
-  :filing-year 1970,
-  :assignee :canon,
-  :grant-year 1972,
-  :cites
-  ["US3029348"
-   "US3035176"
-   "US3127463"
-   "US3130305"
-   "US3315153"
-   "US3333105"
-   "US3443502"
-   "US3445665"
-   "US3511155"
-   "US3512888"
-   "US3529528"
-   "US3578975"
-   "US3600099"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:baxter-laboratories],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3682835/en",
-  :title "Liquid blood serum control standard",
-  :status :granted,
-  :id "US3682835",
-  :sourcing :authoritative,
-  :filing-year 1970,
-  :assignee :baxter-laboratories,
-  :grant-year 1972,
-  :term-years 20,
-  :open-license :none}
- {:assignees [:humphrey-research-associates],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3684374/en",
-  :title "Focus detector",
-  :status :granted,
-  :id "US3684374",
-  :sourcing :authoritative,
-  :filing-year 1970,
-  :assignee :humphrey-research-associates,
-  :grant-year 1972,
-  :cites
-  ["US2678401"
-   "US3102227"
-   "US3244889"
-   "US3437815"
-   "US3519349"
-   "US3529528"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:biophysics-systems],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3684377/en",
-  :title
-  "Method for analysis of blood by optical analysis of living cells",
-  :status :granted,
-  :id "US3684377",
-  :sourcing :authoritative,
-  :filing-year 1970,
-  :assignee :biophysics-systems,
-  :grant-year 1972,
-  :cites ["US2875666" "US3497690"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:american-sterilizer],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3684660/en",
-  :title "Microbiological surface sampler",
-  :status :granted,
-  :id "US3684660",
-  :sourcing :authoritative,
-  :filing-year 1969,
-  :assignee :american-sterilizer,
-  :grant-year 1972,
-  :term-years 20,
-  :open-license :none}
- {:assignees [:general-electric],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3685140/en",
-  :title "Short channel field-effect transistors",
-  :status :granted,
-  :id "US3685140",
-  :sourcing :authoritative,
-  :filing-year 1969,
-  :assignee :general-electric,
-  :grant-year 1972,
-  :term-years 20,
-  :open-license :none}
- {:jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3686046/en",
-  :title
-  "Method of producing a needle punched non-cellular backed carpet",
-  :status :granted,
-  :id "US3686046",
-  :sourcing :authoritative,
-  :filing-year 1969,
-  :assignee :unassigned,
-  :grant-year 1972,
-  :term-years 20,
-  :open-license :none}
- {:assignees [:leland-stanford-junior-university],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3687808/en",
-  :title "Synthetic polynucleotides",
-  :status :granted,
-  :id "US3687808",
-  :sourcing :authoritative,
-  :filing-year 1969,
-  :assignee :leland-stanford-junior-university,
-  :grant-year 1972,
-  :term-years 20,
-  :open-license :none}
- {:assignees [:syva],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3690834/en",
-  :title
-  "Ligand determination with spin labeled compounds by receptor displacement",
-  :status :granted,
-  :id "US3690834",
-  :sourcing :authoritative,
-  :filing-year 1971,
-  :assignee :syva,
-  :grant-year 1972,
-  :term-years 20,
-  :open-license :none}
- {:jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3694317/en",
-  :title "Method of and instrument for micro-biological analysis",
-  :status :granted,
-  :id "US3694317",
-  :sourcing :authoritative,
-  :filing-year 1968,
-  :assignee :unassigned,
-  :grant-year 1972,
-  :term-years 20,
-  :open-license :none}
- {:jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3695848/en",
-  :title "Gas detecting device",
-  :status :granted,
-  :id "US3695848",
-  :sourcing :authoritative,
-  :filing-year 1970,
-  :assignee :unassigned,
-  :grant-year 1972,
-  :term-years 20,
-  :open-license :none}
- {:assignees [:daniel-e-weber :lionel-d-mcintosh],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3696247/en",
-  :title "Vehicle exhaust emissions analyzer",
-  :status :granted,
-  :id "US3696247",
-  :sourcing :authoritative,
-  :filing-year 1970,
-  :assignee :daniel-e-weber,
-  :grant-year 1972,
-  :cites
-  ["US2829275"
-   "US3171882"
-   "US3519816"
-   "US3562522"
-   "US3569696"
-   "US3588496"
-   "US3593023"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:monsanto-research],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3696742/en",
-  :title
-  "Method of making a stencil for screen-printing using a laser beam",
-  :status :granted,
-  :id "US3696742",
-  :sourcing :authoritative,
-  :filing-year 1969,
-  :assignee :monsanto-research,
-  :grant-year 1972,
-  :cites
-  ["US2682687"
-   "US2860576"
-   "US2924520"
-   "US3112850"
-   "US3170792"
-   "US3314073"
-   "US3371190"
-   "US3374311"
-   "US3379656"
-   "US3410203"
-   "US3410979"
-   "US3455239"
-   "US3549733"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:westinghouse-electric],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3697227/en",
-  :title "Chemical constituent sampler",
-  :status :granted,
-  :id "US3697227",
-  :sourcing :authoritative,
-  :filing-year 1966,
-  :assignee :westinghouse-electric,
-  :grant-year 1972,
-  :term-years 20,
-  :open-license :none}
- {:assignees [:f-hoffmann-la-roche],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3697638/en",
-  :title "Antigens",
-  :status :granted,
-  :id "US3697638",
-  :sourcing :authoritative,
-  :filing-year 1971,
-  :assignee :f-hoffmann-la-roche,
-  :grant-year 1972,
-  :term-years 20,
-  :open-license :none}
- {:assignees [:celanese],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3699038/en",
-  :title
-  "Production of improved semipermeable polybenzimidazole membranes",
-  :status :granted,
-  :id "US3699038",
-  :sourcing :authoritative,
-  :filing-year 1970,
-  :assignee :celanese,
-  :grant-year 1972,
-  :term-years 20,
-  :open-license :none}
- {:assignees [:nat-res-dev],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3699222/en",
-  :title "Production of viral interfering substances",
-  :status :granted,
-  :id "US3699222",
-  :sourcing :authoritative,
-  :filing-year 1968,
-  :assignee :nat-res-dev,
-  :grant-year 1972,
-  :term-years 20,
-  :open-license :none}
- {:assignees [:hycel],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3699336/en",
-  :title "Biological cell analyzing system",
-  :status :granted,
-  :id "US3699336",
-  :sourcing :authoritative,
-  :filing-year 1969,
-  :assignee :hycel,
-  :grant-year 1972,
-  :cites ["US2875666" "US3413464" "US3497690" "US3523756"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:carl-zeiss],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3699348/en",
-  :title
-  "Radiation sensitive device for the successive investigation of several samples",
-  :status :granted,
-  :id "US3699348",
-  :sourcing :authoritative,
-  :filing-year 1971,
-  :assignee :carl-zeiss,
-  :grant-year 1972,
-  :cites ["US3246559" "US3266322" "US3418080" "US3607094"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:shiney],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3699803/en",
-  :title
-  "Semiconductor element for detecting gases and meter for measuring component concentration of a gas mixture",
-  :status :granted,
-  :id "US3699803",
-  :sourcing :authoritative,
-  :filing-year 1971,
-  :assignee :shiney,
-  :grant-year 1972,
-  :cites ["DE2005497A1" "US3039053" "US3507145"],
   :term-years 20,
   :open-license :none}]

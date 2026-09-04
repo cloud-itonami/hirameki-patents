@@ -1,4 +1,315 @@
-[{:assignees [:eastman-kodak],
+[{:assignees [:canon],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3682071/en",
+  :title "Automatic focusing device for cameras",
+  :status :granted,
+  :id "US3682071",
+  :sourcing :authoritative,
+  :filing-year 1970,
+  :assignee :canon,
+  :grant-year 1972,
+  :cites
+  ["US3029348"
+   "US3035176"
+   "US3127463"
+   "US3130305"
+   "US3315153"
+   "US3333105"
+   "US3443502"
+   "US3445665"
+   "US3511155"
+   "US3512888"
+   "US3529528"
+   "US3578975"
+   "US3600099"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:baxter-laboratories],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3682835/en",
+  :title "Liquid blood serum control standard",
+  :status :granted,
+  :id "US3682835",
+  :sourcing :authoritative,
+  :filing-year 1970,
+  :assignee :baxter-laboratories,
+  :grant-year 1972,
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:humphrey-research-associates],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3684374/en",
+  :title "Focus detector",
+  :status :granted,
+  :id "US3684374",
+  :sourcing :authoritative,
+  :filing-year 1970,
+  :assignee :humphrey-research-associates,
+  :grant-year 1972,
+  :cites
+  ["US2678401"
+   "US3102227"
+   "US3244889"
+   "US3437815"
+   "US3519349"
+   "US3529528"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:biophysics-systems],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3684377/en",
+  :title
+  "Method for analysis of blood by optical analysis of living cells",
+  :status :granted,
+  :id "US3684377",
+  :sourcing :authoritative,
+  :filing-year 1970,
+  :assignee :biophysics-systems,
+  :grant-year 1972,
+  :cites ["US2875666" "US3497690"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:american-sterilizer],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3684660/en",
+  :title "Microbiological surface sampler",
+  :status :granted,
+  :id "US3684660",
+  :sourcing :authoritative,
+  :filing-year 1969,
+  :assignee :american-sterilizer,
+  :grant-year 1972,
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:general-electric],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3685140/en",
+  :title "Short channel field-effect transistors",
+  :status :granted,
+  :id "US3685140",
+  :sourcing :authoritative,
+  :filing-year 1969,
+  :assignee :general-electric,
+  :grant-year 1972,
+  :term-years 20,
+  :open-license :none}
+ {:jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3686046/en",
+  :title
+  "Method of producing a needle punched non-cellular backed carpet",
+  :status :granted,
+  :id "US3686046",
+  :sourcing :authoritative,
+  :filing-year 1969,
+  :assignee :unassigned,
+  :grant-year 1972,
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:leland-stanford-junior-university],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3687808/en",
+  :title "Synthetic polynucleotides",
+  :status :granted,
+  :id "US3687808",
+  :sourcing :authoritative,
+  :filing-year 1969,
+  :assignee :leland-stanford-junior-university,
+  :grant-year 1972,
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:syva],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3690834/en",
+  :title
+  "Ligand determination with spin labeled compounds by receptor displacement",
+  :status :granted,
+  :id "US3690834",
+  :sourcing :authoritative,
+  :filing-year 1971,
+  :assignee :syva,
+  :grant-year 1972,
+  :term-years 20,
+  :open-license :none}
+ {:jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3694317/en",
+  :title "Method of and instrument for micro-biological analysis",
+  :status :granted,
+  :id "US3694317",
+  :sourcing :authoritative,
+  :filing-year 1968,
+  :assignee :unassigned,
+  :grant-year 1972,
+  :term-years 20,
+  :open-license :none}
+ {:jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3695848/en",
+  :title "Gas detecting device",
+  :status :granted,
+  :id "US3695848",
+  :sourcing :authoritative,
+  :filing-year 1970,
+  :assignee :unassigned,
+  :grant-year 1972,
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:daniel-e-weber :lionel-d-mcintosh],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3696247/en",
+  :title "Vehicle exhaust emissions analyzer",
+  :status :granted,
+  :id "US3696247",
+  :sourcing :authoritative,
+  :filing-year 1970,
+  :assignee :daniel-e-weber,
+  :grant-year 1972,
+  :cites
+  ["US2829275"
+   "US3171882"
+   "US3519816"
+   "US3562522"
+   "US3569696"
+   "US3588496"
+   "US3593023"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:monsanto-research],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3696742/en",
+  :title
+  "Method of making a stencil for screen-printing using a laser beam",
+  :status :granted,
+  :id "US3696742",
+  :sourcing :authoritative,
+  :filing-year 1969,
+  :assignee :monsanto-research,
+  :grant-year 1972,
+  :cites
+  ["US2682687"
+   "US2860576"
+   "US2924520"
+   "US3112850"
+   "US3170792"
+   "US3314073"
+   "US3371190"
+   "US3374311"
+   "US3379656"
+   "US3410203"
+   "US3410979"
+   "US3455239"
+   "US3549733"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:westinghouse-electric],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3697227/en",
+  :title "Chemical constituent sampler",
+  :status :granted,
+  :id "US3697227",
+  :sourcing :authoritative,
+  :filing-year 1966,
+  :assignee :westinghouse-electric,
+  :grant-year 1972,
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:f-hoffmann-la-roche],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3697638/en",
+  :title "Antigens",
+  :status :granted,
+  :id "US3697638",
+  :sourcing :authoritative,
+  :filing-year 1971,
+  :assignee :f-hoffmann-la-roche,
+  :grant-year 1972,
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:celanese],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3699038/en",
+  :title
+  "Production of improved semipermeable polybenzimidazole membranes",
+  :status :granted,
+  :id "US3699038",
+  :sourcing :authoritative,
+  :filing-year 1970,
+  :assignee :celanese,
+  :grant-year 1972,
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:nat-res-dev],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3699222/en",
+  :title "Production of viral interfering substances",
+  :status :granted,
+  :id "US3699222",
+  :sourcing :authoritative,
+  :filing-year 1968,
+  :assignee :nat-res-dev,
+  :grant-year 1972,
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:hycel],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3699336/en",
+  :title "Biological cell analyzing system",
+  :status :granted,
+  :id "US3699336",
+  :sourcing :authoritative,
+  :filing-year 1969,
+  :assignee :hycel,
+  :grant-year 1972,
+  :cites ["US2875666" "US3413464" "US3497690" "US3523756"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:carl-zeiss],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3699348/en",
+  :title
+  "Radiation sensitive device for the successive investigation of several samples",
+  :status :granted,
+  :id "US3699348",
+  :sourcing :authoritative,
+  :filing-year 1971,
+  :assignee :carl-zeiss,
+  :grant-year 1972,
+  :cites ["US3246559" "US3266322" "US3418080" "US3607094"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:shiney],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3699803/en",
+  :title
+  "Semiconductor element for detecting gases and meter for measuring component concentration of a gas mixture",
+  :status :granted,
+  :id "US3699803",
+  :sourcing :authoritative,
+  :filing-year 1971,
+  :assignee :shiney,
+  :grant-year 1972,
+  :cites ["DE2005497A1" "US3039053" "US3507145"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:eastman-kodak],
   :jurisdiction :us,
   :field "UNKNOWN",
   :source "https://patents.google.com/patent/US3700335/en",
@@ -8954,321 +9265,5 @@
    "US3851972"
    "US3902799"
    "US3928140"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:calgon],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US4118316/en",
-  :title
-  "Quaternized siliceous supports for gel permeation chromatography",
-  :status :granted,
-  :id "US4118316",
-  :sourcing :authoritative,
-  :filing-year 1976,
-  :assignee :calgon,
-  :grant-year 1978,
-  :cites
-  ["US3326875"
-   "US3514925"
-   "US3577266"
-   "US3666530"
-   "US3722181"
-   "US3962206"
-   "US3983299"
-   "US3993443"
-   "US4029583"
-   "US4039463"
-   "US4488922"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:deutsch-electronic-components-division],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US4119362/en",
-  :title "Optical fiber connector utilizing opposed lenses",
-  :status :granted,
-  :id "US4119362",
-  :sourcing :authoritative,
-  :filing-year 1977,
-  :assignee :deutsch-electronic-components-division,
-  :grant-year 1978,
-  :cites
-  ["DE1946693A1"
-   "GB1429843A"
-   "US3405992"
-   "US3832030"
-   "US3864019"
-   "US3944328"
-   "US4015894"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:rhone-poulenc-industries],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US4119494/en",
-  :title "Immobilization of enzymes in an anhydrous medium",
-  :status :granted,
-  :id "US4119494",
-  :sourcing :authoritative,
-  :filing-year 1976,
-  :assignee :rhone-poulenc-industries,
-  :grant-year 1978,
-  :cites ["US3691016" "US3766013" "US3847743"],
-  :term-years 20,
-  :open-license :none}
- {:jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US4119709/en",
-  :title "Diagnostic test",
-  :status :granted,
-  :id "US4119709",
-  :sourcing :authoritative,
-  :filing-year 1976,
-  :assignee :unassigned,
-  :grant-year 1978,
-  :cites
-  ["GB697060A"
-   "US3666854"
-   "US3768979"
-   "US3775615"
-   "US3776698"
-   "US3901654"
-   "US3960492"],
-  :term-years 20,
-  :open-license :none}
- {:jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US4120649/en",
-  :title "Transplants",
-  :status :granted,
-  :id "US4120649",
-  :sourcing :authoritative,
-  :filing-year 1976,
-  :assignee :unassigned,
-  :grant-year 1978,
-  :cites ["US3057775" "US3974526" "US3988782"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:becton-dickinson-and],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US4120945/en",
-  :title
-  "Substrate coated with receptor and labeled ligand for assays",
-  :status :granted,
-  :id "US4120945",
-  :sourcing :authoritative,
-  :filing-year 1976,
-  :assignee :becton-dickinson-and,
-  :grant-year 1978,
-  :cites ["US3646346" "US3790663" "US3867517" "US4012494" "US4017597"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:hoffmann-la-roche],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US4124598/en",
-  :title "Psoralens",
-  :status :granted,
-  :id "US4124598",
-  :sourcing :authoritative,
-  :filing-year 1976,
-  :assignee :hoffmann-la-roche,
-  :grant-year 1978,
-  :cites ["US3201421"],
-  :term-years 20,
-  :open-license :none}
- {:jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US4125492/en",
-  :title
-  "Affinity chromatography of vibrio cholerae enterotoxin-ganglioside polysaccharide and the biological effects of ganglioside-containing soluble polymers",
-  :status :granted,
-  :id "US4125492",
-  :sourcing :authoritative,
-  :filing-year 1976,
-  :assignee :unassigned,
-  :grant-year 1978,
-  :cites ["US3278392"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:agfa-gevaert],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US4128427/en",
-  :title "Silver halide emulsions containing polymeric color couplers",
-  :status :granted,
-  :id "US4128427",
-  :sourcing :authoritative,
-  :filing-year 1977,
-  :assignee :agfa-gevaert,
-  :grant-year 1978,
-  :cites ["DE2044992A1" "US3580722" "US3912513" "US3926436"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:fuji-photo-film],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US4128470/en",
-  :title
-  "Supports for electrophoresis and process for the production of the same",
-  :status :granted,
-  :id "US4128470",
-  :sourcing :authoritative,
-  :filing-year 1978,
-  :assignee :fuji-photo-film,
-  :grant-year 1978,
-  :cites
-  ["US1421341"
-   "US2944017"
-   "US3439074"
-   "US3556992"
-   "US3592953"
-   "US3594263"
-   "US3808118"
-   "US3857778"
-   "US3960499"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:university-of-virginia-patent-foundation],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US4128628/en",
-  :title "Automated immunoassay",
-  :status :granted,
-  :id "US4128628",
-  :sourcing :authoritative,
-  :filing-year 1977,
-  :assignee :university-of-virginia-patent-foundation,
-  :grant-year 1978,
-  :cites
-  ["US3896217"
-   "US3940475"
-   "US3950134"
-   "US3950643"
-   "US3989383"
-   "US4009005"
-   "US4022577"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:toyo-soda-manufacturing],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US4128706/en",
-  :title "Carrier for liquid chromatography",
-  :status :granted,
-  :id "US4128706",
-  :sourcing :authoritative,
-  :filing-year 1977,
-  :assignee :toyo-soda-manufacturing,
-  :grant-year 1978,
-  :cites ["US3645996" "US3970603" "US4038469"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:rca],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US4128868/en",
-  :title "D-C converter using pulsed resonant circuit",
-  :status :granted,
-  :id "US4128868",
-  :sourcing :authoritative,
-  :filing-year 1977,
-  :assignee :rca,
-  :grant-year 1978,
-  :cites
-  ["US2965856"
-   "US3332001"
-   "US3373334"
-   "US3582754"
-   "US3596165"
-   "US4017784"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:syva],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US4130462/en",
-  :title
-  "Receptor steric hindrance immunoassay for receptor determination",
-  :status :granted,
-  :id "US4130462",
-  :sourcing :authoritative,
-  :filing-year 1976,
-  :assignee :syva,
-  :grant-year 1978,
-  :cites ["US3935074"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:american-gas-association],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US4132672/en",
-  :title "Methanation catalyst",
-  :status :granted,
-  :id "US4132672",
-  :sourcing :authoritative,
-  :filing-year 1977,
-  :assignee :american-gas-association,
-  :grant-year 1979,
-  :cites ["US3271325" "US3361535" "US3930812" "US3953363" "US3988334"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:fuji-photo-film],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US4132888/en",
-  :title "Device for automatically focusing image",
-  :status :granted,
-  :id "US4132888",
-  :sourcing :authoritative,
-  :filing-year 1977,
-  :assignee :fuji-photo-film,
-  :grant-year 1979,
-  :cites ["US3054898" "US3682071" "US3844658" "US3953729" "US4047022"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:miles-laboratories],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US4134792/en",
-  :title
-  "Specific binding assay with an enzyme modulator as a labeling substance",
-  :status :granted,
-  :id "US4134792",
-  :sourcing :authoritative,
-  :filing-year 1976,
-  :assignee :miles-laboratories,
-  :grant-year 1979,
-  :cites ["US3817837" "US3850752" "US3880934" "US3975342" "US4003792"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:desoto],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US4134873/en",
-  :title "Polyurethane topcoat composition",
-  :status :granted,
-  :id "US4134873",
-  :sourcing :authoritative,
-  :filing-year 1977,
-  :assignee :desoto,
-  :grant-year 1979,
-  :cites ["US3889036"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:international-standard-electric],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US4135781/en",
-  :title "Optical fiber termination",
-  :status :granted,
-  :id "US4135781",
-  :sourcing :authoritative,
-  :filing-year 1977,
-  :assignee :international-standard-electric,
-  :grant-year 1979,
-  :cites ["US3767910" "US3861781" "US4015894" "US4026633"],
   :term-years 20,
   :open-license :none}]

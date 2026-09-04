@@ -1,4 +1,65 @@
-[{:assignees [:american-phototure],
+[{:jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US1722160/en",
+  :title "Automatic water-discharge device for oil tanks",
+  :status :granted,
+  :id "US1722160",
+  :sourcing :authoritative,
+  :filing-year 1927,
+  :assignee :unassigned,
+  :grant-year 1929,
+  :term-years 20,
+  :open-license :none}
+ {:jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US1722435/en",
+  :title "Apparatus for extracting cholesterol from blood",
+  :status :granted,
+  :id "US1722435",
+  :sourcing :authoritative,
+  :filing-year 1924,
+  :assignee :unassigned,
+  :grant-year 1929,
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:flood-&-conklin],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US1732661/en",
+  :title "Wrinkling finish",
+  :status :granted,
+  :id "US1732661",
+  :sourcing :authoritative,
+  :filing-year 1927,
+  :assignee :flood-&-conklin,
+  :grant-year 1929,
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:victor-talking-machine],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US1740673/en",
+  :title "Light-controlling means",
+  :status :granted,
+  :id "US1740673",
+  :sourcing :authoritative,
+  :filing-year 1928,
+  :assignee :victor-talking-machine,
+  :grant-year 1929,
+  :term-years 20,
+  :open-license :none}
+ {:jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US175066/en",
+  :title "Improvement in filters for drugs",
+  :status :granted,
+  :id "US175066",
+  :sourcing :authoritative,
+  :assignee :unassigned,
+  :grant-year 1876,
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:american-phototure],
   :jurisdiction :us,
   :field "UNKNOWN",
   :source "https://patents.google.com/patent/US1751882/en",
@@ -4558,6 +4619,19 @@
   :grant-year 1943,
   :term-years 20,
   :open-license :none}
+ {:assignees [:minnesota-mining-and-manufacturing],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2331894/en",
+  :title "Adhesive tape and method of making same",
+  :status :granted,
+  :id "US2331894",
+  :sourcing :authoritative,
+  :filing-year 1931,
+  :assignee :minnesota-mining-and-manufacturing,
+  :grant-year 1943,
+  :term-years 20,
+  :open-license :none}
  {:assignees [:champion-paper-and-fibre],
   :jurisdiction :us,
   :field "UNKNOWN",
@@ -4568,6 +4642,19 @@
   :sourcing :authoritative,
   :filing-year 1940,
   :assignee :champion-paper-and-fibre,
+  :grant-year 1943,
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:ei-du-pont-de-nemours-and],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2332373/en",
+  :title "Flexible transparent sheet material",
+  :status :granted,
+  :id "US2332373",
+  :sourcing :authoritative,
+  :filing-year 1942,
+  :assignee :ei-du-pont-de-nemours-and,
   :grant-year 1943,
   :term-years 20,
   :open-license :none}
@@ -4594,6 +4681,19 @@
   :sourcing :authoritative,
   :filing-year 1942,
   :assignee :henry-a-de-phillips,
+  :grant-year 1943,
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:ei-du-pont-de-nemours-and],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2333922/en",
+  :title "Insulated electrical conductor",
+  :status :granted,
+  :id "US2333922",
+  :sourcing :authoritative,
+  :filing-year 1941,
+  :assignee :ei-du-pont-de-nemours-and,
   :grant-year 1943,
   :term-years 20,
   :open-license :none}
@@ -5693,6 +5793,19 @@
   :grant-year 1946,
   :term-years 20,
   :open-license :none}
+ {:assignees [:wingfoot],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2400474/en",
+  :title "Adhesives comprising an olefin polysulphide rubber",
+  :status :granted,
+  :id "US2400474",
+  :sourcing :authoritative,
+  :filing-year 1942,
+  :assignee :wingfoot,
+  :grant-year 1946,
+  :term-years 20,
+  :open-license :none}
  {:assignees [:standard-cap-&-seal],
   :jurisdiction :us,
   :field "UNKNOWN",
@@ -5902,6 +6015,26 @@
   :grant-year 1947,
   :term-years 20,
   :open-license :none}
+ {:assignees [:ei-du-pont-de-nemours-and],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2415839/en",
+  :title "Composite structures",
+  :status :granted,
+  :id "US2415839",
+  :sourcing :authoritative,
+  :filing-year 1942,
+  :assignee :ei-du-pont-de-nemours-and,
+  :grant-year 1947,
+  :cites
+  ["US1184015"
+   "US1839950"
+   "US2181538"
+   "US2263305"
+   "US2313945"
+   "US725094"],
+  :term-years 20,
+  :open-license :none}
  {:assignees [:henrite-products],
   :jurisdiction :us,
   :field "UNKNOWN",
@@ -5942,6 +6075,20 @@
   :assignee :fairchild-camera-and-instrument,
   :grant-year 1947,
   :cites ["US1875552"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:ei-du-pont-de-nemours-and],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2417792/en",
+  :title "Adhesive compositions and process",
+  :status :granted,
+  :id "US2417792",
+  :sourcing :authoritative,
+  :filing-year 1943,
+  :assignee :ei-du-pont-de-nemours-and,
+  :grant-year 1947,
+  :cites ["US2277083" "US2313945" "US2356005"],
   :term-years 20,
   :open-license :none}
  {:assignees [:standard-oil-development],
@@ -6316,6 +6463,21 @@
   :cites ["US1933052" "US1950662" "US2171389" "US2204520" "US2302557"],
   :term-years 20,
   :open-license :none}
+ {:assignees [:united-states-rubber],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2429080/en",
+  :title
+  "Reducing the curing rate of buta-diene-styrene copolymer rubber",
+  :status :granted,
+  :id "US2429080",
+  :sourcing :authoritative,
+  :filing-year 1944,
+  :assignee :united-states-rubber,
+  :grant-year 1947,
+  :cites ["US1918328" "US2234204"],
+  :term-years 20,
+  :open-license :none}
  {:assignees [:wingfoot],
   :jurisdiction :us,
   :field "UNKNOWN",
@@ -6371,6 +6533,20 @@
    "US2206710"
    "US2254994"
    "US2256191"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:ei-du-pont-de-nemours-and],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2430479/en",
+  :title "Bonding of laminates by means of isocyanates",
+  :status :granted,
+  :id "US2430479",
+  :sourcing :authoritative,
+  :filing-year 1941,
+  :assignee :ei-du-pont-de-nemours-and,
+  :grant-year 1947,
+  :cites ["US2046378" "US2047226" "US2241321" "US2282827" "US2284896"],
   :term-years 20,
   :open-license :none}
  {:assignees [:bf-goodrich],
@@ -6554,6 +6730,20 @@
   :cites ["US1813636" "US2318559" "US2360308"],
   :term-years 20,
   :open-license :none}
+ {:assignees [:ei-du-pont-de-nemours-and],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2436222/en",
+  :title "Adhesive cement compositions",
+  :status :granted,
+  :id "US2436222",
+  :sourcing :authoritative,
+  :filing-year 1943,
+  :assignee :ei-du-pont-de-nemours-and,
+  :grant-year 1948,
+  :cites ["US2277083" "US2313945" "US2356005"],
+  :term-years 20,
+  :open-license :none}
  {:jurisdiction :us,
   :field "UNKNOWN",
   :source "https://patents.google.com/patent/US2436252/en",
@@ -6714,6 +6904,31 @@
    "US2313730"
    "US503556"
    "US731055"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:ei-du-pont-de-nemours-and],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2443450/en",
+  :title
+  "Article coated with nu-alkoxymethyl polyamide and process of making same",
+  :status :granted,
+  :id "US2443450",
+  :sourcing :authoritative,
+  :filing-year 1943,
+  :assignee :ei-du-pont-de-nemours-and,
+  :grant-year 1948,
+  :cites
+  ["US2071250"
+   "US2096181"
+   "US2141169"
+   "US2173005"
+   "US2188332"
+   "US2244184"
+   "US2252554"
+   "US2292442"
+   "US2317181"
+   "US2412993"],
   :term-years 20,
   :open-license :none}
  {:assignees [:american-cyanamid],
@@ -8454,6 +8669,20 @@
    "US485158"],
   :term-years 20,
   :open-license :none}
+ {:assignees [:cleef-bros-van],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2555745/en",
+  :title "Adhesive tapes and sheets",
+  :status :granted,
+  :id "US2555745",
+  :sourcing :authoritative,
+  :filing-year 1948,
+  :assignee :cleef-bros-van,
+  :grant-year 1951,
+  :cites ["US2332265" "US2387512" "US2415839" "US2430479" "US2436222"],
+  :term-years 20,
+  :open-license :none}
  {:assignees [:polaroid],
   :jurisdiction :us,
   :field "UNKNOWN",
@@ -8496,6 +8725,31 @@
   :assignee :west-virginia-pulp-and-paper,
   :grant-year 1951,
   :cites ["US1921368" "US1933963" "US2066782" "US2281340" "US2425231"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:ei-du-pont-de-nemours-and],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2561215/en",
+  :title "Laminated products and adhesive compositions of matter",
+  :status :granted,
+  :id "US2561215",
+  :sourcing :authoritative,
+  :filing-year 1945,
+  :assignee :ei-du-pont-de-nemours-and,
+  :grant-year 1951,
+  :cites
+  ["FR849126A"
+   "US1849109"
+   "US2128635"
+   "US2255834"
+   "US2277941"
+   "US2291208"
+   "US2334526"
+   "US2394375"
+   "US2402020"
+   "US2405038"
+   "US2429397"],
   :term-years 20,
   :open-license :none}
  {:jurisdiction :us,
@@ -9211,259 +9465,5 @@
   :assignee :tate-and-lyle-ingredients-americas,
   :grant-year 1952,
   :cites ["GB136307A" "US1853569" "US2146507" "US2334102" "US781659"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:american-cyanamid],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US2600783/en",
-  :title "Copolymers of dimethylstyrenes and vinyl acyclic compounds",
-  :status :granted,
-  :id "US2600783",
-  :sourcing :authoritative,
-  :filing-year 1948,
-  :assignee :american-cyanamid,
-  :grant-year 1952,
-  :cites ["GB411860A" "US1683402" "US2276691" "US2383921" "US2390437"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:general-electric],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US2602368/en",
-  :title "Color matching apparatus",
-  :status :granted,
-  :id "US2602368",
-  :sourcing :authoritative,
-  :filing-year 1950,
-  :assignee :general-electric,
-  :grant-year 1952,
-  :cites
-  ["US1901400"
-   "US2084760"
-   "US2088297"
-   "US2122499"
-   "US2159790"
-   "US2240722"
-   "US2280524"
-   "US2339754"
-   "US2388727"
-   "US2411741"
-   "US2484618"],
-  :term-years 20,
-  :open-license :none}
- {:jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US2602729/en",
-  :title
-  "Apparatus for determining the concentration of a chemically active gas in an atmosphere",
-  :status :granted,
-  :id "US2602729",
-  :sourcing :authoritative,
-  :filing-year 1946,
-  :assignee :unassigned,
-  :grant-year 1952,
-  :cites
-  ["GB191500379A"
-   "GB264820A"
-   "GB396672A"
-   "GB494882A"
-   "US1512893"
-   "US1919858"
-   "US1977002"
-   "US2049947"
-   "US2056663"
-   "US2073531"
-   "US2105226"
-   "US2113063"
-   "US2129754"
-   "US2153568"
-   "US2174349"
-   "US2176462"
-   "US2229155"
-   "US2232622"
-   "US2345090"],
-  :term-years 20,
-  :open-license :none}
- {:jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US2603293/en",
-  :title "Lynes",
-  :status :granted,
-  :id "US2603293",
-  :sourcing :authoritative,
-  :assignee :unassigned,
-  :grant-year 1952,
-  :cites ["US2177601" "US2187480" "US2201096" "US2344120"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:bell-telephone-laboratories],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US2603694/en",
-  :title "Semiconductor signal translating device",
-  :status :granted,
-  :id "US2603694",
-  :sourcing :authoritative,
-  :filing-year 1951,
-  :assignee :bell-telephone-laboratories,
-  :grant-year 1952,
-  :term-years 20,
-  :open-license :none}
- {:assignees [:eastman-kodak],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US2604388/en",
-  :title "Photosensitive coating",
-  :status :granted,
-  :id "US2604388",
-  :sourcing :authoritative,
-  :filing-year 1951,
-  :assignee :eastman-kodak,
-  :grant-year 1952,
-  :cites ["GB458421A" "US1981102" "US2184310" "US2313848"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:canadian-industries],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US2604457/en",
-  :title
-  "Styrene-acrylic acid copolymers reacted with polymeric 4-vinylcyclohexene diepoxide",
-  :status :granted,
-  :id "US2604457",
-  :sourcing :authoritative,
-  :filing-year 1951,
-  :assignee :canadian-industries,
-  :grant-year 1952,
-  :cites ["US2131120" "US2527806" "US2530983"],
-  :term-years 20,
-  :open-license :none}
- {:jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US2606616/en",
-  :title "Well treating and flow controlling device",
-  :status :granted,
-  :id "US2606616",
-  :sourcing :authoritative,
-  :filing-year 1948,
-  :assignee :unassigned,
-  :grant-year 1952,
-  :cites ["US2118428" "US2352612" "US2447546"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:ei-du-pont-de-nemours-and],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US2606832/en",
-  :title
-  "Photographic elements having an anchoring substratum composed of a water-insoluble vinylpyridine polymer",
-  :status :granted,
-  :id "US2606832",
-  :sourcing :authoritative,
-  :filing-year 1946,
-  :assignee :ei-du-pont-de-nemours-and,
-  :grant-year 1952,
-  :cites
-  ["US1627935"
-   "US2133110"
-   "US2397865"
-   "US2400989"
-   "US2448507"
-   "US2448542"
-   "US2448552"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:ei-du-pont-de-nemours-and],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US2606835/en",
-  :title "Light-sensitive photographic element",
-  :status :granted,
-  :id "US2606835",
-  :sourcing :authoritative,
-  :filing-year 1947,
-  :assignee :ei-du-pont-de-nemours-and,
-  :grant-year 1952,
-  :cites
-  ["US1752069"
-   "US2054284"
-   "US2146907"
-   "US2269158"
-   "US2272191"
-   "US2312852"
-   "US2350380"
-   "US2397452"
-   "US2462151"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:ei-du-pont-de-nemours-and],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US2606845/en",
-  :title
-  "Process for adhering polyvinyl chloride coatings to nylon fabric",
-  :status :granted,
-  :id "US2606845",
-  :sourcing :authoritative,
-  :filing-year 1949,
-  :assignee :ei-du-pont-de-nemours-and,
-  :grant-year 1952,
-  :cites ["US2253146" "US2265119" "US2322953" "US2332373" "US2443450"],
-  :term-years 20,
-  :open-license :none}
- {:jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US2608533/en",
-  :title "Composition and method for testing biological fluids",
-  :status :granted,
-  :id "US2608533",
-  :sourcing :authoritative,
-  :filing-year 1951,
-  :assignee :unassigned,
-  :grant-year 1952,
-  :cites ["US500697" "US588613"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:ei-du-pont-de-nemours-and],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US2608554/en",
-  :title "Basic catalysis of the polymerization of acrylonitrile",
-  :status :granted,
-  :id "US2608554",
-  :sourcing :authoritative,
-  :filing-year 1948,
-  :assignee :ei-du-pont-de-nemours-and,
-  :grant-year 1952,
-  :cites ["US2458355" "US2467234" "US2475424"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:ei-du-pont-de-nemours-and],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US2608555/en",
-  :title "Base catalyzed polymerizations",
-  :status :granted,
-  :id "US2608555",
-  :sourcing :authoritative,
-  :filing-year 1948,
-  :assignee :ei-du-pont-de-nemours-and,
-  :grant-year 1952,
-  :cites ["US2377779" "US2458355" "US2475424" "US2478416"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:gardner-board-and-carton],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US2611717/en",
-  :title "Method of calendering mineral coated paper",
-  :status :granted,
-  :id "US2611717",
-  :sourcing :authoritative,
-  :filing-year 1949,
-  :assignee :gardner-board-and-carton,
-  :grant-year 1952,
-  :cites ["US2069786" "US2304818"],
   :term-years 20,
   :open-license :none}]
