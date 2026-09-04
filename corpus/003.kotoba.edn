@@ -1,4 +1,332 @@
-[{:assignees [:hoechst],
+[{:assignees [:hyland-laboratories],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3088875/en",
+  :title
+  "Immunological diagnostics utilizing polystyrene latex particles of 0.15 to 0.25 micron",
+  :status :granted,
+  :id "US3088875",
+  :sourcing :authoritative,
+  :filing-year 1959,
+  :assignee :hyland-laboratories,
+  :grant-year 1963,
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:shell-oil],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3089382/en",
+  :title "Method and apparatus for analyzing fluids",
+  :status :granted,
+  :id "US3089382",
+  :sourcing :authoritative,
+  :filing-year 1959,
+  :assignee :shell-oil,
+  :grant-year 1963,
+  :cites
+  ["CA466113A"
+   "US1840500"
+   "US2648253"
+   "US2764692"
+   "US2774277"
+   "US2775160"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:miles-laboratories],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3092465/en",
+  :title "Diagnostic test device for blood sugar",
+  :status :granted,
+  :id "US3092465",
+  :sourcing :authoritative,
+  :filing-year 1960,
+  :assignee :miles-laboratories,
+  :grant-year 1963,
+  :cites ["GB571181A" "US2140341" "US2567445" "US2912309"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:american-instr],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3092722/en",
+  :title "Spectro-phosphorescence measuring instrument",
+  :status :granted,
+  :id "US3092722",
+  :sourcing :authoritative,
+  :filing-year 1960,
+  :assignee :american-instr,
+  :grant-year 1963,
+  :cites
+  ["US2240844"
+   "US2303688"
+   "US2351539"
+   "US2381414"
+   "US2757568"
+   "US2794945"
+   "US2825817"
+   "US2837655"
+   "US2856531"
+   "US2867728"
+   "US2901625"
+   "US2936371"
+   "US2984744"],
+  :term-years 20,
+  :open-license :none}
+ {:jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3093306/en",
+  :title "Fluid-operated timer",
+  :status :granted,
+  :id "US3093306",
+  :sourcing :authoritative,
+  :filing-year 1961,
+  :assignee :unassigned,
+  :grant-year 1963,
+  :cites
+  ["CA606733A"
+   "US2760511"
+   "US2970226"
+   "US3006144"
+   "US3010649"
+   "US3016066"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:jagenberg-werke],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3094432/en",
+  :title
+  "Method of treating adhesive coated blanks to nullify the adhesive effect in selected areas",
+  :status :granted,
+  :id "US3094432",
+  :sourcing :authoritative,
+  :filing-year 1960,
+  :assignee :jagenberg-werke,
+  :grant-year 1963,
+  :cites
+  ["US2334600"
+   "US2362862"
+   "US2562423"
+   "US2584632"
+   "US2628214"
+   "US2695745"
+   "US2745592"
+   "US2781159"
+   "US2923404"
+   "US2936261"
+   "US2937066"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:indiana-university-foundation],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3096250/en",
+  :title "Novel particulate antigens and process",
+  :status :granted,
+  :id "US3096250",
+  :sourcing :authoritative,
+  :filing-year 1959,
+  :assignee :indiana-university-foundation,
+  :grant-year 1963,
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:technicon-instruments],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3098719/en",
+  :title "Fluid processing system with continuous filter apparatus",
+  :status :granted,
+  :id "US3098719",
+  :sourcing :authoritative,
+  :filing-year 1960,
+  :assignee :technicon-instruments,
+  :grant-year 1963,
+  :cites
+  ["US2201628"
+   "US2377252"
+   "US2457958"
+   "US2568420"
+   "US2665812"
+   "US2731108"
+   "US2734377"
+   "US2797149"
+   "US2895614"
+   "US2935200"
+   "US2963161"
+   "US3046869"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:beckman-instruments],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3098813/en",
+  :title "Electrode",
+  :status :granted,
+  :id "US3098813",
+  :sourcing :authoritative,
+  :filing-year 1959,
+  :assignee :beckman-instruments,
+  :grant-year 1963,
+  :cites
+  ["GB397303A"
+   "GB628840A"
+   "US2215213"
+   "US2416949"
+   "US2437697"
+   "US2651612"
+   "US2805191"
+   "US2913386"
+   "US3000805"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:national-distillers-and-chemical],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3099350/en",
+  :title "Packaging films and package produced therefrom",
+  :status :granted,
+  :id "US3099350",
+  :sourcing :authoritative,
+  :filing-year 1959,
+  :assignee :national-distillers-and-chemical,
+  :grant-year 1963,
+  :cites
+  ["US2276677"
+   "US2519013"
+   "US2686744"
+   "US2772172"
+   "US2888367"
+   "US2900260"
+   "US2979410"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:miles-laboratories],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3099605/en",
+  :title "Diagnostic composition",
+  :status :granted,
+  :id "US3099605",
+  :sourcing :authoritative,
+  :filing-year 1960,
+  :assignee :miles-laboratories,
+  :grant-year 1963,
+  :cites ["US2848308"],
+  :term-years 20,
+  :open-license :none}
+ {:jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3102082/en",
+  :title "Apparatus and method for culturing micro-organisms",
+  :status :granted,
+  :id "US3102082",
+  :sourcing :authoritative,
+  :filing-year 1961,
+  :assignee :unassigned,
+  :grant-year 1963,
+  :cites ["US2954327" "US2971850" "US2980540"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:mead],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3104182/en",
+  :title "Apparatus for controlling edge beads",
+  :status :granted,
+  :id "US3104182",
+  :sourcing :authoritative,
+  :filing-year 1961,
+  :assignee :mead,
+  :grant-year 1963,
+  :cites ["GB608203A" "US1525829" "US2592914" "US2974586"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:spencer-chemical],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3104232/en",
+  :title
+  "Polyethylene compositions containing n-allyl fatty acid amides",
+  :status :granted,
+  :id "US3104232",
+  :sourcing :authoritative,
+  :filing-year 1960,
+  :assignee :spencer-chemical,
+  :grant-year 1963,
+  :cites ["FR1132791A"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:raytheon],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3104991/en",
+  :title "Method of preparing semiconductor material",
+  :status :granted,
+  :id "US3104991",
+  :sourcing :authoritative,
+  :filing-year 1958,
+  :assignee :raytheon,
+  :grant-year 1963,
+  :cites
+  ["US2697269"
+   "US2771382"
+   "US2794846"
+   "US2804405"
+   "US2816850"
+   "US2861018"],
+  :term-years 20,
+  :open-license :none}
+ {:jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3106933/en",
+  :title
+  "Controlling liquid media including solid matter suspended therein",
+  :status :granted,
+  :id "US3106933",
+  :sourcing :authoritative,
+  :filing-year 1959,
+  :assignee :unassigned,
+  :grant-year 1963,
+  :cites ["US2454653" "US2661550" "US2833929"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:dalde-reagents],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3107204/en",
+  :title "Microbiological testing method and structure therefor",
+  :status :granted,
+  :id "US3107204",
+  :sourcing :authoritative,
+  :filing-year 1961,
+  :assignee :dalde-reagents,
+  :grant-year 1963,
+  :cites
+  ["US2657998"
+   "US2787581"
+   "US2874091"
+   "US2894844"
+   "US2904474"
+   "US2955044"
+   "US2956931"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:rhone-poulenc],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3107206/en",
+  :title "Production of graft polymers",
+  :status :granted,
+  :id "US3107206",
+  :sourcing :authoritative,
+  :filing-year 1958,
+  :assignee :rhone-poulenc,
+  :grant-year 1963,
+  :cites ["FR1130099A" "GB750923A" "US2895891" "US2983657"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:hoechst],
   :jurisdiction :us,
   :field "UNKNOWN",
   :source "https://patents.google.com/patent/US3108017/en",
@@ -8950,288 +9278,5 @@
   :filing-year 1969,
   :assignee :beckman-instruments,
   :grant-year 1972,
-  :term-years 20,
-  :open-license :none}
- {:jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3650360/en",
-  :title "Truck brake",
-  :status :granted,
-  :id "US3650360",
-  :sourcing :authoritative,
-  :filing-year 1969,
-  :assignee :unassigned,
-  :grant-year 1972,
-  :cites ["US1743412" "US1915857" "US1926361" "US2116174" "US3368648"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:technicon],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3650698/en",
-  :title
-  "Apparatus for the automatic determination of the coagulation, aggregation and or flocculation, or the like, rates of fluids, and novel reaction intensifying agent for use therewith",
-  :status :granted,
-  :id "US3650698",
-  :sourcing :authoritative,
-  :filing-year 1969,
-  :assignee :technicon,
-  :grant-year 1972,
-  :cites
-  ["US2113063"
-   "US2678729"
-   "US3146163"
-   "US3395210"
-   "US3470067"
-   "US3492096"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:standard-telephone-and-cables],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3650796/en",
-  :title "Photolithographic masks",
-  :status :granted,
-  :id "US3650796",
-  :sourcing :authoritative,
-  :filing-year 1969,
-  :assignee :standard-telephone-and-cables,
-  :grant-year 1972,
-  :cites
-  ["US2688566"
-   "US2697028"
-   "US3027278"
-   "US3236707"
-   "US3281261"
-   "US3360398"
-   "US3395970"
-   "US3427120"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:agency-of-industrial-science-and-technology],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3652492/en",
-  :title
-  "Process for production of high molecular substance having optical specificity",
-  :status :granted,
-  :id "US3652492",
-  :sourcing :authoritative,
-  :filing-year 1968,
-  :assignee :agency-of-industrial-science-and-technology,
-  :grant-year 1972,
-  :term-years 20,
-  :open-license :none}
- {:assignees [:corning-glass-works],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3652761/en",
-  :title
-  "Immunochemical composites and antigen or antibody purification therewith",
-  :status :granted,
-  :id "US3652761",
-  :sourcing :authoritative,
-  :filing-year 1969,
-  :assignee :corning-glass-works,
-  :grant-year 1972,
-  :term-years 20,
-  :open-license :none}
- {:assignees [:rca],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3653901/en",
-  :title "Color kinescope production with a temporary mask",
-  :status :granted,
-  :id "US3653901",
-  :sourcing :authoritative,
-  :filing-year 1969,
-  :assignee :rca,
-  :grant-year 1972,
-  :cites ["US2750524" "US2971117" "US3070441" "US3231380" "US3406068"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:organon],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3654090/en",
-  :title "Method for the determination of antigens and antibodies",
-  :status :granted,
-  :id "US3654090",
-  :sourcing :authoritative,
-  :filing-year 1968,
-  :assignee :organon,
-  :grant-year 1972,
-  :term-years 20,
-  :open-license :none}
- {:assignees [:arthur-d-little],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3656906/en",
-  :title
-  "Method for detecting and quantitating the presence of cannabinoids and analogs thereof in biological materials and resulting products",
-  :status :granted,
-  :id "US3656906",
-  :sourcing :authoritative,
-  :filing-year 1970,
-  :assignee :arthur-d-little,
-  :grant-year 1972,
-  :term-years 20,
-  :open-license :none}
- {:assignees [:joseph-e-turbeville],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3657119/en",
-  :title "Pollution control device",
-  :status :granted,
-  :id "US3657119",
-  :sourcing :authoritative,
-  :filing-year 1970,
-  :assignee :joseph-e-turbeville,
-  :grant-year 1972,
-  :cites
-  ["US2637384"
-   "US2907717"
-   "US3124725"
-   "US3136720"
-   "US3358838"
-   "US3494862"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:bausch-and-lomb],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3657537/en",
-  :title
-  "Computerized slit-scan cyto-fluorometer for automated cell recognition",
-  :status :granted,
-  :id "US3657537",
-  :sourcing :authoritative,
-  :filing-year 1970,
-  :assignee :bausch-and-lomb,
-  :grant-year 1972,
-  :cites ["US3327117" "US3470373" "US3497690"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:bell-telephone-laboratories],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3658420/en",
-  :title "Photomask inspection by spatial filtering",
-  :status :granted,
-  :id "US3658420",
-  :sourcing :authoritative,
-  :filing-year 1969,
-  :assignee :bell-telephone-laboratories,
-  :grant-year 1972,
-  :cites ["US3240108" "US3370268" "US3519331"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:jerusalem-the-university-of],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3659104/en",
-  :title "Method of measuring serum thyroxine",
-  :status :granted,
-  :id "US3659104",
-  :sourcing :authoritative,
-  :filing-year 1970,
-  :assignee :jerusalem-the-university-of,
-  :grant-year 1972,
-  :cites ["US3451777" "US3507618"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:national-aeronautics-and-space-administration-nasa],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3660240/en",
-  :title "Flavin co-enzyme assay",
-  :status :granted,
-  :id "US3660240",
-  :sourcing :authoritative,
-  :filing-year 1969,
-  :assignee :national-aeronautics-and-space-administration-nasa,
-  :grant-year 1972,
-  :cites ["US2973305"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:technicon-instruments],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3661460/en",
-  :title
-  "Method and apparatus for optical analysis of the contents of a sheathed stream",
-  :status :granted,
-  :id "US3661460",
-  :sourcing :authoritative,
-  :filing-year 1970,
-  :assignee :technicon-instruments,
-  :grant-year 1972,
-  :cites
-  ["US2731877"
-   "US2732753"
-   "US2875666"
-   "US2920525"
-   "US3398286"
-   "US3440866"
-   "US3504183"
-   "US3515884"
-   "US3523733"
-   "US3560754"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:birko-chemical],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3661718/en",
-  :title "Method for taking and transferring bacteria samples",
-  :status :granted,
-  :id "US3661718",
-  :sourcing :authoritative,
-  :filing-year 1970,
-  :assignee :birko-chemical,
-  :grant-year 1972,
-  :term-years 20,
-  :open-license :none}
- {:assignees [:university-of-illinois-at-urbana-champaign],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3661893/en",
-  :title
-  "Synthesis in vitro of nucleic acids and products used therein and products produced therefrom",
-  :status :granted,
-  :id "US3661893",
-  :sourcing :authoritative,
-  :filing-year 1968,
-  :assignee :university-of-illinois-at-urbana-champaign,
-  :grant-year 1972,
-  :term-years 20,
-  :open-license :none}
- {:assignees [:pulp-paper-res-inst],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3663357/en",
-  :title
-  "Bleaching of mechanical cellulosic pulp with ozone in the presence of a peroxygen compound",
-  :status :granted,
-  :id "US3663357",
-  :sourcing :authoritative,
-  :filing-year 1970,
-  :assignee :pulp-paper-res-inst,
-  :grant-year 1972,
-  :cites ["US2838459" "US2859087" "US3451888" "US3492199"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:geomet],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3663374/en",
-  :title "Method and apparatus for quantitating enzyme activity",
-  :status :granted,
-  :id "US3663374",
-  :sourcing :authoritative,
-  :filing-year 1970,
-  :assignee :geomet,
-  :grant-year 1972,
-  :cites ["US3261668" "US3367841" "US3526480"],
   :term-years 20,
   :open-license :none}]

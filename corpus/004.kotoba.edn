@@ -1,4 +1,287 @@
-[{:assignees [:f-hoffmann-la-roche],
+[{:jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3650360/en",
+  :title "Truck brake",
+  :status :granted,
+  :id "US3650360",
+  :sourcing :authoritative,
+  :filing-year 1969,
+  :assignee :unassigned,
+  :grant-year 1972,
+  :cites ["US1743412" "US1915857" "US1926361" "US2116174" "US3368648"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:technicon],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3650698/en",
+  :title
+  "Apparatus for the automatic determination of the coagulation, aggregation and or flocculation, or the like, rates of fluids, and novel reaction intensifying agent for use therewith",
+  :status :granted,
+  :id "US3650698",
+  :sourcing :authoritative,
+  :filing-year 1969,
+  :assignee :technicon,
+  :grant-year 1972,
+  :cites
+  ["US2113063"
+   "US2678729"
+   "US3146163"
+   "US3395210"
+   "US3470067"
+   "US3492096"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:standard-telephone-and-cables],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3650796/en",
+  :title "Photolithographic masks",
+  :status :granted,
+  :id "US3650796",
+  :sourcing :authoritative,
+  :filing-year 1969,
+  :assignee :standard-telephone-and-cables,
+  :grant-year 1972,
+  :cites
+  ["US2688566"
+   "US2697028"
+   "US3027278"
+   "US3236707"
+   "US3281261"
+   "US3360398"
+   "US3395970"
+   "US3427120"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:agency-of-industrial-science-and-technology],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3652492/en",
+  :title
+  "Process for production of high molecular substance having optical specificity",
+  :status :granted,
+  :id "US3652492",
+  :sourcing :authoritative,
+  :filing-year 1968,
+  :assignee :agency-of-industrial-science-and-technology,
+  :grant-year 1972,
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:corning-glass-works],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3652761/en",
+  :title
+  "Immunochemical composites and antigen or antibody purification therewith",
+  :status :granted,
+  :id "US3652761",
+  :sourcing :authoritative,
+  :filing-year 1969,
+  :assignee :corning-glass-works,
+  :grant-year 1972,
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:rca],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3653901/en",
+  :title "Color kinescope production with a temporary mask",
+  :status :granted,
+  :id "US3653901",
+  :sourcing :authoritative,
+  :filing-year 1969,
+  :assignee :rca,
+  :grant-year 1972,
+  :cites ["US2750524" "US2971117" "US3070441" "US3231380" "US3406068"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:organon],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3654090/en",
+  :title "Method for the determination of antigens and antibodies",
+  :status :granted,
+  :id "US3654090",
+  :sourcing :authoritative,
+  :filing-year 1968,
+  :assignee :organon,
+  :grant-year 1972,
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:arthur-d-little],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3656906/en",
+  :title
+  "Method for detecting and quantitating the presence of cannabinoids and analogs thereof in biological materials and resulting products",
+  :status :granted,
+  :id "US3656906",
+  :sourcing :authoritative,
+  :filing-year 1970,
+  :assignee :arthur-d-little,
+  :grant-year 1972,
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:joseph-e-turbeville],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3657119/en",
+  :title "Pollution control device",
+  :status :granted,
+  :id "US3657119",
+  :sourcing :authoritative,
+  :filing-year 1970,
+  :assignee :joseph-e-turbeville,
+  :grant-year 1972,
+  :cites
+  ["US2637384"
+   "US2907717"
+   "US3124725"
+   "US3136720"
+   "US3358838"
+   "US3494862"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:bausch-and-lomb],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3657537/en",
+  :title
+  "Computerized slit-scan cyto-fluorometer for automated cell recognition",
+  :status :granted,
+  :id "US3657537",
+  :sourcing :authoritative,
+  :filing-year 1970,
+  :assignee :bausch-and-lomb,
+  :grant-year 1972,
+  :cites ["US3327117" "US3470373" "US3497690"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:bell-telephone-laboratories],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3658420/en",
+  :title "Photomask inspection by spatial filtering",
+  :status :granted,
+  :id "US3658420",
+  :sourcing :authoritative,
+  :filing-year 1969,
+  :assignee :bell-telephone-laboratories,
+  :grant-year 1972,
+  :cites ["US3240108" "US3370268" "US3519331"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:jerusalem-the-university-of],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3659104/en",
+  :title "Method of measuring serum thyroxine",
+  :status :granted,
+  :id "US3659104",
+  :sourcing :authoritative,
+  :filing-year 1970,
+  :assignee :jerusalem-the-university-of,
+  :grant-year 1972,
+  :cites ["US3451777" "US3507618"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:national-aeronautics-and-space-administration-nasa],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3660240/en",
+  :title "Flavin co-enzyme assay",
+  :status :granted,
+  :id "US3660240",
+  :sourcing :authoritative,
+  :filing-year 1969,
+  :assignee :national-aeronautics-and-space-administration-nasa,
+  :grant-year 1972,
+  :cites ["US2973305"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:technicon-instruments],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3661460/en",
+  :title
+  "Method and apparatus for optical analysis of the contents of a sheathed stream",
+  :status :granted,
+  :id "US3661460",
+  :sourcing :authoritative,
+  :filing-year 1970,
+  :assignee :technicon-instruments,
+  :grant-year 1972,
+  :cites
+  ["US2731877"
+   "US2732753"
+   "US2875666"
+   "US2920525"
+   "US3398286"
+   "US3440866"
+   "US3504183"
+   "US3515884"
+   "US3523733"
+   "US3560754"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:birko-chemical],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3661718/en",
+  :title "Method for taking and transferring bacteria samples",
+  :status :granted,
+  :id "US3661718",
+  :sourcing :authoritative,
+  :filing-year 1970,
+  :assignee :birko-chemical,
+  :grant-year 1972,
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:university-of-illinois-at-urbana-champaign],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3661893/en",
+  :title
+  "Synthesis in vitro of nucleic acids and products used therein and products produced therefrom",
+  :status :granted,
+  :id "US3661893",
+  :sourcing :authoritative,
+  :filing-year 1968,
+  :assignee :university-of-illinois-at-urbana-champaign,
+  :grant-year 1972,
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:pulp-paper-res-inst],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3663357/en",
+  :title
+  "Bleaching of mechanical cellulosic pulp with ozone in the presence of a peroxygen compound",
+  :status :granted,
+  :id "US3663357",
+  :sourcing :authoritative,
+  :filing-year 1970,
+  :assignee :pulp-paper-res-inst,
+  :grant-year 1972,
+  :cites ["US2838459" "US2859087" "US3451888" "US3492199"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:geomet],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3663374/en",
+  :title "Method and apparatus for quantitating enzyme activity",
+  :status :granted,
+  :id "US3663374",
+  :sourcing :authoritative,
+  :filing-year 1970,
+  :assignee :geomet,
+  :grant-year 1972,
+  :cites ["US3261668" "US3367841" "US3526480"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:f-hoffmann-la-roche],
   :jurisdiction :us,
   :field "UNKNOWN",
   :source "https://patents.google.com/patent/US3663684/en",
@@ -8948,304 +9231,5 @@
   :assignee :kabi,
   :grant-year 1978,
   :cites ["US3275534" "US3479255" "US3635681" "US3884896"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:yellow-springs-instrument],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US4073713/en",
-  :title "Membrane for enzyme electrodes",
-  :status :granted,
-  :id "US4073713",
-  :sourcing :authoritative,
-  :filing-year 1976,
-  :assignee :yellow-springs-instrument,
-  :grant-year 1978,
-  :cites
-  ["US3539455"
-   "US3542662"
-   "US3838033"
-   "US3869354"
-   "US3948745"
-   "US3979274"],
-  :term-years 20,
-  :open-license :none}
- {:jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US4077069/en",
-  :title "Synthetic tympanic membrane",
-  :status :granted,
-  :id "US4077069",
-  :sourcing :authoritative,
-  :filing-year 1977,
-  :assignee :unassigned,
-  :grant-year 1978,
-  :cites ["GB189724202A" "US1045917" "US3473170" "US3562820"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:honeywell],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US4078172/en",
-  :title "Continuous automatic focus system",
-  :status :granted,
-  :id "US4078172",
-  :sourcing :authoritative,
-  :filing-year 1976,
-  :assignee :honeywell,
-  :grant-year 1978,
-  :cites ["US3781110" "US3958117" "US4031383"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:agfa-gevaert],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US4080211/en",
-  :title "Polymerization of monomeric color couplets",
-  :status :granted,
-  :id "US4080211",
-  :sourcing :authoritative,
-  :filing-year 1975,
-  :assignee :agfa-gevaert,
-  :grant-year 1978,
-  :cites
-  ["US2563524"
-   "US2976294"
-   "US3163625"
-   "US3202642"
-   "US3211552"
-   "US3325286"
-   "US3356686"
-   "US3370952"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:chemed],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US4082459/en",
-  :title "Analytical cell assembly for an analyzer",
-  :status :granted,
-  :id "US4082459",
-  :sourcing :authoritative,
-  :filing-year 1976,
-  :assignee :chemed,
-  :grant-year 1978,
-  :cites ["US2999417" "US3711708" "US3861809" "US3906226"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:asahi-kogaku-kogyo],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US4083056/en",
-  :title "Focus detecting device for single-lens reflex cameras",
-  :status :granted,
-  :id "US4083056",
-  :sourcing :authoritative,
-  :filing-year 1976,
-  :assignee :asahi-kogaku-kogyo,
-  :grant-year 1978,
-  :cites
-  ["US3274914"
-   "US3733989"
-   "US3762294"
-   "US3827064"
-   "US3860935"
-   "US3938894"
-   "US4047187"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:bio-rad-laboratories],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US4088746/en",
-  :title "Radioimmunoassay for thyroid-stimulating hormone (TSH)",
-  :status :granted,
-  :id "US4088746",
-  :sourcing :authoritative,
-  :filing-year 1976,
-  :assignee :bio-rad-laboratories,
-  :grant-year 1978,
-  :cites ["US3853987" "US4021534"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:battelle-development],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US4089778/en",
-  :title
-  "Process for separating a substance from a liquid medium containing the substance in dissolved form",
-  :status :granted,
-  :id "US4089778",
-  :sourcing :authoritative,
-  :filing-year 1974,
-  :assignee :battelle-development,
-  :grant-year 1978,
-  :cites ["CA548246A" "US3519558" "US3630937" "US3836200" "US3839206"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:coulter-electronics],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US4090128/en",
-  :title "Aperture module for use in particle testing apparatus",
-  :status :granted,
-  :id "US4090128",
-  :sourcing :authoritative,
-  :filing-year 1977,
-  :assignee :coulter-electronics,
-  :grant-year 1978,
-  :cites ["US3622795" "US3746976" "US3902115" "US4014611"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:olympus-optical],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US4090921/en",
-  :title "Automatic cultivating apparatus",
-  :status :granted,
-  :id "US4090921",
-  :sourcing :authoritative,
-  :filing-year 1976,
-  :assignee :olympus-optical,
-  :grant-year 1978,
-  :cites
-  ["US2975553"
-   "US3172235"
-   "US3437447"
-   "US3728227"
-   "US3772154"
-   "US3844896"
-   "US3847749"
-   "US3887436"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:fisher-scientific],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US4092114/en",
-  :title "Indirect latex test for determination of immunoglobulins",
-  :status :granted,
-  :id "US4092114",
-  :sourcing :authoritative,
-  :filing-year 1976,
-  :assignee :fisher-scientific,
-  :grant-year 1978,
-  :cites ["US3565987" "US3857931" "US4003988"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:yeda-research-and-development],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US4093607/en",
-  :title
-  "Immunologic chemotherapeutic agents comprising antigen binding dimers covalently bound to drugs",
-  :status :granted,
-  :id "US4093607",
-  :sourcing :authoritative,
-  :filing-year 1976,
-  :assignee :yeda-research-and-development,
-  :grant-year 1978,
-  :cites ["US3850798" "US3928580" "US3966898" "US3995018"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:hoffmann-la-roche],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US4095948/en",
-  :title "Determination of uric acid",
-  :status :granted,
-  :id "US4095948",
-  :sourcing :authoritative,
-  :filing-year 1976,
-  :assignee :hoffmann-la-roche,
-  :grant-year 1978,
-  :cites
-  ["US3335069"
-   "US3489525"
-   "US3493346"
-   "US3554701"
-   "US3649198"
-   "US3653841"
-   "US3667915"
-   "US3711252"
-   "US3733177"
-   "US3801466"
-   "US3822115"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:mobil-oil-as],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US4096163/en",
-  :title "Conversion of synthesis gas to hydrocarbon mixtures",
-  :status :granted,
-  :id "US4096163",
-  :sourcing :authoritative,
-  :filing-year 1976,
-  :assignee :mobil-oil-as,
-  :grant-year 1978,
-  :cites
-  ["BE828228A"
-   "DE1036837B"
-   "GB293185A"
-   "GB378943A"
-   "US1834621"
-   "US1840450"
-   "US1925389"
-   "US2754314"
-   "US3013984"
-   "US3013990"
-   "US3254023"
-   "US3579438"
-   "US3597494"
-   "US3702886"
-   "US3709979"
-   "US3871993"
-   "US3932552"
-   "US3972958"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:corning-glass-works],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US4098876/en",
-  :title "Reverse sandwich immunoassay",
-  :status :granted,
-  :id "US4098876",
-  :sourcing :authoritative,
-  :filing-year 1976,
-  :assignee :corning-glass-works,
-  :grant-year 1978,
-  :cites ["US3850752" "US3896217" "US3975511" "US3995019"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:high-voltage-engineering],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US4099859/en",
-  :title
-  "Contact lens having a smooth surface layer of a hydrophilic polymer",
-  :status :granted,
-  :id "US4099859",
-  :sourcing :authoritative,
-  :filing-year 1976,
-  :assignee :high-voltage-engineering,
-  :grant-year 1978,
-  :cites ["US3621079" "US3700573" "US3700761" "US3745042" "US3916033"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:baxter-travenol-laboratories],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US4099920/en",
-  :title
-  "Temperature control and stirring apparatus for luminescence measuring photometer",
-  :status :granted,
-  :id "US4099920",
-  :sourcing :authoritative,
-  :filing-year 1977,
-  :assignee :baxter-travenol-laboratories,
-  :grant-year 1978,
-  :cites ["US2878106" "US3764214" "US3790346" "US3917404"],
   :term-years 20,
   :open-license :none}]
