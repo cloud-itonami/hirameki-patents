@@ -1,4 +1,301 @@
-[{:assignees [:hyseq],
+[{:assignees [:ortho-diagnostic-systems],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US5215882/en",
+  :title
+  "Method of immobilizing nucleic acid on a solid surface for use in nucleic acid hybridization assays",
+  :status :granted,
+  :id "US5215882",
+  :sourcing :authoritative,
+  :filing-year 1989,
+  :assignee :ortho-diagnostic-systems,
+  :grant-year 1993,
+  :cites
+  ["EP0131546A2"
+   "EP0136153A2"
+   "EP0174879A1"
+   "EP0209996A2"
+   "EP0308206A2"
+   "GB2197720A"
+   "US4423208"
+   "US4687808"
+   "WO1985004674A1"
+   "WO1988001302A1"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:daikin-industries],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US5229461/en",
+  :title
+  "Vinylidene fluoride copolymer and composition containing the same",
+  :status :granted,
+  :id "US5229461",
+  :sourcing :authoritative,
+  :filing-year 1991,
+  :assignee :daikin-industries,
+  :grant-year 1993,
+  :cites
+  ["EP0190654A2"
+   "EP0328157A1"
+   "US4028431"
+   "US4197380"
+   "US4345057"
+   "US4575533"
+   "US4612351"
+   "US4617351"
+   "US4631326"
+   "US4731417"
+   "US4935467"
+   "US4954589"
+   "US5008340"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:nippon-paint],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US5270392/en",
+  :title
+  "Hydroxyl polyglycidyl ether or acrylic copolymer with anhydride copolymer",
+  :status :granted,
+  :id "US5270392",
+  :sourcing :authoritative,
+  :filing-year 1991,
+  :assignee :nippon-paint,
+  :grant-year 1993,
+  :cites ["US3399109" "US3900440" "US4288493" "US5073602"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:beckman-instruments],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US5302509/en",
+  :title "Method for sequencing polynucleotides",
+  :status :granted,
+  :id "US5302509",
+  :sourcing :authoritative,
+  :filing-year 1991,
+  :assignee :beckman-instruments,
+  :grant-year 1994,
+  :cites ["US5001051" "WO1989009282A1"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:rohm-and-haas],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US5308890/en",
+  :title
+  "Emulsion polymer blend of a multi-stage latex and a non-film forming latex",
+  :status :granted,
+  :id "US5308890",
+  :sourcing :authoritative,
+  :filing-year 1993,
+  :assignee :rohm-and-haas,
+  :grant-year 1994,
+  :cites ["EP0466409A1" "US4385152" "US4567099"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:davidson-textron],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US5320869/en",
+  :title
+  "Method for producing high gloss bright colored plastic articles",
+  :status :granted,
+  :id "US5320869",
+  :sourcing :authoritative,
+  :filing-year 1992,
+  :assignee :davidson-textron,
+  :grant-year 1994,
+  :cites
+  ["US2993806"
+   "US3992477"
+   "US4101698"
+   "US4349402"
+   "US4369225"
+   "US4407871"
+   "US4431711"
+   "US4524106"
+   "US4551387"
+   "US4699814"
+   "US4713143"
+   "US4911811"
+   "US4923717"
+   "US4956196"
+   "US4971841"
+   "US4975305"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:basf-lacke-und-farben],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US5322715/en",
+  :title "Process for production of a multicoat coating",
+  :status :granted,
+  :id "US5322715",
+  :sourcing :authoritative,
+  :filing-year 1990,
+  :assignee :basf-lacke-und-farben,
+  :grant-year 1994,
+  :cites
+  ["CA2004988A1"
+   "GB2034334A"
+   "GB2060654A"
+   "US3823205"
+   "US3998768"
+   "US4150005"
+   "US4151143"
+   "US4385152"
+   "US4973621"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:eastman-kodak],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US5324788/en",
+  :title "Thermosetting coating compositions",
+  :status :granted,
+  :id "US5324788",
+  :sourcing :authoritative,
+  :filing-year 1993,
+  :assignee :eastman-kodak,
+  :grant-year 1994,
+  :cites
+  ["EP0419088A1"
+   "EP0466359A2"
+   "US4137279"
+   "US4678843"
+   "US4857601"
+   "US4898916"
+   "US5106651"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:ei-du-pont-de-nemours-and],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US5376704/en",
+  :title
+  "Water-borne coating compositions comprising half esters of anhydride polymers crosslinked by epoxies",
+  :status :granted,
+  :id "US5376704",
+  :sourcing :authoritative,
+  :filing-year 1992,
+  :assignee :ei-du-pont-de-nemours-and,
+  :grant-year 1994,
+  :cites
+  ["EP0353734A2"
+   "EP0450963A1"
+   "US4247439"
+   "US4600737"
+   "US4871806"
+   "US4906677"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:nippon-paint],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US5397603/en",
+  :title
+  "Resin composition and coating composition containing the same",
+  :status :granted,
+  :id "US5397603",
+  :sourcing :authoritative,
+  :filing-year 1994,
+  :assignee :nippon-paint,
+  :grant-year 1995,
+  :cites ["US5166265" "US5229461" "US5270392"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:affymax-technologies],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US5445934/en",
+  :title "Array of oligonucleotides on a solid substrate",
+  :status :granted,
+  :id "US5445934",
+  :sourcing :authoritative,
+  :filing-year 1992,
+  :assignee :affymax-technologies,
+  :grant-year 1995,
+  :cites
+  ["EP0328256A1"
+   "US4562157"
+   "US4689405"
+   "US4728591"
+   "US4886741"
+   "US4888278"
+   "US4923901"
+   "US4973493"
+   "US5079600"
+   "US5143854"
+   "US5202231"
+   "WO1989010977A1"
+   "WO1990003382A1"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:ciba-geigy],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US5486452/en",
+  :title "Devices and kits for immunological analysis",
+  :status :granted,
+  :id "US5486452",
+  :sourcing :authoritative,
+  :filing-year 1987,
+  :assignee :ciba-geigy,
+  :grant-year 1996,
+  :cites
+  ["EP0027008A1"
+   "EP0050424A1"
+   "FR2074061A5"
+   "FR2257259A1"
+   "GB1235685A"
+   "GB1235686A"
+   "GB1486826A"
+   "GB1526708A"
+   "GB1553083A"
+   "GB1597345A"
+   "GB1601283A"
+   "US3654090"
+   "US3979509"
+   "US4020151"
+   "US4048298"
+   "US4071315"
+   "US4119589"
+   "US4139346"
+   "US4168146"
+   "US4176174"
+   "US4189464"
+   "US4200690"
+   "US4216245"
+   "US4267270"
+   "US4275053"
+   "US4302204"
+   "US4305720"
+   "US4305721"
+   "US4332283"
+   "US4358535"
+   "US4378344"
+   "US4407943"
+   "US4414324"
+   "US4436824"
+   "US4452901"
+   "US4459360"
+   "US4591570"],
+  :term-years 20,
+  :open-license :none}
+ {:jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US548686/en",
+  :title "Cigar-bunching machine",
+  :status :granted,
+  :id "US548686",
+  :sourcing :authoritative,
+  :assignee :unassigned,
+  :grant-year 1895,
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:hyseq],
   :jurisdiction :us,
   :field "UNKNOWN",
   :source "https://patents.google.com/patent/US5492806/en",

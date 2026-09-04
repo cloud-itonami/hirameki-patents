@@ -1,4 +1,258 @@
-[{:jurisdiction :us,
+[{:assignees [:nippon-kayaku :osaka-seika-kogyo],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3637672/en",
+  :title "Azole compounds",
+  :status :granted,
+  :id "US3637672",
+  :sourcing :authoritative,
+  :filing-year 1968,
+  :assignee :nippon-kayaku,
+  :grant-year 1972,
+  :term-years 20,
+  :open-license :none}
+ {:jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3638639/en",
+  :title "Apparatus for removing lipids from the human bloodstream",
+  :status :granted,
+  :id "US3638639",
+  :sourcing :authoritative,
+  :filing-year 1970,
+  :assignee :unassigned,
+  :grant-year 1972,
+  :cites ["US2763266" "US3512517" "US3572315"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:shell-oil],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3639163/en",
+  :title "Block polymer insulation for electric conductors",
+  :status :granted,
+  :id "US3639163",
+  :sourcing :authoritative,
+  :filing-year 1969,
+  :assignee :shell-oil,
+  :grant-year 1972,
+  :cites
+  ["US2458600"
+   "US2761854"
+   "US2813809"
+   "US3030237"
+   "US3251905"
+   "US3333024"
+   "US3401213"
+   "US3427264"
+   "US3433855"
+   "US3441530"
+   "US3476530"
+   "US3493369"
+   "US3515528"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:baxter-laboratories],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3639213/en",
+  :title "Streptokinase chemically bonded to a carbohydrate matrix",
+  :status :granted,
+  :id "US3639213",
+  :sourcing :authoritative,
+  :filing-year 1969,
+  :assignee :baxter-laboratories,
+  :grant-year 1972,
+  :cites ["FR1577571A" "US3186920" "US3255094"],
+  :term-years 20,
+  :open-license :none}
+ {:jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3639558/en",
+  :title
+  "Immunological reagent particles having proteinaceous materials covalently bonded thereto",
+  :status :granted,
+  :id "US3639558",
+  :sourcing :authoritative,
+  :filing-year 1968,
+  :assignee :unassigned,
+  :grant-year 1972,
+  :term-years 20,
+  :open-license :none}
+ {:jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3639559/en",
+  :title
+  "Method of isolating antigens and/or antibodies from protein mixtur",
+  :status :granted,
+  :id "US3639559",
+  :sourcing :authoritative,
+  :filing-year 1968,
+  :assignee :unassigned,
+  :grant-year 1972,
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:pfizer],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3640896/en",
+  :title "Process for stabilizing fowl red blood cells",
+  :status :granted,
+  :id "US3640896",
+  :sourcing :authoritative,
+  :filing-year 1970,
+  :assignee :pfizer,
+  :grant-year 1972,
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:stauffer-chemical],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3641202/en",
+  :title
+  "Unsaturated polyester compositions containing vinyl polyphosphonat compounds",
+  :status :granted,
+  :id "US3641202",
+  :sourcing :authoritative,
+  :filing-year 1969,
+  :assignee :stauffer-chemical,
+  :grant-year 1972,
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:miles-laboratories],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3641235/en",
+  :title "Immunological reagent and process for making same",
+  :status :granted,
+  :id "US3641235",
+  :sourcing :authoritative,
+  :filing-year 1968,
+  :assignee :miles-laboratories,
+  :grant-year 1972,
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:national-patent-development],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3641237/en",
+  :title "Zero order release constant elution rate drug dosage",
+  :status :granted,
+  :id "US3641237",
+  :sourcing :authoritative,
+  :filing-year 1970,
+  :assignee :national-patent-development,
+  :grant-year 1972,
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:us-atomic-energy-commission-aec],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3641454/en",
+  :title "Electron beam-pumped gas laser system",
+  :status :granted,
+  :id "US3641454",
+  :sourcing :authoritative,
+  :filing-year 1970,
+  :assignee :us-atomic-energy-commission-aec,
+  :grant-year 1972,
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:polaroid],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3642668/en",
+  :title
+  "Microporous vinylidene fluoride polymer and process of making same",
+  :status :granted,
+  :id "US3642668",
+  :sourcing :authoritative,
+  :filing-year 1969,
+  :assignee :polaroid,
+  :grant-year 1972,
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:pharmacia],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3645852/en",
+  :title
+  "Method of binding water-soluble proteins and water-soluble peptides to water-insoluble polymers using cyanogen halide",
+  :status :granted,
+  :id "US3645852",
+  :sourcing :authoritative,
+  :filing-year 1970,
+  :assignee :pharmacia,
+  :grant-year 1972,
+  :cites ["GB993961A" "US2882250" "US3167485" "US3278392" "US3507661"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:pharmacia],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3646346/en",
+  :title "Antibody-coated tube system for radioimmunoassay",
+  :status :granted,
+  :id "US3646346",
+  :sourcing :authoritative,
+  :filing-year 1968,
+  :assignee :pharmacia,
+  :grant-year 1972,
+  :cites ["US3372992" "US3380888" "US3451777"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:fmc],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3649347/en",
+  :title
+  "Shaped structures having a self-adherent coating of a water-insoluble ionizable salt of a collagen",
+  :status :granted,
+  :id "US3649347",
+  :sourcing :authoritative,
+  :filing-year 1970,
+  :assignee :fmc,
+  :grant-year 1972,
+  :cites
+  ["US2919999"
+   "US2934447"
+   "US3073702"
+   "US3131130"
+   "US3223551"
+   "US3276448"
+   "US3293237"
+   "US3294579"
+   "US3294581"
+   "US3362849"
+   "US3374103"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:monsanto],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3649457/en",
+  :title "Enzymatic processing with polymer-enzyme product",
+  :status :granted,
+  :id "US3649457",
+  :sourcing :authoritative,
+  :filing-year 1968,
+  :assignee :monsanto,
+  :grant-year 1972,
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:beckman-instruments],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3649505/en",
+  :title "Ammonia sensor",
+  :status :granted,
+  :id "US3649505",
+  :sourcing :authoritative,
+  :filing-year 1969,
+  :assignee :beckman-instruments,
+  :grant-year 1972,
+  :term-years 20,
+  :open-license :none}
+ {:jurisdiction :us,
   :field "UNKNOWN",
   :source "https://patents.google.com/patent/US3650360/en",
   :title "Truck brake",
@@ -8961,275 +9215,5 @@
   :assignee :siemens,
   :grant-year 1977,
   :cites ["GB985280A" "US3700497" "US3710205"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:analytical-radiation],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US4058732/en",
-  :title
-  "Method and apparatus for improved analytical fluorescent spectroscopy",
-  :status :granted,
-  :id "US4058732",
-  :sourcing :authoritative,
-  :filing-year 1975,
-  :assignee :analytical-radiation,
-  :grant-year 1977,
-  :cites ["US3842264" "US3886363" "US4006360"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:summa],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US4059685/en",
-  :title "Immobilized immunoadsorbent",
-  :status :granted,
-  :id "US4059685",
-  :sourcing :authoritative,
-  :filing-year 1975,
-  :assignee :summa,
-  :grant-year 1977,
-  :cites
-  ["DE2412833A1"
-   "GB1257263A"
-   "US3505785"
-   "US3639558"
-   "US3652761"
-   "US3700609"
-   "US3796634"
-   "US3975511"],
-  :term-years 20,
-  :open-license :none}
- {:jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US4061141/en",
-  :title
-  "Apparatus and method for selectively separating amino acids and defined proteins in blood",
-  :status :granted,
-  :id "US4061141",
-  :sourcing :authoritative,
-  :filing-year 1972,
-  :assignee :unassigned,
-  :grant-year 1977,
-  :cites
-  ["GB953414A"
-   "SE320155B"
-   "US3608729"
-   "US3617545"
-   "US3619423"
-   "US3669878"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:rca],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US4061529/en",
-  :title
-  "Method for making etch-resistant stencil with dichromate-sensitized casein coating",
-  :status :granted,
-  :id "US4061529",
-  :sourcing :authoritative,
-  :filing-year 1977,
-  :assignee :rca,
-  :grant-year 1977,
-  :cites ["US3011890" "US3929532"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:formica],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US4064297/en",
-  :title "Interlaminar flocked laminate",
-  :status :granted,
-  :id "US4064297",
-  :sourcing :authoritative,
-  :filing-year 1975,
-  :assignee :formica,
-  :grant-year 1977,
-  :cites ["US2491530" "US2494848" "US3900650" "US3900651"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:perkin-elmer],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US4066365/en",
-  :title "Temperature control apparatus",
-  :status :granted,
-  :id "US4066365",
-  :sourcing :authoritative,
-  :filing-year 1976,
-  :assignee :perkin-elmer,
-  :grant-year 1978,
-  :cites ["GB884570A"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:millipore],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US4066512/en",
-  :title "Biologically active membrane material",
-  :status :granted,
-  :id "US4066512",
-  :sourcing :authoritative,
-  :filing-year 1976,
-  :assignee :millipore,
-  :grant-year 1978,
-  :cites
-  ["US2930736"
-   "US3322632"
-   "US3705084"
-   "US3758396"
-   "US3809613"
-   "US3843446"
-   "US3865548"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:toyo-soda-manufacturing],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US4066827/en",
-  :title
-  "Process for producing a polyion complex having a nucleic acid base",
-  :status :granted,
-  :id "US4066827",
-  :sourcing :authoritative,
-  :filing-year 1976,
-  :assignee :toyo-soda-manufacturing,
-  :grant-year 1978,
-  :cites ["US3929750" "US3963662"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:syva],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US4067774/en",
-  :title "Compounds for enzyme amplification assay",
-  :status :granted,
-  :id "US4067774",
-  :sourcing :authoritative,
-  :filing-year 1976,
-  :assignee :syva,
-  :grant-year 1978,
-  :cites ["US3878187"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:international-diagnostic-technologies],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US4067959/en",
-  :title "Indirect solid surface test for antigens or antibodies",
-  :status :granted,
-  :id "US4067959",
-  :sourcing :authoritative,
-  :filing-year 1976,
-  :assignee :international-diagnostic-technologies,
-  :grant-year 1978,
-  :cites ["US3720760" "US3896217" "US3940475"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:baxter-travenol-laboratories],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US4069352/en",
-  :title
-  "Immunoadsorbent polymeric material and method of making same",
-  :status :granted,
-  :id "US4069352",
-  :sourcing :authoritative,
-  :filing-year 1976,
-  :assignee :baxter-travenol-laboratories,
-  :grant-year 1978,
-  :cites
-  ["GB1257263A"
-   "US3646346"
-   "US3826619"
-   "US3980764"
-   "US3995019"
-   "US4012494"],
-  :term-years 20,
-  :open-license :none}
- {:jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US4071315/en",
-  :title "Analytical tape medium",
-  :status :granted,
-  :id "US4071315",
-  :sourcing :authoritative,
-  :filing-year 1976,
-  :assignee :unassigned,
-  :grant-year 1978,
-  :cites
-  ["US3261668"
-   "US3497320"
-   "US3508879"
-   "US3607079"
-   "US3620678"
-   "US3676080"
-   "US3918910"
-   "US3932133"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:gte-laboratories],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US4071753/en",
-  :title
-  "Transducer for converting acoustic energy directly into optical energy",
-  :status :granted,
-  :id "US4071753",
-  :sourcing :authoritative,
-  :filing-year 1975,
-  :assignee :gte-laboratories,
-  :grant-year 1978,
-  :cites
-  ["US1642011"
-   "US1787647"
-   "US1981999"
-   "US2415436"
-   "US3044349"
-   "US3056297"
-   "US3122922"
-   "US3224279"
-   "US3466446"
-   "US3514617"
-   "US3564264"
-   "US3596513"
-   "US3624404"
-   "US3737629"
-   "US3781092"
-   "US3809908"
-   "US3829195"
-   "US3874779"
-   "US3936631"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:institute-for-cancer-research],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US4072574/en",
-  :title
-  "System for in vitro assay for mutagenicity and/or carcinogenicity of chemicals or other exogenous agents",
-  :status :granted,
-  :id "US4072574",
-  :sourcing :authoritative,
-  :filing-year 1976,
-  :assignee :institute-for-cancer-research,
-  :grant-year 1978,
-  :cites ["US3816263" "US3850749"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:kabi],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US4072576/en",
-  :title
-  "Method for studying enzymatic and other biochemical reactions",
-  :status :granted,
-  :id "US4072576",
-  :sourcing :authoritative,
-  :filing-year 1976,
-  :assignee :kabi,
-  :grant-year 1978,
-  :cites ["US3275534" "US3479255" "US3635681" "US3884896"],
   :term-years 20,
   :open-license :none}]

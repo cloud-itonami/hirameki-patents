@@ -1,4 +1,274 @@
-[{:assignees [:yellow-springs-instrument],
+[{:assignees [:analytical-radiation],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US4058732/en",
+  :title
+  "Method and apparatus for improved analytical fluorescent spectroscopy",
+  :status :granted,
+  :id "US4058732",
+  :sourcing :authoritative,
+  :filing-year 1975,
+  :assignee :analytical-radiation,
+  :grant-year 1977,
+  :cites ["US3842264" "US3886363" "US4006360"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:summa],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US4059685/en",
+  :title "Immobilized immunoadsorbent",
+  :status :granted,
+  :id "US4059685",
+  :sourcing :authoritative,
+  :filing-year 1975,
+  :assignee :summa,
+  :grant-year 1977,
+  :cites
+  ["DE2412833A1"
+   "GB1257263A"
+   "US3505785"
+   "US3639558"
+   "US3652761"
+   "US3700609"
+   "US3796634"
+   "US3975511"],
+  :term-years 20,
+  :open-license :none}
+ {:jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US4061141/en",
+  :title
+  "Apparatus and method for selectively separating amino acids and defined proteins in blood",
+  :status :granted,
+  :id "US4061141",
+  :sourcing :authoritative,
+  :filing-year 1972,
+  :assignee :unassigned,
+  :grant-year 1977,
+  :cites
+  ["GB953414A"
+   "SE320155B"
+   "US3608729"
+   "US3617545"
+   "US3619423"
+   "US3669878"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:rca],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US4061529/en",
+  :title
+  "Method for making etch-resistant stencil with dichromate-sensitized casein coating",
+  :status :granted,
+  :id "US4061529",
+  :sourcing :authoritative,
+  :filing-year 1977,
+  :assignee :rca,
+  :grant-year 1977,
+  :cites ["US3011890" "US3929532"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:formica],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US4064297/en",
+  :title "Interlaminar flocked laminate",
+  :status :granted,
+  :id "US4064297",
+  :sourcing :authoritative,
+  :filing-year 1975,
+  :assignee :formica,
+  :grant-year 1977,
+  :cites ["US2491530" "US2494848" "US3900650" "US3900651"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:perkin-elmer],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US4066365/en",
+  :title "Temperature control apparatus",
+  :status :granted,
+  :id "US4066365",
+  :sourcing :authoritative,
+  :filing-year 1976,
+  :assignee :perkin-elmer,
+  :grant-year 1978,
+  :cites ["GB884570A"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:millipore],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US4066512/en",
+  :title "Biologically active membrane material",
+  :status :granted,
+  :id "US4066512",
+  :sourcing :authoritative,
+  :filing-year 1976,
+  :assignee :millipore,
+  :grant-year 1978,
+  :cites
+  ["US2930736"
+   "US3322632"
+   "US3705084"
+   "US3758396"
+   "US3809613"
+   "US3843446"
+   "US3865548"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:toyo-soda-manufacturing],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US4066827/en",
+  :title
+  "Process for producing a polyion complex having a nucleic acid base",
+  :status :granted,
+  :id "US4066827",
+  :sourcing :authoritative,
+  :filing-year 1976,
+  :assignee :toyo-soda-manufacturing,
+  :grant-year 1978,
+  :cites ["US3929750" "US3963662"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:syva],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US4067774/en",
+  :title "Compounds for enzyme amplification assay",
+  :status :granted,
+  :id "US4067774",
+  :sourcing :authoritative,
+  :filing-year 1976,
+  :assignee :syva,
+  :grant-year 1978,
+  :cites ["US3878187"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:international-diagnostic-technologies],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US4067959/en",
+  :title "Indirect solid surface test for antigens or antibodies",
+  :status :granted,
+  :id "US4067959",
+  :sourcing :authoritative,
+  :filing-year 1976,
+  :assignee :international-diagnostic-technologies,
+  :grant-year 1978,
+  :cites ["US3720760" "US3896217" "US3940475"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:baxter-travenol-laboratories],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US4069352/en",
+  :title
+  "Immunoadsorbent polymeric material and method of making same",
+  :status :granted,
+  :id "US4069352",
+  :sourcing :authoritative,
+  :filing-year 1976,
+  :assignee :baxter-travenol-laboratories,
+  :grant-year 1978,
+  :cites
+  ["GB1257263A"
+   "US3646346"
+   "US3826619"
+   "US3980764"
+   "US3995019"
+   "US4012494"],
+  :term-years 20,
+  :open-license :none}
+ {:jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US4071315/en",
+  :title "Analytical tape medium",
+  :status :granted,
+  :id "US4071315",
+  :sourcing :authoritative,
+  :filing-year 1976,
+  :assignee :unassigned,
+  :grant-year 1978,
+  :cites
+  ["US3261668"
+   "US3497320"
+   "US3508879"
+   "US3607079"
+   "US3620678"
+   "US3676080"
+   "US3918910"
+   "US3932133"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:gte-laboratories],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US4071753/en",
+  :title
+  "Transducer for converting acoustic energy directly into optical energy",
+  :status :granted,
+  :id "US4071753",
+  :sourcing :authoritative,
+  :filing-year 1975,
+  :assignee :gte-laboratories,
+  :grant-year 1978,
+  :cites
+  ["US1642011"
+   "US1787647"
+   "US1981999"
+   "US2415436"
+   "US3044349"
+   "US3056297"
+   "US3122922"
+   "US3224279"
+   "US3466446"
+   "US3514617"
+   "US3564264"
+   "US3596513"
+   "US3624404"
+   "US3737629"
+   "US3781092"
+   "US3809908"
+   "US3829195"
+   "US3874779"
+   "US3936631"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:institute-for-cancer-research],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US4072574/en",
+  :title
+  "System for in vitro assay for mutagenicity and/or carcinogenicity of chemicals or other exogenous agents",
+  :status :granted,
+  :id "US4072574",
+  :sourcing :authoritative,
+  :filing-year 1976,
+  :assignee :institute-for-cancer-research,
+  :grant-year 1978,
+  :cites ["US3816263" "US3850749"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:kabi],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US4072576/en",
+  :title
+  "Method for studying enzymatic and other biochemical reactions",
+  :status :granted,
+  :id "US4072576",
+  :sourcing :authoritative,
+  :filing-year 1976,
+  :assignee :kabi,
+  :grant-year 1978,
+  :cites ["US3275534" "US3479255" "US3635681" "US3884896"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:yellow-springs-instrument],
   :jurisdiction :us,
   :field "UNKNOWN",
   :source "https://patents.google.com/patent/US4073713/en",
@@ -9528,302 +9798,5 @@
    "US4500707"
    "US4591614"
    "US4663446"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:ortho-diagnostic-systems],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US5215882/en",
-  :title
-  "Method of immobilizing nucleic acid on a solid surface for use in nucleic acid hybridization assays",
-  :status :granted,
-  :id "US5215882",
-  :sourcing :authoritative,
-  :filing-year 1989,
-  :assignee :ortho-diagnostic-systems,
-  :grant-year 1993,
-  :cites
-  ["EP0131546A2"
-   "EP0136153A2"
-   "EP0174879A1"
-   "EP0209996A2"
-   "EP0308206A2"
-   "GB2197720A"
-   "US4423208"
-   "US4687808"
-   "WO1985004674A1"
-   "WO1988001302A1"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:daikin-industries],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US5229461/en",
-  :title
-  "Vinylidene fluoride copolymer and composition containing the same",
-  :status :granted,
-  :id "US5229461",
-  :sourcing :authoritative,
-  :filing-year 1991,
-  :assignee :daikin-industries,
-  :grant-year 1993,
-  :cites
-  ["EP0190654A2"
-   "EP0328157A1"
-   "US4028431"
-   "US4197380"
-   "US4345057"
-   "US4575533"
-   "US4612351"
-   "US4617351"
-   "US4631326"
-   "US4731417"
-   "US4935467"
-   "US4954589"
-   "US5008340"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:nippon-paint],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US5270392/en",
-  :title
-  "Hydroxyl polyglycidyl ether or acrylic copolymer with anhydride copolymer",
-  :status :granted,
-  :id "US5270392",
-  :sourcing :authoritative,
-  :filing-year 1991,
-  :assignee :nippon-paint,
-  :grant-year 1993,
-  :cites ["US3399109" "US3900440" "US4288493" "US5073602"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:beckman-instruments],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US5302509/en",
-  :title "Method for sequencing polynucleotides",
-  :status :granted,
-  :id "US5302509",
-  :sourcing :authoritative,
-  :filing-year 1991,
-  :assignee :beckman-instruments,
-  :grant-year 1994,
-  :cites ["US5001051" "WO1989009282A1"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:rohm-and-haas],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US5308890/en",
-  :title
-  "Emulsion polymer blend of a multi-stage latex and a non-film forming latex",
-  :status :granted,
-  :id "US5308890",
-  :sourcing :authoritative,
-  :filing-year 1993,
-  :assignee :rohm-and-haas,
-  :grant-year 1994,
-  :cites ["EP0466409A1" "US4385152" "US4567099"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:davidson-textron],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US5320869/en",
-  :title
-  "Method for producing high gloss bright colored plastic articles",
-  :status :granted,
-  :id "US5320869",
-  :sourcing :authoritative,
-  :filing-year 1992,
-  :assignee :davidson-textron,
-  :grant-year 1994,
-  :cites
-  ["US2993806"
-   "US3992477"
-   "US4101698"
-   "US4349402"
-   "US4369225"
-   "US4407871"
-   "US4431711"
-   "US4524106"
-   "US4551387"
-   "US4699814"
-   "US4713143"
-   "US4911811"
-   "US4923717"
-   "US4956196"
-   "US4971841"
-   "US4975305"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:basf-lacke-und-farben],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US5322715/en",
-  :title "Process for production of a multicoat coating",
-  :status :granted,
-  :id "US5322715",
-  :sourcing :authoritative,
-  :filing-year 1990,
-  :assignee :basf-lacke-und-farben,
-  :grant-year 1994,
-  :cites
-  ["CA2004988A1"
-   "GB2034334A"
-   "GB2060654A"
-   "US3823205"
-   "US3998768"
-   "US4150005"
-   "US4151143"
-   "US4385152"
-   "US4973621"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:eastman-kodak],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US5324788/en",
-  :title "Thermosetting coating compositions",
-  :status :granted,
-  :id "US5324788",
-  :sourcing :authoritative,
-  :filing-year 1993,
-  :assignee :eastman-kodak,
-  :grant-year 1994,
-  :cites
-  ["EP0419088A1"
-   "EP0466359A2"
-   "US4137279"
-   "US4678843"
-   "US4857601"
-   "US4898916"
-   "US5106651"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:ei-du-pont-de-nemours-and],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US5376704/en",
-  :title
-  "Water-borne coating compositions comprising half esters of anhydride polymers crosslinked by epoxies",
-  :status :granted,
-  :id "US5376704",
-  :sourcing :authoritative,
-  :filing-year 1992,
-  :assignee :ei-du-pont-de-nemours-and,
-  :grant-year 1994,
-  :cites
-  ["EP0353734A2"
-   "EP0450963A1"
-   "US4247439"
-   "US4600737"
-   "US4871806"
-   "US4906677"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:nippon-paint],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US5397603/en",
-  :title
-  "Resin composition and coating composition containing the same",
-  :status :granted,
-  :id "US5397603",
-  :sourcing :authoritative,
-  :filing-year 1994,
-  :assignee :nippon-paint,
-  :grant-year 1995,
-  :cites ["US5166265" "US5229461" "US5270392"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:affymax-technologies],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US5445934/en",
-  :title "Array of oligonucleotides on a solid substrate",
-  :status :granted,
-  :id "US5445934",
-  :sourcing :authoritative,
-  :filing-year 1992,
-  :assignee :affymax-technologies,
-  :grant-year 1995,
-  :cites
-  ["EP0328256A1"
-   "US4562157"
-   "US4689405"
-   "US4728591"
-   "US4886741"
-   "US4888278"
-   "US4923901"
-   "US4973493"
-   "US5079600"
-   "US5143854"
-   "US5202231"
-   "WO1989010977A1"
-   "WO1990003382A1"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:ciba-geigy],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US5486452/en",
-  :title "Devices and kits for immunological analysis",
-  :status :granted,
-  :id "US5486452",
-  :sourcing :authoritative,
-  :filing-year 1987,
-  :assignee :ciba-geigy,
-  :grant-year 1996,
-  :cites
-  ["EP0027008A1"
-   "EP0050424A1"
-   "FR2074061A5"
-   "FR2257259A1"
-   "GB1235685A"
-   "GB1235686A"
-   "GB1486826A"
-   "GB1526708A"
-   "GB1553083A"
-   "GB1597345A"
-   "GB1601283A"
-   "US3654090"
-   "US3979509"
-   "US4020151"
-   "US4048298"
-   "US4071315"
-   "US4119589"
-   "US4139346"
-   "US4168146"
-   "US4176174"
-   "US4189464"
-   "US4200690"
-   "US4216245"
-   "US4267270"
-   "US4275053"
-   "US4302204"
-   "US4305720"
-   "US4305721"
-   "US4332283"
-   "US4358535"
-   "US4378344"
-   "US4407943"
-   "US4414324"
-   "US4436824"
-   "US4452901"
-   "US4459360"
-   "US4591570"],
-  :term-years 20,
-  :open-license :none}
- {:jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US548686/en",
-  :title "Cigar-bunching machine",
-  :status :granted,
-  :id "US548686",
-  :sourcing :authoritative,
-  :assignee :unassigned,
-  :grant-year 1895,
   :term-years 20,
   :open-license :none}]

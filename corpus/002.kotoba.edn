@@ -1,4 +1,298 @@
-[{:jurisdiction :us,
+[{:assignees [:united-states-rubber],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2554899/en",
+  :title "Grease-proof paper and process of making the same",
+  :status :granted,
+  :id "US2554899",
+  :sourcing :authoritative,
+  :filing-year 1949,
+  :assignee :united-states-rubber,
+  :grant-year 1951,
+  :cites ["US2140048" "US2416232" "US2439202" "US2453880"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:elizabeth-r-b-stuart],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2555380/en",
+  :title "Container",
+  :status :granted,
+  :id "US2555380",
+  :sourcing :authoritative,
+  :filing-year 1946,
+  :assignee :elizabeth-r-b-stuart,
+  :grant-year 1951,
+  :cites
+  ["US1299031"
+   "US1558804"
+   "US1597889"
+   "US2006548"
+   "US2085034"
+   "US2131343"
+   "US2163316"
+   "US2163317"
+   "US2173585"
+   "US2183093"
+   "US2227138"
+   "US2262242"
+   "US2281889"
+   "US2314338"
+   "US485158"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:cleef-bros-van],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2555745/en",
+  :title "Adhesive tapes and sheets",
+  :status :granted,
+  :id "US2555745",
+  :sourcing :authoritative,
+  :filing-year 1948,
+  :assignee :cleef-bros-van,
+  :grant-year 1951,
+  :cites ["US2332265" "US2387512" "US2415839" "US2430479" "US2436222"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:polaroid],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2558857/en",
+  :title "Photographic developer element",
+  :status :granted,
+  :id "US2558857",
+  :sourcing :authoritative,
+  :filing-year 1947,
+  :assignee :polaroid,
+  :grant-year 1951,
+  :cites
+  ["AT141872B"
+   "CH115331A"
+   "DE121593C"
+   "DE43521C"
+   "FR635715A"
+   "FR662060A"
+   "FR879995A"
+   "GB189917738A"
+   "GB190609248A"
+   "US1207042"
+   "US1261748"
+   "US1911955"
+   "US2221873"
+   "US2312854"
+   "US2352014"
+   "US2360216"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:west-virginia-pulp-and-paper],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2560572/en",
+  :title "Method of coating paper",
+  :status :granted,
+  :id "US2560572",
+  :sourcing :authoritative,
+  :filing-year 1946,
+  :assignee :west-virginia-pulp-and-paper,
+  :grant-year 1951,
+  :cites ["US1921368" "US1933963" "US2066782" "US2281340" "US2425231"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:ei-du-pont-de-nemours-and],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2561215/en",
+  :title "Laminated products and adhesive compositions of matter",
+  :status :granted,
+  :id "US2561215",
+  :sourcing :authoritative,
+  :filing-year 1945,
+  :assignee :ei-du-pont-de-nemours-and,
+  :grant-year 1951,
+  :cites
+  ["FR849126A"
+   "US1849109"
+   "US2128635"
+   "US2255834"
+   "US2277941"
+   "US2291208"
+   "US2334526"
+   "US2394375"
+   "US2402020"
+   "US2405038"
+   "US2429397"],
+  :term-years 20,
+  :open-license :none}
+ {:jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2562373/en",
+  :title "Method of forming thin flexible polyamide articles",
+  :status :granted,
+  :id "US2562373",
+  :sourcing :authoritative,
+  :filing-year 1945,
+  :assignee :unassigned,
+  :grant-year 1951,
+  :cites
+  ["US2130948"
+   "US2137235"
+   "US2141169"
+   "US2166205"
+   "US2169097"
+   "US2188332"
+   "US2191367"
+   "US2244184"
+   "US2324838"
+   "US2357392"
+   "US2361369"
+   "US826781"
+   "US934214"
+   "US950435"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:paper-patents],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2565251/en",
+  :title "Plywood panel",
+  :status :granted,
+  :id "US2565251",
+  :sourcing :authoritative,
+  :filing-year 1948,
+  :assignee :paper-patents,
+  :grant-year 1951,
+  :cites
+  ["US1343216"
+   "US1997344"
+   "US2068759"
+   "US2343740"
+   "US2418233"
+   "US2425660"
+   "US2442422"],
+  :term-years 20,
+  :open-license :none}
+ {:jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2565491/en",
+  :title "Film structure and method for producing the same",
+  :status :granted,
+  :id "US2565491",
+  :sourcing :authoritative,
+  :filing-year 1945,
+  :assignee :unassigned,
+  :grant-year 1951,
+  :cites
+  ["US1146855"
+   "US1258840"
+   "US1732661"
+   "US1864763"
+   "US1921819"
+   "US2064143"
+   "US2085875"
+   "US2122251"
+   "US2245289"
+   "US2279366"
+   "US2304632"
+   "US2314975"
+   "US2327765"
+   "US2344807"
+   "US2360650"
+   "US2404073"
+   "US2440039"
+   "US376350"
+   "US988981"],
+  :term-years 20,
+  :open-license :none}
+ {:jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2567445/en",
+  :title
+  "Method of measuring the ph of aqueous liquids, moist foodstuffs, and the like",
+  :status :granted,
+  :id "US2567445",
+  :sourcing :authoritative,
+  :filing-year 1946,
+  :assignee :unassigned,
+  :grant-year 1951,
+  :cites
+  ["GB412952A"
+   "US1238123"
+   "US1538277"
+   "US1831894"
+   "US1936312"
+   "US2038298"
+   "US2046267"
+   "US2063245"
+   "US2099341"
+   "US2115318"
+   "US2128338"
+   "US2129406"
+   "US2156880"
+   "US2182964"
+   "US2214354"
+   "US2229155"
+   "US2249867"
+   "US2250980"
+   "US2271724"
+   "US2313076"
+   "US2411012"
+   "US2460215"
+   "US2485566"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:bf-goodrich],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2568658/en",
+  :title "Method of polymerizing polyunsaturated esters",
+  :status :granted,
+  :id "US2568658",
+  :sourcing :authoritative,
+  :filing-year 1947,
+  :assignee :bf-goodrich,
+  :grant-year 1951,
+  :cites ["US2340111" "US2385931" "US2403112" "US2455652" "US2482825"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:minnesota-mining-and-manufacturing],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2570253/en",
+  :title
+  "Stable aqueous dispersions of copolymers of vinyl esters, neutral ethylenic polyesters, and acrylic acid, and method of making",
+  :status :granted,
+  :id "US2570253",
+  :sourcing :authoritative,
+  :filing-year 1946,
+  :assignee :minnesota-mining-and-manufacturing,
+  :grant-year 1951,
+  :cites
+  ["US2047398"
+   "US2194354"
+   "US2310780"
+   "US2324740"
+   "US2339184"
+   "US2410089"
+   "US2462354"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:ei-du-pont-de-nemours-and],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2570478/en",
+  :title
+  "Vinylidene chloride interpolymer as a coating for regenerated cellulose film",
+  :status :granted,
+  :id "US2570478",
+  :sourcing :authoritative,
+  :filing-year 1948,
+  :assignee :ei-du-pont-de-nemours-and,
+  :grant-year 1951,
+  :cites ["US2047398" "US2279881" "US2298039" "US2462185"],
+  :term-years 20,
+  :open-license :none}
+ {:jurisdiction :us,
   :field "UNKNOWN",
   :source "https://patents.google.com/patent/US2571171/en",
   :title "Dew point hygrometer",
@@ -9774,280 +10068,5 @@
   :assignee :burroughs-wellcome-usa,
   :grant-year 1963,
   :cites ["US2852505" "US2852506"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:ei-du-pont-de-nemours-and],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3075841/en",
-  :title "Mordant treating process and elements containing same",
-  :status :granted,
-  :id "US3075841",
-  :sourcing :authoritative,
-  :filing-year 1956,
-  :assignee :ei-du-pont-de-nemours-and,
-  :grant-year 1963,
-  :cites
-  ["GB330199A"
-   "GB344365A"
-   "US2182794"
-   "US2215196"
-   "US2256356"
-   "US2474612"
-   "US2527223"
-   "US2527260"
-   "US2548575"
-   "US2635535"
-   "US2675316"
-   "US2753263"
-   "US2768079"
-   "US2813845"
-   "US2821455"
-   "US2839401"
-   "US2857372"
-   "US2897200"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:swift-and],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3075887/en",
-  :title "Drying of bacterial cultures",
-  :status :granted,
-  :id "US3075887",
-  :sourcing :authoritative,
-  :filing-year 1960,
-  :assignee :swift-and,
-  :grant-year 1963,
-  :cites ["US1694807" "US2710810" "US2919194"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:dow-corning],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3076726/en",
-  :title "Siloxane coating method and article obtained therefrom",
-  :status :granted,
-  :id "US3076726",
-  :sourcing :authoritative,
-  :filing-year 1960,
-  :assignee :dow-corning,
-  :grant-year 1963,
-  :cites ["US2732318"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:culligan],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3078224/en",
-  :title
-  "Hydrosulfite and chlorine treatment of ion exchange material in an iron removal unit",
-  :status :granted,
-  :id "US3078224",
-  :sourcing :authoritative,
-  :filing-year 1958,
-  :assignee :culligan,
-  :grant-year 1963,
-  :cites
-  ["US1914333"
-   "US1966279"
-   "US2351160"
-   "US2510855"
-   "US2554163"
-   "US2571271"
-   "US2572082"
-   "US2666741"
-   "US2681147"
-   "US2684942"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:takeda-pharmaceutical],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3079379/en",
-  :title "Method for the preparation of adenosine 5&#39;-triphosphate",
-  :status :granted,
-  :id "US3079379",
-  :sourcing :authoritative,
-  :filing-year 1960,
-  :assignee :takeda-pharmaceutical,
-  :grant-year 1963,
-  :term-years 20,
-  :open-license :none}
- {:assignees [:purex],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3080262/en",
-  :title
-  "Process for removal of radioactive contaminants from surfaces",
-  :status :granted,
-  :id "US3080262",
-  :sourcing :authoritative,
-  :filing-year 1959,
-  :assignee :purex,
-  :grant-year 1963,
-  :cites
-  ["US1899734"
-   "US2408096"
-   "US2584017"
-   "US2653860"
-   "US2843509"
-   "US2924576"
-   "US2952419"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:standard-oil],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3080746/en",
-  :title "Apparatus and method for testing liquids",
-  :status :granted,
-  :id "US3080746",
-  :sourcing :authoritative,
-  :filing-year 1959,
-  :assignee :standard-oil,
-  :grant-year 1963,
-  :cites ["US2671343" "US2692820" "US2728219"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:technicon-instruments],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3081158/en",
-  :title "Liquid treatment apparatus",
-  :status :granted,
-  :id "US3081158",
-  :sourcing :authoritative,
-  :filing-year 1959,
-  :assignee :technicon-instruments,
-  :grant-year 1963,
-  :cites ["US2604249" "US2710715" "US2879141" "US2899280"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:xerox],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3081165/en",
-  :title "Xerographic chemography",
-  :status :granted,
-  :id "US3081165",
-  :sourcing :authoritative,
-  :filing-year 1957,
-  :assignee :xerox,
-  :grant-year 1963,
-  :cites
-  ["US1574357"
-   "US1902213"
-   "US2297691"
-   "US2663636"
-   "US2692178"
-   "US2744859"
-   "US2756676"
-   "US2845348"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:polaroid],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3081167/en",
-  :title "Photographic products and processes using metallic chelates",
-  :status :granted,
-  :id "US3081167",
-  :sourcing :authoritative,
-  :filing-year 1959,
-  :assignee :polaroid,
-  :grant-year 1963,
-  :cites ["GB779621A" "GB804971A" "US2559643" "US2774668" "US2983606"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:deutsche-itt-industries],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3081203/en",
-  :title
-  "Method of removing hardened photoresist material from printed circuit conductors",
-  :status :granted,
-  :id "US3081203",
-  :sourcing :authoritative,
-  :filing-year 1960,
-  :assignee :deutsche-itt-industries,
-  :grant-year 1963,
-  :cites
-  ["US2338673"
-   "US2417468"
-   "US2435239"
-   "US2709666"
-   "US2737465"
-   "US2925332"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:american-cyanamid],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3082203/en",
-  :title "Novel nucleotide coenzymes",
-  :status :granted,
-  :id "US3082203",
-  :sourcing :authoritative,
-  :filing-year 1960,
-  :assignee :american-cyanamid,
-  :grant-year 1963,
-  :term-years 20,
-  :open-license :none}
- {:assignees [:general-electric],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3084286/en",
-  :title "Binary counter",
-  :status :granted,
-  :id "US3084286",
-  :sourcing :authoritative,
-  :filing-year 1960,
-  :assignee :general-electric,
-  :grant-year 1963,
-  :cites ["GB866109A" "US2644887" "US2806947" "US2816223"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:burke],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3085074/en",
-  :title
-  "Aqueous dispersions of halogenated, polymer modified butyl rubber, process of makingsame, and vulcanization thereof",
-  :status :granted,
-  :id "US3085074",
-  :sourcing :authoritative,
-  :filing-year 1959,
-  :assignee :burke,
-  :grant-year 1963,
-  :cites
-  ["FR1145258A"
-   "GB746692A"
-   "GB793581A"
-   "US2476430"
-   "US2586124"
-   "US2595797"
-   "US2609365"
-   "US2631984"
-   "US2732354"
-   "US2799662"
-   "US2883351"
-   "US2901458"
-   "US2943664"
-   "US2965620"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:usines-decoufle],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3088467/en",
-  :title "Method of forming a continuous tobacco filler",
-  :status :granted,
-  :id "US3088467",
-  :sourcing :authoritative,
-  :filing-year 1961,
-  :assignee :usines-decoufle,
-  :grant-year 1963,
-  :cites ["FR1179992A" "GB854736A" "US1808795" "US2660178"],
   :term-years 20,
   :open-license :none}]
