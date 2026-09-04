@@ -1,4 +1,323 @@
-[{:assignees [:canon],
+[{:assignees [:f-hoffmann-la-roche],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3663684/en",
+  :title
+  "Carcinoembryonic antigen and diagnostic method using radioactive iodine",
+  :status :granted,
+  :id "US3663684",
+  :sourcing :authoritative,
+  :filing-year 1970,
+  :assignee :f-hoffmann-la-roche,
+  :grant-year 1972,
+  :term-years 20,
+  :open-license :none}
+ {:jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3663801/en",
+  :title "Method and apparatus for evaluating color-coded information",
+  :status :granted,
+  :id "US3663801",
+  :sourcing :authoritative,
+  :filing-year 1969,
+  :assignee :unassigned,
+  :grant-year 1972,
+  :cites
+  ["US2899132"
+   "US3145291"
+   "US3315229"
+   "US3417231"
+   "US3474230"
+   "US3513320"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:schlumberger-technology],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3664421/en",
+  :title
+  "Methods for inhibiting the production of loose formation materials",
+  :status :granted,
+  :id "US3664421",
+  :sourcing :authoritative,
+  :filing-year 1970,
+  :assignee :schlumberger-technology,
+  :grant-year 1972,
+  :cites
+  ["US2725107"
+   "US2745496"
+   "US2775303"
+   "US2911048"
+   "US2927640"
+   "US2978029"
+   "US3130787"
+   "US3460618"
+   "US3559736"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:organon],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3666421/en",
+  :title "Diagnostic test slide",
+  :status :granted,
+  :id "US3666421",
+  :sourcing :authoritative,
+  :filing-year 1971,
+  :assignee :organon,
+  :grant-year 1972,
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:coulter-electronics],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3669542/en",
+  :title "Liquid borne particle sensor",
+  :status :granted,
+  :id "US3669542",
+  :sourcing :authoritative,
+  :filing-year 1969,
+  :assignee :coulter-electronics,
+  :grant-year 1972,
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:monsanto],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3669841/en",
+  :title "Attachment of enzymes to siliceous materials",
+  :status :granted,
+  :id "US3669841",
+  :sourcing :authoritative,
+  :filing-year 1970,
+  :assignee :monsanto,
+  :grant-year 1972,
+  :cites ["US3502545" "US3519538"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:health-education-and-welfare-u],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3669878/en",
+  :title "Treatment of dialysate solution for removal of urea",
+  :status :granted,
+  :id "US3669878",
+  :sourcing :authoritative,
+  :filing-year 1970,
+  :assignee :health-education-and-welfare-u,
+  :grant-year 1972,
+  :cites ["US3268441" "US3463728" "US3506126"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:national-aeronautics-and-space-administration-nasa],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3670097/en",
+  :title "Stereoscopic television system and apparatus",
+  :status :granted,
+  :id "US3670097",
+  :sourcing :authoritative,
+  :filing-year 1969,
+  :assignee :national-aeronautics-and-space-administration-nasa,
+  :grant-year 1972,
+  :cites ["GB505602A" "US3205303"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:f-hoffmann-la-roche],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3671400/en",
+  :title "Bacterial controls and preparation thereof",
+  :status :granted,
+  :id "US3671400",
+  :sourcing :authoritative,
+  :filing-year 1969,
+  :assignee :f-hoffmann-la-roche,
+  :grant-year 1972,
+  :cites ["US3340156"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:monsanto],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3672221/en",
+  :title "Temperature sensor",
+  :status :granted,
+  :id "US3672221",
+  :sourcing :authoritative,
+  :filing-year 1969,
+  :assignee :monsanto,
+  :grant-year 1972,
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:miles-laboratories],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3672845/en",
+  :title "Test device for albumin",
+  :status :granted,
+  :id "US3672845",
+  :sourcing :authoritative,
+  :filing-year 1970,
+  :assignee :miles-laboratories,
+  :grant-year 1972,
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:zenith-radio],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3672893/en",
+  :title "Process of manufacturing screens for shadow-mask tubes",
+  :status :granted,
+  :id "US3672893",
+  :sourcing :authoritative,
+  :filing-year 1970,
+  :assignee :zenith-radio,
+  :grant-year 1972,
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:massachusetts-institute-of-technology],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3673612/en",
+  :title
+  "Non-thrombogenic materials and methods for their preparation",
+  :status :granted,
+  :id "US3673612",
+  :sourcing :authoritative,
+  :filing-year 1970,
+  :assignee :massachusetts-institute-of-technology,
+  :grant-year 1972,
+  :cites ["US3522346" "US3549409"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:medstar-research-institute],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3675488/en",
+  :title
+  "Apparatus for transport and storage of liquid specimens for radio-immunoassay for insulin",
+  :status :granted,
+  :id "US3675488",
+  :sourcing :authoritative,
+  :filing-year 1969,
+  :assignee :medstar-research-institute,
+  :grant-year 1972,
+  :cites ["US2734377" "US3131521" "US3368872"],
+  :term-years 20,
+  :open-license :none}
+ {:jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3675768/en",
+  :title
+  "Method and apparatus for classifying and segregating particles with electrical and optical means",
+  :status :granted,
+  :id "US3675768",
+  :sourcing :authoritative,
+  :filing-year 1969,
+  :assignee :unassigned,
+  :grant-year 1972,
+  :cites
+  ["US2587686"
+   "US2920525"
+   "US2942689"
+   "US3025464"
+   "US3233173"
+   "US3259842"
+   "US3361965"
+   "US3390326"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:f-hoffmann-la-roche],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3676080/en",
+  :title "Device for automatically analyzing liquids",
+  :status :granted,
+  :id "US3676080",
+  :sourcing :authoritative,
+  :filing-year 1968,
+  :assignee :f-hoffmann-la-roche,
+  :grant-year 1972,
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:combined-paper-mills],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3676184/en",
+  :title
+  "Method for controlling varying liquid penetration of a continuous paper web",
+  :status :granted,
+  :id "US3676184",
+  :sourcing :authoritative,
+  :filing-year 1969,
+  :assignee :combined-paper-mills,
+  :grant-year 1972,
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:westinghouse-electric],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3676383/en",
+  :title
+  "Non-aqueous electrophoretic compositions comprising liquid nitroalkanes as a solvent",
+  :status :granted,
+  :id "US3676383",
+  :sourcing :authoritative,
+  :filing-year 1969,
+  :assignee :westinghouse-electric,
+  :grant-year 1972,
+  :cites
+  ["US2843541"
+   "US2947677"
+   "US2982707"
+   "US3093511"
+   "US3450655"
+   "US3554984"],
+  :term-years 20,
+  :open-license :none}
+ {:jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3676820/en",
+  :title "Gas detecting element and method of manufacturing same",
+  :status :granted,
+  :id "US3676820",
+  :sourcing :authoritative,
+  :filing-year 1970,
+  :assignee :unassigned,
+  :grant-year 1972,
+  :cites ["US3092799" "US3138948" "US3437446" "US3479257"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:technicon-instruments],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3679312/en",
+  :title
+  "Method and apparatus for measuring bioluminescence or chemiluminescence for quantitative analysis of samples",
+  :status :granted,
+  :id "US3679312",
+  :sourcing :authoritative,
+  :filing-year 1971,
+  :assignee :technicon-instruments,
+  :grant-year 1972,
+  :cites ["US2549574"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:dainippon-screen-manufacturing],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3679500/en",
+  :title "Method for forming perforations in metal sheets by etching",
+  :status :granted,
+  :id "US3679500",
+  :sourcing :authoritative,
+  :filing-year 1970,
+  :assignee :dainippon-screen-manufacturing,
+  :grant-year 1972,
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:canon],
   :jurisdiction :us,
   :field "UNKNOWN",
   :source "https://patents.google.com/patent/US3682071/en",
@@ -8928,342 +9247,5 @@
   :assignee :baxter-travenol-laboratories,
   :grant-year 1978,
   :cites ["US2878106" "US3764214" "US3790346" "US3917404"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:ortho-diagnostic-systems],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US4100267/en",
-  :title "Method of detecting hepatitis B core antigen and antibody",
-  :status :granted,
-  :id "US4100267",
-  :sourcing :authoritative,
-  :filing-year 1975,
-  :assignee :ortho-diagnostic-systems,
-  :grant-year 1978,
-  :term-years 20,
-  :open-license :none}
- {:assignees [:technam],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US4100268/en",
-  :title
-  "Preparation of gentamicin sensitized particles for agglutination tests",
-  :status :granted,
-  :id "US4100268",
-  :sourcing :authoritative,
-  :filing-year 1976,
-  :assignee :technam,
-  :grant-year 1978,
-  :cites
-  ["GB1402427A" "US3639558" "US3652761" "US3775536" "US3951748"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:biosearch-medical-products],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US4100309/en",
-  :title
-  "Coated substrate having a low coefficient of friction hydrophilic coating and a method of making the same",
-  :status :granted,
-  :id "US4100309",
-  :sourcing :authoritative,
-  :filing-year 1977,
-  :assignee :biosearch-medical-products,
-  :grant-year 1978,
-  :cites ["US3860672" "US3939049"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:merck-and],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US4102996/en",
-  :title "Method of preparing hepatitis B core antigen",
-  :status :granted,
-  :id "US4102996",
-  :sourcing :authoritative,
-  :filing-year 1977,
-  :assignee :merck-and,
-  :grant-year 1978,
-  :term-years 20,
-  :open-license :none}
- {:assignees [:dios],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US4103064/en",
-  :title
-  "Microdevice substrate and method for making micropattern devices",
-  :status :granted,
-  :id "US4103064",
-  :sourcing :authoritative,
-  :filing-year 1976,
-  :assignee :dios,
-  :grant-year 1978,
-  :cites
-  ["US2051603"
-   "US3535137"
-   "US3635853"
-   "US3746564"
-   "US3779806"
-   "US3883352"
-   "US3914462"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:dios],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US4103073/en",
-  :title "Microsubstrates and method for making micropattern devices",
-  :status :granted,
-  :id "US4103073",
-  :sourcing :authoritative,
-  :filing-year 1976,
-  :assignee :dios,
-  :grant-year 1978,
-  :cites ["US3575733" "US3885060" "US3914462"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:university-of-pennsylvania-penn],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US4103227/en",
-  :title "Ion-controlled diode",
-  :status :granted,
-  :id "US4103227",
-  :sourcing :authoritative,
-  :filing-year 1977,
-  :assignee :university-of-pennsylvania-penn,
-  :grant-year 1978,
-  :cites ["US2711511" "US3295022" "US3428892" "US3831432"],
-  :term-years 20,
-  :open-license :none}
- {:jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US4104029/en",
-  :title
-  "Procedure for the assay of pharmacologically immunologically and biochemically active compounds in biological fluids",
-  :status :granted,
-  :id "US4104029",
-  :sourcing :authoritative,
-  :filing-year 1977,
-  :assignee :unassigned,
-  :grant-year 1978,
-  :cites
-  ["US3575812"
-   "US3660240"
-   "US3852157"
-   "US3966897"
-   "US3981982"
-   "US4000252"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:bp-north-america],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US4106920/en",
-  :title
-  "Method of making a semi-permeable, essentially water-insoluble, hydrophilic nylon membrane and resultant product",
-  :status :granted,
-  :id "US4106920",
-  :sourcing :authoritative,
-  :filing-year 1974,
-  :assignee :bp-north-america,
-  :grant-year 1978,
-  :cites
-  ["US2846727"
-   "US3228877"
-   "US3276996"
-   "US3332894"
-   "US3520960"
-   "US3542908"
-   "US3711583"
-   "US3719590"
-   "US3758605"
-   "US3770842"
-   "US3878109"
-   "US3899309"],
-  :term-years 20,
-  :open-license :none}
- {:jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US4107284/en",
-  :title "Radioimmunoassay procedure using a stabilized complex",
-  :status :granted,
-  :id "US4107284",
-  :sourcing :authoritative,
-  :filing-year 1975,
-  :assignee :unassigned,
-  :grant-year 1978,
-  :cites ["US3911096" "US3928553"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:purdue-research-foundation],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US4108603/en",
-  :title
-  "Method for rapid analysis of hemoglobin variants by high speed liquid chromatography",
-  :status :granted,
-  :id "US4108603",
-  :sourcing :authoritative,
-  :filing-year 1977,
-  :assignee :purdue-research-foundation,
-  :grant-year 1978,
-  :term-years 20,
-  :open-license :none}
- {:jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US4108972/en",
-  :title
-  "Immunological reagent employing radioactive and other tracers",
-  :status :granted,
-  :id "US4108972",
-  :sourcing :authoritative,
-  :filing-year 1975,
-  :assignee :unassigned,
-  :grant-year 1978,
-  :cites ["US3853987" "US3904367"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:international-telephone-and-telegraph],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US4109994/en",
-  :title "Single optical fiber connector",
-  :status :granted,
-  :id "US4109994",
-  :sourcing :authoritative,
-  :filing-year 1977,
-  :assignee :international-telephone-and-telegraph,
-  :grant-year 1978,
-  :cites
-  ["GB1429843A"
-   "US3950075"
-   "US3960531"
-   "US3989567"
-   "US4049414"
-   "US4050783"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:eastman-kodak],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US4111838/en",
-  :title "Composition for chromatography",
-  :status :granted,
-  :id "US4111838",
-  :sourcing :authoritative,
-  :filing-year 1977,
-  :assignee :eastman-kodak,
-  :grant-year 1978,
-  :cites ["DE2319495A1" "US3491086" "US3983299" "US4006059"],
-  :term-years 20,
-  :open-license :none}
- {:assignees
-  [:agency-of-industrial-science-and-technology :daikin-kogyo],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US4111866/en",
-  :title "Method of making a chemical-resistant diaphragm thereof",
-  :status :granted,
-  :id "US4111866",
-  :sourcing :authoritative,
-  :filing-year 1977,
-  :assignee :agency-of-industrial-science-and-technology,
-  :grant-year 1978,
-  :cites ["US3929950" "US4049589"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:mitsui-toatsu-chemicals],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US4115338/en",
-  :title "Metallic tone coating composition",
-  :status :granted,
-  :id "US4115338",
-  :sourcing :authoritative,
-  :filing-year 1976,
-  :assignee :mitsui-toatsu-chemicals,
-  :grant-year 1978,
-  :cites
-  ["US2302361"
-   "US2876133"
-   "US3265644"
-   "US3272772"
-   "US3393165"
-   "US3661620"
-   "US3806464"
-   "US3971753"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:ppg-industries],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US4115472/en",
-  :title "Urethane coating compositions",
-  :status :granted,
-  :id "US4115472",
-  :sourcing :authoritative,
-  :filing-year 1977,
-  :assignee :ppg-industries,
-  :grant-year 1978,
-  :cites ["US3317635" "US3538185" "US3702836" "US3751412" "US3888945"],
-  :term-years 20,
-  :open-license :none}
- {:jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US411596/en",
-  :title "Percolator",
-  :status :granted,
-  :id "US411596",
-  :sourcing :authoritative,
-  :assignee :unassigned,
-  :grant-year 1889,
-  :term-years 20,
-  :open-license :none}
- {:assignees [:warner-lambert],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US4116638/en",
-  :title "Immunoassay device",
-  :status :granted,
-  :id "US4116638",
-  :sourcing :authoritative,
-  :filing-year 1977,
-  :assignee :warner-lambert,
-  :grant-year 1978,
-  :cites
-  ["US3464798"
-   "US3492396"
-   "US3712465"
-   "US3843444"
-   "US3849830"
-   "US3873682"
-   "US4012200"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:mcdonnell-douglas],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US4118280/en",
-  :title "Automated microbial analyzer",
-  :status :granted,
-  :id "US4118280",
-  :sourcing :authoritative,
-  :filing-year 1976,
-  :assignee :mcdonnell-douglas,
-  :grant-year 1978,
-  :cites
-  ["US2375706"
-   "US2949815"
-   "US3152509"
-   "US3179007"
-   "US3193684"
-   "US3554639"
-   "US3704953"
-   "US3776817"
-   "US3851972"
-   "US3902799"
-   "US3928140"],
   :term-years 20,
   :open-license :none}]

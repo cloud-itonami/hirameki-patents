@@ -1,4 +1,53 @@
-[[":db/add" "hirameki-patent:US1983681" ":hirameki/derived" true]
+[[":db/add"
+  "hirameki-patent:US1983531"
+  ":hirameki.obs/release-status"
+  ":public-domain"]
+ [":db/add"
+  "hirameki-patent:US1983531"
+  ":hirameki/sourcing"
+  ":authoritative"]
+ [":db/add" "hirameki-patent:US1983531" ":hirameki/derived" true]
+ [":db/add"
+  "hirameki-patent:US1983531"
+  ":hirameki.obs/years-to-expiry"
+  -74]
+ [":db/add"
+  "hirameki-patent:US1983531"
+  ":hirameki/source"
+  "https://patents.google.com/patent/US1983531/en"]
+ [":db/add"
+  "hirameki-patent:US1983681"
+  ":hirameki.patent/title"
+  "Sausage treating method"]
+ [":db/add"
+  "hirameki-patent:US1983681"
+  ":hirameki.patent/jurisdiction"
+  ":us"]
+ [":db/add"
+  "hirameki-patent:US1983681"
+  ":hirameki.patent/field"
+  "UNKNOWN"]
+ [":db/add"
+  "hirameki-patent:US1983681"
+  ":hirameki.patent/assignee"
+  ":swift-and"]
+ [":db/add"
+  "hirameki-patent:US1983681"
+  ":hirameki.patent/status"
+  ":granted"]
+ [":db/add"
+  "hirameki-patent:US1983681"
+  ":hirameki.patent/open-license"
+  ":none"]
+ [":db/add"
+  "hirameki-patent:US1983681"
+  ":hirameki.obs/release-status"
+  ":public-domain"]
+ [":db/add"
+  "hirameki-patent:US1983681"
+  ":hirameki/sourcing"
+  ":authoritative"]
+ [":db/add" "hirameki-patent:US1983681" ":hirameki/derived" true]
  [":db/add"
   "hirameki-patent:US1983681"
   ":hirameki.obs/years-to-expiry"
@@ -3156,6 +3205,47 @@
   "hirameki-patent:US2119596"
   ":hirameki/source"
   "https://patents.google.com/patent/US2119596/en"]
+ [":db/add"
+  "hirameki-patent:US2121105"
+  ":hirameki.patent/title"
+  "Running register"]
+ [":db/add"
+  "hirameki-patent:US2121105"
+  ":hirameki.patent/jurisdiction"
+  ":us"]
+ [":db/add"
+  "hirameki-patent:US2121105"
+  ":hirameki.patent/field"
+  "UNKNOWN"]
+ [":db/add"
+  "hirameki-patent:US2121105"
+  ":hirameki.patent/assignee"
+  ":s&s-corrugated-paper-machinery"]
+ [":db/add"
+  "hirameki-patent:US2121105"
+  ":hirameki.patent/status"
+  ":granted"]
+ [":db/add"
+  "hirameki-patent:US2121105"
+  ":hirameki.patent/open-license"
+  ":none"]
+ [":db/add"
+  "hirameki-patent:US2121105"
+  ":hirameki.obs/release-status"
+  ":public-domain"]
+ [":db/add"
+  "hirameki-patent:US2121105"
+  ":hirameki/sourcing"
+  ":authoritative"]
+ [":db/add" "hirameki-patent:US2121105" ":hirameki/derived" true]
+ [":db/add"
+  "hirameki-patent:US2121105"
+  ":hirameki.obs/years-to-expiry"
+  -70]
+ [":db/add"
+  "hirameki-patent:US2121105"
+  ":hirameki/source"
+  "https://patents.google.com/patent/US2121105/en"]
  [":db/add"
   "hirameki-patent:US2122363"
   ":hirameki.patent/title"
@@ -10343,95 +10433,4 @@
  [":db/add"
   "hirameki-patent:US2312024"
   ":hirameki.patent/open-license"
-  ":none"]
- [":db/add"
-  "hirameki-patent:US2312024"
-  ":hirameki.obs/release-status"
-  ":public-domain"]
- [":db/add"
-  "hirameki-patent:US2312024"
-  ":hirameki/sourcing"
-  ":authoritative"]
- [":db/add" "hirameki-patent:US2312024" ":hirameki/derived" true]
- [":db/add"
-  "hirameki-patent:US2312024"
-  ":hirameki.obs/years-to-expiry"
-  -69]
- [":db/add"
-  "hirameki-patent:US2312024"
-  ":hirameki/source"
-  "https://patents.google.com/patent/US2312024/en"]
- [":db/add"
-  "hirameki-patent:US2312862"
-  ":hirameki.patent/title"
-  "Method and apparatus for completing wells"]
- [":db/add"
-  "hirameki-patent:US2312862"
-  ":hirameki.patent/jurisdiction"
-  ":us"]
- [":db/add"
-  "hirameki-patent:US2312862"
-  ":hirameki.patent/field"
-  "UNKNOWN"]
- [":db/add"
-  "hirameki-patent:US2312862"
-  ":hirameki.patent/assignee"
-  ":texaco"]
- [":db/add"
-  "hirameki-patent:US2312862"
-  ":hirameki.patent/status"
-  ":granted"]
- [":db/add"
-  "hirameki-patent:US2312862"
-  ":hirameki.patent/open-license"
-  ":none"]
- [":db/add"
-  "hirameki-patent:US2312862"
-  ":hirameki.obs/release-status"
-  ":public-domain"]
- [":db/add"
-  "hirameki-patent:US2312862"
-  ":hirameki/sourcing"
-  ":authoritative"]
- [":db/add" "hirameki-patent:US2312862" ":hirameki/derived" true]
- [":db/add"
-  "hirameki-patent:US2312862"
-  ":hirameki.obs/years-to-expiry"
-  -66]
- [":db/add"
-  "hirameki-patent:US2312862"
-  ":hirameki/source"
-  "https://patents.google.com/patent/US2312862/en"]
- [":db/add"
-  "hirameki-patent:US2312927"
-  ":hirameki.patent/title"
-  "Coating of paper"]
- [":db/add"
-  "hirameki-patent:US2312927"
-  ":hirameki.patent/jurisdiction"
-  ":us"]
- [":db/add"
-  "hirameki-patent:US2312927"
-  ":hirameki.patent/field"
-  "UNKNOWN"]
- [":db/add"
-  "hirameki-patent:US2312927"
-  ":hirameki.patent/assignee"
-  ":murray-liquafilm"]
- [":db/add"
-  "hirameki-patent:US2312927"
-  ":hirameki.patent/status"
-  ":granted"]
- [":db/add"
-  "hirameki-patent:US2312927"
-  ":hirameki.patent/open-license"
-  ":none"]
- [":db/add"
-  "hirameki-patent:US2312927"
-  ":hirameki.obs/release-status"
-  ":public-domain"]
- [":db/add"
-  "hirameki-patent:US2312927"
-  ":hirameki/sourcing"
-  ":authoritative"]
- [":db/add" "hirameki-patent:US2312927" ":hirameki/derived" true]]
+  ":none"]]

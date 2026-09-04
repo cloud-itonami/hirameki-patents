@@ -1,4 +1,49 @@
 [[":db/add"
+  "hirameki-patent:JP2004351369A"
+  ":hirameki.patent/open-license"
+  ":none"]
+ [":db/add"
+  "hirameki-patent:JP2004351369A"
+  ":hirameki.obs/release-status"
+  ":pending"]
+ [":db/add"
+  "hirameki-patent:JP2004351369A"
+  ":hirameki/sourcing"
+  ":authoritative"]
+ [":db/add" "hirameki-patent:JP2004351369A" ":hirameki/derived" true]
+ [":db/add"
+  "hirameki-patent:JP2004351369A"
+  ":hirameki.obs/years-to-expiry"
+  -3]
+ [":db/add"
+  "hirameki-patent:JP2004351369A"
+  ":hirameki/source"
+  "https://patents.google.com/patent/JP2004351369A/en"]
+ [":db/add"
+  "hirameki-patent:JP2004351389A"
+  ":hirameki.patent/title"
+  "Bright coating film forming method and painted object"]
+ [":db/add"
+  "hirameki-patent:JP2004351389A"
+  ":hirameki.patent/jurisdiction"
+  ":jp"]
+ [":db/add"
+  "hirameki-patent:JP2004351389A"
+  ":hirameki.patent/field"
+  "UNKNOWN"]
+ [":db/add"
+  "hirameki-patent:JP2004351389A"
+  ":hirameki.patent/assignee"
+  ":honda-motor"]
+ [":db/add"
+  "hirameki-patent:JP2004351389A"
+  ":hirameki.patent/status"
+  ":pending"]
+ [":db/add"
+  "hirameki-patent:JP2004351389A"
+  ":hirameki.patent/open-license"
+  ":none"]
+ [":db/add"
   "hirameki-patent:JP2004351389A"
   ":hirameki.obs/release-status"
   ":pending"]
@@ -10201,53 +10246,4 @@
  [":db/add"
   "hirameki-patent:US1983531"
   ":hirameki.patent/open-license"
-  ":none"]
- [":db/add"
-  "hirameki-patent:US1983531"
-  ":hirameki.obs/release-status"
-  ":public-domain"]
- [":db/add"
-  "hirameki-patent:US1983531"
-  ":hirameki/sourcing"
-  ":authoritative"]
- [":db/add" "hirameki-patent:US1983531" ":hirameki/derived" true]
- [":db/add"
-  "hirameki-patent:US1983531"
-  ":hirameki.obs/years-to-expiry"
-  -74]
- [":db/add"
-  "hirameki-patent:US1983531"
-  ":hirameki/source"
-  "https://patents.google.com/patent/US1983531/en"]
- [":db/add"
-  "hirameki-patent:US1983681"
-  ":hirameki.patent/title"
-  "Sausage treating method"]
- [":db/add"
-  "hirameki-patent:US1983681"
-  ":hirameki.patent/jurisdiction"
-  ":us"]
- [":db/add"
-  "hirameki-patent:US1983681"
-  ":hirameki.patent/field"
-  "UNKNOWN"]
- [":db/add"
-  "hirameki-patent:US1983681"
-  ":hirameki.patent/assignee"
-  ":swift-and"]
- [":db/add"
-  "hirameki-patent:US1983681"
-  ":hirameki.patent/status"
-  ":granted"]
- [":db/add"
-  "hirameki-patent:US1983681"
-  ":hirameki.patent/open-license"
-  ":none"]
- [":db/add"
-  "hirameki-patent:US1983681"
-  ":hirameki.obs/release-status"
-  ":public-domain"]
- [":db/add"
-  "hirameki-patent:US1983681"
-  ":hirameki/sourcing"
-  ":authoritative"]]
+  ":none"]]

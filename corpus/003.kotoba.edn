@@ -1,4 +1,334 @@
-[{:assignees [:baxter-laboratories],
+[{:assignees [:hoechst],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3108017/en",
+  :title
+  "Coating organic films with mixture of amorphous and crystalline dispersions of vinylidene chloride copolymers",
+  :status :granted,
+  :id "US3108017",
+  :sourcing :authoritative,
+  :filing-year 1960,
+  :assignee :hoechst,
+  :grant-year 1963,
+  :cites ["US2294651" "US2909449" "US2910385" "US2940889"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:continental-can],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3108881/en",
+  :title "Method of packaging food",
+  :status :granted,
+  :id "US3108881",
+  :sourcing :authoritative,
+  :filing-year 1959,
+  :assignee :continental-can,
+  :grant-year 1963,
+  :cites ["US2160367" "US2361344" "US2380134" "US2555230" "US2679969"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:hrb-singer],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3109057/en",
+  :title "Stereo scanning unit and system",
+  :status :granted,
+  :id "US3109057",
+  :sourcing :authoritative,
+  :filing-year 1960,
+  :assignee :hrb-singer,
+  :grant-year 1963,
+  :cites ["US1841487" "US2415981" "US2798115" "US2856809" "US2859653"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:ajinomoto],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3111459/en",
+  :title "Method for preparation of inosine",
+  :status :granted,
+  :id "US3111459",
+  :sourcing :authoritative,
+  :filing-year 1960,
+  :assignee :ajinomoto,
+  :grant-year 1963,
+  :cites ["US2942977"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:gevaert-photo-producten],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3113022/en",
+  :title "Electrophotographic process",
+  :status :granted,
+  :id "US3113022",
+  :sourcing :authoritative,
+  :filing-year 1960,
+  :assignee :gevaert-photo-producten,
+  :grant-year 1963,
+  :cites
+  ["DE1068115B"
+   "US2845348"
+   "US2919191"
+   "US2951443"
+   "US2956874"
+   "US2956878"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:harvey-wells],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3114859/en",
+  :title "Tracking error measuring device",
+  :status :granted,
+  :id "US3114859",
+  :sourcing :authoritative,
+  :filing-year 1958,
+  :assignee :harvey-wells,
+  :grant-year 1963,
+  :cites ["US2491684" "US2779817" "US2798115" "US2807750" "US2838602"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:international-rectifier-usa],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3115424/en",
+  :title "Process for the passivation of semiconductors",
+  :status :granted,
+  :id "US3115424",
+  :sourcing :authoritative,
+  :filing-year 1961,
+  :assignee :international-rectifier-usa,
+  :grant-year 1963,
+  :cites ["US2874076" "US2913358"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:upjohn],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3116282/en",
+  :title "Pyrimidine nucleosides and process",
+  :status :granted,
+  :id "US3116282",
+  :sourcing :authoritative,
+  :filing-year 1960,
+  :assignee :upjohn,
+  :grant-year 1963,
+  :cites ["US2815342" "US3002965"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:general-electric],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3118786/en",
+  :title
+  "Recording medium having an image receiving coating of a copolymer of a styrene and n-butyl methacrylate",
+  :status :granted,
+  :id "US3118786",
+  :sourcing :authoritative,
+  :filing-year 1961,
+  :assignee :general-electric,
+  :grant-year 1964,
+  :cites ["US2600783" "US2656334" "US2732371" "US2985866"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:takeda-pharmaceutical],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3118876/en",
+  :title "Process for preparing glycoside phosphates",
+  :status :granted,
+  :id "US3118876",
+  :sourcing :authoritative,
+  :filing-year 1959,
+  :assignee :takeda-pharmaceutical,
+  :grant-year 1964,
+  :cites ["US2827428" "US2843540" "US2900408" "US2903476"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:general-tire-and-rubber],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3119785/en",
+  :title "Reaction product of a graft polymer of acrolein",
+  :status :granted,
+  :id "US3119785",
+  :sourcing :authoritative,
+  :filing-year 1959,
+  :assignee :general-tire-and-rubber,
+  :grant-year 1964,
+  :cites ["US2332896" "US2388167" "US2569932"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:polaroid],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3120608/en",
+  :title
+  "Gas microcell in the form of a light pipe for use with an infrared spectrometer",
+  :status :granted,
+  :id "US3120608",
+  :sourcing :authoritative,
+  :filing-year 1961,
+  :assignee :polaroid,
+  :grant-year 1964,
+  :cites ["US2534657" "US2547212" "US2709751" "US2712211" "US3036215"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:general-electric],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3122062/en",
+  :title "Arc discharge controlled fluid amplifier",
+  :status :granted,
+  :id "US3122062",
+  :sourcing :authoritative,
+  :filing-year 1962,
+  :assignee :general-electric,
+  :grant-year 1964,
+  :cites ["US2782863" "US3001539" "US3001698" "US3016066"],
+  :term-years 20,
+  :open-license :none}
+ {:jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3122165/en",
+  :title "Fluid-operated system",
+  :status :granted,
+  :id "US3122165",
+  :sourcing :authoritative,
+  :filing-year 1960,
+  :assignee :unassigned,
+  :grant-year 1964,
+  :cites
+  ["US1795694"
+   "US2408603"
+   "US2408705"
+   "US2520172"
+   "US2630873"
+   "US2727525"
+   "US2851230"
+   "US2871656"
+   "US2875578"
+   "US2889856"
+   "US2936974"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:bell-telephone-laboratories],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3122817/en",
+  :title "Fabrication of semiconductor devices",
+  :status :granted,
+  :id "US3122817",
+  :sourcing :authoritative,
+  :filing-year 1963,
+  :assignee :bell-telephone-laboratories,
+  :grant-year 1964,
+  :cites ["US2411298" "US2506604" "US2802760" "US3025589"],
+  :term-years 20,
+  :open-license :none}
+ {:jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3123066/en",
+  :title "brumley",
+  :status :granted,
+  :id "US3123066",
+  :sourcing :authoritative,
+  :assignee :unassigned,
+  :grant-year 1964,
+  :cites
+  ["FR1123371A"
+   "US1590283"
+   "US1751584"
+   "US2268321"
+   "US2790438"
+   "US2825260"
+   "US2877368"
+   "US2932294"
+   "US3068739"],
+  :term-years 20,
+  :open-license :none}
+ {:jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3123443/en",
+  :title "Composition for diagnosing glucose",
+  :status :granted,
+  :id "US3123443",
+  :sourcing :authoritative,
+  :assignee :unassigned,
+  :grant-year 1964,
+  :cites
+  ["US1103283"
+   "US2337562"
+   "US2768143"
+   "US2864725"
+   "US2893844"
+   "US3001915"
+   "US458244"],
+  :term-years 20,
+  :open-license :none}
+ {:jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3123900/en",
+  :title
+  "Method of manufacture of a flow element or pulsation dampener",
+  :status :granted,
+  :id "US3123900",
+  :sourcing :authoritative,
+  :assignee :unassigned,
+  :grant-year 1964,
+  :cites
+  ["GB191109228A"
+   "US1759239"
+   "US1806738"
+   "US1913860"
+   "US2212186"
+   "US2445766"
+   "US2457420"
+   "US2721952"
+   "US2752672"
+   "US2768431"
+   "US2824364"
+   "US2833027"
+   "US2890885"
+   "US2944504"],
+  :term-years 20,
+  :open-license :none}
+ {:jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3125555/en",
+  :title "Vinoxycarbonylmethyltrialkylphospho-",
+  :status :granted,
+  :id "US3125555",
+  :sourcing :authoritative,
+  :assignee :unassigned,
+  :grant-year 1964,
+  :cites ["FR1134751A" "US3011000"],
+  :term-years 20,
+  :open-license :none}
+ {:jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3127363/en",
+  :title "Process for the manufacture of elasto-",
+  :status :granted,
+  :id "US3127363",
+  :sourcing :authoritative,
+  :assignee :unassigned,
+  :grant-year 1964,
+  :cites
+  ["US2123152"
+   "US2494920"
+   "US2571039"
+   "US2584351"
+   "US2615861"
+   "US2692844"
+   "US2729569"
+   "US2754237"
+   "US2814601"
+   "US2843555"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:baxter-laboratories],
   :jurisdiction :us,
   :field "UNKNOWN",
   :source "https://patents.google.com/patent/US3127892/en",
@@ -8903,324 +9233,5 @@
   :assignee :geomet,
   :grant-year 1972,
   :cites ["US3261668" "US3367841" "US3526480"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:f-hoffmann-la-roche],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3663684/en",
-  :title
-  "Carcinoembryonic antigen and diagnostic method using radioactive iodine",
-  :status :granted,
-  :id "US3663684",
-  :sourcing :authoritative,
-  :filing-year 1970,
-  :assignee :f-hoffmann-la-roche,
-  :grant-year 1972,
-  :term-years 20,
-  :open-license :none}
- {:jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3663801/en",
-  :title "Method and apparatus for evaluating color-coded information",
-  :status :granted,
-  :id "US3663801",
-  :sourcing :authoritative,
-  :filing-year 1969,
-  :assignee :unassigned,
-  :grant-year 1972,
-  :cites
-  ["US2899132"
-   "US3145291"
-   "US3315229"
-   "US3417231"
-   "US3474230"
-   "US3513320"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:schlumberger-technology],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3664421/en",
-  :title
-  "Methods for inhibiting the production of loose formation materials",
-  :status :granted,
-  :id "US3664421",
-  :sourcing :authoritative,
-  :filing-year 1970,
-  :assignee :schlumberger-technology,
-  :grant-year 1972,
-  :cites
-  ["US2725107"
-   "US2745496"
-   "US2775303"
-   "US2911048"
-   "US2927640"
-   "US2978029"
-   "US3130787"
-   "US3460618"
-   "US3559736"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:organon],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3666421/en",
-  :title "Diagnostic test slide",
-  :status :granted,
-  :id "US3666421",
-  :sourcing :authoritative,
-  :filing-year 1971,
-  :assignee :organon,
-  :grant-year 1972,
-  :term-years 20,
-  :open-license :none}
- {:assignees [:coulter-electronics],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3669542/en",
-  :title "Liquid borne particle sensor",
-  :status :granted,
-  :id "US3669542",
-  :sourcing :authoritative,
-  :filing-year 1969,
-  :assignee :coulter-electronics,
-  :grant-year 1972,
-  :term-years 20,
-  :open-license :none}
- {:assignees [:monsanto],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3669841/en",
-  :title "Attachment of enzymes to siliceous materials",
-  :status :granted,
-  :id "US3669841",
-  :sourcing :authoritative,
-  :filing-year 1970,
-  :assignee :monsanto,
-  :grant-year 1972,
-  :cites ["US3502545" "US3519538"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:health-education-and-welfare-u],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3669878/en",
-  :title "Treatment of dialysate solution for removal of urea",
-  :status :granted,
-  :id "US3669878",
-  :sourcing :authoritative,
-  :filing-year 1970,
-  :assignee :health-education-and-welfare-u,
-  :grant-year 1972,
-  :cites ["US3268441" "US3463728" "US3506126"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:national-aeronautics-and-space-administration-nasa],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3670097/en",
-  :title "Stereoscopic television system and apparatus",
-  :status :granted,
-  :id "US3670097",
-  :sourcing :authoritative,
-  :filing-year 1969,
-  :assignee :national-aeronautics-and-space-administration-nasa,
-  :grant-year 1972,
-  :cites ["GB505602A" "US3205303"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:f-hoffmann-la-roche],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3671400/en",
-  :title "Bacterial controls and preparation thereof",
-  :status :granted,
-  :id "US3671400",
-  :sourcing :authoritative,
-  :filing-year 1969,
-  :assignee :f-hoffmann-la-roche,
-  :grant-year 1972,
-  :cites ["US3340156"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:monsanto],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3672221/en",
-  :title "Temperature sensor",
-  :status :granted,
-  :id "US3672221",
-  :sourcing :authoritative,
-  :filing-year 1969,
-  :assignee :monsanto,
-  :grant-year 1972,
-  :term-years 20,
-  :open-license :none}
- {:assignees [:miles-laboratories],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3672845/en",
-  :title "Test device for albumin",
-  :status :granted,
-  :id "US3672845",
-  :sourcing :authoritative,
-  :filing-year 1970,
-  :assignee :miles-laboratories,
-  :grant-year 1972,
-  :term-years 20,
-  :open-license :none}
- {:assignees [:zenith-radio],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3672893/en",
-  :title "Process of manufacturing screens for shadow-mask tubes",
-  :status :granted,
-  :id "US3672893",
-  :sourcing :authoritative,
-  :filing-year 1970,
-  :assignee :zenith-radio,
-  :grant-year 1972,
-  :term-years 20,
-  :open-license :none}
- {:assignees [:massachusetts-institute-of-technology],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3673612/en",
-  :title
-  "Non-thrombogenic materials and methods for their preparation",
-  :status :granted,
-  :id "US3673612",
-  :sourcing :authoritative,
-  :filing-year 1970,
-  :assignee :massachusetts-institute-of-technology,
-  :grant-year 1972,
-  :cites ["US3522346" "US3549409"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:medstar-research-institute],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3675488/en",
-  :title
-  "Apparatus for transport and storage of liquid specimens for radio-immunoassay for insulin",
-  :status :granted,
-  :id "US3675488",
-  :sourcing :authoritative,
-  :filing-year 1969,
-  :assignee :medstar-research-institute,
-  :grant-year 1972,
-  :cites ["US2734377" "US3131521" "US3368872"],
-  :term-years 20,
-  :open-license :none}
- {:jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3675768/en",
-  :title
-  "Method and apparatus for classifying and segregating particles with electrical and optical means",
-  :status :granted,
-  :id "US3675768",
-  :sourcing :authoritative,
-  :filing-year 1969,
-  :assignee :unassigned,
-  :grant-year 1972,
-  :cites
-  ["US2587686"
-   "US2920525"
-   "US2942689"
-   "US3025464"
-   "US3233173"
-   "US3259842"
-   "US3361965"
-   "US3390326"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:f-hoffmann-la-roche],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3676080/en",
-  :title "Device for automatically analyzing liquids",
-  :status :granted,
-  :id "US3676080",
-  :sourcing :authoritative,
-  :filing-year 1968,
-  :assignee :f-hoffmann-la-roche,
-  :grant-year 1972,
-  :term-years 20,
-  :open-license :none}
- {:assignees [:combined-paper-mills],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3676184/en",
-  :title
-  "Method for controlling varying liquid penetration of a continuous paper web",
-  :status :granted,
-  :id "US3676184",
-  :sourcing :authoritative,
-  :filing-year 1969,
-  :assignee :combined-paper-mills,
-  :grant-year 1972,
-  :term-years 20,
-  :open-license :none}
- {:assignees [:westinghouse-electric],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3676383/en",
-  :title
-  "Non-aqueous electrophoretic compositions comprising liquid nitroalkanes as a solvent",
-  :status :granted,
-  :id "US3676383",
-  :sourcing :authoritative,
-  :filing-year 1969,
-  :assignee :westinghouse-electric,
-  :grant-year 1972,
-  :cites
-  ["US2843541"
-   "US2947677"
-   "US2982707"
-   "US3093511"
-   "US3450655"
-   "US3554984"],
-  :term-years 20,
-  :open-license :none}
- {:jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3676820/en",
-  :title "Gas detecting element and method of manufacturing same",
-  :status :granted,
-  :id "US3676820",
-  :sourcing :authoritative,
-  :filing-year 1970,
-  :assignee :unassigned,
-  :grant-year 1972,
-  :cites ["US3092799" "US3138948" "US3437446" "US3479257"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:technicon-instruments],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3679312/en",
-  :title
-  "Method and apparatus for measuring bioluminescence or chemiluminescence for quantitative analysis of samples",
-  :status :granted,
-  :id "US3679312",
-  :sourcing :authoritative,
-  :filing-year 1971,
-  :assignee :technicon-instruments,
-  :grant-year 1972,
-  :cites ["US2549574"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:dainippon-screen-manufacturing],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3679500/en",
-  :title "Method for forming perforations in metal sheets by etching",
-  :status :granted,
-  :id "US3679500",
-  :sourcing :authoritative,
-  :filing-year 1970,
-  :assignee :dainippon-screen-manufacturing,
-  :grant-year 1972,
   :term-years 20,
   :open-license :none}]

@@ -1,4 +1,341 @@
-[{:assignees [:calgon],
+[{:assignees [:ortho-diagnostic-systems],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US4100267/en",
+  :title "Method of detecting hepatitis B core antigen and antibody",
+  :status :granted,
+  :id "US4100267",
+  :sourcing :authoritative,
+  :filing-year 1975,
+  :assignee :ortho-diagnostic-systems,
+  :grant-year 1978,
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:technam],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US4100268/en",
+  :title
+  "Preparation of gentamicin sensitized particles for agglutination tests",
+  :status :granted,
+  :id "US4100268",
+  :sourcing :authoritative,
+  :filing-year 1976,
+  :assignee :technam,
+  :grant-year 1978,
+  :cites
+  ["GB1402427A" "US3639558" "US3652761" "US3775536" "US3951748"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:biosearch-medical-products],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US4100309/en",
+  :title
+  "Coated substrate having a low coefficient of friction hydrophilic coating and a method of making the same",
+  :status :granted,
+  :id "US4100309",
+  :sourcing :authoritative,
+  :filing-year 1977,
+  :assignee :biosearch-medical-products,
+  :grant-year 1978,
+  :cites ["US3860672" "US3939049"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:merck-and],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US4102996/en",
+  :title "Method of preparing hepatitis B core antigen",
+  :status :granted,
+  :id "US4102996",
+  :sourcing :authoritative,
+  :filing-year 1977,
+  :assignee :merck-and,
+  :grant-year 1978,
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:dios],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US4103064/en",
+  :title
+  "Microdevice substrate and method for making micropattern devices",
+  :status :granted,
+  :id "US4103064",
+  :sourcing :authoritative,
+  :filing-year 1976,
+  :assignee :dios,
+  :grant-year 1978,
+  :cites
+  ["US2051603"
+   "US3535137"
+   "US3635853"
+   "US3746564"
+   "US3779806"
+   "US3883352"
+   "US3914462"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:dios],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US4103073/en",
+  :title "Microsubstrates and method for making micropattern devices",
+  :status :granted,
+  :id "US4103073",
+  :sourcing :authoritative,
+  :filing-year 1976,
+  :assignee :dios,
+  :grant-year 1978,
+  :cites ["US3575733" "US3885060" "US3914462"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:university-of-pennsylvania-penn],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US4103227/en",
+  :title "Ion-controlled diode",
+  :status :granted,
+  :id "US4103227",
+  :sourcing :authoritative,
+  :filing-year 1977,
+  :assignee :university-of-pennsylvania-penn,
+  :grant-year 1978,
+  :cites ["US2711511" "US3295022" "US3428892" "US3831432"],
+  :term-years 20,
+  :open-license :none}
+ {:jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US4104029/en",
+  :title
+  "Procedure for the assay of pharmacologically immunologically and biochemically active compounds in biological fluids",
+  :status :granted,
+  :id "US4104029",
+  :sourcing :authoritative,
+  :filing-year 1977,
+  :assignee :unassigned,
+  :grant-year 1978,
+  :cites
+  ["US3575812"
+   "US3660240"
+   "US3852157"
+   "US3966897"
+   "US3981982"
+   "US4000252"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:bp-north-america],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US4106920/en",
+  :title
+  "Method of making a semi-permeable, essentially water-insoluble, hydrophilic nylon membrane and resultant product",
+  :status :granted,
+  :id "US4106920",
+  :sourcing :authoritative,
+  :filing-year 1974,
+  :assignee :bp-north-america,
+  :grant-year 1978,
+  :cites
+  ["US2846727"
+   "US3228877"
+   "US3276996"
+   "US3332894"
+   "US3520960"
+   "US3542908"
+   "US3711583"
+   "US3719590"
+   "US3758605"
+   "US3770842"
+   "US3878109"
+   "US3899309"],
+  :term-years 20,
+  :open-license :none}
+ {:jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US4107284/en",
+  :title "Radioimmunoassay procedure using a stabilized complex",
+  :status :granted,
+  :id "US4107284",
+  :sourcing :authoritative,
+  :filing-year 1975,
+  :assignee :unassigned,
+  :grant-year 1978,
+  :cites ["US3911096" "US3928553"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:purdue-research-foundation],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US4108603/en",
+  :title
+  "Method for rapid analysis of hemoglobin variants by high speed liquid chromatography",
+  :status :granted,
+  :id "US4108603",
+  :sourcing :authoritative,
+  :filing-year 1977,
+  :assignee :purdue-research-foundation,
+  :grant-year 1978,
+  :term-years 20,
+  :open-license :none}
+ {:jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US4108972/en",
+  :title
+  "Immunological reagent employing radioactive and other tracers",
+  :status :granted,
+  :id "US4108972",
+  :sourcing :authoritative,
+  :filing-year 1975,
+  :assignee :unassigned,
+  :grant-year 1978,
+  :cites ["US3853987" "US3904367"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:international-telephone-and-telegraph],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US4109994/en",
+  :title "Single optical fiber connector",
+  :status :granted,
+  :id "US4109994",
+  :sourcing :authoritative,
+  :filing-year 1977,
+  :assignee :international-telephone-and-telegraph,
+  :grant-year 1978,
+  :cites
+  ["GB1429843A"
+   "US3950075"
+   "US3960531"
+   "US3989567"
+   "US4049414"
+   "US4050783"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:eastman-kodak],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US4111838/en",
+  :title "Composition for chromatography",
+  :status :granted,
+  :id "US4111838",
+  :sourcing :authoritative,
+  :filing-year 1977,
+  :assignee :eastman-kodak,
+  :grant-year 1978,
+  :cites ["DE2319495A1" "US3491086" "US3983299" "US4006059"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees
+  [:agency-of-industrial-science-and-technology :daikin-kogyo],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US4111866/en",
+  :title "Method of making a chemical-resistant diaphragm thereof",
+  :status :granted,
+  :id "US4111866",
+  :sourcing :authoritative,
+  :filing-year 1977,
+  :assignee :agency-of-industrial-science-and-technology,
+  :grant-year 1978,
+  :cites ["US3929950" "US4049589"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:mitsui-toatsu-chemicals],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US4115338/en",
+  :title "Metallic tone coating composition",
+  :status :granted,
+  :id "US4115338",
+  :sourcing :authoritative,
+  :filing-year 1976,
+  :assignee :mitsui-toatsu-chemicals,
+  :grant-year 1978,
+  :cites
+  ["US2302361"
+   "US2876133"
+   "US3265644"
+   "US3272772"
+   "US3393165"
+   "US3661620"
+   "US3806464"
+   "US3971753"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:ppg-industries],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US4115472/en",
+  :title "Urethane coating compositions",
+  :status :granted,
+  :id "US4115472",
+  :sourcing :authoritative,
+  :filing-year 1977,
+  :assignee :ppg-industries,
+  :grant-year 1978,
+  :cites ["US3317635" "US3538185" "US3702836" "US3751412" "US3888945"],
+  :term-years 20,
+  :open-license :none}
+ {:jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US411596/en",
+  :title "Percolator",
+  :status :granted,
+  :id "US411596",
+  :sourcing :authoritative,
+  :assignee :unassigned,
+  :grant-year 1889,
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:warner-lambert],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US4116638/en",
+  :title "Immunoassay device",
+  :status :granted,
+  :id "US4116638",
+  :sourcing :authoritative,
+  :filing-year 1977,
+  :assignee :warner-lambert,
+  :grant-year 1978,
+  :cites
+  ["US3464798"
+   "US3492396"
+   "US3712465"
+   "US3843444"
+   "US3849830"
+   "US3873682"
+   "US4012200"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:mcdonnell-douglas],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US4118280/en",
+  :title "Automated microbial analyzer",
+  :status :granted,
+  :id "US4118280",
+  :sourcing :authoritative,
+  :filing-year 1976,
+  :assignee :mcdonnell-douglas,
+  :grant-year 1978,
+  :cites
+  ["US2375706"
+   "US2949815"
+   "US3152509"
+   "US3179007"
+   "US3193684"
+   "US3554639"
+   "US3704953"
+   "US3776817"
+   "US3851972"
+   "US3902799"
+   "US3928140"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:calgon],
   :jurisdiction :us,
   :field "UNKNOWN",
   :source "https://patents.google.com/patent/US4118316/en",
@@ -9534,424 +9871,5 @@
    "WO1990015070A1"
    "WO1991006678A1"
    "WO1991007087A1"],
-  :term-years 20,
-  :open-license :none}
- {:jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US598400/en",
-  :title "Apron-board for paper-making machines",
-  :status :granted,
-  :id "US598400",
-  :sourcing :authoritative,
-  :assignee :unassigned,
-  :grant-year 1898,
-  :term-years 20,
-  :open-license :none}
- {:jurisdiction :us,
-  :essentiality 0.3,
-  :field "G06F",
-  :title "Extensible markup language document processing",
-  :status :expired,
-  :id "US6000000A",
-  :sourcing :representative,
-  :filing-year 1996,
-  :assignee :ibm,
-  :grant-year 1999,
-  :term-years 20,
-  :open-license :public-domain}
- {:jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US601317/en",
-  :title "fielden",
-  :status :granted,
-  :id "US601317",
-  :sourcing :authoritative,
-  :assignee :unassigned,
-  :grant-year 1898,
-  :term-years 20,
-  :open-license :none}
- {:jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US602797/en",
-  :title "Frederick george annison",
-  :status :granted,
-  :id "US602797",
-  :sourcing :authoritative,
-  :assignee :unassigned,
-  :grant-year 1898,
-  :term-years 20,
-  :open-license :none}
- {:assignees [:affymetrix],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US6225625/en",
-  :title "Signal detection methods and apparatus",
-  :status :granted,
-  :id "US6225625",
-  :sourcing :authoritative,
-  :filing-year 1995,
-  :assignee :affymetrix,
-  :grant-year 2001,
-  :cites
-  ["EP0063810A1"
-   "EP0171150A2"
-   "EP0173339A2"
-   "EP0185547A2"
-   "EP0225807A2"
-   "EP0232967A2"
-   "EP0235726A2"
-   "EP0237362A1"
-   "EP0281927A2"
-   "EP0328256A1"
-   "EP0337498A2"
-   "EP0392546A2"
-   "FR333561A"
-   "GB2156074A"
-   "US3939350"
-   "US4180739"
-   "US4327073"
-   "US4342905"
-   "US4483920"
-   "US4537861"
-   "US4542102"
-   "US4562157"
-   "US4584277"
-   "US4613566"
-   "US4624915"
-   "US4677054"
-   "US4689405"
-   "US4704353"
-   "US4711955"
-   "US4728591"
-   "US4755458"
-   "US4786170"
-   "US4810869"
-   "US4820630"
-   "US4833092"
-   "US4844617"
-   "US4849513"
-   "US4855225"
-   "US4868103"
-   "US4874500"
-   "US4886741"
-   "US4888278"
-   "US4923901"
-   "US4925785"
-   "US4981783"
-   "US4987065"
-   "US4988617"
-   "US4994373"
-   "US5002867"
-   "US5026840"
-   "US5028525"
-   "US5043265"
-   "US5079600"
-   "US5082830"
-   "US5091652"
-   "US5143854"
-   "US5192980"
-   "US5200051"
-   "US5202231"
-   "US5215882"
-   "US5232829"
-   "US5310893"
-   "US5324633"
-   "US5348855"
-   "US5405783"
-   "US5436327"
-   "US5445934"
-   "US5447841"
-   "US5486452"
-   "US5489507"
-   "US5700637"
-   "US6054270"
-   "WO1984003151A1"
-   "WO1985001051A1"
-   "WO1988004777A1"
-   "WO1989008834A1"
-   "WO1989010977A1"
-   "WO1989011548A1"
-   "WO1990003382A1"
-   "WO1990004652A1"
-   "WO1992010092A1"
-   "WO1993002992A1"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:nippon-paint],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US6541070/en",
-  :title
-  "Method of forming a composite coating film comprising a pigment and resin emulsion",
-  :status :granted,
-  :id "US6541070",
-  :sourcing :authoritative,
-  :filing-year 2001,
-  :assignee :nippon-paint,
-  :grant-year 2003,
-  :cites
-  ["US5322715"
-   "US5635564"
-   "US5700862"
-   "WO1988002381A1"
-   "WO1988002382A1"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:premark-rwp-holdings],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US6610358/en",
-  :title "System and method for two sided sheet treating",
-  :status :granted,
-  :id "US6610358",
-  :sourcing :authoritative,
-  :filing-year 1999,
-  :assignee :premark-rwp-holdings,
-  :grant-year 2003,
-  :cites
-  ["EP0413457A1"
-   "EP0511129A1"
-   "GB1060155A"
-   "GB1115305A"
-   "US1835741"
-   "US2118549"
-   "US2252345"
-   "US2309090"
-   "US2325798"
-   "US2347643"
-   "US2364505"
-   "US2766807"
-   "US3196038"
-   "US3231418"
-   "US3320086"
-   "US3620899"
-   "US3716395"
-   "US3899615"
-   "US3900690"
-   "US3936582"
-   "US3983307"
-   "US4064297"
-   "US4158712"
-   "US4172160"
-   "US4177304"
-   "US4244990"
-   "US4311748"
-   "US4354449"
-   "US4358481"
-   "US4391833"
-   "US4473613"
-   "US4499125"
-   "US4510199"
-   "US4533600"
-   "US4609589"
-   "US4629634"
-   "US4657783"
-   "US4822640"
-   "US4853255"
-   "US4961964"
-   "US5084318"
-   "US5089296"
-   "US5395690"
-   "US5492722"
-   "US5510161"
-   "US5714269"
-   "US5753871"
-   "WO1994012347A1"
-   "WO1997020006A2"],
-  :term-years 20,
-  :open-license :none}
- {:jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US671081/en",
-  :title "Apparatus for making gelatin dynamite.",
-  :status :granted,
-  :id "US671081",
-  :sourcing :authoritative,
-  :filing-year 1900,
-  :assignee :unassigned,
-  :grant-year 1901,
-  :term-years 20,
-  :open-license :none}
- {:assignees [:ralph-w-johnston-&],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US671213/en",
-  :title "Photograph and mount.",
-  :status :granted,
-  :id "US671213",
-  :sourcing :authoritative,
-  :filing-year 1900,
-  :assignee :ralph-w-johnston-&,
-  :grant-year 1901,
-  :term-years 20,
-  :open-license :none}
- {:jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US671417/en",
-  :title "Cigarette-machine.",
-  :status :granted,
-  :id "US671417",
-  :sourcing :authoritative,
-  :filing-year 1900,
-  :assignee :unassigned,
-  :grant-year 1901,
-  :term-years 20,
-  :open-license :none}
- {:jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US676237/en",
-  :title "Glue-applying machine.",
-  :status :granted,
-  :id "US676237",
-  :sourcing :authoritative,
-  :filing-year 1899,
-  :assignee :unassigned,
-  :grant-year 1901,
-  :term-years 20,
-  :open-license :none}
- {:jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US678699/en",
-  :title "Communion-service.",
-  :status :granted,
-  :id "US678699",
-  :sourcing :authoritative,
-  :filing-year 1900,
-  :assignee :unassigned,
-  :grant-year 1901,
-  :term-years 20,
-  :open-license :none}
- {:assignees [:premark-rwp-holdings],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US6896971/en",
-  :title "System and method for two sided sheet treating",
-  :status :granted,
-  :id "US6896971",
-  :sourcing :authoritative,
-  :filing-year 2003,
-  :assignee :premark-rwp-holdings,
-  :grant-year 2005,
-  :cites
-  ["CA2107277A1"
-   "EP0511129A1"
-   "EP0870872A1"
-   "GB1060155A"
-   "US1835741"
-   "US2118549"
-   "US2252345"
-   "US2309090"
-   "US2325798"
-   "US2347643"
-   "US2364505"
-   "US2766807"
-   "US3196038"
-   "US3231418"
-   "US3320086"
-   "US3620899"
-   "US3716395"
-   "US3899615"
-   "US3900690"
-   "US3936582"
-   "US3983307"
-   "US4064297"
-   "US4158712"
-   "US4172160"
-   "US4177304"
-   "US4244990"
-   "US4311748"
-   "US4354449"
-   "US4358481"
-   "US4391833"
-   "US4473613"
-   "US4499125"
-   "US4510199"
-   "US4533600"
-   "US4609589"
-   "US4629634"
-   "US4657783"
-   "US4822640"
-   "US4853255"
-   "US4961964"
-   "US5084318"
-   "US5089296"
-   "US5395690"
-   "US5492722"
-   "US5510161"
-   "US5714269"
-   "US5753871"
-   "US6001490"
-   "US6610358"
-   "WO1994012347A1"],
-  :term-years 20,
-  :open-license :none}
- {:jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US694146/en",
-  :title "Sizing apparatus for paper-machines.",
-  :status :granted,
-  :id "US694146",
-  :sourcing :authoritative,
-  :filing-year 1901,
-  :assignee :unassigned,
-  :grant-year 1902,
-  :term-years 20,
-  :open-license :none}
- {:jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US695041/en",
-  :title "Drying-cylinder.",
-  :status :granted,
-  :id "US695041",
-  :sourcing :authoritative,
-  :assignee :unassigned,
-  :grant-year 1902,
-  :term-years 20,
-  :open-license :none}
- {:jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US695239/en",
-  :title "Machine for preparing paper for stereotype-matrices.",
-  :status :granted,
-  :id "US695239",
-  :sourcing :authoritative,
-  :filing-year 1901,
-  :assignee :unassigned,
-  :grant-year 1902,
-  :term-years 20,
-  :open-license :none}
- {:jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US7226/en",
-  :title "Improved method of dressing cut tobacco",
-  :status :granted,
-  :id "US7226",
-  :sourcing :authoritative,
-  :assignee :unassigned,
-  :grant-year 1850,
-  :term-years 20,
-  :open-license :none}
- {:jurisdiction :us,
-  :essentiality 0.8,
-  :field "H01L",
-  :title "Method of fabricating a FinFET device",
-  :status :granted,
-  :id "US7654321B2",
-  :sourcing :representative,
-  :filing-year 2007,
-  :assignee :tsmc,
-  :grant-year 2010,
-  :term-years 20,
-  :open-license :none}
- {:jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US781659/en",
-  :title "Gumming-machine.",
-  :status :granted,
-  :id "US781659",
-  :sourcing :authoritative,
-  :filing-year 1904,
-  :assignee :unassigned,
-  :grant-year 1905,
   :term-years 20,
   :open-license :none}]

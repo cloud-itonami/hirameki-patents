@@ -1,5 +1,17 @@
 [{:jurisdiction :us,
   :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US1721117/en",
+  :title "Cigarette-manufacturing machinery",
+  :status :granted,
+  :id "US1721117",
+  :sourcing :authoritative,
+  :filing-year 1925,
+  :assignee :unassigned,
+  :grant-year 1929,
+  :term-years 20,
+  :open-license :none}
+ {:jurisdiction :us,
+  :field "UNKNOWN",
   :source "https://patents.google.com/patent/US1722160/en",
   :title "Automatic water-discharge device for oil tanks",
   :status :granted,
@@ -2081,6 +2093,19 @@
   :sourcing :authoritative,
   :filing-year 1936,
   :assignee :fmc,
+  :grant-year 1938,
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:s&s-corrugated-paper-machinery],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2121105/en",
+  :title "Running register",
+  :status :granted,
+  :id "US2121105",
+  :sourcing :authoritative,
+  :filing-year 1936,
+  :assignee :s&s-corrugated-paper-machinery,
   :grant-year 1938,
   :term-years 20,
   :open-license :none}
@@ -4710,6 +4735,19 @@
   :grant-year 1943,
   :term-years 20,
   :open-license :none}
+ {:assignees [:ei-du-pont-de-nemours-and],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2334236/en",
+  :title "Coated cellulosic material",
+  :status :granted,
+  :id "US2334236",
+  :sourcing :authoritative,
+  :filing-year 1940,
+  :assignee :ei-du-pont-de-nemours-and,
+  :grant-year 1943,
+  :term-years 20,
+  :open-license :none}
  {:assignees [:texaco],
   :jurisdiction :us,
   :field "UNKNOWN",
@@ -4862,6 +4900,19 @@
   :sourcing :authoritative,
   :filing-year 1941,
   :assignee :wallace-and-tiernan,
+  :grant-year 1944,
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:ei-du-pont-de-nemours-and],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2342387/en",
+  :title "Process for preparing coating compositions",
+  :status :granted,
+  :id "US2342387",
+  :sourcing :authoritative,
+  :filing-year 1939,
+  :assignee :ei-du-pont-de-nemours-and,
   :grant-year 1944,
   :term-years 20,
   :open-license :none}
@@ -6165,6 +6216,26 @@
   :cites ["US1838358" "US2251296" "US2256853" "US2287161"],
   :term-years 20,
   :open-license :none}
+ {:assignees [:ei-du-pont-de-nemours-and],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2419922/en",
+  :title "Method of producing reinforcing elements",
+  :status :granted,
+  :id "US2419922",
+  :sourcing :authoritative,
+  :filing-year 1943,
+  :assignee :ei-du-pont-de-nemours-and,
+  :grant-year 1947,
+  :cites
+  ["US1729272"
+   "US1747533"
+   "US2098038"
+   "US2129626"
+   "US2188283"
+   "US2220958"],
+  :term-years 20,
+  :open-license :none}
  {:assignees [:patchogue-plymouth-mills],
   :jurisdiction :us,
   :field "UNKNOWN",
@@ -6549,6 +6620,40 @@
   :cites ["US2046378" "US2047226" "US2241321" "US2282827" "US2284896"],
   :term-years 20,
   :open-license :none}
+ {:assignees [:ei-du-pont-de-nemours-and],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2430860/en",
+  :title "Polyamide-formaldehyde reactions and products thereof",
+  :status :granted,
+  :id "US2430860",
+  :sourcing :authoritative,
+  :filing-year 1944,
+  :assignee :ei-du-pont-de-nemours-and,
+  :grant-year 1947,
+  :cites
+  ["US2141169"
+   "US2145242"
+   "US2173005"
+   "US2191957"
+   "US2244184"
+   "US2317181"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:ei-du-pont-de-nemours-and],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2430866/en",
+  :title "Granular n-substituted polyamides",
+  :status :granted,
+  :id "US2430866",
+  :sourcing :authoritative,
+  :filing-year 1944,
+  :assignee :ei-du-pont-de-nemours-and,
+  :grant-year 1947,
+  :cites ["GB542128A" "US2173005" "US2244184"],
+  :term-years 20,
+  :open-license :none}
  {:assignees [:bf-goodrich],
   :jurisdiction :us,
   :field "UNKNOWN",
@@ -6728,6 +6833,20 @@
   :assignee :joe-a-stone,
   :grant-year 1948,
   :cites ["US1813636" "US2318559" "US2360308"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:firestone-tire-and-rubber],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2435464/en",
+  :title "Moistureproof polyvinyl films",
+  :status :granted,
+  :id "US2435464",
+  :sourcing :authoritative,
+  :filing-year 1944,
+  :assignee :firestone-tire-and-rubber,
+  :grant-year 1948,
+  :cites ["GB497001A" "US2034020" "US2098535" "US2147629"],
   :term-years 20,
   :open-license :none}
  {:assignees [:ei-du-pont-de-nemours-and],
@@ -7255,6 +7374,20 @@
   :assignee :ei-du-pont-de-nemours-and,
   :grant-year 1949,
   :cites ["GB546631A"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:ei-du-pont-de-nemours-and],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2462185/en",
+  :title "Moistureproof, heat-sealable wrapping material and process",
+  :status :granted,
+  :id "US2462185",
+  :sourcing :authoritative,
+  :filing-year 1946,
+  :assignee :ei-du-pont-de-nemours-and,
+  :grant-year 1949,
+  :cites ["US2122433" "US2238020" "US2301959" "US2334236" "US2392972"],
   :term-years 20,
   :open-license :none}
  {:assignees [:bakelite],
@@ -7826,6 +7959,20 @@
    "US2403660"],
   :term-years 20,
   :open-license :none}
+ {:assignees [:joseph-bancroft-and-sons],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2504857/en",
+  :title "Art of imparting crease resistance to cotton fabrics",
+  :status :granted,
+  :id "US2504857",
+  :sourcing :authoritative,
+  :filing-year 1949,
+  :assignee :joseph-bancroft-and-sons,
+  :grant-year 1950,
+  :cites ["GB466015A" "US2197357" "US2339203" "US2350139"],
+  :term-years 20,
+  :open-license :none}
  {:assignees [:california-research],
   :jurisdiction :us,
   :field "UNKNOWN",
@@ -8193,6 +8340,26 @@
   :cites ["CA410200A" "US2177757" "US2250662" "US2274447" "US2314308"],
   :term-years 20,
   :open-license :none}
+ {:assignees [:ei-du-pont-de-nemours-and],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2526637/en",
+  :title "Shrinkproofed wool and method of producing same",
+  :status :granted,
+  :id "US2526637",
+  :sourcing :authoritative,
+  :filing-year 1948,
+  :assignee :ei-du-pont-de-nemours-and,
+  :grant-year 1950,
+  :cites
+  ["GB457422A"
+   "US2302332"
+   "US2329622"
+   "US2351120"
+   "US2396963"
+   "US2406958"],
+  :term-years 20,
+  :open-license :none}
  {:assignees [:corning-glass-works],
   :jurisdiction :us,
   :field "UNKNOWN",
@@ -8233,6 +8400,27 @@
    "US2345013"
    "US2348740"
    "US2414125"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:union-carbide-and-carbon],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2530738/en",
+  :title "Method of coating metal surfaces",
+  :status :granted,
+  :id "US2530738",
+  :sourcing :authoritative,
+  :filing-year 1947,
+  :assignee :union-carbide-and-carbon,
+  :grant-year 1950,
+  :cites
+  ["US1904417"
+   "US1912372"
+   "US2245708"
+   "US2270662"
+   "US2279771"
+   "US2427513"
+   "US2431078"],
   :term-years 20,
   :open-license :none}
  {:assignees [:westinghouse-electric],
@@ -9262,208 +9450,5 @@
   :assignee :general-electric,
   :grant-year 1952,
   :cites ["FR743994A" "US2256642" "US2438205" "US2461310" "US2471601"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:baker-oil-tools],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US2591603/en",
-  :title "Plug catcher and indicator",
-  :status :granted,
-  :id "US2591603",
-  :sourcing :authoritative,
-  :filing-year 1946,
-  :assignee :baker-oil-tools,
-  :grant-year 1952,
-  :cites ["US2310483"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:blaw-knox],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US2592914/en",
-  :title
-  "Apparatus for removing the product film from a revolving drum surface",
-  :status :granted,
-  :id "US2592914",
-  :sourcing :authoritative,
-  :filing-year 1947,
-  :assignee :blaw-knox,
-  :grant-year 1952,
-  :cites
-  ["US1812920"
-   "US1853451"
-   "US1880455"
-   "US2070667"
-   "US2082819"
-   "US2117958"
-   "US2141978"
-   "US2352220"
-   "US475535"
-   "US704977"
-   "US927169"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:betex-sales],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US2593207/en",
-  :title
-  "Resin impregnated textile fabrics and process of producing same",
-  :status :granted,
-  :id "US2593207",
-  :sourcing :authoritative,
-  :filing-year 1950,
-  :assignee :betex-sales,
-  :grant-year 1952,
-  :cites
-  ["GB576363A"
-   "US2121105"
-   "US2342387"
-   "US2430860"
-   "US2430866"
-   "US2443450"
-   "US2504857"
-   "US2526637"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:american-viscose],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US2593540/en",
-  :title "Semipermeable membrane",
-  :status :granted,
-  :id "US2593540",
-  :sourcing :authoritative,
-  :filing-year 1945,
-  :assignee :american-viscose,
-  :grant-year 1952,
-  :cites
-  ["US1236460"
-   "US1964039"
-   "US2017797"
-   "US2022490"
-   "US2028776"
-   "US2107805"
-   "US2111808"
-   "US2135349"
-   "US2140341"
-   "US2197805"
-   "US2232153"
-   "US2261240"
-   "US2276210"
-   "US2316274"
-   "US2339885"
-   "US2355822"
-   "US2357767"
-   "US2361000"
-   "US2386381"
-   "US2386826"
-   "US2411239"
-   "US2467436"],
-  :term-years 20,
-  :open-license :none}
- {:jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US2594293/en",
-  :title "Acrylonitrile peotein derivatives",
-  :status :granted,
-  :id "US2594293",
-  :sourcing :authoritative,
-  :assignee :unassigned,
-  :grant-year 1952,
-  :cites ["US2399084" "US2406958" "US2562534"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:shell-development],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US2595852/en",
-  :title
-  "Process for spray drying soluble fusible polymers of unsaturated esters",
-  :status :granted,
-  :id "US2595852",
-  :sourcing :authoritative,
-  :filing-year 1949,
-  :assignee :shell-development,
-  :grant-year 1952,
-  :cites ["GB604544A" "US2273891" "US2280802" "US2370578"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:united-states-rubber],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US2597087/en",
-  :title "Synthetic resin coated paper",
-  :status :granted,
-  :id "US2597087",
-  :sourcing :authoritative,
-  :filing-year 1951,
-  :assignee :united-states-rubber,
-  :grant-year 1952,
-  :term-years 20,
-  :open-license :none}
- {:jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US2597625/en",
-  :title
-  "Process for applying moistureproof coating to regenerated cellulose",
-  :status :granted,
-  :id "US2597625",
-  :sourcing :authoritative,
-  :filing-year 1950,
-  :assignee :unassigned,
-  :grant-year 1952,
-  :cites ["US2334236" "US2392972" "US2435464" "US2462185" "US2530738"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:bf-goodrich],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US2597741/en",
-  :title
-  "Electrical-conductive rubbery composition and method of making same",
-  :status :granted,
-  :id "US2597741",
-  :sourcing :authoritative,
-  :filing-year 1950,
-  :assignee :bf-goodrich,
-  :grant-year 1952,
-  :cites ["GB602677A" "US2377153" "US2455910"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:champion-paper-and-fibre],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US2598733/en",
-  :title "Wiping blade for coating devices",
-  :status :granted,
-  :id "US2598733",
-  :sourcing :authoritative,
-  :filing-year 1949,
-  :assignee :champion-paper-and-fibre,
-  :grant-year 1952,
-  :cites
-  ["US1956561"
-   "US1959027"
-   "US2033379"
-   "US2221441"
-   "US2326283"
-   "US2334102"
-   "US2354033"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:tate-and-lyle-ingredients-americas],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US2599947/en",
-  :title "Paper coating apparatus",
-  :status :granted,
-  :id "US2599947",
-  :sourcing :authoritative,
-  :filing-year 1950,
-  :assignee :tate-and-lyle-ingredients-americas,
-  :grant-year 1952,
-  :cites ["GB136307A" "US1853569" "US2146507" "US2334102" "US781659"],
   :term-years 20,
   :open-license :none}]
