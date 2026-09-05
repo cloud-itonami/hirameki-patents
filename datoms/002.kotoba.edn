@@ -1,4 +1,41 @@
-[[":db/add"
+[[":db/add" "hirameki-patent:JP2004250465A" ":hirameki/derived" true]
+ [":db/add"
+  "hirameki-patent:JP2004250465A"
+  ":hirameki.obs/years-to-expiry"
+  -3]
+ [":db/add"
+  "hirameki-patent:JP2004250465A"
+  ":hirameki/source"
+  "https://patents.google.com/patent/JP2004250465A/en"]
+ [":db/add"
+  "hirameki-patent:JP2004269860A"
+  ":hirameki.patent/title"
+  "Powder coating having water re-dispersion property and method for producing the same"]
+ [":db/add"
+  "hirameki-patent:JP2004269860A"
+  ":hirameki.patent/jurisdiction"
+  ":jp"]
+ [":db/add"
+  "hirameki-patent:JP2004269860A"
+  ":hirameki.patent/field"
+  "UNKNOWN"]
+ [":db/add"
+  "hirameki-patent:JP2004269860A"
+  ":hirameki.patent/assignee"
+  ":kansai-paint"]
+ [":db/add"
+  "hirameki-patent:JP2004269860A"
+  ":hirameki.patent/status"
+  ":pending"]
+ [":db/add"
+  "hirameki-patent:JP2004269860A"
+  ":hirameki.patent/open-license"
+  ":none"]
+ [":db/add"
+  "hirameki-patent:JP2004269860A"
+  ":hirameki.obs/release-status"
+  ":pending"]
+ [":db/add"
   "hirameki-patent:JP2004269860A"
   ":hirameki/sourcing"
   ":authoritative"]
@@ -10197,45 +10234,4 @@
  [":db/add"
   "hirameki-patent:US1933963"
   ":hirameki.patent/assignee"
-  ":champion-coated-paper"]
- [":db/add"
-  "hirameki-patent:US1933963"
-  ":hirameki.patent/status"
-  ":granted"]
- [":db/add"
-  "hirameki-patent:US1933963"
-  ":hirameki.patent/open-license"
-  ":none"]
- [":db/add"
-  "hirameki-patent:US1933963"
-  ":hirameki.obs/release-status"
-  ":public-domain"]
- [":db/add"
-  "hirameki-patent:US1933963"
-  ":hirameki/sourcing"
-  ":authoritative"]
- [":db/add" "hirameki-patent:US1933963" ":hirameki/derived" true]
- [":db/add"
-  "hirameki-patent:US1933963"
-  ":hirameki.obs/years-to-expiry"
-  -75]
- [":db/add"
-  "hirameki-patent:US1933963"
-  ":hirameki/source"
-  "https://patents.google.com/patent/US1933963/en"]
- [":db/add"
-  "hirameki-patent:US1934639"
-  ":hirameki.patent/title"
-  "Alkaline filler"]
- [":db/add"
-  "hirameki-patent:US1934639"
-  ":hirameki.patent/jurisdiction"
-  ":us"]
- [":db/add"
-  "hirameki-patent:US1934639"
-  ":hirameki.patent/field"
-  "UNKNOWN"]
- [":db/add"
-  "hirameki-patent:US1934639"
-  ":hirameki.patent/assignee"
-  ":raffold-process"]]
+  ":champion-coated-paper"]]

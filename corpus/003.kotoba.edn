@@ -1,4 +1,344 @@
-[{:assignees [:american-cyanamid],
+[{:jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3001914/en",
+  :title "Bacterial aerosol analyzer",
+  :status :granted,
+  :id "US3001914",
+  :sourcing :authoritative,
+  :filing-year 1956,
+  :assignee :unassigned,
+  :grant-year 1961,
+  :cites ["GB191100659A" "US2296566" "US2538116" "US991572"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:miles-laboratories],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3001915/en",
+  :title "Diagnostic composition",
+  :status :granted,
+  :id "US3001915",
+  :sourcing :authoritative,
+  :filing-year 1957,
+  :assignee :miles-laboratories,
+  :grant-year 1961,
+  :cites ["US2129754" "US2606102"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:united-states-rubber],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3002869/en",
+  :title "Glass fibre preforms",
+  :status :granted,
+  :id "US3002869",
+  :sourcing :authoritative,
+  :filing-year 1957,
+  :assignee :united-states-rubber,
+  :grant-year 1961,
+  :cites
+  ["CA458647A"
+   "GB590680A"
+   "US2513268"
+   "US2595852"
+   "US2600783"
+   "US2653355"
+   "US2702261"
+   "US2748028"
+   "US2763629"
+   "US2787314"
+   "US2855373"
+   "US2905580"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:texaco],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3004544/en",
+  :title "Continuously measuring slurry density",
+  :status :granted,
+  :id "US3004544",
+  :sourcing :authoritative,
+  :filing-year 1955,
+  :assignee :texaco,
+  :grant-year 1961,
+  :cites
+  ["US1511604"
+   "US2311312"
+   "US2321175"
+   "US2432039"
+   "US2669118"
+   "US2719018"
+   "US2745484"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:time],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3005727/en",
+  :title
+  "Coating compositions and processes for making paper more receptive to ink",
+  :status :granted,
+  :id "US3005727",
+  :sourcing :authoritative,
+  :filing-year 1958,
+  :assignee :time,
+  :grant-year 1961,
+  :cites
+  ["US1934639"
+   "US1934641"
+   "US1934642"
+   "US2697669"
+   "US2786757"
+   "US2879178"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:kitchens-of-sara-lee],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3008837/en",
+  :title "Precooked frozen food package",
+  :status :granted,
+  :id "US3008837",
+  :sourcing :authoritative,
+  :filing-year 1959,
+  :assignee :kitchens-of-sara-lee,
+  :grant-year 1961,
+  :cites
+  ["US2319560"
+   "US2356078"
+   "US2387812"
+   "US2457924"
+   "US2528251"
+   "US2595708"
+   "US2881078"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:miles-laboratories],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3008879/en",
+  :title
+  "Diagnostic composition for the quantitative determination of glucose",
+  :status :granted,
+  :id "US3008879",
+  :sourcing :authoritative,
+  :filing-year 1960,
+  :assignee :miles-laboratories,
+  :grant-year 1961,
+  :cites ["US2893843"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:dow-chemical],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3008920/en",
+  :title
+  "Method of inhibiting homopolymerization in graft copolymers with copper salts",
+  :status :granted,
+  :id "US3008920",
+  :sourcing :authoritative,
+  :filing-year 1959,
+  :assignee :dow-chemical,
+  :grant-year 1961,
+  :cites ["US2837496"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:bayer],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3008927/en",
+  :title
+  "Process for the chloromethylation of aromatic vinyl polymers",
+  :status :granted,
+  :id "US3008927",
+  :sourcing :authoritative,
+  :filing-year 1958,
+  :assignee :bayer,
+  :grant-year 1961,
+  :cites ["US2642417" "US2788330"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:becton-dickinson-and],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3010875/en",
+  :title
+  "Lyophilized syphilis complement fixation antigen and its preparation",
+  :status :granted,
+  :id "US3010875",
+  :sourcing :authoritative,
+  :filing-year 1958,
+  :assignee :becton-dickinson-and,
+  :grant-year 1961,
+  :cites ["US2892755"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:k-and-h-equipment],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3011634/en",
+  :title "Method and apparatus for sorting materials",
+  :status :granted,
+  :id "US3011634",
+  :sourcing :authoritative,
+  :filing-year 1958,
+  :assignee :k-and-h-equipment,
+  :grant-year 1961,
+  :cites
+  ["GB504683A"
+   "US2433685"
+   "US2504731"
+   "US2587686"
+   "US2617526"
+   "US2656923"
+   "US2696297"
+   "US2717693"
+   "US2776747"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:eastman-kodak],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3011890/en",
+  :title "Photographic emulsions",
+  :status :granted,
+  :id "US3011890",
+  :sourcing :authoritative,
+  :filing-year 1958,
+  :assignee :eastman-kodak,
+  :grant-year 1961,
+  :cites ["US2652345" "US2691582" "US2788336" "US2865753"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:technicon-instruments],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3014848/en",
+  :title "Method of performing biological assays",
+  :status :granted,
+  :id "US3014848",
+  :sourcing :authoritative,
+  :filing-year 1958,
+  :assignee :technicon-instruments,
+  :grant-year 1961,
+  :cites ["US2797149" "US668330"],
+  :term-years 20,
+  :open-license :none}
+ {:jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US301598/en",
+  :title "Thony r",
+  :status :granted,
+  :id "US301598",
+  :sourcing :authoritative,
+  :assignee :unassigned,
+  :grant-year 1884,
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:eastman-kodak],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3017270/en",
+  :title "Photographic silver halide diffusion transfer process",
+  :status :granted,
+  :id "US3017270",
+  :sourcing :authoritative,
+  :filing-year 1958,
+  :assignee :eastman-kodak,
+  :grant-year 1962,
+  :cites
+  ["US2197809"
+   "US2271623"
+   "US2275727"
+   "US2289367"
+   "US2699393"
+   "US2725298"
+   "US2848330"
+   "US2886437"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:ekco-alcoa-containers],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3018594/en",
+  :title "Container filling and sealing machines",
+  :status :granted,
+  :id "US3018594",
+  :sourcing :authoritative,
+  :filing-year 1959,
+  :assignee :ekco-alcoa-containers,
+  :grant-year 1962,
+  :cites
+  ["US2551477"
+   "US2645396"
+   "US2744367"
+   "US2744368"
+   "US2765606"
+   "US2825194"
+   "US2879918"
+   "US2910211"
+   "US2934867"
+   "US2934869"
+   "US2972216"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:bb-chemical],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3020169/en",
+  :title "Shoe lining and stiffening materials",
+  :status :granted,
+  :id "US3020169",
+  :sourcing :authoritative,
+  :filing-year 1956,
+  :assignee :bb-chemical,
+  :grant-year 1962,
+  :cites
+  ["GB738751A"
+   "US1391932"
+   "US2009291"
+   "US2062336"
+   "US2135901"
+   "US2267316"
+   "US2314098"
+   "US2344458"
+   "US2384951"
+   "US2569764"
+   "US2596136"
+   "US2618796"
+   "US2619441"
+   "US2669527"
+   "US2784132"
+   "US2840492"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:us-philips],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3020224/en",
+  :title
+  "Method and device for applying electron-emissive coatings to coating-supports of indirectly heated thermionic cathodes of electric discharge tubes",
+  :status :granted,
+  :id "US3020224",
+  :sourcing :authoritative,
+  :filing-year 1958,
+  :assignee :us-philips,
+  :grant-year 1962,
+  :cites
+  ["US2084094"
+   "US2161187"
+   "US2172326"
+   "US2258659"
+   "US2363817"
+   "US2442863"
+   "US2525920"
+   "US2653566"
+   "US2679231"
+   "US2688306"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:american-cyanamid],
   :jurisdiction :us,
   :field "UNKNOWN",
   :source "https://patents.google.com/patent/US3021239/en",
@@ -9147,286 +9487,5 @@
   :filing-year 1967,
   :assignee :amicon,
   :grant-year 1970,
-  :term-years 20,
-  :open-license :none}
- {:assignees [:nippon-electric],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3551221/en",
-  :title "Method of manufacturing a semiconductor integrated circuit",
-  :status :granted,
-  :id "US3551221",
-  :sourcing :authoritative,
-  :filing-year 1968,
-  :assignee :nippon-electric,
-  :grant-year 1970,
-  :term-years 20,
-  :open-license :none}
- {:assignees [:calbiochem],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3551296/en",
-  :title "Reagent and method for assaying malate dehydrogenase",
-  :status :granted,
-  :id "US3551296",
-  :sourcing :authoritative,
-  :filing-year 1968,
-  :assignee :calbiochem,
-  :grant-year 1970,
-  :term-years 20,
-  :open-license :none}
- {:assignees [:organon],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3551555/en",
-  :title
-  "Coated immunochemical reagent particles and process of preparation",
-  :status :granted,
-  :id "US3551555",
-  :sourcing :authoritative,
-  :filing-year 1966,
-  :assignee :organon,
-  :grant-year 1970,
-  :term-years 20,
-  :open-license :none}
- {:assignees [:millipore],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3553067/en",
-  :title "Laminated sheet for evaluating diffusive reactions",
-  :status :granted,
-  :id "US3553067",
-  :sourcing :authoritative,
-  :filing-year 1968,
-  :assignee :millipore,
-  :grant-year 1971,
-  :term-years 20,
-  :open-license :none}
- {:assignees [:purex],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3553143/en",
-  :title "Ammonium hydroxide containing wax stripper",
-  :status :granted,
-  :id "US3553143",
-  :sourcing :authoritative,
-  :filing-year 1967,
-  :assignee :purex,
-  :grant-year 1971,
-  :term-years 20,
-  :open-license :none}
- {:assignees [:miles-laboratories],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3553310/en",
-  :title "Immunologically reactive particles",
-  :status :granted,
-  :id "US3553310",
-  :sourcing :authoritative,
-  :filing-year 1967,
-  :assignee :miles-laboratories,
-  :grant-year 1971,
-  :term-years 20,
-  :open-license :none}
- {:assignees [:sargent-welch-scientific],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3554648/en",
-  :title
-  "Combination teaching aid and modular instrumental analysis system and components therefor",
-  :status :granted,
-  :id "US3554648",
-  :sourcing :authoritative,
-  :filing-year 1967,
-  :assignee :sargent-welch-scientific,
-  :grant-year 1971,
-  :term-years 20,
-  :open-license :none}
- {:assignees [:scientific-industries],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3554700/en",
-  :title
-  "Method for obtaining a known volume of liquid and absorption apparatus therefor",
-  :status :granted,
-  :id "US3554700",
-  :sourcing :authoritative,
-  :filing-year 1968,
-  :assignee :scientific-industries,
-  :grant-year 1971,
-  :term-years 20,
-  :open-license :none}
- {:assignees [:pharmacia],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3555143/en",
-  :title "Method for the determination of proteins and polypeptides",
-  :status :granted,
-  :id "US3555143",
-  :sourcing :authoritative,
-  :filing-year 1967,
-  :assignee :pharmacia,
-  :grant-year 1971,
-  :term-years 20,
-  :open-license :none}
- {:jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3555284/en",
-  :title
-  "Multistation, single channel analytical photometer and method of use",
-  :status :granted,
-  :id "US3555284",
-  :sourcing :authoritative,
-  :filing-year 1968,
-  :assignee :unassigned,
-  :grant-year 1971,
-  :cites ["US2543303" "US2552107" "US3217877" "US3322956" "US3418053"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:trw],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3555451/en",
-  :title "Laser cold cathode apparatus",
-  :status :granted,
-  :id "US3555451",
-  :sourcing :authoritative,
-  :filing-year 1968,
-  :assignee :trw,
-  :grant-year 1971,
-  :term-years 20,
-  :open-license :none}
- {:assignees [:westinghouse-electric],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3558280/en",
-  :title "Solid state oxygen gauge",
-  :status :granted,
-  :id "US3558280",
-  :sourcing :authoritative,
-  :filing-year 1968,
-  :assignee :westinghouse-electric,
-  :grant-year 1971,
-  :term-years 20,
-  :open-license :none}
- {:assignees [:roche-palo-alto],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3558595/en",
-  :title
-  "2&#39;-cyclic esters and 5&#39;-cyclic esters of 3&#39;-deoxy - 3&#39; - dihydroxyphosphinylmethyl - beta - d - ribofuranosylnucleoside derivatives and intermediates therefor",
-  :status :granted,
-  :id "US3558595",
-  :sourcing :authoritative,
-  :filing-year 1969,
-  :assignee :roche-palo-alto,
-  :grant-year 1971,
-  :term-years 20,
-  :open-license :none}
- {:assignees [:exxon-production-research],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3559736/en",
-  :title "Well completion method",
-  :status :granted,
-  :id "US3559736",
-  :sourcing :authoritative,
-  :filing-year 1969,
-  :assignee :exxon-production-research,
-  :grant-year 1971,
-  :term-years 20,
-  :open-license :none}
- {:assignees [:motorola],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3560278/en",
-  :title "Alignment process for fabricating semiconductor devices",
-  :status :granted,
-  :id "US3560278",
-  :sourcing :authoritative,
-  :filing-year 1968,
-  :assignee :motorola,
-  :grant-year 1971,
-  :term-years 20,
-  :open-license :none}
- {:assignees [:international-business-machines],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3560754/en",
-  :title "Photoelectric particle separator using time delay",
-  :status :granted,
-  :id "US3560754",
-  :sourcing :authoritative,
-  :filing-year 1965,
-  :assignee :international-business-machines,
-  :grant-year 1971,
-  :cites ["US2387952" "US2417877" "US3052353" "US3161589" "US3320428"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:organon],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3565987/en",
-  :title "Immunochemical determinations of antigens and antibodies",
-  :status :granted,
-  :id "US3565987",
-  :sourcing :authoritative,
-  :filing-year 1967,
-  :assignee :organon,
-  :grant-year 1971,
-  :term-years 20,
-  :open-license :none}
- {:assignees [:gd-searle],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3565991/en",
-  :title
-  "Methods for use and compositions of 17alpha-ethyl-19-nortestosterone and carriers for the sustained release of steroids",
-  :status :granted,
-  :id "US3565991",
-  :sourcing :authoritative,
-  :filing-year 1968,
-  :assignee :gd-searle,
-  :grant-year 1971,
-  :term-years 20,
-  :open-license :none}
- {:assignees [:engelhard-minerals-and-chemicals],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3567383/en",
-  :title "Hydrogen detectors",
-  :status :granted,
-  :id "US3567383",
-  :sourcing :authoritative,
-  :filing-year 1968,
-  :assignee :engelhard-minerals-and-chemicals,
-  :grant-year 1971,
-  :term-years 20,
-  :open-license :none}
- {:assignees [:buckbee-mears],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3574013/en",
-  :title
-  "Aperture mask for color tv picture tubes and method for making same",
-  :status :granted,
-  :id "US3574013",
-  :sourcing :authoritative,
-  :filing-year 1969,
-  :assignee :buckbee-mears,
-  :grant-year 1971,
-  :term-years 20,
-  :open-license :none}
- {:assignees [:texas-instruments],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3575733/en",
-  :title "Electron beam techniques in integrated circuits",
-  :status :granted,
-  :id "US3575733",
-  :sourcing :authoritative,
-  :filing-year 1968,
-  :assignee :texas-instruments,
-  :grant-year 1971,
   :term-years 20,
   :open-license :none}]

@@ -1,4 +1,174 @@
-[{:assignees [:american-optical],
+[{:assignees [:general-electric],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2510661/en",
+  :title "Loading paper fibers with organopolysiloxane coated clay",
+  :status :granted,
+  :id "US2510661",
+  :sourcing :authoritative,
+  :filing-year 1944,
+  :assignee :general-electric,
+  :grant-year 1950,
+  :cites
+  ["US1424306"
+   "US1989824"
+   "US2059464"
+   "US2109944"
+   "US2118898"
+   "US2258218"
+   "US2296637"
+   "US2306222"
+   "US2347496"
+   "US2394040"
+   "US2412470"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:new-york-and-penr-ylvania-i],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2511415/en",
+  :title "Web coating apparatus",
+  :status :granted,
+  :id "US2511415",
+  :sourcing :authoritative,
+  :filing-year 1945,
+  :assignee :new-york-and-penr-ylvania-i,
+  :grant-year 1950,
+  :cites
+  ["US1328541"
+   "US1658485"
+   "US1980923"
+   "US2139628"
+   "US2146507"
+   "US2159151"
+   "US2176093"
+   "US2225877"
+   "US2229921"
+   "US2252345"
+   "US2356873"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:owens-corning-fiberglas],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2513268/en",
+  :title "Glass fiber-resin composite product",
+  :status :granted,
+  :id "US2513268",
+  :sourcing :authoritative,
+  :filing-year 1944,
+  :assignee :owens-corning-fiberglas,
+  :grant-year 1950,
+  :cites
+  ["US2215048"
+   "US2308495"
+   "US2311613"
+   "US2320536"
+   "US2322310"
+   "US2394642"
+   "US2409633"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:minnesota-and-ontario-paper],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2513394/en",
+  :title "Apparatus for coating paper",
+  :status :granted,
+  :id "US2513394",
+  :sourcing :authoritative,
+  :filing-year 1945,
+  :assignee :minnesota-and-ontario-paper,
+  :grant-year 1950,
+  :cites
+  ["US1202165"
+   "US1212854"
+   "US1556087"
+   "US2064776"
+   "US2105488"
+   "US2263131"
+   "US2277287"
+   "US2287905"
+   "US2312927"
+   "US2316176"
+   "US2355919"
+   "US2369378"
+   "US2398844"
+   "US2406056"
+   "US2406057"
+   "US2416789"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:shell-development],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2513996/en",
+  :title "Reaction of a primary amine with an imine",
+  :status :granted,
+  :id "US2513996",
+  :sourcing :authoritative,
+  :filing-year 1947,
+  :assignee :shell-development,
+  :grant-year 1950,
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:corning-glass-works],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2515940/en",
+  :title "Photosensitive opal glass",
+  :status :granted,
+  :id "US2515940",
+  :sourcing :authoritative,
+  :filing-year 1946,
+  :assignee :corning-glass-works,
+  :grant-year 1950,
+  :cites ["US2049765" "US2144943" "US2237042" "US2326012" "US2422472"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:eastman-kodak],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2518698/en",
+  :title "Chemical sensitization of photographic emulsions",
+  :status :granted,
+  :id "US2518698",
+  :sourcing :authoritative,
+  :filing-year 1948,
+  :assignee :eastman-kodak,
+  :grant-year 1950,
+  :cites ["GB496049A"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:eastman-kodak],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2518739/en",
+  :title "Method of masking photographic color images",
+  :status :granted,
+  :id "US2518739",
+  :sourcing :authoritative,
+  :filing-year 1947,
+  :assignee :eastman-kodak,
+  :grant-year 1950,
+  :cites ["US2193931" "US2306410" "US2339213"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:ei-du-pont-de-nemours-and],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2519550/en",
+  :title "Formaldehyde polymers",
+  :status :granted,
+  :id "US2519550",
+  :sourcing :authoritative,
+  :filing-year 1948,
+  :assignee :ei-du-pont-de-nemours-and,
+  :grant-year 1950,
+  :cites ["US2369504"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:american-optical],
   :jurisdiction :us,
   :field "UNKNOWN",
   :source "https://patents.google.com/patent/US2519997/en",
@@ -2103,6 +2273,26 @@
    "US826781"],
   :term-years 20,
   :open-license :none}
+ {:assignees [:industrial-tape],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2631947/en",
+  :title "Heat sealing adhesive sheets or tapes",
+  :status :granted,
+  :id "US2631947",
+  :sourcing :authoritative,
+  :filing-year 1947,
+  :assignee :industrial-tape,
+  :grant-year 1953,
+  :cites
+  ["US2057042"
+   "US2077125"
+   "US2162769"
+   "US2329456"
+   "US2395257"
+   "US997125"],
+  :term-years 20,
+  :open-license :none}
  {:assignees [:american-cyanamid],
   :jurisdiction :us,
   :field "UNKNOWN",
@@ -2159,6 +2349,20 @@
    "US2518739"],
   :term-years 20,
   :open-license :none}
+ {:assignees [:minnesota-mining-and-manufacturing],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2633430/en",
+  :title "Method of making stretchable unified paper",
+  :status :granted,
+  :id "US2633430",
+  :sourcing :authoritative,
+  :filing-year 1950,
+  :assignee :minnesota-mining-and-manufacturing,
+  :grant-year 1953,
+  :cites ["US1760820" "US1814132" "US2030156" "US2206899" "US2207122"],
+  :term-years 20,
+  :open-license :none}
  {:jurisdiction :us,
   :field "UNKNOWN",
   :source "https://patents.google.com/patent/US2633434/en",
@@ -2194,6 +2398,28 @@
    "US2519728"
    "US2537416"
    "US560561"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:riegel-paper],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2635045/en",
+  :title "Making elastomer containing paper",
+  :status :granted,
+  :id "US2635045",
+  :sourcing :authoritative,
+  :filing-year 1948,
+  :assignee :riegel-paper,
+  :grant-year 1953,
+  :cites
+  ["GB375845A"
+   "GB402982A"
+   "US1773201"
+   "US1799217"
+   "US2041968"
+   "US2215553"
+   "US2330084"
+   "US2474801"],
   :term-years 20,
   :open-license :none}
  {:assignees [:edwin-l-gustus],
@@ -3147,6 +3373,27 @@
   :cites ["DE722746C" "US2425399"],
   :term-years 20,
   :open-license :none}
+ {:assignees [:minnesota-mining-and-manufacturing],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2666699/en",
+  :title "Precipitating size with chromium and aluminum salts",
+  :status :granted,
+  :id "US2666699",
+  :sourcing :authoritative,
+  :filing-year 1947,
+  :assignee :minnesota-mining-and-manufacturing,
+  :grant-year 1954,
+  :cites
+  ["GB190928219A"
+   "US1839996"
+   "US1843943"
+   "US1992589"
+   "US1993277"
+   "US2112517"
+   "US2330084"],
+  :term-years 20,
+  :open-license :none}
  {:assignees [:crown-zellerbach],
   :jurisdiction :us,
   :field "UNKNOWN",
@@ -3277,6 +3524,20 @@
    "US2398844"
    "US2406057"
    "US2560572"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:us-department-of-navy],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2676942/en",
+  :title "Corrosion-resistant coating",
+  :status :granted,
+  :id "US2676942",
+  :sourcing :authoritative,
+  :filing-year 1952,
+  :assignee :us-department-of-navy,
+  :grant-year 1954,
+  :cites ["US2391621"],
   :term-years 20,
   :open-license :none}
  {:jurisdiction :us,
@@ -3452,6 +3713,20 @@
    "US2265920"
    "US2506478"
    "US336773"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:ei-du-pont-de-nemours-and],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2682484/en",
+  :title "Coated fabric and method of making same",
+  :status :granted,
+  :id "US2682484",
+  :sourcing :authoritative,
+  :filing-year 1950,
+  :assignee :ei-du-pont-de-nemours-and,
+  :grant-year 1954,
+  :cites ["GB580729A" "US2188396" "US2201877" "US2431078"],
   :term-years 20,
   :open-license :none}
  {:assignees [:shell-development],
@@ -5091,6 +5366,21 @@
   :cites ["US2049538" "US2433478" "US2452666" "US2542133" "US961741"],
   :term-years 20,
   :open-license :none}
+ {:assignees [:quaker-chemical-products],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2763578/en",
+  :title
+  "Process of finishing cellulosic fabric and product resulting therefrom",
+  :status :granted,
+  :id "US2763578",
+  :sourcing :authoritative,
+  :filing-year 1954,
+  :assignee :quaker-chemical-products,
+  :grant-year 1956,
+  :cites ["US2332896" "US2481388" "US2562853"],
+  :term-years 20,
+  :open-license :none}
  {:assignees [:lof-glass-fibers],
   :jurisdiction :us,
   :field "UNKNOWN",
@@ -5404,6 +5694,32 @@
    "US2398843"
    "US2422345"
    "US2649386"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:armstrong-cork],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2772970/en",
+  :title
+  "Method of making fibrous sheet material containing a synthetic rubber binder",
+  :status :granted,
+  :id "US2772970",
+  :sourcing :authoritative,
+  :filing-year 1952,
+  :assignee :armstrong-cork,
+  :grant-year 1956,
+  :cites
+  ["FR895568A"
+   "GB287538A"
+   "US1567646"
+   "US2315675"
+   "US2474801"
+   "US2563897"
+   "US2601598"
+   "US2613190"
+   "US2632699"
+   "US2635045"
+   "US2657991"],
   :term-years 20,
   :open-license :none}
  {:assignees [:international-standard-electric],
@@ -6362,6 +6678,26 @@
   :assignee :rohm-and-haas,
   :grant-year 1958,
   :cites ["US2204520" "US2430479" "US2615826" "US2694688" "US2702763"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:adhesive-tapes],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2829073/en",
+  :title "Anti-stick coating",
+  :status :granted,
+  :id "US2829073",
+  :sourcing :authoritative,
+  :filing-year 1955,
+  :assignee :adhesive-tapes,
+  :grant-year 1958,
+  :cites
+  ["US2118864"
+   "US2381063"
+   "US2496349"
+   "US2532011"
+   "US2558548"
+   "US2682484"],
   :term-years 20,
   :open-license :none}
  {:assignees [:commw-mental-health-res-founda],
@@ -9718,345 +10054,5 @@
   :filing-year 1960,
   :assignee :unassigned,
   :grant-year 1961,
-  :term-years 20,
-  :open-license :none}
- {:jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3001914/en",
-  :title "Bacterial aerosol analyzer",
-  :status :granted,
-  :id "US3001914",
-  :sourcing :authoritative,
-  :filing-year 1956,
-  :assignee :unassigned,
-  :grant-year 1961,
-  :cites ["GB191100659A" "US2296566" "US2538116" "US991572"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:miles-laboratories],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3001915/en",
-  :title "Diagnostic composition",
-  :status :granted,
-  :id "US3001915",
-  :sourcing :authoritative,
-  :filing-year 1957,
-  :assignee :miles-laboratories,
-  :grant-year 1961,
-  :cites ["US2129754" "US2606102"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:united-states-rubber],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3002869/en",
-  :title "Glass fibre preforms",
-  :status :granted,
-  :id "US3002869",
-  :sourcing :authoritative,
-  :filing-year 1957,
-  :assignee :united-states-rubber,
-  :grant-year 1961,
-  :cites
-  ["CA458647A"
-   "GB590680A"
-   "US2513268"
-   "US2595852"
-   "US2600783"
-   "US2653355"
-   "US2702261"
-   "US2748028"
-   "US2763629"
-   "US2787314"
-   "US2855373"
-   "US2905580"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:texaco],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3004544/en",
-  :title "Continuously measuring slurry density",
-  :status :granted,
-  :id "US3004544",
-  :sourcing :authoritative,
-  :filing-year 1955,
-  :assignee :texaco,
-  :grant-year 1961,
-  :cites
-  ["US1511604"
-   "US2311312"
-   "US2321175"
-   "US2432039"
-   "US2669118"
-   "US2719018"
-   "US2745484"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:time],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3005727/en",
-  :title
-  "Coating compositions and processes for making paper more receptive to ink",
-  :status :granted,
-  :id "US3005727",
-  :sourcing :authoritative,
-  :filing-year 1958,
-  :assignee :time,
-  :grant-year 1961,
-  :cites
-  ["US1934639"
-   "US1934641"
-   "US1934642"
-   "US2697669"
-   "US2786757"
-   "US2879178"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:kitchens-of-sara-lee],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3008837/en",
-  :title "Precooked frozen food package",
-  :status :granted,
-  :id "US3008837",
-  :sourcing :authoritative,
-  :filing-year 1959,
-  :assignee :kitchens-of-sara-lee,
-  :grant-year 1961,
-  :cites
-  ["US2319560"
-   "US2356078"
-   "US2387812"
-   "US2457924"
-   "US2528251"
-   "US2595708"
-   "US2881078"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:miles-laboratories],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3008879/en",
-  :title
-  "Diagnostic composition for the quantitative determination of glucose",
-  :status :granted,
-  :id "US3008879",
-  :sourcing :authoritative,
-  :filing-year 1960,
-  :assignee :miles-laboratories,
-  :grant-year 1961,
-  :cites ["US2893843"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:dow-chemical],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3008920/en",
-  :title
-  "Method of inhibiting homopolymerization in graft copolymers with copper salts",
-  :status :granted,
-  :id "US3008920",
-  :sourcing :authoritative,
-  :filing-year 1959,
-  :assignee :dow-chemical,
-  :grant-year 1961,
-  :cites ["US2837496"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:bayer],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3008927/en",
-  :title
-  "Process for the chloromethylation of aromatic vinyl polymers",
-  :status :granted,
-  :id "US3008927",
-  :sourcing :authoritative,
-  :filing-year 1958,
-  :assignee :bayer,
-  :grant-year 1961,
-  :cites ["US2642417" "US2788330"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:becton-dickinson-and],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3010875/en",
-  :title
-  "Lyophilized syphilis complement fixation antigen and its preparation",
-  :status :granted,
-  :id "US3010875",
-  :sourcing :authoritative,
-  :filing-year 1958,
-  :assignee :becton-dickinson-and,
-  :grant-year 1961,
-  :cites ["US2892755"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:k-and-h-equipment],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3011634/en",
-  :title "Method and apparatus for sorting materials",
-  :status :granted,
-  :id "US3011634",
-  :sourcing :authoritative,
-  :filing-year 1958,
-  :assignee :k-and-h-equipment,
-  :grant-year 1961,
-  :cites
-  ["GB504683A"
-   "US2433685"
-   "US2504731"
-   "US2587686"
-   "US2617526"
-   "US2656923"
-   "US2696297"
-   "US2717693"
-   "US2776747"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:eastman-kodak],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3011890/en",
-  :title "Photographic emulsions",
-  :status :granted,
-  :id "US3011890",
-  :sourcing :authoritative,
-  :filing-year 1958,
-  :assignee :eastman-kodak,
-  :grant-year 1961,
-  :cites ["US2652345" "US2691582" "US2788336" "US2865753"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:technicon-instruments],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3014848/en",
-  :title "Method of performing biological assays",
-  :status :granted,
-  :id "US3014848",
-  :sourcing :authoritative,
-  :filing-year 1958,
-  :assignee :technicon-instruments,
-  :grant-year 1961,
-  :cites ["US2797149" "US668330"],
-  :term-years 20,
-  :open-license :none}
- {:jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US301598/en",
-  :title "Thony r",
-  :status :granted,
-  :id "US301598",
-  :sourcing :authoritative,
-  :assignee :unassigned,
-  :grant-year 1884,
-  :term-years 20,
-  :open-license :none}
- {:assignees [:eastman-kodak],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3017270/en",
-  :title "Photographic silver halide diffusion transfer process",
-  :status :granted,
-  :id "US3017270",
-  :sourcing :authoritative,
-  :filing-year 1958,
-  :assignee :eastman-kodak,
-  :grant-year 1962,
-  :cites
-  ["US2197809"
-   "US2271623"
-   "US2275727"
-   "US2289367"
-   "US2699393"
-   "US2725298"
-   "US2848330"
-   "US2886437"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:ekco-alcoa-containers],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3018594/en",
-  :title "Container filling and sealing machines",
-  :status :granted,
-  :id "US3018594",
-  :sourcing :authoritative,
-  :filing-year 1959,
-  :assignee :ekco-alcoa-containers,
-  :grant-year 1962,
-  :cites
-  ["US2551477"
-   "US2645396"
-   "US2744367"
-   "US2744368"
-   "US2765606"
-   "US2825194"
-   "US2879918"
-   "US2910211"
-   "US2934867"
-   "US2934869"
-   "US2972216"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:bb-chemical],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3020169/en",
-  :title "Shoe lining and stiffening materials",
-  :status :granted,
-  :id "US3020169",
-  :sourcing :authoritative,
-  :filing-year 1956,
-  :assignee :bb-chemical,
-  :grant-year 1962,
-  :cites
-  ["GB738751A"
-   "US1391932"
-   "US2009291"
-   "US2062336"
-   "US2135901"
-   "US2267316"
-   "US2314098"
-   "US2344458"
-   "US2384951"
-   "US2569764"
-   "US2596136"
-   "US2618796"
-   "US2619441"
-   "US2669527"
-   "US2784132"
-   "US2840492"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:us-philips],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3020224/en",
-  :title
-  "Method and device for applying electron-emissive coatings to coating-supports of indirectly heated thermionic cathodes of electric discharge tubes",
-  :status :granted,
-  :id "US3020224",
-  :sourcing :authoritative,
-  :filing-year 1958,
-  :assignee :us-philips,
-  :grant-year 1962,
-  :cites
-  ["US2084094"
-   "US2161187"
-   "US2172326"
-   "US2258659"
-   "US2363817"
-   "US2442863"
-   "US2525920"
-   "US2653566"
-   "US2679231"
-   "US2688306"],
   :term-years 20,
   :open-license :none}]
