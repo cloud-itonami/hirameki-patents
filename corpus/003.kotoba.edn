@@ -1,4 +1,356 @@
-[{:jurisdiction :us,
+[{:assignees [:fairchild-semiconductor],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2981877/en",
+  :title "Semiconductor device-and-lead structure",
+  :status :granted,
+  :id "US2981877",
+  :sourcing :authoritative,
+  :filing-year 1959,
+  :assignee :fairchild-semiconductor,
+  :grant-year 1961,
+  :cites ["US2813326" "US2836878" "US2842723" "US2849664"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:technicon-instruments],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2983184/en",
+  :title "Flow cell for colorimetry of a fluid",
+  :status :granted,
+  :id "US2983184",
+  :sourcing :authoritative,
+  :filing-year 1955,
+  :assignee :technicon-instruments,
+  :grant-year 1961,
+  :cites
+  ["DE724121C"
+   "FR49913E"
+   "FR837918A"
+   "US1900893"
+   "US1931968"
+   "US2288065"
+   "US2467599"
+   "US2549574"
+   "US2649011"
+   "US2686454"
+   "US814036"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:general-electric],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2983822/en",
+  :title "Form recognition method and system therefor",
+  :status :granted,
+  :id "US2983822",
+  :sourcing :authoritative,
+  :filing-year 1957,
+  :assignee :general-electric,
+  :grant-year 1961,
+  :cites ["US2610789" "US2738499" "US2781169"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:phillips-petroleum],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2984988/en",
+  :title "Gas analysis and control",
+  :status :granted,
+  :id "US2984988",
+  :sourcing :authoritative,
+  :filing-year 1956,
+  :assignee :phillips-petroleum,
+  :grant-year 1961,
+  :cites
+  ["US2443427"
+   "US2475957"
+   "US2534657"
+   "US2553469"
+   "US2573341"
+   "US2577617"
+   "US2596785"
+   "US2636904"
+   "US2673297"
+   "US2690989"
+   "US2697789"
+   "US2703844"
+   "US2721942"
+   "US2762208"
+   "US2768306"
+   "US2835116"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:general-electric],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2985545/en",
+  :title
+  "Method of rendering cellulosic material non-adherent and article produced thereby",
+  :status :granted,
+  :id "US2985545",
+  :sourcing :authoritative,
+  :filing-year 1958,
+  :assignee :general-electric,
+  :grant-year 1961,
+  :cites
+  ["US2504388"
+   "US2588367"
+   "US2588393"
+   "US2612482"
+   "US2807601"
+   "US2814601"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:general-electric],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2985546/en",
+  :title
+  "Method of rendering cellulosic material non-adherent and article produced thereby",
+  :status :granted,
+  :id "US2985546",
+  :sourcing :authoritative,
+  :filing-year 1958,
+  :assignee :general-electric,
+  :grant-year 1961,
+  :cites ["US2504388" "US2588367" "US2814601" "US2843555"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:ei-du-pont-de-nemours-and],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2989492/en",
+  :title
+  "Coating composition comprising nitrocellulose, polymer of methyl methacrylate and carbon black",
+  :status :granted,
+  :id "US2989492",
+  :sourcing :authoritative,
+  :filing-year 1959,
+  :assignee :ei-du-pont-de-nemours-and,
+  :grant-year 1961,
+  :cites ["US2117321" "US2292393" "US2860110" "US2907722"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:fmc],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2990388/en",
+  :title "Allylic resin composition and process",
+  :status :granted,
+  :id "US2990388",
+  :sourcing :authoritative,
+  :filing-year 1959,
+  :assignee :fmc,
+  :grant-year 1961,
+  :cites ["US2377095" "US2462331" "US2832758"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:harris-intertype],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2991204/en",
+  :title "Hydrophilic surface",
+  :status :granted,
+  :id "US2991204",
+  :sourcing :authoritative,
+  :filing-year 1957,
+  :assignee :harris-intertype,
+  :grant-year 1961,
+  :cites
+  ["US2258221"
+   "US2397287"
+   "US2537433"
+   "US2601337"
+   "US2645628"
+   "US2649396"
+   "US2716638"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:union-carbide],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2991412/en",
+  :title "Oxygen analyzer",
+  :status :granted,
+  :id "US2991412",
+  :sourcing :authoritative,
+  :filing-year 1958,
+  :assignee :union-carbide,
+  :grant-year 1961,
+  :cites
+  ["US1578666"
+   "US2097077"
+   "US2401287"
+   "US2540674"
+   "US2662211"
+   "US2759038"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:diamond-alkali],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2996426/en",
+  :title "Pesticidal composition",
+  :status :granted,
+  :id "US2996426",
+  :sourcing :authoritative,
+  :filing-year 1958,
+  :assignee :diamond-alkali,
+  :grant-year 1961,
+  :cites
+  ["US2423457"
+   "US2444154"
+   "US2760900"
+   "US2786012"
+   "US2809147"
+   "US2819198"
+   "US2821500"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:ozalid],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2997387/en",
+  :title "Photographic reproduction",
+  :status :granted,
+  :id "US2997387",
+  :sourcing :authoritative,
+  :filing-year 1958,
+  :assignee :ozalid,
+  :grant-year 1961,
+  :cites ["US1846853" "US2875054" "US2901348"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:aseptic-thermo-indicator],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2998306/en",
+  :title "Telltale for ethylene oxide sterilization",
+  :status :granted,
+  :id "US2998306",
+  :sourcing :authoritative,
+  :filing-year 1960,
+  :assignee :aseptic-thermo-indicator,
+  :grant-year 1961,
+  :cites ["DE1031545B" "US1735219"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:us-philips],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2998554/en",
+  :title "Semi-conductor barrier layer system",
+  :status :granted,
+  :id "US2998554",
+  :sourcing :authoritative,
+  :filing-year 1958,
+  :assignee :us-philips,
+  :grant-year 1961,
+  :cites ["US2846625" "US2858356" "US2887629"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:technicon-instruments],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2999417/en",
+  :title "Colorimeter",
+  :status :granted,
+  :id "US2999417",
+  :sourcing :authoritative,
+  :filing-year 1957,
+  :assignee :technicon-instruments,
+  :grant-year 1961,
+  :cites
+  ["DE724121C"
+   "FR837918A"
+   "FR883335A"
+   "US1504770"
+   "US1900893"
+   "US2051317"
+   "US2197190"
+   "US2232169"
+   "US2328461"
+   "US2490345"
+   "US2496333"
+   "US2594113"
+   "US2630735"
+   "US2649011"
+   "US2677987"
+   "US2682801"
+   "US2797149"],
+  :term-years 20,
+  :open-license :none}
+ {:jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2999792/en",
+  :title "Serologic test",
+  :status :granted,
+  :id "US2999792",
+  :sourcing :authoritative,
+  :filing-year 1958,
+  :assignee :unassigned,
+  :grant-year 1961,
+  :cites ["US2669559"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:ei-du-pont-de-nemours-and],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3000757/en",
+  :title
+  "Process for coating substrates with a vapor permeable polymeric coating",
+  :status :granted,
+  :id "US3000757",
+  :sourcing :authoritative,
+  :filing-year 1957,
+  :assignee :ei-du-pont-de-nemours-and,
+  :grant-year 1961,
+  :cites
+  ["GB727321A"
+   "US2692874"
+   "US2721811"
+   "US2826509"
+   "US2837770"
+   "US2848752"
+   "US2930106"],
+  :term-years 20,
+  :open-license :none}
+ {:jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3001348/en",
+  :title
+  "Apparatus for the continuous production of filled containers",
+  :status :granted,
+  :id "US3001348",
+  :sourcing :authoritative,
+  :filing-year 1957,
+  :assignee :unassigned,
+  :grant-year 1961,
+  :cites
+  ["US2106740"
+   "US2134862"
+   "US2347439"
+   "US2492530"
+   "US2530400"
+   "US2702971"
+   "US2738631"
+   "US2793481"],
+  :term-years 20,
+  :open-license :none}
+ {:jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3001539/en",
+  :title "Suction amplifier",
+  :status :granted,
+  :id "US3001539",
+  :sourcing :authoritative,
+  :filing-year 1960,
+  :assignee :unassigned,
+  :grant-year 1961,
+  :term-years 20,
+  :open-license :none}
+ {:jurisdiction :us,
   :field "UNKNOWN",
   :source "https://patents.google.com/patent/US3001914/en",
   :title "Bacterial aerosol analyzer",
@@ -9185,307 +9537,5 @@
    "US3303466"
    "US3305832"
    "US3305835"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:gulf-research-and-development],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3531547/en",
-  :title "Composition,method and article",
-  :status :granted,
-  :id "US3531547",
-  :sourcing :authoritative,
-  :filing-year 1967,
-  :assignee :gulf-research-and-development,
-  :grant-year 1970,
-  :cites ["US2822350" "US2966479" "US3374209" "US3441543" "US3453246"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:jos-schneider-optische-werke],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3532045/en",
-  :title "Method of and means for focusing an optical system",
-  :status :granted,
-  :id "US3532045",
-  :sourcing :authoritative,
-  :filing-year 1968,
-  :assignee :jos-schneider-optische-werke,
-  :grant-year 1970,
-  :term-years 20,
-  :open-license :none}
- {:assignees [:beckman-instruments],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3532470/en",
-  :title "Sample holder with centrifugation means",
-  :status :granted,
-  :id "US3532470",
-  :sourcing :authoritative,
-  :filing-year 1968,
-  :assignee :beckman-instruments,
-  :grant-year 1970,
-  :cites ["US3081029" "US3115460" "US3151073" "US3266298" "US3415627"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:macdermid],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3532518/en",
-  :title
-  "Colloidal metal activating solutions for use in chemically plating nonconductors,and process of preparing such solutions",
-  :status :granted,
-  :id "US3532518",
-  :sourcing :authoritative,
-  :filing-year 1967,
-  :assignee :macdermid,
-  :grant-year 1970,
-  :cites ["US3011920" "US3099608"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:kyowa-hakko-kogyo],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3534017/en",
-  :title
-  "Process for the preparation of nucleoside-5&#39;-diphosphates and triphosphates and mono- and oligo-nucleotidyl-nucleoside-5&#39;-diphosphates and triphosphates",
-  :status :granted,
-  :id "US3534017",
-  :sourcing :authoritative,
-  :filing-year 1968,
-  :assignee :kyowa-hakko-kogyo,
-  :grant-year 1970,
-  :cites ["US3299043" "US3347846" "US3413282"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:international-business-machines],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3535137/en",
-  :title "Method of fabricating etch resistant masks",
-  :status :granted,
-  :id "US3535137",
-  :sourcing :authoritative,
-  :filing-year 1967,
-  :assignee :international-business-machines,
-  :grant-year 1970,
-  :cites ["US2892712" "US2895891" "US2989492" "US3196008"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:ajinomoto],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3535207/en",
-  :title
-  "Method of converting heterocyclic bases into the corresponding nucleosides by bacterial action",
-  :status :granted,
-  :id "US3535207",
-  :sourcing :authoritative,
-  :filing-year 1969,
-  :assignee :ajinomoto,
-  :grant-year 1970,
-  :cites ["US3111459" "US3135666" "US3258408" "US3269917"],
-  :term-years 20,
-  :open-license :none}
- {:jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3536449/en",
-  :title "Serial dilution machine",
-  :status :granted,
-  :id "US3536449",
-  :sourcing :authoritative,
-  :filing-year 1967,
-  :assignee :unassigned,
-  :grant-year 1970,
-  :cites
-  ["US2624656"
-   "US3067016"
-   "US3127062"
-   "US3188181"
-   "US3191813"
-   "US3192968"
-   "US3192969"
-   "US3193359"
-   "US3197285"
-   "US3269800"
-   "US3356462"
-   "US3413097"],
-  :term-years 20,
-  :open-license :none}
- {:jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3536558/en",
-  :title "Fabrication of optical tunnels",
-  :status :granted,
-  :id "US3536558",
-  :sourcing :authoritative,
-  :filing-year 1966,
-  :assignee :unassigned,
-  :grant-year 1970,
-  :cites ["US1888341" "US2604426" "US3170980" "US3347649"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:beckman-instruments],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3537797/en",
-  :title "Control circuit for automatic radiant energy analyzers",
-  :status :granted,
-  :id "US3537797",
-  :sourcing :authoritative,
-  :filing-year 1968,
-  :assignee :beckman-instruments,
-  :grant-year 1970,
-  :cites ["US3257562" "US3304831" "US3431054"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:leland-c-clark-jr],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3539455/en",
-  :title
-  "Membrane polarographic electrode system and method with electrochemical compensation",
-  :status :granted,
-  :id "US3539455",
-  :sourcing :authoritative,
-  :filing-year 1965,
-  :assignee :leland-c-clark-jr,
-  :grant-year 1970,
-  :cites
-  ["US2805191"
-   "US2851654"
-   "US2913386"
-   "US3208926"
-   "US3275534"
-   "US3294652"
-   "US3296113"
-   "US3334039"
-   "US3367849"
-   "US3479255"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:siemens],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3539509/en",
-  :title
-  "Method for electromagnetic removal of iron-oxides from liquids",
-  :status :granted,
-  :id "US3539509",
-  :sourcing :authoritative,
-  :filing-year 1968,
-  :assignee :siemens,
-  :grant-year 1970,
-  :cites ["US2385431" "US2398725" "US2559784" "US2943739"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:international-business-machines],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3541338/en",
-  :title "Positioning system",
-  :status :granted,
-  :id "US3541338",
-  :sourcing :authoritative,
-  :filing-year 1967,
-  :assignee :international-business-machines,
-  :grant-year 1970,
-  :cites
-  ["US2998746"
-   "US3107170"
-   "US3324764"
-   "US3354806"
-   "US3358202"
-   "US3403260"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:trw-semiconductors],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3542551/en",
-  :title "Method of etching patterns into solid state devices",
-  :status :granted,
-  :id "US3542551",
-  :sourcing :authoritative,
-  :filing-year 1968,
-  :assignee :trw-semiconductors,
-  :grant-year 1970,
-  :cites ["US2854336" "US3352726"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:ei-du-pont-de-nemours-and],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3542662/en",
-  :title "Enzyme electrode",
-  :status :granted,
-  :id "US3542662",
-  :sourcing :authoritative,
-  :filing-year 1967,
-  :assignee :ei-du-pont-de-nemours-and,
-  :grant-year 1970,
-  :cites ["CA659059A" "US3296113" "US3328277"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:upjohn],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3545439/en",
-  :title "Medicated devices and methods",
-  :status :granted,
-  :id "US3545439",
-  :sourcing :authoritative,
-  :filing-year 1968,
-  :assignee :upjohn,
-  :grant-year 1970,
-  :term-years 20,
-  :open-license :none}
- {:assignees [:bayer],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3546060/en",
-  :title "Fiber-reinforced foam plastic shaped articles",
-  :status :granted,
-  :id "US3546060",
-  :sourcing :authoritative,
-  :filing-year 1967,
-  :assignee :bayer,
-  :grant-year 1970,
-  :cites
-  ["US2763624"
-   "US3025202"
-   "US3050427"
-   "US3223576"
-   "US3340335"
-   "US3382302"
-   "US3483069"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:us-department-of-health-and-human-services],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3549328/en",
-  :title "Test paper for detector of niacin",
-  :status :granted,
-  :id "US3549328",
-  :sourcing :authoritative,
-  :filing-year 1967,
-  :assignee :us-department-of-health-and-human-services,
-  :grant-year 1970,
-  :cites ["US3409405" "US3411887" "US3434801" "US3453180"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:amicon],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3551204/en",
-  :title
-  "Process and composition for recovering electronic devices from encapsulation in potting compounds",
-  :status :granted,
-  :id "US3551204",
-  :sourcing :authoritative,
-  :filing-year 1967,
-  :assignee :amicon,
-  :grant-year 1970,
   :term-years 20,
   :open-license :none}]

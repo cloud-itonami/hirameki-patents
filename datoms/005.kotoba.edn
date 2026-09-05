@@ -1,4 +1,123 @@
 [[":db/add"
+  "hirameki-patent:US2435239"
+  ":hirameki.patent/jurisdiction"
+  ":us"]
+ [":db/add"
+  "hirameki-patent:US2435239"
+  ":hirameki.patent/field"
+  "UNKNOWN"]
+ [":db/add"
+  "hirameki-patent:US2435239"
+  ":hirameki.patent/assignee"
+  ":joe-a-stone"]
+ [":db/add"
+  "hirameki-patent:US2435239"
+  ":hirameki.patent/status"
+  ":granted"]
+ [":db/add"
+  "hirameki-patent:US2435239"
+  ":hirameki.patent/open-license"
+  ":none"]
+ [":db/add"
+  "hirameki-patent:US2435239"
+  ":hirameki.obs/release-status"
+  ":public-domain"]
+ [":db/add"
+  "hirameki-patent:US2435239"
+  ":hirameki/sourcing"
+  ":authoritative"]
+ [":db/add" "hirameki-patent:US2435239" ":hirameki/derived" true]
+ [":db/add"
+  "hirameki-patent:US2435239"
+  ":hirameki.obs/years-to-expiry"
+  -61]
+ [":db/add"
+  "hirameki-patent:US2435239"
+  ":hirameki/source"
+  "https://patents.google.com/patent/US2435239/en"]
+ [":db/add"
+  "hirameki-patent:US2435464"
+  ":hirameki.patent/title"
+  "Moistureproof polyvinyl films"]
+ [":db/add"
+  "hirameki-patent:US2435464"
+  ":hirameki.patent/jurisdiction"
+  ":us"]
+ [":db/add"
+  "hirameki-patent:US2435464"
+  ":hirameki.patent/field"
+  "UNKNOWN"]
+ [":db/add"
+  "hirameki-patent:US2435464"
+  ":hirameki.patent/assignee"
+  ":firestone-tire-and-rubber"]
+ [":db/add"
+  "hirameki-patent:US2435464"
+  ":hirameki.patent/status"
+  ":granted"]
+ [":db/add"
+  "hirameki-patent:US2435464"
+  ":hirameki.patent/open-license"
+  ":none"]
+ [":db/add"
+  "hirameki-patent:US2435464"
+  ":hirameki.obs/release-status"
+  ":public-domain"]
+ [":db/add"
+  "hirameki-patent:US2435464"
+  ":hirameki/sourcing"
+  ":authoritative"]
+ [":db/add" "hirameki-patent:US2435464" ":hirameki/derived" true]
+ [":db/add"
+  "hirameki-patent:US2435464"
+  ":hirameki.obs/years-to-expiry"
+  -62]
+ [":db/add"
+  "hirameki-patent:US2435464"
+  ":hirameki/source"
+  "https://patents.google.com/patent/US2435464/en"]
+ [":db/add"
+  "hirameki-patent:US2436222"
+  ":hirameki.patent/title"
+  "Adhesive cement compositions"]
+ [":db/add"
+  "hirameki-patent:US2436222"
+  ":hirameki.patent/jurisdiction"
+  ":us"]
+ [":db/add"
+  "hirameki-patent:US2436222"
+  ":hirameki.patent/field"
+  "UNKNOWN"]
+ [":db/add"
+  "hirameki-patent:US2436222"
+  ":hirameki.patent/assignee"
+  ":ei-du-pont-de-nemours-and"]
+ [":db/add"
+  "hirameki-patent:US2436222"
+  ":hirameki.patent/status"
+  ":granted"]
+ [":db/add"
+  "hirameki-patent:US2436222"
+  ":hirameki.patent/open-license"
+  ":none"]
+ [":db/add"
+  "hirameki-patent:US2436222"
+  ":hirameki.obs/release-status"
+  ":public-domain"]
+ [":db/add"
+  "hirameki-patent:US2436222"
+  ":hirameki/sourcing"
+  ":authoritative"]
+ [":db/add" "hirameki-patent:US2436222" ":hirameki/derived" true]
+ [":db/add"
+  "hirameki-patent:US2436222"
+  ":hirameki.obs/years-to-expiry"
+  -63]
+ [":db/add"
+  "hirameki-patent:US2436222"
+  ":hirameki/source"
+  "https://patents.google.com/patent/US2436222/en"]
+ [":db/add"
   "hirameki-patent:US2436252"
   ":hirameki.patent/title"
   "Grinding apparatus and process"]
@@ -896,6 +1015,47 @@
   "hirameki-patent:US245270"
   ":hirameki/source"
   "https://patents.google.com/patent/US245270/en"]
+ [":db/add"
+  "hirameki-patent:US2453052"
+  ":hirameki.patent/title"
+  "Stain resistant plasticized polyvinyl chloride resin coatings"]
+ [":db/add"
+  "hirameki-patent:US2453052"
+  ":hirameki.patent/jurisdiction"
+  ":us"]
+ [":db/add"
+  "hirameki-patent:US2453052"
+  ":hirameki.patent/field"
+  "UNKNOWN"]
+ [":db/add"
+  "hirameki-patent:US2453052"
+  ":hirameki.patent/assignee"
+  ":ei-du-pont-de-nemours-and"]
+ [":db/add"
+  "hirameki-patent:US2453052"
+  ":hirameki.patent/status"
+  ":granted"]
+ [":db/add"
+  "hirameki-patent:US2453052"
+  ":hirameki.patent/open-license"
+  ":none"]
+ [":db/add"
+  "hirameki-patent:US2453052"
+  ":hirameki.obs/release-status"
+  ":public-domain"]
+ [":db/add"
+  "hirameki-patent:US2453052"
+  ":hirameki/sourcing"
+  ":authoritative"]
+ [":db/add" "hirameki-patent:US2453052" ":hirameki/derived" true]
+ [":db/add"
+  "hirameki-patent:US2453052"
+  ":hirameki.obs/years-to-expiry"
+  -60]
+ [":db/add"
+  "hirameki-patent:US2453052"
+  ":hirameki/source"
+  "https://patents.google.com/patent/US2453052/en"]
  [":db/add"
   "hirameki-patent:US2454584"
   ":hirameki.patent/title"
@@ -2372,6 +2532,47 @@
   "hirameki-patent:US2494848"
   ":hirameki/source"
   "https://patents.google.com/patent/US2494848/en"]
+ [":db/add"
+  "hirameki-patent:US2494920"
+  ":hirameki.patent/title"
+  "Method of coating with organopolysiloxanes"]
+ [":db/add"
+  "hirameki-patent:US2494920"
+  ":hirameki.patent/jurisdiction"
+  ":us"]
+ [":db/add"
+  "hirameki-patent:US2494920"
+  ":hirameki.patent/field"
+  "UNKNOWN"]
+ [":db/add"
+  "hirameki-patent:US2494920"
+  ":hirameki.patent/assignee"
+  ":corning-glass-works"]
+ [":db/add"
+  "hirameki-patent:US2494920"
+  ":hirameki.patent/status"
+  ":granted"]
+ [":db/add"
+  "hirameki-patent:US2494920"
+  ":hirameki.patent/open-license"
+  ":none"]
+ [":db/add"
+  "hirameki-patent:US2494920"
+  ":hirameki.obs/release-status"
+  ":public-domain"]
+ [":db/add"
+  "hirameki-patent:US2494920"
+  ":hirameki/sourcing"
+  ":authoritative"]
+ [":db/add" "hirameki-patent:US2494920" ":hirameki/derived" true]
+ [":db/add"
+  "hirameki-patent:US2494920"
+  ":hirameki.obs/years-to-expiry"
+  -61]
+ [":db/add"
+  "hirameki-patent:US2494920"
+  ":hirameki/source"
+  "https://patents.google.com/patent/US2494920/en"]
  [":db/add"
   "hirameki-patent:US2495244"
   ":hirameki.patent/title"
@@ -5407,6 +5608,47 @@
   ":hirameki/source"
   "https://patents.google.com/patent/US2567445/en"]
  [":db/add"
+  "hirameki-patent:US2567719"
+  ":hirameki.patent/title"
+  "Suspension of vinyl chloride polymer in polymerizable liquid"]
+ [":db/add"
+  "hirameki-patent:US2567719"
+  ":hirameki.patent/jurisdiction"
+  ":us"]
+ [":db/add"
+  "hirameki-patent:US2567719"
+  ":hirameki.patent/field"
+  "UNKNOWN"]
+ [":db/add"
+  "hirameki-patent:US2567719"
+  ":hirameki.patent/assignee"
+  ":general-electric"]
+ [":db/add"
+  "hirameki-patent:US2567719"
+  ":hirameki.patent/status"
+  ":granted"]
+ [":db/add"
+  "hirameki-patent:US2567719"
+  ":hirameki.patent/open-license"
+  ":none"]
+ [":db/add"
+  "hirameki-patent:US2567719"
+  ":hirameki.obs/release-status"
+  ":public-domain"]
+ [":db/add"
+  "hirameki-patent:US2567719"
+  ":hirameki/sourcing"
+  ":authoritative"]
+ [":db/add" "hirameki-patent:US2567719" ":hirameki/derived" true]
+ [":db/add"
+  "hirameki-patent:US2567719"
+  ":hirameki.obs/years-to-expiry"
+  -58]
+ [":db/add"
+  "hirameki-patent:US2567719"
+  ":hirameki/source"
+  "https://patents.google.com/patent/US2567719/en"]
+ [":db/add"
   "hirameki-patent:US2568658"
   ":hirameki.patent/title"
   "Method of polymerizing polyunsaturated esters"]
@@ -5570,6 +5812,40 @@
   "hirameki-patent:US2570478"
   ":hirameki/source"
   "https://patents.google.com/patent/US2570478/en"]
+ [":db/add" "hirameki-patent:US2571039" ":hirameki.patent/title" ""]
+ [":db/add"
+  "hirameki-patent:US2571039"
+  ":hirameki.patent/jurisdiction"
+  ":us"]
+ [":db/add"
+  "hirameki-patent:US2571039"
+  ":hirameki.patent/field"
+  "UNKNOWN"]
+ [":db/add"
+  "hirameki-patent:US2571039"
+  ":hirameki.patent/assignee"
+  ":unassigned"]
+ [":db/add"
+  "hirameki-patent:US2571039"
+  ":hirameki.patent/status"
+  ":granted"]
+ [":db/add"
+  "hirameki-patent:US2571039"
+  ":hirameki.patent/open-license"
+  ":none"]
+ [":db/add"
+  "hirameki-patent:US2571039"
+  ":hirameki.obs/release-status"
+  ":in-force"]
+ [":db/add"
+  "hirameki-patent:US2571039"
+  ":hirameki/sourcing"
+  ":authoritative"]
+ [":db/add" "hirameki-patent:US2571039" ":hirameki/derived" true]
+ [":db/add"
+  "hirameki-patent:US2571039"
+  ":hirameki/source"
+  "https://patents.google.com/patent/US2571039/en"]
  [":db/add"
   "hirameki-patent:US2571171"
   ":hirameki.patent/title"
@@ -5734,6 +6010,47 @@
   "hirameki-patent:US2571725"
   ":hirameki/source"
   "https://patents.google.com/patent/US2571725/en"]
+ [":db/add"
+  "hirameki-patent:US2571962"
+  ":hirameki.patent/title"
+  "Process for the decorative printing of polyvinyl chloride sheets"]
+ [":db/add"
+  "hirameki-patent:US2571962"
+  ":hirameki.patent/jurisdiction"
+  ":us"]
+ [":db/add"
+  "hirameki-patent:US2571962"
+  ":hirameki.patent/field"
+  "UNKNOWN"]
+ [":db/add"
+  "hirameki-patent:US2571962"
+  ":hirameki.patent/assignee"
+  ":decora"]
+ [":db/add"
+  "hirameki-patent:US2571962"
+  ":hirameki.patent/status"
+  ":granted"]
+ [":db/add"
+  "hirameki-patent:US2571962"
+  ":hirameki.patent/open-license"
+  ":none"]
+ [":db/add"
+  "hirameki-patent:US2571962"
+  ":hirameki.obs/release-status"
+  ":public-domain"]
+ [":db/add"
+  "hirameki-patent:US2571962"
+  ":hirameki/sourcing"
+  ":authoritative"]
+ [":db/add" "hirameki-patent:US2571962" ":hirameki/derived" true]
+ [":db/add"
+  "hirameki-patent:US2571962"
+  ":hirameki.obs/years-to-expiry"
+  -59]
+ [":db/add"
+  "hirameki-patent:US2571962"
+  ":hirameki/source"
+  "https://patents.google.com/patent/US2571962/en"]
  [":db/add"
   "hirameki-patent:US2575467"
   ":hirameki.patent/title"
@@ -7530,6 +7847,47 @@
   "hirameki-patent:US2613572"
   ":hirameki/source"
   "https://patents.google.com/patent/US2613572/en"]
+ [":db/add"
+  "hirameki-patent:US2615861"
+  ":hirameki.patent/title"
+  "Reacting methyl triacetoxy silane with polysiloxane resin"]
+ [":db/add"
+  "hirameki-patent:US2615861"
+  ":hirameki.patent/jurisdiction"
+  ":us"]
+ [":db/add"
+  "hirameki-patent:US2615861"
+  ":hirameki.patent/field"
+  "UNKNOWN"]
+ [":db/add"
+  "hirameki-patent:US2615861"
+  ":hirameki.patent/assignee"
+  ":rhone-poulenc"]
+ [":db/add"
+  "hirameki-patent:US2615861"
+  ":hirameki.patent/status"
+  ":granted"]
+ [":db/add"
+  "hirameki-patent:US2615861"
+  ":hirameki.patent/open-license"
+  ":none"]
+ [":db/add"
+  "hirameki-patent:US2615861"
+  ":hirameki.obs/release-status"
+  ":public-domain"]
+ [":db/add"
+  "hirameki-patent:US2615861"
+  ":hirameki/sourcing"
+  ":authoritative"]
+ [":db/add" "hirameki-patent:US2615861" ":hirameki/derived" true]
+ [":db/add"
+  "hirameki-patent:US2615861"
+  ":hirameki.obs/years-to-expiry"
+  -58]
+ [":db/add"
+  "hirameki-patent:US2615861"
+  ":hirameki/source"
+  "https://patents.google.com/patent/US2615861/en"]
  [":db/add"
   "hirameki-patent:US2616950"
   ":hirameki.patent/title"
@@ -9972,361 +10330,4 @@
  [":db/add"
   "hirameki-patent:US2659700"
   ":hirameki.obs/release-status"
-  ":public-domain"]
- [":db/add"
-  "hirameki-patent:US2659700"
-  ":hirameki/sourcing"
-  ":authoritative"]
- [":db/add" "hirameki-patent:US2659700" ":hirameki/derived" true]
- [":db/add"
-  "hirameki-patent:US2659700"
-  ":hirameki.obs/years-to-expiry"
-  -54]
- [":db/add"
-  "hirameki-patent:US2659700"
-  ":hirameki/source"
-  "https://patents.google.com/patent/US2659700/en"]
- [":db/add"
-  "hirameki-patent:US2660177"
-  ":hirameki.patent/title"
-  "Automatic tobacco feeding cigarette machine"]
- [":db/add"
-  "hirameki-patent:US2660177"
-  ":hirameki.patent/jurisdiction"
-  ":us"]
- [":db/add"
-  "hirameki-patent:US2660177"
-  ":hirameki.patent/field"
-  "UNKNOWN"]
- [":db/add"
-  "hirameki-patent:US2660177"
-  ":hirameki.patent/assignee"
-  ":usines-deeoufle"]
- [":db/add"
-  "hirameki-patent:US2660177"
-  ":hirameki.patent/status"
-  ":granted"]
- [":db/add"
-  "hirameki-patent:US2660177"
-  ":hirameki.patent/open-license"
-  ":none"]
- [":db/add"
-  "hirameki-patent:US2660177"
-  ":hirameki.obs/release-status"
-  ":public-domain"]
- [":db/add"
-  "hirameki-patent:US2660177"
-  ":hirameki/sourcing"
-  ":authoritative"]
- [":db/add" "hirameki-patent:US2660177" ":hirameki/derived" true]
- [":db/add"
-  "hirameki-patent:US2660177"
-  ":hirameki.obs/years-to-expiry"
-  -54]
- [":db/add"
-  "hirameki-patent:US2660177"
-  ":hirameki/source"
-  "https://patents.google.com/patent/US2660177/en"]
- [":db/add"
-  "hirameki-patent:US2660178"
-  ":hirameki.patent/title"
-  "Formation of the roll of tobacco in cigarette-making machines"]
- [":db/add"
-  "hirameki-patent:US2660178"
-  ":hirameki.patent/jurisdiction"
-  ":us"]
- [":db/add"
-  "hirameki-patent:US2660178"
-  ":hirameki.patent/field"
-  "UNKNOWN"]
- [":db/add"
-  "hirameki-patent:US2660178"
-  ":hirameki.patent/assignee"
-  ":usines-decoufle"]
- [":db/add"
-  "hirameki-patent:US2660178"
-  ":hirameki.patent/status"
-  ":granted"]
- [":db/add"
-  "hirameki-patent:US2660178"
-  ":hirameki.patent/open-license"
-  ":none"]
- [":db/add"
-  "hirameki-patent:US2660178"
-  ":hirameki.obs/release-status"
-  ":public-domain"]
- [":db/add"
-  "hirameki-patent:US2660178"
-  ":hirameki/sourcing"
-  ":authoritative"]
- [":db/add" "hirameki-patent:US2660178" ":hirameki/derived" true]
- [":db/add"
-  "hirameki-patent:US2660178"
-  ":hirameki.obs/years-to-expiry"
-  -57]
- [":db/add"
-  "hirameki-patent:US2660178"
-  ":hirameki/source"
-  "https://patents.google.com/patent/US2660178/en"]
- [":db/add"
-  "hirameki-patent:US2660342"
-  ":hirameki.patent/title"
-  "Burette with variable capacity"]
- [":db/add"
-  "hirameki-patent:US2660342"
-  ":hirameki.patent/jurisdiction"
-  ":us"]
- [":db/add"
-  "hirameki-patent:US2660342"
-  ":hirameki.patent/field"
-  "UNKNOWN"]
- [":db/add"
-  "hirameki-patent:US2660342"
-  ":hirameki.patent/assignee"
-  ":unassigned"]
- [":db/add"
-  "hirameki-patent:US2660342"
-  ":hirameki.patent/status"
-  ":granted"]
- [":db/add"
-  "hirameki-patent:US2660342"
-  ":hirameki.patent/open-license"
-  ":none"]
- [":db/add"
-  "hirameki-patent:US2660342"
-  ":hirameki.obs/release-status"
-  ":public-domain"]
- [":db/add"
-  "hirameki-patent:US2660342"
-  ":hirameki/sourcing"
-  ":authoritative"]
- [":db/add" "hirameki-patent:US2660342" ":hirameki/derived" true]
- [":db/add"
-  "hirameki-patent:US2660342"
-  ":hirameki.obs/years-to-expiry"
-  -57]
- [":db/add"
-  "hirameki-patent:US2660342"
-  ":hirameki/source"
-  "https://patents.google.com/patent/US2660342/en"]
- [":db/add"
-  "hirameki-patent:US2661308"
-  ":hirameki.patent/title"
-  "Process of coating paper and product resulting therefrom"]
- [":db/add"
-  "hirameki-patent:US2661308"
-  ":hirameki.patent/jurisdiction"
-  ":us"]
- [":db/add"
-  "hirameki-patent:US2661308"
-  ":hirameki.patent/field"
-  "UNKNOWN"]
- [":db/add"
-  "hirameki-patent:US2661308"
-  ":hirameki.patent/assignee"
-  ":hercules-powder"]
- [":db/add"
-  "hirameki-patent:US2661308"
-  ":hirameki.patent/status"
-  ":granted"]
- [":db/add"
-  "hirameki-patent:US2661308"
-  ":hirameki.patent/open-license"
-  ":none"]
- [":db/add"
-  "hirameki-patent:US2661308"
-  ":hirameki.obs/release-status"
-  ":public-domain"]
- [":db/add"
-  "hirameki-patent:US2661308"
-  ":hirameki/sourcing"
-  ":authoritative"]
- [":db/add" "hirameki-patent:US2661308" ":hirameki/derived" true]
- [":db/add"
-  "hirameki-patent:US2661308"
-  ":hirameki.obs/years-to-expiry"
-  -58]
- [":db/add"
-  "hirameki-patent:US2661308"
-  ":hirameki/source"
-  "https://patents.google.com/patent/US2661308/en"]
- [":db/add"
-  "hirameki-patent:US2661309"
-  ":hirameki.patent/title"
-  "Coated paper and method of producing same"]
- [":db/add"
-  "hirameki-patent:US2661309"
-  ":hirameki.patent/jurisdiction"
-  ":us"]
- [":db/add"
-  "hirameki-patent:US2661309"
-  ":hirameki.patent/field"
-  "UNKNOWN"]
- [":db/add"
-  "hirameki-patent:US2661309"
-  ":hirameki.patent/assignee"
-  ":hercules-powder"]
- [":db/add"
-  "hirameki-patent:US2661309"
-  ":hirameki.patent/status"
-  ":granted"]
- [":db/add"
-  "hirameki-patent:US2661309"
-  ":hirameki.patent/open-license"
-  ":none"]
- [":db/add"
-  "hirameki-patent:US2661309"
-  ":hirameki.obs/release-status"
-  ":public-domain"]
- [":db/add"
-  "hirameki-patent:US2661309"
-  ":hirameki/sourcing"
-  ":authoritative"]
- [":db/add" "hirameki-patent:US2661309" ":hirameki/derived" true]
- [":db/add"
-  "hirameki-patent:US2661309"
-  ":hirameki.obs/years-to-expiry"
-  -58]
- [":db/add"
-  "hirameki-patent:US2661309"
-  ":hirameki/source"
-  "https://patents.google.com/patent/US2661309/en"]
- [":db/add"
-  "hirameki-patent:US2661902"
-  ":hirameki.patent/title"
-  "Apparatus for counting microscopic particles"]
- [":db/add"
-  "hirameki-patent:US2661902"
-  ":hirameki.patent/jurisdiction"
-  ":us"]
- [":db/add"
-  "hirameki-patent:US2661902"
-  ":hirameki.patent/field"
-  "UNKNOWN"]
- [":db/add"
-  "hirameki-patent:US2661902"
-  ":hirameki.patent/assignee"
-  ":nat-res-dev"]
- [":db/add"
-  "hirameki-patent:US2661902"
-  ":hirameki.patent/status"
-  ":granted"]
- [":db/add"
-  "hirameki-patent:US2661902"
-  ":hirameki.patent/open-license"
-  ":none"]
- [":db/add"
-  "hirameki-patent:US2661902"
-  ":hirameki.obs/release-status"
-  ":public-domain"]
- [":db/add"
-  "hirameki-patent:US2661902"
-  ":hirameki/sourcing"
-  ":authoritative"]
- [":db/add" "hirameki-patent:US2661902" ":hirameki/derived" true]
- [":db/add"
-  "hirameki-patent:US2661902"
-  ":hirameki.obs/years-to-expiry"
-  -55]
- [":db/add"
-  "hirameki-patent:US2661902"
-  ":hirameki/source"
-  "https://patents.google.com/patent/US2661902/en"]
- [":db/add"
-  "hirameki-patent:US2662837"
-  ":hirameki.patent/title"
-  "Composition and method for removing hardened silicone resin glazes from metal surfaces"]
- [":db/add"
-  "hirameki-patent:US2662837"
-  ":hirameki.patent/jurisdiction"
-  ":us"]
- [":db/add"
-  "hirameki-patent:US2662837"
-  ":hirameki.patent/field"
-  "UNKNOWN"]
- [":db/add"
-  "hirameki-patent:US2662837"
-  ":hirameki.patent/assignee"
-  ":detrex"]
- [":db/add"
-  "hirameki-patent:US2662837"
-  ":hirameki.patent/status"
-  ":granted"]
- [":db/add"
-  "hirameki-patent:US2662837"
-  ":hirameki.patent/open-license"
-  ":none"]
- [":db/add"
-  "hirameki-patent:US2662837"
-  ":hirameki.obs/release-status"
-  ":public-domain"]
- [":db/add"
-  "hirameki-patent:US2662837"
-  ":hirameki/sourcing"
-  ":authoritative"]
- [":db/add" "hirameki-patent:US2662837" ":hirameki/derived" true]
- [":db/add"
-  "hirameki-patent:US2662837"
-  ":hirameki.obs/years-to-expiry"
-  -57]
- [":db/add"
-  "hirameki-patent:US2662837"
-  ":hirameki/source"
-  "https://patents.google.com/patent/US2662837/en"]
- [":db/add"
-  "hirameki-patent:US2663636"
-  ":hirameki.patent/title"
-  "Electrophotographic plate and method of producing same"]
- [":db/add"
-  "hirameki-patent:US2663636"
-  ":hirameki.patent/jurisdiction"
-  ":us"]
- [":db/add"
-  "hirameki-patent:US2663636"
-  ":hirameki.patent/field"
-  "UNKNOWN"]
- [":db/add"
-  "hirameki-patent:US2663636"
-  ":hirameki.patent/assignee"
-  ":xerox"]
- [":db/add"
-  "hirameki-patent:US2663636"
-  ":hirameki.patent/status"
-  ":granted"]
- [":db/add"
-  "hirameki-patent:US2663636"
-  ":hirameki.patent/open-license"
-  ":none"]
- [":db/add"
-  "hirameki-patent:US2663636"
-  ":hirameki.obs/release-status"
-  ":public-domain"]
- [":db/add"
-  "hirameki-patent:US2663636"
-  ":hirameki/sourcing"
-  ":authoritative"]
- [":db/add" "hirameki-patent:US2663636" ":hirameki/derived" true]
- [":db/add"
-  "hirameki-patent:US2663636"
-  ":hirameki.obs/years-to-expiry"
-  -57]
- [":db/add"
-  "hirameki-patent:US2663636"
-  ":hirameki/source"
-  "https://patents.google.com/patent/US2663636/en"]
- [":db/add"
-  "hirameki-patent:US2665450"
-  ":hirameki.patent/title"
-  "Method and apparatus for continuous production of absorbing material"]
- [":db/add"
-  "hirameki-patent:US2665450"
-  ":hirameki.patent/jurisdiction"
-  ":us"]
- [":db/add"
-  "hirameki-patent:US2665450"
-  ":hirameki.patent/field"
-  "UNKNOWN"]
- [":db/add"
-  "hirameki-patent:US2665450"
-  ":hirameki.patent/assignee"
-  ":celloplast"]]
+  ":public-domain"]]

@@ -1,4 +1,350 @@
-[{:assignees [:university-of-nebraska-system],
+[{:assignees [:integrated-genetics],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US4689295/en",
+  :title "Test for Salmonella",
+  :status :granted,
+  :id "US4689295",
+  :sourcing :authoritative,
+  :filing-year 1983,
+  :assignee :integrated-genetics,
+  :grant-year 1987,
+  :cites ["US4139346" "US4302204" "US4358535" "US4359535" "US4486539"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:helmholtz-zentrum-fuer-infektionsforschung-hzi],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US4689405/en",
+  :title
+  "Process for the simultaneous synthesis of several oligonucleotides on a solid phase",
+  :status :granted,
+  :id "US4689405",
+  :sourcing :authoritative,
+  :filing-year 1984,
+  :assignee :helmholtz-zentrum-fuer-infektionsforschung-hzi,
+  :grant-year 1987,
+  :cites
+  ["US3280104"
+   "US4373071"
+   "US4401796"
+   "US4404368"
+   "US4458066"
+   "US4500707"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:ciba-geigy],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US4691015/en",
+  :title "Hydroxylamines derived from hindered amines",
+  :status :granted,
+  :id "US4691015",
+  :sourcing :authoritative,
+  :filing-year 1985,
+  :assignee :ciba-geigy,
+  :grant-year 1987,
+  :cites
+  ["CH577011A5"
+   "GB1316341A"
+   "US3640928"
+   "US3644278"
+   "US3853890"
+   "US3936456"
+   "US3941744"
+   "US3994857"
+   "US4055536"
+   "US4064102"
+   "US4102858"
+   "US4104248"
+   "US4108829"
+   "US4198334"
+   "US4239891"
+   "US4292240"
+   "US4369274"
+   "US4396735"
+   "US4404302"
+   "US4472547"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:fuji-photo-film],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US4698308/en",
+  :title
+  "Device for measuring the number of bacteria in superpure water",
+  :status :granted,
+  :id "US4698308",
+  :sourcing :authoritative,
+  :filing-year 1986,
+  :assignee :fuji-photo-film,
+  :grant-year 1987,
+  :cites
+  ["US3912929"
+   "US3916197"
+   "US4283490"
+   "US4467032"
+   "US4563331"
+   "US4603256"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:university-of-california-san-diego-ucsd],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US4699877/en",
+  :title "Methods and compositions for detecting human tumors",
+  :status :granted,
+  :id "US4699877",
+  :sourcing :authoritative,
+  :filing-year 1984,
+  :assignee :university-of-california-san-diego-ucsd,
+  :grant-year 1987,
+  :cites
+  ["GB2034323A"
+   "US4331647"
+   "US4348376"
+   "US4358535"
+   "US4361544"
+   "US4535058"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:ciba-geigy],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US4703073/en",
+  :title
+  "Alkylated N,N-dibenzylhydroxylamines and polyolefin compositions stabilized therewith",
+  :status :granted,
+  :id "US4703073",
+  :sourcing :authoritative,
+  :filing-year 1986,
+  :assignee :ciba-geigy,
+  :grant-year 1987,
+  :cites
+  ["DE2160170A1"
+   "US3148225"
+   "US3219701"
+   "US3408422"
+   "US3432578"
+   "US3644278"
+   "US3778464"
+   "US3867445"
+   "US3926909"
+   "US4242224"
+   "US4316996"
+   "US4386224"
+   "US4547532"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:pharmacia],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US4707235/en",
+  :title
+  "Electrophoresis method and apparatus having continuous detection means",
+  :status :granted,
+  :id "US4707235",
+  :sourcing :authoritative,
+  :filing-year 1985,
+  :assignee :pharmacia,
+  :grant-year 1987,
+  :cites
+  ["US2502683"
+   "US3432414"
+   "US3969218"
+   "US4019057"
+   "US4035377"
+   "US4198389"
+   "US4207166"
+   "US4305799"
+   "US4311908"
+   "US4456513"
+   "US4534647"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:pfizer],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US4709044/en",
+  :title "Biotin intermediates",
+  :status :granted,
+  :id "US4709044",
+  :sourcing :authoritative,
+  :filing-year 1984,
+  :assignee :pfizer,
+  :grant-year 1987,
+  :cites ["GB1419927A" "US3960884"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:yale-university],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US4710465/en",
+  :title "Junction-fragment DNA probes and probe clusters",
+  :status :granted,
+  :id "US4710465",
+  :sourcing :authoritative,
+  :filing-year 1984,
+  :assignee :yale-university,
+  :grant-year 1987,
+  :cites ["US4394443" "US4395486" "US4528266" "US4530901"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:yale-university],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US4711955/en",
+  :title
+  "Modified nucleotides and methods of preparing and using same",
+  :status :granted,
+  :id "US4711955",
+  :sourcing :authoritative,
+  :filing-year 1983,
+  :assignee :yale-university,
+  :grant-year 1987,
+  :cites
+  ["DE2618419A1"
+   "DE2618511A1"
+   "DE3045375A1"
+   "EP0070685A2"
+   "EP0070687B1"
+   "GB1548741A"
+   "GB1552607A"
+   "GB2019408A"
+   "GB2026690A"
+   "GB2034323A"
+   "GB2041922A"
+   "GB2045239A"
+   "GB2125964A"
+   "US3328389"
+   "US3337530"
+   "US3338882"
+   "US3804826"
+   "US3893998"
+   "US3915958"
+   "US3917583"
+   "US3960840"
+   "US3968101"
+   "US4008363"
+   "US4038480"
+   "US4048307"
+   "US4086417"
+   "US4088639"
+   "US4096324"
+   "US4134792"
+   "US4151349"
+   "US4171432"
+   "US4213893"
+   "US4228237"
+   "US4230698"
+   "US4230797"
+   "US4247544"
+   "US4261893"
+   "US4267171"
+   "US4302204"
+   "US4318980"
+   "US4318981"
+   "US4318982"
+   "US4355165"
+   "US4358535"
+   "US4363759"
+   "US4374925"
+   "US4380580"
+   "US4383031"
+   "US4446231"
+   "US4469863"
+   "WO1983002276A1"
+   "WO1983002277A1"
+   "WO1983002286A1"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:davidson-textron],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US4713143/en",
+  :title "Etching of vacuum metallized indium",
+  :status :granted,
+  :id "US4713143",
+  :sourcing :authoritative,
+  :filing-year 1987,
+  :assignee :davidson-textron,
+  :grant-year 1987,
+  :cites
+  ["US2937940"
+   "US2992125"
+   "US2993806"
+   "US3118781"
+   "US3620804"
+   "US3914472"
+   "US4101698"
+   "US4131530"
+   "US4211822"
+   "US4215170"
+   "US4216246"
+   "US4431711"
+   "US4610755"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:molecular-diagnostics],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US4713326/en",
+  :title
+  "Coupling of nucleic acids to solid support by photochemical methods",
+  :status :granted,
+  :id "US4713326",
+  :sourcing :authoritative,
+  :filing-year 1984,
+  :assignee :molecular-diagnostics,
+  :grant-year 1987,
+  :cites ["EP0131830A1" "US4542102" "US4582789" "US4592998"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:fuji-photo-film],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US4720786/en",
+  :title
+  "Method of compensating for offset distortion in rows of electrophoretic patterns",
+  :status :granted,
+  :id "US4720786",
+  :sourcing :authoritative,
+  :filing-year 1986,
+  :assignee :fuji-photo-film,
+  :grant-year 1988,
+  :cites ["EP0113672A2" "EP0141382A2" "EP0157280A2" "WO1986005817A1"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:bio-metric-systems],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US4722906/en",
+  :title "Binding reagents and methods",
+  :status :granted,
+  :id "US4722906",
+  :sourcing :authoritative,
+  :filing-year 1982,
+  :assignee :bio-metric-systems,
+  :grant-year 1988,
+  :cites ["US3959078" "US4007089" "US4434150"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:boston-university :university-of-colorado-foundation],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US4728591/en",
+  :title
+  "Self-assembled nanometer lithographic masks and templates and method for parallel fabrication of nanometer scale multi-device structures",
+  :status :granted,
+  :id "US4728591",
+  :sourcing :authoritative,
+  :filing-year 1986,
+  :assignee :boston-university,
+  :grant-year 1988,
+  :cites ["US4103064" "US4103073" "US4170512" "US4254174"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:university-of-nebraska-system],
   :jurisdiction :us,
   :field "UNKNOWN",
   :source "https://patents.google.com/patent/US4729947/en",
