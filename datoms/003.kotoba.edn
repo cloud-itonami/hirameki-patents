@@ -1,4 +1,41 @@
 [[":db/add"
+  "hirameki-patent:US1933739"
+  ":hirameki.patent/status"
+  ":granted"]
+ [":db/add"
+  "hirameki-patent:US1933739"
+  ":hirameki.patent/open-license"
+  ":none"]
+ [":db/add"
+  "hirameki-patent:US1933739"
+  ":hirameki.obs/release-status"
+  ":in-force"]
+ [":db/add"
+  "hirameki-patent:US1933739"
+  ":hirameki/sourcing"
+  ":authoritative"]
+ [":db/add" "hirameki-patent:US1933739" ":hirameki/derived" true]
+ [":db/add"
+  "hirameki-patent:US1933739"
+  ":hirameki/source"
+  "https://patents.google.com/patent/US1933739/en"]
+ [":db/add"
+  "hirameki-patent:US1933963"
+  ":hirameki.patent/title"
+  "Process for coating paper"]
+ [":db/add"
+  "hirameki-patent:US1933963"
+  ":hirameki.patent/jurisdiction"
+  ":us"]
+ [":db/add"
+  "hirameki-patent:US1933963"
+  ":hirameki.patent/field"
+  "UNKNOWN"]
+ [":db/add"
+  "hirameki-patent:US1933963"
+  ":hirameki.patent/assignee"
+  ":champion-coated-paper"]
+ [":db/add"
   "hirameki-patent:US1933963"
   ":hirameki.patent/status"
   ":granted"]
@@ -10408,44 +10445,4 @@
   "hirameki-patent:US2263131"
   ":hirameki/sourcing"
   ":authoritative"]
- [":db/add" "hirameki-patent:US2263131" ":hirameki/derived" true]
- [":db/add"
-  "hirameki-patent:US2263131"
-  ":hirameki.obs/years-to-expiry"
-  -66]
- [":db/add"
-  "hirameki-patent:US2263131"
-  ":hirameki/source"
-  "https://patents.google.com/patent/US2263131/en"]
- [":db/add"
-  "hirameki-patent:US2263938"
-  ":hirameki.patent/title"
-  "Light sensitive measuring instrument"]
- [":db/add"
-  "hirameki-patent:US2263938"
-  ":hirameki.patent/jurisdiction"
-  ":us"]
- [":db/add"
-  "hirameki-patent:US2263938"
-  ":hirameki.patent/field"
-  "UNKNOWN"]
- [":db/add"
-  "hirameki-patent:US2263938"
-  ":hirameki.patent/assignee"
-  ":smith-paper-mills-howard"]
- [":db/add"
-  "hirameki-patent:US2263938"
-  ":hirameki.patent/status"
-  ":granted"]
- [":db/add"
-  "hirameki-patent:US2263938"
-  ":hirameki.patent/open-license"
-  ":none"]
- [":db/add"
-  "hirameki-patent:US2263938"
-  ":hirameki.obs/release-status"
-  ":public-domain"]
- [":db/add"
-  "hirameki-patent:US2263938"
-  ":hirameki/sourcing"
-  ":authoritative"]]
+ [":db/add" "hirameki-patent:US2263131" ":hirameki/derived" true]]

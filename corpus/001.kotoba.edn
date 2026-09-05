@@ -1,4 +1,17 @@
-[{:assignees [:bird-and-son],
+[{:assignees [:clarence-d-randall],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US1603086/en",
+  :title "Lubricant",
+  :status :granted,
+  :id "US1603086",
+  :sourcing :authoritative,
+  :filing-year 1925,
+  :assignee :clarence-d-randall,
+  :grant-year 1926,
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:bird-and-son],
   :jurisdiction :us,
   :field "UNKNOWN",
   :source "https://patents.google.com/patent/US1606735/en",
@@ -5667,6 +5680,18 @@
   :grant-year 1943,
   :term-years 20,
   :open-license :none}
+ {:jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2334600/en",
+  :title "Capsule",
+  :status :granted,
+  :id "US2334600",
+  :sourcing :authoritative,
+  :filing-year 1941,
+  :assignee :unassigned,
+  :grant-year 1943,
+  :term-years 20,
+  :open-license :none}
  {:assignees [:jasco],
   :jurisdiction :us,
   :field "UNKNOWN",
@@ -6154,6 +6179,19 @@
   :sourcing :authoritative,
   :filing-year 1942,
   :assignee :ei-du-pont-de-nemours-and,
+  :grant-year 1944,
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:harlow-m-russell],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2362862/en",
+  :title "Paper container for fluid",
+  :status :granted,
+  :id "US2362862",
+  :sourcing :authoritative,
+  :filing-year 1942,
+  :assignee :harlow-m-russell,
   :grant-year 1944,
   :term-years 20,
   :open-license :none}
@@ -8896,6 +8934,26 @@
   :cites ["US2231905"],
   :term-years 20,
   :open-license :none}
+ {:assignees [:corning-glass-works],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2486162/en",
+  :title "Organo-siloxanes",
+  :status :granted,
+  :id "US2486162",
+  :sourcing :authoritative,
+  :filing-year 1942,
+  :assignee :corning-glass-works,
+  :grant-year 1949,
+  :cites
+  ["US2258218"
+   "US2258220"
+   "US2258222"
+   "US2371050"
+   "US2386466"
+   "US2442212"],
+  :term-years 20,
+  :open-license :none}
  {:assignees [:monsanto-chemicals],
   :jurisdiction :us,
   :field "UNKNOWN",
@@ -9280,56 +9338,5 @@
   :assignee :california-research,
   :grant-year 1950,
   :cites ["US2112228" "US2456499"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:piant-products],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US2506344/en",
-  :title "Method for making thiophosphates",
-  :status :granted,
-  :id "US2506344",
-  :sourcing :authoritative,
-  :filing-year 1948,
-  :assignee :piant-products,
-  :grant-year 1950,
-  :cites ["US1982903" "US2250049"],
-  :term-years 20,
-  :open-license :none}
- {:jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US2506933/en",
-  :title "Means for patching motion-picture film",
-  :status :granted,
-  :id "US2506933",
-  :sourcing :authoritative,
-  :filing-year 1945,
-  :assignee :unassigned,
-  :grant-year 1950,
-  :cites
-  ["US1310215"
-   "US1535129"
-   "US1591500"
-   "US1921954"
-   "US1921963"
-   "US2099439"
-   "US2318287"
-   "US2346874"
-   "US2348237"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:general-electric],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US2507200/en",
-  :title
-  "Process for rendering materials water-repellent and compositions therefor",
-  :status :granted,
-  :id "US2507200",
-  :sourcing :authoritative,
-  :filing-year 1945,
-  :assignee :general-electric,
-  :grant-year 1950,
-  :cites ["GB549081A" "US152903" "US2306222" "US2386259"],
   :term-years 20,
   :open-license :none}]

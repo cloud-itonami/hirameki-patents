@@ -1,4 +1,44 @@
-[[":db/add" "hirameki-patent:US2263938" ":hirameki/derived" true]
+[[":db/add"
+  "hirameki-patent:US2263131"
+  ":hirameki.obs/years-to-expiry"
+  -66]
+ [":db/add"
+  "hirameki-patent:US2263131"
+  ":hirameki/source"
+  "https://patents.google.com/patent/US2263131/en"]
+ [":db/add"
+  "hirameki-patent:US2263938"
+  ":hirameki.patent/title"
+  "Light sensitive measuring instrument"]
+ [":db/add"
+  "hirameki-patent:US2263938"
+  ":hirameki.patent/jurisdiction"
+  ":us"]
+ [":db/add"
+  "hirameki-patent:US2263938"
+  ":hirameki.patent/field"
+  "UNKNOWN"]
+ [":db/add"
+  "hirameki-patent:US2263938"
+  ":hirameki.patent/assignee"
+  ":smith-paper-mills-howard"]
+ [":db/add"
+  "hirameki-patent:US2263938"
+  ":hirameki.patent/status"
+  ":granted"]
+ [":db/add"
+  "hirameki-patent:US2263938"
+  ":hirameki.patent/open-license"
+  ":none"]
+ [":db/add"
+  "hirameki-patent:US2263938"
+  ":hirameki.obs/release-status"
+  ":public-domain"]
+ [":db/add"
+  "hirameki-patent:US2263938"
+  ":hirameki/sourcing"
+  ":authoritative"]
+ [":db/add" "hirameki-patent:US2263938" ":hirameki/derived" true]
  [":db/add"
   "hirameki-patent:US2263938"
   ":hirameki.obs/years-to-expiry"
@@ -4101,6 +4141,47 @@
   ":hirameki/source"
   "https://patents.google.com/patent/US2334485/en"]
  [":db/add"
+  "hirameki-patent:US2334600"
+  ":hirameki.patent/title"
+  "Capsule"]
+ [":db/add"
+  "hirameki-patent:US2334600"
+  ":hirameki.patent/jurisdiction"
+  ":us"]
+ [":db/add"
+  "hirameki-patent:US2334600"
+  ":hirameki.patent/field"
+  "UNKNOWN"]
+ [":db/add"
+  "hirameki-patent:US2334600"
+  ":hirameki.patent/assignee"
+  ":unassigned"]
+ [":db/add"
+  "hirameki-patent:US2334600"
+  ":hirameki.patent/status"
+  ":granted"]
+ [":db/add"
+  "hirameki-patent:US2334600"
+  ":hirameki.patent/open-license"
+  ":none"]
+ [":db/add"
+  "hirameki-patent:US2334600"
+  ":hirameki.obs/release-status"
+  ":public-domain"]
+ [":db/add"
+  "hirameki-patent:US2334600"
+  ":hirameki/sourcing"
+  ":authoritative"]
+ [":db/add" "hirameki-patent:US2334600" ":hirameki/derived" true]
+ [":db/add"
+  "hirameki-patent:US2334600"
+  ":hirameki.obs/years-to-expiry"
+  -65]
+ [":db/add"
+  "hirameki-patent:US2334600"
+  ":hirameki/source"
+  "https://patents.google.com/patent/US2334600/en"]
+ [":db/add"
   "hirameki-patent:US2334996"
   ":hirameki.patent/title"
   "Thickened oil composition"]
@@ -5658,6 +5739,47 @@
   "hirameki-patent:US2360673"
   ":hirameki/source"
   "https://patents.google.com/patent/US2360673/en"]
+ [":db/add"
+  "hirameki-patent:US2362862"
+  ":hirameki.patent/title"
+  "Paper container for fluid"]
+ [":db/add"
+  "hirameki-patent:US2362862"
+  ":hirameki.patent/jurisdiction"
+  ":us"]
+ [":db/add"
+  "hirameki-patent:US2362862"
+  ":hirameki.patent/field"
+  "UNKNOWN"]
+ [":db/add"
+  "hirameki-patent:US2362862"
+  ":hirameki.patent/assignee"
+  ":harlow-m-russell"]
+ [":db/add"
+  "hirameki-patent:US2362862"
+  ":hirameki.patent/status"
+  ":granted"]
+ [":db/add"
+  "hirameki-patent:US2362862"
+  ":hirameki.patent/open-license"
+  ":none"]
+ [":db/add"
+  "hirameki-patent:US2362862"
+  ":hirameki.obs/release-status"
+  ":public-domain"]
+ [":db/add"
+  "hirameki-patent:US2362862"
+  ":hirameki/sourcing"
+  ":authoritative"]
+ [":db/add" "hirameki-patent:US2362862" ":hirameki/derived" true]
+ [":db/add"
+  "hirameki-patent:US2362862"
+  ":hirameki.obs/years-to-expiry"
+  -64]
+ [":db/add"
+  "hirameki-patent:US2362862"
+  ":hirameki/source"
+  "https://patents.google.com/patent/US2362862/en"]
  [":db/add"
   "hirameki-patent:US2363817"
   ":hirameki.patent/title"
@@ -10298,123 +10420,4 @@
  [":db/add"
   "hirameki-patent:US2433515"
   ":hirameki.patent/jurisdiction"
-  ":us"]
- [":db/add"
-  "hirameki-patent:US2433515"
-  ":hirameki.patent/field"
-  "UNKNOWN"]
- [":db/add"
-  "hirameki-patent:US2433515"
-  ":hirameki.patent/assignee"
-  ":h-p-andrews-paper"]
- [":db/add"
-  "hirameki-patent:US2433515"
-  ":hirameki.patent/status"
-  ":granted"]
- [":db/add"
-  "hirameki-patent:US2433515"
-  ":hirameki.patent/open-license"
-  ":none"]
- [":db/add"
-  "hirameki-patent:US2433515"
-  ":hirameki.obs/release-status"
-  ":public-domain"]
- [":db/add"
-  "hirameki-patent:US2433515"
-  ":hirameki/sourcing"
-  ":authoritative"]
- [":db/add" "hirameki-patent:US2433515" ":hirameki/derived" true]
- [":db/add"
-  "hirameki-patent:US2433515"
-  ":hirameki.obs/years-to-expiry"
-  -61]
- [":db/add"
-  "hirameki-patent:US2433515"
-  ":hirameki/source"
-  "https://patents.google.com/patent/US2433515/en"]
- [":db/add"
-  "hirameki-patent:US2434190"
-  ":hirameki.patent/title"
-  "Purification of fluids with silvered resins"]
- [":db/add"
-  "hirameki-patent:US2434190"
-  ":hirameki.patent/jurisdiction"
-  ":us"]
- [":db/add"
-  "hirameki-patent:US2434190"
-  ":hirameki.patent/field"
-  "UNKNOWN"]
- [":db/add"
-  "hirameki-patent:US2434190"
-  ":hirameki.patent/assignee"
-  ":american-cyanamid"]
- [":db/add"
-  "hirameki-patent:US2434190"
-  ":hirameki.patent/status"
-  ":granted"]
- [":db/add"
-  "hirameki-patent:US2434190"
-  ":hirameki.patent/open-license"
-  ":none"]
- [":db/add"
-  "hirameki-patent:US2434190"
-  ":hirameki.obs/release-status"
-  ":public-domain"]
- [":db/add"
-  "hirameki-patent:US2434190"
-  ":hirameki/sourcing"
-  ":authoritative"]
- [":db/add" "hirameki-patent:US2434190" ":hirameki/derived" true]
- [":db/add"
-  "hirameki-patent:US2434190"
-  ":hirameki.obs/years-to-expiry"
-  -64]
- [":db/add"
-  "hirameki-patent:US2434190"
-  ":hirameki/source"
-  "https://patents.google.com/patent/US2434190/en"]
- [":db/add"
-  "hirameki-patent:US2434795"
-  ":hirameki.patent/title"
-  "Method and machine for laminating"]
- [":db/add"
-  "hirameki-patent:US2434795"
-  ":hirameki.patent/jurisdiction"
-  ":us"]
- [":db/add"
-  "hirameki-patent:US2434795"
-  ":hirameki.patent/field"
-  "UNKNOWN"]
- [":db/add"
-  "hirameki-patent:US2434795"
-  ":hirameki.patent/assignee"
-  ":westfield-river-paper"]
- [":db/add"
-  "hirameki-patent:US2434795"
-  ":hirameki.patent/status"
-  ":granted"]
- [":db/add"
-  "hirameki-patent:US2434795"
-  ":hirameki.patent/open-license"
-  ":none"]
- [":db/add"
-  "hirameki-patent:US2434795"
-  ":hirameki.obs/release-status"
-  ":public-domain"]
- [":db/add"
-  "hirameki-patent:US2434795"
-  ":hirameki/sourcing"
-  ":authoritative"]
- [":db/add" "hirameki-patent:US2434795" ":hirameki/derived" true]
- [":db/add"
-  "hirameki-patent:US2434795"
-  ":hirameki.obs/years-to-expiry"
-  -62]
- [":db/add"
-  "hirameki-patent:US2434795"
-  ":hirameki/source"
-  "https://patents.google.com/patent/US2434795/en"]
- [":db/add"
-  "hirameki-patent:US2435239"
-  ":hirameki.patent/title"
-  "Process for removing resin coating from copper wire"]]
+  ":us"]]

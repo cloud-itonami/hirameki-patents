@@ -1,4 +1,38 @@
-[[":db/add"
+[[":db/add" "hirameki-patent:FR852120A" ":hirameki.patent/title" ""]
+ [":db/add"
+  "hirameki-patent:FR852120A"
+  ":hirameki.patent/jurisdiction"
+  ":fr"]
+ [":db/add"
+  "hirameki-patent:FR852120A"
+  ":hirameki.patent/field"
+  "UNKNOWN"]
+ [":db/add"
+  "hirameki-patent:FR852120A"
+  ":hirameki.patent/assignee"
+  ":unassigned"]
+ [":db/add"
+  "hirameki-patent:FR852120A"
+  ":hirameki.patent/status"
+  ":granted"]
+ [":db/add"
+  "hirameki-patent:FR852120A"
+  ":hirameki.patent/open-license"
+  ":none"]
+ [":db/add"
+  "hirameki-patent:FR852120A"
+  ":hirameki.obs/release-status"
+  ":in-force"]
+ [":db/add"
+  "hirameki-patent:FR852120A"
+  ":hirameki/sourcing"
+  ":authoritative"]
+ [":db/add" "hirameki-patent:FR852120A" ":hirameki/derived" true]
+ [":db/add"
+  "hirameki-patent:FR852120A"
+  ":hirameki/source"
+  "https://patents.google.com/patent/FR852120A/en"]
+ [":db/add"
   "hirameki-patent:FR856012A"
   ":hirameki.patent/title"
   "Gummed paper and process for its manufacture"]
@@ -9987,40 +10021,4 @@
  [":db/add"
   "hirameki-patent:JP2004231916A"
   ":hirameki.obs/years-to-expiry"
-  -3]
- [":db/add"
-  "hirameki-patent:JP2004231916A"
-  ":hirameki/source"
-  "https://patents.google.com/patent/JP2004231916A/en"]
- [":db/add"
-  "hirameki-patent:JP2004250465A"
-  ":hirameki.patent/title"
-  "Method for manufacturing pigment with enhanced dispersibility"]
- [":db/add"
-  "hirameki-patent:JP2004250465A"
-  ":hirameki.patent/jurisdiction"
-  ":jp"]
- [":db/add"
-  "hirameki-patent:JP2004250465A"
-  ":hirameki.patent/field"
-  "UNKNOWN"]
- [":db/add"
-  "hirameki-patent:JP2004250465A"
-  ":hirameki.patent/assignee"
-  ":kansai-paint"]
- [":db/add"
-  "hirameki-patent:JP2004250465A"
-  ":hirameki.patent/status"
-  ":pending"]
- [":db/add"
-  "hirameki-patent:JP2004250465A"
-  ":hirameki.patent/open-license"
-  ":none"]
- [":db/add"
-  "hirameki-patent:JP2004250465A"
-  ":hirameki.obs/release-status"
-  ":pending"]
- [":db/add"
-  "hirameki-patent:JP2004250465A"
-  ":hirameki/sourcing"
-  ":authoritative"]]
+  -3]]

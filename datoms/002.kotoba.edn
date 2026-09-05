@@ -1,4 +1,40 @@
-[[":db/add" "hirameki-patent:JP2004250465A" ":hirameki/derived" true]
+[[":db/add"
+  "hirameki-patent:JP2004231916A"
+  ":hirameki/source"
+  "https://patents.google.com/patent/JP2004231916A/en"]
+ [":db/add"
+  "hirameki-patent:JP2004250465A"
+  ":hirameki.patent/title"
+  "Method for manufacturing pigment with enhanced dispersibility"]
+ [":db/add"
+  "hirameki-patent:JP2004250465A"
+  ":hirameki.patent/jurisdiction"
+  ":jp"]
+ [":db/add"
+  "hirameki-patent:JP2004250465A"
+  ":hirameki.patent/field"
+  "UNKNOWN"]
+ [":db/add"
+  "hirameki-patent:JP2004250465A"
+  ":hirameki.patent/assignee"
+  ":kansai-paint"]
+ [":db/add"
+  "hirameki-patent:JP2004250465A"
+  ":hirameki.patent/status"
+  ":pending"]
+ [":db/add"
+  "hirameki-patent:JP2004250465A"
+  ":hirameki.patent/open-license"
+  ":none"]
+ [":db/add"
+  "hirameki-patent:JP2004250465A"
+  ":hirameki.obs/release-status"
+  ":pending"]
+ [":db/add"
+  "hirameki-patent:JP2004250465A"
+  ":hirameki/sourcing"
+  ":authoritative"]
+ [":db/add" "hirameki-patent:JP2004250465A" ":hirameki/derived" true]
  [":db/add"
   "hirameki-patent:JP2004250465A"
   ":hirameki.obs/years-to-expiry"
@@ -10197,41 +10233,4 @@
  [":db/add"
   "hirameki-patent:US1933739"
   ":hirameki.patent/assignee"
-  ":unassigned"]
- [":db/add"
-  "hirameki-patent:US1933739"
-  ":hirameki.patent/status"
-  ":granted"]
- [":db/add"
-  "hirameki-patent:US1933739"
-  ":hirameki.patent/open-license"
-  ":none"]
- [":db/add"
-  "hirameki-patent:US1933739"
-  ":hirameki.obs/release-status"
-  ":in-force"]
- [":db/add"
-  "hirameki-patent:US1933739"
-  ":hirameki/sourcing"
-  ":authoritative"]
- [":db/add" "hirameki-patent:US1933739" ":hirameki/derived" true]
- [":db/add"
-  "hirameki-patent:US1933739"
-  ":hirameki/source"
-  "https://patents.google.com/patent/US1933739/en"]
- [":db/add"
-  "hirameki-patent:US1933963"
-  ":hirameki.patent/title"
-  "Process for coating paper"]
- [":db/add"
-  "hirameki-patent:US1933963"
-  ":hirameki.patent/jurisdiction"
-  ":us"]
- [":db/add"
-  "hirameki-patent:US1933963"
-  ":hirameki.patent/field"
-  "UNKNOWN"]
- [":db/add"
-  "hirameki-patent:US1933963"
-  ":hirameki.patent/assignee"
-  ":champion-coated-paper"]]
+  ":unassigned"]]

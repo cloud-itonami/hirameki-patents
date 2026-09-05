@@ -1,4 +1,353 @@
-[{:jurisdiction :us,
+[{:assignees [:general-electric],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3970518/en",
+  :title "Magnetic separation of biological particles",
+  :status :granted,
+  :id "US3970518",
+  :sourcing :authoritative,
+  :filing-year 1975,
+  :assignee :general-electric,
+  :grant-year 1976,
+  :cites ["US3470067" "US3539509" "US3657119" "US3843324"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:exxon-research-and-engineering],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3970521/en",
+  :title "Immobilized glycoenzymes",
+  :status :granted,
+  :id "US3970521",
+  :sourcing :authoritative,
+  :filing-year 1974,
+  :assignee :exxon-research-and-engineering,
+  :grant-year 1976,
+  :cites ["US3753861" "US3761357"],
+  :term-years 20,
+  :open-license :none}
+ {:jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3970597/en",
+  :title "Novel substituted polyamides and process for producing them",
+  :status :granted,
+  :id "US3970597",
+  :sourcing :authoritative,
+  :filing-year 1974,
+  :assignee :unassigned,
+  :grant-year 1976,
+  :cites ["GB920213A" "US2659713" "US3558562"],
+  :term-years 20,
+  :open-license :none}
+ {:jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3970841/en",
+  :title
+  "Method and apparatus for dual resolution analysis of a scene",
+  :status :granted,
+  :id "US3970841",
+  :sourcing :authoritative,
+  :filing-year 1974,
+  :assignee :unassigned,
+  :grant-year 1976,
+  :cites ["US3448271" "US3614449" "US3804976" "US3864564"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:tokyo-shibaura-electric],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3972616/en",
+  :title
+  "Apparatus for detecting the defects of the mask pattern using spatial filtering",
+  :status :granted,
+  :id "US3972616",
+  :sourcing :authoritative,
+  :filing-year 1975,
+  :assignee :tokyo-shibaura-electric,
+  :grant-year 1976,
+  :cites ["US3614232" "US3658420" "US3738752"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:bell-telephone-laboratories],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3973129/en",
+  :title
+  "Fluorimetric apparatus and method for analysis of body fluid",
+  :status :granted,
+  :id "US3973129",
+  :sourcing :authoritative,
+  :filing-year 1975,
+  :assignee :bell-telephone-laboratories,
+  :grant-year 1976,
+  :cites ["US3763374" "US3854050"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:syva],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3975237/en",
+  :title
+  "Compounds for enzyme amplification assay - - ecgonine analogs",
+  :status :granted,
+  :id "US3975237",
+  :sourcing :authoritative,
+  :filing-year 1974,
+  :assignee :syva,
+  :grant-year 1976,
+  :cites ["US3850752"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:biological-developments],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3975342/en",
+  :title
+  "Tyrosyl-class antigenic conjugates, their preparation and antibodies raised thereto",
+  :status :granted,
+  :id "US3975342",
+  :sourcing :authoritative,
+  :filing-year 1974,
+  :assignee :biological-developments,
+  :grant-year 1976,
+  :cites ["US3809782"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:corning-glass-works],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3975511/en",
+  :title "Solid phase radioimmunoassay",
+  :status :granted,
+  :id "US3975511",
+  :sourcing :authoritative,
+  :filing-year 1974,
+  :assignee :corning-glass-works,
+  :grant-year 1976,
+  :cites ["US3519538" "US3652761" "US3669841"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:matsushita-electric-industrial],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3975637/en",
+  :title "Device for storage and display of a radiation image",
+  :status :granted,
+  :id "US3975637",
+  :sourcing :authoritative,
+  :filing-year 1974,
+  :assignee :matsushita-electric-industrial,
+  :grant-year 1976,
+  :cites ["US2742631" "US3453436" "US3729630" "US3800142" "US3859527"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:dynatech],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3976071/en",
+  :title
+  "Methods of improving control of release rates and products useful in same",
+  :status :granted,
+  :id "US3976071",
+  :sourcing :authoritative,
+  :filing-year 1974,
+  :assignee :dynatech,
+  :grant-year 1976,
+  :cites
+  ["DE2218200A1"
+   "US3225766"
+   "US3435008"
+   "US3545439"
+   "US3630200"
+   "US3641237"
+   "US3773919"
+   "US3810458"
+   "US3811444"
+   "US3887699"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:yellow-springs-instrument],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3979274/en",
+  :title "Membrane for enzyme electrodes",
+  :status :granted,
+  :id "US3979274",
+  :sourcing :authoritative,
+  :filing-year 1975,
+  :assignee :yellow-springs-instrument,
+  :grant-year 1976,
+  :cites
+  ["US3098813"
+   "US3539455"
+   "US3542662"
+   "US3575836"
+   "US3707455"
+   "US3718563"
+   "US3776819"
+   "US3838033"
+   "US3869354"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:general-electric],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3979509/en",
+  :title "Opaque layer method for detecting biological particles",
+  :status :granted,
+  :id "US3979509",
+  :sourcing :authoritative,
+  :filing-year 1974,
+  :assignee :general-electric,
+  :grant-year 1976,
+  :cites ["US3853467"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:gt-schjeldahl],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3980587/en",
+  :title "Stripper composition",
+  :status :granted,
+  :id "US3980587",
+  :sourcing :authoritative,
+  :filing-year 1974,
+  :assignee :gt-schjeldahl,
+  :grant-year 1976,
+  :cites
+  ["CA536441A"
+   "US2662837"
+   "US3080262"
+   "US3391084"
+   "US3551204"
+   "US3553143"
+   "US3839234"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:ei-du-pont-de-nemours-and],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3980602/en",
+  :title
+  "Acrylic polymer dispersant for aqueous acrylic coating compositions",
+  :status :granted,
+  :id "US3980602",
+  :sourcing :authoritative,
+  :filing-year 1975,
+  :assignee :ei-du-pont-de-nemours-and,
+  :grant-year 1976,
+  :cites ["US3692726" "US3769251" "US3784498" "US3875099"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:curtis-nuclear],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3980764/en",
+  :title
+  "Polymeric competitive protein binding adsorbents for radioassey",
+  :status :granted,
+  :id "US3980764",
+  :sourcing :authoritative,
+  :filing-year 1973,
+  :assignee :curtis-nuclear,
+  :grant-year 1976,
+  :cites ["US2957808" "US3410839"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:baxter-laboratories],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3980772/en",
+  :title
+  "Methods of dissolving blood clots and the like with streptokinase chemically bonded to a carbohydrate matrix",
+  :status :granted,
+  :id "US3980772",
+  :sourcing :authoritative,
+  :filing-year 1971,
+  :assignee :baxter-laboratories,
+  :grant-year 1976,
+  :cites ["DE1815332A1" "US3226304"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:abbott-laboratories],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3981982/en",
+  :title
+  "Radioimmunoassay for determining the digoxin content of a sample",
+  :status :granted,
+  :id "US3981982",
+  :sourcing :authoritative,
+  :filing-year 1974,
+  :assignee :abbott-laboratories,
+  :grant-year 1976,
+  :cites ["CH459997A"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:purdue-research-foundation],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3983299/en",
+  :title "Bonded carbohydrate stationary phases for chromatography",
+  :status :granted,
+  :id "US3983299",
+  :sourcing :authoritative,
+  :filing-year 1974,
+  :assignee :purdue-research-foundation,
+  :grant-year 1976,
+  :cites
+  ["US2446119"
+   "US2787518"
+   "US2950985"
+   "US2953478"
+   "US3481771"
+   "US3673150"
+   "US3677938"
+   "US3722181"
+   "US3808125"
+   "US3840464"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:formica],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3983307/en",
+  :title "Thin, tough, stable laminate",
+  :status :granted,
+  :id "US3983307",
+  :sourcing :authoritative,
+  :filing-year 1975,
+  :assignee :formica,
+  :grant-year 1976,
+  :cites ["US2918452" "US3220916" "US3589974"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:biophysics-systems],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3984307/en",
+  :title "Combined particle sorter and segregation indicator",
+  :status :granted,
+  :id "US3984307",
+  :sourcing :authoritative,
+  :filing-year 1974,
+  :assignee :biophysics-systems,
+  :grant-year 1976,
+  :cites
+  ["US2333791"
+   "US2656508"
+   "US3269419"
+   "US3362421"
+   "US3426879"
+   "US3508654"
+   "US3508655"
+   "US3560754"
+   "US3710933"
+   "US3743090"
+   "US3827555"],
+  :term-years 20,
+  :open-license :none}
+ {:jurisdiction :us,
   :field "UNKNOWN",
   :source "https://patents.google.com/patent/US3985649/en",
   :title "Ferromagnetic separation process and material",
@@ -9158,380 +9507,5 @@
    "US4395397"
    "US4513438"
    "WO1980000188A1"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:allied],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US4629689/en",
-  :title
-  "Binding assay with amplified read-out and gas-phase detection",
-  :status :granted,
-  :id "US4629689",
-  :sourcing :authoritative,
-  :filing-year 1984,
-  :assignee :allied,
-  :grant-year 1986,
-  :cites ["GB2078370A" "GB2102946A" "US4197369" "US4322495"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:gte-products],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US4646127/en",
-  :title "Scrap-less taping system for IC lead-frames",
-  :status :granted,
-  :id "US4646127",
-  :sourcing :authoritative,
-  :filing-year 1986,
-  :assignee :gte-products,
-  :grant-year 1987,
-  :cites ["US4480150"],
-  :term-years 20,
-  :open-license :none}
- {:jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US465212/en",
-  :title "Feed-water regulator",
-  :status :granted,
-  :id "US465212",
-  :sourcing :authoritative,
-  :assignee :unassigned,
-  :grant-year 1891,
-  :term-years 20,
-  :open-license :none}
- {:assignees [:diagnostic-research-lp],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US4652517/en",
-  :title
-  "Methods for the in vitro detection and identification of unknown pathogens or genetic entities",
-  :status :granted,
-  :id "US4652517",
-  :sourcing :authoritative,
-  :filing-year 1984,
-  :assignee :diagnostic-research-lp,
-  :grant-year 1987,
-  :cites ["US4358535" "US4407942"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:amersham-international],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US4656127/en",
-  :title "Method of detecting mutations in DNA and RNA",
-  :status :granted,
-  :id "US4656127",
-  :sourcing :authoritative,
-  :filing-year 1984,
-  :assignee :amersham-international,
-  :grant-year 1987,
-  :cites ["US4351901" "US4358535" "US4521509"],
-  :term-years 20,
-  :open-license :none}
- {:jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US4656252/en",
-  :title
-  "Amidobiotin compounds useful in a avidin-biotin multiple layering process",
-  :status :granted,
-  :id "US4656252",
-  :sourcing :authoritative,
-  :filing-year 1984,
-  :assignee :unassigned,
-  :grant-year 1987,
-  :cites ["US4228237" "US4230797" "US4298685"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:general-motors],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US4661372/en",
-  :title
-  "UV-induced copper-catalyzed electroless deposition onto styrene-derivative polymer surface",
-  :status :granted,
-  :id "US4661372",
-  :sourcing :authoritative,
-  :filing-year 1985,
-  :assignee :general-motors,
-  :grant-year 1987,
-  :cites
-  ["US3773514"
-   "US4165394"
-   "US4250225"
-   "US4349583"
-   "US4354911"
-   "US4440801"
-   "US4568562"
-   "US4574095"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:genentech],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US4663283/en",
-  :title "Method of altering double-stranded DNA",
-  :status :granted,
-  :id "US4663283",
-  :sourcing :authoritative,
-  :filing-year 1983,
-  :assignee :genentech,
-  :grant-year 1987,
-  :cites ["US4351901"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:molecular-genetics],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US4663290/en",
-  :title "Production of reverse transcriptase",
-  :status :granted,
-  :id "US4663290",
-  :sourcing :authoritative,
-  :filing-year 1982,
-  :assignee :molecular-genetics,
-  :grant-year 1987,
-  :cites ["US4332892" "US4338397" "US4356270"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:university-of-massachusetts-system],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US4663446/en",
-  :title
-  "N2 (phenyl substituted) deoxy guanosine containing compounds",
-  :status :granted,
-  :id "US4663446",
-  :sourcing :authoritative,
-  :filing-year 1983,
-  :assignee :university-of-massachusetts-system,
-  :grant-year 1987,
-  :cites ["US3480613" "US3936439" "US4267171"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:wakunaga-pharmaceutical],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US4667025/en",
-  :title "Oligonucleotide derivatives",
-  :status :granted,
-  :id "US4667025",
-  :sourcing :authoritative,
-  :filing-year 1985,
-  :assignee :wakunaga-pharmaceutical,
-  :grant-year 1987,
-  :cites ["US3873521" "US4024249" "US4401796"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:university-patents],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US4668777/en",
-  :title "Phosphoramidite nucleoside compounds",
-  :status :granted,
-  :id "US4668777",
-  :sourcing :authoritative,
-  :filing-year 1984,
-  :assignee :university-patents,
-  :grant-year 1987,
-  :cites ["US3534017"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:ei-du-pont-de-nemours-and],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US4670379/en",
-  :title
-  "Polynucleotide hydridization assays employing catalyzed luminescence",
-  :status :granted,
-  :id "US4670379",
-  :sourcing :authoritative,
-  :filing-year 1984,
-  :assignee :ei-du-pont-de-nemours-and,
-  :grant-year 1987,
-  :cites
-  ["EP0063879A2"
-   "EP0070685A2"
-   "EP0070687A2"
-   "EP0079139A1"
-   "EP0097373B1"
-   "EP0110682A2"
-   "EP0117440A1"
-   "EP0122614A2"
-   "EP0124221A1"
-   "EP0127327A1"
-   "EP0128018A2"
-   "EP0128042A2"
-   "GB2019408A"
-   "GB2125964A"
-   "US4238565"
-   "US4358535"
-   "US4366243"
-   "WO1983002277A1"
-   "WO1983002286A1"
-   "WO1984001174A1"
-   "WO1984002721A1"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:advanced-magnetics],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US4672040/en",
-  :title "Magnetic particles for use in separations",
-  :status :granted,
-  :id "US4672040",
-  :sourcing :authoritative,
-  :filing-year 1985,
-  :assignee :advanced-magnetics,
-  :grant-year 1987,
-  :cites
-  ["EP0113452A2"
-   "GB2011424A"
-   "GB2014727A"
-   "US30360"
-   "US3470067"
-   "US3650698"
-   "US3652761"
-   "US3700555"
-   "US3796660"
-   "US3806449"
-   "US3933997"
-   "US3970518"
-   "US3985649"
-   "US4018886"
-   "US4115534"
-   "US4115535"
-   "US4123396"
-   "US4138383"
-   "US4141687"
-   "US4152210"
-   "US4157323"
-   "US4169804"
-   "US4177253"
-   "US4193866"
-   "US4197220"
-   "US4206094"
-   "US4219411"
-   "US4230685"
-   "US4241176"
-   "US4267234"
-   "US4267235"
-   "US4297337"
-   "US4343901"
-   "US4358535"
-   "US4369226"
-   "US4452773"
-   "US4454234"
-   "WO1983002669A1"
-   "WO1983003426A1"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:massachusetts-institute-of-technology],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US4675283/en",
-  :title
-  "Detection and isolation of homologous, repeated and amplified nucleic acid sequences",
-  :status :granted,
-  :id "US4675283",
-  :sourcing :authoritative,
-  :filing-year 1984,
-  :assignee :massachusetts-institute-of-technology,
-  :grant-year 1987,
-  :cites ["US4358535" "US4395486" "US4399216" "US4532220"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:celanese],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US4678843/en",
-  :title
-  "Process for the ammonium hydroxide hydrolysis of polymers of acetoxystyrene to polymers of vinylphenol",
-  :status :granted,
-  :id "US4678843",
-  :sourcing :authoritative,
-  :filing-year 1986,
-  :assignee :celanese,
-  :grant-year 1987,
-  :cites
-  ["US2276138"
-   "US3547858"
-   "US3963662"
-   "US3970534"
-   "US4129617"
-   "US4544704"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:cetus],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US4683194/en",
-  :title
-  "Method for detection of polymorphic restriction sites and nucleic acid sequences",
-  :status :granted,
-  :id "US4683194",
-  :sourcing :authoritative,
-  :filing-year 1985,
-  :assignee :cetus,
-  :grant-year 1987,
-  :cites ["EP0142299A2" "US4395486" "US4477577" "US4535058"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:cetus],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US4683195/en",
-  :title
-  "Process for amplifying, detecting, and/or-cloning nucleic acid sequences",
-  :status :granted,
-  :id "US4683195",
-  :sourcing :authoritative,
-  :filing-year 1986,
-  :assignee :cetus,
-  :grant-year 1987,
-  :cites ["US4395486"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:cetus],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US4683202/en",
-  :title "Process for amplifying nucleic acid sequences",
-  :status :granted,
-  :id "US4683202",
-  :sourcing :authoritative,
-  :filing-year 1985,
-  :assignee :cetus,
-  :grant-year 1987,
-  :term-years 20,
-  :open-license :none}
- {:assignees [:biospecific-technologies],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US4687808/en",
-  :title
-  "Activation of biocompatible polymers with biologicals whose binding complements are pathological effectors",
-  :status :granted,
-  :id "US4687808",
-  :sourcing :authoritative,
-  :filing-year 1983,
-  :assignee :biospecific-technologies,
-  :grant-year 1987,
-  :cites
-  ["CA1104110A"
-   "EP0082345A1"
-   "US3826678"
-   "US4059685"
-   "US4061141"
-   "US4182750"
-   "US4192748"
-   "US4222907"
-   "US4239743"
-   "US4272549"
-   "US4292296"
-   "US4305926"
-   "US4357311"
-   "US4362155"
-   "US4430229"],
   :term-years 20,
   :open-license :none}]
