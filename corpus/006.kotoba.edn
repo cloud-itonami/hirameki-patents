@@ -1,4 +1,306 @@
-[{:assignees [:fuji-photo-film],
+[{:assignees [:columbia-university-in-the-city-of-new-york],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US4786600/en",
+  :title "Autocatalytic replication of recombinant RNA",
+  :status :granted,
+  :id "US4786600",
+  :sourcing :authoritative,
+  :filing-year 1984,
+  :assignee :columbia-university-in-the-city-of-new-york,
+  :grant-year 1988,
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:us-department-of-energy],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US4793705/en",
+  :title "Single molecule tracking",
+  :status :granted,
+  :id "US4793705",
+  :sourcing :authoritative,
+  :filing-year 1987,
+  :assignee :us-department-of-energy,
+  :grant-year 1988,
+  :cites ["US4698308"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:molecular-diagnostics],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US4794073/en",
+  :title
+  "Detection of nucleic acid hybrids by prolonged chemiluminescence",
+  :status :granted,
+  :id "US4794073",
+  :sourcing :authoritative,
+  :filing-year 1985,
+  :assignee :molecular-diagnostics,
+  :grant-year 1988,
+  :cites
+  ["EP0070687B1"
+   "EP0087959A1"
+   "EP0103784A2"
+   "EP0116454A2"
+   "EP0157629A2"
+   "GB2162946A"
+   "US4563417"
+   "US4598044"
+   "US4617261"
+   "US4623627"
+   "US4629689"
+   "WO1983003104A1"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:harvard-university],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US4795699/en",
+  :title "T7 DNA polymerase",
+  :status :granted,
+  :id "US4795699",
+  :sourcing :authoritative,
+  :filing-year 1987,
+  :assignee :harvard-university,
+  :grant-year 1989,
+  :cites
+  ["US3444041"
+   "US3444042"
+   "US3661893"
+   "US4363877"
+   "US4483920"
+   "US4483922"
+   "US4486539"
+   "US4521509"
+   "US4556643"
+   "US4563419"
+   "US4591565"
+   "US4656127"
+   "US4663283"
+   "US4663290"
+   "US4670379"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:california-institute-of-technology],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US4795700/en",
+  :title "Nucleic acid probes and methods of using same",
+  :status :granted,
+  :id "US4795700",
+  :sourcing :authoritative,
+  :filing-year 1985,
+  :assignee :california-institute-of-technology,
+  :grant-year 1989,
+  :cites ["US4358535" "US4563417" "US4599303" "US4665184"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:cetus],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US4800159/en",
+  :title
+  "Process for amplifying, detecting, and/or cloning nucleic acid sequences",
+  :status :granted,
+  :id "US4800159",
+  :sourcing :authoritative,
+  :filing-year 1986,
+  :assignee :cetus,
+  :grant-year 1989,
+  :cites ["US4237224" "US4683195" "US4683202"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:nippon-paint],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US4812335/en",
+  :title "Method of painting",
+  :status :granted,
+  :id "US4812335",
+  :sourcing :authoritative,
+  :filing-year 1987,
+  :assignee :nippon-paint,
+  :grant-year 1989,
+  :cites ["US4391858" "US4403003" "US4490417"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:basf-lacke-und-farben],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US4818356/en",
+  :title
+  "Process for multicoat cathodic wet-on-wet painting of metallic conductive substrates",
+  :status :granted,
+  :id "US4818356",
+  :sourcing :authoritative,
+  :filing-year 1985,
+  :assignee :basf-lacke-und-farben,
+  :grant-year 1989,
+  :cites
+  ["EP0102566A1"
+   "GB1309356A"
+   "US4175018"
+   "US4259163"
+   "US4310398"
+   "US4375498"
+   "US4404332"
+   "US4430462"
+   "US4456507"
+   "US4500399"
+   "US4536558"
+   "US4557976"
+   "US4595717"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:tufts-university],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US4822746/en",
+  :title
+  "Radiative and non-radiative energy transfer and absorbance modulated fluorescence detection methods and sensors",
+  :status :granted,
+  :id "US4822746",
+  :sourcing :authoritative,
+  :filing-year 1986,
+  :assignee :tufts-university,
+  :grant-year 1989,
+  :cites ["US4144452" "US4495293"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:life-technologies],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US4849332/en",
+  :title
+  "Human papillomavirus 35 nucleic acid hybridization probes and methods for employing the same",
+  :status :granted,
+  :id "US4849332",
+  :sourcing :authoritative,
+  :filing-year 1987,
+  :assignee :life-technologies,
+  :grant-year 1989,
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:life-technologies],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US4849334/en",
+  :title
+  "Human papillomavirus 43 nucleic acid hybridization probes and methods for employing the same",
+  :status :granted,
+  :id "US4849334",
+  :sourcing :authoritative,
+  :filing-year 1987,
+  :assignee :life-technologies,
+  :grant-year 1989,
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:applied-biosystems],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US4855225/en",
+  :title
+  "Method of detecting electrophoretically separated oligonucleotides",
+  :status :granted,
+  :id "US4855225",
+  :sourcing :authoritative,
+  :filing-year 1986,
+  :assignee :applied-biosystems,
+  :grant-year 1989,
+  :cites
+  ["DE3501306A1"
+   "GB2153356A"
+   "GB2155176A"
+   "US4318846"
+   "US4415732"
+   "US4458066"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:pennwalt],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US4857596/en",
+  :title "Polymer bound antioxidant stabilizers",
+  :status :granted,
+  :id "US4857596",
+  :sourcing :authoritative,
+  :filing-year 1987,
+  :assignee :pennwalt,
+  :grant-year 1989,
+  :cites
+  ["CA1180497A"
+   "CA677494A"
+   "EP0076691A1"
+   "EP0084882A1"
+   "EP0242800A2"
+   "FR2320310A1"
+   "US2769804"
+   "US2971939"
+   "US2989517"
+   "US3336267"
+   "US3488311"
+   "US3509110"
+   "US3522992"
+   "US3553177"
+   "US3555001"
+   "US3560455"
+   "US3560456"
+   "US3560457"
+   "US3632561"
+   "US3658769"
+   "US3723375"
+   "US3755354"
+   "US3767628"
+   "US3919354"
+   "US3956298"
+   "US3998907"
+   "US4066616"
+   "US4078091"
+   "US4097551"
+   "US4108943"
+   "US4152319"
+   "US4197370"
+   "US4238572"
+   "US4341695"
+   "US4376846"
+   "US4381373"
+   "US4452939"
+   "US4481337"
+   "US4486570"
+   "US4522983"
+   "US4785063"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:hoechst-celanese],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US4857601/en",
+  :title
+  "Selective hydrolysis of copolymers of para-acetoxy styrene and dialkyl muconates or alkyl sorbates",
+  :status :granted,
+  :id "US4857601",
+  :sourcing :authoritative,
+  :filing-year 1987,
+  :assignee :hoechst-celanese,
+  :grant-year 1989,
+  :cites ["US4689371" "US4775730"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:new-york-medical-college],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US4863849/en",
+  :title "Automatable process for sequencing nucleotide",
+  :status :granted,
+  :id "US4863849",
+  :sourcing :authoritative,
+  :filing-year 1985,
+  :assignee :new-york-medical-college,
+  :grant-year 1989,
+  :cites ["US4072574"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:fuji-photo-film],
   :jurisdiction :us,
   :field "UNKNOWN",
   :source "https://patents.google.com/patent/US4865967/en",
@@ -914,6 +1216,17 @@
    "US5006577"
    "US5021577"
    "US5026749"],
+  :term-years 20,
+  :open-license :none}
+ {:jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US515941/en",
+  :title "Stuff-chest for paper-mills",
+  :status :granted,
+  :id "US515941",
+  :sourcing :authoritative,
+  :assignee :unassigned,
+  :grant-year 1894,
   :term-years 20,
   :open-license :none}
  {:assignees [:kansai-paint],

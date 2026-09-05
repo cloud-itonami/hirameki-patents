@@ -1,4 +1,212 @@
-[{:assignees [:general-aniline-and-film],
+[{:assignees [:american-optical],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2519997/en",
+  :title
+  "Comparison method for measuring the hemoglobin content of blood",
+  :status :granted,
+  :id "US2519997",
+  :sourcing :authoritative,
+  :filing-year 1945,
+  :assignee :american-optical,
+  :grant-year 1950,
+  :cites
+  ["DE290014C"
+   "US1205838"
+   "US1861121"
+   "US2102785"
+   "US2163467"
+   "US2209764"
+   "US2396260"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:weyerhaeuser-timber],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2522947/en",
+  :title "Apparatus for growing aerobic organisms",
+  :status :granted,
+  :id "US2522947",
+  :sourcing :authoritative,
+  :filing-year 1947,
+  :assignee :weyerhaeuser-timber,
+  :grant-year 1950,
+  :cites
+  ["US1876994"
+   "US1982002"
+   "US2111726"
+   "US2244902"
+   "US2298561"
+   "US328585"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:joseph-bancroft-and-sons],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2524915/en",
+  :title "Production of permanent lustrous finishes on fabrics",
+  :status :granted,
+  :id "US2524915",
+  :sourcing :authoritative,
+  :filing-year 1947,
+  :assignee :joseph-bancroft-and-sons,
+  :grant-year 1950,
+  :cites ["US1559289" "US1998539" "US2103293" "US2108806" "US2148316"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:motor-products],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2525920/en",
+  :title "Surface coating apparatus",
+  :status :granted,
+  :id "US2525920",
+  :sourcing :authoritative,
+  :filing-year 1947,
+  :assignee :motor-products,
+  :grant-year 1950,
+  :cites ["US2097428" "US2161187" "US2163712" "US2294520" "US676237"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:american-cyanamid],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2526179/en",
+  :title "Nitroalcohol phosphate curing catalyst for aminoplasts",
+  :status :granted,
+  :id "US2526179",
+  :sourcing :authoritative,
+  :filing-year 1946,
+  :assignee :american-cyanamid,
+  :grant-year 1950,
+  :cites ["CA410200A" "US2177757" "US2250662" "US2274447" "US2314308"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:ei-du-pont-de-nemours-and],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2526637/en",
+  :title "Shrinkproofed wool and method of producing same",
+  :status :granted,
+  :id "US2526637",
+  :sourcing :authoritative,
+  :filing-year 1948,
+  :assignee :ei-du-pont-de-nemours-and,
+  :grant-year 1950,
+  :cites
+  ["GB457422A"
+   "US2302332"
+   "US2329622"
+   "US2351120"
+   "US2396963"
+   "US2406958"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:corning-glass-works],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2527693/en",
+  :title "Soft glass having wide working range",
+  :status :granted,
+  :id "US2527693",
+  :sourcing :authoritative,
+  :filing-year 1946,
+  :assignee :corning-glass-works,
+  :grant-year 1950,
+  :cites ["FR870982A" "US2392314"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:united-states-rubber],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2528168/en",
+  :title "Method of making resin impregnated fabrics",
+  :status :granted,
+  :id "US2528168",
+  :sourcing :authoritative,
+  :filing-year 1943,
+  :assignee :united-states-rubber,
+  :grant-year 1950,
+  :cites
+  ["US1308111"
+   "US1361970"
+   "US1519239"
+   "US1829802"
+   "US2064162"
+   "US2067580"
+   "US2135763"
+   "US2224992"
+   "US2264376"
+   "US2267470"
+   "US2270285"
+   "US2345013"
+   "US2348740"
+   "US2414125"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:union-carbide-and-carbon],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2530738/en",
+  :title "Method of coating metal surfaces",
+  :status :granted,
+  :id "US2530738",
+  :sourcing :authoritative,
+  :filing-year 1947,
+  :assignee :union-carbide-and-carbon,
+  :grant-year 1950,
+  :cites
+  ["US1904417"
+   "US1912372"
+   "US2245708"
+   "US2270662"
+   "US2279771"
+   "US2427513"
+   "US2431078"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:westinghouse-electric],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2530983/en",
+  :title "Hydroxy ester anhydride copolymer",
+  :status :granted,
+  :id "US2530983",
+  :sourcing :authoritative,
+  :filing-year 1947,
+  :assignee :westinghouse-electric,
+  :grant-year 1950,
+  :cites ["US2047398" "US2324739" "US2418688"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:hercules-powder],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2531392/en",
+  :title "Polyurethan coating compositions",
+  :status :granted,
+  :id "US2531392",
+  :sourcing :authoritative,
+  :filing-year 1948,
+  :assignee :hercules-powder,
+  :grant-year 1950,
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:baltimore-biolog-lab],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2533089/en",
+  :title "Petri dish cover",
+  :status :granted,
+  :id "US2533089",
+  :sourcing :authoritative,
+  :filing-year 1949,
+  :assignee :baltimore-biolog-lab,
+  :grant-year 1950,
+  :cites ["US2144255" "US2279991" "US2348448" "US2361992"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:general-aniline-and-film],
   :jurisdiction :us,
   :field "UNKNOWN",
   :source "https://patents.google.com/patent/US2533182/en",
@@ -57,6 +265,20 @@
    "US2234499"
    "US2321762"
    "US2345219"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:champion-paper-and-fibre],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2534320/en",
+  :title "Apparatus for coating paper",
+  :status :granted,
+  :id "US2534320",
+  :sourcing :authoritative,
+  :filing-year 1946,
+  :assignee :champion-paper-and-fibre,
+  :grant-year 1950,
+  :cites ["US2051403" "US2094348" "US2271458" "US2355919" "US2404606"],
   :term-years 20,
   :open-license :none}
  {:assignees [:ei-du-pont-de-nemours-and],
@@ -636,6 +858,42 @@
   :assignee :bf-goodrich,
   :grant-year 1951,
   :cites ["US2340111" "US2385931" "US2403112" "US2455652" "US2482825"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:boyd-welsh],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2569764/en",
+  :title "Initially soft stiffenable material",
+  :status :granted,
+  :id "US2569764",
+  :sourcing :authoritative,
+  :filing-year 1946,
+  :assignee :boyd-welsh,
+  :grant-year 1951,
+  :cites
+  ["US1251914"
+   "US1252298"
+   "US1284859"
+   "US1874723"
+   "US1923168"
+   "US1995696"
+   "US2031720"
+   "US2158112"
+   "US2236033"
+   "US2241283"
+   "US2243506"
+   "US2313058"
+   "US2323325"
+   "US2342231"
+   "US2343390"
+   "US2372929"
+   "US2406738"
+   "US2408368"
+   "US2417453"
+   "US2429255"
+   "US2467388"
+   "US974855"],
   :term-years 20,
   :open-license :none}
  {:assignees [:minnesota-mining-and-manufacturing],
@@ -1640,6 +1898,30 @@
    "US2425231"
    "US2457083"
    "US4353"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:united-shoe-machinery],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2618796/en",
+  :title "Stiffening uppers of shoes",
+  :status :granted,
+  :id "US2618796",
+  :sourcing :authoritative,
+  :filing-year 1949,
+  :assignee :united-shoe-machinery,
+  :grant-year 1952,
+  :cites
+  ["GB555054A"
+   "US1215875"
+   "US2127896"
+   "US2216581"
+   "US2233477"
+   "US2273891"
+   "US2324068"
+   "US2332501"
+   "US2343390"
+   "US2460566"],
   :term-years 20,
   :open-license :none}
  {:assignees [:british-artificial-resin-compa],
@@ -3135,6 +3417,20 @@
    "US2585924"
    "US2622991"
    "US2648463"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:eastman-kodak],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2681294/en",
+  :title "Method of coating strip material",
+  :status :granted,
+  :id "US2681294",
+  :sourcing :authoritative,
+  :filing-year 1951,
+  :assignee :eastman-kodak,
+  :grant-year 1954,
+  :cites ["US2253060" "US2369484" "US2439802" "US2471330" "US2474691"],
   :term-years 20,
   :open-license :none}
  {:assignees [:general-electric],
@@ -9762,334 +10058,5 @@
    "US2653566"
    "US2679231"
    "US2688306"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:american-cyanamid],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3021239/en",
-  :title
-  "Structures comprising a modified diaminotriazine-aldehyde resinous composition",
-  :status :granted,
-  :id "US3021239",
-  :sourcing :authoritative,
-  :filing-year 1957,
-  :assignee :american-cyanamid,
-  :grant-year 1962,
-  :cites
-  ["US2218474"
-   "US2439929"
-   "US2486235"
-   "US2579980"
-   "US2694028"
-   "US2801198"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:cambridge-instruments],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3022241/en",
-  :title "Method and apparatus for measurement of dissolved oxygen",
-  :status :granted,
-  :id "US3022241",
-  :sourcing :authoritative,
-  :filing-year 1958,
-  :assignee :cambridge-instruments,
-  :grant-year 1962,
-  :cites
-  ["US2114234"
-   "US2254070"
-   "US2320095"
-   "US2370871"
-   "US2425669"
-   "US2651612"
-   "US2705220"
-   "US2758079"
-   "US2805191"
-   "US2811425"
-   "US2820702"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:wr-grace-and],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3022543/en",
-  :title "Method of producing film having improved shrink energy",
-  :status :granted,
-  :id "US3022543",
-  :sourcing :authoritative,
-  :filing-year 1958,
-  :assignee :wr-grace-and,
-  :grant-year 1962,
-  :cites
-  ["US2219700"
-   "US2408317"
-   "US2448433"
-   "US2452080"
-   "US2488571"
-   "US2491423"
-   "US2586820"
-   "US2622380"
-   "US2684316"
-   "US2686746"
-   "US2690633"
-   "US2763029"
-   "US2792791"
-   "US2825721"
-   "US2855517"
-   "US2877500"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:dow-chemical],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3024221/en",
-  :title "Sulfo esters of alpha-methylene carboxylic acids",
-  :status :granted,
-  :id "US3024221",
-  :sourcing :authoritative,
-  :filing-year 1957,
-  :assignee :dow-chemical,
-  :grant-year 1962,
-  :cites ["US1881172" "US2812267" "US2923734"],
-  :term-years 20,
-  :open-license :none}
- {:jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3024805/en",
-  :title "Negative feedback fluid amplifier",
-  :status :granted,
-  :id "US3024805",
-  :sourcing :authoritative,
-  :filing-year 1960,
-  :assignee :unassigned,
-  :grant-year 1962,
-  :term-years 20,
-  :open-license :none}
- {:assignees [:pyronics],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3025405/en",
-  :title "High sensitivity control device",
-  :status :granted,
-  :id "US3025405",
-  :sourcing :authoritative,
-  :filing-year 1958,
-  :assignee :pyronics,
-  :grant-year 1962,
-  :cites
-  ["US1002635"
-   "US2118029"
-   "US2193315"
-   "US2197190"
-   "US2240988"
-   "US2490627"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:fairchild-camera-and-instrument],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3025589/en",
-  :title "Method of manufacturing semiconductor devices",
-  :status :granted,
-  :id "US3025589",
-  :sourcing :authoritative,
-  :filing-year 1959,
-  :assignee :fairchild-camera-and-instrument,
-  :grant-year 1962,
-  :cites
-  ["US2653374"
-   "US2680220"
-   "US2695852"
-   "US2697269"
-   "US2796562"
-   "US2862160"
-   "US2866140"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:allied-kid],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3027276/en",
-  :title "Crock-proof suedes and methods of making same",
-  :status :granted,
-  :id "US3027276",
-  :sourcing :authoritative,
-  :filing-year 1959,
-  :assignee :allied-kid,
-  :grant-year 1962,
-  :cites
-  ["GB638118A"
-   "GB815185A"
-   "US2531392"
-   "US2657151"
-   "US2818404"
-   "US2828221"
-   "US2884340"
-   "US2901467"
-   "US2955958"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:fischer-and-porter],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3027756/en",
-  :title "Solids concentration measuring and regulating device",
-  :status :granted,
-  :id "US3027756",
-  :sourcing :authoritative,
-  :filing-year 1958,
-  :assignee :fischer-and-porter,
-  :grant-year 1962,
-  :cites
-  ["US1225086"
-   "US1789386"
-   "US1966638"
-   "US2210027"
-   "US2339991"
-   "US2409014"
-   "US2426393"
-   "US2618966"],
-  :term-years 20,
-  :open-license :none}
- {:jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US302938/en",
-  :title "Machine for forming paper",
-  :status :granted,
-  :id "US302938",
-  :sourcing :authoritative,
-  :assignee :unassigned,
-  :grant-year 1884,
-  :term-years 20,
-  :open-license :none}
- {:assignees [:north-american-aviation],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3030237/en",
-  :title "Conductive coating",
-  :status :granted,
-  :id "US3030237",
-  :sourcing :authoritative,
-  :filing-year 1959,
-  :assignee :north-american-aviation,
-  :grant-year 1962,
-  :cites ["US2774747" "US2808352" "US2851380"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:phillips-petroleum],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3030346/en",
-  :title "Production of block copolymers",
-  :status :granted,
-  :id "US3030346",
-  :sourcing :authoritative,
-  :filing-year 1960,
-  :assignee :phillips-petroleum,
-  :grant-year 1962,
-  :cites ["CA582947A"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:usines-decoufle],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3030966/en",
-  :title "Filler forming mechanism",
-  :status :granted,
-  :id "US3030966",
-  :sourcing :authoritative,
-  :filing-year 1957,
-  :assignee :usines-decoufle,
-  :grant-year 1962,
-  :cites
-  ["DE431456C"
-   "DE673628C"
-   "FR1098119A"
-   "GB764551A"
-   "US140693"
-   "US1808794"
-   "US2660178"
-   "US7226"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:usines-decoufle],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3032041/en",
-  :title "Tobacco-manipulating machines",
-  :status :granted,
-  :id "US3032041",
-  :sourcing :authoritative,
-  :filing-year 1957,
-  :assignee :usines-decoufle,
-  :grant-year 1962,
-  :cites
-  ["US1721117"
-   "US1796522"
-   "US2111672"
-   "US2432938"
-   "US2660177"
-   "US2660178"
-   "US2766758"
-   "US969992"],
-  :term-years 20,
-  :open-license :none}
- {:jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3032463/en",
-  :title "Method for making punched label stock",
-  :status :granted,
-  :id "US3032463",
-  :sourcing :authoritative,
-  :filing-year 1961,
-  :assignee :unassigned,
-  :grant-year 1962,
-  :term-years 20,
-  :open-license :none}
- {:assignees [:royal-mcbee],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3034918/en",
-  :title "Transfer sheet having completely transferable coating",
-  :status :granted,
-  :id "US3034918",
-  :sourcing :authoritative,
-  :filing-year 1960,
-  :assignee :royal-mcbee,
-  :grant-year 1962,
-  :cites ["US1925235" "US2318096" "US2508725" "US2810661"],
-  :term-years 20,
-  :open-license :none}
- {:jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US30360/en",
-  :title "Propeller and its",
-  :status :granted,
-  :id "US30360",
-  :sourcing :authoritative,
-  :assignee :unassigned,
-  :grant-year 1860,
-  :term-years 20,
-  :open-license :none}
- {:assignees [:siemens],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3036006/en",
-  :title "Method of doping a silicon monocrystal",
-  :status :granted,
-  :id "US3036006",
-  :sourcing :authoritative,
-  :filing-year 1959,
-  :assignee :siemens,
-  :grant-year 1962,
-  :cites
-  ["US2419237"
-   "US2437269"
-   "US2785095"
-   "US2810870"
-   "US2873221"
-   "US2879190"
-   "US2906647"],
   :term-years 20,
   :open-license :none}]
