@@ -1,4 +1,306 @@
-[{:assignees [:wr-grace-and],
+[{:assignees [:glaxo-laboratories],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3597318/en",
+  :title "Production of double stranded hibonucleic acid",
+  :status :granted,
+  :id "US3597318",
+  :sourcing :authoritative,
+  :filing-year 1969,
+  :assignee :glaxo-laboratories,
+  :grant-year 1971,
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:kabi],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3598704/en",
+  :title "Diagnostic device for various sugars",
+  :status :granted,
+  :id "US3598704",
+  :sourcing :authoritative,
+  :filing-year 1966,
+  :assignee :kabi,
+  :grant-year 1971,
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:hitachi],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3598762/en",
+  :title
+  "Vanadium oxide semiconductors and method of manufacturing same",
+  :status :granted,
+  :id "US3598762",
+  :sourcing :authoritative,
+  :filing-year 1967,
+  :assignee :hitachi,
+  :grant-year 1971,
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:buckbee-mears],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3600213/en",
+  :title "Aperture masks",
+  :status :granted,
+  :id "US3600213",
+  :sourcing :authoritative,
+  :filing-year 1969,
+  :assignee :buckbee-mears,
+  :grant-year 1971,
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:us-atomic-energy-commission-aec],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3600291/en",
+  :title "Method of producing dense carbon from anthracene",
+  :status :granted,
+  :id "US3600291",
+  :sourcing :authoritative,
+  :filing-year 1969,
+  :assignee :us-atomic-energy-commission-aec,
+  :grant-year 1971,
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:scientific-industries],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3607079/en",
+  :title "Analysis arrangement for chemical analyzing apparatus",
+  :status :granted,
+  :id "US3607079",
+  :sourcing :authoritative,
+  :filing-year 1969,
+  :assignee :scientific-industries,
+  :grant-year 1971,
+  :cites ["US3036893" "US3036894" "US3502438" "US3508879"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:scientific-industries],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3607090/en",
+  :title
+  "Analysis arrangment for multiple analyses of a single sample",
+  :status :granted,
+  :id "US3607090",
+  :sourcing :authoritative,
+  :filing-year 1969,
+  :assignee :scientific-industries,
+  :grant-year 1971,
+  :cites ["US3036894" "US3260413" "US3261668" "US3497320" "US3508879"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:autokemi],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3607094/en",
+  :title "Apparatus for pipetting and adding a liquid",
+  :status :granted,
+  :id "US3607094",
+  :sourcing :authoritative,
+  :filing-year 1969,
+  :assignee :autokemi,
+  :grant-year 1971,
+  :cites ["US1896134" "US2216890" "US3193359" "US3421858" "US3475130"],
+  :term-years 20,
+  :open-license :none}
+ {:jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3607382/en",
+  :title "Method of producing photovarnish masks for semiconductors",
+  :status :granted,
+  :id "US3607382",
+  :sourcing :authoritative,
+  :filing-year 1968,
+  :assignee :unassigned,
+  :grant-year 1971,
+  :cites
+  ["US2705764"
+   "US2968723"
+   "US3113896"
+   "US3162767"
+   "US3326176"
+   "US3330696"
+   "US3364087"
+   "US3388000"
+   "US3442647"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:ilford],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3607997/en",
+  :title "Method for producing an x-ray intensifying screen",
+  :status :granted,
+  :id "US3607997",
+  :sourcing :authoritative,
+  :filing-year 1968,
+  :assignee :ilford,
+  :grant-year 1971,
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:nat-res-dev],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3608729/en",
+  :title "Disposable dialyser pack with adsorbent",
+  :status :granted,
+  :id "US3608729",
+  :sourcing :authoritative,
+  :filing-year 1968,
+  :assignee :nat-res-dev,
+  :grant-year 1971,
+  :cites ["US2502614" "US3397785"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:buckbee-mears],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3609033/en",
+  :title "Mask for etching enlargement",
+  :status :granted,
+  :id "US3609033",
+  :sourcing :authoritative,
+  :filing-year 1969,
+  :assignee :buckbee-mears,
+  :grant-year 1971,
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:century-geophysical],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3610934/en",
+  :title
+  "Automatic focusing system utilizing means for alternately directing light over two paths having slightly different lengths",
+  :status :granted,
+  :id "US3610934",
+  :sourcing :authoritative,
+  :filing-year 1969,
+  :assignee :century-geophysical,
+  :grant-year 1971,
+  :cites ["US2831057" "US2838600"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:rapistan],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3612250/en",
+  :title "Recirculation limit system for conveyors",
+  :status :granted,
+  :id "US3612250",
+  :sourcing :authoritative,
+  :filing-year 1970,
+  :assignee :rapistan,
+  :grant-year 1971,
+  :cites ["US3075653"],
+  :term-years 20,
+  :open-license :none}
+ {:jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3612866/en",
+  :title
+  "Instrument for determining oxygen quantities by measuring oxygen quenching of fluorescent radiation",
+  :status :granted,
+  :id "US3612866",
+  :sourcing :authoritative,
+  :filing-year 1969,
+  :assignee :unassigned,
+  :grant-year 1971,
+  :cites ["US3285703"],
+  :term-years 20,
+  :open-license :none}
+ {:jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3613884/en",
+  :title "Fish egg sorting apparatus",
+  :status :granted,
+  :id "US3613884",
+  :sourcing :authoritative,
+  :filing-year 1970,
+  :assignee :unassigned,
+  :grant-year 1971,
+  :cites ["US3297157" "US3517807"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:coulter-electronics],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3614231/en",
+  :title "Optical aerosol counter",
+  :status :granted,
+  :id "US3614231",
+  :sourcing :authoritative,
+  :filing-year 1968,
+  :assignee :coulter-electronics,
+  :grant-year 1971,
+  :cites
+  ["US2347066"
+   "US2347067"
+   "US2732753"
+   "US2852693"
+   "US2920525"
+   "US3039355"
+   "US3231748"
+   "US3248551"
+   "US3361030"
+   "US3398286"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:international-business-machines],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3614232/en",
+  :title
+  "Pattern defect sensing using error free blocking spacial filter",
+  :status :granted,
+  :id "US3614232",
+  :sourcing :authoritative,
+  :filing-year 1968,
+  :assignee :international-business-machines,
+  :grant-year 1971,
+  :cites ["US1135919" "US3085469" "US3418626"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:deutsche-itt-industries],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3614449/en",
+  :title "Optical tracking system utilizing a coaxial lens system",
+  :status :granted,
+  :id "US3614449",
+  :sourcing :authoritative,
+  :filing-year 1969,
+  :assignee :deutsche-itt-industries,
+  :grant-year 1971,
+  :cites
+  ["US2504383"
+   "US2753760"
+   "US2798961"
+   "US3173012"
+   "US3244885"
+   "US3398285"
+   "US3497696"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:new-england-nuclear],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3615222/en",
+  :title
+  "Method and apparatus for measuring the amount of a component in a biological fluid",
+  :status :granted,
+  :id "US3615222",
+  :sourcing :authoritative,
+  :filing-year 1968,
+  :assignee :new-england-nuclear,
+  :grant-year 1971,
+  :cites ["US3072362" "US3397965"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:wr-grace-and],
   :jurisdiction :us,
   :field "UNKNOWN",
   :source "https://patents.google.com/patent/US3615450/en",
@@ -8899,313 +9201,5 @@
    "US3657119"
    "US3843324"
    "US3933997"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:bell-telephone-laboratories],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US4019051/en",
-  :title "Directional optical waveguide couplers",
-  :status :granted,
-  :id "US4019051",
-  :sourcing :authoritative,
-  :filing-year 1975,
-  :assignee :bell-telephone-laboratories,
-  :grant-year 1977,
-  :cites
-  ["US3558213"
-   "US3813141"
-   "US3850503"
-   "US3918794"
-   "US3923377"
-   "US3931518"
-   "US3936631"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:international-diagnostic-technologies],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US4020151/en",
-  :title
-  "Method for quantitation of antigens or antibodies on a solid surface",
-  :status :granted,
-  :id "US4020151",
-  :sourcing :authoritative,
-  :filing-year 1976,
-  :assignee :international-diagnostic-technologies,
-  :grant-year 1977,
-  :cites ["US3551555" "US3555143" "US3646346" "US3790663"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:university-of-utah],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US4020830/en",
-  :title "Selective chemical sensitive FET transducers",
-  :status :granted,
-  :id "US4020830",
-  :sourcing :authoritative,
-  :filing-year 1975,
-  :assignee :university-of-utah,
-  :grant-year 1977,
-  :cites
-  ["US3049118"
-   "US3294988"
-   "US3649505"
-   "US3776819"
-   "US3787309"
-   "US3831432"
-   "US3896008"
-   "US3932233"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:hoffmann-la-roche],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US4021534/en",
-  :title "Radioimmunoassay",
-  :status :granted,
-  :id "US4021534",
-  :sourcing :authoritative,
-  :filing-year 1975,
-  :assignee :hoffmann-la-roche,
-  :grant-year 1977,
-  :cites ["US2957808" "US3867363" "US3867518"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:university-of-virginia-uva],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US4022577/en",
-  :title "Automated radioimmunoassay",
-  :status :granted,
-  :id "US4022577",
-  :sourcing :authoritative,
-  :filing-year 1976,
-  :assignee :university-of-virginia-uva,
-  :grant-year 1977,
-  :cites ["US3524366" "US3679312" "US3841834" "US3876374"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:gulf-research-and-development],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US4022810/en",
-  :title "Metal chrysotile methane synthesis catalyst",
-  :status :granted,
-  :id "US4022810",
-  :sourcing :authoritative,
-  :filing-year 1976,
-  :assignee :gulf-research-and-development,
-  :grant-year 1977,
-  :cites
-  ["US3361535"
-   "US3379505"
-   "US3625664"
-   "US3625665"
-   "US3729429"
-   "US3730694"
-   "US3912775"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:stanford-research-institute],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US4022876/en",
-  :title "Mass spectrometric immunoassay",
-  :status :granted,
-  :id "US4022876",
-  :sourcing :authoritative,
-  :filing-year 1973,
-  :assignee :stanford-research-institute,
-  :grant-year 1977,
-  :cites ["US3663684" "US3666854" "US3697638" "US3776698"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:corning-glass-works],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US4024235/en",
-  :title "Detection and quantitation of viral antibodies",
-  :status :granted,
-  :id "US4024235",
-  :sourcing :authoritative,
-  :filing-year 1975,
-  :assignee :corning-glass-works,
-  :grant-year 1977,
-  :cites ["US3652761"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:ciba-geigy],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US4024249/en",
-  :title "Heteroarylacetamido cephalosporin",
-  :status :granted,
-  :id "US4024249",
-  :sourcing :authoritative,
-  :filing-year 1975,
-  :assignee :ciba-geigy,
-  :grant-year 1977,
-  :cites ["US3382241" "US3488730"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:purdue-research-foundation],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US4029583/en",
-  :title
-  "Chromatographic supports and methods and apparatus for preparing the same",
-  :status :granted,
-  :id "US4029583",
-  :sourcing :authoritative,
-  :filing-year 1975,
-  :assignee :purdue-research-foundation,
-  :grant-year 1977,
-  :cites
-  ["US3263401"
-   "US3500616"
-   "US3514925"
-   "US3586626"
-   "US3657117"
-   "US3660966"
-   "US3664967"
-   "US3722181"
-   "US3795313"
-   "US3808125"
-   "US3878092"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:choay],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US4029767/en",
-  :title
-  "Pharmaceutical compositions of stable urokinase-heparin complexes and methods for use thereof",
-  :status :granted,
-  :id "US4029767",
-  :sourcing :authoritative,
-  :filing-year 1975,
-  :assignee :choay,
-  :grant-year 1977,
-  :cites ["US3726969"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:snamprogetti-spa],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US4031201/en",
-  :title
-  "Fibres incorporating antibodies, antigens and antisera, method for their preparation and their use",
-  :status :granted,
-  :id "US4031201",
-  :sourcing :authoritative,
-  :filing-year 1975,
-  :assignee :snamprogetti-spa,
-  :grant-year 1977,
-  :cites
-  ["US3645852"
-   "US3674901"
-   "US3700609"
-   "US3711574"
-   "US3715277"
-   "US3806417"
-   "US3843324"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:canon],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US4031383/en",
-  :title
-  "Method for detecting visibility of image of an object and a device therefor",
-  :status :granted,
-  :id "US4031383",
-  :sourcing :authoritative,
-  :filing-year 1974,
-  :assignee :canon,
-  :grant-year 1977,
-  :cites ["US3274913" "US3364815" "US3469925" "US3493764"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:gas-council],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US4032556/en",
-  :title "Methanation of gases",
-  :status :granted,
-  :id "US4032556",
-  :sourcing :authoritative,
-  :filing-year 1974,
-  :assignee :gas-council,
-  :grant-year 1977,
-  :cites ["US3387942" "US3511624" "US3642460" "US3709669"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:corning-glass-works],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US4032626/en",
-  :title "Reagent and method for tbg assay",
-  :status :granted,
-  :id "US4032626",
-  :sourcing :authoritative,
-  :filing-year 1976,
-  :assignee :corning-glass-works,
-  :grant-year 1977,
-  :cites ["US3933997" "US3960492" "US3975511"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:hewlett-packard],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US4033330/en",
-  :title "Transcutaneous pH measuring instrument",
-  :status :granted,
-  :id "US4033330",
-  :sourcing :authoritative,
-  :filing-year 1975,
-  :assignee :hewlett-packard,
-  :grant-year 1977,
-  :cites
-  ["US3461856"
-   "US3578865"
-   "US3659586"
-   "US3793525"
-   "US3795239"
-   "US3811776"
-   "US3811777"
-   "US3825342"
-   "US3878107"
-   "US3918434"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:corning-glass-works],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US4034072/en",
-  :title "Serum hepatitis test",
-  :status :granted,
-  :id "US4034072",
-  :sourcing :authoritative,
-  :filing-year 1975,
-  :assignee :corning-glass-works,
-  :grant-year 1977,
-  :cites ["US3555143" "US3652761" "US3867517"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:corning-glass-works],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US4034073/en",
-  :title
-  "Composite for biased solid phase radioimmunoassay of triiodothyronine and thyroxine",
-  :status :granted,
-  :id "US4034073",
-  :sourcing :authoritative,
-  :filing-year 1975,
-  :assignee :corning-glass-works,
-  :grant-year 1977,
-  :cites ["US3519538" "US3646346" "US3652761" "US3799740" "US3904373"],
   :term-years 20,
   :open-license :none}]

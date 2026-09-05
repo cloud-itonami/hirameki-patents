@@ -1,4 +1,165 @@
-[{:assignees [:ei-du-pont-de-nemours-and],
+[{:assignees [:general-aniline-and-film],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2533182/en",
+  :title
+  "Preparation of colored metallo-alpha-oximino ketone complex images",
+  :status :granted,
+  :id "US2533182",
+  :sourcing :authoritative,
+  :filing-year 1949,
+  :assignee :general-aniline-and-film,
+  :grant-year 1950,
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:united-states-rubber],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2533976/en",
+  :title "Leather-like material",
+  :status :granted,
+  :id "US2533976",
+  :sourcing :authoritative,
+  :filing-year 1945,
+  :assignee :united-states-rubber,
+  :grant-year 1950,
+  :cites
+  ["US2068533"
+   "US2213899"
+   "US2220549"
+   "US2235682"
+   "US2304123"
+   "US2323563"
+   "US2444094"],
+  :term-years 20,
+  :open-license :none}
+ {:jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2534229/en",
+  :title "Method and apparatus for detecting hydrogen cyanide",
+  :status :granted,
+  :id "US2534229",
+  :sourcing :authoritative,
+  :filing-year 1945,
+  :assignee :unassigned,
+  :grant-year 1950,
+  :cites
+  ["GB431809A"
+   "GB496345A"
+   "GB519957A"
+   "US1321062"
+   "US1537519"
+   "US1595788"
+   "US1684587"
+   "US1789194"
+   "US2054885"
+   "US2176462"
+   "US2234499"
+   "US2321762"
+   "US2345219"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:ei-du-pont-de-nemours-and],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2534326/en",
+  :title "Process of manufacturing photographic elements",
+  :status :granted,
+  :id "US2534326",
+  :sourcing :authoritative,
+  :filing-year 1946,
+  :assignee :ei-du-pont-de-nemours-and,
+  :grant-year 1950,
+  :cites ["US2249538" "US2251296" "US2376371" "US2386347" "US2397866"],
+  :term-years 20,
+  :open-license :none}
+ {:jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2536018/en",
+  :title "Coating compositions",
+  :status :granted,
+  :id "US2536018",
+  :sourcing :authoritative,
+  :filing-year 1948,
+  :assignee :unassigned,
+  :grant-year 1951,
+  :cites ["US2413197"],
+  :term-years 20,
+  :open-license :none}
+ {:jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2536470/en",
+  :title
+  "Preparation of freeze-stable polyvinyl acetate emulsion compositions",
+  :status :granted,
+  :id "US2536470",
+  :sourcing :authoritative,
+  :filing-year 1946,
+  :assignee :unassigned,
+  :grant-year 1951,
+  :cites
+  ["US2316629"
+   "US2343095"
+   "US2373347"
+   "US2388600"
+   "US2388601"
+   "US2398344"
+   "US2444396"
+   "US2459955"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:patchogue-plymouth-mills],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2536656/en",
+  :title "Method of waterproofing paper textile fabrics",
+  :status :granted,
+  :id "US2536656",
+  :sourcing :authoritative,
+  :filing-year 1945,
+  :assignee :patchogue-plymouth-mills,
+  :grant-year 1951,
+  :cites
+  ["GB227527A"
+   "US143122"
+   "US1900904"
+   "US2133933"
+   "US2176981"
+   "US2298147"
+   "US2420974"
+   "US2426300"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:socony-vacuum-oil],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2539355/en",
+  :title
+  "Apparatus for measuring interstitial water content, permeability, and electrical conductivity of well cores",
+  :status :granted,
+  :id "US2539355",
+  :sourcing :authoritative,
+  :filing-year 1947,
+  :assignee :socony-vacuum-oil,
+  :grant-year 1951,
+  :cites ["US2064651" "US2293488" "US2330721" "US2345935" "US2437935"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:american-cyanamid],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2540780/en",
+  :title "Ultraviolet spectrophotometer",
+  :status :granted,
+  :id "US2540780",
+  :sourcing :authoritative,
+  :filing-year 1949,
+  :assignee :american-cyanamid,
+  :grant-year 1951,
+  :cites ["US2359734" "US2383075" "US2467325"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:ei-du-pont-de-nemours-and],
   :jurisdiction :us,
   :field "UNKNOWN",
   :source "https://patents.google.com/patent/US2541167/en",
@@ -2440,6 +2601,20 @@
    "US2262370"
    "US2349992"
    "US2492768"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:bayer],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2657151/en",
+  :title "Coating of fabrics",
+  :status :granted,
+  :id "US2657151",
+  :sourcing :authoritative,
+  :filing-year 1950,
+  :assignee :bayer,
+  :grant-year 1953,
+  :cites ["US2121717" "US2333639" "US2468713"],
   :term-years 20,
   :open-license :none}
  {:assignees [:dunlop-rubber],
@@ -5702,6 +5877,20 @@
    "US2724737"],
   :term-years 20,
   :open-license :none}
+ {:assignees [:ei-du-pont-de-nemours-and],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2818404/en",
+  :title "Curing of polyurethanes with a di(isocyanatoaryl) urea",
+  :status :granted,
+  :id "US2818404",
+  :sourcing :authoritative,
+  :filing-year 1954,
+  :assignee :ei-du-pont-de-nemours-and,
+  :grant-year 1957,
+  :cites ["US2597025" "US2621166" "US2692874"],
+  :term-years 20,
+  :open-license :none}
  {:assignees [:warren-sd],
   :jurisdiction :us,
   :field "UNKNOWN",
@@ -5808,6 +5997,27 @@
   :cites ["US2678400" "US2705758" "US2706792"],
   :term-years 20,
   :open-license :none}
+ {:assignees [:rohm-and-haas],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2824816/en",
+  :title "Method for treating leather",
+  :status :granted,
+  :id "US2824816",
+  :sourcing :authoritative,
+  :filing-year 1954,
+  :assignee :rohm-and-haas,
+  :grant-year 1958,
+  :cites
+  ["US2015943"
+   "US2126321"
+   "US2204520"
+   "US2635055"
+   "US2635059"
+   "US2694695"
+   "US2719072"],
+  :term-years 20,
+  :open-license :none}
  {:assignees [:thomas-electronics],
   :jurisdiction :us,
   :field "UNKNOWN",
@@ -5841,6 +6051,21 @@
   :assignee :us-philips,
   :grant-year 1958,
   :cites ["US2634510" "US2643956"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:rohm-and-haas],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2828221/en",
+  :title
+  "Method of coating leather with polymers containing cyclic t-amino groups and the resulting article",
+  :status :granted,
+  :id "US2828221",
+  :sourcing :authoritative,
+  :filing-year 1955,
+  :assignee :rohm-and-haas,
+  :grant-year 1958,
+  :cites ["US2204520" "US2430479" "US2615826" "US2694688" "US2702763"],
   :term-years 20,
   :open-license :none}
  {:assignees [:commw-mental-health-res-founda],
@@ -6764,6 +6989,29 @@
   :cites ["US2434545" "US2681732"],
   :term-years 20,
   :open-license :none}
+ {:assignees [:rohm-and-haas],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2884340/en",
+  :title "Polyisocyanate modified plural coat system for leather",
+  :status :granted,
+  :id "US2884340",
+  :sourcing :authoritative,
+  :filing-year 1955,
+  :assignee :rohm-and-haas,
+  :grant-year 1959,
+  :cites
+  ["US2204520"
+   "US2430479"
+   "US2503209"
+   "US2537064"
+   "US2555062"
+   "US2606892"
+   "US2647884"
+   "US2741566"
+   "US2763577"],
+  :term-years 20,
+  :open-license :none}
  {:assignees [:crown-zellerbach],
   :jurisdiction :us,
   :field "UNKNOWN",
@@ -7084,6 +7332,21 @@
    "US2654853"
    "US2659670"
    "US2662832"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:ei-du-pont-de-nemours-and],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2901467/en",
+  :title "Polyurethane coating compositions",
+  :status :granted,
+  :id "US2901467",
+  :sourcing :authoritative,
+  :filing-year 1956,
+  :assignee :ei-du-pont-de-nemours-and,
+  :grant-year 1959,
+  :cites
+  ["FR1074451A" "FR1108785A" "FR52968E" "US2621166" "US2726219"],
   :term-years 20,
   :open-license :none}
  {:assignees [:bacto-strip],
@@ -7501,6 +7764,26 @@
    "US2430479"
    "US2555745"
    "US2606162"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:ei-du-pont-de-nemours-and],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2929800/en",
+  :title "Polytetramethylene ether polyurethane polymers",
+  :status :granted,
+  :id "US2929800",
+  :sourcing :authoritative,
+  :filing-year 1953,
+  :assignee :ei-du-pont-de-nemours-and,
+  :grant-year 1960,
+  :cites
+  ["FR892107A"
+   "US2284896"
+   "US2531392"
+   "US2625531"
+   "US2625532"
+   "US2625535"],
   :term-years 20,
   :open-license :none}
  {:assignees [:american-felt],
@@ -8119,6 +8402,32 @@
   :open-license :none}
  {:jurisdiction :us,
   :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2955958/en",
+  :title
+  "Process of treating woven textile fabric with a vinyl chloride polymer",
+  :status :granted,
+  :id "US2955958",
+  :sourcing :authoritative,
+  :filing-year 1956,
+  :assignee :unassigned,
+  :grant-year 1960,
+  :cites
+  ["US2050156"
+   "US2302332"
+   "US2606845"
+   "US2624718"
+   "US2653892"
+   "US2665262"
+   "US2719803"
+   "US2725309"
+   "US2772181"
+   "US2779743"
+   "US2868675"
+   "US2930106"],
+  :term-years 20,
+  :open-license :none}
+ {:jurisdiction :us,
+  :field "UNKNOWN",
   :source "https://patents.google.com/patent/US2956931/en",
   :title "Dispensing biological materials",
   :status :granted,
@@ -8371,6 +8680,20 @@
    "US792620"
    "US823677"
    "US888464"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:ei-du-pont-de-nemours-and],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2968575/en",
+  :title "Stable polyurethane latex and process of making same",
+  :status :granted,
+  :id "US2968575",
+  :sourcing :authoritative,
+  :filing-year 1954,
+  :assignee :ei-du-pont-de-nemours-and,
+  :grant-year 1961,
+  :cites ["FR904939A" "US2621166" "US2692874" "US2726219"],
   :term-years 20,
   :open-license :none}
  {:assignees [:american-optical],
@@ -9768,325 +10091,5 @@
    "US2873221"
    "US2879190"
    "US2906647"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:scientific-industries],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3036893/en",
-  :title "Automatic chemical analyzer",
-  :status :granted,
-  :id "US3036893",
-  :sourcing :authoritative,
-  :filing-year 1960,
-  :assignee :scientific-industries,
-  :grant-year 1962,
-  :cites ["US2113063" "US2129754" "US2408058" "US2554414" "US2602729"],
-  :term-years 20,
-  :open-license :none}
- {:jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3036894/en",
-  :title "Method of using testing containers",
-  :status :granted,
-  :id "US3036894",
-  :sourcing :authoritative,
-  :filing-year 1958,
-  :assignee :unassigned,
-  :grant-year 1962,
-  :cites
-  ["US1983681"
-   "US2069333"
-   "US2487077"
-   "US2508197"
-   "US2534229"
-   "US2575467"
-   "US2770601"
-   "US2785057"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:consolidated-electrodynamics],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3036895/en",
-  :title "Fluid analysis",
-  :status :granted,
-  :id "US3036895",
-  :sourcing :authoritative,
-  :filing-year 1959,
-  :assignee :consolidated-electrodynamics,
-  :grant-year 1962,
-  :term-years 20,
-  :open-license :none}
- {:assignees [:toscony],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3036927/en",
-  :title "Method of coating vinyl film with a surfacing color",
-  :status :granted,
-  :id "US3036927",
-  :sourcing :authoritative,
-  :filing-year 1959,
-  :assignee :toscony,
-  :grant-year 1962,
-  :cites
-  ["US2163712"
-   "US2218249"
-   "US2312927"
-   "US2396946"
-   "US2453052"
-   "US2571962"
-   "US2700630"
-   "US2711132"
-   "US2729193"
-   "US2741215"
-   "US2771388"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:rohm-and-haas],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3037955/en",
-  :title
-  "Resinous coating compositions and methods of coating materials with them",
-  :status :granted,
-  :id "US3037955",
-  :sourcing :authoritative,
-  :filing-year 1958,
-  :assignee :rohm-and-haas,
-  :grant-year 1962,
-  :cites
-  ["US2406558"
-   "US2502030"
-   "US2503245"
-   "US2654721"
-   "US2868760"
-   "US2873212"
-   "US2881155"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:union-carbide],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3037966/en",
-  :title
-  "Method for producing polyimides from diamines and di-acid di-ester derivatives of dianhydrides",
-  :status :granted,
-  :id "US3037966",
-  :sourcing :authoritative,
-  :filing-year 1960,
-  :assignee :union-carbide,
-  :grant-year 1962,
-  :cites ["US2706720" "US2859220" "US2890206" "US2890207"],
-  :term-years 20,
-  :open-license :none}
- {:jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3038597/en",
-  :title "Multiple manipulation backing-boardmounted adhesive tape",
-  :status :granted,
-  :id "US3038597",
-  :sourcing :authoritative,
-  :filing-year 1959,
-  :assignee :unassigned,
-  :grant-year 1962,
-  :cites ["US2372994" "US2608341" "US2797801" "US2831277"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:monsanto-chemicals],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3038890/en",
-  :title "Chemical manufacture",
-  :status :granted,
-  :id "US3038890",
-  :sourcing :authoritative,
-  :filing-year 1960,
-  :assignee :monsanto-chemicals,
-  :grant-year 1962,
-  :cites ["US2531355" "US2834747"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:mine-safety-appliances],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3039053/en",
-  :title "Means and methods for gas detection",
-  :status :granted,
-  :id "US3039053",
-  :sourcing :authoritative,
-  :filing-year 1959,
-  :assignee :mine-safety-appliances,
-  :grant-year 1962,
-  :cites
-  ["US1792781"
-   "US2711511"
-   "US2728881"
-   "US2734154"
-   "US2776920"
-   "US2940041"
-   "US2965842"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:f-hoffmann-la-roche],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3040026/en",
-  :title "Processes and intermediates for deoxyfluorocytidine",
-  :status :granted,
-  :id "US3040026",
-  :sourcing :authoritative,
-  :filing-year 1959,
-  :assignee :f-hoffmann-la-roche,
-  :grant-year 1962,
-  :cites ["US2804459" "US2885396" "US2892840"],
-  :term-years 20,
-  :open-license :none}
- {:jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3040352/en",
-  :title "Lint remover",
-  :status :granted,
-  :id "US3040352",
-  :sourcing :authoritative,
-  :filing-year 1960,
-  :assignee :unassigned,
-  :grant-year 1962,
-  :cites
-  ["US2401842"
-   "US2430785"
-   "US2528602"
-   "US2708761"
-   "US2807039"
-   "US289879"
-   "US885276"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:kalle-and-kg],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3041165/en",
-  :title "Electrophotographic material",
-  :status :granted,
-  :id "US3041165",
-  :sourcing :authoritative,
-  :filing-year 1957,
-  :assignee :kalle-and-kg,
-  :grant-year 1962,
-  :cites
-  ["US2418747"
-   "US2426766"
-   "US2513996"
-   "US2663636"
-   "US2692178"
-   "US2800559"
-   "US2901348"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:f-hoffmann-la-roche],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3041335/en",
-  :title
-  "Mercury salts of nitrogen heterocyclics and preparation thereof",
-  :status :granted,
-  :id "US3041335",
-  :sourcing :authoritative,
-  :filing-year 1959,
-  :assignee :f-hoffmann-la-roche,
-  :grant-year 1962,
-  :term-years 20,
-  :open-license :none}
- {:jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3043211/en",
-  :title "Roller assemblies for the pressure treatment of materials",
-  :status :granted,
-  :id "US3043211",
-  :sourcing :authoritative,
-  :filing-year 1959,
-  :assignee :unassigned,
-  :grant-year 1962,
-  :cites
-  ["DE590531C"
-   "US2395915"
-   "US2704392"
-   "US2851869"
-   "US2871519"
-   "US2908964"],
-  :term-years 20,
-  :open-license :none}
- {:jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3043669/en",
-  :title "Chemical testing means",
-  :status :granted,
-  :id "US3043669",
-  :sourcing :authoritative,
-  :filing-year 1960,
-  :assignee :unassigned,
-  :grant-year 1962,
-  :cites ["US2129754"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:champion-papers],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3044896/en",
-  :title "Method of making cast coated paper",
-  :status :granted,
-  :id "US3044896",
-  :sourcing :authoritative,
-  :filing-year 1959,
-  :assignee :champion-papers,
-  :grant-year 1962,
-  :cites ["US2204600" "US2214565" "US2286259" "US2790730" "US2819184"],
-  :term-years 20,
-  :open-license :none}
- {:jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3045198/en",
-  :title "Detection device",
-  :status :granted,
-  :id "US3045198",
-  :sourcing :authoritative,
-  :filing-year 1959,
-  :assignee :unassigned,
-  :grant-year 1962,
-  :cites ["US2408093" "US2471601" "US2589983" "US2701832" "US2713625"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:wacker-chemie],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3046160/en",
-  :title "Process for treating paper with silicones",
-  :status :granted,
-  :id "US3046160",
-  :sourcing :authoritative,
-  :filing-year 1959,
-  :assignee :wacker-chemie,
-  :grant-year 1962,
-  :cites ["US2645629" "US2744079" "US2814601" "US2875098"],
-  :term-years 20,
-  :open-license :none}
- {:jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3047526/en",
-  :title "Leather-coating composition",
-  :status :granted,
-  :id "US3047526",
-  :sourcing :authoritative,
-  :filing-year 1959,
-  :assignee :unassigned,
-  :grant-year 1962,
-  :cites
-  ["US2099241"
-   "US2465073"
-   "US2600321"
-   "US2635059"
-   "US2854351"
-   "US2934510"
-   "US2938876"],
   :term-years 20,
   :open-license :none}]

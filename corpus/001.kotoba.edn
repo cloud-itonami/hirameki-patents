@@ -1,4 +1,30 @@
-[{:jurisdiction :us,
+[{:assignees [:hall-res],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US1628723/en",
+  :title "Relay",
+  :status :granted,
+  :id "US1628723",
+  :sourcing :authoritative,
+  :filing-year 1922,
+  :assignee :hall-res,
+  :grant-year 1927,
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:hamersley-manufacturing],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US1644451/en",
+  :title "Paper and process of making same",
+  :status :granted,
+  :id "US1644451",
+  :sourcing :authoritative,
+  :filing-year 1925,
+  :assignee :hamersley-manufacturing,
+  :grant-year 1927,
+  :term-years 20,
+  :open-license :none}
+ {:jurisdiction :us,
   :field "UNKNOWN",
   :source "https://patents.google.com/patent/US1660974/en",
   :title "Rapid-mixing flask",
@@ -435,6 +461,19 @@
   :grant-year 1876,
   :term-years 20,
   :open-license :none}
+ {:assignees [:standard-process],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US1812920/en",
+  :title "Doctor blade",
+  :status :granted,
+  :id "US1812920",
+  :sourcing :authoritative,
+  :filing-year 1930,
+  :assignee :standard-process,
+  :grant-year 1931,
+  :term-years 20,
+  :open-license :none}
  {:jurisdiction :us,
   :field "UNKNOWN",
   :source "https://patents.google.com/patent/US1815711/en",
@@ -588,6 +627,18 @@
   :open-license :none}
  {:jurisdiction :us,
   :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US1853451/en",
+  :title "Dry milk machine",
+  :status :granted,
+  :id "US1853451",
+  :sourcing :authoritative,
+  :filing-year 1928,
+  :assignee :unassigned,
+  :grant-year 1932,
+  :term-years 20,
+  :open-license :none}
+ {:jurisdiction :us,
+  :field "UNKNOWN",
   :source "https://patents.google.com/patent/US1853569/en",
   :title "Equalizer rod",
   :status :granted,
@@ -695,6 +746,18 @@
   :sourcing :authoritative,
   :filing-year 1929,
   :assignee :nat-paper-process,
+  :grant-year 1932,
+  :term-years 20,
+  :open-license :none}
+ {:jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US1880455/en",
+  :title "Doctor for calendering machines",
+  :status :granted,
+  :id "US1880455",
+  :sourcing :authoritative,
+  :filing-year 1930,
+  :assignee :unassigned,
   :grant-year 1932,
   :term-years 20,
   :open-license :none}
@@ -2011,6 +2074,19 @@
   :grant-year 1937,
   :term-years 20,
   :open-license :none}
+ {:assignees [:r-hoe-and],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2070667/en",
+  :title "Doctor blade mechanism for intaglio printing machines",
+  :status :granted,
+  :id "US2070667",
+  :sourcing :authoritative,
+  :filing-year 1934,
+  :assignee :r-hoe-and,
+  :grant-year 1937,
+  :term-years 20,
+  :open-license :none}
  {:assignees [:ei-du-pont-de-nemours-and],
   :jurisdiction :us,
   :field "UNKNOWN",
@@ -2100,6 +2176,19 @@
   :sourcing :authoritative,
   :filing-year 1935,
   :assignee :canadian-walipaper-manufacture,
+  :grant-year 1937,
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:internat-printing-ink],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2082819/en",
+  :title "Roller mill",
+  :status :granted,
+  :id "US2082819",
+  :sourcing :authoritative,
+  :filing-year 1933,
+  :assignee :internat-printing-ink,
   :grant-year 1937,
   :term-years 20,
   :open-license :none}
@@ -2384,6 +2473,19 @@
   :grant-year 1938,
   :term-years 20,
   :open-license :none}
+ {:assignees [:proctor-and-schwartz],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2117958/en",
+  :title "Stripper for drum driers",
+  :status :granted,
+  :id "US2117958",
+  :sourcing :authoritative,
+  :filing-year 1936,
+  :assignee :proctor-and-schwartz,
+  :grant-year 1938,
+  :term-years 20,
+  :open-license :none}
  {:assignees [:dixie-wax-paper],
   :jurisdiction :us,
   :field "UNKNOWN",
@@ -2663,6 +2765,19 @@
   :sourcing :authoritative,
   :filing-year 1936,
   :assignee :warren-sd,
+  :grant-year 1938,
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:sun-engraving],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2141978/en",
+  :title "Rotary printing or coating machine",
+  :status :granted,
+  :id "US2141978",
+  :sourcing :authoritative,
+  :filing-year 1937,
+  :assignee :sun-engraving,
   :grant-year 1938,
   :term-years 20,
   :open-license :none}
@@ -8208,6 +8323,32 @@
   :cites ["FR799345A" "US2317663" "US2327007" "US2360865"],
   :term-years 20,
   :open-license :none}
+ {:assignees [:thiokol],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2466963/en",
+  :title "Polysulfide polymer",
+  :status :granted,
+  :id "US2466963",
+  :sourcing :authoritative,
+  :filing-year 1945,
+  :assignee :thiokol,
+  :grant-year 1949,
+  :cites
+  ["DE228868C"
+   "GB453701A"
+   "GB458781A"
+   "US2031529"
+   "US2050370"
+   "US2051806"
+   "US2180262"
+   "US2261094"
+   "US2278129"
+   "US2389755"
+   "US2405166"
+   "US2417118"],
+  :term-years 20,
+  :open-license :none}
  {:assignees [:amf],
   :jurisdiction :us,
   :field "UNKNOWN",
@@ -9183,6 +9324,19 @@
   :cites ["US2047398" "US2324739" "US2418688"],
   :term-years 20,
   :open-license :none}
+ {:assignees [:hercules-powder],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2531392/en",
+  :title "Polyurethan coating compositions",
+  :status :granted,
+  :id "US2531392",
+  :sourcing :authoritative,
+  :filing-year 1948,
+  :assignee :hercules-powder,
+  :grant-year 1950,
+  :term-years 20,
+  :open-license :none}
  {:assignees [:baltimore-biolog-lab],
   :jurisdiction :us,
   :field "UNKNOWN",
@@ -9195,166 +9349,5 @@
   :assignee :baltimore-biolog-lab,
   :grant-year 1950,
   :cites ["US2144255" "US2279991" "US2348448" "US2361992"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:general-aniline-and-film],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US2533182/en",
-  :title
-  "Preparation of colored metallo-alpha-oximino ketone complex images",
-  :status :granted,
-  :id "US2533182",
-  :sourcing :authoritative,
-  :filing-year 1949,
-  :assignee :general-aniline-and-film,
-  :grant-year 1950,
-  :term-years 20,
-  :open-license :none}
- {:assignees [:united-states-rubber],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US2533976/en",
-  :title "Leather-like material",
-  :status :granted,
-  :id "US2533976",
-  :sourcing :authoritative,
-  :filing-year 1945,
-  :assignee :united-states-rubber,
-  :grant-year 1950,
-  :cites
-  ["US2068533"
-   "US2213899"
-   "US2220549"
-   "US2235682"
-   "US2304123"
-   "US2323563"
-   "US2444094"],
-  :term-years 20,
-  :open-license :none}
- {:jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US2534229/en",
-  :title "Method and apparatus for detecting hydrogen cyanide",
-  :status :granted,
-  :id "US2534229",
-  :sourcing :authoritative,
-  :filing-year 1945,
-  :assignee :unassigned,
-  :grant-year 1950,
-  :cites
-  ["GB431809A"
-   "GB496345A"
-   "GB519957A"
-   "US1321062"
-   "US1537519"
-   "US1595788"
-   "US1684587"
-   "US1789194"
-   "US2054885"
-   "US2176462"
-   "US2234499"
-   "US2321762"
-   "US2345219"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:ei-du-pont-de-nemours-and],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US2534326/en",
-  :title "Process of manufacturing photographic elements",
-  :status :granted,
-  :id "US2534326",
-  :sourcing :authoritative,
-  :filing-year 1946,
-  :assignee :ei-du-pont-de-nemours-and,
-  :grant-year 1950,
-  :cites ["US2249538" "US2251296" "US2376371" "US2386347" "US2397866"],
-  :term-years 20,
-  :open-license :none}
- {:jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US2536018/en",
-  :title "Coating compositions",
-  :status :granted,
-  :id "US2536018",
-  :sourcing :authoritative,
-  :filing-year 1948,
-  :assignee :unassigned,
-  :grant-year 1951,
-  :cites ["US2413197"],
-  :term-years 20,
-  :open-license :none}
- {:jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US2536470/en",
-  :title
-  "Preparation of freeze-stable polyvinyl acetate emulsion compositions",
-  :status :granted,
-  :id "US2536470",
-  :sourcing :authoritative,
-  :filing-year 1946,
-  :assignee :unassigned,
-  :grant-year 1951,
-  :cites
-  ["US2316629"
-   "US2343095"
-   "US2373347"
-   "US2388600"
-   "US2388601"
-   "US2398344"
-   "US2444396"
-   "US2459955"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:patchogue-plymouth-mills],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US2536656/en",
-  :title "Method of waterproofing paper textile fabrics",
-  :status :granted,
-  :id "US2536656",
-  :sourcing :authoritative,
-  :filing-year 1945,
-  :assignee :patchogue-plymouth-mills,
-  :grant-year 1951,
-  :cites
-  ["GB227527A"
-   "US143122"
-   "US1900904"
-   "US2133933"
-   "US2176981"
-   "US2298147"
-   "US2420974"
-   "US2426300"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:socony-vacuum-oil],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US2539355/en",
-  :title
-  "Apparatus for measuring interstitial water content, permeability, and electrical conductivity of well cores",
-  :status :granted,
-  :id "US2539355",
-  :sourcing :authoritative,
-  :filing-year 1947,
-  :assignee :socony-vacuum-oil,
-  :grant-year 1951,
-  :cites ["US2064651" "US2293488" "US2330721" "US2345935" "US2437935"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:american-cyanamid],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US2540780/en",
-  :title "Ultraviolet spectrophotometer",
-  :status :granted,
-  :id "US2540780",
-  :sourcing :authoritative,
-  :filing-year 1949,
-  :assignee :american-cyanamid,
-  :grant-year 1951,
-  :cites ["US2359734" "US2383075" "US2467325"],
   :term-years 20,
   :open-license :none}]

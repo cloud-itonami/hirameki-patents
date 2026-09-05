@@ -1,4 +1,324 @@
-[{:assignees [:beckman-instruments],
+[{:assignees [:scientific-industries],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3036893/en",
+  :title "Automatic chemical analyzer",
+  :status :granted,
+  :id "US3036893",
+  :sourcing :authoritative,
+  :filing-year 1960,
+  :assignee :scientific-industries,
+  :grant-year 1962,
+  :cites ["US2113063" "US2129754" "US2408058" "US2554414" "US2602729"],
+  :term-years 20,
+  :open-license :none}
+ {:jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3036894/en",
+  :title "Method of using testing containers",
+  :status :granted,
+  :id "US3036894",
+  :sourcing :authoritative,
+  :filing-year 1958,
+  :assignee :unassigned,
+  :grant-year 1962,
+  :cites
+  ["US1983681"
+   "US2069333"
+   "US2487077"
+   "US2508197"
+   "US2534229"
+   "US2575467"
+   "US2770601"
+   "US2785057"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:consolidated-electrodynamics],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3036895/en",
+  :title "Fluid analysis",
+  :status :granted,
+  :id "US3036895",
+  :sourcing :authoritative,
+  :filing-year 1959,
+  :assignee :consolidated-electrodynamics,
+  :grant-year 1962,
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:toscony],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3036927/en",
+  :title "Method of coating vinyl film with a surfacing color",
+  :status :granted,
+  :id "US3036927",
+  :sourcing :authoritative,
+  :filing-year 1959,
+  :assignee :toscony,
+  :grant-year 1962,
+  :cites
+  ["US2163712"
+   "US2218249"
+   "US2312927"
+   "US2396946"
+   "US2453052"
+   "US2571962"
+   "US2700630"
+   "US2711132"
+   "US2729193"
+   "US2741215"
+   "US2771388"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:rohm-and-haas],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3037955/en",
+  :title
+  "Resinous coating compositions and methods of coating materials with them",
+  :status :granted,
+  :id "US3037955",
+  :sourcing :authoritative,
+  :filing-year 1958,
+  :assignee :rohm-and-haas,
+  :grant-year 1962,
+  :cites
+  ["US2406558"
+   "US2502030"
+   "US2503245"
+   "US2654721"
+   "US2868760"
+   "US2873212"
+   "US2881155"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:union-carbide],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3037966/en",
+  :title
+  "Method for producing polyimides from diamines and di-acid di-ester derivatives of dianhydrides",
+  :status :granted,
+  :id "US3037966",
+  :sourcing :authoritative,
+  :filing-year 1960,
+  :assignee :union-carbide,
+  :grant-year 1962,
+  :cites ["US2706720" "US2859220" "US2890206" "US2890207"],
+  :term-years 20,
+  :open-license :none}
+ {:jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3038597/en",
+  :title "Multiple manipulation backing-boardmounted adhesive tape",
+  :status :granted,
+  :id "US3038597",
+  :sourcing :authoritative,
+  :filing-year 1959,
+  :assignee :unassigned,
+  :grant-year 1962,
+  :cites ["US2372994" "US2608341" "US2797801" "US2831277"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:monsanto-chemicals],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3038890/en",
+  :title "Chemical manufacture",
+  :status :granted,
+  :id "US3038890",
+  :sourcing :authoritative,
+  :filing-year 1960,
+  :assignee :monsanto-chemicals,
+  :grant-year 1962,
+  :cites ["US2531355" "US2834747"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:mine-safety-appliances],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3039053/en",
+  :title "Means and methods for gas detection",
+  :status :granted,
+  :id "US3039053",
+  :sourcing :authoritative,
+  :filing-year 1959,
+  :assignee :mine-safety-appliances,
+  :grant-year 1962,
+  :cites
+  ["US1792781"
+   "US2711511"
+   "US2728881"
+   "US2734154"
+   "US2776920"
+   "US2940041"
+   "US2965842"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:f-hoffmann-la-roche],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3040026/en",
+  :title "Processes and intermediates for deoxyfluorocytidine",
+  :status :granted,
+  :id "US3040026",
+  :sourcing :authoritative,
+  :filing-year 1959,
+  :assignee :f-hoffmann-la-roche,
+  :grant-year 1962,
+  :cites ["US2804459" "US2885396" "US2892840"],
+  :term-years 20,
+  :open-license :none}
+ {:jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3040352/en",
+  :title "Lint remover",
+  :status :granted,
+  :id "US3040352",
+  :sourcing :authoritative,
+  :filing-year 1960,
+  :assignee :unassigned,
+  :grant-year 1962,
+  :cites
+  ["US2401842"
+   "US2430785"
+   "US2528602"
+   "US2708761"
+   "US2807039"
+   "US289879"
+   "US885276"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:kalle-and-kg],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3041165/en",
+  :title "Electrophotographic material",
+  :status :granted,
+  :id "US3041165",
+  :sourcing :authoritative,
+  :filing-year 1957,
+  :assignee :kalle-and-kg,
+  :grant-year 1962,
+  :cites
+  ["US2418747"
+   "US2426766"
+   "US2513996"
+   "US2663636"
+   "US2692178"
+   "US2800559"
+   "US2901348"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:f-hoffmann-la-roche],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3041335/en",
+  :title
+  "Mercury salts of nitrogen heterocyclics and preparation thereof",
+  :status :granted,
+  :id "US3041335",
+  :sourcing :authoritative,
+  :filing-year 1959,
+  :assignee :f-hoffmann-la-roche,
+  :grant-year 1962,
+  :term-years 20,
+  :open-license :none}
+ {:jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3043211/en",
+  :title "Roller assemblies for the pressure treatment of materials",
+  :status :granted,
+  :id "US3043211",
+  :sourcing :authoritative,
+  :filing-year 1959,
+  :assignee :unassigned,
+  :grant-year 1962,
+  :cites
+  ["DE590531C"
+   "US2395915"
+   "US2704392"
+   "US2851869"
+   "US2871519"
+   "US2908964"],
+  :term-years 20,
+  :open-license :none}
+ {:jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3043669/en",
+  :title "Chemical testing means",
+  :status :granted,
+  :id "US3043669",
+  :sourcing :authoritative,
+  :filing-year 1960,
+  :assignee :unassigned,
+  :grant-year 1962,
+  :cites ["US2129754"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:champion-papers],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3044896/en",
+  :title "Method of making cast coated paper",
+  :status :granted,
+  :id "US3044896",
+  :sourcing :authoritative,
+  :filing-year 1959,
+  :assignee :champion-papers,
+  :grant-year 1962,
+  :cites ["US2204600" "US2214565" "US2286259" "US2790730" "US2819184"],
+  :term-years 20,
+  :open-license :none}
+ {:jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3045198/en",
+  :title "Detection device",
+  :status :granted,
+  :id "US3045198",
+  :sourcing :authoritative,
+  :filing-year 1959,
+  :assignee :unassigned,
+  :grant-year 1962,
+  :cites ["US2408093" "US2471601" "US2589983" "US2701832" "US2713625"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:wacker-chemie],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3046160/en",
+  :title "Process for treating paper with silicones",
+  :status :granted,
+  :id "US3046160",
+  :sourcing :authoritative,
+  :filing-year 1959,
+  :assignee :wacker-chemie,
+  :grant-year 1962,
+  :cites ["US2645629" "US2744079" "US2814601" "US2875098"],
+  :term-years 20,
+  :open-license :none}
+ {:jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3047526/en",
+  :title "Leather-coating composition",
+  :status :granted,
+  :id "US3047526",
+  :sourcing :authoritative,
+  :filing-year 1959,
+  :assignee :unassigned,
+  :grant-year 1962,
+  :cites
+  ["US2099241"
+   "US2465073"
+   "US2600321"
+   "US2635059"
+   "US2854351"
+   "US2934510"
+   "US2938876"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:beckman-instruments],
   :jurisdiction :us,
   :field "UNKNOWN",
   :source "https://patents.google.com/patent/US3049118/en",
@@ -9056,307 +9376,5 @@
   :filing-year 1968,
   :assignee :pabst-brewing,
   :grant-year 1971,
-  :term-years 20,
-  :open-license :none}
- {:assignees [:glaxo-laboratories],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3597318/en",
-  :title "Production of double stranded hibonucleic acid",
-  :status :granted,
-  :id "US3597318",
-  :sourcing :authoritative,
-  :filing-year 1969,
-  :assignee :glaxo-laboratories,
-  :grant-year 1971,
-  :term-years 20,
-  :open-license :none}
- {:assignees [:kabi],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3598704/en",
-  :title "Diagnostic device for various sugars",
-  :status :granted,
-  :id "US3598704",
-  :sourcing :authoritative,
-  :filing-year 1966,
-  :assignee :kabi,
-  :grant-year 1971,
-  :term-years 20,
-  :open-license :none}
- {:assignees [:hitachi],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3598762/en",
-  :title
-  "Vanadium oxide semiconductors and method of manufacturing same",
-  :status :granted,
-  :id "US3598762",
-  :sourcing :authoritative,
-  :filing-year 1967,
-  :assignee :hitachi,
-  :grant-year 1971,
-  :term-years 20,
-  :open-license :none}
- {:assignees [:buckbee-mears],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3600213/en",
-  :title "Aperture masks",
-  :status :granted,
-  :id "US3600213",
-  :sourcing :authoritative,
-  :filing-year 1969,
-  :assignee :buckbee-mears,
-  :grant-year 1971,
-  :term-years 20,
-  :open-license :none}
- {:assignees [:us-atomic-energy-commission-aec],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3600291/en",
-  :title "Method of producing dense carbon from anthracene",
-  :status :granted,
-  :id "US3600291",
-  :sourcing :authoritative,
-  :filing-year 1969,
-  :assignee :us-atomic-energy-commission-aec,
-  :grant-year 1971,
-  :term-years 20,
-  :open-license :none}
- {:assignees [:scientific-industries],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3607079/en",
-  :title "Analysis arrangement for chemical analyzing apparatus",
-  :status :granted,
-  :id "US3607079",
-  :sourcing :authoritative,
-  :filing-year 1969,
-  :assignee :scientific-industries,
-  :grant-year 1971,
-  :cites ["US3036893" "US3036894" "US3502438" "US3508879"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:scientific-industries],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3607090/en",
-  :title
-  "Analysis arrangment for multiple analyses of a single sample",
-  :status :granted,
-  :id "US3607090",
-  :sourcing :authoritative,
-  :filing-year 1969,
-  :assignee :scientific-industries,
-  :grant-year 1971,
-  :cites ["US3036894" "US3260413" "US3261668" "US3497320" "US3508879"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:autokemi],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3607094/en",
-  :title "Apparatus for pipetting and adding a liquid",
-  :status :granted,
-  :id "US3607094",
-  :sourcing :authoritative,
-  :filing-year 1969,
-  :assignee :autokemi,
-  :grant-year 1971,
-  :cites ["US1896134" "US2216890" "US3193359" "US3421858" "US3475130"],
-  :term-years 20,
-  :open-license :none}
- {:jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3607382/en",
-  :title "Method of producing photovarnish masks for semiconductors",
-  :status :granted,
-  :id "US3607382",
-  :sourcing :authoritative,
-  :filing-year 1968,
-  :assignee :unassigned,
-  :grant-year 1971,
-  :cites
-  ["US2705764"
-   "US2968723"
-   "US3113896"
-   "US3162767"
-   "US3326176"
-   "US3330696"
-   "US3364087"
-   "US3388000"
-   "US3442647"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:ilford],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3607997/en",
-  :title "Method for producing an x-ray intensifying screen",
-  :status :granted,
-  :id "US3607997",
-  :sourcing :authoritative,
-  :filing-year 1968,
-  :assignee :ilford,
-  :grant-year 1971,
-  :term-years 20,
-  :open-license :none}
- {:assignees [:nat-res-dev],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3608729/en",
-  :title "Disposable dialyser pack with adsorbent",
-  :status :granted,
-  :id "US3608729",
-  :sourcing :authoritative,
-  :filing-year 1968,
-  :assignee :nat-res-dev,
-  :grant-year 1971,
-  :cites ["US2502614" "US3397785"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:buckbee-mears],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3609033/en",
-  :title "Mask for etching enlargement",
-  :status :granted,
-  :id "US3609033",
-  :sourcing :authoritative,
-  :filing-year 1969,
-  :assignee :buckbee-mears,
-  :grant-year 1971,
-  :term-years 20,
-  :open-license :none}
- {:assignees [:century-geophysical],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3610934/en",
-  :title
-  "Automatic focusing system utilizing means for alternately directing light over two paths having slightly different lengths",
-  :status :granted,
-  :id "US3610934",
-  :sourcing :authoritative,
-  :filing-year 1969,
-  :assignee :century-geophysical,
-  :grant-year 1971,
-  :cites ["US2831057" "US2838600"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:rapistan],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3612250/en",
-  :title "Recirculation limit system for conveyors",
-  :status :granted,
-  :id "US3612250",
-  :sourcing :authoritative,
-  :filing-year 1970,
-  :assignee :rapistan,
-  :grant-year 1971,
-  :cites ["US3075653"],
-  :term-years 20,
-  :open-license :none}
- {:jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3612866/en",
-  :title
-  "Instrument for determining oxygen quantities by measuring oxygen quenching of fluorescent radiation",
-  :status :granted,
-  :id "US3612866",
-  :sourcing :authoritative,
-  :filing-year 1969,
-  :assignee :unassigned,
-  :grant-year 1971,
-  :cites ["US3285703"],
-  :term-years 20,
-  :open-license :none}
- {:jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3613884/en",
-  :title "Fish egg sorting apparatus",
-  :status :granted,
-  :id "US3613884",
-  :sourcing :authoritative,
-  :filing-year 1970,
-  :assignee :unassigned,
-  :grant-year 1971,
-  :cites ["US3297157" "US3517807"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:coulter-electronics],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3614231/en",
-  :title "Optical aerosol counter",
-  :status :granted,
-  :id "US3614231",
-  :sourcing :authoritative,
-  :filing-year 1968,
-  :assignee :coulter-electronics,
-  :grant-year 1971,
-  :cites
-  ["US2347066"
-   "US2347067"
-   "US2732753"
-   "US2852693"
-   "US2920525"
-   "US3039355"
-   "US3231748"
-   "US3248551"
-   "US3361030"
-   "US3398286"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:international-business-machines],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3614232/en",
-  :title
-  "Pattern defect sensing using error free blocking spacial filter",
-  :status :granted,
-  :id "US3614232",
-  :sourcing :authoritative,
-  :filing-year 1968,
-  :assignee :international-business-machines,
-  :grant-year 1971,
-  :cites ["US1135919" "US3085469" "US3418626"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:deutsche-itt-industries],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3614449/en",
-  :title "Optical tracking system utilizing a coaxial lens system",
-  :status :granted,
-  :id "US3614449",
-  :sourcing :authoritative,
-  :filing-year 1969,
-  :assignee :deutsche-itt-industries,
-  :grant-year 1971,
-  :cites
-  ["US2504383"
-   "US2753760"
-   "US2798961"
-   "US3173012"
-   "US3244885"
-   "US3398285"
-   "US3497696"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:new-england-nuclear],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3615222/en",
-  :title
-  "Method and apparatus for measuring the amount of a component in a biological fluid",
-  :status :granted,
-  :id "US3615222",
-  :sourcing :authoritative,
-  :filing-year 1968,
-  :assignee :new-england-nuclear,
-  :grant-year 1971,
-  :cites ["US3072362" "US3397965"],
   :term-years 20,
   :open-license :none}]

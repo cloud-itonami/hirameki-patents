@@ -752,6 +752,43 @@
   ":hirameki/source"
   "https://patents.google.com/patent/CA536441A/en"]
  [":db/add"
+  "hirameki-patent:CA583572A"
+  ":hirameki.patent/title"
+  "Aqueous dispersion of diisocyanate elastomers"]
+ [":db/add"
+  "hirameki-patent:CA583572A"
+  ":hirameki.patent/jurisdiction"
+  ":ca"]
+ [":db/add"
+  "hirameki-patent:CA583572A"
+  ":hirameki.patent/field"
+  "UNKNOWN"]
+ [":db/add"
+  "hirameki-patent:CA583572A"
+  ":hirameki.patent/assignee"
+  ":ei-du-pont-de-nemours-and"]
+ [":db/add"
+  "hirameki-patent:CA583572A"
+  ":hirameki.patent/status"
+  ":granted"]
+ [":db/add"
+  "hirameki-patent:CA583572A"
+  ":hirameki.patent/open-license"
+  ":none"]
+ [":db/add"
+  "hirameki-patent:CA583572A"
+  ":hirameki.obs/release-status"
+  ":in-force"]
+ [":db/add"
+  "hirameki-patent:CA583572A"
+  ":hirameki/sourcing"
+  ":authoritative"]
+ [":db/add" "hirameki-patent:CA583572A" ":hirameki/derived" true]
+ [":db/add"
+  "hirameki-patent:CA583572A"
+  ":hirameki/source"
+  "https://patents.google.com/patent/CA583572A/en"]
+ [":db/add"
   "hirameki-patent:CA659059A"
   ":hirameki.patent/title"
   "Shaped structures for biological processes"]
@@ -9904,41 +9941,4 @@
  [":db/add"
   "hirameki-patent:FR856012A"
   ":hirameki/source"
-  "https://patents.google.com/patent/FR856012A/en"]
- [":db/add"
-  "hirameki-patent:FR873507A"
-  ":hirameki.patent/title"
-  "Method for obtaining images using silver halide"]
- [":db/add"
-  "hirameki-patent:FR873507A"
-  ":hirameki.patent/jurisdiction"
-  ":fr"]
- [":db/add"
-  "hirameki-patent:FR873507A"
-  ":hirameki.patent/field"
-  "UNKNOWN"]
- [":db/add"
-  "hirameki-patent:FR873507A"
-  ":hirameki.patent/assignee"
-  ":gevaert-photo-producten"]
- [":db/add"
-  "hirameki-patent:FR873507A"
-  ":hirameki.patent/status"
-  ":granted"]
- [":db/add"
-  "hirameki-patent:FR873507A"
-  ":hirameki.patent/open-license"
-  ":none"]
- [":db/add"
-  "hirameki-patent:FR873507A"
-  ":hirameki.obs/release-status"
-  ":public-domain"]
- [":db/add"
-  "hirameki-patent:FR873507A"
-  ":hirameki/sourcing"
-  ":authoritative"]
- [":db/add" "hirameki-patent:FR873507A" ":hirameki/derived" true]
- [":db/add"
-  "hirameki-patent:FR873507A"
-  ":hirameki.obs/years-to-expiry"
-  -65]]
+  "https://patents.google.com/patent/FR856012A/en"]]

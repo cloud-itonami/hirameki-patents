@@ -1,5 +1,42 @@
 [[":db/add"
   "hirameki-patent:FR873507A"
+  ":hirameki.patent/title"
+  "Method for obtaining images using silver halide"]
+ [":db/add"
+  "hirameki-patent:FR873507A"
+  ":hirameki.patent/jurisdiction"
+  ":fr"]
+ [":db/add"
+  "hirameki-patent:FR873507A"
+  ":hirameki.patent/field"
+  "UNKNOWN"]
+ [":db/add"
+  "hirameki-patent:FR873507A"
+  ":hirameki.patent/assignee"
+  ":gevaert-photo-producten"]
+ [":db/add"
+  "hirameki-patent:FR873507A"
+  ":hirameki.patent/status"
+  ":granted"]
+ [":db/add"
+  "hirameki-patent:FR873507A"
+  ":hirameki.patent/open-license"
+  ":none"]
+ [":db/add"
+  "hirameki-patent:FR873507A"
+  ":hirameki.obs/release-status"
+  ":public-domain"]
+ [":db/add"
+  "hirameki-patent:FR873507A"
+  ":hirameki/sourcing"
+  ":authoritative"]
+ [":db/add" "hirameki-patent:FR873507A" ":hirameki/derived" true]
+ [":db/add"
+  "hirameki-patent:FR873507A"
+  ":hirameki.obs/years-to-expiry"
+  -65]
+ [":db/add"
+  "hirameki-patent:FR873507A"
   ":hirameki/source"
   "https://patents.google.com/patent/FR873507A/en"]
  [":db/add"
@@ -4789,6 +4826,47 @@
   "hirameki-patent:GB813579A"
   ":hirameki/source"
   "https://patents.google.com/patent/GB813579A/en"]
+ [":db/add"
+  "hirameki-patent:GB815185A"
+  ":hirameki.patent/title"
+  "Treatment of leather"]
+ [":db/add"
+  "hirameki-patent:GB815185A"
+  ":hirameki.patent/jurisdiction"
+  ":gb"]
+ [":db/add"
+  "hirameki-patent:GB815185A"
+  ":hirameki.patent/field"
+  "UNKNOWN"]
+ [":db/add"
+  "hirameki-patent:GB815185A"
+  ":hirameki.patent/assignee"
+  ":imperial-chemical-industries"]
+ [":db/add"
+  "hirameki-patent:GB815185A"
+  ":hirameki.patent/status"
+  ":pending"]
+ [":db/add"
+  "hirameki-patent:GB815185A"
+  ":hirameki.patent/open-license"
+  ":none"]
+ [":db/add"
+  "hirameki-patent:GB815185A"
+  ":hirameki.obs/release-status"
+  ":pending"]
+ [":db/add"
+  "hirameki-patent:GB815185A"
+  ":hirameki/sourcing"
+  ":authoritative"]
+ [":db/add" "hirameki-patent:GB815185A" ":hirameki/derived" true]
+ [":db/add"
+  "hirameki-patent:GB815185A"
+  ":hirameki.obs/years-to-expiry"
+  -49]
+ [":db/add"
+  "hirameki-patent:GB815185A"
+  ":hirameki/source"
+  "https://patents.google.com/patent/GB815185A/en"]
  [":db/add"
   "hirameki-patent:GB830189A"
   ":hirameki.patent/title"
@@ -9941,78 +10019,4 @@
  [":db/add"
   "hirameki-patent:JP2004269860A"
   ":hirameki.obs/release-status"
-  ":pending"]
- [":db/add"
-  "hirameki-patent:JP2004269860A"
-  ":hirameki/sourcing"
-  ":authoritative"]
- [":db/add" "hirameki-patent:JP2004269860A" ":hirameki/derived" true]
- [":db/add"
-  "hirameki-patent:JP2004269860A"
-  ":hirameki.obs/years-to-expiry"
-  -2]
- [":db/add"
-  "hirameki-patent:JP2004269860A"
-  ":hirameki/source"
-  "https://patents.google.com/patent/JP2004269860A/en"]
- [":db/add"
-  "hirameki-patent:JP2004291432A"
-  ":hirameki.patent/title"
-  "Decorative sheet"]
- [":db/add"
-  "hirameki-patent:JP2004291432A"
-  ":hirameki.patent/jurisdiction"
-  ":jp"]
- [":db/add"
-  "hirameki-patent:JP2004291432A"
-  ":hirameki.patent/field"
-  "UNKNOWN"]
- [":db/add"
-  "hirameki-patent:JP2004291432A"
-  ":hirameki.patent/assignee"
-  ":dai-nippon-printing"]
- [":db/add"
-  "hirameki-patent:JP2004291432A"
-  ":hirameki.patent/status"
-  ":pending"]
- [":db/add"
-  "hirameki-patent:JP2004291432A"
-  ":hirameki.patent/open-license"
-  ":none"]
- [":db/add"
-  "hirameki-patent:JP2004291432A"
-  ":hirameki.obs/release-status"
-  ":pending"]
- [":db/add"
-  "hirameki-patent:JP2004291432A"
-  ":hirameki/sourcing"
-  ":authoritative"]
- [":db/add" "hirameki-patent:JP2004291432A" ":hirameki/derived" true]
- [":db/add"
-  "hirameki-patent:JP2004291432A"
-  ":hirameki.obs/years-to-expiry"
-  -3]
- [":db/add"
-  "hirameki-patent:JP2004291432A"
-  ":hirameki/source"
-  "https://patents.google.com/patent/JP2004291432A/en"]
- [":db/add"
-  "hirameki-patent:JP2004291434A"
-  ":hirameki.patent/title"
-  "Decorative sheet and method for producing the same"]
- [":db/add"
-  "hirameki-patent:JP2004291434A"
-  ":hirameki.patent/jurisdiction"
-  ":jp"]
- [":db/add"
-  "hirameki-patent:JP2004291434A"
-  ":hirameki.patent/field"
-  "UNKNOWN"]
- [":db/add"
-  "hirameki-patent:JP2004291434A"
-  ":hirameki.patent/assignee"
-  ":dai-nippon-printing"]
- [":db/add"
-  "hirameki-patent:JP2004291434A"
-  ":hirameki.patent/status"
   ":pending"]]

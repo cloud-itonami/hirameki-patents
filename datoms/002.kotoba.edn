@@ -1,4 +1,78 @@
 [[":db/add"
+  "hirameki-patent:JP2004269860A"
+  ":hirameki/sourcing"
+  ":authoritative"]
+ [":db/add" "hirameki-patent:JP2004269860A" ":hirameki/derived" true]
+ [":db/add"
+  "hirameki-patent:JP2004269860A"
+  ":hirameki.obs/years-to-expiry"
+  -2]
+ [":db/add"
+  "hirameki-patent:JP2004269860A"
+  ":hirameki/source"
+  "https://patents.google.com/patent/JP2004269860A/en"]
+ [":db/add"
+  "hirameki-patent:JP2004291432A"
+  ":hirameki.patent/title"
+  "Decorative sheet"]
+ [":db/add"
+  "hirameki-patent:JP2004291432A"
+  ":hirameki.patent/jurisdiction"
+  ":jp"]
+ [":db/add"
+  "hirameki-patent:JP2004291432A"
+  ":hirameki.patent/field"
+  "UNKNOWN"]
+ [":db/add"
+  "hirameki-patent:JP2004291432A"
+  ":hirameki.patent/assignee"
+  ":dai-nippon-printing"]
+ [":db/add"
+  "hirameki-patent:JP2004291432A"
+  ":hirameki.patent/status"
+  ":pending"]
+ [":db/add"
+  "hirameki-patent:JP2004291432A"
+  ":hirameki.patent/open-license"
+  ":none"]
+ [":db/add"
+  "hirameki-patent:JP2004291432A"
+  ":hirameki.obs/release-status"
+  ":pending"]
+ [":db/add"
+  "hirameki-patent:JP2004291432A"
+  ":hirameki/sourcing"
+  ":authoritative"]
+ [":db/add" "hirameki-patent:JP2004291432A" ":hirameki/derived" true]
+ [":db/add"
+  "hirameki-patent:JP2004291432A"
+  ":hirameki.obs/years-to-expiry"
+  -3]
+ [":db/add"
+  "hirameki-patent:JP2004291432A"
+  ":hirameki/source"
+  "https://patents.google.com/patent/JP2004291432A/en"]
+ [":db/add"
+  "hirameki-patent:JP2004291434A"
+  ":hirameki.patent/title"
+  "Decorative sheet and method for producing the same"]
+ [":db/add"
+  "hirameki-patent:JP2004291434A"
+  ":hirameki.patent/jurisdiction"
+  ":jp"]
+ [":db/add"
+  "hirameki-patent:JP2004291434A"
+  ":hirameki.patent/field"
+  "UNKNOWN"]
+ [":db/add"
+  "hirameki-patent:JP2004291434A"
+  ":hirameki.patent/assignee"
+  ":dai-nippon-printing"]
+ [":db/add"
+  "hirameki-patent:JP2004291434A"
+  ":hirameki.patent/status"
+  ":pending"]
+ [":db/add"
   "hirameki-patent:JP2004291434A"
   ":hirameki.patent/open-license"
   ":none"]
@@ -8079,6 +8153,47 @@
   ":hirameki/source"
   "https://patents.google.com/patent/US180945/en"]
  [":db/add"
+  "hirameki-patent:US1812920"
+  ":hirameki.patent/title"
+  "Doctor blade"]
+ [":db/add"
+  "hirameki-patent:US1812920"
+  ":hirameki.patent/jurisdiction"
+  ":us"]
+ [":db/add"
+  "hirameki-patent:US1812920"
+  ":hirameki.patent/field"
+  "UNKNOWN"]
+ [":db/add"
+  "hirameki-patent:US1812920"
+  ":hirameki.patent/assignee"
+  ":standard-process"]
+ [":db/add"
+  "hirameki-patent:US1812920"
+  ":hirameki.patent/status"
+  ":granted"]
+ [":db/add"
+  "hirameki-patent:US1812920"
+  ":hirameki.patent/open-license"
+  ":none"]
+ [":db/add"
+  "hirameki-patent:US1812920"
+  ":hirameki.obs/release-status"
+  ":public-domain"]
+ [":db/add"
+  "hirameki-patent:US1812920"
+  ":hirameki/sourcing"
+  ":authoritative"]
+ [":db/add" "hirameki-patent:US1812920" ":hirameki/derived" true]
+ [":db/add"
+  "hirameki-patent:US1812920"
+  ":hirameki.obs/years-to-expiry"
+  -76]
+ [":db/add"
+  "hirameki-patent:US1812920"
+  ":hirameki/source"
+  "https://patents.google.com/patent/US1812920/en"]
+ [":db/add"
   "hirameki-patent:US1815711"
   ":hirameki.patent/title"
   "Sirup percolator"]
@@ -8563,6 +8678,47 @@
   ":hirameki/source"
   "https://patents.google.com/patent/US1852964/en"]
  [":db/add"
+  "hirameki-patent:US1853451"
+  ":hirameki.patent/title"
+  "Dry milk machine"]
+ [":db/add"
+  "hirameki-patent:US1853451"
+  ":hirameki.patent/jurisdiction"
+  ":us"]
+ [":db/add"
+  "hirameki-patent:US1853451"
+  ":hirameki.patent/field"
+  "UNKNOWN"]
+ [":db/add"
+  "hirameki-patent:US1853451"
+  ":hirameki.patent/assignee"
+  ":unassigned"]
+ [":db/add"
+  "hirameki-patent:US1853451"
+  ":hirameki.patent/status"
+  ":granted"]
+ [":db/add"
+  "hirameki-patent:US1853451"
+  ":hirameki.patent/open-license"
+  ":none"]
+ [":db/add"
+  "hirameki-patent:US1853451"
+  ":hirameki.obs/release-status"
+  ":public-domain"]
+ [":db/add"
+  "hirameki-patent:US1853451"
+  ":hirameki/sourcing"
+  ":authoritative"]
+ [":db/add" "hirameki-patent:US1853451" ":hirameki/derived" true]
+ [":db/add"
+  "hirameki-patent:US1853451"
+  ":hirameki.obs/years-to-expiry"
+  -78]
+ [":db/add"
+  "hirameki-patent:US1853451"
+  ":hirameki/source"
+  "https://patents.google.com/patent/US1853451/en"]
+ [":db/add"
   "hirameki-patent:US1853569"
   ":hirameki.patent/title"
   "Equalizer rod"]
@@ -8931,6 +9087,47 @@
   "hirameki-patent:US1877512"
   ":hirameki/source"
   "https://patents.google.com/patent/US1877512/en"]
+ [":db/add"
+  "hirameki-patent:US1880455"
+  ":hirameki.patent/title"
+  "Doctor for calendering machines"]
+ [":db/add"
+  "hirameki-patent:US1880455"
+  ":hirameki.patent/jurisdiction"
+  ":us"]
+ [":db/add"
+  "hirameki-patent:US1880455"
+  ":hirameki.patent/field"
+  "UNKNOWN"]
+ [":db/add"
+  "hirameki-patent:US1880455"
+  ":hirameki.patent/assignee"
+  ":unassigned"]
+ [":db/add"
+  "hirameki-patent:US1880455"
+  ":hirameki.patent/status"
+  ":granted"]
+ [":db/add"
+  "hirameki-patent:US1880455"
+  ":hirameki.patent/open-license"
+  ":none"]
+ [":db/add"
+  "hirameki-patent:US1880455"
+  ":hirameki.obs/release-status"
+  ":public-domain"]
+ [":db/add"
+  "hirameki-patent:US1880455"
+  ":hirameki/sourcing"
+  ":authoritative"]
+ [":db/add" "hirameki-patent:US1880455" ":hirameki/derived" true]
+ [":db/add"
+  "hirameki-patent:US1880455"
+  ":hirameki.obs/years-to-expiry"
+  -76]
+ [":db/add"
+  "hirameki-patent:US1880455"
+  ":hirameki/source"
+  "https://patents.google.com/patent/US1880455/en"]
  [":db/add"
   "hirameki-patent:US1881404"
   ":hirameki.patent/title"
@@ -10041,201 +10238,4 @@
  [":db/add"
   "hirameki-patent:US1937317"
   ":hirameki.patent/assignee"
-  ":certain-teed-products"]
- [":db/add"
-  "hirameki-patent:US1937317"
-  ":hirameki.patent/status"
-  ":granted"]
- [":db/add"
-  "hirameki-patent:US1937317"
-  ":hirameki.patent/open-license"
-  ":none"]
- [":db/add"
-  "hirameki-patent:US1937317"
-  ":hirameki.obs/release-status"
-  ":public-domain"]
- [":db/add"
-  "hirameki-patent:US1937317"
-  ":hirameki/sourcing"
-  ":authoritative"]
- [":db/add" "hirameki-patent:US1937317" ":hirameki/derived" true]
- [":db/add"
-  "hirameki-patent:US1937317"
-  ":hirameki.obs/years-to-expiry"
-  -79]
- [":db/add"
-  "hirameki-patent:US1937317"
-  ":hirameki/source"
-  "https://patents.google.com/patent/US1937317/en"]
- [":db/add"
-  "hirameki-patent:US1939691"
-  ":hirameki.patent/title"
-  "Infusible synthetic resins and a process of making same"]
- [":db/add"
-  "hirameki-patent:US1939691"
-  ":hirameki.patent/jurisdiction"
-  ":us"]
- [":db/add"
-  "hirameki-patent:US1939691"
-  ":hirameki.patent/field"
-  "UNKNOWN"]
- [":db/add"
-  "hirameki-patent:US1939691"
-  ":hirameki.patent/assignee"
-  ":ciba-products"]
- [":db/add"
-  "hirameki-patent:US1939691"
-  ":hirameki.patent/status"
-  ":granted"]
- [":db/add"
-  "hirameki-patent:US1939691"
-  ":hirameki.patent/open-license"
-  ":none"]
- [":db/add"
-  "hirameki-patent:US1939691"
-  ":hirameki.obs/release-status"
-  ":public-domain"]
- [":db/add"
-  "hirameki-patent:US1939691"
-  ":hirameki/sourcing"
-  ":authoritative"]
- [":db/add" "hirameki-patent:US1939691" ":hirameki/derived" true]
- [":db/add"
-  "hirameki-patent:US1939691"
-  ":hirameki.obs/years-to-expiry"
-  -79]
- [":db/add"
-  "hirameki-patent:US1939691"
-  ":hirameki/source"
-  "https://patents.google.com/patent/US1939691/en"]
- [":db/add"
-  "hirameki-patent:US194613"
-  ":hirameki.patent/title"
-  "Improvement in machines for damping paper"]
- [":db/add"
-  "hirameki-patent:US194613"
-  ":hirameki.patent/jurisdiction"
-  ":us"]
- [":db/add"
-  "hirameki-patent:US194613"
-  ":hirameki.patent/field"
-  "UNKNOWN"]
- [":db/add"
-  "hirameki-patent:US194613"
-  ":hirameki.patent/assignee"
-  ":unassigned"]
- [":db/add"
-  "hirameki-patent:US194613"
-  ":hirameki.patent/status"
-  ":granted"]
- [":db/add"
-  "hirameki-patent:US194613"
-  ":hirameki.patent/open-license"
-  ":none"]
- [":db/add"
-  "hirameki-patent:US194613"
-  ":hirameki.obs/release-status"
-  ":in-force"]
- [":db/add"
-  "hirameki-patent:US194613"
-  ":hirameki/sourcing"
-  ":authoritative"]
- [":db/add" "hirameki-patent:US194613" ":hirameki/derived" true]
- [":db/add"
-  "hirameki-patent:US194613"
-  ":hirameki/source"
-  "https://patents.google.com/patent/US194613/en"]
- [":db/add"
-  "hirameki-patent:US1951035"
-  ":hirameki.patent/title"
-  "Apparatus for recording and controlling"]
- [":db/add"
-  "hirameki-patent:US1951035"
-  ":hirameki.patent/jurisdiction"
-  ":us"]
- [":db/add"
-  "hirameki-patent:US1951035"
-  ":hirameki.patent/field"
-  "UNKNOWN"]
- [":db/add"
-  "hirameki-patent:US1951035"
-  ":hirameki.patent/assignee"
-  ":leeds-and-northrup"]
- [":db/add"
-  "hirameki-patent:US1951035"
-  ":hirameki.patent/status"
-  ":granted"]
- [":db/add"
-  "hirameki-patent:US1951035"
-  ":hirameki.patent/open-license"
-  ":none"]
- [":db/add"
-  "hirameki-patent:US1951035"
-  ":hirameki.obs/release-status"
-  ":public-domain"]
- [":db/add"
-  "hirameki-patent:US1951035"
-  ":hirameki/sourcing"
-  ":authoritative"]
- [":db/add" "hirameki-patent:US1951035" ":hirameki/derived" true]
- [":db/add"
-  "hirameki-patent:US1951035"
-  ":hirameki.obs/years-to-expiry"
-  -78]
- [":db/add"
-  "hirameki-patent:US1951035"
-  ":hirameki/source"
-  "https://patents.google.com/patent/US1951035/en"]
- [":db/add"
-  "hirameki-patent:US1954452"
-  ":hirameki.patent/title"
-  "Method of making color photographs"]
- [":db/add"
-  "hirameki-patent:US1954452"
-  ":hirameki.patent/jurisdiction"
-  ":us"]
- [":db/add"
-  "hirameki-patent:US1954452"
-  ":hirameki.patent/field"
-  "UNKNOWN"]
- [":db/add"
-  "hirameki-patent:US1954452"
-  ":hirameki.patent/assignee"
-  ":unassigned"]
- [":db/add"
-  "hirameki-patent:US1954452"
-  ":hirameki.patent/status"
-  ":granted"]
- [":db/add"
-  "hirameki-patent:US1954452"
-  ":hirameki.patent/open-license"
-  ":none"]
- [":db/add"
-  "hirameki-patent:US1954452"
-  ":hirameki.obs/release-status"
-  ":public-domain"]
- [":db/add"
-  "hirameki-patent:US1954452"
-  ":hirameki/sourcing"
-  ":authoritative"]
- [":db/add" "hirameki-patent:US1954452" ":hirameki/derived" true]
- [":db/add"
-  "hirameki-patent:US1954452"
-  ":hirameki.obs/years-to-expiry"
-  -76]
- [":db/add"
-  "hirameki-patent:US1954452"
-  ":hirameki/source"
-  "https://patents.google.com/patent/US1954452/en"]
- [":db/add"
-  "hirameki-patent:US1956561"
-  ":hirameki.patent/title"
-  "Coating apparatus"]
- [":db/add"
-  "hirameki-patent:US1956561"
-  ":hirameki.patent/jurisdiction"
-  ":us"]
- [":db/add"
-  "hirameki-patent:US1956561"
-  ":hirameki.patent/field"
-  "UNKNOWN"]]
+  ":certain-teed-products"]]
