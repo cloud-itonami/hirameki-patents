@@ -1,4 +1,244 @@
-[{:assignees [:ei-du-pont-de-nemours-and],
+[{:assignees [:american-cyanamid],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2935493/en",
+  :title
+  "Composition comprising a reaction product of formaldehyde and a copolymer of acrylamide and an unsaturated betaine",
+  :status :granted,
+  :id "US2935493",
+  :sourcing :authoritative,
+  :filing-year 1955,
+  :assignee :american-cyanamid,
+  :grant-year 1960,
+  :cites
+  ["DE716322C"
+   "US2082275"
+   "US2548428"
+   "US2563289"
+   "US2595575"
+   "US2744130"
+   "US2777872"
+   "US2834758"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:bell-telephone-laboratories],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2935781/en",
+  :title "Manufacture of germanium translators",
+  :status :granted,
+  :id "US2935781",
+  :sourcing :authoritative,
+  :filing-year 1955,
+  :assignee :bell-telephone-laboratories,
+  :grant-year 1960,
+  :cites
+  ["US2577803"
+   "US2650311"
+   "US2673312"
+   "US2686279"
+   "US2695852"
+   "US2812480"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:general-electric],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2936261/en",
+  :title "Sealing irradiated polyethylene",
+  :status :granted,
+  :id "US2936261",
+  :sourcing :authoritative,
+  :filing-year 1955,
+  :assignee :general-electric,
+  :grant-year 1960,
+  :cites
+  ["US2622056"
+   "US2648097"
+   "US2664378"
+   "US2675339"
+   "US2697058"
+   "US2715363"
+   "US2721821"
+   "US2746193"
+   "US2763609"
+   "US2801446"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:dow-chemical],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2937066/en",
+  :title
+  "Method for treating polyethylene and treated polyethylene articles thereby obtained",
+  :status :granted,
+  :id "US2937066",
+  :sourcing :authoritative,
+  :filing-year 1955,
+  :assignee :dow-chemical,
+  :grant-year 1960,
+  :cites ["US2400720" "US2548853" "US2832696"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:sylvania-electric-products],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2937353/en",
+  :title "Photoconductive devices",
+  :status :granted,
+  :id "US2937353",
+  :sourcing :authoritative,
+  :filing-year 1959,
+  :assignee :sylvania-electric-products,
+  :grant-year 1960,
+  :cites ["US2843914" "US2844640" "US2876202" "US2879182" "US2879362"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:union-carbide],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2938064/en",
+  :title "Air-depolarized cell",
+  :status :granted,
+  :id "US2938064",
+  :sourcing :authoritative,
+  :filing-year 1958,
+  :assignee :union-carbide,
+  :grant-year 1960,
+  :cites ["US2097077" "US2615932"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:usines-decoufle],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2938521/en",
+  :title "Tobacco-manipulating machines",
+  :status :granted,
+  :id "US2938521",
+  :sourcing :authoritative,
+  :filing-year 1957,
+  :assignee :usines-decoufle,
+  :grant-year 1960,
+  :cites ["US2264725"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:general-tire-and-rubber],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2938823/en",
+  :title "Treatment of polyethylene terephthalate fibers",
+  :status :granted,
+  :id "US2938823",
+  :sourcing :authoritative,
+  :filing-year 1956,
+  :assignee :general-tire-and-rubber,
+  :grant-year 1960,
+  :cites
+  ["US2415839"
+   "US2419922"
+   "US2590586"
+   "US2657162"
+   "US2679088"
+   "US2758908"
+   "US2768057"
+   "US2768868"
+   "US2783176"
+   "US7709148"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:bb-chemical],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2938876/en",
+  :title "Process of making reinforced rubber products and adhesives",
+  :status :granted,
+  :id "US2938876",
+  :sourcing :authoritative,
+  :filing-year 1957,
+  :assignee :bb-chemical,
+  :grant-year 1960,
+  :cites
+  ["CA457525A"
+   "GB612806A"
+   "GB684392A"
+   "US2110073"
+   "US2308498"
+   "US2363489"
+   "US2476824"
+   "US2572071"
+   "US2708192"
+   "US2726222"
+   "US2730511"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:union-carbide],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2938879/en",
+  :title "Non-blocking polyethylene compositions",
+  :status :granted,
+  :id "US2938879",
+  :sourcing :authoritative,
+  :filing-year 1955,
+  :assignee :union-carbide,
+  :grant-year 1960,
+  :cites ["US2516591" "US2530769" "US2632751" "US2654722" "US2770608"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:arthur-d-little],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2938892/en",
+  :title "Amides and process of preparing same with a monocarbodhmide",
+  :status :granted,
+  :id "US2938892",
+  :sourcing :authoritative,
+  :filing-year 1958,
+  :assignee :arthur-d-little,
+  :grant-year 1960,
+  :cites ["US2284896" "US2786049" "US2793204" "US2850496" "US2891059"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:ciba],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2938895/en",
+  :title
+  "Metalliferous disazo dyestuffs containing heavy metal in complex union and a reactive triazine nucleus",
+  :status :granted,
+  :id "US2938895",
+  :sourcing :authoritative,
+  :filing-year 1958,
+  :assignee :ciba,
+  :grant-year 1960,
+  :cites ["US2780619" "US2860128"],
+  :term-years 20,
+  :open-license :none}
+ {:jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2940448/en",
+  :title "Disposable blood-gas analyzer",
+  :status :granted,
+  :id "US2940448",
+  :sourcing :authoritative,
+  :filing-year 1957,
+  :assignee :unassigned,
+  :grant-year 1960,
+  :cites
+  ["US1687502"
+   "US2054885"
+   "US2103136"
+   "US2487077"
+   "US2616423"
+   "US2667872"
+   "US2676591"
+   "US2680060"
+   "US2690179"
+   "US2768623"
+   "US2771879"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:ei-du-pont-de-nemours-and],
   :jurisdiction :us,
   :field "UNKNOWN",
   :source "https://patents.google.com/patent/US2940884/en",
@@ -4020,6 +4260,20 @@
    "US3037869"],
   :term-years 20,
   :open-license :none}
+ {:assignees [:ei-du-pont-de-nemours-and],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3132120/en",
+  :title "Method for the preparation of ethylene copolymers",
+  :status :granted,
+  :id "US3132120",
+  :sourcing :authoritative,
+  :filing-year 1961,
+  :assignee :ei-du-pont-de-nemours-and,
+  :grant-year 1964,
+  :cites ["US2117349" "US2953551"],
+  :term-years 20,
+  :open-license :none}
  {:jurisdiction :us,
   :field "UNKNOWN",
   :source "https://patents.google.com/patent/US3133030/en",
@@ -4058,6 +4312,29 @@
   :assignee :unassigned,
   :grant-year 1964,
   :cites ["US2532386" "US2569793" "US3032428" "US3052637"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:wr-grace-and],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3134679/en",
+  :title "Method of packaging horticultural products",
+  :status :granted,
+  :id "US3134679",
+  :sourcing :authoritative,
+  :filing-year 1960,
+  :assignee :wr-grace-and,
+  :grant-year 1964,
+  :cites
+  ["US1685393"
+   "US2538025"
+   "US2762720"
+   "US2865765"
+   "US2877500"
+   "US2878174"
+   "US2906627"
+   "US2911305"
+   "US2987402"],
   :term-years 20,
   :open-license :none}
  {:assignees [:meiji-seika-kaisha],
@@ -9361,271 +9638,5 @@
   :assignee :lever-brothers,
   :grant-year 1969,
   :cites ["US1512893" "US2838781" "US2956931" "US3234107"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:hercules],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3458597/en",
-  :title "Process for preparation of polymer hydroperoxides",
-  :status :granted,
-  :id "US3458597",
-  :sourcing :authoritative,
-  :filing-year 1965,
-  :assignee :hercules,
-  :grant-year 1969,
-  :cites ["US3069382"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:schlumberger-technology],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3460618/en",
-  :title "Thru-tubing bridge plug",
-  :status :granted,
-  :id "US3460618",
-  :sourcing :authoritative,
-  :filing-year 1967,
-  :assignee :schlumberger-technology,
-  :grant-year 1969,
-  :cites
-  ["US2222750"
-   "US2618344"
-   "US2629446"
-   "US2717644"
-   "US2769498"
-   "US2978029"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:recognition-equipment],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3460673/en",
-  :title "Document sorting apparatus",
-  :status :granted,
-  :id "US3460673",
-  :sourcing :authoritative,
-  :filing-year 1967,
-  :assignee :recognition-equipment,
-  :grant-year 1969,
-  :cites ["US3038607" "US3352417" "US3368672"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:dynachem],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3462267/en",
-  :title "Offset printing plates",
-  :status :granted,
-  :id "US3462267",
-  :sourcing :authoritative,
-  :filing-year 1966,
-  :assignee :dynachem,
-  :grant-year 1969,
-  :cites ["US3376138" "US3376139"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:upjohn],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3462416/en",
-  :title "Hydrogenated pyrimidine nucleosides and nucleotides",
-  :status :granted,
-  :id "US3462416",
-  :sourcing :authoritative,
-  :filing-year 1967,
-  :assignee :upjohn,
-  :grant-year 1969,
-  :cites ["US3328388"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:alpana-aluminum-products],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3462884/en",
-  :title "Insulated metal frame and sliding closure",
-  :status :granted,
-  :id "US3462884",
-  :sourcing :authoritative,
-  :filing-year 1968,
-  :assignee :alpana-aluminum-products,
-  :grant-year 1969,
-  :cites ["US2843233" "US2912077" "US2952883" "US3336719"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:sperry-rand],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3463566/en",
-  :title "Automatic article-handling system",
-  :status :granted,
-  :id "US3463566",
-  :sourcing :authoritative,
-  :filing-year 1967,
-  :assignee :sperry-rand,
-  :grant-year 1969,
-  :cites
-  ["US2386520"
-   "US2707666"
-   "US2965291"
-   "US2974803"
-   "US3049247"
-   "US3076566"
-   "US3297379"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:hughes-aircraft],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3463594/en",
-  :title "Laser tool apparatus",
-  :status :granted,
-  :id "US3463594",
-  :sourcing :authoritative,
-  :filing-year 1965,
-  :assignee :hughes-aircraft,
-  :grant-year 1969,
-  :cites ["US1932337" "US3369101"],
-  :term-years 20,
-  :open-license :none}
- {:jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3464798/en",
-  :title "Ion-exchange or chemical interaction plastic form",
-  :status :granted,
-  :id "US3464798",
-  :sourcing :authoritative,
-  :filing-year 1965,
-  :assignee :unassigned,
-  :grant-year 1969,
-  :cites ["US2587221" "US3206602"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:international-business-machines],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3466514/en",
-  :title
-  "Method and apparatus for positioning objects in preselected orientations",
-  :status :granted,
-  :id "US3466514",
-  :sourcing :authoritative,
-  :filing-year 1967,
-  :assignee :international-business-machines,
-  :grant-year 1969,
-  :cites ["US3188879" "US3371256" "US3390315"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:union-carbide],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3469147/en",
-  :title "Dielectrically isolated structures and method",
-  :status :granted,
-  :id "US3469147",
-  :sourcing :authoritative,
-  :filing-year 1966,
-  :assignee :union-carbide,
-  :grant-year 1969,
-  :cites ["US3368113" "US3381182"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:pfizer],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3470067/en",
-  :title
-  "Concentration and purification of viruses from particulate magnetic iron oxide-virus complexes",
-  :status :granted,
-  :id "US3470067",
-  :sourcing :authoritative,
-  :filing-year 1967,
-  :assignee :pfizer,
-  :grant-year 1969,
-  :cites
-  ["GB876027A"
-   "GB887339A"
-   "US2125846"
-   "US2351160"
-   "US2461505"
-   "US2642514"
-   "US2749306"
-   "US2999792"
-   "US3078224"
-   "US3139401"
-   "US3197374"
-   "US3256152"
-   "US3351203"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:litton-systems],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3470373/en",
-  :title
-  "Method for analysis and identification of biologic entities by phosphorescence",
-  :status :granted,
-  :id "US3470373",
-  :sourcing :authoritative,
-  :filing-year 1966,
-  :assignee :litton-systems,
-  :grant-year 1969,
-  :cites ["US2971429" "US3092722" "US3359973"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:american-cyanamid],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3473027/en",
-  :title
-  "Process for recording and retrieving information employing photoluminescent inks which luminesce under ultraviolet illumination",
-  :status :granted,
-  :id "US3473027",
-  :sourcing :authoritative,
-  :filing-year 1966,
-  :assignee :american-cyanamid,
-  :grant-year 1969,
-  :cites ["US2957079" "US3059112"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:boehringer-mannheim],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3475408/en",
-  :title "N(6) alkenyl 5-substituted adenosine",
-  :status :granted,
-  :id "US3475408",
-  :sourcing :authoritative,
-  :filing-year 1966,
-  :assignee :boehringer-mannheim,
-  :grant-year 1969,
-  :cites ["US3346560"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:daniel-roth],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3476514/en",
-  :title "Cancer cytoscreening",
-  :status :granted,
-  :id "US3476514",
-  :sourcing :authoritative,
-  :filing-year 1966,
-  :assignee :daniel-roth,
-  :grant-year 1969,
-  :term-years 20,
-  :open-license :none}
- {:assignees [:ei-du-pont-de-nemours-and],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3476515/en",
-  :title "Analytical test pack and process for analysis",
-  :status :granted,
-  :id "US3476515",
-  :sourcing :authoritative,
-  :filing-year 1966,
-  :assignee :ei-du-pont-de-nemours-and,
-  :grant-year 1969,
-  :cites ["US3036894" "US3278014" "US3326363"],
   :term-years 20,
   :open-license :none}]

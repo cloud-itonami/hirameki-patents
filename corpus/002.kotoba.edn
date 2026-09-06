@@ -1,4 +1,222 @@
-[{:jurisdiction :us,
+[{:assignees [:phillips-petroleum],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2490345/en",
+  :title "Light absorption cell",
+  :status :granted,
+  :id "US2490345",
+  :sourcing :authoritative,
+  :filing-year 1947,
+  :assignee :phillips-petroleum,
+  :grant-year 1949,
+  :cites ["US1954925" "US2051317"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:ei-du-pont-de-nemours-and],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2491023/en",
+  :title "Photographic film elements",
+  :status :granted,
+  :id "US2491023",
+  :sourcing :authoritative,
+  :filing-year 1945,
+  :assignee :ei-du-pont-de-nemours-and,
+  :grant-year 1949,
+  :cites ["US1627935" "US2074647" "US2133110"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:wingfoot],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2491423/en",
+  :title "Package",
+  :status :granted,
+  :id "US2491423",
+  :sourcing :authoritative,
+  :filing-year 1947,
+  :assignee :wingfoot,
+  :grant-year 1949,
+  :cites ["US2438089"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:armstrong-cork],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2491530/en",
+  :title "Hard surface wall and floor covering",
+  :status :granted,
+  :id "US2491530",
+  :sourcing :authoritative,
+  :filing-year 1944,
+  :assignee :armstrong-cork,
+  :grant-year 1949,
+  :cites ["US1606735" "US1978549" "US2272144" "US2274642"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:general-electric],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2492768/en",
+  :title "Cloud moisture meter",
+  :status :granted,
+  :id "US2492768",
+  :sourcing :authoritative,
+  :filing-year 1947,
+  :assignee :general-electric,
+  :grant-year 1949,
+  :cites ["US2333791" "US2340455"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:american-cyanamid],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2494283/en",
+  :title "Carbamylalkyl phosphates and method of preparation",
+  :status :granted,
+  :id "US2494283",
+  :sourcing :authoritative,
+  :filing-year 1948,
+  :assignee :american-cyanamid,
+  :grant-year 1950,
+  :cites ["US2266514" "US2328570" "US2335953"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:bb-chemical],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2494848/en",
+  :title
+  "Method of laminating flock coated vinyl resin sheet and resulting product",
+  :status :granted,
+  :id "US2494848",
+  :sourcing :authoritative,
+  :filing-year 1946,
+  :assignee :bb-chemical,
+  :grant-year 1950,
+  :cites
+  ["US2176837"
+   "US2261264"
+   "US2275989"
+   "US2290238"
+   "US2323562"
+   "US2377867"
+   "US2428654"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:corning-glass-works],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2494920/en",
+  :title "Method of coating with organopolysiloxanes",
+  :status :granted,
+  :id "US2494920",
+  :sourcing :authoritative,
+  :filing-year 1945,
+  :assignee :corning-glass-works,
+  :grant-year 1950,
+  :cites ["US2258218" "US2392713" "US2448565"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:ciba],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2495244/en",
+  :title "Ester-like derivatives of azo dyestuffs",
+  :status :granted,
+  :id "US2495244",
+  :sourcing :authoritative,
+  :filing-year 1945,
+  :assignee :ciba,
+  :grant-year 1950,
+  :cites
+  ["US2095077"
+   "US2095600"
+   "US2109806"
+   "US2120741"
+   "US2170262"
+   "US2199048"
+   "US2237483"
+   "US2249956"
+   "US2274544"
+   "US2276187"
+   "US2359862"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:universal-oil-products],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2495890/en",
+  :title
+  "Resinous condensation products from an aldehyde or a ketone and an n-alkenylarylamine",
+  :status :granted,
+  :id "US2495890",
+  :sourcing :authoritative,
+  :filing-year 1948,
+  :assignee :universal-oil-products,
+  :grant-year 1950,
+  :term-years 20,
+  :open-license :none}
+ {:jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2495912/en",
+  :title
+  "Bacteriological colony counting device having a light-conducting member for transverse illumination",
+  :status :granted,
+  :id "US2495912",
+  :sourcing :authoritative,
+  :filing-year 1946,
+  :assignee :unassigned,
+  :grant-year 1950,
+  :cites ["US2214595" "US2247737" "US2259910"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:shellmar-products],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2496911/en",
+  :title "Method and apparatus for forming plastic laminates",
+  :status :granted,
+  :id "US2496911",
+  :sourcing :authoritative,
+  :filing-year 1945,
+  :assignee :shellmar-products,
+  :grant-year 1950,
+  :cites
+  ["US2224922"
+   "US2264376"
+   "US2268611"
+   "US2320513"
+   "US2367670"
+   "US2402631"
+   "US2429177"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:paper-patents],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2497712/en",
+  :title "Process of manufacturing a fibrous sheet covered plywood",
+  :status :granted,
+  :id "US2497712",
+  :sourcing :authoritative,
+  :filing-year 1944,
+  :assignee :paper-patents,
+  :grant-year 1950,
+  :cites
+  ["US1160365"
+   "US1904087"
+   "US1937317"
+   "US1986961"
+   "US2077015"
+   "US2343740"
+   "US2370090"
+   "US2378113"
+   "US2391489"
+   "US2463856"],
+  :term-years 20,
+  :open-license :none}
+ {:jurisdiction :us,
   :field "UNKNOWN",
   :source "https://patents.google.com/patent/US2497852/en",
   :title "Transmitter buoy",
@@ -5302,6 +5520,26 @@
    "US2216067"],
   :term-years 20,
   :open-license :none}
+ {:assignees [:united-paper],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2718107/en",
+  :title "Fruit wrapping machine",
+  :status :granted,
+  :id "US2718107",
+  :sourcing :authoritative,
+  :filing-year 1950,
+  :assignee :united-paper,
+  :grant-year 1955,
+  :cites
+  ["US1703641"
+   "US1964498"
+   "US2125167"
+   "US2248290"
+   "US407544"
+   "US639375"],
+  :term-years 20,
+  :open-license :none}
  {:assignees [:dow-corning],
   :jurisdiction :us,
   :field "UNKNOWN",
@@ -9706,245 +9944,5 @@
   :assignee :ei-du-pont-de-nemours-and,
   :grant-year 1960,
   :cites ["US2063078" "US2204517"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:american-cyanamid],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US2935493/en",
-  :title
-  "Composition comprising a reaction product of formaldehyde and a copolymer of acrylamide and an unsaturated betaine",
-  :status :granted,
-  :id "US2935493",
-  :sourcing :authoritative,
-  :filing-year 1955,
-  :assignee :american-cyanamid,
-  :grant-year 1960,
-  :cites
-  ["DE716322C"
-   "US2082275"
-   "US2548428"
-   "US2563289"
-   "US2595575"
-   "US2744130"
-   "US2777872"
-   "US2834758"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:bell-telephone-laboratories],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US2935781/en",
-  :title "Manufacture of germanium translators",
-  :status :granted,
-  :id "US2935781",
-  :sourcing :authoritative,
-  :filing-year 1955,
-  :assignee :bell-telephone-laboratories,
-  :grant-year 1960,
-  :cites
-  ["US2577803"
-   "US2650311"
-   "US2673312"
-   "US2686279"
-   "US2695852"
-   "US2812480"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:general-electric],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US2936261/en",
-  :title "Sealing irradiated polyethylene",
-  :status :granted,
-  :id "US2936261",
-  :sourcing :authoritative,
-  :filing-year 1955,
-  :assignee :general-electric,
-  :grant-year 1960,
-  :cites
-  ["US2622056"
-   "US2648097"
-   "US2664378"
-   "US2675339"
-   "US2697058"
-   "US2715363"
-   "US2721821"
-   "US2746193"
-   "US2763609"
-   "US2801446"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:dow-chemical],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US2937066/en",
-  :title
-  "Method for treating polyethylene and treated polyethylene articles thereby obtained",
-  :status :granted,
-  :id "US2937066",
-  :sourcing :authoritative,
-  :filing-year 1955,
-  :assignee :dow-chemical,
-  :grant-year 1960,
-  :cites ["US2400720" "US2548853" "US2832696"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:sylvania-electric-products],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US2937353/en",
-  :title "Photoconductive devices",
-  :status :granted,
-  :id "US2937353",
-  :sourcing :authoritative,
-  :filing-year 1959,
-  :assignee :sylvania-electric-products,
-  :grant-year 1960,
-  :cites ["US2843914" "US2844640" "US2876202" "US2879182" "US2879362"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:union-carbide],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US2938064/en",
-  :title "Air-depolarized cell",
-  :status :granted,
-  :id "US2938064",
-  :sourcing :authoritative,
-  :filing-year 1958,
-  :assignee :union-carbide,
-  :grant-year 1960,
-  :cites ["US2097077" "US2615932"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:usines-decoufle],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US2938521/en",
-  :title "Tobacco-manipulating machines",
-  :status :granted,
-  :id "US2938521",
-  :sourcing :authoritative,
-  :filing-year 1957,
-  :assignee :usines-decoufle,
-  :grant-year 1960,
-  :cites ["US2264725"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:general-tire-and-rubber],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US2938823/en",
-  :title "Treatment of polyethylene terephthalate fibers",
-  :status :granted,
-  :id "US2938823",
-  :sourcing :authoritative,
-  :filing-year 1956,
-  :assignee :general-tire-and-rubber,
-  :grant-year 1960,
-  :cites
-  ["US2415839"
-   "US2419922"
-   "US2590586"
-   "US2657162"
-   "US2679088"
-   "US2758908"
-   "US2768057"
-   "US2768868"
-   "US2783176"
-   "US7709148"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:bb-chemical],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US2938876/en",
-  :title "Process of making reinforced rubber products and adhesives",
-  :status :granted,
-  :id "US2938876",
-  :sourcing :authoritative,
-  :filing-year 1957,
-  :assignee :bb-chemical,
-  :grant-year 1960,
-  :cites
-  ["CA457525A"
-   "GB612806A"
-   "GB684392A"
-   "US2110073"
-   "US2308498"
-   "US2363489"
-   "US2476824"
-   "US2572071"
-   "US2708192"
-   "US2726222"
-   "US2730511"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:union-carbide],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US2938879/en",
-  :title "Non-blocking polyethylene compositions",
-  :status :granted,
-  :id "US2938879",
-  :sourcing :authoritative,
-  :filing-year 1955,
-  :assignee :union-carbide,
-  :grant-year 1960,
-  :cites ["US2516591" "US2530769" "US2632751" "US2654722" "US2770608"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:arthur-d-little],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US2938892/en",
-  :title "Amides and process of preparing same with a monocarbodhmide",
-  :status :granted,
-  :id "US2938892",
-  :sourcing :authoritative,
-  :filing-year 1958,
-  :assignee :arthur-d-little,
-  :grant-year 1960,
-  :cites ["US2284896" "US2786049" "US2793204" "US2850496" "US2891059"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:ciba],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US2938895/en",
-  :title
-  "Metalliferous disazo dyestuffs containing heavy metal in complex union and a reactive triazine nucleus",
-  :status :granted,
-  :id "US2938895",
-  :sourcing :authoritative,
-  :filing-year 1958,
-  :assignee :ciba,
-  :grant-year 1960,
-  :cites ["US2780619" "US2860128"],
-  :term-years 20,
-  :open-license :none}
- {:jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US2940448/en",
-  :title "Disposable blood-gas analyzer",
-  :status :granted,
-  :id "US2940448",
-  :sourcing :authoritative,
-  :filing-year 1957,
-  :assignee :unassigned,
-  :grant-year 1960,
-  :cites
-  ["US1687502"
-   "US2054885"
-   "US2103136"
-   "US2487077"
-   "US2616423"
-   "US2667872"
-   "US2676591"
-   "US2680060"
-   "US2690179"
-   "US2768623"
-   "US2771879"],
   :term-years 20,
   :open-license :none}]
