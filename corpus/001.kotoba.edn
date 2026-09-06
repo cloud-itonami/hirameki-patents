@@ -4641,6 +4641,19 @@
   :grant-year 1942,
   :term-years 20,
   :open-license :none}
+ {:assignees [:sharp-and-dohme],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2276677/en",
+  :title "Therapeutically active preparation",
+  :status :granted,
+  :id "US2276677",
+  :sourcing :authoritative,
+  :filing-year 1941,
+  :assignee :sharp-and-dohme,
+  :grant-year 1942,
+  :term-years 20,
+  :open-license :none}
  {:jurisdiction :us,
   :field "UNKNOWN",
   :source "https://patents.google.com/patent/US2277/en",
@@ -8395,6 +8408,20 @@
   :cites ["US2118549" "US2343740"],
   :term-years 20,
   :open-license :none}
+ {:assignees [:dow-chemical],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2448433/en",
+  :title "Making wrinkle-free film",
+  :status :granted,
+  :id "US2448433",
+  :sourcing :authoritative,
+  :filing-year 1945,
+  :assignee :dow-chemical,
+  :grant-year 1948,
+  :cites ["GB524777A" "US2267488" "US2358376" "US2361369"],
+  :term-years 20,
+  :open-license :none}
  {:assignees [:general-electric],
   :jurisdiction :us,
   :field "UNKNOWN",
@@ -8436,6 +8463,21 @@
   :assignee :eastman-kodak,
   :grant-year 1948,
   :cites ["US1987441"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:dow-chemical],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2452080/en",
+  :title
+  "Method of continuously extruding vinylidene chloride polymer tubes and stretching the same",
+  :status :granted,
+  :id "US2452080",
+  :sourcing :authoritative,
+  :filing-year 1947,
+  :assignee :dow-chemical,
+  :grant-year 1948,
+  :cites ["GB524777A" "US2176925" "US2183602" "US2291670"],
   :term-years 20,
   :open-license :none}
  {:jurisdiction :us,
@@ -9043,6 +9085,20 @@
    "US2174349"],
   :term-years 20,
   :open-license :none}
+ {:assignees [:dow-chemical],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2488571/en",
+  :title "Production of polymeric vinylidene chloride film",
+  :status :granted,
+  :id "US2488571",
+  :sourcing :authoritative,
+  :filing-year 1947,
+  :assignee :dow-chemical,
+  :grant-year 1949,
+  :cites ["US2271932" "US2409521"],
+  :term-years 20,
+  :open-license :none}
  {:assignees [:phillips-petroleum],
   :jurisdiction :us,
   :field "UNKNOWN",
@@ -9069,6 +9125,20 @@
   :assignee :ei-du-pont-de-nemours-and,
   :grant-year 1949,
   :cites ["US1627935" "US2074647" "US2133110"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:wingfoot],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2491423/en",
+  :title "Package",
+  :status :granted,
+  :id "US2491423",
+  :sourcing :authoritative,
+  :filing-year 1947,
+  :assignee :wingfoot,
+  :grant-year 1949,
+  :cites ["US2438089"],
   :term-years 20,
   :open-license :none}
  {:assignees [:armstrong-cork],
@@ -9245,88 +9315,5 @@
    "US2378113"
    "US2391489"
    "US2463856"],
-  :term-years 20,
-  :open-license :none}
- {:jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US2497852/en",
-  :title "Transmitter buoy",
-  :status :granted,
-  :id "US2497852",
-  :sourcing :authoritative,
-  :filing-year 1945,
-  :assignee :unassigned,
-  :grant-year 1950,
-  :cites
-  ["US1417692"
-   "US1485776"
-   "US1503380"
-   "US2115744"
-   "US2281284"
-   "US2293949"
-   "US2310017"
-   "US740317"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:nat-plastic-products],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US2499421/en",
-  :title "Polyethylene tape extrusion",
-  :status :granted,
-  :id "US2499421",
-  :sourcing :authoritative,
-  :filing-year 1946,
-  :assignee :nat-plastic-products,
-  :grant-year 1950,
-  :cites
-  ["US2174779"
-   "US2177658"
-   "US2212770"
-   "US2219700"
-   "US2242364"
-   "US2261977"
-   "US2320115"
-   "US2365374"],
-  :term-years 20,
-  :open-license :none}
- {:jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US2502782/en",
-  :title "Method of coating paper",
-  :status :granted,
-  :id "US2502782",
-  :sourcing :authoritative,
-  :filing-year 1949,
-  :assignee :unassigned,
-  :grant-year 1950,
-  :cites
-  ["US2033481"
-   "US2087237"
-   "US2235798"
-   "US2265916"
-   "US2314217"
-   "US2327912"
-   "US2390780"],
-  :term-years 20,
-  :open-license :none}
- {:jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US2502783/en",
-  :title "Coated paper and method of making same",
-  :status :granted,
-  :id "US2502783",
-  :sourcing :authoritative,
-  :filing-year 1949,
-  :assignee :unassigned,
-  :grant-year 1950,
-  :cites
-  ["GB480679A"
-   "US2033481"
-   "US2078790"
-   "US2265916"
-   "US2281602"
-   "US2314277"
-   "US2422572"],
   :term-years 20,
   :open-license :none}]
