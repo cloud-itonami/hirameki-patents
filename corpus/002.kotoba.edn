@@ -1,4 +1,95 @@
-[{:jurisdiction :us,
+[{:assignees [:ralph-h-fash],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2459512/en",
+  :title "Petroleum exploration by soil analysis",
+  :status :granted,
+  :id "US2459512",
+  :sourcing :authoritative,
+  :filing-year 1944,
+  :assignee :ralph-h-fash,
+  :grant-year 1949,
+  :cites ["US2305082" "US2329824" "US2337443" "US2337465"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:merck-and],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2460225/en",
+  :title "Biotin intermediate",
+  :status :granted,
+  :id "US2460225",
+  :sourcing :authoritative,
+  :filing-year 1945,
+  :assignee :merck-and,
+  :grant-year 1949,
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:sun-chemical],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2461505/en",
+  :title
+  "Removal or replacement of electrolytes in physiologically active materials",
+  :status :granted,
+  :id "US2461505",
+  :sourcing :authoritative,
+  :filing-year 1944,
+  :assignee :sun-chemical,
+  :grant-year 1949,
+  :cites
+  ["US2074493"
+   "US2275210"
+   "US2364639"
+   "US2366650"
+   "US2368464"
+   "US2368926"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:ei-du-pont-de-nemours-and],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2462151/en",
+  :title
+  "Photographic elements having hydrophilic polyvinyl acetal colloid sublayers",
+  :status :granted,
+  :id "US2462151",
+  :sourcing :authoritative,
+  :filing-year 1946,
+  :assignee :ei-du-pont-de-nemours-and,
+  :grant-year 1949,
+  :cites ["GB546631A"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:ei-du-pont-de-nemours-and],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2462185/en",
+  :title "Moistureproof, heat-sealable wrapping material and process",
+  :status :granted,
+  :id "US2462185",
+  :sourcing :authoritative,
+  :filing-year 1946,
+  :assignee :ei-du-pont-de-nemours-and,
+  :grant-year 1949,
+  :cites ["US2122433" "US2238020" "US2301959" "US2334236" "US2392972"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:bakelite],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2462331/en",
+  :title "Polyethylene compositions",
+  :status :granted,
+  :id "US2462331",
+  :sourcing :authoritative,
+  :filing-year 1944,
+  :assignee :bakelite,
+  :grant-year 1949,
+  :cites ["US2181481" "US2306790" "US2326543" "US2341186" "US2405977"],
+  :term-years 20,
+  :open-license :none}
+ {:jurisdiction :us,
   :field "UNKNOWN",
   :source "https://patents.google.com/patent/US2462612/en",
   :title "Liquid treating apparatus",
@@ -826,6 +917,26 @@
   :cites ["US1888984" "US970122"],
   :term-years 20,
   :open-license :none}
+ {:assignees [:monsanto-chemicals],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2508875/en",
+  :title "Modified melamine resins",
+  :status :granted,
+  :id "US2508875",
+  :sourcing :authoritative,
+  :filing-year 1946,
+  :assignee :monsanto-chemicals,
+  :grant-year 1950,
+  :cites
+  ["US2197357"
+   "US2320817"
+   "US2326725"
+   "US2327772"
+   "US2331376"
+   "US2368451"],
+  :term-years 20,
+  :open-license :none}
  {:assignees [:rohm-and-haas],
   :jurisdiction :us,
   :field "UNKNOWN",
@@ -877,6 +988,20 @@
    "US2347496"
    "US2394040"
    "US2412470"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:devoe-and-raynolds],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2510885/en",
+  :title "Amine-epoxy-phenol compositions",
+  :status :granted,
+  :id "US2510885",
+  :sourcing :authoritative,
+  :filing-year 1946,
+  :assignee :devoe-and-raynolds,
+  :grant-year 1950,
+  :cites ["US2136928" "US2213477" "US2324483"],
   :term-years 20,
   :open-license :none}
  {:assignees [:new-york-and-penr-ylvania-i],
@@ -1155,6 +1280,20 @@
   :cites ["FR870982A" "US2392314"],
   :term-years 20,
   :open-license :none}
+ {:assignees [:ei-du-pont-de-nemours-and],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2527806/en",
+  :title
+  "Dicarboxylic acid anhydride-4-vinylcyclohexene diepoxide reaction products",
+  :status :granted,
+  :id "US2527806",
+  :sourcing :authoritative,
+  :filing-year 1948,
+  :assignee :ei-du-pont-de-nemours-and,
+  :grant-year 1950,
+  :term-years 20,
+  :open-license :none}
  {:assignees [:united-states-rubber],
   :jurisdiction :us,
   :field "UNKNOWN",
@@ -1203,6 +1342,27 @@
    "US2347509"
    "US2387482"
    "US659238"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:american-cyanamid],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2529856/en",
+  :title
+  "Processes of preparing water-soluble melamine-formaldehyde resins and products thereof",
+  :status :granted,
+  :id "US2529856",
+  :sourcing :authoritative,
+  :filing-year 1944,
+  :assignee :american-cyanamid,
+  :grant-year 1950,
+  :cites
+  ["CH206608A"
+   "FR867109A"
+   "US2197357"
+   "US2223327"
+   "US2454078"
+   "US2454495"],
   :term-years 20,
   :open-license :none}
  {:assignees [:union-carbide-and-carbon],
@@ -1722,6 +1882,32 @@
   :cites ["US2332265" "US2387512" "US2415839" "US2430479" "US2436222"],
   :term-years 20,
   :open-license :none}
+ {:assignees [:american-cyanamid],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2558732/en",
+  :title
+  "Method of producing staple fiber from polymers and copolymers of acrylonitrile",
+  :status :granted,
+  :id "US2558732",
+  :sourcing :authoritative,
+  :filing-year 1949,
+  :assignee :american-cyanamid,
+  :grant-year 1951,
+  :cites
+  ["US2140921"
+   "US2153031"
+   "US2197896"
+   "US2208632"
+   "US2210771"
+   "US2217113"
+   "US2249756"
+   "US2277782"
+   "US2278888"
+   "US2327087"
+   "US2420565"],
+  :term-years 20,
+  :open-license :none}
  {:assignees [:polaroid],
   :jurisdiction :us,
   :field "UNKNOWN",
@@ -1770,6 +1956,28 @@
    "US2142625"
    "US2234068"
    "US2286826"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:devoe-and-raynolds],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2558949/en",
+  :title "Polymeric polyether polyhydric alcohols",
+  :status :granted,
+  :id "US2558949",
+  :sourcing :authoritative,
+  :filing-year 1945,
+  :assignee :devoe-and-raynolds,
+  :grant-year 1951,
+  :cites
+  ["GB518057A"
+   "US2060715"
+   "US2174527"
+   "US2213477"
+   "US2292406"
+   "US2324483"
+   "US2411029"
+   "US2503726"],
   :term-years 20,
   :open-license :none}
  {:assignees [:west-virginia-pulp-and-paper],
@@ -2244,6 +2452,20 @@
    "US2486804"],
   :term-years 20,
   :open-license :none}
+ {:assignees [:american-viscose],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2577763/en",
+  :title "Wet spinning process",
+  :status :granted,
+  :id "US2577763",
+  :sourcing :authoritative,
+  :filing-year 1949,
+  :assignee :american-viscose,
+  :grant-year 1951,
+  :cites ["US2236648"],
+  :term-years 20,
+  :open-license :none}
  {:jurisdiction :us,
   :field "UNKNOWN",
   :source "https://patents.google.com/patent/US2580406/en",
@@ -2320,6 +2542,21 @@
    "US2406056"
    "US2406057"
    "US2425231"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:american-cyanamid],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2582961/en",
+  :title
+  "Treatment of flammable materials to impart flame resistance thereto, compositions therefor, and products thereof",
+  :status :granted,
+  :id "US2582961",
+  :sourcing :authoritative,
+  :filing-year 1949,
+  :assignee :american-cyanamid,
+  :grant-year 1952,
+  :cites ["CH196034A" "GB476043A" "US2191362" "US2409906" "US2488034"],
   :term-years 20,
   :open-license :none}
  {:assignees [:monsanto-chemicals],
@@ -3023,6 +3260,20 @@
   :assignee :ei-du-pont-de-nemours-and,
   :grant-year 1952,
   :cites ["US2253146" "US2265119" "US2322953" "US2332373" "US2443450"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:ei-du-pont-de-nemours-and],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2607754/en",
+  :title
+  "Copolymers of vinyl chloride, allyl glycidyl ether, and an allyloxyalkanoic acid",
+  :status :granted,
+  :id "US2607754",
+  :sourcing :authoritative,
+  :filing-year 1951,
+  :assignee :ei-du-pont-de-nemours-and,
+  :grant-year 1952,
   :term-years 20,
   :open-license :none}
  {:jurisdiction :us,
@@ -3817,6 +4068,20 @@
    "US2355722"
    "US2436820"
    "US931434"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:chemische-werke-huls],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2642418/en",
+  :title "Process for the production of polyacrylic nitrile",
+  :status :granted,
+  :id "US2642418",
+  :sourcing :authoritative,
+  :filing-year 1951,
+  :assignee :chemische-werke-huls,
+  :grant-year 1953,
+  :cites ["US2486241"],
   :term-years 20,
   :open-license :none}
  {:assignees [:american-cyanamid],
@@ -4983,6 +5248,20 @@
   :cites ["GB514560A" "US2275814" "US2422725" "US2536773" "US2622991"],
   :term-years 20,
   :open-license :none}
+ {:assignees [:american-viscose],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2681265/en",
+  :title "Spinning artificial filaments",
+  :status :granted,
+  :id "US2681265",
+  :sourcing :authoritative,
+  :filing-year 1948,
+  :assignee :american-viscose,
+  :grant-year 1954,
+  :cites ["US2236061" "US2360406" "US2404714" "US2404723" "US2420565"],
+  :term-years 20,
+  :open-license :none}
  {:assignees [:eastman-kodak],
   :jurisdiction :us,
   :field "UNKNOWN",
@@ -5095,6 +5374,20 @@
   :assignee :atlantic-gummed-paper,
   :grant-year 1954,
   :cites ["DE311005C" "US1445070" "US1683707" "US2083596" "US2294347"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:monsanto-chemicals],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2684346/en",
+  :title "Latent curing catalysts and compositions containing same",
+  :status :granted,
+  :id "US2684346",
+  :sourcing :authoritative,
+  :filing-year 1950,
+  :assignee :monsanto-chemicals,
+  :grant-year 1954,
+  :cites ["US2137465" "US2317181" "US2326727"],
   :term-years 20,
   :open-license :none}
  {:assignees [:warren-sd],
@@ -5520,6 +5813,20 @@
    "US2383055"
    "US2422550"
    "US2469847"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:ei-du-pont-de-nemours-and],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2695835/en",
+  :title "Process for making rough surfaced filaments",
+  :status :granted,
+  :id "US2695835",
+  :sourcing :authoritative,
+  :filing-year 1949,
+  :assignee :ei-du-pont-de-nemours-and,
+  :grant-year 1954,
+  :cites ["US2354744" "US2426728"],
   :term-years 20,
   :open-license :none}
  {:assignees [:ei-du-pont-de-nemours-and],
@@ -6148,6 +6455,21 @@
    "US2502319"
    "US2597001"
    "US2602368"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:ei-du-pont-de-nemours-and],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2723971/en",
+  :title
+  "Polymeric phosphates of copolymers of acyclic ethylenically unsaturated epoxy-free monomers and ethylenically unsaturated epoxy monomers",
+  :status :granted,
+  :id "US2723971",
+  :sourcing :authoritative,
+  :filing-year 1953,
+  :assignee :ei-du-pont-de-nemours-and,
+  :grant-year 1955,
+  :cites ["US2160943" "US2470324" "US2524432" "US2541027" "US2606810"],
   :term-years 20,
   :open-license :none}
  {:assignees [:exxon-research-and-engineering],
@@ -9619,372 +9941,5 @@
   :assignee :crown-zellerbach,
   :grant-year 1959,
   :cites ["CA508732A" "US2648487" "US2762504"],
-  :term-years 20,
-  :open-license :none}
- {:jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US2885396/en",
-  :title "N-glycosides of 5-fluorouracil",
-  :status :granted,
-  :id "US2885396",
-  :sourcing :authoritative,
-  :filing-year 1957,
-  :assignee :unassigned,
-  :grant-year 1959,
-  :cites
-  ["US2146899"
-   "US2342760"
-   "US2374503"
-   "US2698844"
-   "US2770573"
-   "US2795580"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:johnson-and-johnson],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US2886467/en",
-  :title "Adhesive tapes",
-  :status :granted,
-  :id "US2886467",
-  :sourcing :authoritative,
-  :filing-year 1956,
-  :assignee :johnson-and-johnson,
-  :grant-year 1959,
-  :cites
-  ["US2331894"
-   "US2415839"
-   "US2417792"
-   "US2430479"
-   "US2436222"
-   "US2555745"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:ei-du-pont-de-nemours-and],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US2887473/en",
-  :title "Polymerization of ethylene",
-  :status :granted,
-  :id "US2887473",
-  :sourcing :authoritative,
-  :filing-year 1955,
-  :assignee :ei-du-pont-de-nemours-and,
-  :grant-year 1959,
-  :cites ["US2092295" "US2692258"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:us-philips],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US2887629/en",
-  :title "Transistor",
-  :status :granted,
-  :id "US2887629",
-  :sourcing :authoritative,
-  :filing-year 1957,
-  :assignee :us-philips,
-  :grant-year 1959,
-  :cites ["US2812480"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:hitemp-wires],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US2888367/en",
-  :title
-  "Process for promoting adhesion to difficultly wettable polymer surface",
-  :status :granted,
-  :id "US2888367",
-  :sourcing :authoritative,
-  :filing-year 1958,
-  :assignee :hitemp-wires,
-  :grant-year 1959,
-  :cites ["US2689805" "US2750303" "US2773781" "US2809130"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:bowater-research-and-development],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US2888902/en",
-  :title "Apparatus for coating paper",
-  :status :granted,
-  :id "US2888902",
-  :sourcing :authoritative,
-  :filing-year 1956,
-  :assignee :bowater-research-and-development,
-  :grant-year 1959,
-  :cites
-  ["US1711596"
-   "US1847065"
-   "US2369378"
-   "US2398844"
-   "US2645201"
-   "US2772184"],
-  :term-years 20,
-  :open-license :none}
- {:jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US2889736/en",
-  :title "Oil testing apparatus",
-  :status :granted,
-  :id "US2889736",
-  :sourcing :authoritative,
-  :filing-year 1954,
-  :assignee :unassigned,
-  :grant-year 1959,
-  :cites
-  ["DE246050C"
-   "GB500892A"
-   "US1864092"
-   "US1938544"
-   "US1940772"
-   "US2059374"
-   "US2062587"
-   "US2062588"
-   "US2082252"
-   "US2510347"
-   "US2690695"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:union-carbide],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US2890209/en",
-  :title
-  "Polymers of 3, 4-epoxycyclohexylmethyl 3, 4-epoxycyclohexanecarboxylates",
-  :status :granted,
-  :id "US2890209",
-  :sourcing :authoritative,
-  :filing-year 1956,
-  :assignee :union-carbide,
-  :grant-year 1959,
-  :cites ["US2706181" "US2706182" "US2706189" "US2716123"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:ei-du-pont-de-nemours-and],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US2892712/en",
-  :title "Process for preparing relief images",
-  :status :granted,
-  :id "US2892712",
-  :sourcing :authoritative,
-  :filing-year 1954,
-  :assignee :ei-du-pont-de-nemours-and,
-  :grant-year 1959,
-  :cites
-  ["US1574357"
-   "US1655127"
-   "US1957900"
-   "US2484529"
-   "US2604388"
-   "US2675315"
-   "US2712996"
-   "US2760863"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:general-electric],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US2895891/en",
-  :title "Cellulosic materials",
-  :status :granted,
-  :id "US2895891",
-  :sourcing :authoritative,
-  :filing-year 1957,
-  :assignee :general-electric,
-  :grant-year 1959,
-  :term-years 20,
-  :open-license :none}
- {:jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US2895944/en",
-  :title "Novel condensation products",
-  :status :granted,
-  :id "US2895944",
-  :sourcing :authoritative,
-  :filing-year 1955,
-  :assignee :unassigned,
-  :grant-year 1959,
-  :cites ["GB474601A"],
-  :term-years 20,
-  :open-license :none}
- {:jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US2896387/en",
-  :title "Machine for packaging articles",
-  :status :granted,
-  :id "US2896387",
-  :sourcing :authoritative,
-  :filing-year 1957,
-  :assignee :unassigned,
-  :grant-year 1959,
-  :cites
-  ["US2530306"
-   "US2546059"
-   "US2549122"
-   "US2549123"
-   "US2597041"
-   "US2736150"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:fenwal-laboratories],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US2896619/en",
-  :title "Apparatus for handling fluid blood",
-  :status :granted,
-  :id "US2896619",
-  :sourcing :authoritative,
-  :filing-year 1954,
-  :assignee :fenwal-laboratories,
-  :grant-year 1959,
-  :cites
-  ["DE88138C"
-   "GB105038A"
-   "GB189127A"
-   "US2700973"
-   "US2702034"
-   "US2780225"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:lehigh],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US2896763/en",
-  :title "Vending machine",
-  :status :granted,
-  :id "US2896763",
-  :sourcing :authoritative,
-  :filing-year 1954,
-  :assignee :lehigh,
-  :grant-year 1959,
-  :cites
-  ["GB451694A"
-   "NL73584C"
-   "US1891908"
-   "US2153113"
-   "US2224646"
-   "US2231494"
-   "US2237132"
-   "US2295000"
-   "US2323981"
-   "US2333176"
-   "US2526512"
-   "US2552156"
-   "US2589214"
-   "US2615545"
-   "US2642974"
-   "US2659470"
-   "US2731621"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:ei-du-pont-de-nemours-and],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US2898282/en",
-  :title "Electrolytic oxygen analysis",
-  :status :granted,
-  :id "US2898282",
-  :sourcing :authoritative,
-  :filing-year 1956,
-  :assignee :ei-du-pont-de-nemours-and,
-  :grant-year 1959,
-  :cites
-  ["BE516935A"
-   "CA516165A"
-   "US1474151"
-   "US2370871"
-   "US2401287"
-   "US2464087"
-   "US2540674"
-   "US2651612"
-   "US2685025"
-   "US2805191"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:goodyear-tire-and-rubber],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US2900260/en",
-  :title "Method of preserving the red color of red meat and product",
-  :status :granted,
-  :id "US2900260",
-  :sourcing :authoritative,
-  :filing-year 1956,
-  :assignee :goodyear-tire-and-rubber,
-  :grant-year 1959,
-  :cites ["US2250232" "US2461963" "US2633456" "US2772172"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:ei-du-pont-de-nemours-and],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US2900369/en",
-  :title "Polyimide composition",
-  :status :granted,
-  :id "US2900369",
-  :sourcing :authoritative,
-  :filing-year 1955,
-  :assignee :ei-du-pont-de-nemours-and,
-  :grant-year 1959,
-  :cites ["US2130523" "US2464693" "US2710853"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:xerox],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US2901348/en",
-  :title "Radiation sensitive photoconductive member",
-  :status :granted,
-  :id "US2901348",
-  :sourcing :authoritative,
-  :filing-year 1953,
-  :assignee :xerox,
-  :grant-year 1959,
-  :cites
-  ["US2139731"
-   "US2189576"
-   "US2199104"
-   "US2277013"
-   "US2297691"
-   "US2337329"
-   "US2554225"
-   "US2613301"
-   "US2619418"
-   "US2654853"
-   "US2659670"
-   "US2662832"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:ei-du-pont-de-nemours-and],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US2901467/en",
-  :title "Polyurethane coating compositions",
-  :status :granted,
-  :id "US2901467",
-  :sourcing :authoritative,
-  :filing-year 1956,
-  :assignee :ei-du-pont-de-nemours-and,
-  :grant-year 1959,
-  :cites
-  ["FR1074451A" "FR1108785A" "FR52968E" "US2621166" "US2726219"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:bacto-strip],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US2904474/en",
-  :title
-  "Process and means for carrying out bacteriological operations",
-  :status :granted,
-  :id "US2904474",
-  :sourcing :authoritative,
-  :filing-year 1955,
-  :assignee :bacto-strip,
-  :grant-year 1959,
-  :cites ["US2672432" "US2677646" "US2677647" "US2771398" "US2784146"],
   :term-years 20,
   :open-license :none}]

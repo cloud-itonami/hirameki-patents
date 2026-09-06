@@ -1,5 +1,372 @@
 [{:jurisdiction :us,
   :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2885396/en",
+  :title "N-glycosides of 5-fluorouracil",
+  :status :granted,
+  :id "US2885396",
+  :sourcing :authoritative,
+  :filing-year 1957,
+  :assignee :unassigned,
+  :grant-year 1959,
+  :cites
+  ["US2146899"
+   "US2342760"
+   "US2374503"
+   "US2698844"
+   "US2770573"
+   "US2795580"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:johnson-and-johnson],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2886467/en",
+  :title "Adhesive tapes",
+  :status :granted,
+  :id "US2886467",
+  :sourcing :authoritative,
+  :filing-year 1956,
+  :assignee :johnson-and-johnson,
+  :grant-year 1959,
+  :cites
+  ["US2331894"
+   "US2415839"
+   "US2417792"
+   "US2430479"
+   "US2436222"
+   "US2555745"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:ei-du-pont-de-nemours-and],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2887473/en",
+  :title "Polymerization of ethylene",
+  :status :granted,
+  :id "US2887473",
+  :sourcing :authoritative,
+  :filing-year 1955,
+  :assignee :ei-du-pont-de-nemours-and,
+  :grant-year 1959,
+  :cites ["US2092295" "US2692258"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:us-philips],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2887629/en",
+  :title "Transistor",
+  :status :granted,
+  :id "US2887629",
+  :sourcing :authoritative,
+  :filing-year 1957,
+  :assignee :us-philips,
+  :grant-year 1959,
+  :cites ["US2812480"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:hitemp-wires],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2888367/en",
+  :title
+  "Process for promoting adhesion to difficultly wettable polymer surface",
+  :status :granted,
+  :id "US2888367",
+  :sourcing :authoritative,
+  :filing-year 1958,
+  :assignee :hitemp-wires,
+  :grant-year 1959,
+  :cites ["US2689805" "US2750303" "US2773781" "US2809130"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:bowater-research-and-development],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2888902/en",
+  :title "Apparatus for coating paper",
+  :status :granted,
+  :id "US2888902",
+  :sourcing :authoritative,
+  :filing-year 1956,
+  :assignee :bowater-research-and-development,
+  :grant-year 1959,
+  :cites
+  ["US1711596"
+   "US1847065"
+   "US2369378"
+   "US2398844"
+   "US2645201"
+   "US2772184"],
+  :term-years 20,
+  :open-license :none}
+ {:jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2889736/en",
+  :title "Oil testing apparatus",
+  :status :granted,
+  :id "US2889736",
+  :sourcing :authoritative,
+  :filing-year 1954,
+  :assignee :unassigned,
+  :grant-year 1959,
+  :cites
+  ["DE246050C"
+   "GB500892A"
+   "US1864092"
+   "US1938544"
+   "US1940772"
+   "US2059374"
+   "US2062587"
+   "US2062588"
+   "US2082252"
+   "US2510347"
+   "US2690695"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:union-carbide],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2890209/en",
+  :title
+  "Polymers of 3, 4-epoxycyclohexylmethyl 3, 4-epoxycyclohexanecarboxylates",
+  :status :granted,
+  :id "US2890209",
+  :sourcing :authoritative,
+  :filing-year 1956,
+  :assignee :union-carbide,
+  :grant-year 1959,
+  :cites ["US2706181" "US2706182" "US2706189" "US2716123"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:ei-du-pont-de-nemours-and],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2892712/en",
+  :title "Process for preparing relief images",
+  :status :granted,
+  :id "US2892712",
+  :sourcing :authoritative,
+  :filing-year 1954,
+  :assignee :ei-du-pont-de-nemours-and,
+  :grant-year 1959,
+  :cites
+  ["US1574357"
+   "US1655127"
+   "US1957900"
+   "US2484529"
+   "US2604388"
+   "US2675315"
+   "US2712996"
+   "US2760863"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:general-electric],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2895891/en",
+  :title "Cellulosic materials",
+  :status :granted,
+  :id "US2895891",
+  :sourcing :authoritative,
+  :filing-year 1957,
+  :assignee :general-electric,
+  :grant-year 1959,
+  :term-years 20,
+  :open-license :none}
+ {:jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2895944/en",
+  :title "Novel condensation products",
+  :status :granted,
+  :id "US2895944",
+  :sourcing :authoritative,
+  :filing-year 1955,
+  :assignee :unassigned,
+  :grant-year 1959,
+  :cites ["GB474601A"],
+  :term-years 20,
+  :open-license :none}
+ {:jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2896387/en",
+  :title "Machine for packaging articles",
+  :status :granted,
+  :id "US2896387",
+  :sourcing :authoritative,
+  :filing-year 1957,
+  :assignee :unassigned,
+  :grant-year 1959,
+  :cites
+  ["US2530306"
+   "US2546059"
+   "US2549122"
+   "US2549123"
+   "US2597041"
+   "US2736150"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:fenwal-laboratories],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2896619/en",
+  :title "Apparatus for handling fluid blood",
+  :status :granted,
+  :id "US2896619",
+  :sourcing :authoritative,
+  :filing-year 1954,
+  :assignee :fenwal-laboratories,
+  :grant-year 1959,
+  :cites
+  ["DE88138C"
+   "GB105038A"
+   "GB189127A"
+   "US2700973"
+   "US2702034"
+   "US2780225"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:lehigh],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2896763/en",
+  :title "Vending machine",
+  :status :granted,
+  :id "US2896763",
+  :sourcing :authoritative,
+  :filing-year 1954,
+  :assignee :lehigh,
+  :grant-year 1959,
+  :cites
+  ["GB451694A"
+   "NL73584C"
+   "US1891908"
+   "US2153113"
+   "US2224646"
+   "US2231494"
+   "US2237132"
+   "US2295000"
+   "US2323981"
+   "US2333176"
+   "US2526512"
+   "US2552156"
+   "US2589214"
+   "US2615545"
+   "US2642974"
+   "US2659470"
+   "US2731621"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:ei-du-pont-de-nemours-and],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2898282/en",
+  :title "Electrolytic oxygen analysis",
+  :status :granted,
+  :id "US2898282",
+  :sourcing :authoritative,
+  :filing-year 1956,
+  :assignee :ei-du-pont-de-nemours-and,
+  :grant-year 1959,
+  :cites
+  ["BE516935A"
+   "CA516165A"
+   "US1474151"
+   "US2370871"
+   "US2401287"
+   "US2464087"
+   "US2540674"
+   "US2651612"
+   "US2685025"
+   "US2805191"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:goodyear-tire-and-rubber],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2900260/en",
+  :title "Method of preserving the red color of red meat and product",
+  :status :granted,
+  :id "US2900260",
+  :sourcing :authoritative,
+  :filing-year 1956,
+  :assignee :goodyear-tire-and-rubber,
+  :grant-year 1959,
+  :cites ["US2250232" "US2461963" "US2633456" "US2772172"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:ei-du-pont-de-nemours-and],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2900369/en",
+  :title "Polyimide composition",
+  :status :granted,
+  :id "US2900369",
+  :sourcing :authoritative,
+  :filing-year 1955,
+  :assignee :ei-du-pont-de-nemours-and,
+  :grant-year 1959,
+  :cites ["US2130523" "US2464693" "US2710853"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:xerox],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2901348/en",
+  :title "Radiation sensitive photoconductive member",
+  :status :granted,
+  :id "US2901348",
+  :sourcing :authoritative,
+  :filing-year 1953,
+  :assignee :xerox,
+  :grant-year 1959,
+  :cites
+  ["US2139731"
+   "US2189576"
+   "US2199104"
+   "US2277013"
+   "US2297691"
+   "US2337329"
+   "US2554225"
+   "US2613301"
+   "US2619418"
+   "US2654853"
+   "US2659670"
+   "US2662832"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:ei-du-pont-de-nemours-and],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2901467/en",
+  :title "Polyurethane coating compositions",
+  :status :granted,
+  :id "US2901467",
+  :sourcing :authoritative,
+  :filing-year 1956,
+  :assignee :ei-du-pont-de-nemours-and,
+  :grant-year 1959,
+  :cites
+  ["FR1074451A" "FR1108785A" "FR52968E" "US2621166" "US2726219"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:bacto-strip],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2904474/en",
+  :title
+  "Process and means for carrying out bacteriological operations",
+  :status :granted,
+  :id "US2904474",
+  :sourcing :authoritative,
+  :filing-year 1955,
+  :assignee :bacto-strip,
+  :grant-year 1959,
+  :cites ["US2672432" "US2677646" "US2677647" "US2771398" "US2784146"],
+  :term-years 20,
+  :open-license :none}
+ {:jurisdiction :us,
+  :field "UNKNOWN",
   :source "https://patents.google.com/patent/US2905169/en",
   :title "Device for cancer detection",
   :status :granted,
@@ -9384,320 +9751,5 @@
   :assignee :warner-lambert-pharmaceutical,
   :grant-year 1968,
   :cites ["US2878388" "US3225645"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:albemarle-paper-manufacturing],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3403045/en",
-  :title "Coated release paper",
-  :status :granted,
-  :id "US3403045",
-  :sourcing :authoritative,
-  :filing-year 1967,
-  :assignee :albemarle-paper-manufacturing,
-  :grant-year 1968,
-  :cites ["US2885074" "US3094432" "US3162543" "US3230289"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:trw],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3403081/en",
-  :title "Bio-chemical sensor and method of using same",
-  :status :granted,
-  :id "US3403081",
-  :sourcing :authoritative,
-  :filing-year 1967,
-  :assignee :trw,
-  :grant-year 1968,
-  :cites ["US2898282" "US2913386" "US3022241" "US3058894"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:bell-telephone-laboratories],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3403353/en",
-  :title
-  "Gas laser having a second cathode for space charge neutralization",
-  :status :granted,
-  :id "US3403353",
-  :sourcing :authoritative,
-  :filing-year 1965,
-  :assignee :bell-telephone-laboratories,
-  :grant-year 1968,
-  :term-years 20,
-  :open-license :none}
- {:assignees [:deutsche-itt-industries],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3404049/en",
-  :title "Method of shaping a crystal by acid cutting",
-  :status :granted,
-  :id "US3404049",
-  :sourcing :authoritative,
-  :filing-year 1965,
-  :assignee :deutsche-itt-industries,
-  :grant-year 1968,
-  :cites ["US2952528"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:research],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3404144/en",
-  :title "1-beta-d-arabinofuranosyl-5-fluorocytosine compounds",
-  :status :granted,
-  :id "US3404144",
-  :sourcing :authoritative,
-  :filing-year 1965,
-  :assignee :research,
-  :grant-year 1968,
-  :cites ["US3002965" "US3328388"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:international-business-machines],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3406040/en",
-  :title "Vapor deposition method for forming thin polymeric films",
-  :status :granted,
-  :id "US3406040",
-  :sourcing :authoritative,
-  :filing-year 1964,
-  :assignee :international-business-machines,
-  :grant-year 1968,
-  :cites
-  ["US2428868"
-   "US3080481"
-   "US3117022"
-   "US3132046"
-   "US3161542"
-   "US3168418"
-   "US3183563"
-   "US3192892"
-   "US3211570"
-   "US3297465"
-   "US3310424"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:millipore],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3408315/en",
-  :title "Nylon membrane filter",
-  :status :granted,
-  :id "US3408315",
-  :sourcing :authoritative,
-  :filing-year 1965,
-  :assignee :millipore,
-  :grant-year 1968,
-  :cites ["GB938694A" "US2772322" "US2783894" "US3022542"],
-  :term-years 20,
-  :open-license :none}
- {:jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3409405/en",
-  :title "Diagnostic preparation for the detection of formaldehyde",
-  :status :granted,
-  :id "US3409405",
-  :sourcing :authoritative,
-  :filing-year 1965,
-  :assignee :unassigned,
-  :grant-year 1968,
-  :cites ["US2314548"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:amerace],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3411247/en",
-  :title "Refrigerator door frame",
-  :status :granted,
-  :id "US3411247",
-  :sourcing :authoritative,
-  :filing-year 1966,
-  :assignee :amerace,
-  :grant-year 1968,
-  :cites
-  ["US2286890"
-   "US2933779"
-   "US2993242"
-   "US3012642"
-   "US3063524"
-   "US3090083"
-   "US3177989"
-   "US3302354"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:agriculture-usa],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3411863/en",
-  :title
-  "Process for chemically attaching compounds to aminized cellulose by means of formaldehyde",
-  :status :granted,
-  :id "US3411863",
-  :sourcing :authoritative,
-  :filing-year 1965,
-  :assignee :agriculture-usa,
-  :grant-year 1968,
-  :cites ["US2668096" "US2793930"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:miles-laboratories],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3411887/en",
-  :title "Diagnostic composition",
-  :status :granted,
-  :id "US3411887",
-  :sourcing :authoritative,
-  :filing-year 1964,
-  :assignee :miles-laboratories,
-  :grant-year 1968,
-  :cites ["US2799660" "US2850359" "US3104209" "US3235337" "US3266868"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:quarzlampengesellschaft-m-b-h],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3412254/en",
-  :title
-  "Apparatus for counting particles suspended in transparent fluids",
-  :status :granted,
-  :id "US3412254",
-  :sourcing :authoritative,
-  :filing-year 1965,
-  :assignee :quarzlampengesellschaft-m-b-h,
-  :grant-year 1968,
-  :cites ["US2791150" "US2875666" "US679774"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:ajinomoto],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3413282/en",
-  :title "Method of preparing 5&#39;-nucleotides",
-  :status :granted,
-  :id "US3413282",
-  :sourcing :authoritative,
-  :filing-year 1966,
-  :assignee :ajinomoto,
-  :grant-year 1968,
-  :cites ["US3201389" "US3282920" "US3288780" "US3290285"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:international-business-machines],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3413464/en",
-  :title
-  "Method for measuring the nucleic acid in biological cells after enhancement in an acidic solution",
-  :status :granted,
-  :id "US3413464",
-  :sourcing :authoritative,
-  :filing-year 1965,
-  :assignee :international-business-machines,
-  :grant-year 1968,
-  :cites ["GB679711A" "US2690093" "US2807416" "US2974227"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:miles-laboratories],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3415361/en",
-  :title "Test device and container therefor",
-  :status :granted,
-  :id "US3415361",
-  :sourcing :authoritative,
-  :filing-year 1966,
-  :assignee :miles-laboratories,
-  :grant-year 1968,
-  :cites
-  ["DE1129884B"
-   "US2798631"
-   "US2844244"
-   "US3082903"
-   "US3139208"
-   "US3164478"
-   "US3252683"
-   "US3311229"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:philco-ford],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3415648/en",
-  :title "Pva etch masking process",
-  :status :granted,
-  :id "US3415648",
-  :sourcing :authoritative,
-  :filing-year 1964,
-  :assignee :philco-ford,
-  :grant-year 1968,
-  :cites ["US1840529" "US2827391" "US3230088" "US3255005"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:wyandotte-chemicals],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3417069/en",
-  :title "Polyhalogenous epoxy copolymers",
-  :status :granted,
-  :id "US3417069",
-  :sourcing :authoritative,
-  :filing-year 1963,
-  :assignee :wyandotte-chemicals,
-  :grant-year 1968,
-  :cites
-  ["US2829131"
-   "US2829135"
-   "US2951829"
-   "US3044999"
-   "US3077467"
-   "US3135705"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:dade-reagents],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3418061/en",
-  :title "Flow cell construction with delivery and discharge means",
-  :status :granted,
-  :id "US3418061",
-  :sourcing :authoritative,
-  :filing-year 1963,
-  :assignee :dade-reagents,
-  :grant-year 1968,
-  :cites ["US2139114" "US2596560" "US2878715" "US3097928" "US3225601"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:beckman-instruments],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3418080/en",
-  :title "Sample transport system",
-  :status :granted,
-  :id "US3418080",
-  :sourcing :authoritative,
-  :filing-year 1964,
-  :assignee :beckman-instruments,
-  :grant-year 1968,
-  :cites ["US2893660" "US3072362" "US3080136"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:general-electric],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3419508/en",
-  :title "Cellulose surfaces and method of treating",
-  :status :granted,
-  :id "US3419508",
-  :sourcing :authoritative,
-  :filing-year 1965,
-  :assignee :general-electric,
-  :grant-year 1968,
-  :cites ["GB844128A" "US3127363" "US3262830"],
   :term-years 20,
   :open-license :none}]
