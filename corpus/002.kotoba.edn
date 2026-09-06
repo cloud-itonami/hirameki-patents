@@ -1,4 +1,181 @@
-[{:assignees [:phillips-petroleum],
+[{:assignees [:emulsol],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2471861/en",
+  :title "Testing of solutions",
+  :status :granted,
+  :id "US2471861",
+  :sourcing :authoritative,
+  :filing-year 1945,
+  :assignee :emulsol,
+  :grant-year 1949,
+  :cites ["US1674416" "US1986403" "US2370683"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:virts],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2474691/en",
+  :title "Web coating apparatus",
+  :status :granted,
+  :id "US2474691",
+  :sourcing :authoritative,
+  :filing-year 1946,
+  :assignee :virts,
+  :grant-year 1949,
+  :cites
+  ["US1421884"
+   "US1933963"
+   "US1945065"
+   "US1993772"
+   "US1994263"
+   "US2054448"
+   "US2119480"
+   "US2351271"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:carnegie-illinois-steel],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2477072/en",
+  :title "Process for determining titanium carbide in stainless steel",
+  :status :granted,
+  :id "US2477072",
+  :sourcing :authoritative,
+  :filing-year 1945,
+  :assignee :carnegie-illinois-steel,
+  :grant-year 1949,
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:ei-du-pont-de-nemours-and],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2477462/en",
+  :title
+  "Polymeric color formers from hydroxyl polymers containing reactive ketaldone groups with reactive methylene and amino color formers",
+  :status :granted,
+  :id "US2477462",
+  :sourcing :authoritative,
+  :filing-year 1946,
+  :assignee :ei-du-pont-de-nemours-and,
+  :grant-year 1949,
+  :cites ["US2332897"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:frances-r-ruskin],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2482069/en",
+  :title "Preparation of adenylic and thio-adenylic acid",
+  :status :granted,
+  :id "US2482069",
+  :sourcing :authoritative,
+  :filing-year 1944,
+  :assignee :frances-r-ruskin,
+  :grant-year 1949,
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:dow-chemical],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2482825/en",
+  :title
+  "Putty comprising a liquid monomer and a finely divided solid insoluble polymer",
+  :status :granted,
+  :id "US2482825",
+  :sourcing :authoritative,
+  :filing-year 1946,
+  :assignee :dow-chemical,
+  :grant-year 1949,
+  :cites ["GB345197A" "US2254072" "US2269810"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:eastman-kodak],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2484423/en",
+  :title "Process for the preparation of polyvinylamine salts",
+  :status :granted,
+  :id "US2484423",
+  :sourcing :authoritative,
+  :filing-year 1945,
+  :assignee :eastman-kodak,
+  :grant-year 1949,
+  :cites ["US2231905"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:corning-glass-works],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2486162/en",
+  :title "Organo-siloxanes",
+  :status :granted,
+  :id "US2486162",
+  :sourcing :authoritative,
+  :filing-year 1942,
+  :assignee :corning-glass-works,
+  :grant-year 1949,
+  :cites
+  ["US2258218"
+   "US2258220"
+   "US2258222"
+   "US2371050"
+   "US2386466"
+   "US2442212"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:monsanto-chemicals],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2486665/en",
+  :title
+  "Coating composition comprising an alkyd resin and an alkoxy methylolmelamine",
+  :status :granted,
+  :id "US2486665",
+  :sourcing :authoritative,
+  :filing-year 1946,
+  :assignee :monsanto-chemicals,
+  :grant-year 1949,
+  :cites ["US2125484" "US2218474" "US2426379"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:united-states-department-of-commerce],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2487077/en",
+  :title "Colorimetric gas detection",
+  :status :granted,
+  :id "US2487077",
+  :sourcing :authoritative,
+  :filing-year 1943,
+  :assignee :united-states-department-of-commerce,
+  :grant-year 1949,
+  :cites
+  ["GB345672A"
+   "US1321062"
+   "US1489247"
+   "US1644014"
+   "US1671517"
+   "US1675308"
+   "US2111301"
+   "US2174349"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:dow-chemical],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2488571/en",
+  :title "Production of polymeric vinylidene chloride film",
+  :status :granted,
+  :id "US2488571",
+  :sourcing :authoritative,
+  :filing-year 1947,
+  :assignee :dow-chemical,
+  :grant-year 1949,
+  :cites ["US2271932" "US2409521"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:phillips-petroleum],
   :jurisdiction :us,
   :field "UNKNOWN",
   :source "https://patents.google.com/patent/US2490345/en",
@@ -824,6 +1001,28 @@
    "US2414125"],
   :term-years 20,
   :open-license :none}
+ {:assignees [:raytheon-manufacturing],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2528251/en",
+  :title "Receptacle",
+  :status :granted,
+  :id "US2528251",
+  :sourcing :authoritative,
+  :filing-year 1947,
+  :assignee :raytheon-manufacturing,
+  :grant-year 1950,
+  :cites
+  ["US1821011"
+   "US1923452"
+   "US2065422"
+   "US2074156"
+   "US2085365"
+   "US2347509"
+   "US2387482"
+   "US659238"],
+  :term-years 20,
+  :open-license :none}
  {:assignees [:union-carbide-and-carbon],
   :jurisdiction :us,
   :field "UNKNOWN",
@@ -1275,6 +1474,27 @@
   :assignee :united-states-rubber,
   :grant-year 1951,
   :cites ["US2140048" "US2416232" "US2439202" "US2453880"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:ball-brothers],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2555230/en",
+  :title "Pressure cooking procedure",
+  :status :granted,
+  :id "US2555230",
+  :sourcing :authoritative,
+  :filing-year 1948,
+  :assignee :ball-brothers,
+  :grant-year 1951,
+  :cites
+  ["US1184250"
+   "US1447701"
+   "US1544384"
+   "US1881855"
+   "US2144334"
+   "US2388103"
+   "US2398082"],
   :term-years 20,
   :open-license :none}
  {:assignees [:elizabeth-r-b-stuart],
@@ -2245,6 +2465,20 @@
   :cites ["US2399084" "US2406958" "US2562534"],
   :term-years 20,
   :open-license :none}
+ {:assignees [:ivers-lee],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2595708/en",
+  :title "Vented package",
+  :status :granted,
+  :id "US2595708",
+  :sourcing :authoritative,
+  :filing-year 1948,
+  :assignee :ivers-lee,
+  :grant-year 1952,
+  :cites ["US2314330" "US2361344" "US2387303" "US2468517"],
+  :term-years 20,
+  :open-license :none}
  {:assignees [:shell-development],
   :jurisdiction :us,
   :field "UNKNOWN",
@@ -2448,6 +2682,20 @@
   :assignee :unassigned,
   :grant-year 1952,
   :cites ["US2177601" "US2187480" "US2201096" "US2344120"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:gaylord-container],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2603401/en",
+  :title "Shipping container",
+  :status :granted,
+  :id "US2603401",
+  :sourcing :authoritative,
+  :filing-year 1949,
+  :assignee :gaylord-container,
+  :grant-year 1952,
+  :cites ["US1262508" "US1926941" "US2398404" "US2398405" "US2450110"],
   :term-years 20,
   :open-license :none}
  {:assignees [:bell-telephone-laboratories],
@@ -4167,6 +4415,25 @@
   :open-license :none}
  {:jurisdiction :us,
   :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2665616/en",
+  :title "Method of manufacturing boxes",
+  :status :granted,
+  :id "US2665616",
+  :sourcing :authoritative,
+  :filing-year 1952,
+  :assignee :unassigned,
+  :grant-year 1954,
+  :cites
+  ["GB324383A"
+   "GB366194A"
+   "US1455321"
+   "US2409460"
+   "US726205"
+   "US737692"],
+  :term-years 20,
+  :open-license :none}
+ {:jurisdiction :us,
+  :field "UNKNOWN",
   :source "https://patents.google.com/patent/US2666355/en",
   :title
   "Method of studying chemical reactions by measuring interfacial film thicknesses",
@@ -4484,6 +4751,20 @@
    "US2585924"
    "US2622991"
    "US2648463"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:transparent-package],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2679969/en",
+  :title "Package construction",
+  :status :granted,
+  :id "US2679969",
+  :sourcing :authoritative,
+  :filing-year 1954,
+  :assignee :transparent-package,
+  :grant-year 1954,
+  :cites ["GB514560A" "US2275814" "US2422725" "US2536773" "US2622991"],
   :term-years 20,
   :open-license :none}
  {:assignees [:eastman-kodak],
@@ -7674,6 +7955,32 @@
   :cites ["US2482276" "US2588365" "US2588393" "US2607792" "US2612482"],
   :term-years 20,
   :open-license :none}
+ {:assignees [:john-t-raisin],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2808192/en",
+  :title "Food container",
+  :status :granted,
+  :id "US2808192",
+  :sourcing :authoritative,
+  :filing-year 1953,
+  :assignee :john-t-raisin,
+  :grant-year 1957,
+  :cites
+  ["US1704175"
+   "US2106663"
+   "US2120902"
+   "US2131438"
+   "US2260230"
+   "US2378324"
+   "US2442936"
+   "US2470465"
+   "US2571340"
+   "US2621129"
+   "US2674536"
+   "US2691259"],
+  :term-years 20,
+  :open-license :none}
  {:assignees [:burgess-battery],
   :jurisdiction :us,
   :field "UNKNOWN",
@@ -8944,6 +9251,27 @@
   :cites ["US2710853"],
   :term-years 20,
   :open-license :none}
+ {:assignees [:jack-oritt],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2881078/en",
+  :title "Metallic foil food packaging and cooking envelope",
+  :status :granted,
+  :id "US2881078",
+  :sourcing :authoritative,
+  :filing-year 1956,
+  :assignee :jack-oritt,
+  :grant-year 1959,
+  :cites
+  ["US2346564"
+   "US2350931"
+   "US2533554"
+   "US2541674"
+   "US2609301"
+   "US2633284"
+   "US2807550"],
+  :term-years 20,
+  :open-license :none}
  {:assignees [:american-cyanamid],
   :jurisdiction :us,
   :field "UNKNOWN",
@@ -9611,338 +9939,5 @@
   :assignee :unassigned,
   :grant-year 1959,
   :cites ["US2133609" "US2490933" "US2708896" "US2782749"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:american-cyanamid],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US2918452/en",
-  :title
-  "Process for the manufacture of methylol melamines and alkylated methylol melamines",
-  :status :granted,
-  :id "US2918452",
-  :sourcing :authoritative,
-  :filing-year 1956,
-  :assignee :american-cyanamid,
-  :grant-year 1959,
-  :cites
-  ["US2331446"
-   "US2486665"
-   "US2645625"
-   "US2715619"
-   "US2781332"
-   "US2804441"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:standard-brands],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US2919194/en",
-  :title
-  "Active dry yeast products and processes for producing the same",
-  :status :granted,
-  :id "US2919194",
-  :sourcing :authoritative,
-  :filing-year 1957,
-  :assignee :standard-brands,
-  :grant-year 1959,
-  :cites ["US1420557" "US1706564" "US2111201" "US2136399" "US2523483"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:warren-sd],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US2919205/en",
-  :title "Process for finishing coated paper",
-  :status :granted,
-  :id "US2919205",
-  :sourcing :authoritative,
-  :filing-year 1956,
-  :assignee :warren-sd,
-  :grant-year 1959,
-  :cites ["US2597087" "US2711156" "US2772184" "US2776912" "US2790736"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:halliburton-oil-well-cementing],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US2922478/en",
-  :title "Well packer",
-  :status :granted,
-  :id "US2922478",
-  :sourcing :authoritative,
-  :filing-year 1956,
-  :assignee :halliburton-oil-well-cementing,
-  :grant-year 1960,
-  :cites
-  ["US1842107"
-   "US2029380"
-   "US2155609"
-   "US2602511"
-   "US2611436"
-   "US2618344"
-   "US2633916"],
-  :term-years 20,
-  :open-license :none}
- {:jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US2922768/en",
-  :title
-  "Process for polymerization of a vinylidene monomer in the presence of a ceric salt and an organic reducing agent",
-  :status :granted,
-  :id "US2922768",
-  :sourcing :authoritative,
-  :filing-year 1959,
-  :assignee :unassigned,
-  :grant-year 1960,
-  :term-years 20,
-  :open-license :none}
- {:assignees [:philco-ford],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US2922893/en",
-  :title "Document identifying system",
-  :status :granted,
-  :id "US2922893",
-  :sourcing :authoritative,
-  :filing-year 1954,
-  :assignee :philco-ford,
-  :grant-year 1960,
-  :term-years 20,
-  :open-license :none}
- {:assignees [:glanzstoff],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US2924589/en",
-  :title "Process of polymerization of vinyl compounds",
-  :status :granted,
-  :id "US2924589",
-  :sourcing :authoritative,
-  :filing-year 1955,
-  :assignee :glanzstoff,
-  :grant-year 1960,
-  :cites ["US2375256" "US2608554" "US2608555" "US2675372"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:garden-photoengraving],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US2925332/en",
-  :title "Method of etching printing plates",
-  :status :granted,
-  :id "US2925332",
-  :sourcing :authoritative,
-  :filing-year 1956,
-  :assignee :garden-photoengraving,
-  :grant-year 1960,
-  :cites ["US1709327" "US2314285" "US2640765"],
-  :term-years 20,
-  :open-license :none}
- {:jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US2926072/en",
-  :title "Detection of g agents",
-  :status :granted,
-  :id "US2926072",
-  :sourcing :authoritative,
-  :filing-year 1959,
-  :assignee :unassigned,
-  :grant-year 1960,
-  :term-years 20,
-  :open-license :none}
- {:jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US2927219/en",
-  :title "Apparatus for counting discrete particles",
-  :status :granted,
-  :id "US2927219",
-  :sourcing :authoritative,
-  :filing-year 1953,
-  :assignee :unassigned,
-  :grant-year 1960,
-  :cites
-  ["US2415191"
-   "US2427319"
-   "US2443722"
-   "US2494441"
-   "US2661902"
-   "US2789765"
-   "US2791377"
-   "US2791695"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:jersey-production-research],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US2927640/en",
-  :title "Well tool placement apparatus",
-  :status :granted,
-  :id "US2927640",
-  :sourcing :authoritative,
-  :filing-year 1957,
-  :assignee :jersey-production-research,
-  :grant-year 1960,
-  :cites
-  ["US1839310"
-   "US2261564"
-   "US2315931"
-   "US2436252"
-   "US2591603"
-   "US2606616"
-   "US2805718"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:bayer :mobay],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US2929737/en",
-  :title "Coated textiles and method of producing the same",
-  :status :granted,
-  :id "US2929737",
-  :sourcing :authoritative,
-  :filing-year 1954,
-  :assignee :bayer,
-  :grant-year 1960,
-  :cites
-  ["CA501126A"
-   "DE821934C"
-   "GB604834A"
-   "US2333922"
-   "US2430479"
-   "US2555745"
-   "US2606162"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:ei-du-pont-de-nemours-and],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US2929800/en",
-  :title "Polytetramethylene ether polyurethane polymers",
-  :status :granted,
-  :id "US2929800",
-  :sourcing :authoritative,
-  :filing-year 1953,
-  :assignee :ei-du-pont-de-nemours-and,
-  :grant-year 1960,
-  :cites
-  ["FR892107A"
-   "US2284896"
-   "US2531392"
-   "US2625531"
-   "US2625532"
-   "US2625535"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:american-felt],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US2930106/en",
-  :title "Gaskets",
-  :status :granted,
-  :id "US2930106",
-  :sourcing :authoritative,
-  :filing-year 1957,
-  :assignee :american-felt,
-  :grant-year 1960,
-  :cites
-  ["US2539329"
-   "US2631355"
-   "US2677872"
-   "US2686738"
-   "US2764506"
-   "US2773781"
-   "US2813041"
-   "US2840881"
-   "US2843502"],
-  :term-years 20,
-  :open-license :none}
- {:jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US2930727/en",
-  :title "Aminoplastic resin impregnated laminates",
-  :status :granted,
-  :id "US2930727",
-  :sourcing :authoritative,
-  :filing-year 1958,
-  :assignee :unassigned,
-  :grant-year 1960,
-  :cites
-  ["US1851177"
-   "US2325376"
-   "US2415763"
-   "US2525676"
-   "US2680700"
-   "US2694028"
-   "US2728741"
-   "US2769796"
-   "US2773793"
-   "US2773794"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:national-drug],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US2930736/en",
-  :title
-  "Stabilized trypsin compositions containing partially hydrolyzed gelatin and method of making",
-  :status :granted,
-  :id "US2930736",
-  :sourcing :authoritative,
-  :filing-year 1957,
-  :assignee :national-drug,
-  :grant-year 1960,
-  :term-years 20,
-  :open-license :none}
- {:assignees [:amf],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US2932300/en",
-  :title "Cigarette machine",
-  :status :granted,
-  :id "US2932300",
-  :sourcing :authoritative,
-  :filing-year 1956,
-  :assignee :amf,
-  :grant-year 1960,
-  :cites
-  ["DE542226C"
-   "FR406842A"
-   "GB445044A"
-   "US1052381"
-   "US1647255"
-   "US1755080"
-   "US1999120"
-   "US2181229"
-   "US2310460"
-   "US2570270"
-   "US7226"],
-  :term-years 20,
-  :open-license :none}
- {:jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US2933418/en",
-  :title "Impregnation of the grain side of leather with polysulfides",
-  :status :granted,
-  :id "US2933418",
-  :sourcing :authoritative,
-  :filing-year 1959,
-  :assignee :unassigned,
-  :grant-year 1960,
-  :cites ["US2466963" "US2824816"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:ei-du-pont-de-nemours-and],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US2934510/en",
-  :title
-  "Coating compositions containing polymer of methyl methacrylate",
-  :status :granted,
-  :id "US2934510",
-  :sourcing :authoritative,
-  :filing-year 1956,
-  :assignee :ei-du-pont-de-nemours-and,
-  :grant-year 1960,
-  :cites ["US2063078" "US2204517"],
   :term-years 20,
   :open-license :none}]

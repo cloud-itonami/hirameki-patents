@@ -3665,6 +3665,47 @@
   ":hirameki/source"
   "https://patents.google.com/patent/US10584378B2/en"]
  [":db/add"
+  "hirameki-patent:US1058682"
+  ":hirameki.patent/title"
+  "Method of preserving the natural flavor of an article of food."]
+ [":db/add"
+  "hirameki-patent:US1058682"
+  ":hirameki.patent/jurisdiction"
+  ":us"]
+ [":db/add"
+  "hirameki-patent:US1058682"
+  ":hirameki.patent/field"
+  "UNKNOWN"]
+ [":db/add"
+  "hirameki-patent:US1058682"
+  ":hirameki.patent/assignee"
+  ":unassigned"]
+ [":db/add"
+  "hirameki-patent:US1058682"
+  ":hirameki.patent/status"
+  ":granted"]
+ [":db/add"
+  "hirameki-patent:US1058682"
+  ":hirameki.patent/open-license"
+  ":none"]
+ [":db/add"
+  "hirameki-patent:US1058682"
+  ":hirameki.obs/release-status"
+  ":public-domain"]
+ [":db/add"
+  "hirameki-patent:US1058682"
+  ":hirameki/sourcing"
+  ":authoritative"]
+ [":db/add" "hirameki-patent:US1058682" ":hirameki/derived" true]
+ [":db/add"
+  "hirameki-patent:US1058682"
+  ":hirameki.obs/years-to-expiry"
+  -93]
+ [":db/add"
+  "hirameki-patent:US1058682"
+  ":hirameki/source"
+  "https://patents.google.com/patent/US1058682/en"]
+ [":db/add"
   "hirameki-patent:US1060366"
   ":hirameki.patent/title"
   "Method of treating paper."]
@@ -10187,46 +10228,5 @@
   ":us"]
  [":db/add"
   "hirameki-patent:US1916875"
-  ":hirameki.patent/field"
-  "UNKNOWN"]
- [":db/add"
-  "hirameki-patent:US1916875"
-  ":hirameki.patent/assignee"
-  ":yowell-&-yarbrough"]
- [":db/add"
-  "hirameki-patent:US1916875"
-  ":hirameki.patent/status"
-  ":granted"]
- [":db/add"
-  "hirameki-patent:US1916875"
-  ":hirameki.patent/open-license"
-  ":none"]
- [":db/add"
-  "hirameki-patent:US1916875"
-  ":hirameki.obs/release-status"
-  ":public-domain"]
- [":db/add"
-  "hirameki-patent:US1916875"
-  ":hirameki/sourcing"
-  ":authoritative"]
- [":db/add" "hirameki-patent:US1916875" ":hirameki/derived" true]
- [":db/add"
-  "hirameki-patent:US1916875"
-  ":hirameki.obs/years-to-expiry"
-  -74]
- [":db/add"
-  "hirameki-patent:US1916875"
-  ":hirameki/source"
-  "https://patents.google.com/patent/US1916875/en"]
- [":db/add"
-  "hirameki-patent:US1921368"
-  ":hirameki.patent/title"
-  "Process of coating paper"]
- [":db/add"
-  "hirameki-patent:US1921368"
-  ":hirameki.patent/jurisdiction"
-  ":us"]
- [":db/add"
-  "hirameki-patent:US1921368"
   ":hirameki.patent/field"
   "UNKNOWN"]]

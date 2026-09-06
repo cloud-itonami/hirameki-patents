@@ -1,6 +1,339 @@
 [{:assignees [:american-cyanamid],
   :jurisdiction :us,
   :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2918452/en",
+  :title
+  "Process for the manufacture of methylol melamines and alkylated methylol melamines",
+  :status :granted,
+  :id "US2918452",
+  :sourcing :authoritative,
+  :filing-year 1956,
+  :assignee :american-cyanamid,
+  :grant-year 1959,
+  :cites
+  ["US2331446"
+   "US2486665"
+   "US2645625"
+   "US2715619"
+   "US2781332"
+   "US2804441"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:standard-brands],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2919194/en",
+  :title
+  "Active dry yeast products and processes for producing the same",
+  :status :granted,
+  :id "US2919194",
+  :sourcing :authoritative,
+  :filing-year 1957,
+  :assignee :standard-brands,
+  :grant-year 1959,
+  :cites ["US1420557" "US1706564" "US2111201" "US2136399" "US2523483"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:warren-sd],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2919205/en",
+  :title "Process for finishing coated paper",
+  :status :granted,
+  :id "US2919205",
+  :sourcing :authoritative,
+  :filing-year 1956,
+  :assignee :warren-sd,
+  :grant-year 1959,
+  :cites ["US2597087" "US2711156" "US2772184" "US2776912" "US2790736"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:halliburton-oil-well-cementing],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2922478/en",
+  :title "Well packer",
+  :status :granted,
+  :id "US2922478",
+  :sourcing :authoritative,
+  :filing-year 1956,
+  :assignee :halliburton-oil-well-cementing,
+  :grant-year 1960,
+  :cites
+  ["US1842107"
+   "US2029380"
+   "US2155609"
+   "US2602511"
+   "US2611436"
+   "US2618344"
+   "US2633916"],
+  :term-years 20,
+  :open-license :none}
+ {:jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2922768/en",
+  :title
+  "Process for polymerization of a vinylidene monomer in the presence of a ceric salt and an organic reducing agent",
+  :status :granted,
+  :id "US2922768",
+  :sourcing :authoritative,
+  :filing-year 1959,
+  :assignee :unassigned,
+  :grant-year 1960,
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:philco-ford],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2922893/en",
+  :title "Document identifying system",
+  :status :granted,
+  :id "US2922893",
+  :sourcing :authoritative,
+  :filing-year 1954,
+  :assignee :philco-ford,
+  :grant-year 1960,
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:glanzstoff],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2924589/en",
+  :title "Process of polymerization of vinyl compounds",
+  :status :granted,
+  :id "US2924589",
+  :sourcing :authoritative,
+  :filing-year 1955,
+  :assignee :glanzstoff,
+  :grant-year 1960,
+  :cites ["US2375256" "US2608554" "US2608555" "US2675372"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:garden-photoengraving],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2925332/en",
+  :title "Method of etching printing plates",
+  :status :granted,
+  :id "US2925332",
+  :sourcing :authoritative,
+  :filing-year 1956,
+  :assignee :garden-photoengraving,
+  :grant-year 1960,
+  :cites ["US1709327" "US2314285" "US2640765"],
+  :term-years 20,
+  :open-license :none}
+ {:jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2926072/en",
+  :title "Detection of g agents",
+  :status :granted,
+  :id "US2926072",
+  :sourcing :authoritative,
+  :filing-year 1959,
+  :assignee :unassigned,
+  :grant-year 1960,
+  :term-years 20,
+  :open-license :none}
+ {:jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2927219/en",
+  :title "Apparatus for counting discrete particles",
+  :status :granted,
+  :id "US2927219",
+  :sourcing :authoritative,
+  :filing-year 1953,
+  :assignee :unassigned,
+  :grant-year 1960,
+  :cites
+  ["US2415191"
+   "US2427319"
+   "US2443722"
+   "US2494441"
+   "US2661902"
+   "US2789765"
+   "US2791377"
+   "US2791695"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:jersey-production-research],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2927640/en",
+  :title "Well tool placement apparatus",
+  :status :granted,
+  :id "US2927640",
+  :sourcing :authoritative,
+  :filing-year 1957,
+  :assignee :jersey-production-research,
+  :grant-year 1960,
+  :cites
+  ["US1839310"
+   "US2261564"
+   "US2315931"
+   "US2436252"
+   "US2591603"
+   "US2606616"
+   "US2805718"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:bayer :mobay],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2929737/en",
+  :title "Coated textiles and method of producing the same",
+  :status :granted,
+  :id "US2929737",
+  :sourcing :authoritative,
+  :filing-year 1954,
+  :assignee :bayer,
+  :grant-year 1960,
+  :cites
+  ["CA501126A"
+   "DE821934C"
+   "GB604834A"
+   "US2333922"
+   "US2430479"
+   "US2555745"
+   "US2606162"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:ei-du-pont-de-nemours-and],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2929800/en",
+  :title "Polytetramethylene ether polyurethane polymers",
+  :status :granted,
+  :id "US2929800",
+  :sourcing :authoritative,
+  :filing-year 1953,
+  :assignee :ei-du-pont-de-nemours-and,
+  :grant-year 1960,
+  :cites
+  ["FR892107A"
+   "US2284896"
+   "US2531392"
+   "US2625531"
+   "US2625532"
+   "US2625535"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:american-felt],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2930106/en",
+  :title "Gaskets",
+  :status :granted,
+  :id "US2930106",
+  :sourcing :authoritative,
+  :filing-year 1957,
+  :assignee :american-felt,
+  :grant-year 1960,
+  :cites
+  ["US2539329"
+   "US2631355"
+   "US2677872"
+   "US2686738"
+   "US2764506"
+   "US2773781"
+   "US2813041"
+   "US2840881"
+   "US2843502"],
+  :term-years 20,
+  :open-license :none}
+ {:jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2930727/en",
+  :title "Aminoplastic resin impregnated laminates",
+  :status :granted,
+  :id "US2930727",
+  :sourcing :authoritative,
+  :filing-year 1958,
+  :assignee :unassigned,
+  :grant-year 1960,
+  :cites
+  ["US1851177"
+   "US2325376"
+   "US2415763"
+   "US2525676"
+   "US2680700"
+   "US2694028"
+   "US2728741"
+   "US2769796"
+   "US2773793"
+   "US2773794"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:national-drug],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2930736/en",
+  :title
+  "Stabilized trypsin compositions containing partially hydrolyzed gelatin and method of making",
+  :status :granted,
+  :id "US2930736",
+  :sourcing :authoritative,
+  :filing-year 1957,
+  :assignee :national-drug,
+  :grant-year 1960,
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:amf],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2932300/en",
+  :title "Cigarette machine",
+  :status :granted,
+  :id "US2932300",
+  :sourcing :authoritative,
+  :filing-year 1956,
+  :assignee :amf,
+  :grant-year 1960,
+  :cites
+  ["DE542226C"
+   "FR406842A"
+   "GB445044A"
+   "US1052381"
+   "US1647255"
+   "US1755080"
+   "US1999120"
+   "US2181229"
+   "US2310460"
+   "US2570270"
+   "US7226"],
+  :term-years 20,
+  :open-license :none}
+ {:jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2933418/en",
+  :title "Impregnation of the grain side of leather with polysulfides",
+  :status :granted,
+  :id "US2933418",
+  :sourcing :authoritative,
+  :filing-year 1959,
+  :assignee :unassigned,
+  :grant-year 1960,
+  :cites ["US2466963" "US2824816"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:ei-du-pont-de-nemours-and],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2934510/en",
+  :title
+  "Coating compositions containing polymer of methyl methacrylate",
+  :status :granted,
+  :id "US2934510",
+  :sourcing :authoritative,
+  :filing-year 1956,
+  :assignee :ei-du-pont-de-nemours-and,
+  :grant-year 1960,
+  :cites ["US2063078" "US2204517"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:american-cyanamid],
+  :jurisdiction :us,
+  :field "UNKNOWN",
   :source "https://patents.google.com/patent/US2935493/en",
   :title
   "Composition comprising a reaction product of formaldehyde and a copolymer of acrylamide and an unsaturated betaine",
@@ -9362,281 +9695,5 @@
   :assignee :bausch-and-lomb,
   :grant-year 1969,
   :cites ["US3081158" "US3178266" "US3188181"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:shell-oil],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3441530/en",
-  :title "Block copolymer powders",
-  :status :granted,
-  :id "US3441530",
-  :sourcing :authoritative,
-  :filing-year 1965,
-  :assignee :shell-oil,
-  :grant-year 1969,
-  :cites ["GB888624A" "US2945020" "US3203916" "US3214407" "US3265765"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:united-states-department-of-the-army],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3443110/en",
-  :title "Scanner having rotating double-sided reflector",
-  :status :granted,
-  :id "US3443110",
-  :sourcing :authoritative,
-  :filing-year 1966,
-  :assignee :united-states-department-of-the-army,
-  :grant-year 1969,
-  :cites ["US2683220"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:university-of-illinois-at-urbana-champaign],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3444041/en",
-  :title "In vitro synthesis of ribonucleic acids and enzyme therefor",
-  :status :granted,
-  :id "US3444041",
-  :sourcing :authoritative,
-  :filing-year 1966,
-  :assignee :university-of-illinois-at-urbana-champaign,
-  :grant-year 1969,
-  :term-years 20,
-  :open-license :none}
- {:assignees [:university-of-illinois-at-urbana-champaign],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3444042/en",
-  :title "Purified replicases and their uses",
-  :status :granted,
-  :id "US3444042",
-  :sourcing :authoritative,
-  :filing-year 1966,
-  :assignee :university-of-illinois-at-urbana-champaign,
-  :grant-year 1969,
-  :term-years 20,
-  :open-license :none}
- {:assignees [:thaddeus-s-trzyna],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3447924/en",
-  :title "Aligning method",
-  :status :granted,
-  :id "US3447924",
-  :sourcing :authoritative,
-  :filing-year 1965,
-  :assignee :thaddeus-s-trzyna,
-  :grant-year 1969,
-  :cites ["US2257143" "US2382674" "US3050390" "US3066117" "US3282756"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:elton-industries],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3447985/en",
-  :title "Method for machining fragile crystals",
-  :status :granted,
-  :id "US3447985",
-  :sourcing :authoritative,
-  :filing-year 1965,
-  :assignee :elton-industries,
-  :grant-year 1969,
-  :cites ["US2585473" "US3083126" "US3092515" "US3257246"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:international-business-machines],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3448271/en",
-  :title
-  "Object tracking and imaging system having error signal duration proportional to off-center distance",
-  :status :granted,
-  :id "US3448271",
-  :sourcing :authoritative,
-  :filing-year 1965,
-  :assignee :international-business-machines,
-  :grant-year 1969,
-  :cites ["US3057953" "US3114859" "US3161725"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:bionetics-research-lab],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3449488/en",
-  :title "Immunology",
-  :status :granted,
-  :id "US3449488",
-  :sourcing :authoritative,
-  :filing-year 1965,
-  :assignee :bionetics-research-lab,
-  :grant-year 1969,
-  :cites ["US2439229" "US3141824" "US3313706" "US3316153"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:us-department-of-navy],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3449571/en",
-  :title
-  "Method of detecting and identifying microorganisms and other biologic materials",
-  :status :granted,
-  :id "US3449571",
-  :sourcing :authoritative,
-  :filing-year 1967,
-  :assignee :us-department-of-navy,
-  :grant-year 1969,
-  :cites ["US2971429" "US3092722" "US3264474"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:ajinomoto],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3450693/en",
-  :title
-  "Method of synthesizing adenosine,2&#39;,3&#39;-o-isopropylidene-adenosine and intermediates thereof",
-  :status :granted,
-  :id "US3450693",
-  :sourcing :authoritative,
-  :filing-year 1968,
-  :assignee :ajinomoto,
-  :grant-year 1969,
-  :cites ["US3332935" "US3337528"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:conductron],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3450883/en",
-  :title "Automatic focusing apparatus",
-  :status :granted,
-  :id "US3450883",
-  :sourcing :authoritative,
-  :filing-year 1965,
-  :assignee :conductron,
-  :grant-year 1969,
-  :cites ["US2831057" "US3274913"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:ethicon],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3451394/en",
-  :title
-  "Radiating tanned and untanned collagen prosthesis with 5 to 25 megarads of ionizing radiation",
-  :status :granted,
-  :id "US3451394",
-  :sourcing :authoritative,
-  :filing-year 1961,
-  :assignee :ethicon,
-  :grant-year 1969,
-  :cites
-  ["US2465357"
-   "US2610625"
-   "US2637321"
-   "US2721941"
-   "US2937279"
-   "US3043067"
-   "US3046210"
-   "US3157524"],
-  :term-years 20,
-  :open-license :none}
- {:jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3451777/en",
-  :title
-  "Method and apparatus for determining the thyroid hormone content of blood",
-  :status :granted,
-  :id "US3451777",
-  :sourcing :authoritative,
-  :filing-year 1965,
-  :assignee :unassigned,
-  :grant-year 1969,
-  :cites ["US2702034" "US2935194" "US3206602"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:ei-du-pont-de-nemours-and],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3451820/en",
-  :title "Dispersions of lipophilic colorcoupling copolymers",
-  :status :granted,
-  :id "US3451820",
-  :sourcing :authoritative,
-  :filing-year 1965,
-  :assignee :ei-du-pont-de-nemours-and,
-  :grant-year 1969,
-  :cites ["US2801171" "US3163625"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:miles-laboratories],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3453180/en",
-  :title "Test article",
-  :status :granted,
-  :id "US3453180",
-  :sourcing :authoritative,
-  :filing-year 1965,
-  :assignee :miles-laboratories,
-  :grant-year 1969,
-  :cites ["US3016292" "US3123443" "US3298789"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:dow-corning],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3453194/en",
-  :title
-  "Anticoagulant surfaces produced by radiation grafting heparin to a silicone substrate",
-  :status :granted,
-  :id "US3453194",
-  :sourcing :authoritative,
-  :filing-year 1966,
-  :assignee :dow-corning,
-  :grant-year 1969,
-  :term-years 20,
-  :open-license :none}
- {:assignees [:ajinomoto],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3454559/en",
-  :title "Preparation of guanosine and intermediates obtained thereby",
-  :status :granted,
-  :id "US3454559",
-  :sourcing :authoritative,
-  :filing-year 1968,
-  :assignee :ajinomoto,
-  :grant-year 1969,
-  :cites ["US3116282" "US3332935"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:minnesota-mining-and-manufacturing],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3455736/en",
-  :title "Cured polyarylene oxides and process therefor",
-  :status :granted,
-  :id "US3455736",
-  :sourcing :authoritative,
-  :filing-year 1967,
-  :assignee :minnesota-mining-and-manufacturing,
-  :grant-year 1969,
-  :cites ["US3228910" "US3306875" "US3373226"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:lever-brothers],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3455788/en",
-  :title "Multiple inoculation device",
-  :status :granted,
-  :id "US3455788",
-  :sourcing :authoritative,
-  :filing-year 1966,
-  :assignee :lever-brothers,
-  :grant-year 1969,
-  :cites ["US1512893" "US2838781" "US2956931" "US3234107"],
   :term-years 20,
   :open-license :none}]
