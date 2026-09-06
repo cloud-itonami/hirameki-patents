@@ -1,4 +1,27 @@
-[{:assignees [:wadsworth-watch-case],
+[{:jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US1569342/en",
+  :title "Absorption and diffusion photometer",
+  :status :granted,
+  :id "US1569342",
+  :sourcing :authoritative,
+  :assignee :unassigned,
+  :grant-year 1926,
+  :term-years 20,
+  :open-license :none}
+ {:jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US1585447/en",
+  :title "Extraction flask",
+  :status :granted,
+  :id "US1585447",
+  :sourcing :authoritative,
+  :filing-year 1922,
+  :assignee :unassigned,
+  :grant-year 1926,
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:wadsworth-watch-case],
   :jurisdiction :us,
   :field "UNKNOWN",
   :source "https://patents.google.com/patent/US1587269/en",
@@ -2838,6 +2861,19 @@
   :grant-year 1938,
   :term-years 20,
   :open-license :none}
+ {:assignees [:commercial-solvents],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2125484/en",
+  :title "Nonlifting lacquer",
+  :status :granted,
+  :id "US2125484",
+  :sourcing :authoritative,
+  :filing-year 1935,
+  :assignee :commercial-solvents,
+  :grant-year 1938,
+  :term-years 20,
+  :open-license :none}
  {:assignees [:imperial-chemical-industries],
   :jurisdiction :us,
   :field "UNKNOWN",
@@ -3644,6 +3680,19 @@
   :grant-year 1940,
   :term-years 20,
   :open-license :none}
+ {:assignees [:ei-du-pont-de-nemours-and],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2191957/en",
+  :title "Resinous composition and method of preparing same",
+  :status :granted,
+  :id "US2191957",
+  :sourcing :authoritative,
+  :filing-year 1936,
+  :assignee :ei-du-pont-de-nemours-and,
+  :grant-year 1940,
+  :term-years 20,
+  :open-license :none}
  {:assignees [:john-r-beddingfield],
   :jurisdiction :us,
   :field "UNKNOWN",
@@ -3821,6 +3870,20 @@
   :grant-year 1940,
   :term-years 20,
   :open-license :none}
+ {:assignees [:ei-du-pont-de-nemours-and],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2213921/en",
+  :title
+  "Dialkyl ethers of dimethylol urea and process for making same",
+  :status :granted,
+  :id "US2213921",
+  :sourcing :authoritative,
+  :filing-year 1938,
+  :assignee :ei-du-pont-de-nemours-and,
+  :grant-year 1940,
+  :term-years 20,
+  :open-license :none}
  {:jurisdiction :us,
   :field "UNKNOWN",
   :source "https://patents.google.com/patent/US2214551/en",
@@ -3971,6 +4034,19 @@
   :sourcing :authoritative,
   :filing-year 1939,
   :assignee :unassigned,
+  :grant-year 1940,
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:american-cyanamid],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2218474/en",
+  :title "Plastic and coating composition",
+  :status :granted,
+  :id "US2218474",
+  :sourcing :authoritative,
+  :filing-year 1938,
+  :assignee :american-cyanamid,
   :grant-year 1940,
   :term-years 20,
   :open-license :none}
@@ -4203,6 +4279,19 @@
   :sourcing :authoritative,
   :filing-year 1940,
   :assignee :unassigned,
+  :grant-year 1941,
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:bensel-brice],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2231791/en",
+  :title "Process for preserving food",
+  :status :granted,
+  :id "US2231791",
+  :sourcing :authoritative,
+  :filing-year 1940,
+  :assignee :bensel-brice,
   :grant-year 1941,
   :term-years 20,
   :open-license :none}
@@ -5391,6 +5480,19 @@
   :sourcing :authoritative,
   :filing-year 1941,
   :assignee :unassigned,
+  :grant-year 1943,
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:pittsburgh-plate-glass],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2309412/en",
+  :title "Evaporation of caustic",
+  :status :granted,
+  :id "US2309412",
+  :sourcing :authoritative,
+  :filing-year 1939,
+  :assignee :pittsburgh-plate-glass,
   :grant-year 1943,
   :term-years 20,
   :open-license :none}
@@ -7265,6 +7367,19 @@
   :grant-year 1946,
   :term-years 20,
   :open-license :none}
+ {:assignees [:wingfoot],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2398082/en",
+  :title "Cooking and packaging",
+  :status :granted,
+  :id "US2398082",
+  :sourcing :authoritative,
+  :filing-year 1943,
+  :assignee :wingfoot,
+  :grant-year 1946,
+  :term-years 20,
+  :open-license :none}
  {:assignees [:combined-locks-paper],
   :jurisdiction :us,
   :field "UNKNOWN",
@@ -7823,6 +7938,28 @@
   :cites ["US1950664" "US2087237" "US2157530" "US837122"],
   :term-years 20,
   :open-license :none}
+ {:assignees [:shellmar-products],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2422725/en",
+  :title "Container and seam construction",
+  :status :granted,
+  :id "US2422725",
+  :sourcing :authoritative,
+  :filing-year 1942,
+  :assignee :shellmar-products,
+  :grant-year 1947,
+  :cites
+  ["US2149030"
+   "US2200289"
+   "US2203591"
+   "US2232062"
+   "US2232640"
+   "US2275063"
+   "US2282258"
+   "US2297375"],
+  :term-years 20,
+  :open-license :none}
  {:assignees [:dow-chemical],
   :jurisdiction :us,
   :field "UNKNOWN",
@@ -7941,6 +8078,20 @@
    "US2298147"
    "US2308664"
    "US2322427"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:american-cyanamid],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2426379/en",
+  :title "Cellulose acetate coating compositions",
+  :status :granted,
+  :id "US2426379",
+  :sourcing :authoritative,
+  :filing-year 1940,
+  :assignee :american-cyanamid,
+  :grant-year 1947,
+  :cites ["US1815444" "US1963142" "US1977642" "US2197357" "US2218474"],
   :term-years 20,
   :open-license :none}
  {:assignees [:ei-du-pont-de-nemours-and],
@@ -9149,187 +9300,5 @@
   :assignee :bakelite,
   :grant-year 1949,
   :cites ["US2181481" "US2306790" "US2326543" "US2341186" "US2405977"],
-  :term-years 20,
-  :open-license :none}
- {:jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US2462612/en",
-  :title "Liquid treating apparatus",
-  :status :granted,
-  :id "US2462612",
-  :sourcing :authoritative,
-  :filing-year 1945,
-  :assignee :unassigned,
-  :grant-year 1949,
-  :cites
-  ["FR615127A"
-   "FR786239A"
-   "US1686092"
-   "US1760216"
-   "US2093311"
-   "US2315681"
-   "US320985"
-   "US613194"
-   "US707899"
-   "US807513"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:bf-goodrich],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US2463288/en",
-  :title
-  "Electrostatic heating method and apparatus for vulcanizing rubber and similar material",
-  :status :granted,
-  :id "US2463288",
-  :sourcing :authoritative,
-  :filing-year 1945,
-  :assignee :bf-goodrich,
-  :grant-year 1949,
-  :cites
-  ["GB517798A"
-   "US1162397"
-   "US1482473"
-   "US1661888"
-   "US1711716"
-   "US1884926"
-   "US2049415"
-   "US2119910"
-   "US2121872"
-   "US2163784"
-   "US2233175"
-   "US2280771"
-   "US2282317"
-   "US2333143"
-   "US2341617"
-   "US2362653"
-   "US2415028"
-   "US2421097"
-   "US9668"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:cons-water-power-and-paper-com],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US2463856/en",
-  :title "Production of laminated plastic",
-  :status :granted,
-  :id "US2463856",
-  :sourcing :authoritative,
-  :filing-year 1943,
-  :assignee :cons-water-power-and-paper-com,
-  :grant-year 1949,
-  :cites
-  ["US1019406"
-   "US1284296"
-   "US1318742"
-   "US1441133"
-   "US1685355"
-   "US2054444"
-   "US2092502"
-   "US2292118"
-   "US744422"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:corning-glass-works],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US2463974/en",
-  :title
-  "Compositions for the preparation of heat-resistant insulating materials, particularly in the form of independent films",
-  :status :granted,
-  :id "US2463974",
-  :sourcing :authoritative,
-  :filing-year 1945,
-  :assignee :corning-glass-works,
-  :grant-year 1949,
-  :cites ["US2258218" "US2258220"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:nopco-chemical],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US2465073/en",
-  :title "Plasticized compositions",
-  :status :granted,
-  :id "US2465073",
-  :sourcing :authoritative,
-  :filing-year 1947,
-  :assignee :nopco-chemical,
-  :grant-year 1949,
-  :cites ["FR799345A" "US2317663" "US2327007" "US2360865"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:thiokol],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US2466963/en",
-  :title "Polysulfide polymer",
-  :status :granted,
-  :id "US2466963",
-  :sourcing :authoritative,
-  :filing-year 1945,
-  :assignee :thiokol,
-  :grant-year 1949,
-  :cites
-  ["DE228868C"
-   "GB453701A"
-   "GB458781A"
-   "US2031529"
-   "US2050370"
-   "US2051806"
-   "US2180262"
-   "US2261094"
-   "US2278129"
-   "US2389755"
-   "US2405166"
-   "US2417118"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:amf],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US2467248/en",
-  :title "Shorts handling means for cigarette tobacco feeds",
-  :status :granted,
-  :id "US2467248",
-  :sourcing :authoritative,
-  :filing-year 1942,
-  :assignee :amf,
-  :grant-year 1949,
-  :cites
-  ["GB367431A"
-   "GB380400A"
-   "GB506615A"
-   "US1146824"
-   "US1183618"
-   "US1932168"
-   "US1938903"
-   "US2018011"
-   "US2150607"
-   "US2202399"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:philco-ford],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US2471601/en",
-  :title "Variable resistance phonograph pickup",
-  :status :granted,
-  :id "US2471601",
-  :sourcing :authoritative,
-  :filing-year 1944,
-  :assignee :philco-ford,
-  :grant-year 1949,
-  :cites
-  ["US1577981"
-   "US1689844"
-   "US1819083"
-   "US2042606"
-   "US2194175"
-   "US2305717"
-   "US2373676"
-   "US2380514"
-   "US2429137"],
   :term-years 20,
   :open-license :none}]

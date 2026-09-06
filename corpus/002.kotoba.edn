@@ -1,4 +1,186 @@
-[{:assignees [:emulsol],
+[{:jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2462612/en",
+  :title "Liquid treating apparatus",
+  :status :granted,
+  :id "US2462612",
+  :sourcing :authoritative,
+  :filing-year 1945,
+  :assignee :unassigned,
+  :grant-year 1949,
+  :cites
+  ["FR615127A"
+   "FR786239A"
+   "US1686092"
+   "US1760216"
+   "US2093311"
+   "US2315681"
+   "US320985"
+   "US613194"
+   "US707899"
+   "US807513"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:bf-goodrich],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2463288/en",
+  :title
+  "Electrostatic heating method and apparatus for vulcanizing rubber and similar material",
+  :status :granted,
+  :id "US2463288",
+  :sourcing :authoritative,
+  :filing-year 1945,
+  :assignee :bf-goodrich,
+  :grant-year 1949,
+  :cites
+  ["GB517798A"
+   "US1162397"
+   "US1482473"
+   "US1661888"
+   "US1711716"
+   "US1884926"
+   "US2049415"
+   "US2119910"
+   "US2121872"
+   "US2163784"
+   "US2233175"
+   "US2280771"
+   "US2282317"
+   "US2333143"
+   "US2341617"
+   "US2362653"
+   "US2415028"
+   "US2421097"
+   "US9668"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:cons-water-power-and-paper-com],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2463856/en",
+  :title "Production of laminated plastic",
+  :status :granted,
+  :id "US2463856",
+  :sourcing :authoritative,
+  :filing-year 1943,
+  :assignee :cons-water-power-and-paper-com,
+  :grant-year 1949,
+  :cites
+  ["US1019406"
+   "US1284296"
+   "US1318742"
+   "US1441133"
+   "US1685355"
+   "US2054444"
+   "US2092502"
+   "US2292118"
+   "US744422"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:corning-glass-works],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2463974/en",
+  :title
+  "Compositions for the preparation of heat-resistant insulating materials, particularly in the form of independent films",
+  :status :granted,
+  :id "US2463974",
+  :sourcing :authoritative,
+  :filing-year 1945,
+  :assignee :corning-glass-works,
+  :grant-year 1949,
+  :cites ["US2258218" "US2258220"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:nopco-chemical],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2465073/en",
+  :title "Plasticized compositions",
+  :status :granted,
+  :id "US2465073",
+  :sourcing :authoritative,
+  :filing-year 1947,
+  :assignee :nopco-chemical,
+  :grant-year 1949,
+  :cites ["FR799345A" "US2317663" "US2327007" "US2360865"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:thiokol],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2466963/en",
+  :title "Polysulfide polymer",
+  :status :granted,
+  :id "US2466963",
+  :sourcing :authoritative,
+  :filing-year 1945,
+  :assignee :thiokol,
+  :grant-year 1949,
+  :cites
+  ["DE228868C"
+   "GB453701A"
+   "GB458781A"
+   "US2031529"
+   "US2050370"
+   "US2051806"
+   "US2180262"
+   "US2261094"
+   "US2278129"
+   "US2389755"
+   "US2405166"
+   "US2417118"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:amf],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2467248/en",
+  :title "Shorts handling means for cigarette tobacco feeds",
+  :status :granted,
+  :id "US2467248",
+  :sourcing :authoritative,
+  :filing-year 1942,
+  :assignee :amf,
+  :grant-year 1949,
+  :cites
+  ["GB367431A"
+   "GB380400A"
+   "GB506615A"
+   "US1146824"
+   "US1183618"
+   "US1932168"
+   "US1938903"
+   "US2018011"
+   "US2150607"
+   "US2202399"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:philco-ford],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2471601/en",
+  :title "Variable resistance phonograph pickup",
+  :status :granted,
+  :id "US2471601",
+  :sourcing :authoritative,
+  :filing-year 1944,
+  :assignee :philco-ford,
+  :grant-year 1949,
+  :cites
+  ["US1577981"
+   "US1689844"
+   "US1819083"
+   "US2042606"
+   "US2194175"
+   "US2305717"
+   "US2373676"
+   "US2380514"
+   "US2429137"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:emulsol],
   :jurisdiction :us,
   :field "UNKNOWN",
   :source "https://patents.google.com/patent/US2471861/en",
@@ -2698,6 +2880,21 @@
   :cites ["US1262508" "US1926941" "US2398404" "US2398405" "US2450110"],
   :term-years 20,
   :open-license :none}
+ {:assignees [:monsanto-chemicals],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2603623/en",
+  :title
+  "Reaction products of etherified aminotriazinealdehyde with alkali metal salts of sulfurous acid",
+  :status :granted,
+  :id "US2603623",
+  :sourcing :authoritative,
+  :filing-year 1948,
+  :assignee :monsanto-chemicals,
+  :grant-year 1952,
+  :cites ["US2197357" "US2388143" "US2407599" "US2454078"],
+  :term-years 20,
+  :open-license :none}
  {:assignees [:bell-telephone-laboratories],
   :jurisdiction :us,
   :field "UNKNOWN",
@@ -3324,6 +3521,25 @@
    "US2414858"
    "US2460998"
    "US2515340"],
+  :term-years 20,
+  :open-license :none}
+ {:jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2633284/en",
+  :title "Sealed cooking container for comestibles",
+  :status :granted,
+  :id "US2633284",
+  :sourcing :authoritative,
+  :filing-year 1949,
+  :assignee :unassigned,
+  :grant-year 1953,
+  :cites
+  ["US2111041"
+   "US2171588"
+   "US2230849"
+   "US2304591"
+   "US2361344"
+   "US2420983"],
   :term-years 20,
   :open-license :none}
  {:assignees [:ei-du-pont-de-nemours-and],
@@ -4999,6 +5215,26 @@
    "US2414535"
    "US2549069"
    "US2570614"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:international-minerals-and-chemical],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2687961/en",
+  :title "Process of treating fowl",
+  :status :granted,
+  :id "US2687961",
+  :sourcing :authoritative,
+  :filing-year 1950,
+  :assignee :international-minerals-and-chemical,
+  :grant-year 1954,
+  :cites
+  ["US2054646"
+   "US2105477"
+   "US2128952"
+   "US2162047"
+   "US2270582"
+   "US2444127"],
   :term-years 20,
   :open-license :none}
  {:jurisdiction :us,
@@ -7528,6 +7764,19 @@
   :cites ["US2188167" "US2363892" "US2398317" "US2636819" "US2719837"],
   :term-years 20,
   :open-license :none}
+ {:jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2788821/en",
+  :title "Liquid containers for dropping by aircraft",
+  :status :granted,
+  :id "US2788821",
+  :sourcing :authoritative,
+  :filing-year 1954,
+  :assignee :unassigned,
+  :grant-year 1957,
+  :cites ["US1607626" "US2024908" "US2203591" "US2245738" "US2335159"],
+  :term-years 20,
+  :open-license :none}
  {:assignees [:polaroid],
   :jurisdiction :us,
   :field "UNKNOWN",
@@ -7938,6 +8187,19 @@
   :assignee :commonwealth-engineering-company-of-ohio,
   :grant-year 1957,
   :cites ["US1974522" "US2369577" "US2480312" "US2584082" "US2661902"],
+  :term-years 20,
+  :open-license :none}
+ {:jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2807550/en",
+  :title "Pre-cooked food package and method of preparing the same",
+  :status :granted,
+  :id "US2807550",
+  :sourcing :authoritative,
+  :filing-year 1955,
+  :assignee :unassigned,
+  :grant-year 1957,
+  :cites ["US1711372" "US2465841" "US2609301"],
   :term-years 20,
   :open-license :none}
  {:assignees [:dow-corning],
@@ -9724,220 +9986,5 @@
   :assignee :bacto-strip,
   :grant-year 1959,
   :cites ["US2672432" "US2677646" "US2677647" "US2771398" "US2784146"],
-  :term-years 20,
-  :open-license :none}
- {:jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US2905169/en",
-  :title "Device for cancer detection",
-  :status :granted,
-  :id "US2905169",
-  :sourcing :authoritative,
-  :filing-year 1955,
-  :assignee :unassigned,
-  :grant-year 1959,
-  :cites ["US2046566"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:ei-du-pont-de-nemours-and],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US2905645/en",
-  :title "Polymerization catalysts",
-  :status :granted,
-  :id "US2905645",
-  :sourcing :authoritative,
-  :filing-year 1954,
-  :assignee :ei-du-pont-de-nemours-and,
-  :grant-year 1959,
-  :cites ["US2355925" "US2475520"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:bayer],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US2906715/en",
-  :title "Sulphonamides of organic polymers",
-  :status :granted,
-  :id "US2906715",
-  :sourcing :authoritative,
-  :filing-year 1955,
-  :assignee :bayer,
-  :grant-year 1959,
-  :cites ["US2366007" "US2618655" "US2725368" "US2759816" "US2778813"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:american-cyanamid],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US2906724/en",
-  :title
-  "Composition containing polymethylol melamine and an ammonium salt of a copolymer of an unsaturated monocarboxylic acid and an alkyl ester of such an acid",
-  :status :granted,
-  :id "US2906724",
-  :sourcing :authoritative,
-  :filing-year 1957,
-  :assignee :american-cyanamid,
-  :grant-year 1959,
-  :cites ["US2469408" "US2653140"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:rohm-and-haas],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US2906756/en",
-  :title "New organic silicon compounds and methods of making them",
-  :status :granted,
-  :id "US2906756",
-  :sourcing :authoritative,
-  :filing-year 1956,
-  :assignee :rohm-and-haas,
-  :grant-year 1959,
-  :term-years 20,
-  :open-license :none}
- {:assignees [:ei-du-pont-de-nemours-and],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US2909449/en",
-  :title "Vinylidene chloride copolymer coating compositions",
-  :status :granted,
-  :id "US2909449",
-  :sourcing :authoritative,
-  :filing-year 1956,
-  :assignee :ei-du-pont-de-nemours-and,
-  :grant-year 1959,
-  :cites ["GB665479A" "US2570478" "US2636870" "US2748027"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:british-cellophane],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US2910385/en",
-  :title
-  "Production of moistureproof sheet wrapping materials coated with copolymers applied from aqueous dispersions",
-  :status :granted,
-  :id "US2910385",
-  :sourcing :authoritative,
-  :filing-year 1955,
-  :assignee :british-cellophane,
-  :grant-year 1959,
-  :cites ["GB655732A" "US2570478" "US2618575" "US2721150" "US2721151"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:jersey-production-research],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US2911048/en",
-  :title "Apparatus for working over and servicing wells",
-  :status :granted,
-  :id "US2911048",
-  :sourcing :authoritative,
-  :filing-year 1954,
-  :assignee :jersey-production-research,
-  :grant-year 1959,
-  :cites
-  ["US1916875"
-   "US2016919"
-   "US2543814"
-   "US2636563"
-   "US2645291"
-   "US2649916"
-   "US2673614"
-   "US2674315"
-   "US2749989"
-   "US2760578"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:columbia-ribbon-and-carbon-manufacturing],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US2912344/en",
-  :title
-  "Pressure-sensitive transfer element for placing smudge-resistant marks",
-  :status :granted,
-  :id "US2912344",
-  :sourcing :authoritative,
-  :filing-year 1957,
-  :assignee :columbia-ribbon-and-carbon-manufacturing,
-  :grant-year 1959,
-  :cites ["US2744031" "US2762715" "US2777781"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:johnson-and-johnson],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US2913355/en",
-  :title "Adhesive tape with low adhesion backsize coating",
-  :status :granted,
-  :id "US2913355",
-  :sourcing :authoritative,
-  :filing-year 1955,
-  :assignee :johnson-and-johnson,
-  :grant-year 1959,
-  :cites ["GB531497A"],
-  :term-years 20,
-  :open-license :none}
- {:jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US2913386/en",
-  :title "Electrochemical device for chemical analysis",
-  :status :granted,
-  :id "US2913386",
-  :sourcing :authoritative,
-  :filing-year 1956,
-  :assignee :unassigned,
-  :grant-year 1959,
-  :cites
-  ["US2278248"
-   "US2415067"
-   "US2624701"
-   "US2651612"
-   "US2732335"
-   "US2745803"
-   "US2745804"
-   "US2760922"
-   "US2787903"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:bf-goodrich],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US2913444/en",
-  :title
-  "Process for polymerizing conjugated diolefins using a mixture of metallic lithium and alkyl lithium as the catalyst",
-  :status :granted,
-  :id "US2913444",
-  :sourcing :authoritative,
-  :filing-year 1956,
-  :assignee :bf-goodrich,
-  :grant-year 1959,
-  :cites ["US1058056" "US2377779" "US2506857" "US2699457"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:american-viscose],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US2916864/en",
-  :title "Packaging apparatus",
-  :status :granted,
-  :id "US2916864",
-  :sourcing :authoritative,
-  :filing-year 1957,
-  :assignee :american-viscose,
-  :grant-year 1959,
-  :cites ["US2146308" "US2146831" "US2693067" "US2761264" "US2828591"],
-  :term-years 20,
-  :open-license :none}
- {:jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US2918033/en",
-  :title "Pipe leakage detector",
-  :status :granted,
-  :id "US2918033",
-  :sourcing :authoritative,
-  :filing-year 1957,
-  :assignee :unassigned,
-  :grant-year 1959,
-  :cites ["US2133609" "US2490933" "US2708896" "US2782749"],
   :term-years 20,
   :open-license :none}]
