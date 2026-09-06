@@ -1,4 +1,79 @@
-[{:assignees [:piant-products],
+[{:assignees [:spreckels-sugar],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2503808/en",
+  :title "Photoelectric automatically balancing polariscope",
+  :status :granted,
+  :id "US2503808",
+  :sourcing :authoritative,
+  :filing-year 1948,
+  :assignee :spreckels-sugar,
+  :grant-year 1950,
+  :cites ["GB540876A" "US2076553" "US2107836" "US2376311" "US2471249"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:optische-industrie-de-oude-delft],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2504383/en",
+  :title "Reflecting type telescope having a spherical mirror",
+  :status :granted,
+  :id "US2504383",
+  :sourcing :authoritative,
+  :filing-year 1945,
+  :assignee :optische-industrie-de-oude-delft,
+  :grant-year 1950,
+  :cites
+  ["CH190465A"
+   "DE82671C"
+   "GB544694A"
+   "US1060469"
+   "US2153198"
+   "US2403660"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:dow-corning],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2504388/en",
+  :title "Organopolysiloxane compositions",
+  :status :granted,
+  :id "US2504388",
+  :sourcing :authoritative,
+  :filing-year 1949,
+  :assignee :dow-corning,
+  :grant-year 1950,
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:joseph-bancroft-and-sons],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2504857/en",
+  :title "Art of imparting crease resistance to cotton fabrics",
+  :status :granted,
+  :id "US2504857",
+  :sourcing :authoritative,
+  :filing-year 1949,
+  :assignee :joseph-bancroft-and-sons,
+  :grant-year 1950,
+  :cites ["GB466015A" "US2197357" "US2339203" "US2350139"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:california-research],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2504965/en",
+  :title "Electrical bridge network",
+  :status :granted,
+  :id "US2504965",
+  :sourcing :authoritative,
+  :filing-year 1949,
+  :assignee :california-research,
+  :grant-year 1950,
+  :cites ["US2112228" "US2456499"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:piant-products],
   :jurisdiction :us,
   :field "UNKNOWN",
   :source "https://patents.google.com/patent/US2506344/en",
@@ -1683,6 +1758,18 @@
   :grant-year 1952,
   :term-years 20,
   :open-license :none}
+ {:jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2588393/en",
+  :title "Organosiloxane coating composition",
+  :status :granted,
+  :id "US2588393",
+  :sourcing :authoritative,
+  :assignee :unassigned,
+  :grant-year 1952,
+  :cites ["US2386259" "US2442196" "US2448556"],
+  :term-years 20,
+  :open-license :none}
  {:assignees [:general-electric],
   :jurisdiction :us,
   :field "UNKNOWN",
@@ -2203,6 +2290,20 @@
   :assignee :gardner-board-and-carton,
   :grant-year 1952,
   :cites ["US2069786" "US2304818"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:general-electric],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2612482/en",
+  :title "Water-repellent compositions",
+  :status :granted,
+  :id "US2612482",
+  :sourcing :authoritative,
+  :filing-year 1950,
+  :assignee :general-electric,
+  :grant-year 1952,
+  :cites ["US2191362" "US2383259" "US2500842" "US2500843" "US2511296"],
   :term-years 20,
   :open-license :none}
  {:assignees [:jouan],
@@ -3025,6 +3126,19 @@
    "US2309412"
    "US2529856"
    "US438787"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:wacker-chemie],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2645629/en",
+  :title "Accelerated condensing organopolysiloxane compositions",
+  :status :granted,
+  :id "US2645629",
+  :sourcing :authoritative,
+  :filing-year 1951,
+  :assignee :wacker-chemie,
+  :grant-year 1953,
   :term-years 20,
   :open-license :none}
  {:assignees [:cowles-chemical],
@@ -5134,6 +5248,20 @@
    "US2419914"],
   :term-years 20,
   :open-license :none}
+ {:assignees [:dow-corning],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2728692/en",
+  :title "Method of preventing shrinkage of wool",
+  :status :granted,
+  :id "US2728692",
+  :sourcing :authoritative,
+  :filing-year 1953,
+  :assignee :dow-corning,
+  :grant-year 1955,
+  :cites ["US2608495" "US2612482" "US2615824" "US2643375"],
+  :term-years 20,
+  :open-license :none}
  {:jurisdiction :us,
   :field "UNKNOWN",
   :source "https://patents.google.com/patent/US2729193/en",
@@ -5373,6 +5501,21 @@
   :cites ["US2049019" "US2217926" "US2449949" "US2605222"],
   :term-years 20,
   :open-license :none}
+ {:assignees [:connecticut-hard-rubber],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2744079/en",
+  :title
+  "Adhesive composition containing polysiloxane rubber, polysiloxane oil and reinforcing pigment",
+  :status :granted,
+  :id "US2744079",
+  :sourcing :authoritative,
+  :filing-year 1952,
+  :assignee :connecticut-hard-rubber,
+  :grant-year 1956,
+  :cites ["US2502286" "US2558393" "US2610167"],
+  :term-years 20,
+  :open-license :none}
  {:assignees [:purdue-research-foundation],
   :jurisdiction :us,
   :field "UNKNOWN",
@@ -5414,6 +5557,20 @@
    "US2418500"
    "US2497185"
    "US2521332"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:f-j-kress-box],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2745592/en",
+  :title "Easy opening corrugated paperboard carton",
+  :status :granted,
+  :id "US2745592",
+  :sourcing :authoritative,
+  :filing-year 1953,
+  :assignee :f-j-kress-box,
+  :grant-year 1956,
+  :cites ["GB471136A" "US1882565" "US2113927" "US2287520" "US2675165"],
   :term-years 20,
   :open-license :none}
  {:assignees [:consolidated-water-power-and-paper],
@@ -5650,6 +5807,21 @@
    "US2156693"
    "US2278248"
    "US2370871"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:general-electric],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2757152/en",
+  :title
+  "Water-repellent compositions comprising a polysiloxane, a urea-or melamine-formaldehyde resin and a curing agent",
+  :status :granted,
+  :id "US2757152",
+  :sourcing :authoritative,
+  :filing-year 1952,
+  :assignee :general-electric,
+  :grant-year 1956,
+  :cites ["US2453562" "US2588365" "US2612482"],
   :term-years 20,
   :open-license :none}
  {:assignees [:leeds-and-northrup],
@@ -6252,6 +6424,28 @@
    "US2632699"
    "US2635045"
    "US2657991"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:bradford-dyers-association],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2774690/en",
+  :title
+  "Water repellent treatment utilizing a methylhydrogenpolysiloxane and a titanium compound",
+  :status :granted,
+  :id "US2774690",
+  :sourcing :authoritative,
+  :filing-year 1952,
+  :assignee :bradford-dyers-association,
+  :grant-year 1956,
+  :cites
+  ["BE500963A"
+   "BE501518A"
+   "US2386259"
+   "US2512058"
+   "US2584905"
+   "US2588365"
+   "US2732320"],
   :term-years 20,
   :open-license :none}
  {:assignees [:international-standard-electric],
@@ -6959,6 +7153,21 @@
   :cites ["US1974522" "US2369577" "US2480312" "US2584082" "US2661902"],
   :term-years 20,
   :open-license :none}
+ {:assignees [:dow-corning],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2807601/en",
+  :title
+  "Compositions for treating organic fabrics and a method of applying them",
+  :status :granted,
+  :id "US2807601",
+  :sourcing :authoritative,
+  :filing-year 1954,
+  :assignee :dow-corning,
+  :grant-year 1957,
+  :cites ["US2482276" "US2588365" "US2588393" "US2607792" "US2612482"],
+  :term-years 20,
+  :open-license :none}
  {:assignees [:burgess-battery],
   :jurisdiction :us,
   :field "UNKNOWN",
@@ -7124,6 +7333,20 @@
   :assignee :phillips-petroleum,
   :grant-year 1958,
   :cites ["US1817227" "US2416460" "US2543723" "US2543955" "US2658017"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:dow-corning],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2819236/en",
+  :title "Low durometer siloxane elastomers",
+  :status :granted,
+  :id "US2819236",
+  :sourcing :authoritative,
+  :filing-year 1954,
+  :assignee :dow-corning,
+  :grant-year 1958,
+  :cites ["US2442196" "US2645628" "US2714099"],
   :term-years 20,
   :open-license :none}
  {:assignees [:ei-du-pont-de-nemours-and],
@@ -8023,6 +8246,20 @@
    "US2441235"
    "US2623239"
    "US2712154"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:ei-du-pont-de-nemours-and],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2875098/en",
+  :title "Coated polymeric thermoplastic dielectric film",
+  :status :granted,
+  :id "US2875098",
+  :sourcing :authoritative,
+  :filing-year 1955,
+  :assignee :ei-du-pont-de-nemours-and,
+  :grant-year 1959,
+  :cites ["US2442196" "US2494920" "US2541137" "US2601337" "US2735791"],
   :term-years 20,
   :open-license :none}
  {:assignees [:commonwealth-engineering-company-of-ohio],
@@ -9196,6 +9433,45 @@
    "US2812480"],
   :term-years 20,
   :open-license :none}
+ {:assignees [:general-electric],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2936261/en",
+  :title "Sealing irradiated polyethylene",
+  :status :granted,
+  :id "US2936261",
+  :sourcing :authoritative,
+  :filing-year 1955,
+  :assignee :general-electric,
+  :grant-year 1960,
+  :cites
+  ["US2622056"
+   "US2648097"
+   "US2664378"
+   "US2675339"
+   "US2697058"
+   "US2715363"
+   "US2721821"
+   "US2746193"
+   "US2763609"
+   "US2801446"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:dow-chemical],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2937066/en",
+  :title
+  "Method for treating polyethylene and treated polyethylene articles thereby obtained",
+  :status :granted,
+  :id "US2937066",
+  :sourcing :authoritative,
+  :filing-year 1955,
+  :assignee :dow-chemical,
+  :grant-year 1960,
+  :cites ["US2400720" "US2548853" "US2832696"],
+  :term-years 20,
+  :open-license :none}
  {:assignees [:sylvania-electric-products],
   :jurisdiction :us,
   :field "UNKNOWN",
@@ -9720,313 +9996,5 @@
   :assignee :unassigned,
   :grant-year 1960,
   :cites ["US2533089" "US2871168"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:california-institute-research-foundation],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US2957808/en",
-  :title
-  "Process for the isolation of diagnostic and immunizing proteinaceous materials",
-  :status :granted,
-  :id "US2957808",
-  :sourcing :authoritative,
-  :filing-year 1958,
-  :assignee :california-institute-research-foundation,
-  :grant-year 1960,
-  :cites ["US2128202" "US2205882" "US2243213"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:general-dynamics],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US2958147/en",
-  :title "Chemical milling apparatus",
-  :status :granted,
-  :id "US2958147",
-  :sourcing :authoritative,
-  :filing-year 1956,
-  :assignee :general-dynamics,
-  :grant-year 1960,
-  :cites ["US1260395" "US2762036" "US2783567" "US2820312" "US2883275"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:bayer],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US2959348/en",
-  :title
-  "Apparatus for the automatic counting and determining particle size distribution",
-  :status :granted,
-  :id "US2959348",
-  :sourcing :authoritative,
-  :filing-year 1954,
-  :assignee :bayer,
-  :grant-year 1960,
-  :cites
-  ["US1880289"
-   "US2085671"
-   "US2184159"
-   "US2231186"
-   "US2480113"
-   "US2487865"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:halliburton-oil-well-cementing],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US2961046/en",
-  :title
-  "Feeding and counting system for injecting balls into a flow stream",
-  :status :granted,
-  :id "US2961046",
-  :sourcing :authoritative,
-  :filing-year 1958,
-  :assignee :halliburton-oil-well-cementing,
-  :grant-year 1960,
-  :cites
-  ["GB189508950A"
-   "US1211738"
-   "US1999430"
-   "US2011133"
-   "US2306747"
-   "US2440482"
-   "US2551477"
-   "US2634098"
-   "US2698582"
-   "US2729206"
-   "US2790500"],
-  :term-years 20,
-  :open-license :none}
- {:jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US2961302/en",
-  :title "Laboratory apparatus",
-  :status :granted,
-  :id "US2961302",
-  :sourcing :authoritative,
-  :filing-year 1957,
-  :assignee :unassigned,
-  :grant-year 1960,
-  :cites ["US1954093" "US2105056" "US2480083" "US2553463" "US9779"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:zenith-radio],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US2961314/en",
-  :title "Method of manufacturing color image reproducer",
-  :status :granted,
-  :id "US2961314",
-  :sourcing :authoritative,
-  :filing-year 1956,
-  :assignee :zenith-radio,
-  :grant-year 1960,
-  :cites
-  ["GB713908A"
-   "US2315367"
-   "US2625734"
-   "US2728024"
-   "US2750524"
-   "US2754449"
-   "US2755402"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:texas-instruments],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US2962058/en",
-  :title "Apparatus for forming point contacts for transistors",
-  :status :granted,
-  :id "US2962058",
-  :sourcing :authoritative,
-  :filing-year 1953,
-  :assignee :texas-instruments,
-  :grant-year 1960,
-  :cites
-  ["US1261084"
-   "US1792219"
-   "US1849680"
-   "US2280573"
-   "US2575771"
-   "US2641286"
-   "US2646609"
-   "US2662997"
-   "US2677173"
-   "US2711791"
-   "US2732614"
-   "US2744574"
-   "US365212"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:xerox],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US2962376/en",
-  :title "Xerographic member",
-  :status :granted,
-  :id "US2962376",
-  :sourcing :authoritative,
-  :filing-year 1958,
-  :assignee :xerox,
-  :grant-year 1960,
-  :cites ["US2687484" "US2803541" "US2803542"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:th-goldschmidt],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US2964426/en",
-  :title "Process of impregnating paper to form laminated material",
-  :status :granted,
-  :id "US2964426",
-  :sourcing :authoritative,
-  :filing-year 1958,
-  :assignee :th-goldschmidt,
-  :grant-year 1960,
-  :cites
-  ["US1439743"
-   "US1857690"
-   "US2380239"
-   "US2424284"
-   "US2630395"
-   "US2930106"
-   "US602797"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:rogers-ind],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US2965935/en",
-  :title "Combination window",
-  :status :granted,
-  :id "US2965935",
-  :sourcing :authoritative,
-  :filing-year 1958,
-  :assignee :rogers-ind,
-  :grant-year 1960,
-  :cites
-  ["US2101349"
-   "US2639769"
-   "US2730776"
-   "US2775797"
-   "US2781112"
-   "US2804181"
-   "US2804952"
-   "US2818610"
-   "US2861659"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:servo-of-america],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US2967211/en",
-  :title "Optical scanning mechanism",
-  :status :granted,
-  :id "US2967211",
-  :sourcing :authoritative,
-  :filing-year 1952,
-  :assignee :servo-of-america,
-  :grant-year 1961,
-  :cites ["US1787920" "US2298911" "US2361447" "US2465957" "US2477821"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:universal-metal-products],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US2967644/en",
-  :title "Dispensing machine",
-  :status :granted,
-  :id "US2967644",
-  :sourcing :authoritative,
-  :filing-year 1956,
-  :assignee :universal-metal-products,
-  :grant-year 1961,
-  :cites
-  ["US1084636"
-   "US1226278"
-   "US1388632"
-   "US1529379"
-   "US180945"
-   "US1914980"
-   "US2094702"
-   "US2158795"
-   "US245270"
-   "US2660351"
-   "US2684782"
-   "US2742194"
-   "US2787402"
-   "US279135"
-   "US2848019"
-   "US301598"
-   "US465212"
-   "US792620"
-   "US823677"
-   "US888464"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:ei-du-pont-de-nemours-and],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US2968575/en",
-  :title "Stable polyurethane latex and process of making same",
-  :status :granted,
-  :id "US2968575",
-  :sourcing :authoritative,
-  :filing-year 1954,
-  :assignee :ei-du-pont-de-nemours-and,
-  :grant-year 1961,
-  :cites ["FR904939A" "US2621166" "US2692874" "US2726219"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:american-optical],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US2969708/en",
-  :title "Means for analyzing microscopic particles and the like",
-  :status :granted,
-  :id "US2969708",
-  :sourcing :authoritative,
-  :filing-year 1957,
-  :assignee :american-optical,
-  :grant-year 1961,
-  :cites ["US2065114" "US2519997" "US2769365" "US2788702"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:general-electric],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US2970126/en",
-  :title
-  "Water repellent composition containing organopolysiloxane and organotitanate, and leather treated therewith",
-  :status :granted,
-  :id "US2970126",
-  :sourcing :authoritative,
-  :filing-year 1958,
-  :assignee :general-electric,
-  :grant-year 1961,
-  :cites ["US2857356"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:mine-safety-appliances],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US2970513/en",
-  :title "Apparatus for analysis of materials",
-  :status :granted,
-  :id "US2970513",
-  :sourcing :authoritative,
-  :filing-year 1957,
-  :assignee :mine-safety-appliances,
-  :grant-year 1961,
-  :cites
-  ["US2361235"
-   "US2386831"
-   "US2674696"
-   "US2681415"
-   "US2688090"
-   "US2802109"
-   "US2824968"
-   "US2844729"],
   :term-years 20,
   :open-license :none}]

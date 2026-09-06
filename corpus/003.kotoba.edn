@@ -1,4 +1,312 @@
-[{:assignees [:reynolds-metals],
+[{:assignees [:california-institute-research-foundation],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2957808/en",
+  :title
+  "Process for the isolation of diagnostic and immunizing proteinaceous materials",
+  :status :granted,
+  :id "US2957808",
+  :sourcing :authoritative,
+  :filing-year 1958,
+  :assignee :california-institute-research-foundation,
+  :grant-year 1960,
+  :cites ["US2128202" "US2205882" "US2243213"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:general-dynamics],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2958147/en",
+  :title "Chemical milling apparatus",
+  :status :granted,
+  :id "US2958147",
+  :sourcing :authoritative,
+  :filing-year 1956,
+  :assignee :general-dynamics,
+  :grant-year 1960,
+  :cites ["US1260395" "US2762036" "US2783567" "US2820312" "US2883275"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:bayer],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2959348/en",
+  :title
+  "Apparatus for the automatic counting and determining particle size distribution",
+  :status :granted,
+  :id "US2959348",
+  :sourcing :authoritative,
+  :filing-year 1954,
+  :assignee :bayer,
+  :grant-year 1960,
+  :cites
+  ["US1880289"
+   "US2085671"
+   "US2184159"
+   "US2231186"
+   "US2480113"
+   "US2487865"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:halliburton-oil-well-cementing],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2961046/en",
+  :title
+  "Feeding and counting system for injecting balls into a flow stream",
+  :status :granted,
+  :id "US2961046",
+  :sourcing :authoritative,
+  :filing-year 1958,
+  :assignee :halliburton-oil-well-cementing,
+  :grant-year 1960,
+  :cites
+  ["GB189508950A"
+   "US1211738"
+   "US1999430"
+   "US2011133"
+   "US2306747"
+   "US2440482"
+   "US2551477"
+   "US2634098"
+   "US2698582"
+   "US2729206"
+   "US2790500"],
+  :term-years 20,
+  :open-license :none}
+ {:jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2961302/en",
+  :title "Laboratory apparatus",
+  :status :granted,
+  :id "US2961302",
+  :sourcing :authoritative,
+  :filing-year 1957,
+  :assignee :unassigned,
+  :grant-year 1960,
+  :cites ["US1954093" "US2105056" "US2480083" "US2553463" "US9779"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:zenith-radio],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2961314/en",
+  :title "Method of manufacturing color image reproducer",
+  :status :granted,
+  :id "US2961314",
+  :sourcing :authoritative,
+  :filing-year 1956,
+  :assignee :zenith-radio,
+  :grant-year 1960,
+  :cites
+  ["GB713908A"
+   "US2315367"
+   "US2625734"
+   "US2728024"
+   "US2750524"
+   "US2754449"
+   "US2755402"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:texas-instruments],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2962058/en",
+  :title "Apparatus for forming point contacts for transistors",
+  :status :granted,
+  :id "US2962058",
+  :sourcing :authoritative,
+  :filing-year 1953,
+  :assignee :texas-instruments,
+  :grant-year 1960,
+  :cites
+  ["US1261084"
+   "US1792219"
+   "US1849680"
+   "US2280573"
+   "US2575771"
+   "US2641286"
+   "US2646609"
+   "US2662997"
+   "US2677173"
+   "US2711791"
+   "US2732614"
+   "US2744574"
+   "US365212"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:xerox],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2962376/en",
+  :title "Xerographic member",
+  :status :granted,
+  :id "US2962376",
+  :sourcing :authoritative,
+  :filing-year 1958,
+  :assignee :xerox,
+  :grant-year 1960,
+  :cites ["US2687484" "US2803541" "US2803542"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:th-goldschmidt],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2964426/en",
+  :title "Process of impregnating paper to form laminated material",
+  :status :granted,
+  :id "US2964426",
+  :sourcing :authoritative,
+  :filing-year 1958,
+  :assignee :th-goldschmidt,
+  :grant-year 1960,
+  :cites
+  ["US1439743"
+   "US1857690"
+   "US2380239"
+   "US2424284"
+   "US2630395"
+   "US2930106"
+   "US602797"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:rogers-ind],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2965935/en",
+  :title "Combination window",
+  :status :granted,
+  :id "US2965935",
+  :sourcing :authoritative,
+  :filing-year 1958,
+  :assignee :rogers-ind,
+  :grant-year 1960,
+  :cites
+  ["US2101349"
+   "US2639769"
+   "US2730776"
+   "US2775797"
+   "US2781112"
+   "US2804181"
+   "US2804952"
+   "US2818610"
+   "US2861659"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:servo-of-america],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2967211/en",
+  :title "Optical scanning mechanism",
+  :status :granted,
+  :id "US2967211",
+  :sourcing :authoritative,
+  :filing-year 1952,
+  :assignee :servo-of-america,
+  :grant-year 1961,
+  :cites ["US1787920" "US2298911" "US2361447" "US2465957" "US2477821"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:universal-metal-products],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2967644/en",
+  :title "Dispensing machine",
+  :status :granted,
+  :id "US2967644",
+  :sourcing :authoritative,
+  :filing-year 1956,
+  :assignee :universal-metal-products,
+  :grant-year 1961,
+  :cites
+  ["US1084636"
+   "US1226278"
+   "US1388632"
+   "US1529379"
+   "US180945"
+   "US1914980"
+   "US2094702"
+   "US2158795"
+   "US245270"
+   "US2660351"
+   "US2684782"
+   "US2742194"
+   "US2787402"
+   "US279135"
+   "US2848019"
+   "US301598"
+   "US465212"
+   "US792620"
+   "US823677"
+   "US888464"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:ei-du-pont-de-nemours-and],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2968575/en",
+  :title "Stable polyurethane latex and process of making same",
+  :status :granted,
+  :id "US2968575",
+  :sourcing :authoritative,
+  :filing-year 1954,
+  :assignee :ei-du-pont-de-nemours-and,
+  :grant-year 1961,
+  :cites ["FR904939A" "US2621166" "US2692874" "US2726219"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:american-optical],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2969708/en",
+  :title "Means for analyzing microscopic particles and the like",
+  :status :granted,
+  :id "US2969708",
+  :sourcing :authoritative,
+  :filing-year 1957,
+  :assignee :american-optical,
+  :grant-year 1961,
+  :cites ["US2065114" "US2519997" "US2769365" "US2788702"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:general-electric],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2970126/en",
+  :title
+  "Water repellent composition containing organopolysiloxane and organotitanate, and leather treated therewith",
+  :status :granted,
+  :id "US2970126",
+  :sourcing :authoritative,
+  :filing-year 1958,
+  :assignee :general-electric,
+  :grant-year 1961,
+  :cites ["US2857356"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:mine-safety-appliances],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2970513/en",
+  :title "Apparatus for analysis of materials",
+  :status :granted,
+  :id "US2970513",
+  :sourcing :authoritative,
+  :filing-year 1957,
+  :assignee :mine-safety-appliances,
+  :grant-year 1961,
+  :cites
+  ["US2361235"
+   "US2386831"
+   "US2674696"
+   "US2681415"
+   "US2688090"
+   "US2802109"
+   "US2824968"
+   "US2844729"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:reynolds-metals],
   :jurisdiction :us,
   :field "UNKNOWN",
   :source "https://patents.google.com/patent/US2970736/en",
@@ -568,6 +876,21 @@
    "US2821500"],
   :term-years 20,
   :open-license :none}
+ {:assignees [:stein-hall-and],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2996462/en",
+  :title
+  "Adhesive composition comprising gelatinized starch, ungelatinized starch, and polyvinyl acetate",
+  :status :granted,
+  :id "US2996462",
+  :sourcing :authoritative,
+  :filing-year 1958,
+  :assignee :stein-hall-and,
+  :grant-year 1961,
+  :cites ["US2650170" "US2690594" "US2850468"],
+  :term-years 20,
+  :open-license :none}
  {:assignees [:ozalid],
   :jurisdiction :us,
   :field "UNKNOWN",
@@ -1094,6 +1417,20 @@
    "US2805191"
    "US2811425"
    "US2820702"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:tate-and-lyle-ingredients-americas],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3022289/en",
+  :title "Acylation of starch",
+  :status :granted,
+  :id "US3022289",
+  :sourcing :authoritative,
+  :filing-year 1959,
+  :assignee :tate-and-lyle-ingredients-americas,
+  :grant-year 1962,
+  :cites ["DE109053C" "US2342612" "US2461139" "US2928828"],
   :term-years 20,
   :open-license :none}
  {:assignees [:wr-grace-and],
@@ -9231,318 +9568,5 @@
   :assignee :xerox,
   :grant-year 1970,
   :cites ["US2487236" "US3028000" "US3064802" "US3344914" "US3476515"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:bausch-and-lomb],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3497690/en",
-  :title
-  "Method and apparatus for classifying biological cells by measuring the size and fluorescent response thereof",
-  :status :granted,
-  :id "US3497690",
-  :sourcing :authoritative,
-  :filing-year 1967,
-  :assignee :bausch-and-lomb,
-  :grant-year 1970,
-  :cites
-  ["US3092722"
-   "US3306156"
-   "US3316896"
-   "US3327117"
-   "US3327119"
-   "US3364358"
-   "US3413464"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:kollsman-instrument],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3497696/en",
-  :title
-  "Star tracker assembly using mangin mirror and field scanning device",
-  :status :granted,
-  :id "US3497696",
-  :sourcing :authoritative,
-  :filing-year 1966,
-  :assignee :kollsman-instrument,
-  :grant-year 1970,
-  :cites ["US2997598" "US3206608" "US3326621"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:phytogen-products],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3499445/en",
-  :title "Animal husbandry",
-  :status :granted,
-  :id "US3499445",
-  :sourcing :authoritative,
-  :filing-year 1966,
-  :assignee :phytogen-products,
-  :grant-year 1970,
-  :cites ["CA562095A" "US2541447" "US2895875" "US2987445" "US3279996"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:pfizer],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3501379/en",
-  :title "Apparatus for preparation of microbiological culture media",
-  :status :granted,
-  :id "US3501379",
-  :sourcing :authoritative,
-  :filing-year 1967,
-  :assignee :pfizer,
-  :grant-year 1970,
-  :cites ["US2689818" "US3139343"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:shell-oil],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3501389/en",
-  :title "Irradiated olefin oxide polymers",
-  :status :granted,
-  :id "US3501389",
-  :sourcing :authoritative,
-  :filing-year 1963,
-  :assignee :shell-oil,
-  :grant-year 1970,
-  :cites ["FR1258138A" "US3004961" "US3135705" "US3135706"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:international-business-machines],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3501623/en",
-  :title "High speed skip and search",
-  :status :granted,
-  :id "US3501623",
-  :sourcing :authoritative,
-  :filing-year 1967,
-  :assignee :international-business-machines,
-  :grant-year 1970,
-  :cites
-  ["US2904777"
-   "US3025740"
-   "US3208041"
-   "US3240872"
-   "US3273123"
-   "US3322961"
-   "US3328788"
-   "US3440630"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:haematronics],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3502437/en",
-  :title "Identification card",
-  :status :granted,
-  :id "US3502437",
-  :sourcing :authoritative,
-  :filing-year 1967,
-  :assignee :haematronics,
-  :grant-year 1970,
-  :cites ["US2350239" "US2770572" "US2822476" "US3074853" "US3232710"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:scientific-industries],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3502438/en",
-  :title "Automated tape chemical analyzer",
-  :status :granted,
-  :id "US3502438",
-  :sourcing :authoritative,
-  :filing-year 1967,
-  :assignee :scientific-industries,
-  :grant-year 1970,
-  :cites ["US3036893" "US3036894" "US3260413"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:monsanto],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3502545/en",
-  :title
-  "Process for the separation of water-soluble polymeric materials from unbound protein or peptide using semiporous gel",
-  :status :granted,
-  :id "US3502545",
-  :sourcing :authoritative,
-  :filing-year 1968,
-  :assignee :monsanto,
-  :grant-year 1970,
-  :cites ["US3318782" "US3415804"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:perkin-elmer],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3503684/en",
-  :title
-  "Method and apparatus for detecting mitotic blood cells on a blood cell sample slide",
-  :status :granted,
-  :id "US3503684",
-  :sourcing :authoritative,
-  :filing-year 1966,
-  :assignee :perkin-elmer,
-  :grant-year 1970,
-  :cites
-  ["US2875666"
-   "US2938424"
-   "US3090281"
-   "US3177757"
-   "US3178997"
-   "US3194110"
-   "US3296444"
-   "US3305834"
-   "US3306156"
-   "US3402001"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:eastman-kodak],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3503739/en",
-  :title
-  "Photoconductive layers and their application to electrophotography",
-  :status :granted,
-  :id "US3503739",
-  :sourcing :authoritative,
-  :filing-year 1966,
-  :assignee :eastman-kodak,
-  :grant-year 1970,
-  :cites
-  ["US2349979"
-   "US2870123"
-   "US3041165"
-   "US3163531"
-   "US3244517"
-   "US3373141"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:phillips-petroleum],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3503782/en",
-  :title "Differential release paper",
-  :status :granted,
-  :id "US3503782",
-  :sourcing :authoritative,
-  :filing-year 1967,
-  :assignee :phillips-petroleum,
-  :grant-year 1970,
-  :cites ["US2816655"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:william-j-berry],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3503877/en",
-  :title "Dialyzer agitator",
-  :status :granted,
-  :id "US3503877",
-  :sourcing :authoritative,
-  :filing-year 1965,
-  :assignee :william-j-berry,
-  :grant-year 1970,
-  :cites ["US2985587" "US3055504" "US3199680" "US3212499" "US3265366"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:pharmacia],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3505019/en",
-  :title "Method for determining vitamin b12 and reagent therefor",
-  :status :granted,
-  :id "US3505019",
-  :sourcing :authoritative,
-  :filing-year 1967,
-  :assignee :pharmacia,
-  :grant-year 1970,
-  :term-years 20,
-  :open-license :none}
- {:assignees [:ei-du-pont-de-nemours-and],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3505785/en",
-  :title "Superficially porous supports for chromatography",
-  :status :granted,
-  :id "US3505785",
-  :sourcing :authoritative,
-  :filing-year 1967,
-  :assignee :ei-du-pont-de-nemours-and,
-  :grant-year 1970,
-  :cites ["CA729581A" "GB1016635A" "US3340085"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:general-electric],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3507145/en",
-  :title "Indium sesquioxide thin film combustible gas detector",
-  :status :granted,
-  :id "US3507145",
-  :sourcing :authoritative,
-  :filing-year 1967,
-  :assignee :general-electric,
-  :grant-year 1970,
-  :cites ["US2508588"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:minnesota-mining-and-manufacturing],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3507661/en",
-  :title
-  "Gelatin containing dispersions having gelatin reactive polymers therein and coatings prepared therefrom",
-  :status :granted,
-  :id "US3507661",
-  :sourcing :authoritative,
-  :filing-year 1969,
-  :assignee :minnesota-mining-and-manufacturing,
-  :grant-year 1970,
-  :cites ["US3158484" "US3306750"],
-  :term-years 20,
-  :open-license :none}
- {:jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3507987/en",
-  :title
-  "High resolution ultra-violet microscope systems utilizing a video display",
-  :status :granted,
-  :id "US3507987",
-  :sourcing :authoritative,
-  :filing-year 1966,
-  :assignee :unassigned,
-  :grant-year 1970,
-  :cites
-  ["US2153010"
-   "US2510670"
-   "US2731202"
-   "US2803406"
-   "US2835167"
-   "US2837655"
-   "US2913584"
-   "US3124682"
-   "US3221099"
-   "US3297873"
-   "US3427273"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:international-business-machines],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3508654/en",
-  :title "Particle separation apparatus",
-  :status :granted,
-  :id "US3508654",
-  :sourcing :authoritative,
-  :filing-year 1967,
-  :assignee :international-business-machines,
-  :grant-year 1970,
-  :cites ["US3159208" "US3215900" "US3217727" "US3335724"],
   :term-years 20,
   :open-license :none}]

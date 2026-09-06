@@ -1,4 +1,318 @@
-[{:assignees [:general-electric],
+[{:assignees
+  [:lair-liquide-pour-letude-et-lexploitation-des-procedes-georges-claude
+   :orsan-les-produits-organiques-du-santerre],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3959079/en",
+  :title
+  "Insolubilization of proteins by chemical activation of a polymerized support and crosslinking of the protein to the support",
+  :status :granted,
+  :id "US3959079",
+  :sourcing :authoritative,
+  :filing-year 1974,
+  :assignee
+  :lair-liquide-pour-letude-et-lexploitation-des-procedes-georges-claude,
+  :grant-year 1976,
+  :cites
+  ["US3278392"
+   "US3645852"
+   "US3654083"
+   "US3741871"
+   "US3746622"
+   "US3821084"
+   "US3836433"
+   "US3853708"
+   "US3904478"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:essilor-international-compagnie-generale-doptique],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3959102/en",
+  :title
+  "Method for preparing a crosslinked graft copolymer of silicone and polyvinylpyrrolidone for use as a contact lens, and a contact lens produced thereby",
+  :status :granted,
+  :id "US3959102",
+  :sourcing :authoritative,
+  :filing-year 1974,
+  :assignee :essilor-international-compagnie-generale-doptique,
+  :grant-year 1976,
+  :cites ["US3639524" "US3647736" "US3700573" "US3700761" "US3840448"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:qualitrol],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3960017/en",
+  :title
+  "Thermometer insertable in winding of fluid cooled transformer",
+  :status :granted,
+  :id "US3960017",
+  :sourcing :authoritative,
+  :filing-year 1975,
+  :assignee :qualitrol,
+  :grant-year 1976,
+  :cites
+  ["GB599578A"
+   "US2197190"
+   "US3580082"
+   "US3611791"
+   "US3686958"
+   "US3691501"
+   "US3789667"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:nuclear-diagnostics],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3960492/en",
+  :title
+  "Method for determining an index of binding protein content of blood",
+  :status :granted,
+  :id "US3960492",
+  :sourcing :authoritative,
+  :filing-year 1974,
+  :assignee :nuclear-diagnostics,
+  :grant-year 1976,
+  :cites
+  ["US3376114"
+   "US3451777"
+   "US3519390"
+   "US3646346"
+   "US3666854"
+   "US3716632"
+   "US3730684"
+   "US3743482"
+   "US3745211"
+   "US3776698"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:dexter],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3960652/en",
+  :title
+  "Process of forming wet laid tufted nonwoven fibrous web and tufted product",
+  :status :granted,
+  :id "US3960652",
+  :sourcing :authoritative,
+  :filing-year 1974,
+  :assignee :dexter,
+  :grant-year 1976,
+  :cites
+  ["GB475819A"
+   "US2730933"
+   "US3322617"
+   "US3350260"
+   "US3485706"
+   "US3720578"
+   "US3834983"],
+  :term-years 20,
+  :open-license :none}
+ {:jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3960827/en",
+  :title
+  "Cancer associated polypeptide antigen, process for its preparation, process for preparing antibodies, process of cancer diagnosis and composition useful as an immunizing agent",
+  :status :granted,
+  :id "US3960827",
+  :sourcing :authoritative,
+  :filing-year 1973,
+  :assignee :unassigned,
+  :grant-year 1976,
+  :cites ["US3823126"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:university-of-illinois-foundation],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3960840/en",
+  :title "Fluorescent derivatives of adenine-containing compounds",
+  :status :granted,
+  :id "US3960840",
+  :sourcing :authoritative,
+  :filing-year 1972,
+  :assignee :university-of-illinois-foundation,
+  :grant-year 1976,
+  :cites ["US3462416" "US3701772" "US3712885" "US3872098"],
+  :term-years 20,
+  :open-license :none}
+ {:jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3960884/en",
+  :title "Method of preparing racemic biotin",
+  :status :granted,
+  :id "US3960884",
+  :sourcing :authoritative,
+  :filing-year 1974,
+  :assignee :unassigned,
+  :grant-year 1976,
+  :cites ["US2460225" "US2508457" "US2571238"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:maruzen-oil],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3963662/en",
+  :title "Polyion complex and process for preparation thereof",
+  :status :granted,
+  :id "US3963662",
+  :sourcing :authoritative,
+  :filing-year 1974,
+  :assignee :maruzen-oil,
+  :grant-year 1976,
+  :cites
+  ["US2636851"
+   "US3168486"
+   "US3335100"
+   "US3467604"
+   "US3558744"
+   "US3645922"
+   "US3839237"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:sigma-chemical],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3964865/en",
+  :title
+  "Lyophilized human hemoglobin standard for colorimetric determination of total hemoglobin",
+  :status :granted,
+  :id "US3964865",
+  :sourcing :authoritative,
+  :filing-year 1975,
+  :assignee :sigma-chemical,
+  :grant-year 1976,
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:hancock-jaffe-laboratories],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3966401/en",
+  :title
+  "Preparing natural tissue for implantation so as to provide improved flexibility",
+  :status :granted,
+  :id "US3966401",
+  :sourcing :authoritative,
+  :filing-year 1974,
+  :assignee :hancock-jaffe-laboratories,
+  :grant-year 1976,
+  :cites ["US2900644"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:syva],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3966556/en",
+  :title "Compounds for enzyme amplification assay methadone analogs",
+  :status :granted,
+  :id "US3966556",
+  :sourcing :authoritative,
+  :filing-year 1974,
+  :assignee :syva,
+  :grant-year 1976,
+  :cites ["US3850752"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:marine-colloids],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3966897/en",
+  :title "Medium for use in bioassay and method of using same",
+  :status :granted,
+  :id "US3966897",
+  :sourcing :authoritative,
+  :filing-year 1973,
+  :assignee :marine-colloids,
+  :grant-year 1976,
+  :cites
+  ["GB1248764A"
+   "GB1248765A"
+   "GB953414A"
+   "US2358549"
+   "US2385363"
+   "US2487077"
+   "US3043751"
+   "US3063916"
+   "US3179600"
+   "US3453180"
+   "US3527712"
+   "US3531254"
+   "US3553310"
+   "US3578604"
+   "US3639558"
+   "US3641235"
+   "US3646346"
+   "US3654090"
+   "US3714344"
+   "US3793445"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:pharmacia-diagnostics],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3966898/en",
+  :title "Method and reagent for determining immunologic materials",
+  :status :granted,
+  :id "US3966898",
+  :sourcing :authoritative,
+  :filing-year 1974,
+  :assignee :pharmacia-diagnostics,
+  :grant-year 1976,
+  :cites ["US3859430"],
+  :term-years 20,
+  :open-license :none}
+ {:jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3968241/en",
+  :title
+  "Method of treating cardiac arrhythmias and of improving myocardial contractility and systolic rhythm with carnitive or a pharmaceutically acceptable salt thereof",
+  :status :granted,
+  :id "US3968241",
+  :sourcing :authoritative,
+  :filing-year 1974,
+  :assignee :unassigned,
+  :grant-year 1976,
+  :cites ["US2278123" "US2761807"],
+  :term-years 20,
+  :open-license :none}
+ {:jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3968827/en",
+  :title
+  "Method of preparing ceramic casting moulds for pouring metal therein",
+  :status :granted,
+  :id "US3968827",
+  :sourcing :authoritative,
+  :filing-year 1975,
+  :assignee :unassigned,
+  :grant-year 1976,
+  :cites ["GB711940A" "GB785228A" "US3204303" "US3478815"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:boehringer-mannheim],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3969287/en",
+  :title
+  "Carrier-bound protein prepared by reacting the protein with an acylating or alkylating compound having a carrier-bonding group and reacting the product with a carrier",
+  :status :granted,
+  :id "US3969287",
+  :sourcing :authoritative,
+  :filing-year 1973,
+  :assignee :boehringer-mannheim,
+  :grant-year 1976,
+  :cites
+  ["US3574062"
+   "US3619371"
+   "US3759890"
+   "US3764477"
+   "US3775253"
+   "US3788948"
+   "US3806417"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:general-electric],
   :jurisdiction :us,
   :field "UNKNOWN",
   :source "https://patents.google.com/patent/US3970518/en",
@@ -9183,329 +9497,5 @@
   :assignee :hughes-aircraft,
   :grant-year 1986,
   :cites ["US2991204" "US3520683"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:american-hospital-supply],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US4589964/en",
-  :title
-  "Process for graft copolymerization of a pre-formed substrate",
-  :status :granted,
-  :id "US4589964",
-  :sourcing :authoritative,
-  :filing-year 1984,
-  :assignee :american-hospital-supply,
-  :grant-year 1986,
-  :cites ["US3008920" "US3458597"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:new-york-blood-center],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US4591552/en",
-  :title
-  "Detection of hepatitis B surface antigen (or antibody to same) with labeled synthetic peptide",
-  :status :granted,
-  :id "US4591552",
-  :sourcing :authoritative,
-  :filing-year 1982,
-  :assignee :new-york-blood-center,
-  :grant-year 1986,
-  :cites
-  ["US3995018"
-   "US4016043"
-   "US4272433"
-   "US4277393"
-   "US4297273"
-   "US4341761"
-   "US4369138"
-   "US4377516"
-   "US4399229"
-   "US4409141"
-   "US4415491"
-   "US4415546"
-   "US4423034"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:novo-industri-as],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US4591565/en",
-  :title "Method for thermal destabilization of microbial rennet",
-  :status :granted,
-  :id "US4591565",
-  :sourcing :authoritative,
-  :filing-year 1982,
-  :assignee :novo-industri-as,
-  :grant-year 1986,
-  :cites ["DE2901542A1" "US4348482" "US4357357"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:california-institute-of-technology],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US4591567/en",
-  :title
-  "Recombinant DNA screening system including fixed array replicator and support",
-  :status :granted,
-  :id "US4591567",
-  :sourcing :authoritative,
-  :filing-year 1983,
-  :assignee :california-institute-of-technology,
-  :grant-year 1986,
-  :cites
-  ["US2956931"
-   "US3787290"
-   "US3912596"
-   "US4235971"
-   "US4252897"
-   "US4368272"
-   "US4397955"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:johns-hopkins-university],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US4591614/en",
-  :title
-  "Preparation of oligodeoxyribonucleoside alkyl or arylphosphonates",
-  :status :granted,
-  :id "US4591614",
-  :sourcing :authoritative,
-  :filing-year 1984,
-  :assignee :johns-hopkins-university,
-  :grant-year 1986,
-  :cites ["US4401796" "US4458066"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:institut-pasteur],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US4592998/en",
-  :title
-  "Process for coupling biological substances by covalent bonds",
-  :status :granted,
-  :id "US4592998",
-  :sourcing :authoritative,
-  :filing-year 1983,
-  :assignee :institut-pasteur,
-  :grant-year 1986,
-  :cites ["US3322634" "US4193982"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:national-research-development-uk],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US4598044/en",
-  :title "Enhanced luminescent or luminometric assay",
-  :status :granted,
-  :id "US4598044",
-  :sourcing :authoritative,
-  :filing-year 1984,
-  :assignee :national-research-development-uk,
-  :grant-year 1986,
-  :cites
-  ["EP0054358A1"
-   "EP0070686A2"
-   "FR2383441A1"
-   "GB2008247A"
-   "GB2026690A"
-   "GB2070768A"
-   "US4104029"
-   "US4302534"
-   "US4521511"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:hri-associates],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US4599303/en",
-  :title
-  "Nucleic acid hybridization assay employing probes crosslinkable to target sequences",
-  :status :granted,
-  :id "US4599303",
-  :sourcing :authoritative,
-  :filing-year 1983,
-  :assignee :hri-associates,
-  :grant-year 1986,
-  :cites ["EP0070687B1" "US3798131"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:inmont],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US4600737/en",
-  :title
-  "Water dilutable acrylated epoxy-phenolic coating compositions",
-  :status :granted,
-  :id "US4600737",
-  :sourcing :authoritative,
-  :filing-year 1985,
-  :assignee :inmont,
-  :grant-year 1986,
-  :cites
-  ["US3336241"
-   "US3477990"
-   "US3705206"
-   "US3943187"
-   "US3997694"
-   "US4145323"
-   "US4212781"
-   "US4289674"
-   "US4294741"
-   "US4308185"
-   "US4335028"
-   "US4335829"
-   "US4341678"
-   "US4444923"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:uniroyal-chemical],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US4605743/en",
-  :title
-  "Process for the production of 2,2,6,6-tetraalkyl-4-piperidylamines",
-  :status :granted,
-  :id "US4605743",
-  :sourcing :authoritative,
-  :filing-year 1985,
-  :assignee :uniroyal-chemical,
-  :grant-year 1986,
-  :cites
-  ["DE3007996A1"
-   "US3480635"
-   "US3684765"
-   "US3734883"
-   "US3853890"
-   "US4046736"
-   "US4104248"
-   "US4191683"
-   "US4293466"
-   "US4326063"
-   "US4415688"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:genetic-systems],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US4609707/en",
-  :title "Synthesis of polymers containing integral antibodies",
-  :status :granted,
-  :id "US4609707",
-  :sourcing :authoritative,
-  :filing-year 1984,
-  :assignee :genetic-systems,
-  :grant-year 1986,
-  :cites ["US2853457" "US3969287"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:eg&g-mason-research-institute],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US4610869/en",
-  :title
-  "Method for in vivo testing of biological response modifiers including monoclonal antibodies",
-  :status :granted,
-  :id "US4610869",
-  :sourcing :authoritative,
-  :filing-year 1983,
-  :assignee :eg&g-mason-research-institute,
-  :grant-year 1986,
-  :term-years 20,
-  :open-license :none}
- {:assignees [:harvard-university],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US4613566/en",
-  :title "Hybridization assay and kit therefor",
-  :status :granted,
-  :id "US4613566",
-  :sourcing :authoritative,
-  :filing-year 1984,
-  :assignee :harvard-university,
-  :grant-year 1986,
-  :cites ["US2783894" "US3876738" "US4302204" "US4455370" "US4533628"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:cetus],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US4617261/en",
-  :title "Process for labeling nucleic acids and hybridization probes",
-  :status :granted,
-  :id "US4617261",
-  :sourcing :authoritative,
-  :filing-year 1985,
-  :assignee :cetus,
-  :grant-year 1986,
-  :cites
-  ["EP0063879A2"
-   "EP0131830A1"
-   "GB2019408A"
-   "US4124598"
-   "US4358535"
-   "US4542102"
-   "WO1985002628A1"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:fuji-electric],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US4617621/en",
-  :title "Inverters with reduced distributed inductance",
-  :status :granted,
-  :id "US4617621",
-  :sourcing :authoritative,
-  :filing-year 1985,
-  :assignee :fuji-electric,
-  :grant-year 1986,
-  :cites ["US3260978" "US3792286" "US4128868"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:cetus],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US4623627/en",
-  :title
-  "Monoclonal antibody having specificity for the double-stranded conformation of native DNA and diagnostic methods using same",
-  :status :granted,
-  :id "US4623627",
-  :sourcing :authoritative,
-  :filing-year 1983,
-  :assignee :cetus,
-  :grant-year 1986,
-  :cites ["EP0063879A2" "US4358535"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:michigan-state-university-msu],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US4624915/en",
-  :title "Positive selection sorting of cells",
-  :status :granted,
-  :id "US4624915",
-  :sourcing :authoritative,
-  :filing-year 1983,
-  :assignee :michigan-state-university-msu,
-  :grant-year 1986,
-  :cites
-  ["GB2100425A"
-   "US3712746"
-   "US3941670"
-   "US3984307"
-   "US4045772"
-   "US4090128"
-   "US4090921"
-   "US4172227"
-   "US4175662"
-   "US4204117"
-   "US4209256"
-   "US4284897"
-   "US4354114"
-   "US4395397"
-   "US4513438"
-   "WO1980000188A1"],
   :term-years 20,
   :open-license :none}]
