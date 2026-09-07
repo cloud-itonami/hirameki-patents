@@ -1,4 +1,158 @@
-[{:assignees [:california-texas-oil],
+[{:assignees [:perkin-elmer],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3340085/en",
+  :title "Gas chromatographic separating material",
+  :status :granted,
+  :id "US3340085",
+  :sourcing :authoritative,
+  :filing-year 1963,
+  :assignee :perkin-elmer,
+  :grant-year 1967,
+  :cites
+  ["CA594400A"
+   "US2788297"
+   "US3005514"
+   "US3014815"
+   "US3048029"
+   "US3232782"
+   "US3273315"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:novo-terapeutisk-laboratorium-as],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3340156/en",
+  :title "Purification of plasminogen",
+  :status :granted,
+  :id "US3340156",
+  :sourcing :authoritative,
+  :filing-year 1965,
+  :assignee :novo-terapeutisk-laboratorium-as,
+  :grant-year 1967,
+  :cites ["US3066079"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:dunlop-rubber],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3340335/en",
+  :title "Method for making composite fibrous materials",
+  :status :granted,
+  :id "US3340335",
+  :sourcing :authoritative,
+  :filing-year 1963,
+  :assignee :dunlop-rubber,
+  :grant-year 1967,
+  :cites
+  ["US2850467"
+   "US2972554"
+   "US3025202"
+   "US3050427"
+   "US3055871"
+   "US3062682"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:coulter-electronics],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3340471/en",
+  :title
+  "Flow-through sample apparatus for use with electrical particle study device",
+  :status :granted,
+  :id "US3340471",
+  :sourcing :authoritative,
+  :filing-year 1966,
+  :assignee :coulter-electronics,
+  :grant-year 1967,
+  :cites ["US3165692" "US3165693"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:dow-chemical],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3342729/en",
+  :title
+  "Permeability separatory cell and apparatus and method of using the same",
+  :status :granted,
+  :id "US3342729",
+  :sourcing :authoritative,
+  :filing-year 1964,
+  :assignee :dow-chemical,
+  :grant-year 1967,
+  :cites ["US2982416" "US3228877"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:merck-and],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3346560/en",
+  :title "Purine 3-deoxynucleosides",
+  :status :granted,
+  :id "US3346560",
+  :sourcing :authoritative,
+  :filing-year 1965,
+  :assignee :merck-and,
+  :grant-year 1967,
+  :cites ["US2852505" "US3208997"],
+  :term-years 20,
+  :open-license :none}
+ {:jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3347846/en",
+  :title "Method of preparing 5&#39;-ribonucleotide",
+  :status :granted,
+  :id "US3347846",
+  :sourcing :authoritative,
+  :filing-year 1965,
+  :assignee :unassigned,
+  :grant-year 1967,
+  :cites ["US3201389" "US3282920" "US3288780"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:american-optical],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3348547/en",
+  :title "Photocoagulating apparatus",
+  :status :granted,
+  :id "US3348547",
+  :sourcing :authoritative,
+  :filing-year 1964,
+  :assignee :american-optical,
+  :grant-year 1967,
+  :cites ["US2930379" "US3084694" "US3096767"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:bausch-and-lomb],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3349227/en",
+  :title "Particle counter",
+  :status :granted,
+  :id "US3349227",
+  :sourcing :authoritative,
+  :filing-year 1964,
+  :assignee :bausch-and-lomb,
+  :grant-year 1967,
+  :cites ["US2803406" "US2817265" "US3061672"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:general-electric],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3351203/en",
+  :title "Separation apparatus and method for its operation",
+  :status :granted,
+  :id "US3351203",
+  :sourcing :authoritative,
+  :filing-year 1965,
+  :assignee :general-electric,
+  :grant-year 1967,
+  :cites ["US1872759" "US2398725" "US2937752" "US2973096"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:california-texas-oil],
   :jurisdiction :us,
   :field "UNKNOWN",
   :source "https://patents.google.com/patent/US3352197/en",
@@ -8927,176 +9081,5 @@
    "US3598762"
    "US3631436"
    "US3676820"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:air-products-and-chemicals],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3865615/en",
-  :title "Non-thrombogenic plastics",
-  :status :granted,
-  :id "US3865615",
-  :sourcing :authoritative,
-  :filing-year 1973,
-  :assignee :air-products-and-chemicals,
-  :grant-year 1975,
-  :cites
-  ["US2811468"
-   "US3617344"
-   "US3634123"
-   "US3639213"
-   "US3691016"
-   "US3826678"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:tanabe-seiyaku],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3865726/en",
-  :title "Blood urea removal device",
-  :status :granted,
-  :id "US3865726",
-  :sourcing :authoritative,
-  :filing-year 1973,
-  :assignee :tanabe-seiyaku,
-  :grant-year 1975,
-  :cites
-  ["US2682268"
-   "US3483867"
-   "US3522346"
-   "US3608729"
-   "US3617545"
-   "US3669878"
-   "US3669880"
-   "US3794584"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:hoechst],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3865796/en",
-  :title "Phosphorus-containing polymers",
-  :status :granted,
-  :id "US3865796",
-  :sourcing :authoritative,
-  :filing-year 1973,
-  :assignee :hoechst,
-  :grant-year 1975,
-  :cites ["US2934555"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:ei-du-pont-de-nemours-and],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3866054/en",
-  :title "Defect size discriminator circuit for web inspection system",
-  :status :granted,
-  :id "US3866054",
-  :sourcing :authoritative,
-  :filing-year 1973,
-  :assignee :ei-du-pont-de-nemours-and,
-  :grant-year 1975,
-  :cites
-  ["US2812447"
-   "US3020033"
-   "US3124289"
-   "US3158748"
-   "US3317734"
-   "US3347131"
-   "US3601615"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:warren-industries],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3866380/en",
-  :title "Connector for window spacer assembly",
-  :status :granted,
-  :id "US3866380",
-  :sourcing :authoritative,
-  :filing-year 1974,
-  :assignee :warren-industries,
-  :grant-year 1975,
-  :cites
-  ["US2989788"
-   "US3105274"
-   "US3307316"
-   "US3356403"
-   "US3368836"
-   "US3435511"
-   "US3485519"
-   "US3546842"
-   "US3553913"
-   "US3606419"
-   "US3627359"
-   "US3643989"
-   "US3782054"],
-  :term-years 20,
-  :open-license :none}
- {:jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3867363/en",
-  :title "Carcinoembryonic antigens",
-  :status :granted,
-  :id "US3867363",
-  :sourcing :authoritative,
-  :filing-year 1972,
-  :assignee :unassigned,
-  :grant-year 1975,
-  :cites ["US3663684" "US3697638"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:synvar-associates-a-k-a-syva-c],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3867366/en",
-  :title "Opiate imidates and protein conjugates thereof",
-  :status :granted,
-  :id "US3867366",
-  :sourcing :authoritative,
-  :filing-year 1973,
-  :assignee :synvar-associates-a-k-a-syva-c,
-  :grant-year 1975,
-  :cites ["US3690834"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:abbott-laboratories],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3867517/en",
-  :title "Direct radioimmunoassay for antigens and their antibodies",
-  :status :granted,
-  :id "US3867517",
-  :sourcing :authoritative,
-  :filing-year 1971,
-  :assignee :abbott-laboratories,
-  :grant-year 1975,
-  :cites ["US3592888" "US3646346"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:akzona],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3868219/en",
-  :title
-  "Determination of HCG glucose and galactose in body fluids with chromogenic indicators",
-  :status :granted,
-  :id "US3868219",
-  :sourcing :authoritative,
-  :filing-year 1973,
-  :assignee :akzona,
-  :grant-year 1975,
-  :cites
-  ["US3008879"
-   "US3092465"
-   "US3099605"
-   "US3123443"
-   "US3411863"
-   "US3415361"
-   "US3453180"
-   "US3598704"
-   "US3619110"
-   "US3627698"
-   "US3663357"],
   :term-years 20,
   :open-license :none}]

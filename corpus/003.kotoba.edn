@@ -1,4 +1,135 @@
-[{:assignees [:polaroid],
+[{:assignees [:eastman-kodak],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2852381/en",
+  :title "Photographic emulsions containing polymeric color formers",
+  :status :granted,
+  :id "US2852381",
+  :sourcing :authoritative,
+  :filing-year 1953,
+  :assignee :eastman-kodak,
+  :grant-year 1958,
+  :cites ["US2322006" "US2322027" "US2533514" "US2759816"],
+  :term-years 20,
+  :open-license :none}
+ {:jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2854351/en",
+  :title
+  "Method of applying dressing for prolonging the effective life of cloth belts and resultant article",
+  :status :granted,
+  :id "US2854351",
+  :sourcing :authoritative,
+  :filing-year 1953,
+  :assignee :unassigned,
+  :grant-year 1958,
+  :cites
+  ["US1356890"
+   "US1870408"
+   "US2001582"
+   "US2181835"
+   "US2287780"
+   "US2441090"
+   "US2558929"
+   "US2626941"
+   "US2640366"
+   "US2655195"
+   "US2700623"
+   "US862403"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:monsanto-chemicals],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2854357/en",
+  :title "Sized nylon yarns and method for producing same",
+  :status :granted,
+  :id "US2854357",
+  :sourcing :authoritative,
+  :filing-year 1956,
+  :assignee :monsanto-chemicals,
+  :grant-year 1958,
+  :cites
+  ["GB560084A"
+   "US2378629"
+   "US2576915"
+   "US2609350"
+   "US2616867"
+   "US2651587"
+   "US2686137"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:pittsburgh-plate-glass],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2855373/en",
+  :title
+  "Water dispersions of an ethylenic monomer and a polyester of an ethylenic dicarboxylic acid",
+  :status :granted,
+  :id "US2855373",
+  :sourcing :authoritative,
+  :filing-year 1952,
+  :assignee :pittsburgh-plate-glass,
+  :grant-year 1958,
+  :cites
+  ["US2166542"
+   "US2255313"
+   "US2388206"
+   "US2495640"
+   "US2531275"
+   "US2562879"
+   "US2634245"
+   "US2665263"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:champion-paper-and-fibre],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2855895/en",
+  :title "Apparatus for coating paper",
+  :status :granted,
+  :id "US2855895",
+  :sourcing :authoritative,
+  :filing-year 1954,
+  :assignee :champion-paper-and-fibre,
+  :grant-year 1958,
+  :cites
+  ["US1422545"
+   "US1641403"
+   "US2190809"
+   "US2328183"
+   "US2439802"
+   "US2474691"
+   "US2534320"
+   "US2681294"
+   "US515941"
+   "US676237"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:polaroid],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2857274/en",
+  :title "Photographic compositions and processes",
+  :status :granted,
+  :id "US2857274",
+  :sourcing :authoritative,
+  :filing-year 1953,
+  :assignee :polaroid,
+  :grant-year 1958,
+  :cites
+  ["US1958609"
+   "US2017279"
+   "US2225384"
+   "US2354232"
+   "US2543181"
+   "US2590775"
+   "US2599518"
+   "US2635048"
+   "US2697100"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:polaroid],
   :jurisdiction :us,
   :field "UNKNOWN",
   :source "https://patents.google.com/patent/US2857276/en",
@@ -156,6 +287,30 @@
   :assignee :dow-chemical,
   :grant-year 1959,
   :cites ["US2616917" "US2725368" "US2778813"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:lof-glass-fibers],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2868684/en",
+  :title "Decorative acoustical materials",
+  :status :granted,
+  :id "US2868684",
+  :sourcing :authoritative,
+  :filing-year 1956,
+  :assignee :lof-glass-fibers,
+  :grant-year 1959,
+  :cites
+  ["US2393947"
+   "US2477555"
+   "US2552124"
+   "US2566619"
+   "US2694025"
+   "US2728699"
+   "US2731066"
+   "US2744044"
+   "US2751962"
+   "US2782465"],
   :term-years 20,
   :open-license :none}
  {:assignees [:fibreboard-paper-products],
@@ -922,6 +1077,25 @@
   :assignee :unassigned,
   :grant-year 1959,
   :cites ["US2046566"],
+  :term-years 20,
+  :open-license :none}
+ {:jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2905579/en",
+  :title "Shell construction and method of making the same",
+  :status :granted,
+  :id "US2905579",
+  :sourcing :authoritative,
+  :filing-year 1956,
+  :assignee :unassigned,
+  :grant-year 1959,
+  :cites
+  ["FR960853A"
+   "US1913095"
+   "US2417586"
+   "US2569224"
+   "US2743465"
+   "US860973"],
   :term-years 20,
   :open-license :none}
  {:assignees [:ei-du-pont-de-nemours-and],
@@ -9628,159 +9802,5 @@
   :assignee :general-electric,
   :grant-year 1967,
   :cites ["US3051895" "US3119670"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:perkin-elmer],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3340085/en",
-  :title "Gas chromatographic separating material",
-  :status :granted,
-  :id "US3340085",
-  :sourcing :authoritative,
-  :filing-year 1963,
-  :assignee :perkin-elmer,
-  :grant-year 1967,
-  :cites
-  ["CA594400A"
-   "US2788297"
-   "US3005514"
-   "US3014815"
-   "US3048029"
-   "US3232782"
-   "US3273315"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:novo-terapeutisk-laboratorium-as],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3340156/en",
-  :title "Purification of plasminogen",
-  :status :granted,
-  :id "US3340156",
-  :sourcing :authoritative,
-  :filing-year 1965,
-  :assignee :novo-terapeutisk-laboratorium-as,
-  :grant-year 1967,
-  :cites ["US3066079"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:dunlop-rubber],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3340335/en",
-  :title "Method for making composite fibrous materials",
-  :status :granted,
-  :id "US3340335",
-  :sourcing :authoritative,
-  :filing-year 1963,
-  :assignee :dunlop-rubber,
-  :grant-year 1967,
-  :cites
-  ["US2850467"
-   "US2972554"
-   "US3025202"
-   "US3050427"
-   "US3055871"
-   "US3062682"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:coulter-electronics],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3340471/en",
-  :title
-  "Flow-through sample apparatus for use with electrical particle study device",
-  :status :granted,
-  :id "US3340471",
-  :sourcing :authoritative,
-  :filing-year 1966,
-  :assignee :coulter-electronics,
-  :grant-year 1967,
-  :cites ["US3165692" "US3165693"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:dow-chemical],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3342729/en",
-  :title
-  "Permeability separatory cell and apparatus and method of using the same",
-  :status :granted,
-  :id "US3342729",
-  :sourcing :authoritative,
-  :filing-year 1964,
-  :assignee :dow-chemical,
-  :grant-year 1967,
-  :cites ["US2982416" "US3228877"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:merck-and],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3346560/en",
-  :title "Purine 3-deoxynucleosides",
-  :status :granted,
-  :id "US3346560",
-  :sourcing :authoritative,
-  :filing-year 1965,
-  :assignee :merck-and,
-  :grant-year 1967,
-  :cites ["US2852505" "US3208997"],
-  :term-years 20,
-  :open-license :none}
- {:jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3347846/en",
-  :title "Method of preparing 5&#39;-ribonucleotide",
-  :status :granted,
-  :id "US3347846",
-  :sourcing :authoritative,
-  :filing-year 1965,
-  :assignee :unassigned,
-  :grant-year 1967,
-  :cites ["US3201389" "US3282920" "US3288780"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:american-optical],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3348547/en",
-  :title "Photocoagulating apparatus",
-  :status :granted,
-  :id "US3348547",
-  :sourcing :authoritative,
-  :filing-year 1964,
-  :assignee :american-optical,
-  :grant-year 1967,
-  :cites ["US2930379" "US3084694" "US3096767"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:bausch-and-lomb],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3349227/en",
-  :title "Particle counter",
-  :status :granted,
-  :id "US3349227",
-  :sourcing :authoritative,
-  :filing-year 1964,
-  :assignee :bausch-and-lomb,
-  :grant-year 1967,
-  :cites ["US2803406" "US2817265" "US3061672"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:general-electric],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3351203/en",
-  :title "Separation apparatus and method for its operation",
-  :status :granted,
-  :id "US3351203",
-  :sourcing :authoritative,
-  :filing-year 1965,
-  :assignee :general-electric,
-  :grant-year 1967,
-  :cites ["US1872759" "US2398725" "US2937752" "US2973096"],
   :term-years 20,
   :open-license :none}]

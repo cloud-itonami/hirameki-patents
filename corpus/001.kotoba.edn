@@ -1,4 +1,28 @@
-[{:jurisdiction :us,
+[{:assignees [:asbestos-shingle-slate-&-sheat],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US1544843/en",
+  :title "Artificial-stone product and process",
+  :status :granted,
+  :id "US1544843",
+  :sourcing :authoritative,
+  :filing-year 1922,
+  :assignee :asbestos-shingle-slate-&-sheat,
+  :grant-year 1925,
+  :term-years 20,
+  :open-license :none}
+ {:jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US1549196/en",
+  :title "Method op and means for translating sounds",
+  :status :granted,
+  :id "US1549196",
+  :sourcing :authoritative,
+  :assignee :unassigned,
+  :grant-year 1925,
+  :term-years 20,
+  :open-license :none}
+ {:jurisdiction :us,
   :field "UNKNOWN",
   :source "https://patents.google.com/patent/US1552295/en",
   :title "Machine for filling and loading fabrics",
@@ -7990,6 +8014,29 @@
   :cites ["US1875552"],
   :term-years 20,
   :open-license :none}
+ {:jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2417586/en",
+  :title "Method of making laminated structures",
+  :status :granted,
+  :id "US2417586",
+  :sourcing :authoritative,
+  :filing-year 1944,
+  :assignee :unassigned,
+  :grant-year 1947,
+  :cites
+  ["GB479839A"
+   "US1106193"
+   "US1338564"
+   "US1394726"
+   "US1425113"
+   "US1976257"
+   "US2015806"
+   "US2019834"
+   "US2079868"
+   "US2203501"],
+  :term-years 20,
+  :open-license :none}
  {:assignees [:ei-du-pont-de-nemours-and],
   :jurisdiction :us,
   :field "UNKNOWN",
@@ -8109,6 +8156,35 @@
    "US2129626"
    "US2188283"
    "US2220958"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:vidal],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2420488/en",
+  :title "Method of forming laminated hollow structures",
+  :status :granted,
+  :id "US2420488",
+  :sourcing :authoritative,
+  :filing-year 1943,
+  :assignee :vidal,
+  :grant-year 1947,
+  :cites
+  ["US1336011"
+   "US1344634"
+   "US1394726"
+   "US1628886"
+   "US1654375"
+   "US1885406"
+   "US1916051"
+   "US203557"
+   "US2149507"
+   "US2172093"
+   "US2223587"
+   "US2276004"
+   "US2286267"
+   "US2341637"
+   "US448870"],
   :term-years 20,
   :open-license :none}
  {:assignees [:patchogue-plymouth-mills],
@@ -9233,62 +9309,5 @@
   :assignee :paper-patents,
   :grant-year 1948,
   :cites ["US2118549" "US2343740"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:dow-chemical],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US2448433/en",
-  :title "Making wrinkle-free film",
-  :status :granted,
-  :id "US2448433",
-  :sourcing :authoritative,
-  :filing-year 1945,
-  :assignee :dow-chemical,
-  :grant-year 1948,
-  :cites ["GB524777A" "US2267488" "US2358376" "US2361369"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:general-electric],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US2449572/en",
-  :title "Polysiloxane resins",
-  :status :granted,
-  :id "US2449572",
-  :sourcing :authoritative,
-  :filing-year 1944,
-  :assignee :general-electric,
-  :grant-year 1948,
-  :cites ["US2258218"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:eastman-kodak],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US2449966/en",
-  :title "Integral mask for color film",
-  :status :granted,
-  :id "US2449966",
-  :sourcing :authoritative,
-  :filing-year 1944,
-  :assignee :eastman-kodak,
-  :grant-year 1948,
-  :cites ["GB503824A" "US2193931" "US2241413" "US2307162"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:eastman-kodak],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US2450761/en",
-  :title
-  "Flicker photometers, particularly for measuring the contrast of a lens",
-  :status :granted,
-  :id "US2450761",
-  :sourcing :authoritative,
-  :filing-year 1945,
-  :assignee :eastman-kodak,
-  :grant-year 1948,
-  :cites ["US1987441"],
   :term-years 20,
   :open-license :none}]

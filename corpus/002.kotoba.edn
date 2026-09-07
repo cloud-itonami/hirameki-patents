@@ -1,6 +1,63 @@
 [{:assignees [:dow-chemical],
   :jurisdiction :us,
   :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2448433/en",
+  :title "Making wrinkle-free film",
+  :status :granted,
+  :id "US2448433",
+  :sourcing :authoritative,
+  :filing-year 1945,
+  :assignee :dow-chemical,
+  :grant-year 1948,
+  :cites ["GB524777A" "US2267488" "US2358376" "US2361369"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:general-electric],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2449572/en",
+  :title "Polysiloxane resins",
+  :status :granted,
+  :id "US2449572",
+  :sourcing :authoritative,
+  :filing-year 1944,
+  :assignee :general-electric,
+  :grant-year 1948,
+  :cites ["US2258218"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:eastman-kodak],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2449966/en",
+  :title "Integral mask for color film",
+  :status :granted,
+  :id "US2449966",
+  :sourcing :authoritative,
+  :filing-year 1944,
+  :assignee :eastman-kodak,
+  :grant-year 1948,
+  :cites ["GB503824A" "US2193931" "US2241413" "US2307162"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:eastman-kodak],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2450761/en",
+  :title
+  "Flicker photometers, particularly for measuring the contrast of a lens",
+  :status :granted,
+  :id "US2450761",
+  :sourcing :authoritative,
+  :filing-year 1945,
+  :assignee :eastman-kodak,
+  :grant-year 1948,
+  :cites ["US1987441"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:dow-chemical],
+  :jurisdiction :us,
+  :field "UNKNOWN",
   :source "https://patents.google.com/patent/US2452080/en",
   :title
   "Method of continuously extruding vinylidene chloride polymer tubes and stretching the same",
@@ -9156,6 +9213,33 @@
   :cites ["GB578206A" "GB592670A" "US2517930" "US2572864" "US2621163"],
   :term-years 20,
   :open-license :none}
+ {:jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2809415/en",
+  :title "Molding of building elements of elongated shape",
+  :status :granted,
+  :id "US2809415",
+  :sourcing :authoritative,
+  :filing-year 1955,
+  :assignee :unassigned,
+  :grant-year 1957,
+  :cites ["US1313893" "US2296352" "US2677165" "US992782"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:dow-corning],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2811408/en",
+  :title "Method of molding plastic articles",
+  :status :granted,
+  :id "US2811408",
+  :sourcing :authoritative,
+  :filing-year 1954,
+  :assignee :dow-corning,
+  :grant-year 1957,
+  :cites ["GB652557A" "US2478165" "US2588367"],
+  :term-years 20,
+  :open-license :none}
  {:assignees [:phillips-petroleum],
   :jurisdiction :us,
   :field "UNKNOWN",
@@ -9189,6 +9273,20 @@
   :assignee :dow-corning,
   :grant-year 1957,
   :cites ["US2442196" "US2607792" "US2666035" "US2673843" "US2676182"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:ganahl-de],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2815309/en",
+  :title "Method of making molded plastic articles",
+  :status :granted,
+  :id "US2815309",
+  :sourcing :authoritative,
+  :filing-year 1955,
+  :assignee :ganahl-de,
+  :grant-year 1957,
+  :cites ["US2222003" "US2370322" "US2531218" "US2591539" "US2682515"],
   :term-years 20,
   :open-license :none}
  {:assignees [:baker-oil-tools],
@@ -9827,136 +9925,5 @@
    "US2569100"
    "US2615839"
    "US2773237"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:eastman-kodak],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US2852381/en",
-  :title "Photographic emulsions containing polymeric color formers",
-  :status :granted,
-  :id "US2852381",
-  :sourcing :authoritative,
-  :filing-year 1953,
-  :assignee :eastman-kodak,
-  :grant-year 1958,
-  :cites ["US2322006" "US2322027" "US2533514" "US2759816"],
-  :term-years 20,
-  :open-license :none}
- {:jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US2854351/en",
-  :title
-  "Method of applying dressing for prolonging the effective life of cloth belts and resultant article",
-  :status :granted,
-  :id "US2854351",
-  :sourcing :authoritative,
-  :filing-year 1953,
-  :assignee :unassigned,
-  :grant-year 1958,
-  :cites
-  ["US1356890"
-   "US1870408"
-   "US2001582"
-   "US2181835"
-   "US2287780"
-   "US2441090"
-   "US2558929"
-   "US2626941"
-   "US2640366"
-   "US2655195"
-   "US2700623"
-   "US862403"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:monsanto-chemicals],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US2854357/en",
-  :title "Sized nylon yarns and method for producing same",
-  :status :granted,
-  :id "US2854357",
-  :sourcing :authoritative,
-  :filing-year 1956,
-  :assignee :monsanto-chemicals,
-  :grant-year 1958,
-  :cites
-  ["GB560084A"
-   "US2378629"
-   "US2576915"
-   "US2609350"
-   "US2616867"
-   "US2651587"
-   "US2686137"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:pittsburgh-plate-glass],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US2855373/en",
-  :title
-  "Water dispersions of an ethylenic monomer and a polyester of an ethylenic dicarboxylic acid",
-  :status :granted,
-  :id "US2855373",
-  :sourcing :authoritative,
-  :filing-year 1952,
-  :assignee :pittsburgh-plate-glass,
-  :grant-year 1958,
-  :cites
-  ["US2166542"
-   "US2255313"
-   "US2388206"
-   "US2495640"
-   "US2531275"
-   "US2562879"
-   "US2634245"
-   "US2665263"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:champion-paper-and-fibre],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US2855895/en",
-  :title "Apparatus for coating paper",
-  :status :granted,
-  :id "US2855895",
-  :sourcing :authoritative,
-  :filing-year 1954,
-  :assignee :champion-paper-and-fibre,
-  :grant-year 1958,
-  :cites
-  ["US1422545"
-   "US1641403"
-   "US2190809"
-   "US2328183"
-   "US2439802"
-   "US2474691"
-   "US2534320"
-   "US2681294"
-   "US515941"
-   "US676237"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:polaroid],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US2857274/en",
-  :title "Photographic compositions and processes",
-  :status :granted,
-  :id "US2857274",
-  :sourcing :authoritative,
-  :filing-year 1953,
-  :assignee :polaroid,
-  :grant-year 1958,
-  :cites
-  ["US1958609"
-   "US2017279"
-   "US2225384"
-   "US2354232"
-   "US2543181"
-   "US2590775"
-   "US2599518"
-   "US2635048"
-   "US2697100"],
   :term-years 20,
   :open-license :none}]
