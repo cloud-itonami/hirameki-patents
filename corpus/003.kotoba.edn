@@ -1,4 +1,19 @@
-[{:assignees [:woodmont-products],
+[{:assignees [:ei-du-pont-de-nemours-and],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2848437/en",
+  :title
+  "Metalorganic compounds as initiators for the polymerization of formaldehyde",
+  :status :granted,
+  :id "US2848437",
+  :sourcing :authoritative,
+  :filing-year 1954,
+  :assignee :ei-du-pont-de-nemours-and,
+  :grant-year 1958,
+  :cites ["US2162616" "US2178523" "US2519550" "US2551365" "US2734889"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:woodmont-products],
   :jurisdiction :us,
   :field "UNKNOWN",
   :source "https://patents.google.com/patent/US2851380/en",
@@ -2081,6 +2096,20 @@
   :cites ["GB736457A" "US2604464"],
   :term-years 20,
   :open-license :none}
+ {:assignees [:sylvania-electric-products],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2947677/en",
+  :title "Electrophoretic coating material",
+  :status :granted,
+  :id "US2947677",
+  :sourcing :authoritative,
+  :filing-year 1958,
+  :assignee :sylvania-electric-products,
+  :grant-year 1960,
+  :cites ["US2442863" "US2800446"],
+  :term-years 20,
+  :open-license :none}
  {:assignees [:allen-b-du-mont-laboratories],
   :jurisdiction :us,
   :field "UNKNOWN",
@@ -3031,6 +3060,20 @@
   :assignee :fairchild-semiconductor,
   :grant-year 1961,
   :cites ["US2813326" "US2836878" "US2842723" "US2849664"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:vitro-of-america],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2982707/en",
+  :title "Electrophoretic dispersion",
+  :status :granted,
+  :id "US2982707",
+  :sourcing :authoritative,
+  :filing-year 1958,
+  :assignee :vitro-of-america,
+  :grant-year 1961,
+  :cites ["US2431417" "US2462125" "US2463738" "US2843541" "US2860098"],
   :term-years 20,
   :open-license :none}
  {:assignees [:technicon-instruments],
@@ -5463,6 +5506,31 @@
    "US3006144"
    "US3010649"
    "US3016066"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:westinghouse-electric],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3093511/en",
+  :title
+  "Solid inorganic insulation for metallic conductors and electrical members insulated therewith",
+  :status :granted,
+  :id "US3093511",
+  :sourcing :authoritative,
+  :filing-year 1960,
+  :assignee :westinghouse-electric,
+  :grant-year 1963,
+  :cites
+  ["US2421652"
+   "US2478322"
+   "US2495630"
+   "US2650975"
+   "US2707703"
+   "US2743192"
+   "US2865795"
+   "US2927909"
+   "US2936218"
+   "US2984590"],
   :term-years 20,
   :open-license :none}
  {:assignees [:jagenberg-werke],
@@ -9037,6 +9105,29 @@
   :cites ["DE1119278B" "GB621094A" "US2482069" "US2645637"],
   :term-years 20,
   :open-license :none}
+ {:assignees [:glidden],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3290235/en",
+  :title
+  "Electrodeposition of acidic resin with subsequent anodic electrolysis in dispersioncontaining metal treating oxyanions",
+  :status :granted,
+  :id "US3290235",
+  :sourcing :authoritative,
+  :filing-year 1965,
+  :assignee :glidden,
+  :grant-year 1966,
+  :cites
+  ["US2868705"
+   "US3097978"
+   "US3132055"
+   "US3133838"
+   "US3154438"
+   "US3175964"
+   "US3185596"
+   "US3210219"],
+  :term-years 20,
+  :open-license :none}
  {:assignees [:asahi-chemical-industry],
   :jurisdiction :us,
   :field "UNKNOWN",
@@ -9681,6 +9772,20 @@
   :cites ["US2558857" "US2759825" "US2789054" "US2949382" "US3174859"],
   :term-years 20,
   :open-license :none}
+ {:assignees [:xerox],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3326848/en",
+  :title "Spray dried latex toners",
+  :status :granted,
+  :id "US3326848",
+  :sourcing :authoritative,
+  :filing-year 1964,
+  :assignee :xerox,
+  :grant-year 1967,
+  :cites ["US2460546" "US2659670" "US3079342" "US3194781"],
+  :term-years 20,
+  :open-license :none}
  {:assignees [:international-business-machines],
   :jurisdiction :us,
   :field "UNKNOWN",
@@ -9721,103 +9826,5 @@
   :assignee :unassigned,
   :grant-year 1967,
   :cites ["US3085469" "US3152215" "US3155451"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:honeywell],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3328277/en",
-  :title "Oxygen sensor with a scavenger electrode",
-  :status :granted,
-  :id "US3328277",
-  :sourcing :authoritative,
-  :filing-year 1964,
-  :assignee :honeywell,
-  :grant-year 1967,
-  :cites ["US2805191" "US3071530" "US3260656" "US3272725"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:merck-and],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3328388/en",
-  :title "Arabinofuranosyl pyrimidines and methods of preparing same",
-  :status :granted,
-  :id "US3328388",
-  :sourcing :authoritative,
-  :filing-year 1964,
-  :assignee :merck-and,
-  :grant-year 1967,
-  :cites ["US2885396" "US2949451" "US3040026" "US3135737"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:sankyo],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3328389/en",
-  :title "Process for preparing nucleotide derivatives",
-  :status :granted,
-  :id "US3328389",
-  :sourcing :authoritative,
-  :filing-year 1965,
-  :assignee :sankyo,
-  :grant-year 1967,
-  :cites ["US3208997"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:exxon-research-and-engineering],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3329004/en",
-  :title "Coated piezoelectric analyzer",
-  :status :granted,
-  :id "US3329004",
-  :sourcing :authoritative,
-  :filing-year 1963,
-  :assignee :exxon-research-and-engineering,
-  :grant-year 1967,
-  :cites ["US1559461" "US2571171" "US2768069" "US3164004" "US3194053"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:buckbee-mears],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3329541/en",
-  :title "Method of forming fine mesh screens",
-  :status :granted,
-  :id "US3329541",
-  :sourcing :authoritative,
-  :filing-year 1964,
-  :assignee :buckbee-mears,
-  :grant-year 1967,
-  :cites ["US2536383" "US2596617" "US378423"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:union-carbide],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3330796/en",
-  :title "Non-blocking polyolefin compositions",
-  :status :granted,
-  :id "US3330796",
-  :sourcing :authoritative,
-  :filing-year 1957,
-  :assignee :union-carbide,
-  :grant-year 1967,
-  :cites ["FR1132791A" "US2770608" "US2770609"],
-  :term-years 20,
-  :open-license :none}
- {:jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3330904/en",
-  :title
-  "Narrow band long range color television system incorporating color analyzer",
-  :status :granted,
-  :id "US3330904",
-  :sourcing :authoritative,
-  :filing-year 1965,
-  :assignee :unassigned,
-  :grant-year 1967,
-  :cites ["US2492926" "US2920131" "US2982811" "US3181987"],
   :term-years 20,
   :open-license :none}]

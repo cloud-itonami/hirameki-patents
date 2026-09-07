@@ -9819,6 +9819,28 @@
   :cites ["DE592923C" "US2290436" "US2387244" "US2418392" "US2567445"],
   :term-years 20,
   :open-license :none}
+ {:jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2843541/en",
+  :title "Electrophoretic deposition of barium titanate",
+  :status :granted,
+  :id "US2843541",
+  :sourcing :authoritative,
+  :filing-year 1956,
+  :assignee :unassigned,
+  :grant-year 1958,
+  :cites
+  ["DE850202C"
+   "GB325317A"
+   "US2426609"
+   "US2442864"
+   "US2462125"
+   "US2495630"
+   "US2536673"
+   "US2746888"
+   "US2757309"],
+  :term-years 20,
+  :open-license :none}
  {:assignees [:general-electric],
   :jurisdiction :us,
   :field "UNKNOWN",
@@ -9911,20 +9933,5 @@
    "US2716722"
    "US2753497"
    "US2787744"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:ei-du-pont-de-nemours-and],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US2848437/en",
-  :title
-  "Metalorganic compounds as initiators for the polymerization of formaldehyde",
-  :status :granted,
-  :id "US2848437",
-  :sourcing :authoritative,
-  :filing-year 1954,
-  :assignee :ei-du-pont-de-nemours-and,
-  :grant-year 1958,
-  :cites ["US2162616" "US2178523" "US2519550" "US2551365" "US2734889"],
   :term-years 20,
   :open-license :none}]
