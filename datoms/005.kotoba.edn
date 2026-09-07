@@ -1,4 +1,45 @@
 [[":db/add"
+  "hirameki-patent:US2398843"
+  ":hirameki.patent/field"
+  "UNKNOWN"]
+ [":db/add"
+  "hirameki-patent:US2398843"
+  ":hirameki.patent/assignee"
+  ":combined-locks-paper"]
+ [":db/add"
+  "hirameki-patent:US2398843"
+  ":hirameki.patent/status"
+  ":granted"]
+ [":db/add"
+  "hirameki-patent:US2398843"
+  ":hirameki.patent/open-license"
+  ":none"]
+ [":db/add"
+  "hirameki-patent:US2398843"
+  ":hirameki.obs/release-status"
+  ":public-domain"]
+ [":db/add"
+  "hirameki-patent:US2398843"
+  ":hirameki/sourcing"
+  ":authoritative"]
+ [":db/add" "hirameki-patent:US2398843" ":hirameki/derived" true]
+ [":db/add"
+  "hirameki-patent:US2398843"
+  ":hirameki.obs/years-to-expiry"
+  -64]
+ [":db/add"
+  "hirameki-patent:US2398843"
+  ":hirameki/source"
+  "https://patents.google.com/patent/US2398843/en"]
+ [":db/add"
+  "hirameki-patent:US2398844"
+  ":hirameki.patent/title"
+  "Paper coating"]
+ [":db/add"
+  "hirameki-patent:US2398844"
+  ":hirameki.patent/jurisdiction"
+  ":us"]
+ [":db/add"
   "hirameki-patent:US2398844"
   ":hirameki.patent/field"
   "UNKNOWN"]
@@ -9779,6 +9820,47 @@
   ":hirameki/source"
   "https://patents.google.com/patent/US2571962/en"]
  [":db/add"
+  "hirameki-patent:US2574659"
+  ":hirameki.patent/title"
+  "Hammer metal finish"]
+ [":db/add"
+  "hirameki-patent:US2574659"
+  ":hirameki.patent/jurisdiction"
+  ":us"]
+ [":db/add"
+  "hirameki-patent:US2574659"
+  ":hirameki.patent/field"
+  "UNKNOWN"]
+ [":db/add"
+  "hirameki-patent:US2574659"
+  ":hirameki.patent/assignee"
+  ":ferro-enamel"]
+ [":db/add"
+  "hirameki-patent:US2574659"
+  ":hirameki.patent/status"
+  ":granted"]
+ [":db/add"
+  "hirameki-patent:US2574659"
+  ":hirameki.patent/open-license"
+  ":none"]
+ [":db/add"
+  "hirameki-patent:US2574659"
+  ":hirameki.obs/release-status"
+  ":public-domain"]
+ [":db/add"
+  "hirameki-patent:US2574659"
+  ":hirameki/sourcing"
+  ":authoritative"]
+ [":db/add" "hirameki-patent:US2574659" ":hirameki/derived" true]
+ [":db/add"
+  "hirameki-patent:US2574659"
+  ":hirameki.obs/years-to-expiry"
+  -57]
+ [":db/add"
+  "hirameki-patent:US2574659"
+  ":hirameki/source"
+  "https://patents.google.com/patent/US2574659/en"]
+ [":db/add"
   "hirameki-patent:US2575467"
   ":hirameki.patent/title"
   "Process and apparatus for stuffing casings"]
@@ -10265,82 +10347,4 @@
  [":db/add"
   "hirameki-patent:US2584052"
   ":hirameki.obs/years-to-expiry"
-  -57]
- [":db/add"
-  "hirameki-patent:US2584052"
-  ":hirameki/source"
-  "https://patents.google.com/patent/US2584052/en"]
- [":db/add"
-  "hirameki-patent:US2584351"
-  ":hirameki.patent/title"
-  "Condensation of an organo silane with a polyhydric alcohol and thereafter with a polycarboxylic acid and product"]
- [":db/add"
-  "hirameki-patent:US2584351"
-  ":hirameki.patent/jurisdiction"
-  ":us"]
- [":db/add"
-  "hirameki-patent:US2584351"
-  ":hirameki.patent/field"
-  "UNKNOWN"]
- [":db/add"
-  "hirameki-patent:US2584351"
-  ":hirameki.patent/assignee"
-  ":dow-corning"]
- [":db/add"
-  "hirameki-patent:US2584351"
-  ":hirameki.patent/status"
-  ":granted"]
- [":db/add"
-  "hirameki-patent:US2584351"
-  ":hirameki.patent/open-license"
-  ":none"]
- [":db/add"
-  "hirameki-patent:US2584351"
-  ":hirameki.obs/release-status"
-  ":public-domain"]
- [":db/add"
-  "hirameki-patent:US2584351"
-  ":hirameki/sourcing"
-  ":authoritative"]
- [":db/add" "hirameki-patent:US2584351" ":hirameki/derived" true]
- [":db/add"
-  "hirameki-patent:US2584351"
-  ":hirameki.obs/years-to-expiry"
-  -58]
- [":db/add"
-  "hirameki-patent:US2584351"
-  ":hirameki/source"
-  "https://patents.google.com/patent/US2584351/en"]
- [":db/add"
-  "hirameki-patent:US2584632"
-  ":hirameki.patent/title"
-  "Method of making containers"]
- [":db/add"
-  "hirameki-patent:US2584632"
-  ":hirameki.patent/jurisdiction"
-  ":us"]
- [":db/add"
-  "hirameki-patent:US2584632"
-  ":hirameki.patent/field"
-  "UNKNOWN"]
- [":db/add"
-  "hirameki-patent:US2584632"
-  ":hirameki.patent/assignee"
-  ":shellmar-products"]
- [":db/add"
-  "hirameki-patent:US2584632"
-  ":hirameki.patent/status"
-  ":granted"]
- [":db/add"
-  "hirameki-patent:US2584632"
-  ":hirameki.patent/open-license"
-  ":none"]
- [":db/add"
-  "hirameki-patent:US2584632"
-  ":hirameki.obs/release-status"
-  ":public-domain"]
- [":db/add"
-  "hirameki-patent:US2584632"
-  ":hirameki/sourcing"
-  ":authoritative"]
- [":db/add" "hirameki-patent:US2584632" ":hirameki/derived" true]]
+  -57]]

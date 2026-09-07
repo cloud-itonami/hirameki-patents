@@ -1,4 +1,45 @@
-[{:assignees [:eastman-kodak],
+[{:assignees [:woodmont-products],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2851380/en",
+  :title "Conductive ink and article coated therewith",
+  :status :granted,
+  :id "US2851380",
+  :sourcing :authoritative,
+  :filing-year 1953,
+  :assignee :woodmont-products,
+  :grant-year 1958,
+  :cites
+  ["US1837678"
+   "US2443741"
+   "US2485294"
+   "US2510503"
+   "US2608539"
+   "US2632751"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:foxboro],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2851654/en",
+  :title "Amperometric differential measurement system",
+  :status :granted,
+  :id "US2851654",
+  :sourcing :authoritative,
+  :filing-year 1956,
+  :assignee :foxboro,
+  :grant-year 1958,
+  :cites
+  ["US1399200"
+   "US2173233"
+   "US2232211"
+   "US2289687"
+   "US2569100"
+   "US2615839"
+   "US2773237"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:eastman-kodak],
   :jurisdiction :us,
   :field "UNKNOWN",
   :source "https://patents.google.com/patent/US2852381/en",
@@ -455,6 +496,28 @@
    "US2584052"
    "US2661902"
    "US2791150"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:ei-du-pont-de-nemours-and],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2876133/en",
+  :title
+  "Process for preparing organophilic particulate solids by polymerizing ethylenically unsaturated monomers upon the surface of organophobic particulate solids",
+  :status :granted,
+  :id "US2876133",
+  :sourcing :authoritative,
+  :filing-year 1954,
+  :assignee :ei-du-pont-de-nemours-and,
+  :grant-year 1959,
+  :cites
+  ["US2562182"
+   "US2589705"
+   "US2657149"
+   "US2662034"
+   "US2728732"
+   "US2728740"
+   "US2749248"],
   :term-years 20,
   :open-license :none}
  {:assignees [:merck-and],
@@ -1064,6 +1127,29 @@
   :assignee :bacto-strip,
   :grant-year 1959,
   :cites ["US2672432" "US2677646" "US2677647" "US2771398" "US2784146"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:empire-varnish],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2904523/en",
+  :title
+  "Storage-stable pastes, paints, inks and similar products containing aluminous pigments",
+  :status :granted,
+  :id "US2904523",
+  :sourcing :authoritative,
+  :filing-year 1955,
+  :assignee :empire-varnish,
+  :grant-year 1959,
+  :cites
+  ["GB406445A"
+   "US1765676"
+   "US2355889"
+   "US2378432"
+   "US2432465"
+   "US2587266"
+   "US2587268"
+   "US2587657"],
   :term-years 20,
   :open-license :none}
  {:jurisdiction :us,
@@ -3142,6 +3228,21 @@
    "US2859198"],
   :term-years 20,
   :open-license :none}
+ {:assignees [:rohm-and-haas],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2994676/en",
+  :title
+  "Interpolymer of acrylonitrile, acrylamide, ethyl acrylate, and higher alkyl acrylate, and aqueous dispersions thereof",
+  :status :granted,
+  :id "US2994676",
+  :sourcing :authoritative,
+  :filing-year 1958,
+  :assignee :rohm-and-haas,
+  :grant-year 1961,
+  :cites ["US2536050" "US2582303" "US2787561" "US2787603"],
+  :term-years 20,
+  :open-license :none}
  {:assignees [:diamond-alkali],
   :jurisdiction :us,
   :field "UNKNOWN",
@@ -3813,6 +3914,20 @@
    "US2802766"
    "US2850421"
    "US2879197"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:aluminium-laboratories],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3025252/en",
+  :title "Incorporation of metallic pigment in coating compositions",
+  :status :granted,
+  :id "US3025252",
+  :sourcing :authoritative,
+  :filing-year 1958,
+  :assignee :aluminium-laboratories,
+  :grant-year 1962,
+  :cites ["US2185194" "US2587266" "US2587268" "US2773041" "US2839482"],
   :term-years 20,
   :open-license :none}
  {:assignees [:pyronics],
@@ -8043,6 +8158,21 @@
    "US3163531"],
   :term-years 20,
   :open-license :none}
+ {:assignees [:aluminum-company-of-america],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3244542/en",
+  :title
+  "Water-dispersible metallic flake pigments and ready-mixed coating formulations containing the same",
+  :status :granted,
+  :id "US3244542",
+  :sourcing :authoritative,
+  :filing-year 1962,
+  :assignee :aluminum-company-of-america,
+  :grant-year 1966,
+  :cites ["US2848344"],
+  :term-years 20,
+  :open-license :none}
  {:assignees [:barnes-engineering],
   :jurisdiction :us,
   :field "UNKNOWN",
@@ -8447,6 +8577,20 @@
    "US3155503"],
   :term-years 20,
   :open-license :none}
+ {:assignees [:nat-lead],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3265644/en",
+  :title "Particle-polymer compositions and process for making same",
+  :status :granted,
+  :id "US3265644",
+  :sourcing :authoritative,
+  :filing-year 1963,
+  :assignee :nat-lead,
+  :grant-year 1966,
+  :cites ["US2399259" "US3092438" "US3102050"],
+  :term-years 20,
+  :open-license :none}
  {:assignees [:shell-oil],
   :jurisdiction :us,
   :field "UNKNOWN",
@@ -8579,6 +8723,30 @@
   :assignee :takeda-chemical-industries,
   :grant-year 1966,
   :cites ["CA672274A" "US3135666"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:dow-chemical],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3272772/en",
+  :title "Filled polymer compositions",
+  :status :granted,
+  :id "US3272772",
+  :sourcing :authoritative,
+  :filing-year 1961,
+  :assignee :dow-chemical,
+  :grant-year 1966,
+  :cites
+  ["GB584620A"
+   "GB750809A"
+   "US2728732"
+   "US2749248"
+   "US2841504"
+   "US2913432"
+   "US2934512"
+   "US2948632"
+   "US3022185"
+   "US3023180"],
   :term-years 20,
   :open-license :none}
  {:assignees [:agfa],
@@ -9650,157 +9818,5 @@
   :assignee :ajinomoto,
   :grant-year 1967,
   :cites ["US3082203" "US3170917" "US3201388" "US3208997"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:shell-oil],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3333024/en",
-  :title
-  "Block polymers, compositions containing them and process of their preparation",
-  :status :granted,
-  :id "US3333024",
-  :sourcing :authoritative,
-  :filing-year 1963,
-  :assignee :shell-oil,
-  :grant-year 1967,
-  :cites ["US3030346" "US3239478"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:abbott-laboratories],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3334039/en",
-  :title "Electrode construction in oxygen sensor",
-  :status :granted,
-  :id "US3334039",
-  :sourcing :authoritative,
-  :filing-year 1964,
-  :assignee :abbott-laboratories,
-  :grant-year 1967,
-  :cites
-  ["US2281594"
-   "US2480557"
-   "US2816739"
-   "US2906801"
-   "US2928782"
-   "US2960455"
-   "US2964941"
-   "US3224436"
-   "US3227643"
-   "US7799793"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:warren-sd],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3335017/en",
-  :title "Paper with release coating and process for making same",
-  :status :granted,
-  :id "US3335017",
-  :sourcing :authoritative,
-  :filing-year 1962,
-  :assignee :warren-sd,
-  :grant-year 1967,
-  :cites ["US2507200" "US2739910" "US2970932"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:pittsburgh-plate-glass],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3335524/en",
-  :title "Thermal break door",
-  :status :granted,
-  :id "US3335524",
-  :sourcing :authoritative,
-  :filing-year 1965,
-  :assignee :pittsburgh-plate-glass,
-  :grant-year 1967,
-  :cites ["AT225395B" "US1832847" "US2163566" "US2877876" "US3055468"],
-  :term-years 20,
-  :open-license :none}
- {:jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3335724/en",
-  :title
-  "Remote control, repeating, variable stroke hypodermic syringe device",
-  :status :granted,
-  :id "US3335724",
-  :sourcing :authoritative,
-  :filing-year 1964,
-  :assignee :unassigned,
-  :grant-year 1967,
-  :cites ["US1966498" "US2435440" "US2602446" "US2644450" "US2645224"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:upjohn],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3336289/en",
-  :title
-  "9-beta-d-ribofuranosyl-7-deazapurine 5&#39;-phosphate esters",
-  :status :granted,
-  :id "US3336289",
-  :sourcing :authoritative,
-  :filing-year 1965,
-  :assignee :upjohn,
-  :grant-year 1967,
-  :cites ["US3170835" "US3284440" "US3300479"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:ajinomoto],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3337528/en",
-  :title "Method of preparing inosine or derivative thereof",
-  :status :granted,
-  :id "US3337528",
-  :sourcing :authoritative,
-  :filing-year 1965,
-  :assignee :ajinomoto,
-  :grant-year 1967,
-  :cites ["US2844576"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:upjohn],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3337530/en",
-  :title
-  "Dinucleoside 3&#39;, 5&#39; -and 2&#39;, 5&#39;-phosphates containing one 7-deazapurin riboside moiety",
-  :status :granted,
-  :id "US3337530",
-  :sourcing :authoritative,
-  :filing-year 1965,
-  :assignee :upjohn,
-  :grant-year 1967,
-  :term-years 20,
-  :open-license :none}
- {:assignees [:upjohn],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3338882/en",
-  :title
-  "2&#39;-and 3&#39;-phosphates of 1-beta-d-arabinofuranosylcytosine",
-  :status :granted,
-  :id "US3338882",
-  :sourcing :authoritative,
-  :filing-year 1965,
-  :assignee :upjohn,
-  :grant-year 1967,
-  :term-years 20,
-  :open-license :none}
- {:assignees [:general-electric],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3340014/en",
-  :title "Stoichiometric indicator for combustion of gas",
-  :status :granted,
-  :id "US3340014",
-  :sourcing :authoritative,
-  :filing-year 1964,
-  :assignee :general-electric,
-  :grant-year 1967,
-  :cites ["US3051895" "US3119670"],
   :term-years 20,
   :open-license :none}]

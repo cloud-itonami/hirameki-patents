@@ -1,4 +1,156 @@
-[{:assignees [:perkin-elmer],
+[{:assignees [:shell-oil],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3333024/en",
+  :title
+  "Block polymers, compositions containing them and process of their preparation",
+  :status :granted,
+  :id "US3333024",
+  :sourcing :authoritative,
+  :filing-year 1963,
+  :assignee :shell-oil,
+  :grant-year 1967,
+  :cites ["US3030346" "US3239478"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:abbott-laboratories],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3334039/en",
+  :title "Electrode construction in oxygen sensor",
+  :status :granted,
+  :id "US3334039",
+  :sourcing :authoritative,
+  :filing-year 1964,
+  :assignee :abbott-laboratories,
+  :grant-year 1967,
+  :cites
+  ["US2281594"
+   "US2480557"
+   "US2816739"
+   "US2906801"
+   "US2928782"
+   "US2960455"
+   "US2964941"
+   "US3224436"
+   "US3227643"
+   "US7799793"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:warren-sd],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3335017/en",
+  :title "Paper with release coating and process for making same",
+  :status :granted,
+  :id "US3335017",
+  :sourcing :authoritative,
+  :filing-year 1962,
+  :assignee :warren-sd,
+  :grant-year 1967,
+  :cites ["US2507200" "US2739910" "US2970932"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:pittsburgh-plate-glass],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3335524/en",
+  :title "Thermal break door",
+  :status :granted,
+  :id "US3335524",
+  :sourcing :authoritative,
+  :filing-year 1965,
+  :assignee :pittsburgh-plate-glass,
+  :grant-year 1967,
+  :cites ["AT225395B" "US1832847" "US2163566" "US2877876" "US3055468"],
+  :term-years 20,
+  :open-license :none}
+ {:jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3335724/en",
+  :title
+  "Remote control, repeating, variable stroke hypodermic syringe device",
+  :status :granted,
+  :id "US3335724",
+  :sourcing :authoritative,
+  :filing-year 1964,
+  :assignee :unassigned,
+  :grant-year 1967,
+  :cites ["US1966498" "US2435440" "US2602446" "US2644450" "US2645224"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:upjohn],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3336289/en",
+  :title
+  "9-beta-d-ribofuranosyl-7-deazapurine 5&#39;-phosphate esters",
+  :status :granted,
+  :id "US3336289",
+  :sourcing :authoritative,
+  :filing-year 1965,
+  :assignee :upjohn,
+  :grant-year 1967,
+  :cites ["US3170835" "US3284440" "US3300479"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:ajinomoto],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3337528/en",
+  :title "Method of preparing inosine or derivative thereof",
+  :status :granted,
+  :id "US3337528",
+  :sourcing :authoritative,
+  :filing-year 1965,
+  :assignee :ajinomoto,
+  :grant-year 1967,
+  :cites ["US2844576"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:upjohn],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3337530/en",
+  :title
+  "Dinucleoside 3&#39;, 5&#39; -and 2&#39;, 5&#39;-phosphates containing one 7-deazapurin riboside moiety",
+  :status :granted,
+  :id "US3337530",
+  :sourcing :authoritative,
+  :filing-year 1965,
+  :assignee :upjohn,
+  :grant-year 1967,
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:upjohn],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3338882/en",
+  :title
+  "2&#39;-and 3&#39;-phosphates of 1-beta-d-arabinofuranosylcytosine",
+  :status :granted,
+  :id "US3338882",
+  :sourcing :authoritative,
+  :filing-year 1965,
+  :assignee :upjohn,
+  :grant-year 1967,
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:general-electric],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3340014/en",
+  :title "Stoichiometric indicator for combustion of gas",
+  :status :granted,
+  :id "US3340014",
+  :sourcing :authoritative,
+  :filing-year 1964,
+  :assignee :general-electric,
+  :grant-year 1967,
+  :cites ["US3051895" "US3119670"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:perkin-elmer],
   :jurisdiction :us,
   :field "UNKNOWN",
   :source "https://patents.google.com/patent/US3340085/en",
@@ -664,6 +816,30 @@
   :filing-year 1967,
   :assignee :ruth-l-christensen,
   :grant-year 1968,
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:british-titan],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3393165/en",
+  :title "Polymer compositions",
+  :status :granted,
+  :id "US3393165",
+  :sourcing :authoritative,
+  :filing-year 1963,
+  :assignee :british-titan,
+  :grant-year 1968,
+  :cites
+  ["GB899413A"
+   "US2067234"
+   "US2161481"
+   "US2825708"
+   "US2868757"
+   "US2992197"
+   "US3002942"
+   "US3023177"
+   "US3054762"
+   "US3244657"],
   :term-years 20,
   :open-license :none}
  {:assignees [:notraco-internat],
@@ -5082,6 +5258,37 @@
    "US3560754"],
   :term-years 20,
   :open-license :none}
+ {:assignees [:general-tire-and-rubber],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3661620/en",
+  :title "Method of encapsulating fillers with polymers",
+  :status :granted,
+  :id "US3661620",
+  :sourcing :authoritative,
+  :filing-year 1969,
+  :assignee :general-tire-and-rubber,
+  :grant-year 1972,
+  :cites
+  ["US2140594"
+   "US2806509"
+   "US2978340"
+   "US3146060"
+   "US3194678"
+   "US3272772"
+   "US3272897"
+   "US3346535"
+   "US3377189"
+   "US3382093"
+   "US3412796"
+   "US3420645"
+   "US3441523"
+   "US3501333"
+   "US3507686"
+   "US3512294"
+   "US3532480"],
+  :term-years 20,
+  :open-license :none}
  {:assignees [:birko-chemical],
   :jurisdiction :us,
   :field "UNKNOWN",
@@ -5595,6 +5802,20 @@
   :sourcing :authoritative,
   :filing-year 1971,
   :assignee :syva,
+  :grant-year 1972,
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:reichhold-albert-chemie],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3692726/en",
+  :title
+  "Process for the production of aqueous polymer dispersions which are substantially free from residual monomer",
+  :status :granted,
+  :id "US3692726",
+  :sourcing :authoritative,
+  :filing-year 1971,
+  :assignee :reichhold-albert-chemie,
   :grant-year 1972,
   :term-years 20,
   :open-license :none}
@@ -7045,6 +7266,20 @@
   :cites ["US3616345" "US3616348"],
   :term-years 20,
   :open-license :none}
+ {:assignees [:wacker-chemie],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3769251/en",
+  :title
+  "Process for the preparation of aqueous styrene/acrylic acid ester copolymer dispersions",
+  :status :granted,
+  :id "US3769251",
+  :sourcing :authoritative,
+  :filing-year 1971,
+  :assignee :wacker-chemie,
+  :grant-year 1973,
+  :term-years 20,
+  :open-license :none}
  {:assignees [:united-states-department-of-the-army],
   :jurisdiction :us,
   :field "UNKNOWN",
@@ -7311,6 +7546,19 @@
   :assignee :american-optical,
   :grant-year 1974,
   :cites ["US3348547" "US3463594"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:sinclair-koppers],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3784498/en",
+  :title "Process for preparing low emulsifier synthetic latex",
+  :status :granted,
+  :id "US3784498",
+  :sourcing :authoritative,
+  :filing-year 1972,
+  :assignee :sinclair-koppers,
+  :grant-year 1974,
   :term-years 20,
   :open-license :none}
  {:assignees [:blowitz-m :magnor :pastin-m],
@@ -7813,6 +8061,19 @@
   :sourcing :authoritative,
   :filing-year 1973,
   :assignee :avco,
+  :grant-year 1974,
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:ei-du-pont-de-nemours-and],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3806464/en",
+  :title "Pigment encapsulated with an acrylic interpolymer",
+  :status :granted,
+  :id "US3806464",
+  :sourcing :authoritative,
+  :filing-year 1972,
+  :assignee :ei-du-pont-de-nemours-and,
   :grant-year 1974,
   :term-years 20,
   :open-license :none}
@@ -8495,6 +8756,21 @@
   :cites ["US2929789" "US3696042"],
   :term-years 20,
   :open-license :none}
+ {:assignees [:ei-du-pont-de-nemours-and],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3839254/en",
+  :title
+  "Aqueous coating composition containing metallic pigment coated with ionizable perfluoroalkyl surfactant",
+  :status :granted,
+  :id "US3839254",
+  :sourcing :authoritative,
+  :filing-year 1972,
+  :assignee :ei-du-pont-de-nemours-and,
+  :grant-year 1974,
+  :cites ["US2795564" "US3244542" "US3245971"],
+  :term-years 20,
+  :open-license :none}
  {:assignees [:texaco],
   :jurisdiction :us,
   :field "UNKNOWN",
@@ -8805,281 +9081,5 @@
   :assignee :f-hoffmann-la-roche,
   :grant-year 1974,
   :cites ["US3697638" "US3720760"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:general-electric],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3853467/en",
-  :title
-  "Method and apparatus for immunological detection of biological particles",
-  :status :granted,
-  :id "US3853467",
-  :sourcing :authoritative,
-  :filing-year 1973,
-  :assignee :general-electric,
-  :grant-year 1974,
-  :cites ["US3250596" "US3492396" "US3646346" "US3770380"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:nat-res-dev],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3853712/en",
-  :title "Cell culture systems",
-  :status :granted,
-  :id "US3853712",
-  :sourcing :authoritative,
-  :filing-year 1972,
-  :assignee :nat-res-dev,
-  :grant-year 1974,
-  :cites ["US2522947" "US3102082" "US3281307" "US3740321"],
-  :term-years 20,
-  :open-license :none}
- {:jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3853987/en",
-  :title "Immunological reagent and radioimmuno assay",
-  :status :granted,
-  :id "US3853987",
-  :sourcing :authoritative,
-  :filing-year 1971,
-  :assignee :unassigned,
-  :grant-year 1974,
-  :cites ["US3234096" "US3505019" "US3555143" "US3592888" "US3646346"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:ajinomoto],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3856777/en",
-  :title "Method of producing pyrimidine nucleoside derivatives",
-  :status :granted,
-  :id "US3856777",
-  :sourcing :authoritative,
-  :filing-year 1972,
-  :assignee :ajinomoto,
-  :grant-year 1974,
-  :cites ["US3463850" "US3705147"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:f-hoffmann-la-roche],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3857931/en",
-  :title "Latex polymer reagents for diagnostic tests",
-  :status :granted,
-  :id "US3857931",
-  :sourcing :authoritative,
-  :filing-year 1972,
-  :assignee :f-hoffmann-la-roche,
-  :grant-year 1974,
-  :cites
-  ["GB1172768A"
-   "US3502545"
-   "US3639558"
-   "US3652761"
-   "US3709868"
-   "US3720760"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:polymeric-enzymes],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3859169/en",
-  :title "Enzymes entrapped in gels",
-  :status :granted,
-  :id "US3859169",
-  :sourcing :authoritative,
-  :filing-year 1973,
-  :assignee :polymeric-enzymes,
-  :grant-year 1975,
-  :cites ["US3540984" "US3576760" "US3577512"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:us-department-of-navy],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3859430/en",
-  :title
-  "Radioactive iodine labeling of viruses, enzymes and flourescene isothyiocyanate",
-  :status :granted,
-  :id "US3859430",
-  :sourcing :authoritative,
-  :filing-year 1973,
-  :assignee :us-department-of-navy,
-  :grant-year 1975,
-  :cites ["DE1817308A1"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:eastman-kodak],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3859527/en",
-  :title
-  "Apparatus and method for producing images corresponding to patterns of high energy radiation",
-  :status :granted,
-  :id "US3859527",
-  :sourcing :authoritative,
-  :filing-year 1973,
-  :assignee :eastman-kodak,
-  :grant-year 1975,
-  :cites ["US3376416" "US3439114" "US3518697" "US3582651" "US3622785"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:honeywell],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3860935/en",
-  :title "Auto focus camera",
-  :status :granted,
-  :id "US3860935",
-  :sourcing :authoritative,
-  :filing-year 1973,
-  :assignee :honeywell,
-  :grant-year 1975,
-  :cites
-  ["US3336851"
-   "US3450883"
-   "US3571598"
-   "US3596101"
-   "US3610934"
-   "US3614456"
-   "US3691922"
-   "US3708619"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:perkin-elmer],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3861809/en",
-  :title "Confocal cavity optical gas sensor",
-  :status :granted,
-  :id "US3861809",
-  :sourcing :authoritative,
-  :filing-year 1973,
-  :assignee :perkin-elmer,
-  :grant-year 1975,
-  :cites
-  ["US3089382"
-   "US3250174"
-   "US3588496"
-   "US3696247"
-   "US3704951"
-   "US3728540"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:allied-chemical],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3862056/en",
-  :title
-  "Semiconductor polymer compositions comprising a grafted block copolymer of synthetic rubber and polyolefin and carbon black",
-  :status :granted,
-  :id "US3862056",
-  :sourcing :authoritative,
-  :filing-year 1972,
-  :assignee :allied-chemical,
-  :grant-year 1975,
-  :cites ["US2597741" "US3639163"],
-  :term-years 20,
-  :open-license :none}
- {:jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3863067/en",
-  :title "Orientation indicating apparatus",
-  :status :granted,
-  :id "US3863067",
-  :sourcing :authoritative,
-  :filing-year 1973,
-  :assignee :unassigned,
-  :grant-year 1975,
-  :cites ["US2252727" "US2427902" "US3293513" "US3371424"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:corning-glass-works],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3864564/en",
-  :title "Acquisition system for slide analysis",
-  :status :granted,
-  :id "US3864564",
-  :sourcing :authoritative,
-  :filing-year 1973,
-  :assignee :corning-glass-works,
-  :grant-year 1975,
-  :cites ["US2859653" "US3466514" "US3515877" "US3541338"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:wheeler-international],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3864571/en",
-  :title
-  "Method and Apparatus for Automatically, Identifying and Counting Various Cells in Body Fluids",
-  :status :granted,
-  :id "US3864571",
-  :sourcing :authoritative,
-  :filing-year 1971,
-  :assignee :wheeler-international,
-  :grant-year 1975,
-  :cites
-  ["US3413464"
-   "US3437823"
-   "US3487227"
-   "US3497690"
-   "US3515884"
-   "US3549994"
-   "US3578979"
-   "US3699336"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:albert-einstein-college-of-medicine],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3865548/en",
-  :title "Analytical apparatus and process",
-  :status :granted,
-  :id "US3865548",
-  :sourcing :authoritative,
-  :filing-year 1973,
-  :assignee :albert-einstein-college-of-medicine,
-  :grant-year 1975,
-  :cites
-  ["US2888331"
-   "US3000706"
-   "US3123444"
-   "US3227523"
-   "US3367850"
-   "US3480399"
-   "US3539300"
-   "US3573470"
-   "US3657073"
-   "US3660037"
-   "US3706381"
-   "US3748098"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:nat-res-dev],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3865550/en",
-  :title "Semi-conducting gas sensitive devices",
-  :status :granted,
-  :id "US3865550",
-  :sourcing :authoritative,
-  :filing-year 1973,
-  :assignee :nat-res-dev,
-  :grant-year 1975,
-  :cites
-  ["US3036895"
-   "US3255324"
-   "US3340014"
-   "US3479257"
-   "US3558280"
-   "US3567383"
-   "US3598762"
-   "US3631436"
-   "US3676820"],
   :term-years 20,
   :open-license :none}]

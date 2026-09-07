@@ -1,4 +1,32 @@
-[{:assignees [:dow-chemical],
+[{:assignees [:allen-b-du-mont-laboratories],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2444560/en",
+  :title "Cathode-ray tube spectrograph",
+  :status :granted,
+  :id "US2444560",
+  :sourcing :authoritative,
+  :filing-year 1944,
+  :assignee :allen-b-du-mont-laboratories,
+  :grant-year 1948,
+  :cites ["US18005" "US2193606" "US2339754"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:paper-patents],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2448357/en",
+  :title "Panel facing",
+  :status :granted,
+  :id "US2448357",
+  :sourcing :authoritative,
+  :filing-year 1945,
+  :assignee :paper-patents,
+  :grant-year 1948,
+  :cites ["US2118549" "US2343740"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:dow-chemical],
   :jurisdiction :us,
   :field "UNKNOWN",
   :source "https://patents.google.com/patent/US2448433/en",
@@ -2695,6 +2723,20 @@
    "US2404073"
    "US2477300"
    "US2510750"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:ferro-enamel],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2574659/en",
+  :title "Hammer metal finish",
+  :status :granted,
+  :id "US2574659",
+  :sourcing :authoritative,
+  :filing-year 1949,
+  :assignee :ferro-enamel,
+  :grant-year 1951,
+  :cites ["US2069983" "US2326623" "US2366850"],
   :term-years 20,
   :open-license :none}
  {:assignees [:american-viscose],
@@ -9884,46 +9926,5 @@
   :assignee :ei-du-pont-de-nemours-and,
   :grant-year 1958,
   :cites ["US2162616" "US2178523" "US2519550" "US2551365" "US2734889"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:woodmont-products],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US2851380/en",
-  :title "Conductive ink and article coated therewith",
-  :status :granted,
-  :id "US2851380",
-  :sourcing :authoritative,
-  :filing-year 1953,
-  :assignee :woodmont-products,
-  :grant-year 1958,
-  :cites
-  ["US1837678"
-   "US2443741"
-   "US2485294"
-   "US2510503"
-   "US2608539"
-   "US2632751"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:foxboro],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US2851654/en",
-  :title "Amperometric differential measurement system",
-  :status :granted,
-  :id "US2851654",
-  :sourcing :authoritative,
-  :filing-year 1956,
-  :assignee :foxboro,
-  :grant-year 1958,
-  :cites
-  ["US1399200"
-   "US2173233"
-   "US2232211"
-   "US2289687"
-   "US2569100"
-   "US2615839"
-   "US2773237"],
   :term-years 20,
   :open-license :none}]
