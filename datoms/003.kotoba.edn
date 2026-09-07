@@ -1,4 +1,45 @@
 [[":db/add"
+  "hirameki-patent:US1903325"
+  ":hirameki/source"
+  "https://patents.google.com/patent/US1903325/en"]
+ [":db/add"
+  "hirameki-patent:US1904087"
+  ":hirameki.patent/title"
+  "Paper making process"]
+ [":db/add"
+  "hirameki-patent:US1904087"
+  ":hirameki.patent/jurisdiction"
+  ":us"]
+ [":db/add"
+  "hirameki-patent:US1904087"
+  ":hirameki.patent/field"
+  "UNKNOWN"]
+ [":db/add"
+  "hirameki-patent:US1904087"
+  ":hirameki.patent/assignee"
+  ":behr-manning"]
+ [":db/add"
+  "hirameki-patent:US1904087"
+  ":hirameki.patent/status"
+  ":granted"]
+ [":db/add"
+  "hirameki-patent:US1904087"
+  ":hirameki.patent/open-license"
+  ":none"]
+ [":db/add"
+  "hirameki-patent:US1904087"
+  ":hirameki.obs/release-status"
+  ":public-domain"]
+ [":db/add"
+  "hirameki-patent:US1904087"
+  ":hirameki/sourcing"
+  ":authoritative"]
+ [":db/add" "hirameki-patent:US1904087" ":hirameki/derived" true]
+ [":db/add"
+  "hirameki-patent:US1904087"
+  ":hirameki.obs/years-to-expiry"
+  -74]
+ [":db/add"
   "hirameki-patent:US1904087"
   ":hirameki/source"
   "https://patents.google.com/patent/US1904087/en"]
@@ -10402,42 +10443,5 @@
   ":us"]
  [":db/add"
   "hirameki-patent:US2233805"
-  ":hirameki.patent/field"
-  "UNKNOWN"]
- [":db/add"
-  "hirameki-patent:US2233805"
-  ":hirameki.patent/assignee"
-  ":unassigned"]
- [":db/add"
-  "hirameki-patent:US2233805"
-  ":hirameki.patent/status"
-  ":granted"]
- [":db/add"
-  "hirameki-patent:US2233805"
-  ":hirameki.patent/open-license"
-  ":none"]
- [":db/add"
-  "hirameki-patent:US2233805"
-  ":hirameki.obs/release-status"
-  ":in-force"]
- [":db/add"
-  "hirameki-patent:US2233805"
-  ":hirameki/sourcing"
-  ":authoritative"]
- [":db/add" "hirameki-patent:US2233805" ":hirameki/derived" true]
- [":db/add"
-  "hirameki-patent:US2233805"
-  ":hirameki/source"
-  "https://patents.google.com/patent/US2233805/en"]
- [":db/add"
-  "hirameki-patent:US2235798"
-  ":hirameki.patent/title"
-  "Grease-proofing paper"]
- [":db/add"
-  "hirameki-patent:US2235798"
-  ":hirameki.patent/jurisdiction"
-  ":us"]
- [":db/add"
-  "hirameki-patent:US2235798"
   ":hirameki.patent/field"
   "UNKNOWN"]]

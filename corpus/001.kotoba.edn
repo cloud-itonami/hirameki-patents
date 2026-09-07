@@ -829,6 +829,19 @@
   :grant-year 1932,
   :term-years 20,
   :open-license :none}
+ {:assignees [:agasote-millboard],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US1851177/en",
+  :title "Method of making resin coated pulpboard",
+  :status :granted,
+  :id "US1851177",
+  :sourcing :authoritative,
+  :filing-year 1928,
+  :assignee :agasote-millboard,
+  :grant-year 1932,
+  :term-years 20,
+  :open-license :none}
  {:assignees [:buttonless-tire-cover],
   :jurisdiction :us,
   :field "UNKNOWN",
@@ -5884,6 +5897,20 @@
   :grant-year 1943,
   :term-years 20,
   :open-license :none}
+ {:assignees [:general-electric],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2325376/en",
+  :title
+  "Condensation product of amidogen compounds, aldehydes, and ketoesters",
+  :status :granted,
+  :id "US2325376",
+  :sourcing :authoritative,
+  :filing-year 1940,
+  :assignee :general-electric,
+  :grant-year 1943,
+  :term-years 20,
+  :open-license :none}
  {:assignees [:warren-sd],
   :jurisdiction :us,
   :field "UNKNOWN",
@@ -7745,6 +7772,20 @@
   :grant-year 1947,
   :term-years 20,
   :open-license :none}
+ {:assignees [:st-regis-paper],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2415763/en",
+  :title "Heat-resisting laminated plastic and production thereof",
+  :status :granted,
+  :id "US2415763",
+  :sourcing :authoritative,
+  :filing-year 1946,
+  :assignee :st-regis-paper,
+  :grant-year 1947,
+  :cites ["US1731240" "US2077017"],
+  :term-years 20,
+  :open-license :none}
  {:assignees [:ei-du-pont-de-nemours-and],
   :jurisdiction :us,
   :field "UNKNOWN",
@@ -8777,6 +8818,20 @@
    "US414689"],
   :term-years 20,
   :open-license :none}
+ {:assignees [:westinghouse-electric],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2439929/en",
+  :title "Electrical insulation",
+  :status :granted,
+  :id "US2439929",
+  :sourcing :authoritative,
+  :filing-year 1942,
+  :assignee :westinghouse-electric,
+  :grant-year 1948,
+  :cites ["GB490688A" "US1915969" "US2073565" "US2286228" "US2328825"],
+  :term-years 20,
+  :open-license :none}
  {:assignees [:general-tire-and-rubber],
   :jurisdiction :us,
   :field "UNKNOWN",
@@ -9234,71 +9289,5 @@
    "US2333587"
    "US2346564"
    "US614002"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:kendall],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US2458166/en",
-  :title "Composite pressure-sensitive adhesive sheet material",
-  :status :granted,
-  :id "US2458166",
-  :sourcing :authoritative,
-  :filing-year 1944,
-  :assignee :kendall,
-  :grant-year 1949,
-  :cites ["US2253922" "US2269712" "US2295613"],
-  :term-years 20,
-  :open-license :none}
- {:jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US2458191/en",
-  :title "Resinous compositions of starch ethers with other resins",
-  :status :granted,
-  :id "US2458191",
-  :sourcing :authoritative,
-  :filing-year 1945,
-  :assignee :unassigned,
-  :grant-year 1949,
-  :cites ["DE579254C" "US2163305" "US2191520" "US2265937"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:eastman-kodak],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US2458348/en",
-  :title "Electric resistance film hygrometer",
-  :status :granted,
-  :id "US2458348",
-  :sourcing :authoritative,
-  :filing-year 1944,
-  :assignee :eastman-kodak,
-  :grant-year 1949,
-  :cites
-  ["US1293527"
-   "US1749826"
-   "US2047638"
-   "US2064651"
-   "US2175893"
-   "US2234858"
-   "US2237006"
-   "US2255734"
-   "US2285421"
-   "US2358406"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:rateau],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US2458600/en",
-  :title
-  "Aerodynamic propelling means operating through direct reaction jet and scavenging",
-  :status :granted,
-  :id "US2458600",
-  :sourcing :authoritative,
-  :filing-year 1945,
-  :assignee :rateau,
-  :grant-year 1949,
-  :cites ["US2385366" "US2396911"],
   :term-years 20,
   :open-license :none}]

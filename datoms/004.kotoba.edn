@@ -1,4 +1,41 @@
 [[":db/add"
+  "hirameki-patent:US2233805"
+  ":hirameki.patent/assignee"
+  ":unassigned"]
+ [":db/add"
+  "hirameki-patent:US2233805"
+  ":hirameki.patent/status"
+  ":granted"]
+ [":db/add"
+  "hirameki-patent:US2233805"
+  ":hirameki.patent/open-license"
+  ":none"]
+ [":db/add"
+  "hirameki-patent:US2233805"
+  ":hirameki.obs/release-status"
+  ":in-force"]
+ [":db/add"
+  "hirameki-patent:US2233805"
+  ":hirameki/sourcing"
+  ":authoritative"]
+ [":db/add" "hirameki-patent:US2233805" ":hirameki/derived" true]
+ [":db/add"
+  "hirameki-patent:US2233805"
+  ":hirameki/source"
+  "https://patents.google.com/patent/US2233805/en"]
+ [":db/add"
+  "hirameki-patent:US2235798"
+  ":hirameki.patent/title"
+  "Grease-proofing paper"]
+ [":db/add"
+  "hirameki-patent:US2235798"
+  ":hirameki.patent/jurisdiction"
+  ":us"]
+ [":db/add"
+  "hirameki-patent:US2235798"
+  ":hirameki.patent/field"
+  "UNKNOWN"]
+ [":db/add"
   "hirameki-patent:US2235798"
   ":hirameki.patent/assignee"
   ":dow-chemical"]
@@ -4776,6 +4813,47 @@
   "hirameki-patent:US2325302"
   ":hirameki/source"
   "https://patents.google.com/patent/US2325302/en"]
+ [":db/add"
+  "hirameki-patent:US2325376"
+  ":hirameki.patent/title"
+  "Condensation product of amidogen compounds, aldehydes, and ketoesters"]
+ [":db/add"
+  "hirameki-patent:US2325376"
+  ":hirameki.patent/jurisdiction"
+  ":us"]
+ [":db/add"
+  "hirameki-patent:US2325376"
+  ":hirameki.patent/field"
+  "UNKNOWN"]
+ [":db/add"
+  "hirameki-patent:US2325376"
+  ":hirameki.patent/assignee"
+  ":general-electric"]
+ [":db/add"
+  "hirameki-patent:US2325376"
+  ":hirameki.patent/status"
+  ":granted"]
+ [":db/add"
+  "hirameki-patent:US2325376"
+  ":hirameki.patent/open-license"
+  ":none"]
+ [":db/add"
+  "hirameki-patent:US2325376"
+  ":hirameki.obs/release-status"
+  ":public-domain"]
+ [":db/add"
+  "hirameki-patent:US2325376"
+  ":hirameki/sourcing"
+  ":authoritative"]
+ [":db/add" "hirameki-patent:US2325376" ":hirameki/derived" true]
+ [":db/add"
+  "hirameki-patent:US2325376"
+  ":hirameki.obs/years-to-expiry"
+  -66]
+ [":db/add"
+  "hirameki-patent:US2325376"
+  ":hirameki/source"
+  "https://patents.google.com/patent/US2325376/en"]
  [":db/add"
   "hirameki-patent:US2325798"
   ":hirameki.patent/title"
@@ -10359,82 +10437,4 @@
  [":db/add"
   "hirameki-patent:US2406905"
   ":hirameki.patent/jurisdiction"
-  ":us"]
- [":db/add"
-  "hirameki-patent:US2406905"
-  ":hirameki.patent/field"
-  "UNKNOWN"]
- [":db/add"
-  "hirameki-patent:US2406905"
-  ":hirameki.patent/assignee"
-  ":ei-du-pont-de-nemours-and"]
- [":db/add"
-  "hirameki-patent:US2406905"
-  ":hirameki.patent/status"
-  ":granted"]
- [":db/add"
-  "hirameki-patent:US2406905"
-  ":hirameki.patent/open-license"
-  ":none"]
- [":db/add"
-  "hirameki-patent:US2406905"
-  ":hirameki.obs/release-status"
-  ":public-domain"]
- [":db/add"
-  "hirameki-patent:US2406905"
-  ":hirameki/sourcing"
-  ":authoritative"]
- [":db/add" "hirameki-patent:US2406905" ":hirameki/derived" true]
- [":db/add"
-  "hirameki-patent:US2406905"
-  ":hirameki.obs/years-to-expiry"
-  -65]
- [":db/add"
-  "hirameki-patent:US2406905"
-  ":hirameki/source"
-  "https://patents.google.com/patent/US2406905/en"]
- [":db/add"
-  "hirameki-patent:US2407756"
-  ":hirameki.patent/title"
-  "Method for saturating fibrous sheet material"]
- [":db/add"
-  "hirameki-patent:US2407756"
-  ":hirameki.patent/jurisdiction"
-  ":us"]
- [":db/add"
-  "hirameki-patent:US2407756"
-  ":hirameki.patent/field"
-  "UNKNOWN"]
- [":db/add"
-  "hirameki-patent:US2407756"
-  ":hirameki.patent/assignee"
-  ":bird-and-son"]
- [":db/add"
-  "hirameki-patent:US2407756"
-  ":hirameki.patent/status"
-  ":granted"]
- [":db/add"
-  "hirameki-patent:US2407756"
-  ":hirameki.patent/open-license"
-  ":none"]
- [":db/add"
-  "hirameki-patent:US2407756"
-  ":hirameki.obs/release-status"
-  ":public-domain"]
- [":db/add"
-  "hirameki-patent:US2407756"
-  ":hirameki/sourcing"
-  ":authoritative"]
- [":db/add" "hirameki-patent:US2407756" ":hirameki/derived" true]
- [":db/add"
-  "hirameki-patent:US2407756"
-  ":hirameki.obs/years-to-expiry"
-  -63]
- [":db/add"
-  "hirameki-patent:US2407756"
-  ":hirameki/source"
-  "https://patents.google.com/patent/US2407756/en"]
- [":db/add"
-  "hirameki-patent:US2408058"
-  ":hirameki.patent/title"
-  "Hygroscopic material dispenser"]]
+  ":us"]]
