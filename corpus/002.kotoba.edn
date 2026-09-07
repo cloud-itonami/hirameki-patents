@@ -1,4 +1,145 @@
-[{:assignees [:kendall],
+[{:assignees [:dow-chemical],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2452080/en",
+  :title
+  "Method of continuously extruding vinylidene chloride polymer tubes and stretching the same",
+  :status :granted,
+  :id "US2452080",
+  :sourcing :authoritative,
+  :filing-year 1947,
+  :assignee :dow-chemical,
+  :grant-year 1948,
+  :cites ["GB524777A" "US2176925" "US2183602" "US2291670"],
+  :term-years 20,
+  :open-license :none}
+ {:jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2452666/en",
+  :title "Fish canning machine",
+  :status :granted,
+  :id "US2452666",
+  :sourcing :authoritative,
+  :filing-year 1944,
+  :assignee :unassigned,
+  :grant-year 1948,
+  :cites ["US1891870" "US2015089" "US556188"],
+  :term-years 20,
+  :open-license :none}
+ {:jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US245270/en",
+  :title "Can-filling machine",
+  :status :granted,
+  :id "US245270",
+  :sourcing :authoritative,
+  :assignee :unassigned,
+  :grant-year 1881,
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:ei-du-pont-de-nemours-and],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2453052/en",
+  :title
+  "Stain resistant plasticized polyvinyl chloride resin coatings",
+  :status :granted,
+  :id "US2453052",
+  :sourcing :authoritative,
+  :filing-year 1946,
+  :assignee :ei-du-pont-de-nemours-and,
+  :grant-year 1948,
+  :cites ["US2086428" "US2176997" "US2263900" "US2312913"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:square-d],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2454584/en",
+  :title "Hygrometer",
+  :status :granted,
+  :id "US2454584",
+  :sourcing :authoritative,
+  :filing-year 1944,
+  :assignee :square-d,
+  :grant-year 1948,
+  :cites
+  ["US1182759"
+   "US2047638"
+   "US2237006"
+   "US2285421"
+   "US2295570"
+   "US2358406"
+   "US409365"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:glidden],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2454796/en",
+  :title "Polymerization of rosin",
+  :status :granted,
+  :id "US2454796",
+  :sourcing :authoritative,
+  :filing-year 1946,
+  :assignee :glidden,
+  :grant-year 1948,
+  :cites ["US2263915" "US2298270"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:bf-goodrich],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2455652/en",
+  :title
+  "Nuclear halogenated 4, 4&#39;-bis-(alkenyl carbonato) diphenyl alkanes and polymers thereof",
+  :status :granted,
+  :id "US2455652",
+  :sourcing :authoritative,
+  :filing-year 1945,
+  :assignee :bf-goodrich,
+  :grant-year 1948,
+  :cites ["US2370571" "US2385932"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:ei-du-pont-de-nemours-and],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2455910/en",
+  :title "Method for curing ethylene polymers",
+  :status :granted,
+  :id "US2455910",
+  :sourcing :authoritative,
+  :filing-year 1945,
+  :assignee :ei-du-pont-de-nemours-and,
+  :grant-year 1948,
+  :cites ["US2334996" "US2360673"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:ivers-lee],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2457924/en",
+  :title "Package",
+  :status :granted,
+  :id "US2457924",
+  :sourcing :authoritative,
+  :filing-year 1945,
+  :assignee :ivers-lee,
+  :grant-year 1949,
+  :cites
+  ["US1413064"
+   "US1782526"
+   "US1840757"
+   "US2059392"
+   "US2069332"
+   "US2325021"
+   "US2333587"
+   "US2346564"
+   "US614002"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:kendall],
   :jurisdiction :us,
   :field "UNKNOWN",
   :source "https://patents.google.com/patent/US2458166/en",
@@ -7682,6 +7823,29 @@
   :cites ["US2332896" "US2481388" "US2562853"],
   :term-years 20,
   :open-license :none}
+ {:assignees [:united-aircraft],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2763624/en",
+  :title
+  "Polyester-polyisocyanate resins reinforced with fibers containing carbonamide groups",
+  :status :granted,
+  :id "US2763624",
+  :sourcing :authoritative,
+  :filing-year 1951,
+  :assignee :united-aircraft,
+  :grant-year 1956,
+  :cites
+  ["GB582807A"
+   "US1918187"
+   "US2140062"
+   "US2194036"
+   "US2430479"
+   "US2491409"
+   "US2529512"
+   "US2577281"],
+  :term-years 20,
+  :open-license :none}
  {:assignees [:lof-glass-fibers],
   :jurisdiction :us,
   :field "UNKNOWN",
@@ -7877,6 +8041,30 @@
   :assignee :exxon-research-and-engineering,
   :grant-year 1956,
   :cites ["US2290141" "US2347729" "US2381929" "US2696259"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:american-cyanamid],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2769796/en",
+  :title "Melamine-formaldehyde-polyamine condensation product",
+  :status :granted,
+  :id "US2769796",
+  :sourcing :authoritative,
+  :filing-year 1953,
+  :assignee :american-cyanamid,
+  :grant-year 1956,
+  :cites
+  ["GB663736A"
+   "US2334545"
+   "US2388235"
+   "US2407599"
+   "US2554475"
+   "US2601598"
+   "US2616874"
+   "US2632700"
+   "US2696504"
+   "US2699435"],
   :term-years 20,
   :open-license :none}
  {:assignees [:nordisk-insulinlaboratorium],
@@ -8077,6 +8265,26 @@
    "US2377868"
    "US2437799"
    "US2541005"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:monsanto-chemicals],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2773794/en",
+  :title "Melamine condensation products",
+  :status :granted,
+  :id "US2773794",
+  :sourcing :authoritative,
+  :filing-year 1953,
+  :assignee :monsanto-chemicals,
+  :grant-year 1956,
+  :cites
+  ["FR967064A"
+   "US2368451"
+   "US2385384"
+   "US2430708"
+   "US2484315"
+   "US2489145"],
   :term-years 20,
   :open-license :none}
  {:assignees [:bradford-dyers-association],
@@ -9750,194 +9958,5 @@
    "US2599518"
    "US2635048"
    "US2697100"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:polaroid],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US2857276/en",
-  :title "Photographic processes and compositions useful therein",
-  :status :granted,
-  :id "US2857276",
-  :sourcing :authoritative,
-  :filing-year 1954,
-  :assignee :polaroid,
-  :grant-year 1958,
-  :cites
-  ["US2534599"
-   "US2543181"
-   "US2551134"
-   "US2567109"
-   "US2590775"
-   "US2635048"],
-  :term-years 20,
-  :open-license :none}
- {:jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US2858356/en",
-  :title "High voltage transformer assemblies",
-  :status :granted,
-  :id "US2858356",
-  :sourcing :authoritative,
-  :filing-year 1953,
-  :assignee :unassigned,
-  :grant-year 1958,
-  :cites
-  ["GB613973A"
-   "US1543533"
-   "US1603580"
-   "US1690353"
-   "US1821016"
-   "US1976608"
-   "US2140707"
-   "US2184574"
-   "US2425250"
-   "US2454962"
-   "US743340"
-   "US756676"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:american-cyanamid],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US2858727/en",
-  :title "Device for the measurement of absolute turbidity",
-  :status :granted,
-  :id "US2858727",
-  :sourcing :authoritative,
-  :filing-year 1954,
-  :assignee :american-cyanamid,
-  :grant-year 1958,
-  :cites
-  ["US1277040"
-   "US1569342"
-   "US1971443"
-   "US2045124"
-   "US2213307"
-   "US2309268"
-   "US2436262"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:servo-of-america],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US2859653/en",
-  :title "Wide-angle prism scanner",
-  :status :granted,
-  :id "US2859653",
-  :sourcing :authoritative,
-  :filing-year 1955,
-  :assignee :servo-of-america,
-  :grant-year 1958,
-  :cites
-  ["GB670960A"
-   "US1697941"
-   "US2408115"
-   "US2465957"
-   "US2490899"
-   "US2506946"
-   "US2597001"
-   "US2779819"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:kimberly-clark],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US2860073/en",
-  :title "Method of coating paper",
-  :status :granted,
-  :id "US2860073",
-  :sourcing :authoritative,
-  :filing-year 1956,
-  :assignee :kimberly-clark,
-  :grant-year 1958,
-  :cites ["US2263575" "US2632714"],
-  :term-years 20,
-  :open-license :none}
- {:jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US2865719/en",
-  :title
-  "Method and composition for detecting phosphorylating compounds",
-  :status :granted,
-  :id "US2865719",
-  :sourcing :authoritative,
-  :filing-year 1956,
-  :assignee :unassigned,
-  :grant-year 1958,
-  :cites ["US1831894" "US691249"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:eastman-kodak],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US2865753/en",
-  :title
-  "Photographic emulsions containing a styrene-butadiene latex and photographic paper made therewith",
-  :status :granted,
-  :id "US2865753",
-  :sourcing :authoritative,
-  :filing-year 1955,
-  :assignee :eastman-kodak,
-  :grant-year 1958,
-  :cites ["US2284877" "US2410792" "US2604388"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:ei-du-pont-de-nemours-and],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US2867609/en",
-  :title "Preparation of polypyromellitimides",
-  :status :granted,
-  :id "US2867609",
-  :sourcing :authoritative,
-  :filing-year 1955,
-  :assignee :ei-du-pont-de-nemours-and,
-  :grant-year 1959,
-  :cites ["US2172274" "US2710853"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:dow-chemical],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US2867611/en",
-  :title
-  "Method for the preparation of polysulfonyl chlorides of styrene resins",
-  :status :granted,
-  :id "US2867611",
-  :sourcing :authoritative,
-  :filing-year 1955,
-  :assignee :dow-chemical,
-  :grant-year 1959,
-  :cites ["US2616917" "US2725368" "US2778813"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:fibreboard-paper-products],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US2869722/en",
-  :title
-  "Paper products having a release coating and method of preparation thereof",
-  :status :granted,
-  :id "US2869722",
-  :sourcing :authoritative,
-  :filing-year 1957,
-  :assignee :fibreboard-paper-products,
-  :grant-year 1959,
-  :cites ["US2510661" "US2588367" "US2646373" "US2656286" "US2690255"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:monsanto-chemicals],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US2870123/en",
-  :title "Polymeric aminonitriles",
-  :status :granted,
-  :id "US2870123",
-  :sourcing :authoritative,
-  :filing-year 1954,
-  :assignee :monsanto-chemicals,
-  :grant-year 1959,
-  :cites ["DE638071C" "US2228271" "US2387735" "US2653143"],
   :term-years 20,
   :open-license :none}]
