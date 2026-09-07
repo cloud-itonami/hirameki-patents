@@ -1,4 +1,299 @@
-[{:assignees [:akzona],
+[{:assignees [:nippon-kogaku],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US4297571/en",
+  :title "Focus detecting device",
+  :status :granted,
+  :id "US4297571",
+  :sourcing :authoritative,
+  :filing-year 1980,
+  :assignee :nippon-kogaku,
+  :grant-year 1981,
+  :cites ["US3875401" "US4083056" "US4250376"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:intec],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US4297587/en",
+  :title "Absolute DC system for a laser inspection system",
+  :status :granted,
+  :id "US4297587",
+  :sourcing :authoritative,
+  :filing-year 1980,
+  :assignee :intec,
+  :grant-year 1981,
+  :cites ["US3866054" "US3900265" "US3958127"],
+  :term-years 20,
+  :open-license :none}
+ {:jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US4298590/en",
+  :title "Detection of malignant tumor cells",
+  :status :granted,
+  :id "US4298590",
+  :sourcing :authoritative,
+  :filing-year 1978,
+  :assignee :unassigned,
+  :grant-year 1981,
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:abbott-laboratories],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US4298593/en",
+  :title
+  "Reagents and methods utilizing labeled Fab bound to antigens",
+  :status :granted,
+  :id "US4298593",
+  :sourcing :authoritative,
+  :filing-year 1979,
+  :assignee :abbott-laboratories,
+  :grant-year 1981,
+  :cites ["US4166106" "US4193982"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:burroughs-wellcome-usa],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US4298685/en",
+  :title "Diagnostic reagent",
+  :status :granted,
+  :id "US4298685",
+  :sourcing :authoritative,
+  :filing-year 1979,
+  :assignee :burroughs-wellcome-usa,
+  :grant-year 1981,
+  :cites ["US3839153" "US3852157" "US4017597" "US4134792"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:hoffmann-la-roche],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US4299815/en",
+  :title "Carcinoembryonic antigen determination",
+  :status :granted,
+  :id "US4299815",
+  :sourcing :authoritative,
+  :filing-year 1980,
+  :assignee :hoffmann-la-roche,
+  :grant-year 1981,
+  :cites
+  ["US3663684"
+   "US3697638"
+   "US3867363"
+   "US4098876"
+   "US4140753"
+   "US4180499"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:leland-stanford-junior-university],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US4302204/en",
+  :title "Transfer and detection of nucleic acids",
+  :status :granted,
+  :id "US4302204",
+  :sourcing :authoritative,
+  :filing-year 1979,
+  :assignee :leland-stanford-junior-university,
+  :grant-year 1981,
+  :cites ["US3730844" "US4072574" "US4139346"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:israel-institute-for-biological-research],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US4302534/en",
+  :title "Chemiluminescent enzyme immunoassay",
+  :status :granted,
+  :id "US4302534",
+  :sourcing :authoritative,
+  :filing-year 1978,
+  :assignee :israel-institute-for-biological-research,
+  :grant-year 1981,
+  :cites
+  ["DE2618419A1"
+   "DE2618511C3"
+   "US3359973"
+   "US3575812"
+   "US3791932"
+   "US3852157"
+   "US3999948"
+   "US4101383"
+   "US4104029"
+   "US4134792"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:fuji-photo-film],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US4302671/en",
+  :title "Radiation image read-out device",
+  :status :granted,
+  :id "US4302671",
+  :sourcing :authoritative,
+  :filing-year 1979,
+  :assignee :fuji-photo-film,
+  :grant-year 1981,
+  :cites ["US3859527" "US3975637"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:plessey-handel-und-investments],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US4304461/en",
+  :title "Optical fibre connectors",
+  :status :granted,
+  :id "US4304461",
+  :sourcing :authoritative,
+  :filing-year 1979,
+  :assignee :plessey-handel-und-investments,
+  :grant-year 1981,
+  :cites
+  ["DE2703887A1"
+   "FR2334969A1"
+   "NL7605819A"
+   "US3724383"
+   "US3950075"
+   "US4056307"
+   "US4109994"
+   "US4119362"
+   "US4135781"],
+  :term-years 20,
+  :open-license :none}
+ {:jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US4305926/en",
+  :title "Immobilization of Streptokinase",
+  :status :granted,
+  :id "US4305926",
+  :sourcing :authoritative,
+  :filing-year 1979,
+  :assignee :unassigned,
+  :grant-year 1981,
+  :cites
+  ["US3522346"
+   "US3639213"
+   "US3715277"
+   "US3730841"
+   "US3809605"
+   "US3826678"
+   "US3865726"
+   "US3875008"
+   "US3980772"
+   "US3985616"
+   "US4004979"
+   "US4004980"
+   "US4029767"
+   "US4061141"
+   "US4169014"
+   "US4178368"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees
+  [:max-planck-gesellschaft-zur-foerderung-der-wissenschaften-ev],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US4306877/en",
+  :title "Optical measurement of concentration",
+  :status :granted,
+  :id "US4306877",
+  :sourcing :authoritative,
+  :filing-year 1979,
+  :assignee
+  :max-planck-gesellschaft-zur-foerderung-der-wissenschaften-ev,
+  :grant-year 1981,
+  :cites ["US3907503" "US3918910" "US3932132" "US4003707"],
+  :term-years 20,
+  :open-license :none}
+ {:jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US4307189/en",
+  :title
+  "Method for the quantitative determination of terminal deoxynucleotidyl transferase in biological samples",
+  :status :granted,
+  :id "US4307189",
+  :sourcing :authoritative,
+  :filing-year 1980,
+  :assignee :unassigned,
+  :grant-year 1981,
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:genentech],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US4310662/en",
+  :title "Nucleosidic phosphorylating agent and methods",
+  :status :granted,
+  :id "US4310662",
+  :sourcing :authoritative,
+  :filing-year 1979,
+  :assignee :genentech,
+  :grant-year 1982,
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:american-hospital-supply],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US4311573/en",
+  :title
+  "Process for graft copolymerization of a pre-formed substrate",
+  :status :granted,
+  :id "US4311573",
+  :sourcing :authoritative,
+  :filing-year 1980,
+  :assignee :american-hospital-supply,
+  :grant-year 1982,
+  :cites
+  ["US3008920"
+   "US3070573"
+   "US3107206"
+   "US3453194"
+   "US3700573"
+   "US3959102"
+   "US4099859"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:damon],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US4311690/en",
+  :title "Test set and method for the determination of free hormones",
+  :status :granted,
+  :id "US4311690",
+  :sourcing :authoritative,
+  :filing-year 1979,
+  :assignee :damon,
+  :grant-year 1982,
+  :cites
+  ["US3716632"
+   "US3730684"
+   "US3816076"
+   "US3850577"
+   "US3911096"
+   "US3928553"
+   "US3929981"
+   "US3941564"
+   "US3947564"
+   "US4066410"],
+  :term-years 20,
+  :open-license :none}
+ {:jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US4311791/en",
+  :title
+  "Automated kinetic determination of lactate dehydrogenase isoenzymes in serum",
+  :status :granted,
+  :id "US4311791",
+  :sourcing :authoritative,
+  :filing-year 1980,
+  :assignee :unassigned,
+  :grant-year 1982,
+  :cites ["US3862010" "US4003795"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:akzona],
   :jurisdiction :us,
   :field "UNKNOWN",
   :source "https://patents.google.com/patent/US4313734/en",
@@ -84,6 +379,44 @@
   :assignee :merck-and,
   :grant-year 1982,
   :cites ["US3553358" "US3773426" "US3811036" "US4115010"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:ei-du-pont-de-nemours-and],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US4321169/en",
+  :title
+  "Water based alkyd resin coating composition containing a polyisocyanate crosslinking agent",
+  :status :granted,
+  :id "US4321169",
+  :sourcing :authoritative,
+  :filing-year 1980,
+  :assignee :ei-du-pont-de-nemours-and,
+  :grant-year 1982,
+  :cites
+  ["BE748475A"
+   "BE803346A"
+   "US3269967"
+   "US3376241"
+   "US3463750"
+   "US3474060"
+   "US3527721"
+   "US3660330"
+   "US3748293"
+   "US3761433"
+   "US3789037"
+   "US3844993"
+   "US3894978"
+   "US3980602"
+   "US4020216"
+   "US4056495"
+   "US4081411"
+   "US4102836"
+   "US4116902"
+   "US4116904"
+   "US4123404"
+   "US4132686"
+   "US4133786"],
   :term-years 20,
   :open-license :none}
  {:assignees [:carl-freudenberg-kg],
@@ -503,6 +836,31 @@
   :grant-year 1982,
   :cites
   ["GB2034324A" "US4160018" "US4160019" "US4174385" "US4201770"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:ford-motor],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US4350790/en",
+  :title "Composition with latent reactive catalyst",
+  :status :granted,
+  :id "US4350790",
+  :sourcing :authoritative,
+  :filing-year 1981,
+  :assignee :ford-motor,
+  :grant-year 1982,
+  :cites
+  ["DE2345114C3"
+   "DE2356768B1"
+   "US4083830"
+   "US4083892"
+   "US4137389"
+   "US4181784"
+   "US4181785"
+   "US4281075"
+   "US4291137"
+   "US4307208"
+   "US4323660"],
   :term-years 20,
   :open-license :none}
  {:assignees [:cetus],
@@ -1164,6 +1522,38 @@
   :grant-year 1983,
   :cites
   ["GB1517834A" "US3953643" "US3953644" "US3967045" "US4220675"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:ei-du-pont-de-nemours-and],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US4404248/en",
+  :title
+  "Clear coat/color coat finish from a high solids coating composition of a blend of a low molecular weight acrylic polymer and a medium molecular weight acrylic polymer and an alkylated melamine cross-linking agent",
+  :status :granted,
+  :id "US4404248",
+  :sourcing :authoritative,
+  :filing-year 1981,
+  :assignee :ei-du-pont-de-nemours-and,
+  :grant-year 1983,
+  :cites
+  ["CA856347A"
+   "US2681897"
+   "US2878237"
+   "US3267174"
+   "US3352806"
+   "US3540917"
+   "US3622651"
+   "US3637546"
+   "US3674734"
+   "US3773710"
+   "US3841895"
+   "US3846368"
+   "US3901840"
+   "US4102943"
+   "US4208465"
+   "US4221683"
+   "US4276212"],
   :term-years 20,
   :open-license :none}
  {:jurisdiction :us,
