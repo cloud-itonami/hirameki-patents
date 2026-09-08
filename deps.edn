@@ -12,6 +12,11 @@
                       io.github.cognitect-labs/test-runner
                       {:git/tag "v0.5.1" :git/sha "dfb30dd"}}
          :main-opts ["-m" "cognitect.test-runner" "-r" "hirameki-patents\\..*-test"]}}
- :deps {com.junkawasaki/multiformats-clj
+ :deps {
+        ;; kotoba.lang.text, not clojure.string. Pinned as an explicit floor:
+        ;; tools.deps takes the NEWEST sha it is shown, so without a floor here
+        ;; this repo silently rides whatever a sibling happens to name.
+        io.github.kotoba-lang/text {:git/sha "73bdb13ae7a3d004b44bca08be03a3191157a38f"}
+       com.junkawasaki/multiformats-clj
         {:git/url "https://github.com/com-junkawasaki/multiformats-clj.git"
          :git/sha "0f4ed68ff9e3cbf069569d897c9304713a14036c"}}}
