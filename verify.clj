@@ -12,7 +12,7 @@
 ;; whoever served you the file. Also checks the item counts add up — a CID
 ;; proves a shard is intact, never that the SET of shards is complete.
 (require '[hirameki-patents.checks :as checks]
-         '[clojure.string :as str])
+         '[kotoba.lang.text :as str])
 
 (let [problems (checks/verify-artifacts ".")]
   (if (seq problems)

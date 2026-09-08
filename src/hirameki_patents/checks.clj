@@ -17,7 +17,7 @@
   what to do with them."
   (:require [clojure.edn :as edn]
             [clojure.java.io :as io]
-            [clojure.string :as str]
+            [kotoba.lang.text :as str]
             [datascript.core :as d]
             [multiformats.core :as mf]))
 
