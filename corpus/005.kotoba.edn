@@ -1,4 +1,71 @@
-[{:assignees [:filtering-materials],
+[{:assignees [:general-electric],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3813316/en",
+  :title
+  "Microorganisms having multiple compatible degradative energy-generating plasmids and preparation thereof",
+  :status :granted,
+  :id "US3813316",
+  :sourcing :authoritative,
+  :filing-year 1972,
+  :assignee :general-electric,
+  :grant-year 1974,
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:olympus-optical],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3814081/en",
+  :title "Optical measuring catheter",
+  :status :granted,
+  :id "US3814081",
+  :sourcing :authoritative,
+  :filing-year 1972,
+  :assignee :olympus-optical,
+  :grant-year 1974,
+  :cites ["US3273447" "US3335715" "US3417745" "US3461856" "US3690769"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:miles-laboratories],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3814670/en",
+  :title "Test article for use in microbiology",
+  :status :granted,
+  :id "US3814670",
+  :sourcing :authoritative,
+  :filing-year 1972,
+  :assignee :miles-laboratories,
+  :grant-year 1974,
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:national-aeronautics-and-space-administration-nasa],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3814939/en",
+  :title "Chromato-fluorographic drug detector",
+  :status :granted,
+  :id "US3814939",
+  :sourcing :authoritative,
+  :filing-year 1973,
+  :assignee :national-aeronautics-and-space-administration-nasa,
+  :grant-year 1974,
+  :cites ["US2974227" "US3152251" "US3449571"],
+  :term-years 20,
+  :open-license :none}
+ {:jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3816263/en",
+  :title "Biological test",
+  :status :granted,
+  :id "US3816263",
+  :sourcing :authoritative,
+  :filing-year 1972,
+  :assignee :unassigned,
+  :grant-year 1974,
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:filtering-materials],
   :jurisdiction :us,
   :field "UNKNOWN",
   :source "https://patents.google.com/patent/US3817703/en",
@@ -1465,6 +1532,28 @@
   :assignee :damon,
   :grant-year 1975,
   :cites ["US3547586" "US3771961" "US3795484" "US3801466"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:hatrick-chemicals-pty],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3874898/en",
+  :title "Drying process and resultant product",
+  :status :granted,
+  :id "US3874898",
+  :sourcing :authoritative,
+  :filing-year 1972,
+  :assignee :hatrick-chemicals-pty,
+  :grant-year 1975,
+  :cites
+  ["US2439108"
+   "US2455936"
+   "US2652345"
+   "US2657151"
+   "US2973285"
+   "US3085897"
+   "US3100159"
+   "US3318722"],
   :term-years 20,
   :open-license :none}
  {:assignees [:asahi-chemical-industry],
@@ -6980,6 +7069,20 @@
   :cites ["US3336253" "US3947338" "US3962499"],
   :term-years 20,
   :open-license :none}
+ {:assignees [:hoechst],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US4105735/en",
+  :title "Process for flameproofing plastics",
+  :status :granted,
+  :id "US4105735",
+  :sourcing :authoritative,
+  :filing-year 1976,
+  :assignee :hoechst,
+  :grant-year 1978,
+  :cites ["US3488711" "US3663174" "US3951908"],
+  :term-years 20,
+  :open-license :none}
  {:assignees [:bp-north-america],
   :jurisdiction :us,
   :field "UNKNOWN",
@@ -8663,6 +8766,20 @@
   :cites ["US3935074" "US3940475" "US3949064"],
   :term-years 20,
   :open-license :none}
+ {:assignees [:rhone-poulenc-industries],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US4188313/en",
+  :title "Compositions intended for the flameproofing of plastics",
+  :status :granted,
+  :id "US4188313",
+  :sourcing :authoritative,
+  :filing-year 1976,
+  :assignee :rhone-poulenc-industries,
+  :grant-year 1980,
+  :cites ["US3477982" "US3883475"],
+  :term-years 20,
+  :open-license :none}
  {:assignees [:canon],
   :jurisdiction :us,
   :field "UNKNOWN",
@@ -9304,130 +9421,5 @@
   :assignee :bayer,
   :grant-year 1980,
   :cites ["US3641199" "US3677920" "US3678014" "US3873640" "US4018851"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:wisconsin-alumni-research-foundation],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US4223131/en",
-  :title "25-Hydroxycholecalciferol-26,23-lactone",
-  :status :granted,
-  :id "US4223131",
-  :sourcing :authoritative,
-  :filing-year 1979,
-  :assignee :wisconsin-alumni-research-foundation,
-  :grant-year 1980,
-  :term-years 20,
-  :open-license :none}
- {:assignees [:abbott-laboratories],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US4224408/en",
-  :title "Deoxyribonucleic acid synthesis using binding protein",
-  :status :granted,
-  :id "US4224408",
-  :sourcing :authoritative,
-  :filing-year 1978,
-  :assignee :abbott-laboratories,
-  :grant-year 1980,
-  :term-years 20,
-  :open-license :none}
- {:jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US4225229/en",
-  :title "Apparatus for measuring cytological properties",
-  :status :granted,
-  :id "US4225229",
-  :sourcing :authoritative,
-  :filing-year 1978,
-  :assignee :unassigned,
-  :grant-year 1980,
-  :cites
-  ["DE7333009U"
-   "US3740665"
-   "US3788744"
-   "US3811777"
-   "US3897154"
-   "US3902807"
-   "US3916205"
-   "US3984307"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:national-aeronautics-and-space-administration-nasa],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US4225372/en",
-  :title "Surface finishing",
-  :status :granted,
-  :id "US4225372",
-  :sourcing :authoritative,
-  :filing-year 1979,
-  :assignee :national-aeronautics-and-space-administration-nasa,
-  :grant-year 1980,
-  :cites
-  ["GB558419A"
-   "US1269420"
-   "US2828799"
-   "US3065940"
-   "US3271222"
-   "US3453166"
-   "US3607595"
-   "US3616197"
-   "US3841942"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:gruppo-lepetit-spa],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US4225574/en",
-  :title
-  "Method for determination of free hormones in biologic fluids",
-  :status :granted,
-  :id "US4225574",
-  :sourcing :authoritative,
-  :filing-year 1978,
-  :assignee :gruppo-lepetit-spa,
-  :grant-year 1980,
-  :cites ["US4020151" "US4046870"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:uniroyal],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US4225645/en",
-  :title "Flame-retardant polyurethane compositions",
-  :status :granted,
-  :id "US4225645",
-  :sourcing :authoritative,
-  :filing-year 1978,
-  :assignee :uniroyal,
-  :grant-year 1980,
-  :cites ["US3211676" "US3651803" "US3897372"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:smithkline-instrument],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US4225784/en",
-  :title
-  "Covalently bound biological substances to plastic materials and use in radioassay",
-  :status :granted,
-  :id "US4225784",
-  :sourcing :authoritative,
-  :filing-year 1976,
-  :assignee :smithkline-instrument,
-  :grant-year 1980,
-  :cites
-  ["GB1257263A"
-   "US3414383"
-   "US3505019"
-   "US3645852"
-   "US3646346"
-   "US3666854"
-   "US3826619"
-   "US3836433"
-   "US3941876"
-   "US3949064"
-   "US3951748"],
   :term-years 20,
   :open-license :none}]

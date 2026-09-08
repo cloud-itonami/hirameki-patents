@@ -1,4 +1,68 @@
-[{:assignees [:american-cyanamid],
+[{:assignees [:miles-laboratories],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2838377/en",
+  :title "Blood test",
+  :status :granted,
+  :id "US2838377",
+  :sourcing :authoritative,
+  :filing-year 1953,
+  :assignee :miles-laboratories,
+  :grant-year 1958,
+  :cites ["DE592923C" "US2290436" "US2387244" "US2418392" "US2567445"],
+  :term-years 20,
+  :open-license :none}
+ {:jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2843541/en",
+  :title "Electrophoretic deposition of barium titanate",
+  :status :granted,
+  :id "US2843541",
+  :sourcing :authoritative,
+  :filing-year 1956,
+  :assignee :unassigned,
+  :grant-year 1958,
+  :cites
+  ["DE850202C"
+   "GB325317A"
+   "US2426609"
+   "US2442864"
+   "US2462125"
+   "US2495630"
+   "US2536673"
+   "US2746888"
+   "US2757309"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:general-electric],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2843555/en",
+  :title "Room temperature curing organopolysiloxane",
+  :status :granted,
+  :id "US2843555",
+  :sourcing :authoritative,
+  :filing-year 1956,
+  :assignee :general-electric,
+  :grant-year 1958,
+  :cites ["CA460878A" "US2744878" "US2759904"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:pabst-brewing],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2844514/en",
+  :title "Process for the production of nucleotides",
+  :status :granted,
+  :id "US2844514",
+  :sourcing :authoritative,
+  :filing-year 1953,
+  :assignee :pabst-brewing,
+  :grant-year 1958,
+  :cites ["GB615891A" "US2101099" "US2152662" "US2606899"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:american-cyanamid],
   :jurisdiction :us,
   :field "UNKNOWN",
   :source "https://patents.google.com/patent/US2844576/en",
@@ -9770,64 +9834,5 @@
   :assignee :ajinomoto,
   :grant-year 1967,
   :cites ["US2719843" "US3167540" "US3180859"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:imperial-chemical-industries],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3317635/en",
-  :title
-  "Polymeric dispersion stabilizers for dispersions of synthetic polymers in organic liquids",
-  :status :granted,
-  :id "US3317635",
-  :sourcing :authoritative,
-  :filing-year 1963,
-  :assignee :imperial-chemical-industries,
-  :grant-year 1967,
-  :cites ["US2977334" "US3095388"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:technicon-instruments],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3319512/en",
-  :title
-  "Colorimeter having a plurality of flow cells that are successively moved to a test station",
-  :status :granted,
-  :id "US3319512",
-  :sourcing :authoritative,
-  :filing-year 1962,
-  :assignee :technicon-instruments,
-  :grant-year 1967,
-  :cites
-  ["US2672581"
-   "US2768370"
-   "US2797149"
-   "US3026764"
-   "US3046831"
-   "US3058226"
-   "US3090863"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:british-cellophane],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3320086/en",
-  :title "Coating travelling webs",
-  :status :granted,
-  :id "US3320086",
-  :sourcing :authoritative,
-  :filing-year 1962,
-  :assignee :british-cellophane,
-  :grant-year 1967,
-  :cites
-  ["GB774352A"
-   "US2325798"
-   "US2748027"
-   "US2762720"
-   "US2819984"
-   "US2919205"
-   "US3044896"
-   "US3108017"],
   :term-years 20,
   :open-license :none}]

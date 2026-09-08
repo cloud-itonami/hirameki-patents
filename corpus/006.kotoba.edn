@@ -1,4 +1,129 @@
-[{:assignees [:kansai-paint],
+[{:assignees [:wisconsin-alumni-research-foundation],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US4223131/en",
+  :title "25-Hydroxycholecalciferol-26,23-lactone",
+  :status :granted,
+  :id "US4223131",
+  :sourcing :authoritative,
+  :filing-year 1979,
+  :assignee :wisconsin-alumni-research-foundation,
+  :grant-year 1980,
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:abbott-laboratories],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US4224408/en",
+  :title "Deoxyribonucleic acid synthesis using binding protein",
+  :status :granted,
+  :id "US4224408",
+  :sourcing :authoritative,
+  :filing-year 1978,
+  :assignee :abbott-laboratories,
+  :grant-year 1980,
+  :term-years 20,
+  :open-license :none}
+ {:jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US4225229/en",
+  :title "Apparatus for measuring cytological properties",
+  :status :granted,
+  :id "US4225229",
+  :sourcing :authoritative,
+  :filing-year 1978,
+  :assignee :unassigned,
+  :grant-year 1980,
+  :cites
+  ["DE7333009U"
+   "US3740665"
+   "US3788744"
+   "US3811777"
+   "US3897154"
+   "US3902807"
+   "US3916205"
+   "US3984307"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:national-aeronautics-and-space-administration-nasa],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US4225372/en",
+  :title "Surface finishing",
+  :status :granted,
+  :id "US4225372",
+  :sourcing :authoritative,
+  :filing-year 1979,
+  :assignee :national-aeronautics-and-space-administration-nasa,
+  :grant-year 1980,
+  :cites
+  ["GB558419A"
+   "US1269420"
+   "US2828799"
+   "US3065940"
+   "US3271222"
+   "US3453166"
+   "US3607595"
+   "US3616197"
+   "US3841942"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:gruppo-lepetit-spa],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US4225574/en",
+  :title
+  "Method for determination of free hormones in biologic fluids",
+  :status :granted,
+  :id "US4225574",
+  :sourcing :authoritative,
+  :filing-year 1978,
+  :assignee :gruppo-lepetit-spa,
+  :grant-year 1980,
+  :cites ["US4020151" "US4046870"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:uniroyal],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US4225645/en",
+  :title "Flame-retardant polyurethane compositions",
+  :status :granted,
+  :id "US4225645",
+  :sourcing :authoritative,
+  :filing-year 1978,
+  :assignee :uniroyal,
+  :grant-year 1980,
+  :cites ["US3211676" "US3651803" "US3897372"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:smithkline-instrument],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US4225784/en",
+  :title
+  "Covalently bound biological substances to plastic materials and use in radioassay",
+  :status :granted,
+  :id "US4225784",
+  :sourcing :authoritative,
+  :filing-year 1976,
+  :assignee :smithkline-instrument,
+  :grant-year 1980,
+  :cites
+  ["GB1257263A"
+   "US3414383"
+   "US3505019"
+   "US3645852"
+   "US3646346"
+   "US3666854"
+   "US3826619"
+   "US3836433"
+   "US3941876"
+   "US3949064"
+   "US3951748"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:kansai-paint],
   :jurisdiction :us,
   :field "UNKNOWN",
   :source "https://patents.google.com/patent/US4226901/en",
@@ -596,6 +721,21 @@
    "US4089778"],
   :term-years 20,
   :open-license :none}
+ {:assignees [:herberts],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US4252703/en",
+  :title
+  "Cathodically depositable aqueous electro-dipping lacquer coating composition",
+  :status :granted,
+  :id "US4252703",
+  :sourcing :authoritative,
+  :filing-year 1979,
+  :assignee :herberts,
+  :grant-year 1981,
+  :cites ["US4037018" "US4139510"],
+  :term-years 20,
+  :open-license :none}
  {:assignees [:jdja-services],
   :jurisdiction :us,
   :field "UNKNOWN",
@@ -673,6 +813,21 @@
   :assignee :honeywell,
   :grant-year 1981,
   :cites ["US4002899" "US4078172"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:nippon-soda],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US4256621/en",
+  :title "Paint composition for cathodic electrodeposition",
+  :status :granted,
+  :id "US4256621",
+  :sourcing :authoritative,
+  :filing-year 1979,
+  :assignee :nippon-soda,
+  :grant-year 1981,
+  :cites
+  ["GB1206796A" "US4036795" "US4075148" "US4096106" "US4134866"],
   :term-years 20,
   :open-license :none}
  {:assignees [:becton-dickinson-and],
@@ -1269,6 +1424,31 @@
   :grant-year 1981,
   :term-years 20,
   :open-license :none}
+ {:assignees [:sumitomo-chemical],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US4294940/en",
+  :title "Resin composition for electrocoating",
+  :status :granted,
+  :id "US4294940",
+  :sourcing :authoritative,
+  :filing-year 1980,
+  :assignee :sumitomo-chemical,
+  :grant-year 1981,
+  :cites
+  ["GB1409728A"
+   "GB1449839A"
+   "US3883483"
+   "US3912566"
+   "US3922253"
+   "US4147676"
+   "US4148772"
+   "US4172193"
+   "US4174333"
+   "ZA774193B"
+   "ZA774194B"],
+  :term-years 20,
+  :open-license :none}
  {:assignees [:miles-laboratories],
   :jurisdiction :us,
   :field "UNKNOWN",
@@ -1672,6 +1852,21 @@
   :assignee :basf-farben-und-fasern,
   :grant-year 1982,
   :cites ["US3061459" "US3639147" "US4208465"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:basf-se],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US4315840/en",
+  :title "Preparation of cathodic electrocoating binders",
+  :status :granted,
+  :id "US4315840",
+  :sourcing :authoritative,
+  :filing-year 1979,
+  :assignee :basf-se,
+  :grant-year 1982,
+  :cites
+  ["DE2603666A1" "GB1302328A" "US3391097" "US3947338" "US3947339"],
   :term-years 20,
   :open-license :none}
  {:assignees [:trimetal-paint :wyns-bristol-peintures],
@@ -2414,6 +2609,28 @@
   :grant-year 1982,
   :term-years 20,
   :open-license :none}
+ {:assignees [:herberts],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US4364860/en",
+  :title
+  "Cathodically depositable aqueous electro-dipping lacquer coating composition",
+  :status :granted,
+  :id "US4364860",
+  :sourcing :authoritative,
+  :filing-year 1980,
+  :assignee :herberts,
+  :grant-year 1982,
+  :cites
+  ["US3337533"
+   "US3391097"
+   "US3480601"
+   "US3523925"
+   "US4031050"
+   "US4037018"
+   "US4139510"],
+  :term-years 20,
+  :open-license :none}
  {:assignees [:amersham-international],
   :jurisdiction :us,
   :field "UNKNOWN",
@@ -2547,6 +2764,21 @@
   :cites ["US3994870" "US4041146" "US4289747"],
   :term-years 20,
   :open-license :none}
+ {:assignees [:herberts],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US4373059/en",
+  :title
+  "Pre-condensed, thermosetting aqueous varnish coating agent and its utilization for cathodic deposition upon electrically conducting surfaces",
+  :status :granted,
+  :id "US4373059",
+  :sourcing :authoritative,
+  :filing-year 1980,
+  :assignee :herberts,
+  :grant-year 1983,
+  :cites ["US4072770" "US4101497"],
+  :term-years 20,
+  :open-license :none}
  {:assignees [:beckman-research-institute-of-city-of-hope],
   :jurisdiction :us,
   :field "UNKNOWN",
@@ -2565,6 +2797,21 @@
    "US4066827"
    "US4217421"
    "US4276395"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:herberts],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US4373072/en",
+  :title
+  "Self-cross-linking, thermosetting, aqueous lacquer coating material, and its utilization for the cathodic deposition upon electrically conducting surfaces",
+  :status :granted,
+  :id "US4373072",
+  :sourcing :authoritative,
+  :filing-year 1980,
+  :assignee :herberts,
+  :grant-year 1983,
+  :cites ["US3484408" "US3658761" "US3793417" "US4037018"],
   :term-years 20,
   :open-license :none}
  {:assignees [:peintures-corona],
@@ -3009,6 +3256,20 @@
   ["SU649751A1" "US3798131" "US3899297" "US4257774" "US4345027"],
   :term-years 20,
   :open-license :none}
+ {:assignees [:takeda-chemical-industries],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US4408034/en",
+  :title "Method for curing urethane resins",
+  :status :granted,
+  :id "US4408034",
+  :sourcing :authoritative,
+  :filing-year 1982,
+  :assignee :takeda-chemical-industries,
+  :grant-year 1983,
+  :cites ["US3874898"],
+  :term-years 20,
+  :open-license :none}
  {:assignees [:toyo-jozo],
   :jurisdiction :us,
   :field "UNKNOWN",
@@ -3393,6 +3654,35 @@
    "US4268536"],
   :term-years 20,
   :open-license :none}
+ {:assignees [:takeda-chemical-industries],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US4443590/en",
+  :title
+  "Composition for polyurethane resins and production of the same",
+  :status :granted,
+  :id "US4443590",
+  :sourcing :authoritative,
+  :filing-year 1982,
+  :assignee :takeda-chemical-industries,
+  :grant-year 1984,
+  :cites ["US3799898" "US3810851" "US4046721"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:takeda-chemical-industries],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US4443597/en",
+  :title "Polyisocyanates",
+  :status :granted,
+  :id "US4443597",
+  :sourcing :authoritative,
+  :filing-year 1982,
+  :assignee :takeda-chemical-industries,
+  :grant-year 1984,
+  :cites ["US3748329"],
+  :term-years 20,
+  :open-license :none}
  {:assignees [:boston-biomedical-research-institute],
   :jurisdiction :us,
   :field "UNKNOWN",
@@ -3592,6 +3882,21 @@
    "US4248992"
    "US4265634"
    "US4360471"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:takeda-chemical-industries],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US4456744/en",
+  :title
+  "Composition for producing polyurethane resin at ambient temperature",
+  :status :granted,
+  :id "US4456744",
+  :sourcing :authoritative,
+  :filing-year 1982,
+  :assignee :takeda-chemical-industries,
+  :grant-year 1984,
+  :cites ["GB1145952A" "US3730953"],
   :term-years 20,
   :open-license :none}
  {:assignees [:university-patents],
@@ -9627,268 +9932,5 @@
    "WO1989003432A1"
    "WO1989009283A1"
    "WO1990013666A1"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:affymax-technologies],
-  :jurisdiction :wo,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/WO1991007087A1/en",
-  :title
-  "Spatially-addressable immobilization of anti-ligands on surfaces",
-  :status :pending,
-  :id "WO1991007087A1",
-  :sourcing :authoritative,
-  :filing-year 1990,
-  :assignee :affymax-technologies,
-  :cites
-  ["US4016043"
-   "US4371515"
-   "US4557998"
-   "US4567902"
-   "US4656252"
-   "US4709044"
-   "US4722906"
-   "US4775745"
-   "US4895809"
-   "US4898951"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:uniroyal-adhesives-and-sealants],
-  :jurisdiction :wo,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/WO1992002568A1/en",
-  :title
-  "Aqueous polyurethane dispersion synthesis for adhesive thermoforming applications",
-  :status :pending,
-  :id "WO1992002568A1",
-  :sourcing :authoritative,
-  :filing-year 1991,
-  :assignee :uniroyal-adhesives-and-sealants,
-  :cites ["US4558090" "US4762880"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:ei-du-pont-de-nemours-and :kansai-paint],
-  :jurisdiction :wo,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/WO1994027741A1/en",
-  :title "Process for forming overcoat",
-  :status :pending,
-  :id "WO1994027741A1",
-  :sourcing :authoritative,
-  :filing-year 1993,
-  :assignee :ei-du-pont-de-nemours-and,
-  :cites ["EP0263429A2" "EP0275138A2" "US4732790" "US4732791"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:basf-lacke-und-farben :nippon-oil-and-fats],
-  :jurisdiction :wo,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/WO1996022339A1/en",
-  :title "Water-based paint composition",
-  :status :pending,
-  :id "WO1996022339A1",
-  :sourcing :authoritative,
-  :filing-year 1996,
-  :assignee :basf-lacke-und-farben,
-  :cites ["EP0292004A2" "GB2060654A" "US3821145" "US5308890"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:avco :textron-automotive-interiors],
-  :jurisdiction :wo,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/WO1996033026A1/en",
-  :title "Radiation cured island coating system",
-  :status :pending,
-  :id "WO1996033026A1",
-  :sourcing :authoritative,
-  :filing-year 1996,
-  :assignee :avco,
-  :cites ["US4713143" "US5320869"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:kansai-paint],
-  :jurisdiction :wo,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/WO1997047396A1/en",
-  :title "Method for forming multi-layer metallic coating",
-  :status :pending,
-  :id "WO1997047396A1",
-  :sourcing :authoritative,
-  :filing-year 1997,
-  :assignee :kansai-paint,
-  :term-years 20,
-  :open-license :none}
- {:assignees [:basf-coatings],
-  :jurisdiction :wo,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/WO1998055526A1/en",
-  :title
-  "Coating agent, method for its production and its use as coating lacquer or transparent lacquer, in particular for coating plastics",
-  :status :pending,
-  :id "WO1998055526A1",
-  :sourcing :authoritative,
-  :filing-year 1998,
-  :assignee :basf-coatings,
-  :cites ["DE3109604A1" "EP0518779A1" "US5145893" "US5504178"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:ppg-industries-ohio],
-  :jurisdiction :wo,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/WO2000035600A1/en",
-  :title "Methods for forming composite coatings on substrates",
-  :status :pending,
-  :id "WO2000035600A1",
-  :sourcing :authoritative,
-  :filing-year 1999,
-  :assignee :ppg-industries-ohio,
-  :cites ["EP0238037A2" "EP0899314A1" "US4731290"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:mitsui-chemicals],
-  :jurisdiction :wo,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/WO2002010296A1/en",
-  :title
-  "Aqueous dispersion composition for imparting chipping resistance",
-  :status :pending,
-  :id "WO2002010296A1",
-  :sourcing :authoritative,
-  :filing-year 2001,
-  :assignee :mitsui-chemicals,
-  :cites ["JP2000160059A" "JP2000160094A" "JP2000345097A" "US4174335"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:idemitsu-petrochemical],
-  :jurisdiction :wo,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/WO2002024714A1/en",
-  :title
-  "Transition metal compounds, polymerization catalysts for olefins, olefin polymers and process for their production",
-  :status :pending,
-  :id "WO2002024714A1",
-  :sourcing :authoritative,
-  :filing-year 2001,
-  :assignee :idemitsu-petrochemical,
-  :cites ["JP2000095808A" "JP2001064314A"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:basf-coatings],
-  :jurisdiction :wo,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/WO2002096572A2/en",
-  :title
-  "Aqueous functional coating material and integrated method for production of coloured or effect-generating multi-layer coatings",
-  :status :pending,
-  :id "WO2002096572A2",
-  :sourcing :authoritative,
-  :filing-year 2002,
-  :assignee :basf-coatings,
-  :term-years 20,
-  :open-license :none}
- {:assignees [:nippon-paint],
-  :jurisdiction :wo,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/WO2004061025A1/en",
-  :title
-  "Aqueous intercoating composition and method for forming multilayer coating films",
-  :status :pending,
-  :id "WO2004061025A1",
-  :sourcing :authoritative,
-  :filing-year 2003,
-  :assignee :nippon-paint,
-  :cites ["GB2360227A" "US5635251" "WO1996022339A1"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:kansai-paint],
-  :jurisdiction :wo,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/WO2004074327A1/en",
-  :title "Process for producing aqueous resin dispersion",
-  :status :pending,
-  :id "WO2004074327A1",
-  :sourcing :authoritative,
-  :filing-year 2004,
-  :assignee :kansai-paint,
-  :cites ["JP2000095980A" "JP2000226537A" "JP2003231859A"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:ishihara-sangyo-kaisha :kansai-paint],
-  :jurisdiction :wo,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/WO2005012449A1/en",
-  :title
-  "White electrically conducting primer composition and process for forming multilayer coating films",
-  :status :pending,
-  :id "WO2005012449A1",
-  :sourcing :authoritative,
-  :filing-year 2004,
-  :assignee :ishihara-sangyo-kaisha,
-  :cites
-  ["JP2001139875A" "JP2002020107A" "JP2002121462A" "JP2004075735A"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:kansai-paint],
-  :jurisdiction :wo,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/WO2006009219A1/en",
-  :title
-  "Thermosetting water-based coating composition and method of forming coating film",
-  :status :pending,
-  :id "WO2006009219A1",
-  :sourcing :authoritative,
-  :filing-year 2005,
-  :assignee :kansai-paint,
-  :cites
-  ["JP2002179988A"
-   "JP2002273332A"
-   "JP2003053255A"
-   "JP2003117481A"
-   "JP2004051784A"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:kansai-paint],
-  :jurisdiction :wo,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/WO2006019171A1/en",
-  :title "Water-based primer composition",
-  :status :pending,
-  :id "WO2006019171A1",
-  :sourcing :authoritative,
-  :filing-year 2005,
-  :assignee :kansai-paint,
-  :cites
-  ["JP2004018635A"
-   "JP2004051808A"
-   "JP2004115712A"
-   "JP2004156029A"
-   "JP2004331911A"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:kansai-paint],
-  :jurisdiction :wo,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/WO2007119760A1/en",
-  :title "Aqueous primer composition",
-  :status :pending,
-  :id "WO2007119760A1",
-  :sourcing :authoritative,
-  :filing-year 2007,
-  :assignee :kansai-paint,
-  :cites ["JP2005112953A" "JP2005126615A" "WO2005012449A1"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:kansai-paint],
-  :jurisdiction :wo,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/WO2007119762A1/en",
-  :title "Aqueous coating composition",
-  :status :pending,
-  :id "WO2007119762A1",
-  :sourcing :authoritative,
-  :filing-year 2007,
-  :assignee :kansai-paint,
-  :cites
-  ["JP2000154204A" "JP2005343966A" "JP2006176618A" "WO2006009219A1"],
   :term-years 20,
   :open-license :none}]

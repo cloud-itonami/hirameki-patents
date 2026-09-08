@@ -1,4 +1,81 @@
-[{:jurisdiction :us,
+[{:assignees [:westinghouse-electric],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US1519239/en",
+  :title "Airplane-covering material",
+  :status :granted,
+  :id "US1519239",
+  :sourcing :authoritative,
+  :filing-year 1921,
+  :assignee :westinghouse-electric,
+  :grant-year 1924,
+  :term-years 20,
+  :open-license :none}
+ {:jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US1523286/en",
+  :title "Packer",
+  :status :granted,
+  :id "US1523286",
+  :sourcing :authoritative,
+  :filing-year 1923,
+  :assignee :unassigned,
+  :grant-year 1925,
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:monongah-glass],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US1524641/en",
+  :title "Apparatus for handling glassware",
+  :status :granted,
+  :id "US1524641",
+  :sourcing :authoritative,
+  :filing-year 1922,
+  :assignee :monongah-glass,
+  :grant-year 1925,
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:barber-asphalt],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US1525829/en",
+  :title "Machine for coating sheet roofing and the like",
+  :status :granted,
+  :id "US1525829",
+  :sourcing :authoritative,
+  :filing-year 1921,
+  :assignee :barber-asphalt,
+  :grant-year 1925,
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:leeds-and-northrup],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US1530833/en",
+  :title "Control method and apparatus",
+  :status :granted,
+  :id "US1530833",
+  :sourcing :authoritative,
+  :filing-year 1920,
+  :assignee :leeds-and-northrup,
+  :grant-year 1925,
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:ford-motor],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US1535447/en",
+  :title "Machine for forming artificial leather or the like",
+  :status :granted,
+  :id "US1535447",
+  :sourcing :authoritative,
+  :filing-year 1922,
+  :assignee :ford-motor,
+  :grant-year 1925,
+  :term-years 20,
+  :open-license :none}
+ {:jurisdiction :us,
   :field "UNKNOWN",
   :source "https://patents.google.com/patent/US1535927/en",
   :title "Beverage cooler",
@@ -9216,91 +9293,5 @@
    "US2258222"
    "US2371068"
    "US2375998"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:sylvania-electric-products],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US2442863/en",
-  :title "Electrophoresis coating of electron tube parts",
-  :status :granted,
-  :id "US2442863",
-  :sourcing :authoritative,
-  :filing-year 1944,
-  :assignee :sylvania-electric-products,
-  :grant-year 1948,
-  :cites
-  ["GB325317A"
-   "GB444723A"
-   "GB514849A"
-   "US2236861"
-   "US2307018"
-   "US2376047"
-   "US2376535"],
-  :term-years 20,
-  :open-license :none}
- {:jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US2443373/en",
-  :title "Method of removing carbon and carbonaceous matter",
-  :status :granted,
-  :id "US2443373",
-  :sourcing :authoritative,
-  :filing-year 1943,
-  :assignee :unassigned,
-  :grant-year 1948,
-  :cites
-  ["US1081950"
-   "US1901803"
-   "US1982484"
-   "US2313730"
-   "US503556"
-   "US731055"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:ei-du-pont-de-nemours-and],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US2443450/en",
-  :title
-  "Article coated with nu-alkoxymethyl polyamide and process of making same",
-  :status :granted,
-  :id "US2443450",
-  :sourcing :authoritative,
-  :filing-year 1943,
-  :assignee :ei-du-pont-de-nemours-and,
-  :grant-year 1948,
-  :cites
-  ["US2071250"
-   "US2096181"
-   "US2141169"
-   "US2173005"
-   "US2188332"
-   "US2244184"
-   "US2252554"
-   "US2292442"
-   "US2317181"
-   "US2412993"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:american-cyanamid],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US2443739/en",
-  :title
-  "Copolymer of modified unsaturated alkyd resin and polyallyl ester",
-  :status :granted,
-  :id "US2443739",
-  :sourcing :authoritative,
-  :filing-year 1944,
-  :assignee :american-cyanamid,
-  :grant-year 1948,
-  :cites
-  ["US1921756"
-   "US2005414"
-   "US2155590"
-   "US2195362"
-   "US2202846"
-   "US2255313"],
   :term-years 20,
   :open-license :none}]

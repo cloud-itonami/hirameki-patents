@@ -1,4 +1,63 @@
-[{:assignees [:technicon-instruments],
+[{:assignees [:imperial-chemical-industries],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3317635/en",
+  :title
+  "Polymeric dispersion stabilizers for dispersions of synthetic polymers in organic liquids",
+  :status :granted,
+  :id "US3317635",
+  :sourcing :authoritative,
+  :filing-year 1963,
+  :assignee :imperial-chemical-industries,
+  :grant-year 1967,
+  :cites ["US2977334" "US3095388"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:technicon-instruments],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3319512/en",
+  :title
+  "Colorimeter having a plurality of flow cells that are successively moved to a test station",
+  :status :granted,
+  :id "US3319512",
+  :sourcing :authoritative,
+  :filing-year 1962,
+  :assignee :technicon-instruments,
+  :grant-year 1967,
+  :cites
+  ["US2672581"
+   "US2768370"
+   "US2797149"
+   "US3026764"
+   "US3046831"
+   "US3058226"
+   "US3090863"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:british-cellophane],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3320086/en",
+  :title "Coating travelling webs",
+  :status :granted,
+  :id "US3320086",
+  :sourcing :authoritative,
+  :filing-year 1962,
+  :assignee :british-cellophane,
+  :grant-year 1967,
+  :cites
+  ["GB774352A"
+   "US2325798"
+   "US2748027"
+   "US2762720"
+   "US2819984"
+   "US2919205"
+   "US3044896"
+   "US3108017"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:technicon-instruments],
   :jurisdiction :us,
   :field "UNKNOWN",
   :source "https://patents.google.com/patent/US3320148/en",
@@ -7502,6 +7561,21 @@
   :grant-year 1973,
   :term-years 20,
   :open-license :none}
+ {:assignees [:takeda-chemical-industries],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3730953/en",
+  :title
+  "Process for producing high molecular polyurethanes by reacting oxadiazinones with polyols in the presence of an organotin catalyst",
+  :status :granted,
+  :id "US3730953",
+  :sourcing :authoritative,
+  :filing-year 1971,
+  :assignee :takeda-chemical-industries,
+  :grant-year 1973,
+  :cites ["FR1419914A" "GB1145952A"],
+  :term-years 20,
+  :open-license :none}
  {:assignees [:farmitalla-soc],
   :jurisdiction :us,
   :field "UNKNOWN",
@@ -9012,73 +9086,6 @@
   :sourcing :authoritative,
   :filing-year 1972,
   :assignee :research,
-  :grant-year 1974,
-  :term-years 20,
-  :open-license :none}
- {:assignees [:general-electric],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3813316/en",
-  :title
-  "Microorganisms having multiple compatible degradative energy-generating plasmids and preparation thereof",
-  :status :granted,
-  :id "US3813316",
-  :sourcing :authoritative,
-  :filing-year 1972,
-  :assignee :general-electric,
-  :grant-year 1974,
-  :term-years 20,
-  :open-license :none}
- {:assignees [:olympus-optical],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3814081/en",
-  :title "Optical measuring catheter",
-  :status :granted,
-  :id "US3814081",
-  :sourcing :authoritative,
-  :filing-year 1972,
-  :assignee :olympus-optical,
-  :grant-year 1974,
-  :cites ["US3273447" "US3335715" "US3417745" "US3461856" "US3690769"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:miles-laboratories],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3814670/en",
-  :title "Test article for use in microbiology",
-  :status :granted,
-  :id "US3814670",
-  :sourcing :authoritative,
-  :filing-year 1972,
-  :assignee :miles-laboratories,
-  :grant-year 1974,
-  :term-years 20,
-  :open-license :none}
- {:assignees [:national-aeronautics-and-space-administration-nasa],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3814939/en",
-  :title "Chromato-fluorographic drug detector",
-  :status :granted,
-  :id "US3814939",
-  :sourcing :authoritative,
-  :filing-year 1973,
-  :assignee :national-aeronautics-and-space-administration-nasa,
-  :grant-year 1974,
-  :cites ["US2974227" "US3152251" "US3449571"],
-  :term-years 20,
-  :open-license :none}
- {:jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3816263/en",
-  :title "Biological test",
-  :status :granted,
-  :id "US3816263",
-  :sourcing :authoritative,
-  :filing-year 1972,
-  :assignee :unassigned,
   :grant-year 1974,
   :term-years 20,
   :open-license :none}]

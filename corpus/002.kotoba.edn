@@ -1,4 +1,90 @@
-[{:assignees [:american-cyanamid],
+[{:assignees [:sylvania-electric-products],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2442863/en",
+  :title "Electrophoresis coating of electron tube parts",
+  :status :granted,
+  :id "US2442863",
+  :sourcing :authoritative,
+  :filing-year 1944,
+  :assignee :sylvania-electric-products,
+  :grant-year 1948,
+  :cites
+  ["GB325317A"
+   "GB444723A"
+   "GB514849A"
+   "US2236861"
+   "US2307018"
+   "US2376047"
+   "US2376535"],
+  :term-years 20,
+  :open-license :none}
+ {:jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2443373/en",
+  :title "Method of removing carbon and carbonaceous matter",
+  :status :granted,
+  :id "US2443373",
+  :sourcing :authoritative,
+  :filing-year 1943,
+  :assignee :unassigned,
+  :grant-year 1948,
+  :cites
+  ["US1081950"
+   "US1901803"
+   "US1982484"
+   "US2313730"
+   "US503556"
+   "US731055"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:ei-du-pont-de-nemours-and],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2443450/en",
+  :title
+  "Article coated with nu-alkoxymethyl polyamide and process of making same",
+  :status :granted,
+  :id "US2443450",
+  :sourcing :authoritative,
+  :filing-year 1943,
+  :assignee :ei-du-pont-de-nemours-and,
+  :grant-year 1948,
+  :cites
+  ["US2071250"
+   "US2096181"
+   "US2141169"
+   "US2173005"
+   "US2188332"
+   "US2244184"
+   "US2252554"
+   "US2292442"
+   "US2317181"
+   "US2412993"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:american-cyanamid],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2443739/en",
+  :title
+  "Copolymer of modified unsaturated alkyd resin and polyallyl ester",
+  :status :granted,
+  :id "US2443739",
+  :sourcing :authoritative,
+  :filing-year 1944,
+  :assignee :american-cyanamid,
+  :grant-year 1948,
+  :cites
+  ["US1921756"
+   "US2005414"
+   "US2155590"
+   "US2195362"
+   "US2202846"
+   "US2255313"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:american-cyanamid],
   :jurisdiction :us,
   :field "UNKNOWN",
   :source "https://patents.google.com/patent/US2443741/en",
@@ -9860,69 +9946,5 @@
    "US2430479"
    "US2650212"
    "US2713884"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:miles-laboratories],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US2838377/en",
-  :title "Blood test",
-  :status :granted,
-  :id "US2838377",
-  :sourcing :authoritative,
-  :filing-year 1953,
-  :assignee :miles-laboratories,
-  :grant-year 1958,
-  :cites ["DE592923C" "US2290436" "US2387244" "US2418392" "US2567445"],
-  :term-years 20,
-  :open-license :none}
- {:jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US2843541/en",
-  :title "Electrophoretic deposition of barium titanate",
-  :status :granted,
-  :id "US2843541",
-  :sourcing :authoritative,
-  :filing-year 1956,
-  :assignee :unassigned,
-  :grant-year 1958,
-  :cites
-  ["DE850202C"
-   "GB325317A"
-   "US2426609"
-   "US2442864"
-   "US2462125"
-   "US2495630"
-   "US2536673"
-   "US2746888"
-   "US2757309"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:general-electric],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US2843555/en",
-  :title "Room temperature curing organopolysiloxane",
-  :status :granted,
-  :id "US2843555",
-  :sourcing :authoritative,
-  :filing-year 1956,
-  :assignee :general-electric,
-  :grant-year 1958,
-  :cites ["CA460878A" "US2744878" "US2759904"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:pabst-brewing],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US2844514/en",
-  :title "Process for the production of nucleotides",
-  :status :granted,
-  :id "US2844514",
-  :sourcing :authoritative,
-  :filing-year 1953,
-  :assignee :pabst-brewing,
-  :grant-year 1958,
-  :cites ["GB615891A" "US2101099" "US2152662" "US2606899"],
   :term-years 20,
   :open-license :none}]
