@@ -1,4 +1,45 @@
 [[":db/add"
+  "hirameki-patent:US2950799"
+  ":hirameki.patent/field"
+  "UNKNOWN"]
+ [":db/add"
+  "hirameki-patent:US2950799"
+  ":hirameki.patent/assignee"
+  ":unassigned"]
+ [":db/add"
+  "hirameki-patent:US2950799"
+  ":hirameki.patent/status"
+  ":granted"]
+ [":db/add"
+  "hirameki-patent:US2950799"
+  ":hirameki.patent/open-license"
+  ":none"]
+ [":db/add"
+  "hirameki-patent:US2950799"
+  ":hirameki.obs/release-status"
+  ":public-domain"]
+ [":db/add"
+  "hirameki-patent:US2950799"
+  ":hirameki/sourcing"
+  ":authoritative"]
+ [":db/add" "hirameki-patent:US2950799" ":hirameki/derived" true]
+ [":db/add"
+  "hirameki-patent:US2950799"
+  ":hirameki.obs/years-to-expiry"
+  -54]
+ [":db/add"
+  "hirameki-patent:US2950799"
+  ":hirameki/source"
+  "https://patents.google.com/patent/US2950799/en"]
+ [":db/add"
+  "hirameki-patent:US2951772"
+  ":hirameki.patent/title"
+  "Treatments for fibrous glass used to reinforce resins"]
+ [":db/add"
+  "hirameki-patent:US2951772"
+  ":hirameki.patent/jurisdiction"
+  ":us"]
+ [":db/add"
   "hirameki-patent:US2951772"
   ":hirameki.patent/field"
   "UNKNOWN"]
@@ -10273,45 +10314,4 @@
   "hirameki-patent:US3166186"
   ":hirameki/sourcing"
   ":authoritative"]
- [":db/add" "hirameki-patent:US3166186" ":hirameki/derived" true]
- [":db/add"
-  "hirameki-patent:US3166186"
-  ":hirameki.obs/years-to-expiry"
-  -44]
- [":db/add"
-  "hirameki-patent:US3166186"
-  ":hirameki/source"
-  "https://patents.google.com/patent/US3166186/en"]
- [":db/add"
-  "hirameki-patent:US3166435"
-  ":hirameki.patent/title"
-  "Drying process for hydrophilic films"]
- [":db/add"
-  "hirameki-patent:US3166435"
-  ":hirameki.patent/jurisdiction"
-  ":us"]
- [":db/add"
-  "hirameki-patent:US3166435"
-  ":hirameki.patent/field"
-  "UNKNOWN"]
- [":db/add"
-  "hirameki-patent:US3166435"
-  ":hirameki.patent/assignee"
-  ":ei-du-pont-de-nemours-and"]
- [":db/add"
-  "hirameki-patent:US3166435"
-  ":hirameki.patent/status"
-  ":granted"]
- [":db/add"
-  "hirameki-patent:US3166435"
-  ":hirameki.patent/open-license"
-  ":none"]
- [":db/add"
-  "hirameki-patent:US3166435"
-  ":hirameki.obs/release-status"
-  ":public-domain"]
- [":db/add"
-  "hirameki-patent:US3166435"
-  ":hirameki/sourcing"
-  ":authoritative"]
- [":db/add" "hirameki-patent:US3166435" ":hirameki/derived" true]]
+ [":db/add" "hirameki-patent:US3166186" ":hirameki/derived" true]]

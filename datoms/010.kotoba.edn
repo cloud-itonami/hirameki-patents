@@ -1,4 +1,45 @@
 [[":db/add"
+  "hirameki-patent:US3403353"
+  ":hirameki.obs/release-status"
+  ":public-domain"]
+ [":db/add"
+  "hirameki-patent:US3403353"
+  ":hirameki/sourcing"
+  ":authoritative"]
+ [":db/add" "hirameki-patent:US3403353" ":hirameki/derived" true]
+ [":db/add"
+  "hirameki-patent:US3403353"
+  ":hirameki.obs/years-to-expiry"
+  -41]
+ [":db/add"
+  "hirameki-patent:US3403353"
+  ":hirameki/source"
+  "https://patents.google.com/patent/US3403353/en"]
+ [":db/add"
+  "hirameki-patent:US3404049"
+  ":hirameki.patent/title"
+  "Method of shaping a crystal by acid cutting"]
+ [":db/add"
+  "hirameki-patent:US3404049"
+  ":hirameki.patent/jurisdiction"
+  ":us"]
+ [":db/add"
+  "hirameki-patent:US3404049"
+  ":hirameki.patent/field"
+  "UNKNOWN"]
+ [":db/add"
+  "hirameki-patent:US3404049"
+  ":hirameki.patent/assignee"
+  ":deutsche-itt-industries"]
+ [":db/add"
+  "hirameki-patent:US3404049"
+  ":hirameki.patent/status"
+  ":granted"]
+ [":db/add"
+  "hirameki-patent:US3404049"
+  ":hirameki.patent/open-license"
+  ":none"]
+ [":db/add"
   "hirameki-patent:US3404049"
   ":hirameki.obs/release-status"
   ":public-domain"]
@@ -10185,46 +10226,5 @@
   "Treated silicone surface"]
  [":db/add"
   "hirameki-patent:US3632386"
-  ":hirameki.patent/jurisdiction"
-  ":us"]
- [":db/add"
-  "hirameki-patent:US3632386"
-  ":hirameki.patent/field"
-  "UNKNOWN"]
- [":db/add"
-  "hirameki-patent:US3632386"
-  ":hirameki.patent/assignee"
-  ":arbco"]
- [":db/add"
-  "hirameki-patent:US3632386"
-  ":hirameki.patent/status"
-  ":granted"]
- [":db/add"
-  "hirameki-patent:US3632386"
-  ":hirameki.patent/open-license"
-  ":none"]
- [":db/add"
-  "hirameki-patent:US3632386"
-  ":hirameki.obs/release-status"
-  ":public-domain"]
- [":db/add"
-  "hirameki-patent:US3632386"
-  ":hirameki/sourcing"
-  ":authoritative"]
- [":db/add" "hirameki-patent:US3632386" ":hirameki/derived" true]
- [":db/add"
-  "hirameki-patent:US3632386"
-  ":hirameki.obs/years-to-expiry"
-  -37]
- [":db/add"
-  "hirameki-patent:US3632386"
-  ":hirameki/source"
-  "https://patents.google.com/patent/US3632386/en"]
- [":db/add"
-  "hirameki-patent:US3632388"
-  ":hirameki.patent/title"
-  "Preactivation conditioner for electroless metal plating system"]
- [":db/add"
-  "hirameki-patent:US3632388"
   ":hirameki.patent/jurisdiction"
   ":us"]]

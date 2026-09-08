@@ -5187,6 +5187,20 @@
   :grant-year 1972,
   :term-years 20,
   :open-license :none}
+ {:assignees [:celanese-coatings],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3640926/en",
+  :title
+  "Aqueous dispersions of epoxy resin esters and method of preparing same",
+  :status :granted,
+  :id "US3640926",
+  :sourcing :authoritative,
+  :filing-year 1969,
+  :assignee :celanese-coatings,
+  :grant-year 1972,
+  :term-years 20,
+  :open-license :none}
  {:assignees [:stauffer-chemical],
   :jurisdiction :us,
   :field "UNKNOWN",
@@ -6958,6 +6972,20 @@
   :sourcing :authoritative,
   :filing-year 1970,
   :assignee :sun-oil,
+  :grant-year 1973,
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:shell-oil],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3719626/en",
+  :title
+  "Curable aqueous mixture of(1)adduct of polyglycidyl ether and allylamine and(2)carboxylic acid",
+  :status :granted,
+  :id "US3719626",
+  :sourcing :authoritative,
+  :filing-year 1969,
+  :assignee :shell-oil,
   :grant-year 1973,
   :term-years 20,
   :open-license :none}
@@ -9063,40 +9091,6 @@
   :sourcing :authoritative,
   :filing-year 1973,
   :assignee :dexter-c-&-sons,
-  :grant-year 1974,
-  :term-years 20,
-  :open-license :none}
- {:assignees [:whittaker],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3837339/en",
-  :title
-  "Blood glucose level monitoring-alarm system and method therefor",
-  :status :granted,
-  :id "US3837339",
-  :sourcing :authoritative,
-  :filing-year 1972,
-  :assignee :whittaker,
-  :grant-year 1974,
-  :cites
-  ["FR1444363A"
-   "US3143111"
-   "US3144019"
-   "US3216411"
-   "US3453546"
-   "US3682160"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:f-hoffmann-la-roche],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3838033/en",
-  :title "Enzyme electrode",
-  :status :granted,
-  :id "US3838033",
-  :sourcing :authoritative,
-  :filing-year 1972,
-  :assignee :f-hoffmann-la-roche,
   :grant-year 1974,
   :term-years 20,
   :open-license :none}]

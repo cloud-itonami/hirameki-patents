@@ -1,4 +1,45 @@
 [[":db/add"
+  "hirameki-patent:JP2004131565A"
+  ":hirameki/source"
+  "https://patents.google.com/patent/JP2004131565A/en"]
+ [":db/add"
+  "hirameki-patent:JP2004156029A"
+  ":hirameki.patent/title"
+  "Primer composition"]
+ [":db/add"
+  "hirameki-patent:JP2004156029A"
+  ":hirameki.patent/jurisdiction"
+  ":jp"]
+ [":db/add"
+  "hirameki-patent:JP2004156029A"
+  ":hirameki.patent/field"
+  "UNKNOWN"]
+ [":db/add"
+  "hirameki-patent:JP2004156029A"
+  ":hirameki.patent/assignee"
+  ":yokohama-rubber"]
+ [":db/add"
+  "hirameki-patent:JP2004156029A"
+  ":hirameki.patent/status"
+  ":pending"]
+ [":db/add"
+  "hirameki-patent:JP2004156029A"
+  ":hirameki.patent/open-license"
+  ":none"]
+ [":db/add"
+  "hirameki-patent:JP2004156029A"
+  ":hirameki.obs/release-status"
+  ":pending"]
+ [":db/add"
+  "hirameki-patent:JP2004156029A"
+  ":hirameki/sourcing"
+  ":authoritative"]
+ [":db/add" "hirameki-patent:JP2004156029A" ":hirameki/derived" true]
+ [":db/add"
+  "hirameki-patent:JP2004156029A"
+  ":hirameki.obs/years-to-expiry"
+  -3]
+ [":db/add"
   "hirameki-patent:JP2004156029A"
   ":hirameki/source"
   "https://patents.google.com/patent/JP2004156029A/en"]
@@ -10176,45 +10217,4 @@
  [":db/add"
   "hirameki-patent:US1887691"
   ":hirameki.obs/years-to-expiry"
-  -75]
- [":db/add"
-  "hirameki-patent:US1887691"
-  ":hirameki/source"
-  "https://patents.google.com/patent/US1887691/en"]
- [":db/add"
-  "hirameki-patent:US1894467"
-  ":hirameki.patent/title"
-  "Production of foils and apparatus therefor"]
- [":db/add"
-  "hirameki-patent:US1894467"
-  ":hirameki.patent/jurisdiction"
-  ":us"]
- [":db/add"
-  "hirameki-patent:US1894467"
-  ":hirameki.patent/field"
-  "UNKNOWN"]
- [":db/add"
-  "hirameki-patent:US1894467"
-  ":hirameki.patent/assignee"
-  ":ig-farbenindustrie"]
- [":db/add"
-  "hirameki-patent:US1894467"
-  ":hirameki.patent/status"
-  ":granted"]
- [":db/add"
-  "hirameki-patent:US1894467"
-  ":hirameki.patent/open-license"
-  ":none"]
- [":db/add"
-  "hirameki-patent:US1894467"
-  ":hirameki.obs/release-status"
-  ":public-domain"]
- [":db/add"
-  "hirameki-patent:US1894467"
-  ":hirameki/sourcing"
-  ":authoritative"]
- [":db/add" "hirameki-patent:US1894467" ":hirameki/derived" true]
- [":db/add"
-  "hirameki-patent:US1894467"
-  ":hirameki.obs/years-to-expiry"
-  -76]]
+  -75]]

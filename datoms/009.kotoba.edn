@@ -1,4 +1,45 @@
 [[":db/add"
+  "hirameki-patent:US3166186"
+  ":hirameki.obs/years-to-expiry"
+  -44]
+ [":db/add"
+  "hirameki-patent:US3166186"
+  ":hirameki/source"
+  "https://patents.google.com/patent/US3166186/en"]
+ [":db/add"
+  "hirameki-patent:US3166435"
+  ":hirameki.patent/title"
+  "Drying process for hydrophilic films"]
+ [":db/add"
+  "hirameki-patent:US3166435"
+  ":hirameki.patent/jurisdiction"
+  ":us"]
+ [":db/add"
+  "hirameki-patent:US3166435"
+  ":hirameki.patent/field"
+  "UNKNOWN"]
+ [":db/add"
+  "hirameki-patent:US3166435"
+  ":hirameki.patent/assignee"
+  ":ei-du-pont-de-nemours-and"]
+ [":db/add"
+  "hirameki-patent:US3166435"
+  ":hirameki.patent/status"
+  ":granted"]
+ [":db/add"
+  "hirameki-patent:US3166435"
+  ":hirameki.patent/open-license"
+  ":none"]
+ [":db/add"
+  "hirameki-patent:US3166435"
+  ":hirameki.obs/release-status"
+  ":public-domain"]
+ [":db/add"
+  "hirameki-patent:US3166435"
+  ":hirameki/sourcing"
+  ":authoritative"]
+ [":db/add" "hirameki-patent:US3166435" ":hirameki/derived" true]
+ [":db/add"
   "hirameki-patent:US3166435"
   ":hirameki.obs/years-to-expiry"
   -45]
@@ -10221,46 +10262,5 @@
   ":granted"]
  [":db/add"
   "hirameki-patent:US3403353"
-  ":hirameki.patent/open-license"
-  ":none"]
- [":db/add"
-  "hirameki-patent:US3403353"
-  ":hirameki.obs/release-status"
-  ":public-domain"]
- [":db/add"
-  "hirameki-patent:US3403353"
-  ":hirameki/sourcing"
-  ":authoritative"]
- [":db/add" "hirameki-patent:US3403353" ":hirameki/derived" true]
- [":db/add"
-  "hirameki-patent:US3403353"
-  ":hirameki.obs/years-to-expiry"
-  -41]
- [":db/add"
-  "hirameki-patent:US3403353"
-  ":hirameki/source"
-  "https://patents.google.com/patent/US3403353/en"]
- [":db/add"
-  "hirameki-patent:US3404049"
-  ":hirameki.patent/title"
-  "Method of shaping a crystal by acid cutting"]
- [":db/add"
-  "hirameki-patent:US3404049"
-  ":hirameki.patent/jurisdiction"
-  ":us"]
- [":db/add"
-  "hirameki-patent:US3404049"
-  ":hirameki.patent/field"
-  "UNKNOWN"]
- [":db/add"
-  "hirameki-patent:US3404049"
-  ":hirameki.patent/assignee"
-  ":deutsche-itt-industries"]
- [":db/add"
-  "hirameki-patent:US3404049"
-  ":hirameki.patent/status"
-  ":granted"]
- [":db/add"
-  "hirameki-patent:US3404049"
   ":hirameki.patent/open-license"
   ":none"]]

@@ -1,4 +1,45 @@
 [[":db/add"
+  "hirameki-patent:US2757152"
+  ":hirameki.patent/status"
+  ":granted"]
+ [":db/add"
+  "hirameki-patent:US2757152"
+  ":hirameki.patent/open-license"
+  ":none"]
+ [":db/add"
+  "hirameki-patent:US2757152"
+  ":hirameki.obs/release-status"
+  ":public-domain"]
+ [":db/add"
+  "hirameki-patent:US2757152"
+  ":hirameki/sourcing"
+  ":authoritative"]
+ [":db/add" "hirameki-patent:US2757152" ":hirameki/derived" true]
+ [":db/add"
+  "hirameki-patent:US2757152"
+  ":hirameki.obs/years-to-expiry"
+  -54]
+ [":db/add"
+  "hirameki-patent:US2757152"
+  ":hirameki/source"
+  "https://patents.google.com/patent/US2757152/en"]
+ [":db/add"
+  "hirameki-patent:US2758079"
+  ":hirameki.patent/title"
+  "Electrolytic determination of the concentration of a constituent in a fluid"]
+ [":db/add"
+  "hirameki-patent:US2758079"
+  ":hirameki.patent/jurisdiction"
+  ":us"]
+ [":db/add"
+  "hirameki-patent:US2758079"
+  ":hirameki.patent/field"
+  "UNKNOWN"]
+ [":db/add"
+  "hirameki-patent:US2758079"
+  ":hirameki.patent/assignee"
+  ":leeds-and-northrup"]
+ [":db/add"
   "hirameki-patent:US2758079"
   ":hirameki.patent/status"
   ":granted"]
@@ -10234,46 +10275,5 @@
   "Apparatus for identifying paper money, or the like, as genuine, and for making change or the like"]
  [":db/add"
   "hirameki-patent:US2950799"
-  ":hirameki.patent/jurisdiction"
-  ":us"]
- [":db/add"
-  "hirameki-patent:US2950799"
-  ":hirameki.patent/field"
-  "UNKNOWN"]
- [":db/add"
-  "hirameki-patent:US2950799"
-  ":hirameki.patent/assignee"
-  ":unassigned"]
- [":db/add"
-  "hirameki-patent:US2950799"
-  ":hirameki.patent/status"
-  ":granted"]
- [":db/add"
-  "hirameki-patent:US2950799"
-  ":hirameki.patent/open-license"
-  ":none"]
- [":db/add"
-  "hirameki-patent:US2950799"
-  ":hirameki.obs/release-status"
-  ":public-domain"]
- [":db/add"
-  "hirameki-patent:US2950799"
-  ":hirameki/sourcing"
-  ":authoritative"]
- [":db/add" "hirameki-patent:US2950799" ":hirameki/derived" true]
- [":db/add"
-  "hirameki-patent:US2950799"
-  ":hirameki.obs/years-to-expiry"
-  -54]
- [":db/add"
-  "hirameki-patent:US2950799"
-  ":hirameki/source"
-  "https://patents.google.com/patent/US2950799/en"]
- [":db/add"
-  "hirameki-patent:US2951772"
-  ":hirameki.patent/title"
-  "Treatments for fibrous glass used to reinforce resins"]
- [":db/add"
-  "hirameki-patent:US2951772"
   ":hirameki.patent/jurisdiction"
   ":us"]]

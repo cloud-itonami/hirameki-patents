@@ -1,4 +1,45 @@
 [[":db/add"
+  "hirameki-patent:US2398082"
+  ":hirameki.patent/field"
+  "UNKNOWN"]
+ [":db/add"
+  "hirameki-patent:US2398082"
+  ":hirameki.patent/assignee"
+  ":wingfoot"]
+ [":db/add"
+  "hirameki-patent:US2398082"
+  ":hirameki.patent/status"
+  ":granted"]
+ [":db/add"
+  "hirameki-patent:US2398082"
+  ":hirameki.patent/open-license"
+  ":none"]
+ [":db/add"
+  "hirameki-patent:US2398082"
+  ":hirameki.obs/release-status"
+  ":public-domain"]
+ [":db/add"
+  "hirameki-patent:US2398082"
+  ":hirameki/sourcing"
+  ":authoritative"]
+ [":db/add" "hirameki-patent:US2398082" ":hirameki/derived" true]
+ [":db/add"
+  "hirameki-patent:US2398082"
+  ":hirameki.obs/years-to-expiry"
+  -63]
+ [":db/add"
+  "hirameki-patent:US2398082"
+  ":hirameki/source"
+  "https://patents.google.com/patent/US2398082/en"]
+ [":db/add"
+  "hirameki-patent:US2398843"
+  ":hirameki.patent/title"
+  "Apparatus for coating paper"]
+ [":db/add"
+  "hirameki-patent:US2398843"
+  ":hirameki.patent/jurisdiction"
+  ":us"]
+ [":db/add"
   "hirameki-patent:US2398843"
   ":hirameki.patent/field"
   "UNKNOWN"]
@@ -10306,45 +10347,4 @@
  [":db/add"
   "hirameki-patent:US2583274"
   ":hirameki.obs/years-to-expiry"
-  -59]
- [":db/add"
-  "hirameki-patent:US2583274"
-  ":hirameki/source"
-  "https://patents.google.com/patent/US2583274/en"]
- [":db/add"
-  "hirameki-patent:US2584052"
-  ":hirameki.patent/title"
-  "Apparatus for counting blood corpuscles"]
- [":db/add"
-  "hirameki-patent:US2584052"
-  ":hirameki.patent/jurisdiction"
-  ":us"]
- [":db/add"
-  "hirameki-patent:US2584052"
-  ":hirameki.patent/field"
-  "UNKNOWN"]
- [":db/add"
-  "hirameki-patent:US2584052"
-  ":hirameki.patent/assignee"
-  ":unassigned"]
- [":db/add"
-  "hirameki-patent:US2584052"
-  ":hirameki.patent/status"
-  ":granted"]
- [":db/add"
-  "hirameki-patent:US2584052"
-  ":hirameki.patent/open-license"
-  ":none"]
- [":db/add"
-  "hirameki-patent:US2584052"
-  ":hirameki.obs/release-status"
-  ":public-domain"]
- [":db/add"
-  "hirameki-patent:US2584052"
-  ":hirameki/sourcing"
-  ":authoritative"]
- [":db/add" "hirameki-patent:US2584052" ":hirameki/derived" true]
- [":db/add"
-  "hirameki-patent:US2584052"
-  ":hirameki.obs/years-to-expiry"
-  -57]]
+  -59]]

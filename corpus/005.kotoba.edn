@@ -1,4 +1,38 @@
-[{:assignees [:fuji-photo-film],
+[{:assignees [:whittaker],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3837339/en",
+  :title
+  "Blood glucose level monitoring-alarm system and method therefor",
+  :status :granted,
+  :id "US3837339",
+  :sourcing :authoritative,
+  :filing-year 1972,
+  :assignee :whittaker,
+  :grant-year 1974,
+  :cites
+  ["FR1444363A"
+   "US3143111"
+   "US3144019"
+   "US3216411"
+   "US3453546"
+   "US3682160"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:f-hoffmann-la-roche],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3838033/en",
+  :title "Enzyme electrode",
+  :status :granted,
+  :id "US3838033",
+  :sourcing :authoritative,
+  :filing-year 1972,
+  :assignee :f-hoffmann-la-roche,
+  :grant-year 1974,
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:fuji-photo-film],
   :jurisdiction :us,
   :field "UNKNOWN",
   :source "https://patents.google.com/patent/US3838926/en",
@@ -2094,6 +2128,20 @@
    "US3793088"],
   :term-years 20,
   :open-license :none}
+ {:assignees [:ppg-industries],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3922253/en",
+  :title "Self-crosslinking cationic electrodepositable compositions",
+  :status :granted,
+  :id "US3922253",
+  :sourcing :authoritative,
+  :filing-year 1973,
+  :assignee :ppg-industries,
+  :grant-year 1975,
+  :cites ["US3721647" "US3723372" "US3770703"],
+  :term-years 20,
+  :open-license :none}
  {:assignees [:technicon-instruments],
   :jurisdiction :us,
   :field "UNKNOWN",
@@ -2697,6 +2745,21 @@
   :cites ["US3405017" "US3482977" "US3520683" "US3586554" "US3716390"],
   :term-years 20,
   :open-license :none}
+ {:assignees [:ppg-industries],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3947338/en",
+  :title
+  "Method of electrodepositing self-crosslinking cationic compositions",
+  :status :granted,
+  :id "US3947338",
+  :sourcing :authoritative,
+  :filing-year 1975,
+  :assignee :ppg-industries,
+  :grant-year 1976,
+  :cites ["US3617458" "US3799854" "US3891527"],
+  :term-years 20,
+  :open-license :none}
  {:jurisdiction :us,
   :field "UNKNOWN",
   :source "https://patents.google.com/patent/US3947352/en",
@@ -2904,6 +2967,49 @@
    "US3798459"
    "US3804533"
    "US3829223"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:ford-motor],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3953643/en",
+  :title "Method for coating and product",
+  :status :granted,
+  :id "US3953643",
+  :sourcing :authoritative,
+  :filing-year 1974,
+  :assignee :ford-motor,
+  :grant-year 1976,
+  :cites
+  ["US2760886"
+   "US2952564"
+   "US3107227"
+   "US3218280"
+   "US3245932"
+   "US3821145"
+   "US3850734"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:ford-motor],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3953644/en",
+  :title "Powa--method for coating and product",
+  :status :granted,
+  :id "US3953644",
+  :sourcing :authoritative,
+  :filing-year 1974,
+  :assignee :ford-motor,
+  :grant-year 1976,
+  :cites
+  ["US3107227"
+   "US3215756"
+   "US3218280"
+   "US3245932"
+   "US3467730"
+   "US3821145"
+   "US3850664"
+   "US3850734"],
   :term-years 20,
   :open-license :none}
  {:assignees [:ppg-industries],
@@ -3316,6 +3422,30 @@
   :assignee :pharmacia-diagnostics,
   :grant-year 1976,
   :cites ["US3859430"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:toyota-central-r&d-labs],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3967045/en",
+  :title "Pre-coated metal sheet",
+  :status :granted,
+  :id "US3967045",
+  :sourcing :authoritative,
+  :filing-year 1974,
+  :assignee :toyota-central-r&d-labs,
+  :grant-year 1976,
+  :cites
+  ["US2904526"
+   "US2947716"
+   "US2994676"
+   "US3236914"
+   "US3311583"
+   "US3445544"
+   "US3551374"
+   "US3658947"
+   "US3719521"
+   "US3856883"],
   :term-years 20,
   :open-license :none}
  {:jurisdiction :us,
@@ -5424,6 +5554,26 @@
   :cites ["US3492396" "US3837376" "US3843444" "US3849830" "US3873682"],
   :term-years 20,
   :open-license :none}
+ {:assignees [:ppg-industries],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US4055607/en",
+  :title "Acrylic coating compositions",
+  :status :granted,
+  :id "US4055607",
+  :sourcing :authoritative,
+  :filing-year 1975,
+  :assignee :ppg-industries,
+  :grant-year 1977,
+  :cites
+  ["GB967051A"
+   "US3365414"
+   "US3652472"
+   "US3666710"
+   "US3702836"
+   "US3745137"],
+  :term-years 20,
+  :open-license :none}
  {:assignees [:perkin-elmer],
   :jurisdiction :us,
   :field "UNKNOWN",
@@ -6256,6 +6406,21 @@
    "US4000252"],
   :term-years 20,
   :open-license :none}
+ {:assignees [:ppg-industries],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US4104147/en",
+  :title
+  "Process for cationic electrodeposition of amine acid salt-containing polymers",
+  :status :granted,
+  :id "US4104147",
+  :sourcing :authoritative,
+  :filing-year 1977,
+  :assignee :ppg-industries,
+  :grant-year 1978,
+  :cites ["US3336253" "US3947338" "US3962499"],
+  :term-years 20,
+  :open-license :none}
  {:assignees [:bp-north-america],
   :jurisdiction :us,
   :field "UNKNOWN",
@@ -6441,6 +6606,29 @@
    "US4012200"],
   :term-years 20,
   :open-license :none}
+ {:assignees [:celanese-polymer-specialties],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US4116900/en",
+  :title
+  "Cathodic electrocoating resin system from polyepoxide, polyamine, and monoepoxide",
+  :status :granted,
+  :id "US4116900",
+  :sourcing :authoritative,
+  :filing-year 1978,
+  :assignee :celanese-polymer-specialties,
+  :grant-year 1978,
+  :cites
+  ["US2872428"
+   "US2909448"
+   "US2970971"
+   "US3449278"
+   "US3462383"
+   "US3635842"
+   "US3673558"
+   "US3702351"],
+  :term-years 20,
+  :open-license :none}
  {:assignees [:mcdonnell-douglas],
   :jurisdiction :us,
   :field "UNKNOWN",
@@ -6558,6 +6746,21 @@
   :assignee :unassigned,
   :grant-year 1978,
   :cites ["US3057775" "US3974526" "US3988782"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:dulux-australia],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US4120768/en",
+  :title
+  "Process for electrocoating aqueous coating composition comprising dispersion in water of ionizable salt of epoxy amine adduct",
+  :status :granted,
+  :id "US4120768",
+  :sourcing :authoritative,
+  :filing-year 1977,
+  :assignee :dulux-australia,
+  :grant-year 1978,
+  :cites ["GB1129005A" "GB1307585A" "US3617458" "US3869366"],
   :term-years 20,
   :open-license :none}
  {:assignees [:becton-dickinson-and],
@@ -6853,6 +7056,20 @@
   :cites ["US2824235" "US3960017" "US4016761"],
   :term-years 20,
   :open-license :none}
+ {:assignees [:celanese-polymer-specialties],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US4137140/en",
+  :title "Cathodic electrocoating",
+  :status :granted,
+  :id "US4137140",
+  :sourcing :authoritative,
+  :filing-year 1978,
+  :assignee :celanese-polymer-specialties,
+  :grant-year 1979,
+  :cites ["US2909448" "US3640926"],
+  :term-years 20,
+  :open-license :none}
  {:assignees [:union-carbide],
   :jurisdiction :us,
   :field "UNKNOWN",
@@ -6903,6 +7120,21 @@
   :assignee :enzo-biochem,
   :grant-year 1979,
   :cites ["US4069352"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:celanese-polymer-specialties],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US4139510/en",
+  :title
+  "Process for preparing cathodically depositable coating compositions",
+  :status :granted,
+  :id "US4139510",
+  :sourcing :authoritative,
+  :filing-year 1978,
+  :assignee :celanese-polymer-specialties,
+  :grant-year 1979,
+  :cites ["US2909448" "US3515698" "US3538184" "US3729435" "US3804786"],
   :term-years 20,
   :open-license :none}
  {:assignees [:becton-dickinson-and],
@@ -7092,6 +7324,36 @@
   :assignee :research,
   :grant-year 1979,
   :cites ["US4010251"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:ppg-industries],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US4148772/en",
+  :title
+  "Amine acid salt-containing polymers for cationic electrodeposition",
+  :status :granted,
+  :id "US4148772",
+  :sourcing :authoritative,
+  :filing-year 1977,
+  :assignee :ppg-industries,
+  :grant-year 1979,
+  :cites
+  ["US2640037"
+   "US3169945"
+   "US3335105"
+   "US3336253"
+   "US3449281"
+   "US3617458"
+   "US3640926"
+   "US3663389"
+   "US3839252"
+   "US3935087"
+   "US3947338"
+   "US3947339"
+   "US3959106"
+   "US3962165"
+   "US3962499"],
   :term-years 20,
   :open-license :none}
  {:assignees [:baxter-travenol-laboratories],
@@ -8349,6 +8611,32 @@
    "US4104029"],
   :term-years 20,
   :open-license :none}
+ {:assignees [:kansai-paint],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US4220675/en",
+  :title "Method of metallic finishing",
+  :status :granted,
+  :id "US4220675",
+  :sourcing :authoritative,
+  :filing-year 1978,
+  :assignee :kansai-paint,
+  :grant-year 1980,
+  :cites
+  ["US3904795"
+   "US3953644"
+   "US3954899"
+   "US3959521"
+   "US3976715"
+   "US3980732"
+   "US3988494"
+   "US3991230"
+   "US3998716"
+   "US4044175"
+   "US4053682"
+   "US4082884"],
+  :term-years 20,
+  :open-license :none}
  {:assignees [:syva],
   :jurisdiction :us,
   :field "UNKNOWN",
@@ -8362,6 +8650,20 @@
   :assignee :syva,
   :grant-year 1980,
   :cites ["US4067774" "US4100268" "US4144131"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:kansai-paint],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US4221683/en",
+  :title "Low temperature curing high solid coating composition",
+  :status :granted,
+  :id "US4221683",
+  :sourcing :authoritative,
+  :filing-year 1978,
+  :assignee :kansai-paint,
+  :grant-year 1980,
+  :cites ["US3082184" "US3352806" "US3773710" "US4027066" "US4083892"],
   :term-years 20,
   :open-license :none}
  {:assignees [:scripps-clinic-and-research-foundation],
@@ -8501,6 +8803,19 @@
    "US3941876"
    "US3949064"
    "US3951748"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:kansai-paint],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US4226901/en",
+  :title "Method for metallic finish coating",
+  :status :granted,
+  :id "US4226901",
+  :sourcing :authoritative,
+  :filing-year 1978,
+  :assignee :kansai-paint,
+  :grant-year 1980,
   :term-years 20,
   :open-license :none}
  {:assignees [:calbiochem-behring],
@@ -9093,301 +9408,5 @@
    "US3935075"
    "US3936356"
    "US4118280"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:minnesota-mining-and-manufacturing],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US4254168/en",
-  :title "Chip-resistant pigmented polyurethane protective coating",
-  :status :granted,
-  :id "US4254168",
-  :sourcing :authoritative,
-  :filing-year 1979,
-  :assignee :minnesota-mining-and-manufacturing,
-  :grant-year 1981,
-  :cites
-  ["US3396210"
-   "US3401143"
-   "US3458459"
-   "US3557043"
-   "US3769069"
-   "US3871911"
-   "US3962522"
-   "US4131693"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:massachusetts-institute-of-technology],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US4254174/en",
-  :title
-  "Supported membrane composite structure and its method of manufacture",
-  :status :granted,
-  :id "US4254174",
-  :sourcing :authoritative,
-  :filing-year 1979,
-  :assignee :massachusetts-institute-of-technology,
-  :grant-year 1981,
-  :cites
-  ["US3179634"
-   "US3179635"
-   "US3742230"
-   "US3743842"
-   "US3892973"
-   "US4057659"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:honeywell],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US4254330/en",
-  :title "Low frequency enhancement range finding equipment",
-  :status :granted,
-  :id "US4254330",
-  :sourcing :authoritative,
-  :filing-year 1979,
-  :assignee :honeywell,
-  :grant-year 1981,
-  :cites ["US4002899" "US4078172"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:becton-dickinson-and],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US4256725/en",
-  :title
-  "Preparation of solid substrate containing receptor and labeled form of ligand for assays",
-  :status :granted,
-  :id "US4256725",
-  :sourcing :authoritative,
-  :filing-year 1978,
-  :assignee :becton-dickinson-and,
-  :grant-year 1981,
-  :cites ["US3951748" "US4017597"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:meloy-laboratories],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US4257774/en",
-  :title
-  "Intercalation inhibition assay for compounds that interact with DNA or RNA",
-  :status :granted,
-  :id "US4257774",
-  :sourcing :authoritative,
-  :filing-year 1979,
-  :assignee :meloy-laboratories,
-  :grant-year 1981,
-  :term-years 20,
-  :open-license :none}
- {:assignees [:damon],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US4257884/en",
-  :title "Chromatography",
-  :status :granted,
-  :id "US4257884",
-  :sourcing :authoritative,
-  :filing-year 1979,
-  :assignee :damon,
-  :grant-year 1981,
-  :cites ["US3471261" "US3859228" "US3947352" "US3985840" "US4143201"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:syva],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US4261968/en",
-  :title
-  "Fluorescence quenching with immunological pairs in immunoassays",
-  :status :granted,
-  :id "US4261968",
-  :sourcing :authoritative,
-  :filing-year 1979,
-  :assignee :syva,
-  :grant-year 1981,
-  :cites ["US4160016" "US4174384"],
-  :term-years 20,
-  :open-license :none}
- {:jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US4264327/en",
-  :title
-  "Method and apparatus for automatic competitive binding analysis",
-  :status :granted,
-  :id "US4264327",
-  :sourcing :authoritative,
-  :filing-year 1978,
-  :assignee :unassigned,
-  :grant-year 1981,
-  :cites
-  ["US3320148"
-   "US3320149"
-   "US4009005"
-   "US4128628"
-   "US4141687"
-   "US4153416"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:university-of-california-san-diego-ucsd],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US4264731/en",
-  :title "DNA Joining method",
-  :status :granted,
-  :id "US4264731",
-  :sourcing :authoritative,
-  :filing-year 1978,
-  :assignee :university-of-california-san-diego-ucsd,
-  :grant-year 1981,
-  :term-years 20,
-  :open-license :none}
- {:assignees [:dionex],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US4265634/en",
-  :title
-  "Chromatographic separation and quantitative analysis of ionic species",
-  :status :granted,
-  :id "US4265634",
-  :sourcing :authoritative,
-  :filing-year 1980,
-  :assignee :dionex,
-  :grant-year 1981,
-  :cites ["US3925019" "US3926559" "US4042327" "US4187177" "US4199323"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:novo-industri-as],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US4266029/en",
-  :title "Enzyme immobilization",
-  :status :granted,
-  :id "US4266029",
-  :sourcing :authoritative,
-  :filing-year 1979,
-  :assignee :novo-industri-as,
-  :grant-year 1981,
-  :cites
-  ["US3796634"
-   "US3838007"
-   "US3928143"
-   "US3980521"
-   "US4004979"
-   "US4138290"
-   "US4141857"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:university-of-california-san-diego-ucsd],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US4267171/en",
-  :title "C-5 Substituted cytosine nucleosides",
-  :status :granted,
-  :id "US4267171",
-  :sourcing :authoritative,
-  :filing-year 1979,
-  :assignee :university-of-california-san-diego-ucsd,
-  :grant-year 1981,
-  :cites ["US3282921" "US3376283" "US3856777" "US3891623" "US3998807"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:california-institute-of-technology],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US4267234/en",
-  :title "Polyglutaraldehyde synthesis and protein bonding substrates",
-  :status :granted,
-  :id "US4267234",
-  :sourcing :authoritative,
-  :filing-year 1979,
-  :assignee :california-institute-of-technology,
-  :grant-year 1981,
-  :cites
-  ["US2702823"
-   "US3372086"
-   "US3398125"
-   "US3475359"
-   "US3957741"
-   "US4035316"
-   "US4070246"],
-  :term-years 20,
-  :open-license :none}
- {:assignees
-  [:max-planck-gesellschaft-zur-foerderung-der-wissenschaften-ev],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US4269516/en",
-  :title "Optode",
-  :status :granted,
-  :id "US4269516",
-  :sourcing :authoritative,
-  :filing-year 1977,
-  :assignee
-  :max-planck-gesellschaft-zur-foerderung-der-wissenschaften-ev,
-  :grant-year 1981,
-  :cites ["US3825342" "US3997272" "US4003707" "US4013417"],
-  :term-years 20,
-  :open-license :none}
- {:jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US4271139/en",
-  :title "Scintillation proximity assay",
-  :status :granted,
-  :id "US4271139",
-  :sourcing :authoritative,
-  :filing-year 1978,
-  :assignee :unassigned,
-  :grant-year 1981,
-  :cites ["US4000252"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:otsuka-pharmaceutical],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US4272433/en",
-  :title "Method for preparing antigen and antibody",
-  :status :granted,
-  :id "US4272433",
-  :sourcing :authoritative,
-  :filing-year 1979,
-  :assignee :otsuka-pharmaceutical,
-  :grant-year 1981,
-  :cites ["US3794630" "US4075194"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:syva],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US4272506/en",
-  :title "Purification of reagents by disulfide immobilization",
-  :status :granted,
-  :id "US4272506",
-  :sourcing :authoritative,
-  :filing-year 1979,
-  :assignee :syva,
-  :grant-year 1981,
-  :cites
-  ["US3652761"
-   "US3690834"
-   "US3998943"
-   "US4039652"
-   "US4160016"
-   "US4176006"],
-  :term-years 20,
-  :open-license :none}
- {:jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US4272549/en",
-  :title
-  "Therapeutical method for the treatment of chronic uraemic patients undergoing periodical haemodialysis and liquid composition for dialysis for use in such a method",
-  :status :granted,
-  :id "US4272549",
-  :sourcing :authoritative,
-  :filing-year 1979,
-  :assignee :unassigned,
-  :grant-year 1981,
-  :cites ["US3822344" "US3830931" "US3968241"],
   :term-years 20,
   :open-license :none}]

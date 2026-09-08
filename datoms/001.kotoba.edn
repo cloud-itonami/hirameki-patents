@@ -1097,6 +1097,47 @@
   ":hirameki/source"
   "https://patents.google.com/patent/GB1486826A/en"]
  [":db/add"
+  "hirameki-patent:GB1517834A"
+  ":hirameki.patent/title"
+  "Aqueous dispersion type coating composition"]
+ [":db/add"
+  "hirameki-patent:GB1517834A"
+  ":hirameki.patent/jurisdiction"
+  ":gb"]
+ [":db/add"
+  "hirameki-patent:GB1517834A"
+  ":hirameki.patent/field"
+  "UNKNOWN"]
+ [":db/add"
+  "hirameki-patent:GB1517834A"
+  ":hirameki.patent/assignee"
+  ":dai-nippon-toryo"]
+ [":db/add"
+  "hirameki-patent:GB1517834A"
+  ":hirameki.patent/status"
+  ":pending"]
+ [":db/add"
+  "hirameki-patent:GB1517834A"
+  ":hirameki.patent/open-license"
+  ":none"]
+ [":db/add"
+  "hirameki-patent:GB1517834A"
+  ":hirameki.obs/release-status"
+  ":pending"]
+ [":db/add"
+  "hirameki-patent:GB1517834A"
+  ":hirameki/sourcing"
+  ":authoritative"]
+ [":db/add" "hirameki-patent:GB1517834A" ":hirameki/derived" true]
+ [":db/add"
+  "hirameki-patent:GB1517834A"
+  ":hirameki.obs/years-to-expiry"
+  -30]
+ [":db/add"
+  "hirameki-patent:GB1517834A"
+  ":hirameki/source"
+  "https://patents.google.com/patent/GB1517834A/en"]
+ [":db/add"
   "hirameki-patent:GB1521032A"
   ":hirameki.patent/title"
   "Biological treatment"]
@@ -9988,45 +10029,4 @@
  [":db/add"
   "hirameki-patent:JP2004131565A"
   ":hirameki.obs/years-to-expiry"
-  -4]
- [":db/add"
-  "hirameki-patent:JP2004131565A"
-  ":hirameki/source"
-  "https://patents.google.com/patent/JP2004131565A/en"]
- [":db/add"
-  "hirameki-patent:JP2004156029A"
-  ":hirameki.patent/title"
-  "Primer composition"]
- [":db/add"
-  "hirameki-patent:JP2004156029A"
-  ":hirameki.patent/jurisdiction"
-  ":jp"]
- [":db/add"
-  "hirameki-patent:JP2004156029A"
-  ":hirameki.patent/field"
-  "UNKNOWN"]
- [":db/add"
-  "hirameki-patent:JP2004156029A"
-  ":hirameki.patent/assignee"
-  ":yokohama-rubber"]
- [":db/add"
-  "hirameki-patent:JP2004156029A"
-  ":hirameki.patent/status"
-  ":pending"]
- [":db/add"
-  "hirameki-patent:JP2004156029A"
-  ":hirameki.patent/open-license"
-  ":none"]
- [":db/add"
-  "hirameki-patent:JP2004156029A"
-  ":hirameki.obs/release-status"
-  ":pending"]
- [":db/add"
-  "hirameki-patent:JP2004156029A"
-  ":hirameki/sourcing"
-  ":authoritative"]
- [":db/add" "hirameki-patent:JP2004156029A" ":hirameki/derived" true]
- [":db/add"
-  "hirameki-patent:JP2004156029A"
-  ":hirameki.obs/years-to-expiry"
-  -3]]
+  -4]]

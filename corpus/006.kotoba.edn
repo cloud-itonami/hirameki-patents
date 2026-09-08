@@ -1,4 +1,300 @@
-[{:assignees [:sherwood-medical-industries],
+[{:assignees [:minnesota-mining-and-manufacturing],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US4254168/en",
+  :title "Chip-resistant pigmented polyurethane protective coating",
+  :status :granted,
+  :id "US4254168",
+  :sourcing :authoritative,
+  :filing-year 1979,
+  :assignee :minnesota-mining-and-manufacturing,
+  :grant-year 1981,
+  :cites
+  ["US3396210"
+   "US3401143"
+   "US3458459"
+   "US3557043"
+   "US3769069"
+   "US3871911"
+   "US3962522"
+   "US4131693"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:massachusetts-institute-of-technology],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US4254174/en",
+  :title
+  "Supported membrane composite structure and its method of manufacture",
+  :status :granted,
+  :id "US4254174",
+  :sourcing :authoritative,
+  :filing-year 1979,
+  :assignee :massachusetts-institute-of-technology,
+  :grant-year 1981,
+  :cites
+  ["US3179634"
+   "US3179635"
+   "US3742230"
+   "US3743842"
+   "US3892973"
+   "US4057659"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:honeywell],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US4254330/en",
+  :title "Low frequency enhancement range finding equipment",
+  :status :granted,
+  :id "US4254330",
+  :sourcing :authoritative,
+  :filing-year 1979,
+  :assignee :honeywell,
+  :grant-year 1981,
+  :cites ["US4002899" "US4078172"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:becton-dickinson-and],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US4256725/en",
+  :title
+  "Preparation of solid substrate containing receptor and labeled form of ligand for assays",
+  :status :granted,
+  :id "US4256725",
+  :sourcing :authoritative,
+  :filing-year 1978,
+  :assignee :becton-dickinson-and,
+  :grant-year 1981,
+  :cites ["US3951748" "US4017597"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:meloy-laboratories],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US4257774/en",
+  :title
+  "Intercalation inhibition assay for compounds that interact with DNA or RNA",
+  :status :granted,
+  :id "US4257774",
+  :sourcing :authoritative,
+  :filing-year 1979,
+  :assignee :meloy-laboratories,
+  :grant-year 1981,
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:damon],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US4257884/en",
+  :title "Chromatography",
+  :status :granted,
+  :id "US4257884",
+  :sourcing :authoritative,
+  :filing-year 1979,
+  :assignee :damon,
+  :grant-year 1981,
+  :cites ["US3471261" "US3859228" "US3947352" "US3985840" "US4143201"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:syva],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US4261968/en",
+  :title
+  "Fluorescence quenching with immunological pairs in immunoassays",
+  :status :granted,
+  :id "US4261968",
+  :sourcing :authoritative,
+  :filing-year 1979,
+  :assignee :syva,
+  :grant-year 1981,
+  :cites ["US4160016" "US4174384"],
+  :term-years 20,
+  :open-license :none}
+ {:jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US4264327/en",
+  :title
+  "Method and apparatus for automatic competitive binding analysis",
+  :status :granted,
+  :id "US4264327",
+  :sourcing :authoritative,
+  :filing-year 1978,
+  :assignee :unassigned,
+  :grant-year 1981,
+  :cites
+  ["US3320148"
+   "US3320149"
+   "US4009005"
+   "US4128628"
+   "US4141687"
+   "US4153416"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:university-of-california-san-diego-ucsd],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US4264731/en",
+  :title "DNA Joining method",
+  :status :granted,
+  :id "US4264731",
+  :sourcing :authoritative,
+  :filing-year 1978,
+  :assignee :university-of-california-san-diego-ucsd,
+  :grant-year 1981,
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:dionex],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US4265634/en",
+  :title
+  "Chromatographic separation and quantitative analysis of ionic species",
+  :status :granted,
+  :id "US4265634",
+  :sourcing :authoritative,
+  :filing-year 1980,
+  :assignee :dionex,
+  :grant-year 1981,
+  :cites ["US3925019" "US3926559" "US4042327" "US4187177" "US4199323"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:novo-industri-as],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US4266029/en",
+  :title "Enzyme immobilization",
+  :status :granted,
+  :id "US4266029",
+  :sourcing :authoritative,
+  :filing-year 1979,
+  :assignee :novo-industri-as,
+  :grant-year 1981,
+  :cites
+  ["US3796634"
+   "US3838007"
+   "US3928143"
+   "US3980521"
+   "US4004979"
+   "US4138290"
+   "US4141857"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:university-of-california-san-diego-ucsd],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US4267171/en",
+  :title "C-5 Substituted cytosine nucleosides",
+  :status :granted,
+  :id "US4267171",
+  :sourcing :authoritative,
+  :filing-year 1979,
+  :assignee :university-of-california-san-diego-ucsd,
+  :grant-year 1981,
+  :cites ["US3282921" "US3376283" "US3856777" "US3891623" "US3998807"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:california-institute-of-technology],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US4267234/en",
+  :title "Polyglutaraldehyde synthesis and protein bonding substrates",
+  :status :granted,
+  :id "US4267234",
+  :sourcing :authoritative,
+  :filing-year 1979,
+  :assignee :california-institute-of-technology,
+  :grant-year 1981,
+  :cites
+  ["US2702823"
+   "US3372086"
+   "US3398125"
+   "US3475359"
+   "US3957741"
+   "US4035316"
+   "US4070246"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees
+  [:max-planck-gesellschaft-zur-foerderung-der-wissenschaften-ev],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US4269516/en",
+  :title "Optode",
+  :status :granted,
+  :id "US4269516",
+  :sourcing :authoritative,
+  :filing-year 1977,
+  :assignee
+  :max-planck-gesellschaft-zur-foerderung-der-wissenschaften-ev,
+  :grant-year 1981,
+  :cites ["US3825342" "US3997272" "US4003707" "US4013417"],
+  :term-years 20,
+  :open-license :none}
+ {:jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US4271139/en",
+  :title "Scintillation proximity assay",
+  :status :granted,
+  :id "US4271139",
+  :sourcing :authoritative,
+  :filing-year 1978,
+  :assignee :unassigned,
+  :grant-year 1981,
+  :cites ["US4000252"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:otsuka-pharmaceutical],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US4272433/en",
+  :title "Method for preparing antigen and antibody",
+  :status :granted,
+  :id "US4272433",
+  :sourcing :authoritative,
+  :filing-year 1979,
+  :assignee :otsuka-pharmaceutical,
+  :grant-year 1981,
+  :cites ["US3794630" "US4075194"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:syva],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US4272506/en",
+  :title "Purification of reagents by disulfide immobilization",
+  :status :granted,
+  :id "US4272506",
+  :sourcing :authoritative,
+  :filing-year 1979,
+  :assignee :syva,
+  :grant-year 1981,
+  :cites
+  ["US3652761"
+   "US3690834"
+   "US3998943"
+   "US4039652"
+   "US4160016"
+   "US4176006"],
+  :term-years 20,
+  :open-license :none}
+ {:jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US4272549/en",
+  :title
+  "Therapeutical method for the treatment of chronic uraemic patients undergoing periodical haemodialysis and liquid composition for dialysis for use in such a method",
+  :status :granted,
+  :id "US4272549",
+  :sourcing :authoritative,
+  :filing-year 1979,
+  :assignee :unassigned,
+  :grant-year 1981,
+  :cites ["US3822344" "US3830931" "US3968241"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:sherwood-medical-industries],
   :jurisdiction :us,
   :field "UNKNOWN",
   :source "https://patents.google.com/patent/US4273556/en",
@@ -279,6 +575,28 @@
   :assignee :miles-laboratories,
   :grant-year 1981,
   :cites ["US4104029" "US4181650" "US4213894" "US4225485"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:ford-motor],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US4297448/en",
+  :title
+  "Coating composition of aminoplast, hydroxy polymers and vinylic monomers",
+  :status :granted,
+  :id "US4297448",
+  :sourcing :authoritative,
+  :filing-year 1979,
+  :assignee :ford-motor,
+  :grant-year 1981,
+  :cites
+  ["GB1223343A"
+   "US3544489"
+   "US3856883"
+   "US3862071"
+   "US3953644"
+   "US4169825"
+   "ZA806906B"],
   :term-years 20,
   :open-license :none}
  {:assignees [:baxter-travenol-laboratories],
@@ -2515,6 +2833,21 @@
    "US4048038"
    "US4106920"
    "US4128470"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:bayer],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US4456647/en",
+  :title
+  "Plastics mouldings finished with a three-layer coating and a process for producing the finish",
+  :status :granted,
+  :id "US4456647",
+  :sourcing :authoritative,
+  :filing-year 1982,
+  :assignee :bayer,
+  :grant-year 1984,
+  :cites ["US3582398" "US3707397" "US4224378" "US4242412"],
   :term-years 20,
   :open-license :none}
  {:assignees [:becton-dickinson-and],

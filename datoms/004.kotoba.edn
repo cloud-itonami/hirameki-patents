@@ -1,4 +1,45 @@
 [[":db/add"
+  "hirameki-patent:US2227787"
+  ":hirameki.patent/field"
+  "UNKNOWN"]
+ [":db/add"
+  "hirameki-patent:US2227787"
+  ":hirameki.patent/assignee"
+  ":reynolds-metals"]
+ [":db/add"
+  "hirameki-patent:US2227787"
+  ":hirameki.patent/status"
+  ":granted"]
+ [":db/add"
+  "hirameki-patent:US2227787"
+  ":hirameki.patent/open-license"
+  ":none"]
+ [":db/add"
+  "hirameki-patent:US2227787"
+  ":hirameki.obs/release-status"
+  ":public-domain"]
+ [":db/add"
+  "hirameki-patent:US2227787"
+  ":hirameki/sourcing"
+  ":authoritative"]
+ [":db/add" "hirameki-patent:US2227787" ":hirameki/derived" true]
+ [":db/add"
+  "hirameki-patent:US2227787"
+  ":hirameki.obs/years-to-expiry"
+  -68]
+ [":db/add"
+  "hirameki-patent:US2227787"
+  ":hirameki/source"
+  "https://patents.google.com/patent/US2227787/en"]
+ [":db/add"
+  "hirameki-patent:US2227881"
+  ":hirameki.patent/title"
+  "Method and apparatus for testing eggs"]
+ [":db/add"
+  "hirameki-patent:US2227881"
+  ":hirameki.patent/jurisdiction"
+  ":us"]
+ [":db/add"
   "hirameki-patent:US2227881"
   ":hirameki.patent/field"
   "UNKNOWN"]
@@ -10399,46 +10440,5 @@
   "Cooking and packaging"]
  [":db/add"
   "hirameki-patent:US2398082"
-  ":hirameki.patent/jurisdiction"
-  ":us"]
- [":db/add"
-  "hirameki-patent:US2398082"
-  ":hirameki.patent/field"
-  "UNKNOWN"]
- [":db/add"
-  "hirameki-patent:US2398082"
-  ":hirameki.patent/assignee"
-  ":wingfoot"]
- [":db/add"
-  "hirameki-patent:US2398082"
-  ":hirameki.patent/status"
-  ":granted"]
- [":db/add"
-  "hirameki-patent:US2398082"
-  ":hirameki.patent/open-license"
-  ":none"]
- [":db/add"
-  "hirameki-patent:US2398082"
-  ":hirameki.obs/release-status"
-  ":public-domain"]
- [":db/add"
-  "hirameki-patent:US2398082"
-  ":hirameki/sourcing"
-  ":authoritative"]
- [":db/add" "hirameki-patent:US2398082" ":hirameki/derived" true]
- [":db/add"
-  "hirameki-patent:US2398082"
-  ":hirameki.obs/years-to-expiry"
-  -63]
- [":db/add"
-  "hirameki-patent:US2398082"
-  ":hirameki/source"
-  "https://patents.google.com/patent/US2398082/en"]
- [":db/add"
-  "hirameki-patent:US2398843"
-  ":hirameki.patent/title"
-  "Apparatus for coating paper"]
- [":db/add"
-  "hirameki-patent:US2398843"
   ":hirameki.patent/jurisdiction"
   ":us"]]
