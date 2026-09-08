@@ -1,4 +1,33 @@
-[{:assignees [:allen-b-du-mont-laboratories],
+[{:assignees [:kansas-city-testing-lab],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2444154/en",
+  :title "Parasiticidal composition",
+  :status :granted,
+  :id "US2444154",
+  :sourcing :authoritative,
+  :filing-year 1939,
+  :assignee :kansas-city-testing-lab,
+  :grant-year 1948,
+  :cites
+  ["US100327"
+   "US1511623"
+   "US1520197"
+   "US1532631"
+   "US1550650"
+   "US1694620"
+   "US1733958"
+   "US1793922"
+   "US1870383"
+   "US1934989"
+   "US1986218"
+   "US2014609"
+   "US2157861"
+   "US2304749"
+   "US2415282"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:allen-b-du-mont-laboratories],
   :jurisdiction :us,
   :field "UNKNOWN",
   :source "https://patents.google.com/patent/US2444560/en",
@@ -3954,6 +3983,19 @@
   :assignee :unassigned,
   :grant-year 1953,
   :cites ["FR562291A" "US1129657" "US1355846" "US614002" "US851171"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:wingfoot],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2625535/en",
+  :title "Elastomeric diisocyanate modified polyesters",
+  :status :granted,
+  :id "US2625535",
+  :sourcing :authoritative,
+  :filing-year 1952,
+  :assignee :wingfoot,
+  :grant-year 1953,
   :term-years 20,
   :open-license :none}
  {:assignees [:wingfoot],
@@ -9895,43 +9937,5 @@
   :assignee :wr-grace-and,
   :grant-year 1958,
   :cites ["FR826512A"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:phillips-petroleum],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US2846427/en",
-  :title "Treatment of polymers",
-  :status :granted,
-  :id "US2846427",
-  :sourcing :authoritative,
-  :filing-year 1957,
-  :assignee :phillips-petroleum,
-  :grant-year 1958,
-  :cites ["BE538782A" "DE874215C" "US2405547" "US2691008" "US2731453"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:columbia-broadcasting-system],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US2846625/en",
-  :title "Semiconductor device",
-  :status :granted,
-  :id "US2846625",
-  :sourcing :authoritative,
-  :filing-year 1955,
-  :assignee :columbia-broadcasting-system,
-  :grant-year 1958,
-  :cites
-  ["US1865213"
-   "US2288341"
-   "US2344969"
-   "US2356095"
-   "US2628271"
-   "US2683767"
-   "US2688110"
-   "US2716722"
-   "US2753497"
-   "US2787744"],
   :term-years 20,
   :open-license :none}]

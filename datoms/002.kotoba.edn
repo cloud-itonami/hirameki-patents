@@ -8681,6 +8681,47 @@
   ":hirameki/source"
   "https://patents.google.com/patent/US1765419/en"]
  [":db/add"
+  "hirameki-patent:US1765748"
+  ":hirameki.patent/title"
+  "Manufacture of floor coverings and products obtained thereby"]
+ [":db/add"
+  "hirameki-patent:US1765748"
+  ":hirameki.patent/jurisdiction"
+  ":us"]
+ [":db/add"
+  "hirameki-patent:US1765748"
+  ":hirameki.patent/field"
+  "UNKNOWN"]
+ [":db/add"
+  "hirameki-patent:US1765748"
+  ":hirameki.patent/assignee"
+  ":american-rubber"]
+ [":db/add"
+  "hirameki-patent:US1765748"
+  ":hirameki.patent/status"
+  ":granted"]
+ [":db/add"
+  "hirameki-patent:US1765748"
+  ":hirameki.patent/open-license"
+  ":none"]
+ [":db/add"
+  "hirameki-patent:US1765748"
+  ":hirameki.obs/release-status"
+  ":public-domain"]
+ [":db/add"
+  "hirameki-patent:US1765748"
+  ":hirameki/sourcing"
+  ":authoritative"]
+ [":db/add" "hirameki-patent:US1765748" ":hirameki/derived" true]
+ [":db/add"
+  "hirameki-patent:US1765748"
+  ":hirameki.obs/years-to-expiry"
+  -81]
+ [":db/add"
+  "hirameki-patent:US1765748"
+  ":hirameki/source"
+  "https://patents.google.com/patent/US1765748/en"]
+ [":db/add"
   "hirameki-patent:US1774398"
   ":hirameki.patent/title"
   "Paper-coating mechanism and process of coating paper"]
@@ -10176,45 +10217,4 @@
  [":db/add"
   "hirameki-patent:US1887126"
   ":hirameki.obs/years-to-expiry"
-  -76]
- [":db/add"
-  "hirameki-patent:US1887126"
-  ":hirameki/source"
-  "https://patents.google.com/patent/US1887126/en"]
- [":db/add"
-  "hirameki-patent:US1887691"
-  ":hirameki.patent/title"
-  "Method of veneering"]
- [":db/add"
-  "hirameki-patent:US1887691"
-  ":hirameki.patent/jurisdiction"
-  ":us"]
- [":db/add"
-  "hirameki-patent:US1887691"
-  ":hirameki.patent/field"
-  "UNKNOWN"]
- [":db/add"
-  "hirameki-patent:US1887691"
-  ":hirameki.patent/assignee"
-  ":unassigned"]
- [":db/add"
-  "hirameki-patent:US1887691"
-  ":hirameki.patent/status"
-  ":granted"]
- [":db/add"
-  "hirameki-patent:US1887691"
-  ":hirameki.patent/open-license"
-  ":none"]
- [":db/add"
-  "hirameki-patent:US1887691"
-  ":hirameki.obs/release-status"
-  ":public-domain"]
- [":db/add"
-  "hirameki-patent:US1887691"
-  ":hirameki/sourcing"
-  ":authoritative"]
- [":db/add" "hirameki-patent:US1887691" ":hirameki/derived" true]
- [":db/add"
-  "hirameki-patent:US1887691"
-  ":hirameki.obs/years-to-expiry"
-  -75]]
+  -76]]

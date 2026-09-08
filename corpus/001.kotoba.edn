@@ -638,6 +638,20 @@
   :grant-year 1930,
   :term-years 20,
   :open-license :none}
+ {:assignees [:american-rubber],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US1765748/en",
+  :title
+  "Manufacture of floor coverings and products obtained thereby",
+  :status :granted,
+  :id "US1765748",
+  :sourcing :authoritative,
+  :filing-year 1925,
+  :assignee :american-rubber,
+  :grant-year 1930,
+  :term-years 20,
+  :open-license :none}
  {:assignees [:champion-coated-paper],
   :jurisdiction :us,
   :field "UNKNOWN",
@@ -9278,34 +9292,5 @@
   :assignee :american-cyanamid,
   :grant-year 1948,
   :cites ["US2005414" "US2195362" "US2255313"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:kansas-city-testing-lab],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US2444154/en",
-  :title "Parasiticidal composition",
-  :status :granted,
-  :id "US2444154",
-  :sourcing :authoritative,
-  :filing-year 1939,
-  :assignee :kansas-city-testing-lab,
-  :grant-year 1948,
-  :cites
-  ["US100327"
-   "US1511623"
-   "US1520197"
-   "US1532631"
-   "US1550650"
-   "US1694620"
-   "US1733958"
-   "US1793922"
-   "US1870383"
-   "US1934989"
-   "US1986218"
-   "US2014609"
-   "US2157861"
-   "US2304749"
-   "US2415282"],
   :term-years 20,
   :open-license :none}]

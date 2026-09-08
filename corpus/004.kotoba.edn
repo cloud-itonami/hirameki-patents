@@ -1,4 +1,117 @@
-[{:assignees [:honeywell],
+[{:assignees [:behringwerke],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3322632/en",
+  :title
+  "Process for stabilizing biologically active materials with modified collagen hydrolyzate",
+  :status :granted,
+  :id "US3322632",
+  :sourcing :authoritative,
+  :filing-year 1963,
+  :assignee :behringwerke,
+  :grant-year 1967,
+  :cites ["US2166074" "US3057782"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:burroughs-wellcome-usa],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3322634/en",
+  :title
+  "Method of bonding protein antigen to mammalian red blood cells",
+  :status :granted,
+  :id "US3322634",
+  :sourcing :authoritative,
+  :filing-year 1963,
+  :assignee :burroughs-wellcome-usa,
+  :grant-year 1967,
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:schering],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3324110/en",
+  :title
+  "Method of phosphorylation and novel intermediates produced thereby",
+  :status :granted,
+  :id "US3324110",
+  :sourcing :authoritative,
+  :filing-year 1966,
+  :assignee :schering,
+  :grant-year 1967,
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:mead],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3326712/en",
+  :title "Transfer print receiving paper and method of producing same",
+  :status :granted,
+  :id "US3326712",
+  :sourcing :authoritative,
+  :filing-year 1964,
+  :assignee :mead,
+  :grant-year 1967,
+  :cites ["US2558857" "US2759825" "US2789054" "US2949382" "US3174859"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:xerox],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3326848/en",
+  :title "Spray dried latex toners",
+  :status :granted,
+  :id "US3326848",
+  :sourcing :authoritative,
+  :filing-year 1964,
+  :assignee :xerox,
+  :grant-year 1967,
+  :cites ["US2460546" "US2659670" "US3079342" "US3194781"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:international-business-machines],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3327117/en",
+  :title "Cancer cell detector using two wavelengths for comparison",
+  :status :granted,
+  :id "US3327117",
+  :sourcing :authoritative,
+  :filing-year 1963,
+  :assignee :international-business-machines,
+  :grant-year 1967,
+  :cites ["US2395489" "US2790438" "US3210546"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:international-business-machines],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3327119/en",
+  :title "Method and apparatus for detecting cancer cells",
+  :status :granted,
+  :id "US3327119",
+  :sourcing :authoritative,
+  :filing-year 1964,
+  :assignee :international-business-machines,
+  :grant-year 1967,
+  :cites ["US2395489" "US2790438" "US3210546"],
+  :term-years 20,
+  :open-license :none}
+ {:jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3327120/en",
+  :title
+  "Infrared imaging system using a photochromic glass viewing screen",
+  :status :granted,
+  :id "US3327120",
+  :sourcing :authoritative,
+  :filing-year 1964,
+  :assignee :unassigned,
+  :grant-year 1967,
+  :cites ["US3085469" "US3152215" "US3155451"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:honeywell],
   :jurisdiction :us,
   :field "UNKNOWN",
   :source "https://patents.google.com/patent/US3328277/en",
@@ -651,6 +764,37 @@
   :cites ["US3036893" "US3092465" "US3261668"],
   :term-years 20,
   :open-license :none}
+ {:assignees [:desoto],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3368988/en",
+  :title
+  "Solvent-soluble, non-gelled interpolymer comprising resinous hydroxy-terminated polyethylenically unsaturated polyurethane",
+  :status :granted,
+  :id "US3368988",
+  :sourcing :authoritative,
+  :filing-year 1963,
+  :assignee :desoto,
+  :grant-year 1968,
+  :cites
+  ["US2769826"
+   "US2812337"
+   "US2833730"
+   "US2906717"
+   "US2906945"
+   "US2936293"
+   "US2940945"
+   "US2995531"
+   "US3001958"
+   "US3075926"
+   "US3114735"
+   "US3118853"
+   "US3129200"
+   "US3143517"
+   "US3163615"
+   "US3178394"],
+  :term-years 20,
+  :open-license :none}
  {:assignees [:monsanto],
   :jurisdiction :us,
   :field "UNKNOWN",
@@ -886,6 +1030,26 @@
   :assignee :dixie-entpr,
   :grant-year 1968,
   :cites ["US2670328" "US2723761"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:bayer],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3384606/en",
+  :title "Crosslinking aqueous polyurethanes with formaldehyde",
+  :status :granted,
+  :id "US3384606",
+  :sourcing :authoritative,
+  :filing-year 1964,
+  :assignee :bayer,
+  :grant-year 1968,
+  :cites
+  ["DE880485C"
+   "US2968575"
+   "US3036998"
+   "US3043801"
+   "US3087912"
+   "US3242230"],
   :term-years 20,
   :open-license :none}
  {:jurisdiction :us,
@@ -1990,6 +2154,29 @@
   :assignee :shell-oil,
   :grant-year 1969,
   :cites ["GB253085A"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:desoto],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3457324/en",
+  :title
+  "Thermosetting coating compositions comprising hydroxy-functional interpolymers",
+  :status :granted,
+  :id "US3457324",
+  :sourcing :authoritative,
+  :filing-year 1966,
+  :assignee :desoto,
+  :grant-year 1969,
+  :cites
+  ["GB540169A"
+   "GB985770A"
+   "GB995241A"
+   "US2852487"
+   "US2897174"
+   "US3007894"
+   "US3287292"
+   "US3287293"],
   :term-years 20,
   :open-license :none}
  {:assignees [:hercules],
@@ -3489,6 +3676,21 @@
   :assignee :beckman-instruments,
   :grant-year 1970,
   :cites ["US3257562" "US3304831" "US3431054"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:dow-chemical],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3538185/en",
+  :title
+  "Coating compositions containing vinyl polymers with pendant alkylenimine group and epoxy resins",
+  :status :granted,
+  :id "US3538185",
+  :sourcing :authoritative,
+  :filing-year 1967,
+  :assignee :dow-chemical,
+  :grant-year 1970,
+  :cites ["GB897726A" "US3228823" "US3399248"],
   :term-years 20,
   :open-license :none}
  {:assignees [:leland-c-clark-jr],
@@ -5781,6 +5983,19 @@
   :grant-year 1972,
   :term-years 20,
   :open-license :none}
+ {:assignees [:morton-norwich-products],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3666521/en",
+  :title "Coated substrate and method of providing same",
+  :status :granted,
+  :id "US3666521",
+  :sourcing :authoritative,
+  :filing-year 1970,
+  :assignee :morton-norwich-products,
+  :grant-year 1972,
+  :term-years 20,
+  :open-license :none}
  {:assignees [:coulter-electronics],
   :jurisdiction :us,
   :field "UNKNOWN",
@@ -6459,6 +6674,19 @@
   :sourcing :authoritative,
   :filing-year 1970,
   :assignee :yamasa-shoyu,
+  :grant-year 1972,
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:imperial-chemical-industries],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3702836/en",
+  :title "Polymer dispersions",
+  :status :granted,
+  :id "US3702836",
+  :sourcing :authoritative,
+  :filing-year 1970,
+  :assignee :imperial-chemical-industries,
   :grant-year 1972,
   :term-years 20,
   :open-license :none}
@@ -7373,6 +7601,19 @@
   :grant-year 1973,
   :term-years 20,
   :open-license :none}
+ {:assignees [:takeda-chemical-industries],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3751412/en",
+  :title "2-amino-1,5-benzodiazocine derivatives",
+  :status :granted,
+  :id "US3751412",
+  :sourcing :authoritative,
+  :filing-year 1971,
+  :assignee :takeda-chemical-industries,
+  :grant-year 1973,
+  :term-years 20,
+  :open-license :none}
  {:assignees [:university-of-sydney],
   :jurisdiction :us,
   :field "UNKNOWN",
@@ -7479,6 +7720,20 @@
   :sourcing :authoritative,
   :filing-year 1970,
   :assignee :millipore,
+  :grant-year 1973,
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:ashland-oil],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3759873/en",
+  :title
+  "Boxy polyols water dispersible polyurethanes based on polyesters prepared from car",
+  :status :granted,
+  :id "US3759873",
+  :sourcing :authoritative,
+  :filing-year 1971,
+  :assignee :ashland-oil,
   :grant-year 1973,
   :term-years 20,
   :open-license :none}
@@ -8828,269 +9083,6 @@
   :sourcing :authoritative,
   :filing-year 1968,
   :assignee :nat-res-dev,
-  :grant-year 1974,
-  :term-years 20,
-  :open-license :none}
- {:assignees [:american-express-investment-management],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3824393/en",
-  :title "System for differential particle counting",
-  :status :granted,
-  :id "US3824393",
-  :sourcing :authoritative,
-  :filing-year 1973,
-  :assignee :american-express-investment-management,
-  :grant-year 1974,
-  :cites
-  ["US2927219"
-   "US2959348"
-   "US3315229"
-   "US3327119"
-   "US3349227"
-   "US3412254"
-   "US3493772"
-   "US3503684"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:leland-stanford-junior-university],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3826364/en",
-  :title "Particle sorting method and apparatus",
-  :status :granted,
-  :id "US3826364",
-  :sourcing :authoritative,
-  :filing-year 1972,
-  :assignee :leland-stanford-junior-university,
-  :grant-year 1974,
-  :cites
-  ["US2948470"
-   "US3011634"
-   "US3380584"
-   "US3661460"
-   "US3669542"
-   "US3675768"
-   "US3710933"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:abbott-laboratories],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3826619/en",
-  :title
-  "Test apparatus for direct radioimmuno-assay for antigens and their antibodies",
-  :status :granted,
-  :id "US3826619",
-  :sourcing :authoritative,
-  :filing-year 1971,
-  :assignee :abbott-laboratories,
-  :grant-year 1974,
-  :term-years 20,
-  :open-license :none}
- {:assignees [:us-atomic-energy-commission-aec],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3826678/en",
-  :title
-  "Method for preparation of biocompatible and biofunctional materials and product thereof",
-  :status :granted,
-  :id "US3826678",
-  :sourcing :authoritative,
-  :filing-year 1972,
-  :assignee :us-atomic-energy-commission-aec,
-  :grant-year 1974,
-  :term-years 20,
-  :open-license :none}
- {:assignees [:massachusetts-institute-of-technology],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3826920/en",
-  :title "Fluorescent gas analyzer with calibration system",
-  :status :granted,
-  :id "US3826920",
-  :sourcing :authoritative,
-  :filing-year 1973,
-  :assignee :massachusetts-institute-of-technology,
-  :grant-year 1974,
-  :cites
-  ["US2286985"
-   "US2288942"
-   "US2736813"
-   "US2872588"
-   "US3496489"
-   "US3507987"
-   "US3510648"
-   "US3696247"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:canon],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3827064/en",
-  :title "Focus detector device",
-  :status :granted,
-  :id "US3827064",
-  :sourcing :authoritative,
-  :filing-year 1973,
-  :assignee :canon,
-  :grant-year 1974,
-  :cites
-  ["US3385190"
-   "US3504610"
-   "US3532043"
-   "US3605596"
-   "US3611895"
-   "US3618499"
-   "US3678835"
-   "US3691922"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:bio-physics-systems],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3827555/en",
-  :title "Particle sorter with segregation indicator",
-  :status :granted,
-  :id "US3827555",
-  :sourcing :authoritative,
-  :filing-year 1973,
-  :assignee :bio-physics-systems,
-  :grant-year 1974,
-  :cites
-  ["US2333791"
-   "US3269419"
-   "US3362421"
-   "US3508654"
-   "US3508655"
-   "US3560754"
-   "US3710933"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:geometric-data],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3827804/en",
-  :title
-  "Color separation for discrimination in pattern recognition systems",
-  :status :granted,
-  :id "US3827804",
-  :sourcing :authoritative,
-  :filing-year 1972,
-  :assignee :geometric-data,
-  :grant-year 1974,
-  :cites
-  ["US3188907"
-   "US3284566"
-   "US3315229"
-   "US3330904"
-   "US3497690"
-   "US3657537"
-   "US3663801"
-   "US3675768"
-   "US3699336"
-   "US3703337"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:burroughs-wellcome-usa],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3827943/en",
-  :title "Culture apparatus",
-  :status :granted,
-  :id "US3827943",
-  :sourcing :authoritative,
-  :filing-year 1971,
-  :assignee :burroughs-wellcome-usa,
-  :grant-year 1974,
-  :term-years 20,
-  :open-license :none}
- {:assignees [:us-atomic-energy-commission-aec],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3829223/en",
-  :title
-  "Mixing rotor for fast analyzer of rotary cuvette type with means for enhancing the mixing of sample and reagent liquids",
-  :status :granted,
-  :id "US3829223",
-  :sourcing :authoritative,
-  :filing-year 1973,
-  :assignee :us-atomic-energy-commission-aec,
-  :grant-year 1974,
-  :term-years 20,
-  :open-license :none}
- {:assignees [:aerospace],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3829696/en",
-  :title "Atmospheric no monitor",
-  :status :granted,
-  :id "US3829696",
-  :sourcing :authoritative,
-  :filing-year 1973,
-  :assignee :aerospace,
-  :grant-year 1974,
-  :term-years 20,
-  :open-license :none}
- {:jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3830931/en",
-  :title
-  "Carnitine and its use in the treatment of arrhythmia and impaired cardiac function",
-  :status :granted,
-  :id "US3830931",
-  :sourcing :authoritative,
-  :filing-year 1972,
-  :assignee :unassigned,
-  :grant-year 1974,
-  :term-years 20,
-  :open-license :none}
- {:assignees [:us-department-of-navy],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3831137/en",
-  :title "Acousto-optic underwater detector",
-  :status :granted,
-  :id "US3831137",
-  :sourcing :authoritative,
-  :filing-year 1972,
-  :assignee :us-department-of-navy,
-  :grant-year 1974,
-  :cites ["US3533056" "US3541848" "US3580082" "US3584227" "US3642090"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:texas-instruments],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3831432/en",
-  :title "Environment monitoring device and system",
-  :status :granted,
-  :id "US3831432",
-  :sourcing :authoritative,
-  :filing-year 1972,
-  :assignee :texas-instruments,
-  :grant-year 1974,
-  :cites
-  ["US2975362"
-   "US2998554"
-   "US3329004"
-   "US3469147"
-   "US3507145"
-   "US3586554"
-   "US3685140"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:dexter-c-&-sons],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3834983/en",
-  :title
-  "Process of forming wet laid tufted non-woven fibrous web from a viscous fibrous dispersion and product",
-  :status :granted,
-  :id "US3834983",
-  :sourcing :authoritative,
-  :filing-year 1973,
-  :assignee :dexter-c-&-sons,
   :grant-year 1974,
   :term-years 20,
   :open-license :none}]

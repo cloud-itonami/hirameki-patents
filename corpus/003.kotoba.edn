@@ -1,4 +1,42 @@
-[{:assignees [:ei-du-pont-de-nemours-and],
+[{:assignees [:phillips-petroleum],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2846427/en",
+  :title "Treatment of polymers",
+  :status :granted,
+  :id "US2846427",
+  :sourcing :authoritative,
+  :filing-year 1957,
+  :assignee :phillips-petroleum,
+  :grant-year 1958,
+  :cites ["BE538782A" "DE874215C" "US2405547" "US2691008" "US2731453"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:columbia-broadcasting-system],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2846625/en",
+  :title "Semiconductor device",
+  :status :granted,
+  :id "US2846625",
+  :sourcing :authoritative,
+  :filing-year 1955,
+  :assignee :columbia-broadcasting-system,
+  :grant-year 1958,
+  :cites
+  ["US1865213"
+   "US2288341"
+   "US2344969"
+   "US2356095"
+   "US2628271"
+   "US2683767"
+   "US2688110"
+   "US2716722"
+   "US2753497"
+   "US2787744"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:ei-du-pont-de-nemours-and],
   :jurisdiction :us,
   :field "UNKNOWN",
   :source "https://patents.google.com/patent/US2848437/en",
@@ -11,6 +49,21 @@
   :assignee :ei-du-pont-de-nemours-and,
   :grant-year 1958,
   :cites ["US2162616" "US2178523" "US2519550" "US2551365" "US2734889"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:goodyear-tire-and-rubber],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2850474/en",
+  :title
+  "Process of curing polyurethanes using a polyisocyanate and a methylol melamine",
+  :status :granted,
+  :id "US2850474",
+  :sourcing :authoritative,
+  :filing-year 1955,
+  :assignee :goodyear-tire-and-rubber,
+  :grant-year 1958,
+  :cites ["US2432148" "US2625535"],
   :term-years 20,
   :open-license :none}
  {:assignees [:woodmont-products],
@@ -6280,6 +6333,34 @@
   :grant-year 1964,
   :term-years 20,
   :open-license :none}
+ {:assignees [:united-states-steel],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3136651/en",
+  :title "Method of coating metal with vinyl resin",
+  :status :granted,
+  :id "US3136651",
+  :sourcing :authoritative,
+  :filing-year 1961,
+  :assignee :united-states-steel,
+  :grant-year 1964,
+  :cites
+  ["GB508791A"
+   "GB631850A"
+   "GB700177A"
+   "US2270182"
+   "US2448666"
+   "US2467055"
+   "US2513434"
+   "US2530852"
+   "US2550232"
+   "US2668787"
+   "US2719093"
+   "US2844489"
+   "US2974060"
+   "US3015640"],
+  :term-years 20,
+  :open-license :none}
  {:assignees [:entpr-paint-manufacturing],
   :jurisdiction :us,
   :field "UNKNOWN",
@@ -6452,6 +6533,28 @@
   :assignee :unassigned,
   :grant-year 1964,
   :cites ["FR989480A" "US2561339"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:wyandotte-chemicals],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3148173/en",
+  :title
+  "Polyurethane-ureas containing urealinked nu-(2-hydroxypropyl) alkylene diamines",
+  :status :granted,
+  :id "US3148173",
+  :sourcing :authoritative,
+  :filing-year 1959,
+  :assignee :wyandotte-chemicals,
+  :grant-year 1964,
+  :cites
+  ["US2621166"
+   "US2663729"
+   "US2843569"
+   "US2927098"
+   "US2929800"
+   "US2929803"
+   "US2953489"],
   :term-years 20,
   :open-license :none}
  {:assignees [:north-american-refractories],
@@ -8793,6 +8896,21 @@
   :cites ["CA672274A" "US3135666"],
   :term-years 20,
   :open-license :none}
+ {:assignees [:milliken-research],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3271342/en",
+  :title
+  "Composition comprising a salt of a styrene-maleic acid copolymer and a polyurethane",
+  :status :granted,
+  :id "US3271342",
+  :sourcing :authoritative,
+  :filing-year 1963,
+  :assignee :milliken-research,
+  :grant-year 1966,
+  :cites ["GB744027A" "US2490489" "US3044898" "US3061470"],
+  :term-years 20,
+  :open-license :none}
  {:assignees [:dow-chemical],
   :jurisdiction :us,
   :field "UNKNOWN",
@@ -9611,6 +9729,21 @@
   :cites ["US2719843" "US3167540" "US3180859"],
   :term-years 20,
   :open-license :none}
+ {:assignees [:imperial-chemical-industries],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3317635/en",
+  :title
+  "Polymeric dispersion stabilizers for dispersions of synthetic polymers in organic liquids",
+  :status :granted,
+  :id "US3317635",
+  :sourcing :authoritative,
+  :filing-year 1963,
+  :assignee :imperial-chemical-industries,
+  :grant-year 1967,
+  :cites ["US2977334" "US3095388"],
+  :term-years 20,
+  :open-license :none}
  {:assignees [:technicon-instruments],
   :jurisdiction :us,
   :field "UNKNOWN",
@@ -9713,118 +9846,5 @@
   :assignee :bp,
   :grant-year 1967,
   :cites ["US2873644" "US3111837" "US3138650" "US3202826" "US3234846"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:behringwerke],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3322632/en",
-  :title
-  "Process for stabilizing biologically active materials with modified collagen hydrolyzate",
-  :status :granted,
-  :id "US3322632",
-  :sourcing :authoritative,
-  :filing-year 1963,
-  :assignee :behringwerke,
-  :grant-year 1967,
-  :cites ["US2166074" "US3057782"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:burroughs-wellcome-usa],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3322634/en",
-  :title
-  "Method of bonding protein antigen to mammalian red blood cells",
-  :status :granted,
-  :id "US3322634",
-  :sourcing :authoritative,
-  :filing-year 1963,
-  :assignee :burroughs-wellcome-usa,
-  :grant-year 1967,
-  :term-years 20,
-  :open-license :none}
- {:assignees [:schering],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3324110/en",
-  :title
-  "Method of phosphorylation and novel intermediates produced thereby",
-  :status :granted,
-  :id "US3324110",
-  :sourcing :authoritative,
-  :filing-year 1966,
-  :assignee :schering,
-  :grant-year 1967,
-  :term-years 20,
-  :open-license :none}
- {:assignees [:mead],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3326712/en",
-  :title "Transfer print receiving paper and method of producing same",
-  :status :granted,
-  :id "US3326712",
-  :sourcing :authoritative,
-  :filing-year 1964,
-  :assignee :mead,
-  :grant-year 1967,
-  :cites ["US2558857" "US2759825" "US2789054" "US2949382" "US3174859"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:xerox],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3326848/en",
-  :title "Spray dried latex toners",
-  :status :granted,
-  :id "US3326848",
-  :sourcing :authoritative,
-  :filing-year 1964,
-  :assignee :xerox,
-  :grant-year 1967,
-  :cites ["US2460546" "US2659670" "US3079342" "US3194781"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:international-business-machines],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3327117/en",
-  :title "Cancer cell detector using two wavelengths for comparison",
-  :status :granted,
-  :id "US3327117",
-  :sourcing :authoritative,
-  :filing-year 1963,
-  :assignee :international-business-machines,
-  :grant-year 1967,
-  :cites ["US2395489" "US2790438" "US3210546"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:international-business-machines],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3327119/en",
-  :title "Method and apparatus for detecting cancer cells",
-  :status :granted,
-  :id "US3327119",
-  :sourcing :authoritative,
-  :filing-year 1964,
-  :assignee :international-business-machines,
-  :grant-year 1967,
-  :cites ["US2395489" "US2790438" "US3210546"],
-  :term-years 20,
-  :open-license :none}
- {:jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3327120/en",
-  :title
-  "Infrared imaging system using a photochromic glass viewing screen",
-  :status :granted,
-  :id "US3327120",
-  :sourcing :authoritative,
-  :filing-year 1964,
-  :assignee :unassigned,
-  :grant-year 1967,
-  :cites ["US3085469" "US3152215" "US3155451"],
   :term-years 20,
   :open-license :none}]

@@ -1,4 +1,45 @@
 [[":db/add"
+  "hirameki-patent:US2396946"
+  ":hirameki.patent/field"
+  "UNKNOWN"]
+ [":db/add"
+  "hirameki-patent:US2396946"
+  ":hirameki.patent/assignee"
+  ":interchemical"]
+ [":db/add"
+  "hirameki-patent:US2396946"
+  ":hirameki.patent/status"
+  ":granted"]
+ [":db/add"
+  "hirameki-patent:US2396946"
+  ":hirameki.patent/open-license"
+  ":none"]
+ [":db/add"
+  "hirameki-patent:US2396946"
+  ":hirameki.obs/release-status"
+  ":public-domain"]
+ [":db/add"
+  "hirameki-patent:US2396946"
+  ":hirameki/sourcing"
+  ":authoritative"]
+ [":db/add" "hirameki-patent:US2396946" ":hirameki/derived" true]
+ [":db/add"
+  "hirameki-patent:US2396946"
+  ":hirameki.obs/years-to-expiry"
+  -67]
+ [":db/add"
+  "hirameki-patent:US2396946"
+  ":hirameki/source"
+  "https://patents.google.com/patent/US2396946/en"]
+ [":db/add"
+  "hirameki-patent:US2398082"
+  ":hirameki.patent/title"
+  "Cooking and packaging"]
+ [":db/add"
+  "hirameki-patent:US2398082"
+  ":hirameki.patent/jurisdiction"
+  ":us"]
+ [":db/add"
   "hirameki-patent:US2398082"
   ":hirameki.patent/field"
   "UNKNOWN"]
@@ -10306,45 +10347,4 @@
  [":db/add"
   "hirameki-patent:US2582961"
   ":hirameki.obs/years-to-expiry"
-  -57]
- [":db/add"
-  "hirameki-patent:US2582961"
-  ":hirameki/source"
-  "https://patents.google.com/patent/US2582961/en"]
- [":db/add"
-  "hirameki-patent:US2583274"
-  ":hirameki.patent/title"
-  "Process for producing mineralcoated paper"]
- [":db/add"
-  "hirameki-patent:US2583274"
-  ":hirameki.patent/jurisdiction"
-  ":us"]
- [":db/add"
-  "hirameki-patent:US2583274"
-  ":hirameki.patent/field"
-  "UNKNOWN"]
- [":db/add"
-  "hirameki-patent:US2583274"
-  ":hirameki.patent/assignee"
-  ":monsanto-chemicals"]
- [":db/add"
-  "hirameki-patent:US2583274"
-  ":hirameki.patent/status"
-  ":granted"]
- [":db/add"
-  "hirameki-patent:US2583274"
-  ":hirameki.patent/open-license"
-  ":none"]
- [":db/add"
-  "hirameki-patent:US2583274"
-  ":hirameki.obs/release-status"
-  ":public-domain"]
- [":db/add"
-  "hirameki-patent:US2583274"
-  ":hirameki/sourcing"
-  ":authoritative"]
- [":db/add" "hirameki-patent:US2583274" ":hirameki/derived" true]
- [":db/add"
-  "hirameki-patent:US2583274"
-  ":hirameki.obs/years-to-expiry"
-  -59]]
+  -57]]

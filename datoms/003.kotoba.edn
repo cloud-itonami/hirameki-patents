@@ -1,4 +1,45 @@
 [[":db/add"
+  "hirameki-patent:US1887126"
+  ":hirameki/source"
+  "https://patents.google.com/patent/US1887126/en"]
+ [":db/add"
+  "hirameki-patent:US1887691"
+  ":hirameki.patent/title"
+  "Method of veneering"]
+ [":db/add"
+  "hirameki-patent:US1887691"
+  ":hirameki.patent/jurisdiction"
+  ":us"]
+ [":db/add"
+  "hirameki-patent:US1887691"
+  ":hirameki.patent/field"
+  "UNKNOWN"]
+ [":db/add"
+  "hirameki-patent:US1887691"
+  ":hirameki.patent/assignee"
+  ":unassigned"]
+ [":db/add"
+  "hirameki-patent:US1887691"
+  ":hirameki.patent/status"
+  ":granted"]
+ [":db/add"
+  "hirameki-patent:US1887691"
+  ":hirameki.patent/open-license"
+  ":none"]
+ [":db/add"
+  "hirameki-patent:US1887691"
+  ":hirameki.obs/release-status"
+  ":public-domain"]
+ [":db/add"
+  "hirameki-patent:US1887691"
+  ":hirameki/sourcing"
+  ":authoritative"]
+ [":db/add" "hirameki-patent:US1887691" ":hirameki/derived" true]
+ [":db/add"
+  "hirameki-patent:US1887691"
+  ":hirameki.obs/years-to-expiry"
+  -75]
+ [":db/add"
   "hirameki-patent:US1887691"
   ":hirameki/source"
   "https://patents.google.com/patent/US1887691/en"]
@@ -10399,41 +10440,4 @@
  [":db/add"
   "hirameki-patent:US2227494"
   ":hirameki.patent/field"
-  "UNKNOWN"]
- [":db/add"
-  "hirameki-patent:US2227494"
-  ":hirameki.patent/assignee"
-  ":plastics-finishing"]
- [":db/add"
-  "hirameki-patent:US2227494"
-  ":hirameki.patent/status"
-  ":granted"]
- [":db/add"
-  "hirameki-patent:US2227494"
-  ":hirameki.patent/open-license"
-  ":none"]
- [":db/add"
-  "hirameki-patent:US2227494"
-  ":hirameki.obs/release-status"
-  ":public-domain"]
- [":db/add"
-  "hirameki-patent:US2227494"
-  ":hirameki/sourcing"
-  ":authoritative"]
- [":db/add" "hirameki-patent:US2227494" ":hirameki/derived" true]
- [":db/add"
-  "hirameki-patent:US2227494"
-  ":hirameki.obs/years-to-expiry"
-  -69]
- [":db/add"
-  "hirameki-patent:US2227494"
-  ":hirameki/source"
-  "https://patents.google.com/patent/US2227494/en"]
- [":db/add"
-  "hirameki-patent:US2227787"
-  ":hirameki.patent/title"
-  "Wrapping material and method of making the same"]
- [":db/add"
-  "hirameki-patent:US2227787"
-  ":hirameki.patent/jurisdiction"
-  ":us"]]
+  "UNKNOWN"]]
