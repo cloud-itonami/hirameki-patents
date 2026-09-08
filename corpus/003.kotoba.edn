@@ -1,4 +1,77 @@
-[{:assignees [:miles-laboratories],
+[{:assignees [:sperry-rand],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2834676/en",
+  :title
+  "Photographic diffusion transfer process for producing multiple direct positive copies",
+  :status :granted,
+  :id "US2834676",
+  :sourcing :authoritative,
+  :filing-year 1955,
+  :assignee :sperry-rand,
+  :grant-year 1958,
+  :cites ["US2663641" "US2675313" "US2712995" "US2725298" "US2740717"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:beckman-instruments],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2834729/en",
+  :title "Electrophoresis apparatus",
+  :status :granted,
+  :id "US2834729",
+  :sourcing :authoritative,
+  :filing-year 1955,
+  :assignee :beckman-instruments,
+  :grant-year 1958,
+  :cites ["DE842863C" "DE865379C" "FR1057440A" "GB647630A"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:polaroid],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2835167/en",
+  :title "Photomicrographic apparatus",
+  :status :granted,
+  :id "US2835167",
+  :sourcing :authoritative,
+  :filing-year 1954,
+  :assignee :polaroid,
+  :grant-year 1958,
+  :cites
+  ["GB166028A"
+   "US2077792"
+   "US2153010"
+   "US2282643"
+   "US2339053"
+   "US2404064"
+   "US2483746"
+   "US2757568"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:lord-manufacturing],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2837458/en",
+  :title "Bonding rubber to substrates",
+  :status :granted,
+  :id "US2837458",
+  :sourcing :authoritative,
+  :filing-year 1955,
+  :assignee :lord-manufacturing,
+  :grant-year 1958,
+  :cites
+  ["CA456911A"
+   "GB515675A"
+   "US2400474"
+   "US2415839"
+   "US2429080"
+   "US2430479"
+   "US2650212"
+   "US2713884"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:miles-laboratories],
   :jurisdiction :us,
   :field "UNKNOWN",
   :source "https://patents.google.com/patent/US2838377/en",
@@ -9777,62 +9850,5 @@
    "US3003199"
    "US3085365"
    "US951031"],
-  :term-years 20,
-  :open-license :none}
- {:jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3316896/en",
-  :title
-  "Apparatus and methods for the measure of the electrical impedance of living organisms",
-  :status :granted,
-  :id "US3316896",
-  :sourcing :authoritative,
-  :filing-year 1963,
-  :assignee :unassigned,
-  :grant-year 1967,
-  :cites ["US2298506" "US2535249" "US3064641" "US3085566" "US3207151"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:general-micro-electronics],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3317287/en",
-  :title "Assembly for packaging microelectronic devices",
-  :status :granted,
-  :id "US3317287",
-  :sourcing :authoritative,
-  :filing-year 1966,
-  :assignee :general-micro-electronics,
-  :grant-year 1967,
-  :cites ["US2088949" "US2457616" "US2700212" "US2802897"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:beckman-instruments],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3317418/en",
-  :title
-  "Electrophoresis apparatus with adjustable sample application",
-  :status :granted,
-  :id "US3317418",
-  :sourcing :authoritative,
-  :filing-year 1963,
-  :assignee :beckman-instruments,
-  :grant-year 1967,
-  :cites ["US2768948" "US2834729" "US2868020" "US3047489"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:ajinomoto],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3317511/en",
-  :title "Preparation of hypoxanthine 1-n-oxide and its derivatives",
-  :status :granted,
-  :id "US3317511",
-  :sourcing :authoritative,
-  :filing-year 1964,
-  :assignee :ajinomoto,
-  :grant-year 1967,
-  :cites ["US2719843" "US3167540" "US3180859"],
   :term-years 20,
   :open-license :none}]

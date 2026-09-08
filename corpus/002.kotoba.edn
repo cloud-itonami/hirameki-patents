@@ -1,4 +1,92 @@
-[{:assignees [:sylvania-electric-products],
+[{:assignees [:united-states-rubber],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2441235/en",
+  :title "Apparatus for making sponge rubber articles",
+  :status :granted,
+  :id "US2441235",
+  :sourcing :authoritative,
+  :filing-year 1941,
+  :assignee :united-states-rubber,
+  :grant-year 1948,
+  :cites
+  ["DE647732C"
+   "GB218340A"
+   "GB471899A"
+   "US1240589"
+   "US1348010"
+   "US1382207"
+   "US1432732"
+   "US1432735"
+   "US1529813"
+   "US1538115"
+   "US1744224"
+   "US1803031"
+   "US1823611"
+   "US1886030"
+   "US1929470"
+   "US1939337"
+   "US1973452"
+   "US1983319"
+   "US1993082"
+   "US2051781"
+   "US2112513"
+   "US2139874"
+   "US2161308"
+   "US2164812"
+   "US2185913"
+   "US2208536"
+   "US598400"
+   "US671081"
+   "US694146"],
+  :term-years 20,
+  :open-license :none}
+ {:jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2442422/en",
+  :title "Method of making building material",
+  :status :granted,
+  :id "US2442422",
+  :sourcing :authoritative,
+  :filing-year 1944,
+  :assignee :unassigned,
+  :grant-year 1948,
+  :cites
+  ["US1410899"
+   "US1597539"
+   "US1673239"
+   "US1776790"
+   "US1779426"
+   "US1997359"
+   "US2115496"
+   "US2227212"
+   "US2333875"
+   "US2343740"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:general-electric],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2442613/en",
+  :title
+  "Process for making polysiloxane electrical insulating composition",
+  :status :granted,
+  :id "US2442613",
+  :sourcing :authoritative,
+  :filing-year 1944,
+  :assignee :general-electric,
+  :grant-year 1948,
+  :cites
+  ["GB548911A"
+   "GB549081A"
+   "US2022827"
+   "US2084261"
+   "US2258222"
+   "US2371068"
+   "US2375998"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:sylvania-electric-products],
   :jurisdiction :us,
   :field "UNKNOWN",
   :source "https://patents.google.com/patent/US2442863/en",
@@ -9873,78 +9961,5 @@
   :assignee :phillips-petroleum,
   :grant-year 1958,
   :cites ["BE533362A" "CA502597A" "US2520601" "US2712189"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:sperry-rand],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US2834676/en",
-  :title
-  "Photographic diffusion transfer process for producing multiple direct positive copies",
-  :status :granted,
-  :id "US2834676",
-  :sourcing :authoritative,
-  :filing-year 1955,
-  :assignee :sperry-rand,
-  :grant-year 1958,
-  :cites ["US2663641" "US2675313" "US2712995" "US2725298" "US2740717"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:beckman-instruments],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US2834729/en",
-  :title "Electrophoresis apparatus",
-  :status :granted,
-  :id "US2834729",
-  :sourcing :authoritative,
-  :filing-year 1955,
-  :assignee :beckman-instruments,
-  :grant-year 1958,
-  :cites ["DE842863C" "DE865379C" "FR1057440A" "GB647630A"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:polaroid],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US2835167/en",
-  :title "Photomicrographic apparatus",
-  :status :granted,
-  :id "US2835167",
-  :sourcing :authoritative,
-  :filing-year 1954,
-  :assignee :polaroid,
-  :grant-year 1958,
-  :cites
-  ["GB166028A"
-   "US2077792"
-   "US2153010"
-   "US2282643"
-   "US2339053"
-   "US2404064"
-   "US2483746"
-   "US2757568"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:lord-manufacturing],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US2837458/en",
-  :title "Bonding rubber to substrates",
-  :status :granted,
-  :id "US2837458",
-  :sourcing :authoritative,
-  :filing-year 1955,
-  :assignee :lord-manufacturing,
-  :grant-year 1958,
-  :cites
-  ["CA456911A"
-   "GB515675A"
-   "US2400474"
-   "US2415839"
-   "US2429080"
-   "US2430479"
-   "US2650212"
-   "US2713884"],
   :term-years 20,
   :open-license :none}]

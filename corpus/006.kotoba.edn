@@ -1,4 +1,76 @@
-[{:assignees [:wisconsin-alumni-research-foundation],
+[{:assignees [:syva],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US4220722/en",
+  :title
+  "Method for conjugating to polyamino compounds employing haloacyl groups and compositions prepared thereby",
+  :status :granted,
+  :id "US4220722",
+  :sourcing :authoritative,
+  :filing-year 1978,
+  :assignee :syva,
+  :grant-year 1980,
+  :cites ["US4067774" "US4100268" "US4144131"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:kansai-paint],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US4221683/en",
+  :title "Low temperature curing high solid coating composition",
+  :status :granted,
+  :id "US4221683",
+  :sourcing :authoritative,
+  :filing-year 1978,
+  :assignee :kansai-paint,
+  :grant-year 1980,
+  :cites ["US3082184" "US3352806" "US3773710" "US4027066" "US4083892"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:scripps-clinic-and-research-foundation],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US4222907/en",
+  :title "Induction of immunological tolerance",
+  :status :granted,
+  :id "US4222907",
+  :sourcing :authoritative,
+  :filing-year 1978,
+  :assignee :scripps-clinic-and-research-foundation,
+  :grant-year 1980,
+  :cites ["US3794630"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:university-of-illinois-foundation],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US4223005/en",
+  :title "Antibody coated bacteria",
+  :status :granted,
+  :id "US4223005",
+  :sourcing :authoritative,
+  :filing-year 1979,
+  :assignee :university-of-illinois-foundation,
+  :grant-year 1980,
+  :cites ["US3553310" "US3639558" "US3873684" "US3882225" "US3925018"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:bayer],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US4223099/en",
+  :title
+  "Copolymerizable molding compositions based on unsaturated polyurethanes",
+  :status :granted,
+  :id "US4223099",
+  :sourcing :authoritative,
+  :filing-year 1978,
+  :assignee :bayer,
+  :grant-year 1980,
+  :cites ["US3641199" "US3677920" "US3678014" "US3873640" "US4018851"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:wisconsin-alumni-research-foundation],
   :jurisdiction :us,
   :field "UNKNOWN",
   :source "https://patents.google.com/patent/US4223131/en",
@@ -163,6 +235,34 @@
   :assignee :allor-foundation,
   :grant-year 1980,
   :cites ["US3126325" "US3597321" "US3992523" "US4168206"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:celanese],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US4229340/en",
+  :title
+  "Glass fiber-reinforced polyethylene terephthalate/polyamide blends",
+  :status :granted,
+  :id "US4229340",
+  :sourcing :authoritative,
+  :filing-year 1979,
+  :assignee :celanese,
+  :grant-year 1980,
+  :cites
+  ["US3686069"
+   "US3812077"
+   "US3814725"
+   "US3903042"
+   "US3936413"
+   "US4008199"
+   "US4013613"
+   "US4024204"
+   "US4066587"
+   "US4097445"
+   "US4111892"
+   "US4141882"
+   "US4145372"],
   :term-years 20,
   :open-license :none}
  {:assignees [:uop],
@@ -871,6 +971,21 @@
   :assignee :damon,
   :grant-year 1981,
   :cites ["US3471261" "US3859228" "US3947352" "US3985840" "US4143201"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:shinto-paint],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US4259163/en",
+  :title
+  "Process for applying anticorrosive coating onto automobile body",
+  :status :granted,
+  :id "US4259163",
+  :sourcing :authoritative,
+  :filing-year 1979,
+  :assignee :shinto-paint,
+  :grant-year 1981,
+  :cites ["US3998716" "US4175018"],
   :term-years 20,
   :open-license :none}
  {:assignees [:syva],
@@ -1728,6 +1843,38 @@
   :grant-year 1981,
   :term-years 20,
   :open-license :none}
+ {:assignees [:basf-se],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US4310398/en",
+  :title
+  "Surface-coating binders and their use for electrocoating finishes",
+  :status :granted,
+  :id "US4310398",
+  :sourcing :authoritative,
+  :filing-year 1980,
+  :assignee :basf-se,
+  :grant-year 1982,
+  :cites
+  ["US3299007"
+   "US3692746"
+   "US3694416"
+   "US3883483"
+   "US3929156"
+   "US3933704"
+   "US3947338"
+   "US4001101"
+   "US4036795"
+   "US4036800"
+   "US4038233"
+   "US4046729"
+   "US4081343"
+   "US4097356"
+   "US4147676"
+   "US4197224"
+   "US4212779"],
+  :term-years 20,
+  :open-license :none}
  {:assignees [:genentech],
   :jurisdiction :us,
   :field "UNKNOWN",
@@ -2129,6 +2276,40 @@
    "US3962011"],
   :term-years 20,
   :open-license :none}
+ {:assignees [:otis-elevator],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US4338376/en",
+  :title
+  "High fluorocarbon content coating composition, method of application, and coated article",
+  :status :granted,
+  :id "US4338376",
+  :sourcing :authoritative,
+  :filing-year 1980,
+  :assignee :otis-elevator,
+  :grant-year 1982,
+  :cites
+  ["DE2141879C3"
+   "US3111426"
+   "US3144118"
+   "US3661831"
+   "US3766133"
+   "US3793287"
+   "US3850867"
+   "US3853690"
+   "US3872045"
+   "US3879302"
+   "US3899563"
+   "US3900594"
+   "US3929721"
+   "US3940360"
+   "US3970627"
+   "US3986993"
+   "US3988287"
+   "US4036906"
+   "US4073762"],
+  :term-years 20,
+  :open-license :none}
  {:assignees [:harvard-university],
   :jurisdiction :us,
   :field "UNKNOWN",
@@ -2427,6 +2608,20 @@
   :assignee :eastman-kodak,
   :grant-year 1982,
   :cites ["US3686360" "US3842021" "US4075180" "US4275189"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:toshiba-silicone],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US4354013/en",
+  :title "Process for preparing epoxy-modified silicone resins",
+  :status :granted,
+  :id "US4354013",
+  :sourcing :authoritative,
+  :filing-year 1981,
+  :assignee :toshiba-silicone,
+  :grant-year 1982,
+  :cites ["CA569378A" "US3324080" "US3474069" "US3491054" "US3779988"],
   :term-years 20,
   :open-license :none}
  {:assignees [:western-electric],
@@ -3207,6 +3402,30 @@
    "US4276212"],
   :term-years 20,
   :open-license :none}
+ {:assignees [:american-cyanamid],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US4404332/en",
+  :title "Cross-linking agents for cationic polymers",
+  :status :granted,
+  :id "US4404332",
+  :sourcing :authoritative,
+  :filing-year 1982,
+  :assignee :american-cyanamid,
+  :grant-year 1983,
+  :cites
+  ["GB1195087A"
+   "US3450660"
+   "US3519627"
+   "US3630998"
+   "US3806480"
+   "US3858273"
+   "US3862224"
+   "US4026855"
+   "US4039496"
+   "US4379911"],
+  :term-years 20,
+  :open-license :none}
  {:jurisdiction :us,
   :field "UNKNOWN",
   :source "https://patents.google.com/patent/US4404368/en",
@@ -3546,6 +3765,45 @@
    "US4344876"],
   :term-years 20,
   :open-license :none}
+ {:assignees [:herberts],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US4430462/en",
+  :title
+  "Cathodically depositable aqueous electro-dip lacquer coating composition",
+  :status :granted,
+  :id "US4430462",
+  :sourcing :authoritative,
+  :filing-year 1982,
+  :assignee :herberts,
+  :grant-year 1984,
+  :cites
+  ["DE2426996A1"
+   "GB1461823A"
+   "US3367991"
+   "US4064090"
+   "US4071428"
+   "US4172822"
+   "US4220568"
+   "US4252703"
+   "US4307153"
+   "US4370452"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:general-electric],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US4430484/en",
+  :title "Polyester-carbonate resin blends",
+  :status :granted,
+  :id "US4430484",
+  :sourcing :authoritative,
+  :filing-year 1982,
+  :assignee :general-electric,
+  :grant-year 1984,
+  :cites ["US3714772" "US3770697" "US4220563"],
+  :term-years 20,
+  :open-license :none}
  {:assignees [:ortho-diagnostic-systems],
   :jurisdiction :us,
   :field "UNKNOWN",
@@ -3844,6 +4102,50 @@
    "US4048038"
    "US4106920"
    "US4128470"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:grow-group],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US4456507/en",
+  :title
+  "Method of applying aqueous chip resistant coating compositions",
+  :status :granted,
+  :id "US4456507",
+  :sourcing :authoritative,
+  :filing-year 1982,
+  :assignee :grow-group,
+  :grant-year 1984,
+  :cites
+  ["US2125387"
+   "US2361548"
+   "US2552285"
+   "US3054712"
+   "US3057812"
+   "US3136651"
+   "US3210184"
+   "US3301829"
+   "US3498898"
+   "US3505098"
+   "US3554942"
+   "US3717509"
+   "US3761303"
+   "US3799848"
+   "US3879326"
+   "US3958317"
+   "US4017442"
+   "US4042748"
+   "US4071656"
+   "US4130523"
+   "US4172066"
+   "US4210499"
+   "US4225407"
+   "US4231907"
+   "US4248676"
+   "US4254006"
+   "US4254168"
+   "US4260420"
+   "US4282131"],
   :term-years 20,
   :open-license :none}
  {:assignees [:bayer],
@@ -4214,6 +4516,20 @@
   :assignee :abbott-laboratories,
   :grant-year 1985,
   :cites ["US3874853" "US4095948" "US4161515" "US4261968" "US4273556"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:bethlehem-steel],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US4500399/en",
+  :title "Method of producing metal-filled organic coating",
+  :status :granted,
+  :id "US4500399",
+  :sourcing :authoritative,
+  :filing-year 1983,
+  :assignee :bethlehem-steel,
+  :grant-year 1985,
+  :cites ["US3671331" "US3687739" "US4220675" "US4346143"],
   :term-years 20,
   :open-license :none}
  {:assignees [:university-patents],
@@ -4764,6 +5080,28 @@
   :cites ["GB2019408A" "US4446237"],
   :term-years 20,
   :open-license :none}
+ {:assignees [:basf-farben-und-fasern],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US4557976/en",
+  :title "Heat-hardenable binder mixture",
+  :status :granted,
+  :id "US4557976",
+  :sourcing :authoritative,
+  :filing-year 1983,
+  :assignee :basf-farben-und-fasern,
+  :grant-year 1985,
+  :cites
+  ["US3976717"
+   "US4006200"
+   "US4091049"
+   "US4223097"
+   "US4371667"
+   "US4373059"
+   "US4383059"
+   "US4447580"],
+  :term-years 20,
+  :open-license :none}
  {:assignees [:eastman-kodak],
   :jurisdiction :us,
   :field "UNKNOWN",
@@ -5208,6 +5546,27 @@
   :assignee :institut-pasteur,
   :grant-year 1986,
   :cites ["US3322634" "US4193982"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:herberts],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US4595717/en",
+  :title
+  "Aqueous electrodip lacquer coating compound capable of being deposited at the cathode, and its use",
+  :status :granted,
+  :id "US4595717",
+  :sourcing :authoritative,
+  :filing-year 1984,
+  :assignee :herberts,
+  :grant-year 1986,
+  :cites
+  ["EP0004090A2"
+   "US4373059"
+   "US4384946"
+   "US4430462"
+   "US4454264"
+   "US4476261"],
   :term-years 20,
   :open-license :none}
  {:assignees [:national-research-development-uk],
@@ -6536,6 +6895,30 @@
   :cites ["US4585736"],
   :term-years 20,
   :open-license :none}
+ {:assignees [:kansai-paint],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US4772672/en",
+  :title "Curable compositions and method of curing same",
+  :status :granted,
+  :id "US4772672",
+  :sourcing :authoritative,
+  :filing-year 1987,
+  :assignee :kansai-paint,
+  :grant-year 1988,
+  :cites
+  ["GB1060469A"
+   "GB2086914A"
+   "GB932817A"
+   "US3187018"
+   "US3242145"
+   "US3277036"
+   "US3532642"
+   "US3697496"
+   "US4245079"
+   "US4652618"],
+  :term-years 20,
+  :open-license :none}
  {:assignees [:national-distillers-and-chemical],
   :jurisdiction :us,
   :field "UNKNOWN",
@@ -7007,6 +7390,20 @@
    "WO1984000771A1"],
   :term-years 20,
   :open-license :none}
+ {:assignees [:shin-etsu-chemical],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US4876298/en",
+  :title "Epoxy resin composition",
+  :status :granted,
+  :id "US4876298",
+  :sourcing :authoritative,
+  :filing-year 1988,
+  :assignee :shin-etsu-chemical,
+  :grant-year 1989,
+  :cites ["US4376174" "US4720515"],
+  :term-years 20,
+  :open-license :none}
  {:assignees [:applied-biosystems],
   :jurisdiction :us,
   :field "UNKNOWN",
@@ -7290,6 +7687,27 @@
    "US4795699"
    "US4795700"
    "US4800159"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:asahi-glass],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US4960827/en",
+  :title "Curable resin composition",
+  :status :granted,
+  :id "US4960827",
+  :sourcing :authoritative,
+  :filing-year 1988,
+  :assignee :asahi-glass,
+  :grant-year 1990,
+  :cites
+  ["FR2424936A1"
+   "GB2081727A"
+   "US4250278"
+   "US4281092"
+   "US4413094"
+   "US4530969"
+   "US4530970"],
   :term-years 20,
   :open-license :none}
  {:assignees [:government-of-the-united-states-of-america],
@@ -9576,361 +9994,5 @@
   :assignee :life-technologies,
   :cites
   ["EP0035384A2" "US4139346" "US4321365" "US4342833" "WO1983003363A1"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:yale-university],
-  :jurisdiction :wo,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/WO1985004902A1/en",
-  :title "Junction-fragment dna probes and probe clusters",
-  :status :pending,
-  :id "WO1985004902A1",
-  :sourcing :authoritative,
-  :filing-year 1985,
-  :assignee :yale-university,
-  :cites ["US4394443" "US4395486"],
-  :term-years 20,
-  :open-license :none}
- {:assignees
-  [:university-of-california-berkeley
-   :university-of-california-san-diego-ucsd],
-  :jurisdiction :wo,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/WO1986001834A1/en",
-  :title
-  "Retroviral polypeptides associated with human cellular transformation",
-  :status :pending,
-  :id "WO1986001834A1",
-  :sourcing :authoritative,
-  :filing-year 1985,
-  :assignee :university-of-california-berkeley,
-  :term-years 20,
-  :open-license :none}
- {:assignees [:dgi :qiagen-gaithersburg],
-  :jurisdiction :wo,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/WO1986003227A1/en",
-  :title
-  "An assay for nucleic acid sequences, particularly genetic lesions",
-  :status :pending,
-  :id "WO1986003227A1",
-  :sourcing :authoritative,
-  :filing-year 1985,
-  :assignee :dgi,
-  :cites
-  ["EP0070685A2"
-   "EP0070686A2"
-   "EP0124221A1"
-   "EP0130515A2"
-   "EP0137515A2"
-   "EP0142299A2"
-   "EP0144913A2"
-   "EP0147665A1"
-   "EP0159719B1"],
-  :term-years 20,
-  :open-license :none}
- {:jurisdiction :wo,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/WO1986003782A1/en",
-  :title
-  "Improved sandwich hybridisation technique for the detection of nucleotide sequences",
-  :status :pending,
-  :id "WO1986003782A1",
-  :sourcing :authoritative,
-  :filing-year 1985,
-  :assignee :unassigned,
-  :cites
-  ["EP0070687B1"
-   "EP0079139A1"
-   "EP0124221A1"
-   "EP0130515A2"
-   "EP0130523A2"
-   "US4395486"
-   "WO1984004332A1"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:georgetown-university],
-  :jurisdiction :wo,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/WO1986005816A1/en",
-  :title "Type-specific papillomavirus dna sequences and peptides",
-  :status :pending,
-  :id "WO1986005816A1",
-  :sourcing :authoritative,
-  :filing-year 1986,
-  :assignee :georgetown-university,
-  :cites ["US4358535" "US4419446" "US4551270"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:salk-institute-for-biological-studies],
-  :jurisdiction :wo,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/WO1986005817A1/en",
-  :title "Dna sequencing",
-  :status :pending,
-  :id "WO1986005817A1",
-  :sourcing :authoritative,
-  :filing-year 1986,
-  :assignee :salk-institute-for-biological-studies,
-  :cites ["EP0115777A2"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:royal-postgraduate-medical-school],
-  :jurisdiction :wo,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/WO1987007531A1/en",
-  :title "Endotoxin removal",
-  :status :pending,
-  :id "WO1987007531A1",
-  :sourcing :authoritative,
-  :filing-year 1987,
-  :assignee :royal-postgraduate-medical-school,
-  :cites ["EP0110409A2" "EP0129786A2"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:queen-mary-university-of-london],
-  :jurisdiction :wo,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/WO1987007645A1/en",
-  :title "A method of sequencing nucleic acids",
-  :status :pending,
-  :id "WO1987007645A1",
-  :sourcing :authoritative,
-  :filing-year 1987,
-  :assignee :queen-mary-university-of-london,
-  :cites ["EP0121778A1" "EP0127737A1"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:siska-diagnostics],
-  :jurisdiction :wo,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/WO1988001302A1/en",
-  :title "Nucleic acid probe assay methods and compositions",
-  :status :pending,
-  :id "WO1988001302A1",
-  :sourcing :authoritative,
-  :filing-year 1987,
-  :assignee :siska-diagnostics,
-  :cites
-  ["EP0070687B1"
-   "US2277"
-   "US4302204"
-   "US4358535"
-   "US4419444"
-   "US4469796"
-   "US4486539"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:ei-du-pont-de-nemours-and],
-  :jurisdiction :wo,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/WO1988002381A1/en",
-  :title "Pigment dispersant resin with s-containing acid",
-  :status :pending,
-  :id "WO1988002381A1",
-  :sourcing :authoritative,
-  :filing-year 1987,
-  :assignee :ei-du-pont-de-nemours-and,
-  :cites
-  ["EP0058865A2"
-   "EP0129329B1"
-   "US2914499"
-   "US3711449"
-   "US3898037"
-   "US4001150"
-   "US4008293"
-   "US4177178"
-   "US4450013"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:ei-du-pont-de-nemours-and],
-  :jurisdiction :wo,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/WO1988002382A1/en",
-  :title "Pigment dispersant resin with p-containing acid",
-  :status :pending,
-  :id "WO1988002382A1",
-  :sourcing :authoritative,
-  :filing-year 1987,
-  :assignee :ei-du-pont-de-nemours-and,
-  :cites ["EP0170474A2" "US4001150" "US4612384"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:harvard-university],
-  :jurisdiction :wo,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/WO1988005470A1/en",
-  :title "T7 dna polymerase",
-  :status :pending,
-  :id "WO1988005470A1",
-  :sourcing :authoritative,
-  :filing-year 1987,
-  :assignee :harvard-university,
-  :cites ["US4483922"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:us-department-of-energy],
-  :jurisdiction :wo,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/WO1989003432A1/en",
-  :title "Method for rapid base sequencing in dna and rna",
-  :status :pending,
-  :id "WO1989003432A1",
-  :sourcing :authoritative,
-  :filing-year 1988,
-  :assignee :us-department-of-energy,
-  :cites ["EP0251575A1" "US3730844" "US4521509" "US4793705"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:cemu-bioteknik],
-  :jurisdiction :wo,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/WO1989009282A1/en",
-  :title "Method of sequencing dna",
-  :status :pending,
-  :id "WO1989009282A1",
-  :sourcing :authoritative,
-  :filing-year 1989,
-  :assignee :cemu-bioteknik,
-  :cites ["EP0206411A2" "EP0229701A2" "WO1987007645A1"],
-  :term-years 20,
-  :open-license :none}
- {:jurisdiction :wo,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/WO1989009283A1/en",
-  :title
-  "Pyrophosphate-based method and apparatus for sequencing nucleic acids",
-  :status :pending,
-  :id "WO1989009283A1",
-  :sourcing :authoritative,
-  :filing-year 1989,
-  :assignee :unassigned,
-  :term-years 20,
-  :open-license :none}
- {:assignees [:oxford-university-innovation],
-  :jurisdiction :wo,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/WO1989010977A1/en",
-  :title "Analysing polynucleotide sequences",
-  :status :pending,
-  :id "WO1989010977A1",
-  :sourcing :authoritative,
-  :filing-year 1989,
-  :assignee :oxford-university-innovation,
-  :cites ["EP0228075A2" "GB2156074A" "WO1985001051A1"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:cetus],
-  :jurisdiction :wo,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/WO1989011548A1/en",
-  :title "Immobilized sequence-specific probes",
-  :status :pending,
-  :id "WO1989011548A1",
-  :sourcing :authoritative,
-  :filing-year 1989,
-  :assignee :cetus,
-  :cites ["EP0130523A2" "EP0142299A2"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:baylor-college-of-medicine],
-  :jurisdiction :wo,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/WO1990000626A1/en",
-  :title "Solid phase assembly and reconstruction of biopolymers",
-  :status :pending,
-  :id "WO1990000626A1",
-  :sourcing :authoritative,
-  :filing-year 1989,
-  :assignee :baylor-college-of-medicine,
-  :term-years 20,
-  :open-license :none}
- {:assignees [:oxford-university-innovation],
-  :jurisdiction :wo,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/WO1990003382A1/en",
-  :title "Support-bound oligonucleotides",
-  :status :pending,
-  :id "WO1990003382A1",
-  :sourcing :authoritative,
-  :filing-year 1989,
-  :assignee :oxford-university-innovation,
-  :cites
-  ["DE3446635A1"
-   "EP0090789A1"
-   "EP0241363A1"
-   "EP0261283B1"
-   "WO1985001051A1"],
-  :term-years 20,
-  :open-license :none}
- {:assignees
-  [:dnax-research-institute-of-molecular-and-cellular-biology],
-  :jurisdiction :wo,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/WO1990004652A1/en",
-  :title "Dna sequencing by multiple mixed oligonucleotide probes",
-  :status :pending,
-  :id "WO1990004652A1",
-  :sourcing :authoritative,
-  :filing-year 1989,
-  :assignee :dnax-research-institute-of-molecular-and-cellular-biology,
-  :cites ["US4613566" "US4689295" "US4710465" "US4849332" "US4868104"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:eastman-kodak],
-  :jurisdiction :wo,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/WO1990008839A1/en",
-  :title "Thermostable polymerase dna sequencing reaction concentrate",
-  :status :pending,
-  :id "WO1990008839A1",
-  :sourcing :authoritative,
-  :filing-year 1990,
-  :assignee :eastman-kodak,
-  :cites ["EP0258017A2" "WO1988005470A1"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:amersham-international],
-  :jurisdiction :wo,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/WO1990013666A1/en",
-  :title "Sequencing method",
-  :status :pending,
-  :id "WO1990013666A1",
-  :sourcing :authoritative,
-  :filing-year 1990,
-  :assignee :amersham-international,
-  :cites ["EP0223618A2" "EP0233053A2" "US4770992" "WO1989003432A1"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:affymax-technologies],
-  :jurisdiction :wo,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/WO1990015070A1/en",
-  :title "Very large scale immobilized peptide synthesis",
-  :status :pending,
-  :id "WO1990015070A1",
-  :sourcing :authoritative,
-  :filing-year 1990,
-  :assignee :affymax-technologies,
-  :cites ["EP0328256A1"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:sri-international :stanford-research-institute],
-  :jurisdiction :wo,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/WO1991006678A1/en",
-  :title "Dna sequencing",
-  :status :pending,
-  :id "WO1991006678A1",
-  :sourcing :authoritative,
-  :filing-year 1990,
-  :assignee :sri-international,
-  :cites
-  ["EP0219342A2"
-   "EP0223618A2"
-   "WO1989003432A1"
-   "WO1989009283A1"
-   "WO1990013666A1"],
   :term-years 20,
   :open-license :none}]

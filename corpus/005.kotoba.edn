@@ -1,4 +1,71 @@
-[{:assignees [:general-electric],
+[{:assignees [:rhone-poulenc],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3810848/en",
+  :title "Complex forming polymers from dimethyl dipyridyl compounds",
+  :status :granted,
+  :id "US3810848",
+  :sourcing :authoritative,
+  :filing-year 1973,
+  :assignee :rhone-poulenc,
+  :grant-year 1974,
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:alza],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3811444/en",
+  :title "Bioerodible ocular device",
+  :status :granted,
+  :id "US3811444",
+  :sourcing :authoritative,
+  :filing-year 1972,
+  :assignee :alza,
+  :grant-year 1974,
+  :cites
+  ["US27401"
+   "US2935449"
+   "US3143472"
+   "US3279996"
+   "US3551556"
+   "US3608063"
+   "US3618604"
+   "US3629392"
+   "US3630200"
+   "US3674902"
+   "US3710795"
+   "US3737521"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:johnson-res-foundation-medical],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3811777/en",
+  :title "Time-sharing fluorometer and reflectometer",
+  :status :granted,
+  :id "US3811777",
+  :sourcing :authoritative,
+  :filing-year 1973,
+  :assignee :johnson-res-foundation-medical,
+  :grant-year 1974,
+  :cites ["US3392624" "US3461856" "US3512889" "US3711723"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:research],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3812245/en",
+  :title
+  "Novel compositions for radiotracer localization of deep vein thrombi",
+  :status :granted,
+  :id "US3812245",
+  :sourcing :authoritative,
+  :filing-year 1972,
+  :assignee :research,
+  :grant-year 1974,
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:general-electric],
   :jurisdiction :us,
   :field "UNKNOWN",
   :source "https://patents.google.com/patent/US3813316/en",
@@ -5184,6 +5251,26 @@
   :cites ["US3746976" "US3810010" "US3902115"],
   :term-years 20,
   :open-license :none}
+ {:assignees [:ei-du-pont-de-nemours-and],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US4015057/en",
+  :title "Abrasion resistant fluoroolefin coating composition",
+  :status :granted,
+  :id "US4015057",
+  :sourcing :authoritative,
+  :filing-year 1975,
+  :assignee :ei-du-pont-de-nemours-and,
+  :grant-year 1977,
+  :cites
+  ["US3429846"
+   "US3476827"
+   "US3514425"
+   "US3557034"
+   "US3651003"
+   "US3819562"],
+  :term-years 20,
+  :open-license :none}
  {:assignees [:akzona],
   :jurisdiction :us,
   :field "UNKNOWN",
@@ -9349,77 +9436,5 @@
    "US4044175"
    "US4053682"
    "US4082884"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:syva],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US4220722/en",
-  :title
-  "Method for conjugating to polyamino compounds employing haloacyl groups and compositions prepared thereby",
-  :status :granted,
-  :id "US4220722",
-  :sourcing :authoritative,
-  :filing-year 1978,
-  :assignee :syva,
-  :grant-year 1980,
-  :cites ["US4067774" "US4100268" "US4144131"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:kansai-paint],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US4221683/en",
-  :title "Low temperature curing high solid coating composition",
-  :status :granted,
-  :id "US4221683",
-  :sourcing :authoritative,
-  :filing-year 1978,
-  :assignee :kansai-paint,
-  :grant-year 1980,
-  :cites ["US3082184" "US3352806" "US3773710" "US4027066" "US4083892"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:scripps-clinic-and-research-foundation],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US4222907/en",
-  :title "Induction of immunological tolerance",
-  :status :granted,
-  :id "US4222907",
-  :sourcing :authoritative,
-  :filing-year 1978,
-  :assignee :scripps-clinic-and-research-foundation,
-  :grant-year 1980,
-  :cites ["US3794630"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:university-of-illinois-foundation],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US4223005/en",
-  :title "Antibody coated bacteria",
-  :status :granted,
-  :id "US4223005",
-  :sourcing :authoritative,
-  :filing-year 1979,
-  :assignee :university-of-illinois-foundation,
-  :grant-year 1980,
-  :cites ["US3553310" "US3639558" "US3873684" "US3882225" "US3925018"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:bayer],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US4223099/en",
-  :title
-  "Copolymerizable molding compositions based on unsaturated polyurethanes",
-  :status :granted,
-  :id "US4223099",
-  :sourcing :authoritative,
-  :filing-year 1978,
-  :assignee :bayer,
-  :grant-year 1980,
-  :cites ["US3641199" "US3677920" "US3678014" "US3873640" "US4018851"],
   :term-years 20,
   :open-license :none}]
