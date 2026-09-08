@@ -1,4 +1,64 @@
-[{:assignees [:behringwerke],
+[{:assignees [:technicon-instruments],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3320148/en",
+  :title
+  "Method and apparatus for electrophoretic density gradient separation and analysis",
+  :status :granted,
+  :id "US3320148",
+  :sourcing :authoritative,
+  :filing-year 1961,
+  :assignee :technicon-instruments,
+  :grant-year 1967,
+  :cites
+  ["US2412602"
+   "US2456185"
+   "US2675734"
+   "US2680989"
+   "US2762254"
+   "US2811202"
+   "US2817264"
+   "US2878178"
+   "US2879141"
+   "US2885922"
+   "US2899280"
+   "US2982170"
+   "US3019091"
+   "US3025227"
+   "US3059524"
+   "US3135816"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:technicon-instruments],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3320149/en",
+  :title "Electrophoresis apparatus",
+  :status :granted,
+  :id "US3320149",
+  :sourcing :authoritative,
+  :filing-year 1962,
+  :assignee :technicon-instruments,
+  :grant-year 1967,
+  :cites ["US2682801" "US2762254" "US2982170" "US3025227"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:bp],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3320428/en",
+  :title
+  "Photosensitive apparatus for detecting solid particles suspended in liquid",
+  :status :granted,
+  :id "US3320428",
+  :sourcing :authoritative,
+  :filing-year 1964,
+  :assignee :bp,
+  :grant-year 1967,
+  :cites ["US2873644" "US3111837" "US3138650" "US3202826" "US3234846"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:behringwerke],
   :jurisdiction :us,
   :field "UNKNOWN",
   :source "https://patents.google.com/patent/US3322632/en",
@@ -1032,6 +1092,28 @@
   :cites ["US2670328" "US2723761"],
   :term-years 20,
   :open-license :none}
+ {:assignees [:british-nylon-spinners],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3383343/en",
+  :title
+  "Elastomeric polyesters derived from glycols, dimerized fatty acids and aromatic dicarboxylic acids",
+  :status :granted,
+  :id "US3383343",
+  :sourcing :authoritative,
+  :filing-year 1964,
+  :assignee :british-nylon-spinners,
+  :grant-year 1968,
+  :cites
+  ["GB862583A"
+   "US1799420"
+   "US2111427"
+   "US2429219"
+   "US3057824"
+   "US3158584"
+   "US3311578"],
+  :term-years 20,
+  :open-license :none}
  {:assignees [:bayer],
   :jurisdiction :us,
   :field "UNKNOWN",
@@ -1593,6 +1675,21 @@
   :assignee :union-carbide,
   :grant-year 1969,
   :cites ["US3022543" "US3099350" "US3245198" "US3264272"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:gaf],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3426099/en",
+  :title
+  "Polyurethane elastomers containing an interpolymer of an alpha,beta-unsaturated dicarboxylic acid anhydride and an ethylenically unsaturated monomer",
+  :status :granted,
+  :id "US3426099",
+  :sourcing :authoritative,
+  :filing-year 1966,
+  :assignee :gaf,
+  :grant-year 1969,
+  :cites ["GB840093A" "US2891876" "US2981637" "US3055859" "US3271342"],
   :term-years 20,
   :open-license :none}
  {:assignees [:molectro],
@@ -4216,6 +4313,20 @@
    "US3270234"],
   :term-years 20,
   :open-license :none}
+ {:assignees [:schering],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3578612/en",
+  :title
+  "Polyurethane forms based on dimer fatty acid polyalkanolamides",
+  :status :granted,
+  :id "US3578612",
+  :sourcing :authoritative,
+  :filing-year 1969,
+  :assignee :schering,
+  :grant-year 1971,
+  :term-years 20,
+  :open-license :none}
  {:assignees [:hydronautics],
   :jurisdiction :us,
   :field "UNKNOWN",
@@ -5485,6 +5596,19 @@
   :cites ["GB993961A" "US2882250" "US3167485" "US3278392" "US3507661"],
   :term-years 20,
   :open-license :none}
+ {:assignees [:ei-du-pont-de-nemours-and],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3646158/en",
+  :title "Film of polyurethane and ethylene-acrylic acid interpolymer",
+  :status :granted,
+  :id "US3646158",
+  :sourcing :authoritative,
+  :filing-year 1970,
+  :assignee :ei-du-pont-de-nemours-and,
+  :grant-year 1972,
+  :term-years 20,
+  :open-license :none}
  {:assignees [:pharmacia],
   :jurisdiction :us,
   :field "UNKNOWN",
@@ -5737,6 +5861,21 @@
   :assignee :bell-telephone-laboratories,
   :grant-year 1972,
   :cites ["US3240108" "US3370268" "US3519331"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:albert-l-eustice],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3658635/en",
+  :title
+  "Adhesive interlayer suitable for constrained layer vibration damping",
+  :status :granted,
+  :id "US3658635",
+  :sourcing :authoritative,
+  :filing-year 1968,
+  :assignee :albert-l-eustice,
+  :grant-year 1972,
+  :cites ["US3071217" "US3304219" "US3338739" "US3467572"],
   :term-years 20,
   :open-license :none}
  {:assignees [:hercules],
@@ -8940,149 +9079,6 @@
   :sourcing :authoritative,
   :filing-year 1972,
   :assignee :unassigned,
-  :grant-year 1974,
-  :term-years 20,
-  :open-license :none}
- {:assignees [:filtering-materials],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3817703/en",
-  :title "Laser energized sterilization method and apparatus",
-  :status :granted,
-  :id "US3817703",
-  :sourcing :authoritative,
-  :filing-year 1971,
-  :assignee :filtering-materials,
-  :grant-year 1974,
-  :term-years 20,
-  :open-license :none}
- {:assignees [:gd-searle],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3817706/en",
-  :title "Fluorescence quantitative thin layer chromatographic method",
-  :status :granted,
-  :id "US3817706",
-  :sourcing :authoritative,
-  :filing-year 1972,
-  :assignee :gd-searle,
-  :grant-year 1974,
-  :term-years 20,
-  :open-license :none}
- {:assignees [:syva],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3817837/en",
-  :title "Enzyme amplification assay",
-  :status :granted,
-  :id "US3817837",
-  :sourcing :authoritative,
-  :filing-year 1972,
-  :assignee :syva,
-  :grant-year 1974,
-  :term-years 20,
-  :open-license :none}
- {:assignees [:bayer],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3819586/en",
-  :title "Coating material based on blocked polyurethanes",
-  :status :granted,
-  :id "US3819586",
-  :sourcing :authoritative,
-  :filing-year 1972,
-  :assignee :bayer,
-  :grant-year 1974,
-  :cites
-  ["US2698845"
-   "US2982754"
-   "US3099642"
-   "US3245961"
-   "US3384506"
-   "US3439649"
-   "US3499852"
-   "US3659003"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:corning-glass-works],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3819913/en",
-  :title "Detection of eosinophil cells on a blood smeared slide",
-  :status :granted,
-  :id "US3819913",
-  :sourcing :authoritative,
-  :filing-year 1973,
-  :assignee :corning-glass-works,
-  :grant-year 1974,
-  :cites ["US2817265" "US3315229"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:us-department-of-health-and-human-services],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3821087/en",
-  :title "Cell culture on semi-permeable tubular membranes",
-  :status :granted,
-  :id "US3821087",
-  :sourcing :authoritative,
-  :filing-year 1972,
-  :assignee :us-department-of-health-and-human-services,
-  :grant-year 1974,
-  :term-years 20,
-  :open-license :none}
- {:assignees [:ei-du-pont-de-nemours-and],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3821145/en",
-  :title
-  "Aqueous coating composition of an acrylic graft copolymer,a linear acrylic polymer and a cross-linking agent",
-  :status :granted,
-  :id "US3821145",
-  :sourcing :authoritative,
-  :filing-year 1972,
-  :assignee :ei-du-pont-de-nemours-and,
-  :grant-year 1974,
-  :term-years 20,
-  :open-license :none}
- {:assignees [:cox-&-a],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3822344/en",
-  :title
-  "Pharmaceutical compositions providing potassium chloride in aqueous solution",
-  :status :granted,
-  :id "US3822344",
-  :sourcing :authoritative,
-  :filing-year 1972,
-  :assignee :cox-&-a,
-  :grant-year 1974,
-  :term-years 20,
-  :open-license :none}
- {:jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3823126/en",
-  :title
-  "Process of separating human cancer antigen proteins by gel filtration",
-  :status :granted,
-  :id "US3823126",
-  :sourcing :authoritative,
-  :filing-year 1972,
-  :assignee :unassigned,
-  :grant-year 1974,
-  :term-years 20,
-  :open-license :none}
- {:assignees [:nat-res-dev],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3824150/en",
-  :title
-  "Enzyme bound to polymeric sheet with a triazine bridging group",
-  :status :granted,
-  :id "US3824150",
-  :sourcing :authoritative,
-  :filing-year 1968,
-  :assignee :nat-res-dev,
   :grant-year 1974,
   :term-years 20,
   :open-license :none}]

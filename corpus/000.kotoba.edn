@@ -3539,6 +3539,19 @@
   :assignee :akademii-nauk-sssr,
   :term-years 20,
   :open-license :none}
+ {:assignees [:basf-se],
+  :jurisdiction :gb,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/GB1440030A/en",
+  :title
+  "Promoting mixing or adhesion of incompatible thermoplastic polymers",
+  :status :pending,
+  :id "GB1440030A",
+  :sourcing :authoritative,
+  :filing-year 1973,
+  :assignee :basf-se,
+  :term-years 20,
+  :open-license :none}
  {:assignees [:radiometer-as],
   :jurisdiction :gb,
   :field "UNKNOWN",
@@ -8531,18 +8544,6 @@
   :sourcing :authoritative,
   :filing-year 1922,
   :assignee :ford-motor,
-  :grant-year 1925,
-  :term-years 20,
-  :open-license :none}
- {:jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US1535927/en",
-  :title "Beverage cooler",
-  :status :granted,
-  :id "US1535927",
-  :sourcing :authoritative,
-  :filing-year 1924,
-  :assignee :unassigned,
   :grant-year 1925,
   :term-years 20,
   :open-license :none}]

@@ -1,4 +1,333 @@
-[{:assignees [:behringwerke],
+[{:assignees [:kansai-paint],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US4226901/en",
+  :title "Method for metallic finish coating",
+  :status :granted,
+  :id "US4226901",
+  :sourcing :authoritative,
+  :filing-year 1978,
+  :assignee :kansai-paint,
+  :grant-year 1980,
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:calbiochem-behring],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US4228237/en",
+  :title "Methods for the detection and determination of ligands",
+  :status :granted,
+  :id "US4228237",
+  :sourcing :authoritative,
+  :filing-year 1978,
+  :assignee :calbiochem-behring,
+  :grant-year 1980,
+  :cites ["BE841179A" "US4002532" "US4016043" "US4134792"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:allor-foundation],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US4228238/en",
+  :title
+  "Method of laboratory testing in water-based culture media for zones of inhibition",
+  :status :granted,
+  :id "US4228238",
+  :sourcing :authoritative,
+  :filing-year 1979,
+  :assignee :allor-foundation,
+  :grant-year 1980,
+  :cites ["US3126325" "US3597321" "US3992523" "US4168206"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:uop],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US4229536/en",
+  :title "Process for preparing immobilized enzymes",
+  :status :granted,
+  :id "US4229536",
+  :sourcing :authoritative,
+  :filing-year 1978,
+  :assignee :uop,
+  :grant-year 1980,
+  :cites
+  ["US3519538"
+   "US3669841"
+   "US3705084"
+   "US3715278"
+   "US3783101"
+   "US3796634"
+   "US3802997"
+   "US3821083"
+   "US3930950"
+   "US4071409"
+   "US4072566"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:new-york-university-nyu],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US4229537/en",
+  :title
+  "Preparation of trichloro-s-triazine activated supports for coupling ligands",
+  :status :granted,
+  :id "US4229537",
+  :sourcing :authoritative,
+  :filing-year 1978,
+  :assignee :new-york-university-nyu,
+  :grant-year 1980,
+  :cites
+  ["US3619371"
+   "US3674767"
+   "US3788948"
+   "US3824150"
+   "US3876501"
+   "US4007089"
+   "US4119494"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:us-department-of-energy],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US4230633/en",
+  :title "Novel Fischer-Tropsch catalysts",
+  :status :granted,
+  :id "US4230633",
+  :sourcing :authoritative,
+  :filing-year 1979,
+  :assignee :us-department-of-energy,
+  :grant-year 1980,
+  :cites ["US4022810" "US4032556" "US4096163" "US4132672"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:miles-laboratories],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US4230797/en",
+  :title
+  "Heterogenous specific binding assay employing a coenzyme as label",
+  :status :granted,
+  :id "US4230797",
+  :sourcing :authoritative,
+  :filing-year 1978,
+  :assignee :miles-laboratories,
+  :grant-year 1980,
+  :cites ["US3659104" "US3817837" "US3839153" "US3880934" "US3998943"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:pharmacia-diagnostics],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US4231999/en",
+  :title
+  "Method in assaying methods involving biospecific affinity reactions and reagent for use in said method",
+  :status :granted,
+  :id "US4231999",
+  :sourcing :authoritative,
+  :filing-year 1978,
+  :assignee :pharmacia-diagnostics,
+  :grant-year 1980,
+  :cites ["US3896217" "US4041146" "US4108975" "US4108976"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:pharmacia-diagnostics],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US4232119/en",
+  :title "Reagent for use in immunochemical assay methods",
+  :status :granted,
+  :id "US4232119",
+  :sourcing :authoritative,
+  :filing-year 1978,
+  :assignee :pharmacia-diagnostics,
+  :grant-year 1980,
+  :cites ["US4002532" "US4004979" "US4048416"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:research],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US4234561/en",
+  :title "Antigen for early pregnancy test and contraceptive vaccine",
+  :status :granted,
+  :id "US4234561",
+  :sourcing :authoritative,
+  :filing-year 1978,
+  :assignee :research,
+  :grant-year 1980,
+  :cites ["GB1473601A" "US3903262" "US3992514" "US4016250"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:syva],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US4235869/en",
+  :title "Assay employing a labeled Fab-fragment ligand complex",
+  :status :granted,
+  :id "US4235869",
+  :sourcing :authoritative,
+  :filing-year 1978,
+  :assignee :syva,
+  :grant-year 1980,
+  :cites ["US3935074" "US3996345" "US3998943" "US4104029"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:medical-college-of-wisconsin],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US4235960/en",
+  :title "Competitive enzyme-linked immunoassay",
+  :status :granted,
+  :id "US4235960",
+  :sourcing :authoritative,
+  :filing-year 1977,
+  :assignee :medical-college-of-wisconsin,
+  :grant-year 1980,
+  :cites
+  ["US3773625"
+   "US3879262"
+   "US4002532"
+   "US4021534"
+   "US4024235"
+   "US4034074"
+   "US4048298"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:dynatech-laboratories],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US4235971/en",
+  :title "Inoculator",
+  :status :granted,
+  :id "US4235971",
+  :sourcing :authoritative,
+  :filing-year 1978,
+  :assignee :dynatech-laboratories,
+  :grant-year 1980,
+  :cites
+  ["US3356462"
+   "US3436171"
+   "US3455788"
+   "US3536449"
+   "US3650360"
+   "US3728227"
+   "US3772154"
+   "US3912596"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:minnesota-mining-and-manufacturing],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US4236893/en",
+  :title
+  "Method for the assay of classes of antigen-specific antibodies",
+  :status :granted,
+  :id "US4236893",
+  :sourcing :authoritative,
+  :filing-year 1979,
+  :assignee :minnesota-mining-and-manufacturing,
+  :grant-year 1980,
+  :cites ["US3720760" "US3966898" "US4092114"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:merck-patent],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US4237223/en",
+  :title "Sheet for picking off microorganisms",
+  :status :granted,
+  :id "US4237223",
+  :sourcing :authoritative,
+  :filing-year 1979,
+  :assignee :merck-patent,
+  :grant-year 1980,
+  :cites
+  ["US1901094"
+   "US2904474"
+   "US2985554"
+   "US3085572"
+   "US3661718"
+   "US3751341"
+   "US3819467"
+   "US3846248"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:leland-stanford-junior-university],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US4237224/en",
+  :title
+  "Process for producing biologically functional molecular chimeras",
+  :status :granted,
+  :id "US4237224",
+  :sourcing :authoritative,
+  :filing-year 1979,
+  :assignee :leland-stanford-junior-university,
+  :grant-year 1980,
+  :cites ["US3813316"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:ei-du-pont-de-nemours-and],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US4238387/en",
+  :title "Rheology control additive for paints",
+  :status :granted,
+  :id "US4238387",
+  :sourcing :authoritative,
+  :filing-year 1978,
+  :assignee :ei-du-pont-de-nemours-and,
+  :grant-year 1980,
+  :cites ["US3013897" "US3069375" "US3708428" "US4007128" "US4066820"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:miles-laboratories],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US4238565/en",
+  :title
+  "Specific binding assay with a prosthetic group as a label component",
+  :status :granted,
+  :id "US4238565",
+  :sourcing :authoritative,
+  :filing-year 1979,
+  :assignee :miles-laboratories,
+  :grant-year 1980,
+  :cites ["US3879262" "US4040907" "US4134792"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:american-cyanamid],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US4238574/en",
+  :title
+  "Blends of thermoplastic polyurethane elastomers and ethylene/carboxylic acid copolymers for blow molding",
+  :status :granted,
+  :id "US4238574",
+  :sourcing :authoritative,
+  :filing-year 1979,
+  :assignee :american-cyanamid,
+  :grant-year 1980,
+  :cites ["US3658635" "US3833708"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:general-electric],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US4238757/en",
+  :title
+  "Field effect transistor for detection of biological reactions",
+  :status :granted,
+  :id "US4238757",
+  :sourcing :authoritative,
+  :filing-year 1976,
+  :assignee :general-electric,
+  :grant-year 1980,
+  :cites ["US3831432" "US3853467"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:behringwerke],
   :jurisdiction :us,
   :field "UNKNOWN",
   :source "https://patents.google.com/patent/US4239743/en",
@@ -847,6 +1176,20 @@
   :assignee :olympus-optical,
   :grant-year 1981,
   :cites ["US3657537" "US3950649" "US4058732" "US4172227"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:arco-polymers],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US4287314/en",
+  :title "Maleimide-styrene copolymer blend with polyurethane",
+  :status :granted,
+  :id "US4287314",
+  :sourcing :authoritative,
+  :filing-year 1980,
+  :assignee :arco-polymers,
+  :grant-year 1981,
+  :cites ["US3179716" "US3385909" "US3426099"],
   :term-years 20,
   :open-license :none}
  {:assignees [:e-y-laboratories],
@@ -1875,6 +2218,20 @@
   :assignee :cetus,
   :grant-year 1982,
   :cites ["US4264731" "US4293652"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:eastman-kodak],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US4352924/en",
+  :title "Thermosetting powder coating compositions",
+  :status :granted,
+  :id "US4352924",
+  :sourcing :authoritative,
+  :filing-year 1981,
+  :assignee :eastman-kodak,
+  :grant-year 1982,
+  :cites ["US3686360" "US3842021" "US4075180" "US4275189"],
   :term-years 20,
   :open-license :none}
  {:assignees [:western-electric],
@@ -9533,97 +9890,5 @@
   :assignee :kansai-paint,
   :cites
   ["JP2000154204A" "JP2005343966A" "JP2006176618A" "WO2006009219A1"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:microsoft],
-  :jurisdiction :wo,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/WO2010062607A2/en",
-  :title "Surfacing and management of window-specific controls",
-  :status :pending,
-  :id "WO2010062607A2",
-  :sourcing :authoritative,
-  :filing-year 2009,
-  :assignee :microsoft,
-  :term-years 20,
-  :open-license :none}
- {:assignees [:asahi-kasei-chemicals],
-  :jurisdiction :wo,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/WO2011096559A1/en",
-  :title
-  "Block polyisocyanate composition and coating composition containing same",
-  :status :pending,
-  :id "WO2011096559A1",
-  :sourcing :authoritative,
-  :filing-year 2011,
-  :assignee :asahi-kasei-chemicals,
-  :cites
-  ["EP0096210A1"
-   "EP0159117B1"
-   "EP0600314A1"
-   "JP2002521541A"
-   "JP2004528415A"
-   "JP2009155408A"
-   "JP2009155409A"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:kansai-paint],
-  :jurisdiction :wo,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/WO2012137881A1/en",
-  :title "Blocked polyisocyanate compound",
-  :status :pending,
-  :id "WO2012137881A1",
-  :sourcing :authoritative,
-  :filing-year 2012,
-  :assignee :kansai-paint,
-  :cites
-  ["JP2000290493A"
-   "JP2000327647A"
-   "JP2002322238A"
-   "JP2004026958A"
-   "JP2006160936A"
-   "JP2009155409A"
-   "JP2009191127A"
-   "WO2011096559A1"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:kansai-paint],
-  :jurisdiction :wo,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/WO2013151050A1/en",
-  :title "Aqueous paint composition and method for forming coating",
-  :status :pending,
-  :id "WO2013151050A1",
-  :sourcing :authoritative,
-  :filing-year 2013,
-  :assignee :kansai-paint,
-  :cites
-  ["JP2001205175A"
-   "JP2002153806A"
-   "JP2002322238A"
-   "JP2003105258A"
-   "JP2004026958A"
-   "JP2004358462A"
-   "JP2006056973A"
-   "JP2009155409A"
-   "JP2011016957A"
-   "JP2011506620A"
-   "WO2004061025A1"
-   "WO2012137881A1"
-   "WO2012137884A1"],
-  :term-years 20,
-  :open-license :none}
- {:jurisdiction :wo,
-  :essentiality 0.65,
-  :field "H01M",
-  :title "Solid-state battery electrolyte composition",
-  :status :pending,
-  :id "WO2020100000A1",
-  :sourcing :representative,
-  :filing-year 2019,
-  :assignee :toyota,
-  :grant-year nil,
   :term-years 20,
   :open-license :none}]

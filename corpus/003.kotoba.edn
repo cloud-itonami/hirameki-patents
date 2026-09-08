@@ -1,4 +1,32 @@
-[{:assignees [:phillips-petroleum],
+[{:assignees [:american-cyanamid],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2844576/en",
+  :title "Preparation of purines",
+  :status :granted,
+  :id "US2844576",
+  :sourcing :authoritative,
+  :filing-year 1955,
+  :assignee :american-cyanamid,
+  :grant-year 1958,
+  :cites ["GB713259A" "US2691654" "US2697709"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:wr-grace-and],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2845400/en",
+  :title "Hydrazine resins",
+  :status :granted,
+  :id "US2845400",
+  :sourcing :authoritative,
+  :filing-year 1955,
+  :assignee :wr-grace-and,
+  :grant-year 1958,
+  :cites ["FR826512A"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:phillips-petroleum],
   :jurisdiction :us,
   :field "UNKNOWN",
   :source "https://patents.google.com/patent/US2846427/en",
@@ -8823,6 +8851,21 @@
   :cites ["US3134263"],
   :term-years 20,
   :open-license :none}
+ {:assignees [:general-mills],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3267080/en",
+  :title
+  "Reaction product of an organic diisocyanate with a polymeric fat aciddialkanolamine condensate",
+  :status :granted,
+  :id "US3267080",
+  :sourcing :authoritative,
+  :filing-year 1965,
+  :assignee :general-mills,
+  :grant-year 1966,
+  :cites ["US3139437" "US3206416"],
+  :term-years 20,
+  :open-license :none}
  {:assignees [:ionics],
   :jurisdiction :us,
   :field "UNKNOWN",
@@ -9786,65 +9829,5 @@
    "US2919205"
    "US3044896"
    "US3108017"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:technicon-instruments],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3320148/en",
-  :title
-  "Method and apparatus for electrophoretic density gradient separation and analysis",
-  :status :granted,
-  :id "US3320148",
-  :sourcing :authoritative,
-  :filing-year 1961,
-  :assignee :technicon-instruments,
-  :grant-year 1967,
-  :cites
-  ["US2412602"
-   "US2456185"
-   "US2675734"
-   "US2680989"
-   "US2762254"
-   "US2811202"
-   "US2817264"
-   "US2878178"
-   "US2879141"
-   "US2885922"
-   "US2899280"
-   "US2982170"
-   "US3019091"
-   "US3025227"
-   "US3059524"
-   "US3135816"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:technicon-instruments],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3320149/en",
-  :title "Electrophoresis apparatus",
-  :status :granted,
-  :id "US3320149",
-  :sourcing :authoritative,
-  :filing-year 1962,
-  :assignee :technicon-instruments,
-  :grant-year 1967,
-  :cites ["US2682801" "US2762254" "US2982170" "US3025227"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:bp],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3320428/en",
-  :title
-  "Photosensitive apparatus for detecting solid particles suspended in liquid",
-  :status :granted,
-  :id "US3320428",
-  :sourcing :authoritative,
-  :filing-year 1964,
-  :assignee :bp,
-  :grant-year 1967,
-  :cites ["US2873644" "US3111837" "US3138650" "US3202826" "US3234846"],
   :term-years 20,
   :open-license :none}]

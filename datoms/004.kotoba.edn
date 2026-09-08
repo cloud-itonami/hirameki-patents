@@ -1,4 +1,53 @@
 [[":db/add"
+  "hirameki-patent:US2227138"
+  ":hirameki.patent/jurisdiction"
+  ":us"]
+ [":db/add"
+  "hirameki-patent:US2227138"
+  ":hirameki.patent/field"
+  "UNKNOWN"]
+ [":db/add"
+  "hirameki-patent:US2227138"
+  ":hirameki.patent/assignee"
+  ":unassigned"]
+ [":db/add"
+  "hirameki-patent:US2227138"
+  ":hirameki.patent/status"
+  ":granted"]
+ [":db/add"
+  "hirameki-patent:US2227138"
+  ":hirameki.patent/open-license"
+  ":none"]
+ [":db/add"
+  "hirameki-patent:US2227138"
+  ":hirameki.obs/release-status"
+  ":public-domain"]
+ [":db/add"
+  "hirameki-patent:US2227138"
+  ":hirameki/sourcing"
+  ":authoritative"]
+ [":db/add" "hirameki-patent:US2227138" ":hirameki/derived" true]
+ [":db/add"
+  "hirameki-patent:US2227138"
+  ":hirameki.obs/years-to-expiry"
+  -72]
+ [":db/add"
+  "hirameki-patent:US2227138"
+  ":hirameki/source"
+  "https://patents.google.com/patent/US2227138/en"]
+ [":db/add"
+  "hirameki-patent:US2227494"
+  ":hirameki.patent/title"
+  "Method and apparatus for coating paper"]
+ [":db/add"
+  "hirameki-patent:US2227494"
+  ":hirameki.patent/jurisdiction"
+  ":us"]
+ [":db/add"
+  "hirameki-patent:US2227494"
+  ":hirameki.patent/field"
+  "UNKNOWN"]
+ [":db/add"
   "hirameki-patent:US2227494"
   ":hirameki.patent/assignee"
   ":plastics-finishing"]
@@ -10392,49 +10441,4 @@
  [":db/add"
   "hirameki-patent:US2396911"
   ":hirameki.patent/title"
-  "Reaction propelling device for aircraft"]
- [":db/add"
-  "hirameki-patent:US2396911"
-  ":hirameki.patent/jurisdiction"
-  ":us"]
- [":db/add"
-  "hirameki-patent:US2396911"
-  ":hirameki.patent/field"
-  "UNKNOWN"]
- [":db/add"
-  "hirameki-patent:US2396911"
-  ":hirameki.patent/assignee"
-  ":unassigned"]
- [":db/add"
-  "hirameki-patent:US2396911"
-  ":hirameki.patent/status"
-  ":granted"]
- [":db/add"
-  "hirameki-patent:US2396911"
-  ":hirameki.patent/open-license"
-  ":none"]
- [":db/add"
-  "hirameki-patent:US2396911"
-  ":hirameki.obs/release-status"
-  ":public-domain"]
- [":db/add"
-  "hirameki-patent:US2396911"
-  ":hirameki/sourcing"
-  ":authoritative"]
- [":db/add" "hirameki-patent:US2396911" ":hirameki/derived" true]
- [":db/add"
-  "hirameki-patent:US2396911"
-  ":hirameki.obs/years-to-expiry"
-  -66]
- [":db/add"
-  "hirameki-patent:US2396911"
-  ":hirameki/source"
-  "https://patents.google.com/patent/US2396911/en"]
- [":db/add"
-  "hirameki-patent:US2396946"
-  ":hirameki.patent/title"
-  "Method and apparatus for applying thermoplastic material to sheets or webs"]
- [":db/add"
-  "hirameki-patent:US2396946"
-  ":hirameki.patent/jurisdiction"
-  ":us"]]
+  "Reaction propelling device for aircraft"]]

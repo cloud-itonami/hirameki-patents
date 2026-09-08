@@ -1,4 +1,147 @@
-[{:assignees [:american-express-investment-management],
+[{:assignees [:filtering-materials],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3817703/en",
+  :title "Laser energized sterilization method and apparatus",
+  :status :granted,
+  :id "US3817703",
+  :sourcing :authoritative,
+  :filing-year 1971,
+  :assignee :filtering-materials,
+  :grant-year 1974,
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:gd-searle],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3817706/en",
+  :title "Fluorescence quantitative thin layer chromatographic method",
+  :status :granted,
+  :id "US3817706",
+  :sourcing :authoritative,
+  :filing-year 1972,
+  :assignee :gd-searle,
+  :grant-year 1974,
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:syva],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3817837/en",
+  :title "Enzyme amplification assay",
+  :status :granted,
+  :id "US3817837",
+  :sourcing :authoritative,
+  :filing-year 1972,
+  :assignee :syva,
+  :grant-year 1974,
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:bayer],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3819586/en",
+  :title "Coating material based on blocked polyurethanes",
+  :status :granted,
+  :id "US3819586",
+  :sourcing :authoritative,
+  :filing-year 1972,
+  :assignee :bayer,
+  :grant-year 1974,
+  :cites
+  ["US2698845"
+   "US2982754"
+   "US3099642"
+   "US3245961"
+   "US3384506"
+   "US3439649"
+   "US3499852"
+   "US3659003"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:corning-glass-works],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3819913/en",
+  :title "Detection of eosinophil cells on a blood smeared slide",
+  :status :granted,
+  :id "US3819913",
+  :sourcing :authoritative,
+  :filing-year 1973,
+  :assignee :corning-glass-works,
+  :grant-year 1974,
+  :cites ["US2817265" "US3315229"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:us-department-of-health-and-human-services],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3821087/en",
+  :title "Cell culture on semi-permeable tubular membranes",
+  :status :granted,
+  :id "US3821087",
+  :sourcing :authoritative,
+  :filing-year 1972,
+  :assignee :us-department-of-health-and-human-services,
+  :grant-year 1974,
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:ei-du-pont-de-nemours-and],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3821145/en",
+  :title
+  "Aqueous coating composition of an acrylic graft copolymer,a linear acrylic polymer and a cross-linking agent",
+  :status :granted,
+  :id "US3821145",
+  :sourcing :authoritative,
+  :filing-year 1972,
+  :assignee :ei-du-pont-de-nemours-and,
+  :grant-year 1974,
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:cox-&-a],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3822344/en",
+  :title
+  "Pharmaceutical compositions providing potassium chloride in aqueous solution",
+  :status :granted,
+  :id "US3822344",
+  :sourcing :authoritative,
+  :filing-year 1972,
+  :assignee :cox-&-a,
+  :grant-year 1974,
+  :term-years 20,
+  :open-license :none}
+ {:jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3823126/en",
+  :title
+  "Process of separating human cancer antigen proteins by gel filtration",
+  :status :granted,
+  :id "US3823126",
+  :sourcing :authoritative,
+  :filing-year 1972,
+  :assignee :unassigned,
+  :grant-year 1974,
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:nat-res-dev],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3824150/en",
+  :title
+  "Enzyme bound to polymeric sheet with a triazine bridging group",
+  :status :granted,
+  :id "US3824150",
+  :sourcing :authoritative,
+  :filing-year 1968,
+  :assignee :nat-res-dev,
+  :grant-year 1974,
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:american-express-investment-management],
   :jurisdiction :us,
   :field "UNKNOWN",
   :source "https://patents.google.com/patent/US3824393/en",
@@ -245,6 +388,19 @@
    "US3507145"
    "US3586554"
    "US3685140"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:union-carbide],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3833708/en",
+  :title "Immiscible polymer products and processes",
+  :status :granted,
+  :id "US3833708",
+  :sourcing :authoritative,
+  :filing-year 1972,
+  :assignee :union-carbide,
+  :grant-year 1974,
   :term-years 20,
   :open-license :none}
  {:assignees [:dexter-c-&-sons],
@@ -3835,6 +3991,28 @@
   :cites ["GB920213A" "US2659713" "US3558562"],
   :term-years 20,
   :open-license :none}
+ {:assignees [:imperial-chemical-industries],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3970715/en",
+  :title "Thermoplastic polyurethanes mixed with ethylene copolymers",
+  :status :granted,
+  :id "US3970715",
+  :sourcing :authoritative,
+  :filing-year 1974,
+  :assignee :imperial-chemical-industries,
+  :grant-year 1976,
+  :cites
+  ["GB1091200A"
+   "US3201374"
+   "US3264272"
+   "US3305503"
+   "US3429948"
+   "US3562355"
+   "US3646158"
+   "US3670049"],
+  :term-years 20,
+  :open-license :none}
  {:jurisdiction :us,
   :field "UNKNOWN",
   :source "https://patents.google.com/patent/US3970841/en",
@@ -5265,6 +5443,32 @@
   :cites ["US3726969"],
   :term-years 20,
   :open-license :none}
+ {:assignees [:ppg-industries],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US4031050/en",
+  :title
+  "Cationic electrodepositable compositions of blocked NCO and acid salt of adduct of amine and polyepoxide",
+  :status :granted,
+  :id "US4031050",
+  :sourcing :authoritative,
+  :filing-year 1975,
+  :assignee :ppg-industries,
+  :grant-year 1977,
+  :cites
+  ["US2995531"
+   "US3248259"
+   "US3336253"
+   "US3438922"
+   "US3449281"
+   "US3489744"
+   "US3491051"
+   "US3509103"
+   "US3723372"
+   "US3803069"
+   "US3936405"],
+  :term-years 20,
+  :open-license :none}
  {:assignees [:snamprogetti-spa],
   :jurisdiction :us,
   :field "UNKNOWN",
@@ -5695,6 +5899,21 @@
   :assignee :dow-chemical,
   :grant-year 1977,
   :cites ["US3125555" "US3629367" "US3641202" "US3865796"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:eastman-kodak],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US4045431/en",
+  :title
+  "Flexible polyester having a melting point of at least 140° C.",
+  :status :granted,
+  :id "US4045431",
+  :sourcing :authoritative,
+  :filing-year 1975,
+  :assignee :eastman-kodak,
+  :grant-year 1977,
+  :cites ["US2901466" "US3033822" "US3158584" "US3931073"],
   :term-years 20,
   :open-license :none}
  {:assignees [:geometric-data],
@@ -6497,6 +6716,36 @@
    "US3733177"
    "US3801466"
    "US3822115"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:owens-corning-fiberglas],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US4096102/en",
+  :title
+  "Moldable compositions comprising thermosetting polyester resin and thermoplastic resin",
+  :status :granted,
+  :id "US4096102",
+  :sourcing :authoritative,
+  :filing-year 1976,
+  :assignee :owens-corning-fiberglas,
+  :grant-year 1978,
+  :cites
+  ["US3257335"
+   "US3344091"
+   "US3406134"
+   "US3427267"
+   "US3496220"
+   "US3506622"
+   "US3673132"
+   "US3689461"
+   "US3701748"
+   "US3801532"
+   "US3823219"
+   "US3824201"
+   "US3867349"
+   "US3882189"
+   "US3884850"],
   :term-years 20,
   :open-license :none}
  {:assignees [:mobil-oil-as],
@@ -7729,6 +7978,29 @@
   :cites ["US3531258" "US3557077" "US3647390" "US3725010"],
   :term-years 20,
   :open-license :none}
+ {:assignees [:eastman-kodak],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US4155889/en",
+  :title
+  "Process for substantially increasing the flexibility of a polyester",
+  :status :granted,
+  :id "US4155889",
+  :sourcing :authoritative,
+  :filing-year 1978,
+  :assignee :eastman-kodak,
+  :grant-year 1979,
+  :cites
+  ["US2615784"
+   "US3030173"
+   "US3275732"
+   "US3330709"
+   "US3634580"
+   "US3669931"
+   "US3739056"
+   "US4045431"],
+  :term-years 20,
+  :open-license :none}
  {:assignees [:cordis],
   :jurisdiction :us,
   :field "UNKNOWN",
@@ -8921,6 +9193,21 @@
    "US4104029"],
   :term-years 20,
   :open-license :none}
+ {:assignees [:herberts],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US4220568/en",
+  :title
+  "Polyester containing carboxyl groups, a process for producing this polyester and aqueous coating compositions containing this polyester",
+  :status :granted,
+  :id "US4220568",
+  :sourcing :authoritative,
+  :filing-year 1979,
+  :assignee :herberts,
+  :grant-year 1980,
+  :cites ["US3158584" "US3481891" "US3893959" "US4026850" "US4094836"],
+  :term-years 20,
+  :open-license :none}
  {:assignees [:kansai-paint],
   :jurisdiction :us,
   :field "UNKNOWN",
@@ -9002,6 +9289,21 @@
   :assignee :university-of-illinois-foundation,
   :grant-year 1980,
   :cites ["US3553310" "US3639558" "US3873684" "US3882225" "US3925018"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:bayer],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US4223099/en",
+  :title
+  "Copolymerizable molding compositions based on unsaturated polyurethanes",
+  :status :granted,
+  :id "US4223099",
+  :sourcing :authoritative,
+  :filing-year 1978,
+  :assignee :bayer,
+  :grant-year 1980,
+  :cites ["US3641199" "US3677920" "US3678014" "US3873640" "US4018851"],
   :term-years 20,
   :open-license :none}
  {:assignees [:wisconsin-alumni-research-foundation],
@@ -9089,6 +9391,20 @@
   :cites ["US4020151" "US4046870"],
   :term-years 20,
   :open-license :none}
+ {:assignees [:uniroyal],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US4225645/en",
+  :title "Flame-retardant polyurethane compositions",
+  :status :granted,
+  :id "US4225645",
+  :sourcing :authoritative,
+  :filing-year 1978,
+  :assignee :uniroyal,
+  :grant-year 1980,
+  :cites ["US3211676" "US3651803" "US3897372"],
+  :term-years 20,
+  :open-license :none}
  {:assignees [:smithkline-instrument],
   :jurisdiction :us,
   :field "UNKNOWN",
@@ -9113,319 +9429,5 @@
    "US3941876"
    "US3949064"
    "US3951748"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:kansai-paint],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US4226901/en",
-  :title "Method for metallic finish coating",
-  :status :granted,
-  :id "US4226901",
-  :sourcing :authoritative,
-  :filing-year 1978,
-  :assignee :kansai-paint,
-  :grant-year 1980,
-  :term-years 20,
-  :open-license :none}
- {:assignees [:calbiochem-behring],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US4228237/en",
-  :title "Methods for the detection and determination of ligands",
-  :status :granted,
-  :id "US4228237",
-  :sourcing :authoritative,
-  :filing-year 1978,
-  :assignee :calbiochem-behring,
-  :grant-year 1980,
-  :cites ["BE841179A" "US4002532" "US4016043" "US4134792"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:allor-foundation],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US4228238/en",
-  :title
-  "Method of laboratory testing in water-based culture media for zones of inhibition",
-  :status :granted,
-  :id "US4228238",
-  :sourcing :authoritative,
-  :filing-year 1979,
-  :assignee :allor-foundation,
-  :grant-year 1980,
-  :cites ["US3126325" "US3597321" "US3992523" "US4168206"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:uop],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US4229536/en",
-  :title "Process for preparing immobilized enzymes",
-  :status :granted,
-  :id "US4229536",
-  :sourcing :authoritative,
-  :filing-year 1978,
-  :assignee :uop,
-  :grant-year 1980,
-  :cites
-  ["US3519538"
-   "US3669841"
-   "US3705084"
-   "US3715278"
-   "US3783101"
-   "US3796634"
-   "US3802997"
-   "US3821083"
-   "US3930950"
-   "US4071409"
-   "US4072566"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:new-york-university-nyu],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US4229537/en",
-  :title
-  "Preparation of trichloro-s-triazine activated supports for coupling ligands",
-  :status :granted,
-  :id "US4229537",
-  :sourcing :authoritative,
-  :filing-year 1978,
-  :assignee :new-york-university-nyu,
-  :grant-year 1980,
-  :cites
-  ["US3619371"
-   "US3674767"
-   "US3788948"
-   "US3824150"
-   "US3876501"
-   "US4007089"
-   "US4119494"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:us-department-of-energy],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US4230633/en",
-  :title "Novel Fischer-Tropsch catalysts",
-  :status :granted,
-  :id "US4230633",
-  :sourcing :authoritative,
-  :filing-year 1979,
-  :assignee :us-department-of-energy,
-  :grant-year 1980,
-  :cites ["US4022810" "US4032556" "US4096163" "US4132672"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:miles-laboratories],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US4230797/en",
-  :title
-  "Heterogenous specific binding assay employing a coenzyme as label",
-  :status :granted,
-  :id "US4230797",
-  :sourcing :authoritative,
-  :filing-year 1978,
-  :assignee :miles-laboratories,
-  :grant-year 1980,
-  :cites ["US3659104" "US3817837" "US3839153" "US3880934" "US3998943"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:pharmacia-diagnostics],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US4231999/en",
-  :title
-  "Method in assaying methods involving biospecific affinity reactions and reagent for use in said method",
-  :status :granted,
-  :id "US4231999",
-  :sourcing :authoritative,
-  :filing-year 1978,
-  :assignee :pharmacia-diagnostics,
-  :grant-year 1980,
-  :cites ["US3896217" "US4041146" "US4108975" "US4108976"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:pharmacia-diagnostics],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US4232119/en",
-  :title "Reagent for use in immunochemical assay methods",
-  :status :granted,
-  :id "US4232119",
-  :sourcing :authoritative,
-  :filing-year 1978,
-  :assignee :pharmacia-diagnostics,
-  :grant-year 1980,
-  :cites ["US4002532" "US4004979" "US4048416"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:research],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US4234561/en",
-  :title "Antigen for early pregnancy test and contraceptive vaccine",
-  :status :granted,
-  :id "US4234561",
-  :sourcing :authoritative,
-  :filing-year 1978,
-  :assignee :research,
-  :grant-year 1980,
-  :cites ["GB1473601A" "US3903262" "US3992514" "US4016250"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:syva],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US4235869/en",
-  :title "Assay employing a labeled Fab-fragment ligand complex",
-  :status :granted,
-  :id "US4235869",
-  :sourcing :authoritative,
-  :filing-year 1978,
-  :assignee :syva,
-  :grant-year 1980,
-  :cites ["US3935074" "US3996345" "US3998943" "US4104029"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:medical-college-of-wisconsin],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US4235960/en",
-  :title "Competitive enzyme-linked immunoassay",
-  :status :granted,
-  :id "US4235960",
-  :sourcing :authoritative,
-  :filing-year 1977,
-  :assignee :medical-college-of-wisconsin,
-  :grant-year 1980,
-  :cites
-  ["US3773625"
-   "US3879262"
-   "US4002532"
-   "US4021534"
-   "US4024235"
-   "US4034074"
-   "US4048298"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:dynatech-laboratories],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US4235971/en",
-  :title "Inoculator",
-  :status :granted,
-  :id "US4235971",
-  :sourcing :authoritative,
-  :filing-year 1978,
-  :assignee :dynatech-laboratories,
-  :grant-year 1980,
-  :cites
-  ["US3356462"
-   "US3436171"
-   "US3455788"
-   "US3536449"
-   "US3650360"
-   "US3728227"
-   "US3772154"
-   "US3912596"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:minnesota-mining-and-manufacturing],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US4236893/en",
-  :title
-  "Method for the assay of classes of antigen-specific antibodies",
-  :status :granted,
-  :id "US4236893",
-  :sourcing :authoritative,
-  :filing-year 1979,
-  :assignee :minnesota-mining-and-manufacturing,
-  :grant-year 1980,
-  :cites ["US3720760" "US3966898" "US4092114"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:merck-patent],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US4237223/en",
-  :title "Sheet for picking off microorganisms",
-  :status :granted,
-  :id "US4237223",
-  :sourcing :authoritative,
-  :filing-year 1979,
-  :assignee :merck-patent,
-  :grant-year 1980,
-  :cites
-  ["US1901094"
-   "US2904474"
-   "US2985554"
-   "US3085572"
-   "US3661718"
-   "US3751341"
-   "US3819467"
-   "US3846248"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:leland-stanford-junior-university],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US4237224/en",
-  :title
-  "Process for producing biologically functional molecular chimeras",
-  :status :granted,
-  :id "US4237224",
-  :sourcing :authoritative,
-  :filing-year 1979,
-  :assignee :leland-stanford-junior-university,
-  :grant-year 1980,
-  :cites ["US3813316"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:ei-du-pont-de-nemours-and],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US4238387/en",
-  :title "Rheology control additive for paints",
-  :status :granted,
-  :id "US4238387",
-  :sourcing :authoritative,
-  :filing-year 1978,
-  :assignee :ei-du-pont-de-nemours-and,
-  :grant-year 1980,
-  :cites ["US3013897" "US3069375" "US3708428" "US4007128" "US4066820"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:miles-laboratories],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US4238565/en",
-  :title
-  "Specific binding assay with a prosthetic group as a label component",
-  :status :granted,
-  :id "US4238565",
-  :sourcing :authoritative,
-  :filing-year 1979,
-  :assignee :miles-laboratories,
-  :grant-year 1980,
-  :cites ["US3879262" "US4040907" "US4134792"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:general-electric],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US4238757/en",
-  :title
-  "Field effect transistor for detection of biological reactions",
-  :status :granted,
-  :id "US4238757",
-  :sourcing :authoritative,
-  :filing-year 1976,
-  :assignee :general-electric,
-  :grant-year 1980,
-  :cites ["US3831432" "US3853467"],
   :term-years 20,
   :open-license :none}]

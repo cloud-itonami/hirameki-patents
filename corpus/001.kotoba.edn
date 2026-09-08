@@ -1,4 +1,16 @@
-[{:assignees [:raymond-bros-engineering],
+[{:jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US1535927/en",
+  :title "Beverage cooler",
+  :status :granted,
+  :id "US1535927",
+  :sourcing :authoritative,
+  :filing-year 1924,
+  :assignee :unassigned,
+  :grant-year 1925,
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:raymond-bros-engineering],
   :jurisdiction :us,
   :field "UNKNOWN",
   :source "https://patents.google.com/patent/US1538115/en",
@@ -8633,6 +8645,19 @@
    "US2256191"],
   :term-years 20,
   :open-license :none}
+ {:jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2429219/en",
+  :title "Process of making linear superpolyesters",
+  :status :granted,
+  :id "US2429219",
+  :sourcing :authoritative,
+  :filing-year 1944,
+  :assignee :unassigned,
+  :grant-year 1947,
+  :cites ["GB428864A" "US2111427" "US2325040" "US2347562"],
+  :term-years 20,
+  :open-license :none}
  {:assignees [:ei-du-pont-de-nemours-and],
   :jurisdiction :us,
   :field "UNKNOWN",
@@ -9277,20 +9302,5 @@
    "US2195362"
    "US2202846"
    "US2255313"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:american-cyanamid],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US2443741/en",
-  :title
-  "Polymerizable compositions containing unsaturated alkyd resins and allyl esters, copolymers of such compositions, and process of producing the same",
-  :status :granted,
-  :id "US2443741",
-  :sourcing :authoritative,
-  :filing-year 1944,
-  :assignee :american-cyanamid,
-  :grant-year 1948,
-  :cites ["US2005414" "US2195362" "US2255313"],
   :term-years 20,
   :open-license :none}]

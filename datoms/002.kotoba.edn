@@ -1,4 +1,45 @@
 [[":db/add"
+  "hirameki-patent:JP2004115712A"
+  ":hirameki/source"
+  "https://patents.google.com/patent/JP2004115712A/en"]
+ [":db/add"
+  "hirameki-patent:JP2004131565A"
+  ":hirameki.patent/title"
+  "Aqueous resin composition and water-based coating"]
+ [":db/add"
+  "hirameki-patent:JP2004131565A"
+  ":hirameki.patent/jurisdiction"
+  ":jp"]
+ [":db/add"
+  "hirameki-patent:JP2004131565A"
+  ":hirameki.patent/field"
+  "UNKNOWN"]
+ [":db/add"
+  "hirameki-patent:JP2004131565A"
+  ":hirameki.patent/assignee"
+  ":hitachi-chemical"]
+ [":db/add"
+  "hirameki-patent:JP2004131565A"
+  ":hirameki.patent/status"
+  ":pending"]
+ [":db/add"
+  "hirameki-patent:JP2004131565A"
+  ":hirameki.patent/open-license"
+  ":none"]
+ [":db/add"
+  "hirameki-patent:JP2004131565A"
+  ":hirameki.obs/release-status"
+  ":pending"]
+ [":db/add"
+  "hirameki-patent:JP2004131565A"
+  ":hirameki/sourcing"
+  ":authoritative"]
+ [":db/add" "hirameki-patent:JP2004131565A" ":hirameki/derived" true]
+ [":db/add"
+  "hirameki-patent:JP2004131565A"
+  ":hirameki.obs/years-to-expiry"
+  -4]
+ [":db/add"
   "hirameki-patent:JP2004131565A"
   ":hirameki/source"
   "https://patents.google.com/patent/JP2004131565A/en"]
@@ -10172,49 +10213,4 @@
   "hirameki-patent:US1882090"
   ":hirameki/sourcing"
   ":authoritative"]
- [":db/add" "hirameki-patent:US1882090" ":hirameki/derived" true]
- [":db/add"
-  "hirameki-patent:US1882090"
-  ":hirameki.obs/years-to-expiry"
-  -77]
- [":db/add"
-  "hirameki-patent:US1882090"
-  ":hirameki/source"
-  "https://patents.google.com/patent/US1882090/en"]
- [":db/add"
-  "hirameki-patent:US1887126"
-  ":hirameki.patent/title"
-  "Distributor for extraction apparatus"]
- [":db/add"
-  "hirameki-patent:US1887126"
-  ":hirameki.patent/jurisdiction"
-  ":us"]
- [":db/add"
-  "hirameki-patent:US1887126"
-  ":hirameki.patent/field"
-  "UNKNOWN"]
- [":db/add"
-  "hirameki-patent:US1887126"
-  ":hirameki.patent/assignee"
-  ":jenaer-glaswerk-schott-and-gen"]
- [":db/add"
-  "hirameki-patent:US1887126"
-  ":hirameki.patent/status"
-  ":granted"]
- [":db/add"
-  "hirameki-patent:US1887126"
-  ":hirameki.patent/open-license"
-  ":none"]
- [":db/add"
-  "hirameki-patent:US1887126"
-  ":hirameki.obs/release-status"
-  ":public-domain"]
- [":db/add"
-  "hirameki-patent:US1887126"
-  ":hirameki/sourcing"
-  ":authoritative"]
- [":db/add" "hirameki-patent:US1887126" ":hirameki/derived" true]
- [":db/add"
-  "hirameki-patent:US1887126"
-  ":hirameki.obs/years-to-expiry"
-  -76]]
+ [":db/add" "hirameki-patent:US1882090" ":hirameki/derived" true]]

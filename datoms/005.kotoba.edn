@@ -1,4 +1,49 @@
 [[":db/add"
+  "hirameki-patent:US2396911"
+  ":hirameki.patent/jurisdiction"
+  ":us"]
+ [":db/add"
+  "hirameki-patent:US2396911"
+  ":hirameki.patent/field"
+  "UNKNOWN"]
+ [":db/add"
+  "hirameki-patent:US2396911"
+  ":hirameki.patent/assignee"
+  ":unassigned"]
+ [":db/add"
+  "hirameki-patent:US2396911"
+  ":hirameki.patent/status"
+  ":granted"]
+ [":db/add"
+  "hirameki-patent:US2396911"
+  ":hirameki.patent/open-license"
+  ":none"]
+ [":db/add"
+  "hirameki-patent:US2396911"
+  ":hirameki.obs/release-status"
+  ":public-domain"]
+ [":db/add"
+  "hirameki-patent:US2396911"
+  ":hirameki/sourcing"
+  ":authoritative"]
+ [":db/add" "hirameki-patent:US2396911" ":hirameki/derived" true]
+ [":db/add"
+  "hirameki-patent:US2396911"
+  ":hirameki.obs/years-to-expiry"
+  -66]
+ [":db/add"
+  "hirameki-patent:US2396911"
+  ":hirameki/source"
+  "https://patents.google.com/patent/US2396911/en"]
+ [":db/add"
+  "hirameki-patent:US2396946"
+  ":hirameki.patent/title"
+  "Method and apparatus for applying thermoplastic material to sheets or webs"]
+ [":db/add"
+  "hirameki-patent:US2396946"
+  ":hirameki.patent/jurisdiction"
+  ":us"]
+ [":db/add"
   "hirameki-patent:US2396946"
   ":hirameki.patent/field"
   "UNKNOWN"]
@@ -2368,6 +2413,47 @@
   "hirameki-patent:US2429217"
   ":hirameki/source"
   "https://patents.google.com/patent/US2429217/en"]
+ [":db/add"
+  "hirameki-patent:US2429219"
+  ":hirameki.patent/title"
+  "Process of making linear superpolyesters"]
+ [":db/add"
+  "hirameki-patent:US2429219"
+  ":hirameki.patent/jurisdiction"
+  ":us"]
+ [":db/add"
+  "hirameki-patent:US2429219"
+  ":hirameki.patent/field"
+  "UNKNOWN"]
+ [":db/add"
+  "hirameki-patent:US2429219"
+  ":hirameki.patent/assignee"
+  ":unassigned"]
+ [":db/add"
+  "hirameki-patent:US2429219"
+  ":hirameki.patent/status"
+  ":granted"]
+ [":db/add"
+  "hirameki-patent:US2429219"
+  ":hirameki.patent/open-license"
+  ":none"]
+ [":db/add"
+  "hirameki-patent:US2429219"
+  ":hirameki.obs/release-status"
+  ":public-domain"]
+ [":db/add"
+  "hirameki-patent:US2429219"
+  ":hirameki/sourcing"
+  ":authoritative"]
+ [":db/add" "hirameki-patent:US2429219" ":hirameki/derived" true]
+ [":db/add"
+  "hirameki-patent:US2429219"
+  ":hirameki.obs/years-to-expiry"
+  -62]
+ [":db/add"
+  "hirameki-patent:US2429219"
+  ":hirameki/source"
+  "https://patents.google.com/patent/US2429219/en"]
  [":db/add"
   "hirameki-patent:US2430479"
   ":hirameki.patent/title"
@@ -10265,86 +10351,4 @@
  [":db/add"
   "hirameki-patent:US2581862"
   ":hirameki.obs/years-to-expiry"
-  -62]
- [":db/add"
-  "hirameki-patent:US2581862"
-  ":hirameki/source"
-  "https://patents.google.com/patent/US2581862/en"]
- [":db/add"
-  "hirameki-patent:US2582407"
-  ":hirameki.patent/title"
-  "Process for coating paper"]
- [":db/add"
-  "hirameki-patent:US2582407"
-  ":hirameki.patent/jurisdiction"
-  ":us"]
- [":db/add"
-  "hirameki-patent:US2582407"
-  ":hirameki.patent/field"
-  "UNKNOWN"]
- [":db/add"
-  "hirameki-patent:US2582407"
-  ":hirameki.patent/assignee"
-  ":minnesota-and-ontario-paper"]
- [":db/add"
-  "hirameki-patent:US2582407"
-  ":hirameki.patent/status"
-  ":granted"]
- [":db/add"
-  "hirameki-patent:US2582407"
-  ":hirameki.patent/open-license"
-  ":none"]
- [":db/add"
-  "hirameki-patent:US2582407"
-  ":hirameki.obs/release-status"
-  ":public-domain"]
- [":db/add"
-  "hirameki-patent:US2582407"
-  ":hirameki/sourcing"
-  ":authoritative"]
- [":db/add" "hirameki-patent:US2582407" ":hirameki/derived" true]
- [":db/add"
-  "hirameki-patent:US2582407"
-  ":hirameki.obs/years-to-expiry"
-  -60]
- [":db/add"
-  "hirameki-patent:US2582407"
-  ":hirameki/source"
-  "https://patents.google.com/patent/US2582407/en"]
- [":db/add"
-  "hirameki-patent:US2582961"
-  ":hirameki.patent/title"
-  "Treatment of flammable materials to impart flame resistance thereto, compositions therefor, and products thereof"]
- [":db/add"
-  "hirameki-patent:US2582961"
-  ":hirameki.patent/jurisdiction"
-  ":us"]
- [":db/add"
-  "hirameki-patent:US2582961"
-  ":hirameki.patent/field"
-  "UNKNOWN"]
- [":db/add"
-  "hirameki-patent:US2582961"
-  ":hirameki.patent/assignee"
-  ":american-cyanamid"]
- [":db/add"
-  "hirameki-patent:US2582961"
-  ":hirameki.patent/status"
-  ":granted"]
- [":db/add"
-  "hirameki-patent:US2582961"
-  ":hirameki.patent/open-license"
-  ":none"]
- [":db/add"
-  "hirameki-patent:US2582961"
-  ":hirameki.obs/release-status"
-  ":public-domain"]
- [":db/add"
-  "hirameki-patent:US2582961"
-  ":hirameki/sourcing"
-  ":authoritative"]
- [":db/add" "hirameki-patent:US2582961" ":hirameki/derived" true]
- [":db/add"
-  "hirameki-patent:US2582961"
-  ":hirameki.obs/years-to-expiry"
-  -57]]
+  -62]]

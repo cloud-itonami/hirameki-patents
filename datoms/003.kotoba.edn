@@ -1,4 +1,49 @@
 [[":db/add"
+  "hirameki-patent:US1882090"
+  ":hirameki.obs/years-to-expiry"
+  -77]
+ [":db/add"
+  "hirameki-patent:US1882090"
+  ":hirameki/source"
+  "https://patents.google.com/patent/US1882090/en"]
+ [":db/add"
+  "hirameki-patent:US1887126"
+  ":hirameki.patent/title"
+  "Distributor for extraction apparatus"]
+ [":db/add"
+  "hirameki-patent:US1887126"
+  ":hirameki.patent/jurisdiction"
+  ":us"]
+ [":db/add"
+  "hirameki-patent:US1887126"
+  ":hirameki.patent/field"
+  "UNKNOWN"]
+ [":db/add"
+  "hirameki-patent:US1887126"
+  ":hirameki.patent/assignee"
+  ":jenaer-glaswerk-schott-and-gen"]
+ [":db/add"
+  "hirameki-patent:US1887126"
+  ":hirameki.patent/status"
+  ":granted"]
+ [":db/add"
+  "hirameki-patent:US1887126"
+  ":hirameki.patent/open-license"
+  ":none"]
+ [":db/add"
+  "hirameki-patent:US1887126"
+  ":hirameki.obs/release-status"
+  ":public-domain"]
+ [":db/add"
+  "hirameki-patent:US1887126"
+  ":hirameki/sourcing"
+  ":authoritative"]
+ [":db/add" "hirameki-patent:US1887126" ":hirameki/derived" true]
+ [":db/add"
+  "hirameki-patent:US1887126"
+  ":hirameki.obs/years-to-expiry"
+  -76]
+ [":db/add"
   "hirameki-patent:US1887126"
   ":hirameki/source"
   "https://patents.google.com/patent/US1887126/en"]
@@ -10391,53 +10436,4 @@
  [":db/add"
   "hirameki-patent:US2227138"
   ":hirameki.patent/title"
-  "Sanitary can or container"]
- [":db/add"
-  "hirameki-patent:US2227138"
-  ":hirameki.patent/jurisdiction"
-  ":us"]
- [":db/add"
-  "hirameki-patent:US2227138"
-  ":hirameki.patent/field"
-  "UNKNOWN"]
- [":db/add"
-  "hirameki-patent:US2227138"
-  ":hirameki.patent/assignee"
-  ":unassigned"]
- [":db/add"
-  "hirameki-patent:US2227138"
-  ":hirameki.patent/status"
-  ":granted"]
- [":db/add"
-  "hirameki-patent:US2227138"
-  ":hirameki.patent/open-license"
-  ":none"]
- [":db/add"
-  "hirameki-patent:US2227138"
-  ":hirameki.obs/release-status"
-  ":public-domain"]
- [":db/add"
-  "hirameki-patent:US2227138"
-  ":hirameki/sourcing"
-  ":authoritative"]
- [":db/add" "hirameki-patent:US2227138" ":hirameki/derived" true]
- [":db/add"
-  "hirameki-patent:US2227138"
-  ":hirameki.obs/years-to-expiry"
-  -72]
- [":db/add"
-  "hirameki-patent:US2227138"
-  ":hirameki/source"
-  "https://patents.google.com/patent/US2227138/en"]
- [":db/add"
-  "hirameki-patent:US2227494"
-  ":hirameki.patent/title"
-  "Method and apparatus for coating paper"]
- [":db/add"
-  "hirameki-patent:US2227494"
-  ":hirameki.patent/jurisdiction"
-  ":us"]
- [":db/add"
-  "hirameki-patent:US2227494"
-  ":hirameki.patent/field"
-  "UNKNOWN"]]
+  "Sanitary can or container"]]
