@@ -1,4 +1,108 @@
-[{:jurisdiction :us,
+[{:assignees [:ei-du-pont-de-nemours-and],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3306156/en",
+  :title "Method and apparatus for photometric analysis",
+  :status :granted,
+  :id "US3306156",
+  :sourcing :authoritative,
+  :filing-year 1957,
+  :assignee :ei-du-pont-de-nemours-and,
+  :grant-year 1967,
+  :cites
+  ["US2503165"
+   "US2620444"
+   "US2679185"
+   "US2694335"
+   "US2703844"
+   "US2718597"
+   "US2737591"
+   "US2775160"
+   "US2823800"
+   "US2849618"
+   "US2987182"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:eastman-kodak],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3306750/en",
+  :title "Polymeric hardeners for gelatin",
+  :status :granted,
+  :id "US3306750",
+  :sourcing :authoritative,
+  :filing-year 1966,
+  :assignee :eastman-kodak,
+  :grant-year 1967,
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:hitachi],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3311756/en",
+  :title "Electronic circuit having a fieldeffect transistor therein",
+  :status :granted,
+  :id "US3311756",
+  :sourcing :authoritative,
+  :filing-year 1964,
+  :assignee :hitachi,
+  :grant-year 1967,
+  :cites
+  ["US2980809"
+   "US3177100"
+   "US3183128"
+   "US3191061"
+   "US3202840"
+   "US3213299"
+   "US3229218"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:international-business-machines],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3315229/en",
+  :title "Blood cell recognizer",
+  :status :granted,
+  :id "US3315229",
+  :sourcing :authoritative,
+  :filing-year 1963,
+  :assignee :international-business-machines,
+  :grant-year 1967,
+  :cites
+  ["GB948498A"
+   "US2791150"
+   "US2875666"
+   "US2969708"
+   "US2978675"
+   "US2983822"
+   "US3064519"
+   "US3084286"
+   "US3149286"
+   "US3189873"],
+  :term-years 20,
+  :open-license :none}
+ {:jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3315424/en",
+  :title "Building construction",
+  :status :granted,
+  :id "US3315424",
+  :sourcing :authoritative,
+  :filing-year 1963,
+  :assignee :unassigned,
+  :grant-year 1967,
+  :cites
+  ["US1510224"
+   "US2576073"
+   "US2595123"
+   "US2928360"
+   "US2995784"
+   "US3003199"
+   "US3085365"
+   "US951031"],
+  :term-years 20,
+  :open-license :none}
+ {:jurisdiction :us,
   :field "UNKNOWN",
   :source "https://patents.google.com/patent/US3316896/en",
   :title
@@ -1413,6 +1517,27 @@
    "US3143588"],
   :term-years 20,
   :open-license :none}
+ {:assignees [:dow-chemical],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3399109/en",
+  :title
+  "Epoxy modified vinyl copolymers of alpha, beta-unsaturated dicarboxylic acid partial esters",
+  :status :granted,
+  :id "US3399109",
+  :sourcing :authoritative,
+  :filing-year 1966,
+  :assignee :dow-chemical,
+  :grant-year 1968,
+  :cites
+  ["US2769804"
+   "US2934516"
+   "US2949438"
+   "US3207718"
+   "US3247288"
+   "US3278469"],
+  :term-years 20,
+  :open-license :none}
  {:assignees [:monsanto],
   :jurisdiction :us,
   :field "UNKNOWN",
@@ -1557,6 +1682,27 @@
   :assignee :millipore,
   :grant-year 1968,
   :cites ["GB938694A" "US2772322" "US2783894" "US3022542"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:minnesota-mining-and-manufacturing],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3408421/en",
+  :title "Carboxyl-terminated polyesterepoxy adduct",
+  :status :granted,
+  :id "US3408421",
+  :sourcing :authoritative,
+  :filing-year 1964,
+  :assignee :minnesota-mining-and-manufacturing,
+  :grant-year 1968,
+  :cites
+  ["US2890208"
+   "US2933477"
+   "US3169945"
+   "US3203920"
+   "US3222312"
+   "US3278557"
+   "US3278636"],
   :term-years 20,
   :open-license :none}
  {:jurisdiction :us,
@@ -3466,6 +3612,30 @@
   :assignee :abbott-laboratories,
   :grant-year 1970,
   :cites ["US3235426" "US3279996" "US3314743" "US3317339"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:schering],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3511792/en",
+  :title
+  "Unsaturated polyester resins formed between polymeric fatty alcohols and polycarboxylic acids",
+  :status :granted,
+  :id "US3511792",
+  :sourcing :authoritative,
+  :filing-year 1967,
+  :assignee :schering,
+  :grant-year 1970,
+  :cites
+  ["CA646071A"
+   "US2347562"
+   "US2413612"
+   "US3039980"
+   "US3123578"
+   "US3158584"
+   "US3268462"
+   "US3374208"
+   "US3375301"],
   :term-years 20,
   :open-license :none}
  {:assignees [:us-atomic-energy-commission-aec],
@@ -8932,150 +9102,5 @@
   :filing-year 1971,
   :assignee :merck-patent,
   :grant-year 1974,
-  :term-years 20,
-  :open-license :none}
- {:assignees [:kaiser-aerospace-and-electronics],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3804976/en",
-  :title "Multiplexed infrared imaging system",
-  :status :granted,
-  :id "US3804976",
-  :sourcing :authoritative,
-  :filing-year 1972,
-  :assignee :kaiser-aerospace-and-electronics,
-  :grant-year 1974,
-  :cites
-  ["GB700982A"
-   "US2967211"
-   "US3109057"
-   "US3219642"
-   "US3251933"
-   "US3443110"
-   "US3670097"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:paint-res-ass],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3806256/en",
-  :title "Colorimeters",
-  :status :granted,
-  :id "US3806256",
-  :sourcing :authoritative,
-  :filing-year 1972,
-  :assignee :paint-res-ass,
-  :grant-year 1974,
-  :cites ["US3383979" "US3573476"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:avco],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3806449/en",
-  :title "Separation of liquid-liquid multiphase mixtures",
-  :status :granted,
-  :id "US3806449",
-  :sourcing :authoritative,
-  :filing-year 1973,
-  :assignee :avco,
-  :grant-year 1974,
-  :term-years 20,
-  :open-license :none}
- {:assignees [:ei-du-pont-de-nemours-and],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3806464/en",
-  :title "Pigment encapsulated with an acrylic interpolymer",
-  :status :granted,
-  :id "US3806464",
-  :sourcing :authoritative,
-  :filing-year 1972,
-  :assignee :ei-du-pont-de-nemours-and,
-  :grant-year 1974,
-  :term-years 20,
-  :open-license :none}
- {:assignees [:research-institute-for-production-development],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3808113/en",
-  :title
-  "Method for manufacturing medical articles composed of various synthetic high polymers coated with collagen and exposed to radiation",
-  :status :granted,
-  :id "US3808113",
-  :sourcing :authoritative,
-  :filing-year 1971,
-  :assignee :research-institute-for-production-development,
-  :grant-year 1974,
-  :term-years 20,
-  :open-license :none}
- {:assignees [:american-cyanamid],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3809605/en",
-  :title
-  "Fibrous mats and sheets containing immobilized enzymes entrapped in their interstices",
-  :status :granted,
-  :id "US3809605",
-  :sourcing :authoritative,
-  :filing-year 1972,
-  :assignee :american-cyanamid,
-  :grant-year 1974,
-  :term-years 20,
-  :open-license :none}
- {:assignees [:research],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3809613/en",
-  :title "Biocatalytic module",
-  :status :granted,
-  :id "US3809613",
-  :sourcing :authoritative,
-  :filing-year 1971,
-  :assignee :research,
-  :grant-year 1974,
-  :term-years 20,
-  :open-license :none}
- {:assignees [:f-hoffmann-la-roche],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3809782/en",
-  :title "Tubocurarine antigens and antibodies specific therefor",
-  :status :granted,
-  :id "US3809782",
-  :sourcing :authoritative,
-  :filing-year 1972,
-  :assignee :f-hoffmann-la-roche,
-  :grant-year 1974,
-  :cites ["US2388260" "US2957808"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:telefunken-patentverwertungs],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3810010/en",
-  :title
-  "Particle analysis method and apparatus wherein liquid containing particles is sucked into a constricted flow path",
-  :status :granted,
-  :id "US3810010",
-  :sourcing :authoritative,
-  :filing-year 1972,
-  :assignee :telefunken-patentverwertungs,
-  :grant-year 1974,
-  :cites ["US2656508" "US2985830" "US3299354"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:american-cyanamid],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3810458/en",
-  :title "Minimizing tissue reaction to glove powder",
-  :status :granted,
-  :id "US3810458",
-  :sourcing :authoritative,
-  :filing-year 1973,
-  :assignee :american-cyanamid,
-  :grant-year 1974,
-  :cites ["US3297033" "US3468853" "US3728739"],
   :term-years 20,
   :open-license :none}]

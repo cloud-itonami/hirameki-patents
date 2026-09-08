@@ -1,4 +1,216 @@
-[{:assignees [:syva],
+[{:assignees [:radiochemical-centre],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US4208400/en",
+  :title "Assay of oestrogen",
+  :status :granted,
+  :id "US4208400",
+  :sourcing :authoritative,
+  :filing-year 1978,
+  :assignee :radiochemical-centre,
+  :grant-year 1980,
+  :cites ["US4081525"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:syva],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US4208479/en",
+  :title "Label modified immunoassays",
+  :status :granted,
+  :id "US4208479",
+  :sourcing :authoritative,
+  :filing-year 1977,
+  :assignee :syva,
+  :grant-year 1980,
+  :cites ["US3996345" "US3998943" "US4036946"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:bonnierforetagen],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US4211766/en",
+  :title "Cancer associated polypeptide antigen compositions",
+  :status :granted,
+  :id "US4211766",
+  :sourcing :authoritative,
+  :filing-year 1979,
+  :assignee :bonnierforetagen,
+  :grant-year 1980,
+  :term-years 20,
+  :open-license :none}
+ {:assignees
+  [:max-planck-gesellschaft-zur-foerderung-der-wissenschaften-ev],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US4215940/en",
+  :title "Optode arrangement",
+  :status :granted,
+  :id "US4215940",
+  :sourcing :authoritative,
+  :filing-year 1977,
+  :assignee
+  :max-planck-gesellschaft-zur-foerderung-der-wissenschaften-ev,
+  :grant-year 1980,
+  :cites ["US4003707" "US4022529"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees
+  [:institut-national-de-la-sante-et-de-la-recherche-medicale-inserm],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US4217338/en",
+  :title
+  "Novel supports carrying side chains, processes for obtaining these supports, process for attaching organic compounds having carbohydrate residues on said supports, products and reagents resulting from said _chemical fixation",
+  :status :granted,
+  :id "US4217338",
+  :sourcing :authoritative,
+  :filing-year 1976,
+  :assignee
+  :institut-national-de-la-sante-et-de-la-recherche-medicale-inserm,
+  :grant-year 1980,
+  :cites
+  ["US3505785"
+   "US3519538"
+   "US3553310"
+   "US3853987"
+   "US3857931"
+   "US3947352"
+   "US3956113"
+   "US3970521"
+   "US4001583"
+   "US4081245"
+   "US4081246"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:rohm-and-haas],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US4217421/en",
+  :title
+  "Anion exchange resins prepared from crosslinked polystyrenesulfonylchloride",
+  :status :granted,
+  :id "US4217421",
+  :sourcing :authoritative,
+  :filing-year 1978,
+  :assignee :rohm-and-haas,
+  :grant-year 1980,
+  :cites ["US2778813" "US2867611" "US2906715" "US3128257" "US3133030"],
+  :term-years 20,
+  :open-license :none}
+ {:jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US4218539/en",
+  :title "Enzyme conjugates and method of preparation and use",
+  :status :granted,
+  :id "US4218539",
+  :sourcing :authoritative,
+  :filing-year 1978,
+  :assignee :unassigned,
+  :grant-year 1980,
+  :cites ["US4144131"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:ei-du-pont-de-nemours-and],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US4219335/en",
+  :title "Immunochemical testing using tagged reagents",
+  :status :granted,
+  :id "US4219335",
+  :sourcing :authoritative,
+  :filing-year 1978,
+  :assignee :ei-du-pont-de-nemours-and,
+  :grant-year 1980,
+  :cites
+  ["FR2327547A1"
+   "US3074853"
+   "US3470067"
+   "US3826619"
+   "US3853467"
+   "US3853987"
+   "US3904367"
+   "US3926564"
+   "US3933997"
+   "US3951605"
+   "US3970518"
+   "US3979184"
+   "US3981776"
+   "US3985608"
+   "US4011308"
+   "US4018886"
+   "US4020151"
+   "US4022577"
+   "US4041146"
+   "US4054646"
+   "US4067959"
+   "US4087248"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:syva],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US4220450/en",
+  :title "Chemically induced fluorescence immunoassay",
+  :status :granted,
+  :id "US4220450",
+  :sourcing :authoritative,
+  :filing-year 1978,
+  :assignee :syva,
+  :grant-year 1980,
+  :cites
+  ["US3575812"
+   "US3660240"
+   "US3852157"
+   "US3996345"
+   "US3998943"
+   "US3999298"
+   "US4043872"
+   "US4104029"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:herberts],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US4220568/en",
+  :title
+  "Polyester containing carboxyl groups, a process for producing this polyester and aqueous coating compositions containing this polyester",
+  :status :granted,
+  :id "US4220568",
+  :sourcing :authoritative,
+  :filing-year 1979,
+  :assignee :herberts,
+  :grant-year 1980,
+  :cites ["US3158584" "US3481891" "US3893959" "US4026850" "US4094836"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:kansai-paint],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US4220675/en",
+  :title "Method of metallic finishing",
+  :status :granted,
+  :id "US4220675",
+  :sourcing :authoritative,
+  :filing-year 1978,
+  :assignee :kansai-paint,
+  :grant-year 1980,
+  :cites
+  ["US3904795"
+   "US3953644"
+   "US3954899"
+   "US3959521"
+   "US3976715"
+   "US3980732"
+   "US3988494"
+   "US3991230"
+   "US3998716"
+   "US4044175"
+   "US4053682"
+   "US4082884"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:syva],
   :jurisdiction :us,
   :field "UNKNOWN",
   :source "https://patents.google.com/patent/US4220722/en",
@@ -1462,6 +1674,30 @@
   :cites ["US3179716" "US3385909" "US3426099"],
   :term-years 20,
   :open-license :none}
+ {:assignees [:minnesota-mining-and-manufacturing],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US4288493/en",
+  :title
+  "Water-activatable crosslinked adhesive and energy control film made therewith",
+  :status :granted,
+  :id "US4288493",
+  :sourcing :authoritative,
+  :filing-year 1979,
+  :assignee :minnesota-mining-and-manufacturing,
+  :grant-year 1981,
+  :cites
+  ["CA987428A"
+   "NL7708479A"
+   "US2774421"
+   "US3290203"
+   "US3681179"
+   "US3775226"
+   "US3949134"
+   "US4017661"
+   "US4095013"],
+  :term-years 20,
+  :open-license :none}
  {:assignees [:e-y-laboratories],
   :jurisdiction :us,
   :field "UNKNOWN",
@@ -2490,6 +2726,20 @@
    "US4256622"
    "US4278589"
    "US4278590"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:asahi-glass],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US4345057/en",
+  :title "Curable fluorocopolymer",
+  :status :granted,
+  :id "US4345057",
+  :sourcing :authoritative,
+  :filing-year 1981,
+  :assignee :asahi-glass,
+  :grant-year 1982,
+  :cites ["US3231554" "US3429845" "US4151340" "US4230843"],
   :term-years 20,
   :open-license :none}
  {:jurisdiction :us,
@@ -5369,6 +5619,20 @@
    "US4495255"],
   :term-years 20,
   :open-license :none}
+ {:assignees [:mitsubishi-petrochemical],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US4575533/en",
+  :title "Thermoplastic fluorine-containing resin blend composition",
+  :status :granted,
+  :id "US4575533",
+  :sourcing :authoritative,
+  :filing-year 1985,
+  :assignee :mitsubishi-petrochemical,
+  :grant-year 1986,
+  :cites ["US4197380" "US4382358"],
+  :term-years 20,
+  :open-license :none}
  {:assignees [:university-of-california-san-diego-ucsd],
   :jurisdiction :us,
   :field "UNKNOWN",
@@ -5690,6 +5954,21 @@
   :grant-year 1986,
   :term-years 20,
   :open-license :none}
+ {:assignees [:montedison-spa],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US4612351/en",
+  :title
+  "Fluoroelastomeric compositions based on vinylidene fluoride, containing small amounts of chlorotrifluoroethylene, having a high adhesion to metals in the vulcanized state",
+  :status :granted,
+  :id "US4612351",
+  :sourcing :authoritative,
+  :filing-year 1984,
+  :assignee :montedison-spa,
+  :grant-year 1986,
+  :cites ["US3531432" "US3769371" "US4094949" "US4115481" "US4423192"],
+  :term-years 20,
+  :open-license :none}
  {:assignees [:harvard-university],
   :jurisdiction :us,
   :field "UNKNOWN",
@@ -5723,6 +6002,28 @@
    "US4358535"
    "US4542102"
    "WO1985002628A1"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:ei-du-pont-de-nemours-and],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US4617351/en",
+  :title "Melt extrudable composition of perfluorocarbon polymers",
+  :status :granted,
+  :id "US4617351",
+  :sourcing :authoritative,
+  :filing-year 1985,
+  :assignee :ei-du-pont-de-nemours-and,
+  :grant-year 1986,
+  :cites
+  ["GB1120131A"
+   "SU235641A1"
+   "SU938098A1"
+   "US3125547"
+   "US3334157"
+   "US3519703"
+   "US3940455"
+   "US4489113"],
   :term-years 20,
   :open-license :none}
  {:assignees [:fuji-electric],
@@ -5797,6 +6098,29 @@
   :assignee :allied,
   :grant-year 1986,
   :cites ["GB2078370A" "GB2102946A" "US4197369" "US4322495"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:central-glass],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US4631326/en",
+  :title
+  "Curable fluorine-containing copolymer and coating liquid composition using same",
+  :status :granted,
+  :id "US4631326",
+  :sourcing :authoritative,
+  :filing-year 1985,
+  :assignee :central-glass,
+  :grant-year 1986,
+  :cites
+  ["GB2081727A"
+   "GB888014A"
+   "US2599640"
+   "US2600683"
+   "US2600684"
+   "US2834767"
+   "US2905660"
+   "US3025269"],
   :term-years 20,
   :open-license :none}
  {:assignees [:dontech],
@@ -6563,6 +6887,21 @@
    "US4503035"
    "US4534647"
    "US4545888"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:central-glass],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US4731417/en",
+  :title
+  "Multicomponent resin composition variable in light transmittance with temperature",
+  :status :granted,
+  :id "US4731417",
+  :sourcing :authoritative,
+  :filing-year 1986,
+  :assignee :central-glass,
+  :grant-year 1988,
+  :cites ["US3342778" "US4319002" "US4546149"],
   :term-years 20,
   :open-license :none}
  {:assignees [:ppg-industries],
@@ -7881,6 +8220,20 @@
   :cites ["US4865968"],
   :term-years 20,
   :open-license :none}
+ {:assignees [:kansai-paint],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US5026793/en",
+  :title "Resin compositions and a method of curing the same",
+  :status :granted,
+  :id "US5026793",
+  :sourcing :authoritative,
+  :filing-year 1989,
+  :assignee :kansai-paint,
+  :grant-year 1991,
+  :cites ["US4657986" "US4889768" "US4923945"],
+  :term-years 20,
+  :open-license :none}
  {:assignees [:molecular-diagnostics],
   :jurisdiction :us,
   :field "UNKNOWN",
@@ -7949,6 +8302,20 @@
   :filing-year 1990,
   :assignee :mitsubishi-rayon,
   :grant-year 1991,
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:kansai-paint],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US5073602/en",
+  :title "Thermosetting resin composition",
+  :status :granted,
+  :id "US5073602",
+  :sourcing :authoritative,
+  :filing-year 1991,
+  :assignee :kansai-paint,
+  :grant-year 1991,
+  :cites ["US3928492" "US3953643" "US4314918"],
   :term-years 20,
   :open-license :none}
  {:assignees [:cetus],
@@ -9667,332 +10034,5 @@
   :filing-year 1910,
   :assignee :unassigned,
   :grant-year 1910,
-  :term-years 20,
-  :open-license :none}
- {:jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US981383/en",
-  :title "Machine for treating interior woodwork and flooring.",
-  :status :granted,
-  :id "US981383",
-  :sourcing :authoritative,
-  :assignee :unassigned,
-  :grant-year 1911,
-  :term-years 20,
-  :open-license :none}
- {:jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US986655/en",
-  :title "Adhesive plaster.",
-  :status :granted,
-  :id "US986655",
-  :sourcing :authoritative,
-  :filing-year 1910,
-  :assignee :unassigned,
-  :grant-year 1911,
-  :term-years 20,
-  :open-license :none}
- {:jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US988981/en",
-  :title "Preparing kinematographic-film supports.",
-  :status :granted,
-  :id "US988981",
-  :sourcing :authoritative,
-  :filing-year 1909,
-  :assignee :unassigned,
-  :grant-year 1911,
-  :term-years 20,
-  :open-license :none}
- {:jurisdiction :wo,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/WO1979000377A1/en",
-  :title "Optical sensing apparatus and method",
-  :status :pending,
-  :id "WO1979000377A1",
-  :sourcing :authoritative,
-  :filing-year 1978,
-  :assignee :unassigned,
-  :cites
-  ["DE2620914A1"
-   "DE2819590A1"
-   "FR2103683A5"
-   "FR2334125A1"
-   "GB1536340A"
-   "US3625589"
-   "US3786681"
-   "US3931518"
-   "US3950987"
-   "US4019051"
-   "US4071753"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:beckman-instruments],
-  :jurisdiction :wo,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/WO1980000188A1/en",
-  :title "Photometer apparatus",
-  :status :pending,
-  :id "WO1980000188A1",
-  :sourcing :authoritative,
-  :filing-year 1979,
-  :assignee :beckman-instruments,
-  :cites ["US3764214" "US3917404" "US4066365" "US4099920"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:yale-university],
-  :jurisdiction :wo,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/WO1982002060A1/en",
-  :title "Method for cloning genes",
-  :status :pending,
-  :id "WO1982002060A1",
-  :sourcing :authoritative,
-  :filing-year 1981,
-  :assignee :yale-university,
-  :cites ["WO1980000030A1"],
-  :term-years 20,
-  :open-license :none}
- {:jurisdiction :wo,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/WO1983001073A1/en",
-  :title "Method for identifying and characterizing organisms",
-  :status :pending,
-  :id "WO1983001073A1",
-  :sourcing :authoritative,
-  :filing-year 1982,
-  :assignee :unassigned,
-  :cites ["US4302204"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:orion-yhtyma-oy :soderlund-hans-erik],
-  :jurisdiction :wo,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/WO1983001459A1/en",
-  :title
-  "A method and reagent combination for the diagnosis of microorganisms by sandwich hybridization of nucleic acids",
-  :status :pending,
-  :id "WO1983001459A1",
-  :sourcing :authoritative,
-  :filing-year 1982,
-  :assignee :orion-yhtyma-oy,
-  :cites
-  ["DE3211311A1"
-   "EP0062286A1"
-   "EP0063879A2"
-   "GB2019408A"
-   "GB2034323A"
-   "SU649751A1"
-   "US4302204"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:institut-pasteur],
-  :jurisdiction :wo,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/WO1983002277A1/en",
-  :title
-  "Dna fragments marked at least at one of the ends thereof by modified ribonucleotides recognizable by related molecules and method for analyzing such dna fragments",
-  :status :pending,
-  :id "WO1983002277A1",
-  :sourcing :authoritative,
-  :filing-year 1982,
-  :assignee :institut-pasteur,
-  :cites ["DE2618419A1" "DE2618511A1"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:institut-pasteur],
-  :jurisdiction :wo,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/WO1983002286A1/en",
-  :title
-  "Probe containing a modified nucleic acid recognizable by specific antibodies and utilization of said probe to test for and characterize an homologous dna sequence",
-  :status :pending,
-  :id "WO1983002286A1",
-  :sourcing :authoritative,
-  :filing-year 1982,
-  :assignee :institut-pasteur,
-  :cites ["GB2019408A" "US4358535"],
-  :term-years 20,
-  :open-license :none}
- {:jurisdiction :wo,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/WO1983003104A1/en",
-  :title "Enhanced luminescent and luminometric assay",
-  :status :pending,
-  :id "WO1983003104A1",
-  :sourcing :authoritative,
-  :filing-year 1983,
-  :assignee :unassigned,
-  :cites
-  ["EP0070686A2"
-   "FR2383441A1"
-   "GB2008247A"
-   "GB2026690A"
-   "GB2070767A"
-   "GB2070768A"
-   "GB2095830A"],
-  :term-years 20,
-  :open-license :none}
- {:jurisdiction :wo,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/WO1983003260A1/en",
-  :title
-  "Method and probe for determination of tissue types coded by mhc genes",
-  :status :pending,
-  :id "WO1983003260A1",
-  :sourcing :authoritative,
-  :filing-year 1983,
-  :assignee :unassigned,
-  :cites ["EP0062286A1" "EP0063879A2" "WO1982002060A1"],
-  :term-years 20,
-  :open-license :none}
- {:jurisdiction :wo,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/WO1983003363A1/en",
-  :title "Chromatographic method for isolating macromolecules",
-  :status :pending,
-  :id "WO1983003363A1",
-  :sourcing :authoritative,
-  :filing-year 1983,
-  :assignee :unassigned,
-  :cites
-  ["DE2601930A1"
-   "FR2462183A1"
-   "GB2075362A"
-   "US4029583"
-   "US4118316"
-   "US4140653"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:unilever],
-  :jurisdiction :wo,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/WO1983003620A1/en",
-  :title "Separation process",
-  :status :pending,
-  :id "WO1983003620A1",
-  :sourcing :authoritative,
-  :filing-year 1982,
-  :assignee :unilever,
-  :cites ["DE2651761A1" "EP0049914A1" "FR2271282A1" "GB933814A"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:harvard-university],
-  :jurisdiction :wo,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/WO1984001174A1/en",
-  :title "Identification of microorganisms",
-  :status :pending,
-  :id "WO1984001174A1",
-  :sourcing :authoritative,
-  :filing-year 1983,
-  :assignee :harvard-university,
-  :cites ["US4358535" "US4396713"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:gen-probe],
-  :jurisdiction :wo,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/WO1984002721A1/en",
-  :title
-  "Method for detecting, identifying, and quantitating organisms and viruses",
-  :status :pending,
-  :id "WO1984002721A1",
-  :sourcing :authoritative,
-  :filing-year 1984,
-  :assignee :gen-probe,
-  :cites
-  ["US4228238" "US4302204" "US4358535" "US4416988" "WO1983001073A1"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:molecular-biosystems],
-  :jurisdiction :wo,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/WO1984003285A1/en",
-  :title
-  "Defined sequence single strand oligonucleotides incorporating reporter groups, process for the chemical synthesis thereof, and nucleosides useful in such synthesis",
-  :status :pending,
-  :id "WO1984003285A1",
-  :sourcing :authoritative,
-  :filing-year 1984,
-  :assignee :molecular-biosystems,
-  :cites
-  ["EP0063879A2"
-   "US4199498"
-   "US4247544"
-   "US4267171"
-   "US4336188"
-   "US4358535"
-   "WO1983001459A1"
-   "WO1983002286A1"
-   "WO1983003620A1"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:blair-malcolm-a-d],
-  :jurisdiction :wo,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/WO1984003520A1/en",
-  :title
-  "Method of detecting a polynucleotide sequence and labelled polynucleotides useful therein",
-  :status :pending,
-  :id "WO1984003520A1",
-  :sourcing :authoritative,
-  :filing-year 1984,
-  :assignee :blair-malcolm-a-d,
-  :cites ["EP0007687A1" "EP0070685A2" "GB2019408A"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:national-research-development-uk],
-  :jurisdiction :wo,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/WO1984004332A1/en",
-  :title
-  "Method of determining nucleotide sequences in cells and of isolating nucleic acids from cells",
-  :status :pending,
-  :id "WO1984004332A1",
-  :sourcing :authoritative,
-  :filing-year 1984,
-  :assignee :national-research-development-uk,
-  :cites ["GB2019408A" "US4235960" "US4358535"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:molecular-biosystems],
-  :jurisdiction :wo,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/WO1985001051A1/en",
-  :title "Oligonucleotide polymeric support system",
-  :status :pending,
-  :id "WO1985001051A1",
-  :sourcing :authoritative,
-  :filing-year 1984,
-  :assignee :molecular-biosystems,
-  :cites ["US4358535" "US4458066"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:hri-research :hydrocarbon-research],
-  :jurisdiction :wo,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/WO1985002628A1/en",
-  :title "Nucleic acid hybridization assay",
-  :status :pending,
-  :id "WO1985002628A1",
-  :sourcing :authoritative,
-  :filing-year 1984,
-  :assignee :hri-research,
-  :cites ["EP0070687B1" "US3798131"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:life-technologies],
-  :jurisdiction :wo,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/WO1985004674A1/en",
-  :title "Immobilization of nucleic acids",
-  :status :pending,
-  :id "WO1985004674A1",
-  :sourcing :authoritative,
-  :filing-year 1984,
-  :assignee :life-technologies,
-  :cites
-  ["EP0035384A2" "US4139346" "US4321365" "US4342833" "WO1983003363A1"],
   :term-years 20,
   :open-license :none}]

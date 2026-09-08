@@ -1,4 +1,149 @@
-[{:assignees [:rhone-poulenc],
+[{:assignees [:kaiser-aerospace-and-electronics],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3804976/en",
+  :title "Multiplexed infrared imaging system",
+  :status :granted,
+  :id "US3804976",
+  :sourcing :authoritative,
+  :filing-year 1972,
+  :assignee :kaiser-aerospace-and-electronics,
+  :grant-year 1974,
+  :cites
+  ["GB700982A"
+   "US2967211"
+   "US3109057"
+   "US3219642"
+   "US3251933"
+   "US3443110"
+   "US3670097"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:paint-res-ass],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3806256/en",
+  :title "Colorimeters",
+  :status :granted,
+  :id "US3806256",
+  :sourcing :authoritative,
+  :filing-year 1972,
+  :assignee :paint-res-ass,
+  :grant-year 1974,
+  :cites ["US3383979" "US3573476"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:avco],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3806449/en",
+  :title "Separation of liquid-liquid multiphase mixtures",
+  :status :granted,
+  :id "US3806449",
+  :sourcing :authoritative,
+  :filing-year 1973,
+  :assignee :avco,
+  :grant-year 1974,
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:ei-du-pont-de-nemours-and],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3806464/en",
+  :title "Pigment encapsulated with an acrylic interpolymer",
+  :status :granted,
+  :id "US3806464",
+  :sourcing :authoritative,
+  :filing-year 1972,
+  :assignee :ei-du-pont-de-nemours-and,
+  :grant-year 1974,
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:research-institute-for-production-development],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3808113/en",
+  :title
+  "Method for manufacturing medical articles composed of various synthetic high polymers coated with collagen and exposed to radiation",
+  :status :granted,
+  :id "US3808113",
+  :sourcing :authoritative,
+  :filing-year 1971,
+  :assignee :research-institute-for-production-development,
+  :grant-year 1974,
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:american-cyanamid],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3809605/en",
+  :title
+  "Fibrous mats and sheets containing immobilized enzymes entrapped in their interstices",
+  :status :granted,
+  :id "US3809605",
+  :sourcing :authoritative,
+  :filing-year 1972,
+  :assignee :american-cyanamid,
+  :grant-year 1974,
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:research],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3809613/en",
+  :title "Biocatalytic module",
+  :status :granted,
+  :id "US3809613",
+  :sourcing :authoritative,
+  :filing-year 1971,
+  :assignee :research,
+  :grant-year 1974,
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:f-hoffmann-la-roche],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3809782/en",
+  :title "Tubocurarine antigens and antibodies specific therefor",
+  :status :granted,
+  :id "US3809782",
+  :sourcing :authoritative,
+  :filing-year 1972,
+  :assignee :f-hoffmann-la-roche,
+  :grant-year 1974,
+  :cites ["US2388260" "US2957808"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:telefunken-patentverwertungs],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3810010/en",
+  :title
+  "Particle analysis method and apparatus wherein liquid containing particles is sucked into a constricted flow path",
+  :status :granted,
+  :id "US3810010",
+  :sourcing :authoritative,
+  :filing-year 1972,
+  :assignee :telefunken-patentverwertungs,
+  :grant-year 1974,
+  :cites ["US2656508" "US2985830" "US3299354"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:american-cyanamid],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3810458/en",
+  :title "Minimizing tissue reaction to glove powder",
+  :status :granted,
+  :id "US3810458",
+  :sourcing :authoritative,
+  :filing-year 1973,
+  :assignee :american-cyanamid,
+  :grant-year 1974,
+  :cites ["US3297033" "US3468853" "US3728739"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:rhone-poulenc],
   :jurisdiction :us,
   :field "UNKNOWN",
   :source "https://patents.google.com/patent/US3810848/en",
@@ -2291,6 +2436,26 @@
   :assignee :intec,
   :grant-year 1975,
   :cites ["US3781531"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:kuraray],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3900440/en",
+  :title "Adhesive composition",
+  :status :granted,
+  :id "US3900440",
+  :sourcing :authoritative,
+  :filing-year 1973,
+  :assignee :kuraray,
+  :grant-year 1975,
+  :cites
+  ["US3238170"
+   "US3326856"
+   "US3449194"
+   "US3646044"
+   "US3671295"
+   "US3740336"],
   :term-years 20,
   :open-license :none}
  {:jurisdiction :us,
@@ -5576,6 +5741,33 @@
   :assignee :ciba-geigy,
   :grant-year 1977,
   :cites ["US3382241" "US3488730"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:daikin-kogyo :sumitomo-chemical],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US4028431/en",
+  :title "Cured rubber composition",
+  :status :granted,
+  :id "US4028431",
+  :sourcing :authoritative,
+  :filing-year 1975,
+  :assignee :daikin-kogyo,
+  :grant-year 1977,
+  :cites
+  ["GB1284081A"
+   "GB754164A"
+   "US2710290"
+   "US2927908"
+   "US2934515"
+   "US3132116"
+   "US3207825"
+   "US3372136"
+   "US3449290"
+   "US3562195"
+   "US3864433"
+   "US3865897"
+   "US3969308"],
   :term-years 20,
   :open-license :none}
  {:assignees [:purdue-research-foundation],
@@ -8982,6 +9174,21 @@
   :cites ["US3700562" "US3948731"],
   :term-years 20,
   :open-license :none}
+ {:assignees [:raychem],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US4197380/en",
+  :title
+  "Hot melt adhesive comprising fluorocarbon elastomer, ethylene copolymer and tackifier",
+  :status :granted,
+  :id "US4197380",
+  :sourcing :authoritative,
+  :filing-year 1978,
+  :assignee :raychem,
+  :grant-year 1980,
+  :cites ["US3125547" "US3562195" "US3582518"],
+  :term-years 20,
+  :open-license :none}
  {:assignees [:snamprogetti-spa],
   :jurisdiction :us,
   :field "UNKNOWN",
@@ -9224,217 +9431,5 @@
   :assignee :honda-motor,
   :grant-year 1980,
   :cites ["US3681224" "US4136070"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:radiochemical-centre],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US4208400/en",
-  :title "Assay of oestrogen",
-  :status :granted,
-  :id "US4208400",
-  :sourcing :authoritative,
-  :filing-year 1978,
-  :assignee :radiochemical-centre,
-  :grant-year 1980,
-  :cites ["US4081525"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:syva],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US4208479/en",
-  :title "Label modified immunoassays",
-  :status :granted,
-  :id "US4208479",
-  :sourcing :authoritative,
-  :filing-year 1977,
-  :assignee :syva,
-  :grant-year 1980,
-  :cites ["US3996345" "US3998943" "US4036946"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:bonnierforetagen],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US4211766/en",
-  :title "Cancer associated polypeptide antigen compositions",
-  :status :granted,
-  :id "US4211766",
-  :sourcing :authoritative,
-  :filing-year 1979,
-  :assignee :bonnierforetagen,
-  :grant-year 1980,
-  :term-years 20,
-  :open-license :none}
- {:assignees
-  [:max-planck-gesellschaft-zur-foerderung-der-wissenschaften-ev],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US4215940/en",
-  :title "Optode arrangement",
-  :status :granted,
-  :id "US4215940",
-  :sourcing :authoritative,
-  :filing-year 1977,
-  :assignee
-  :max-planck-gesellschaft-zur-foerderung-der-wissenschaften-ev,
-  :grant-year 1980,
-  :cites ["US4003707" "US4022529"],
-  :term-years 20,
-  :open-license :none}
- {:assignees
-  [:institut-national-de-la-sante-et-de-la-recherche-medicale-inserm],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US4217338/en",
-  :title
-  "Novel supports carrying side chains, processes for obtaining these supports, process for attaching organic compounds having carbohydrate residues on said supports, products and reagents resulting from said _chemical fixation",
-  :status :granted,
-  :id "US4217338",
-  :sourcing :authoritative,
-  :filing-year 1976,
-  :assignee
-  :institut-national-de-la-sante-et-de-la-recherche-medicale-inserm,
-  :grant-year 1980,
-  :cites
-  ["US3505785"
-   "US3519538"
-   "US3553310"
-   "US3853987"
-   "US3857931"
-   "US3947352"
-   "US3956113"
-   "US3970521"
-   "US4001583"
-   "US4081245"
-   "US4081246"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:rohm-and-haas],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US4217421/en",
-  :title
-  "Anion exchange resins prepared from crosslinked polystyrenesulfonylchloride",
-  :status :granted,
-  :id "US4217421",
-  :sourcing :authoritative,
-  :filing-year 1978,
-  :assignee :rohm-and-haas,
-  :grant-year 1980,
-  :cites ["US2778813" "US2867611" "US2906715" "US3128257" "US3133030"],
-  :term-years 20,
-  :open-license :none}
- {:jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US4218539/en",
-  :title "Enzyme conjugates and method of preparation and use",
-  :status :granted,
-  :id "US4218539",
-  :sourcing :authoritative,
-  :filing-year 1978,
-  :assignee :unassigned,
-  :grant-year 1980,
-  :cites ["US4144131"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:ei-du-pont-de-nemours-and],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US4219335/en",
-  :title "Immunochemical testing using tagged reagents",
-  :status :granted,
-  :id "US4219335",
-  :sourcing :authoritative,
-  :filing-year 1978,
-  :assignee :ei-du-pont-de-nemours-and,
-  :grant-year 1980,
-  :cites
-  ["FR2327547A1"
-   "US3074853"
-   "US3470067"
-   "US3826619"
-   "US3853467"
-   "US3853987"
-   "US3904367"
-   "US3926564"
-   "US3933997"
-   "US3951605"
-   "US3970518"
-   "US3979184"
-   "US3981776"
-   "US3985608"
-   "US4011308"
-   "US4018886"
-   "US4020151"
-   "US4022577"
-   "US4041146"
-   "US4054646"
-   "US4067959"
-   "US4087248"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:syva],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US4220450/en",
-  :title "Chemically induced fluorescence immunoassay",
-  :status :granted,
-  :id "US4220450",
-  :sourcing :authoritative,
-  :filing-year 1978,
-  :assignee :syva,
-  :grant-year 1980,
-  :cites
-  ["US3575812"
-   "US3660240"
-   "US3852157"
-   "US3996345"
-   "US3998943"
-   "US3999298"
-   "US4043872"
-   "US4104029"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:herberts],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US4220568/en",
-  :title
-  "Polyester containing carboxyl groups, a process for producing this polyester and aqueous coating compositions containing this polyester",
-  :status :granted,
-  :id "US4220568",
-  :sourcing :authoritative,
-  :filing-year 1979,
-  :assignee :herberts,
-  :grant-year 1980,
-  :cites ["US3158584" "US3481891" "US3893959" "US4026850" "US4094836"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:kansai-paint],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US4220675/en",
-  :title "Method of metallic finishing",
-  :status :granted,
-  :id "US4220675",
-  :sourcing :authoritative,
-  :filing-year 1978,
-  :assignee :kansai-paint,
-  :grant-year 1980,
-  :cites
-  ["US3904795"
-   "US3953644"
-   "US3954899"
-   "US3959521"
-   "US3976715"
-   "US3980732"
-   "US3988494"
-   "US3991230"
-   "US3998716"
-   "US4044175"
-   "US4053682"
-   "US4082884"],
   :term-years 20,
   :open-license :none}]

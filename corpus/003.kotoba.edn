@@ -1,4 +1,18 @@
-[{:assignees [:sperry-rand],
+[{:assignees [:phillips-petroleum],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2832759/en",
+  :title "Process and catalyst for production of olefin polymers",
+  :status :granted,
+  :id "US2832759",
+  :sourcing :authoritative,
+  :filing-year 1955,
+  :assignee :phillips-petroleum,
+  :grant-year 1958,
+  :cites ["BE533362A" "CA502597A" "US2520601" "US2712189"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:sperry-rand],
   :jurisdiction :us,
   :field "UNKNOWN",
   :source "https://patents.google.com/patent/US2834676/en",
@@ -1119,6 +1133,27 @@
    "US2082252"
    "US2510347"
    "US2690695"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:union-carbide],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2890197/en",
+  :title
+  "Composition comprising a diepoxide, a polycarboxylic acid and a polyhydric compound",
+  :status :granted,
+  :id "US2890197",
+  :sourcing :authoritative,
+  :filing-year 1957,
+  :assignee :union-carbide,
+  :grant-year 1959,
+  :cites
+  ["CA530335A"
+   "US2602785"
+   "US2609357"
+   "US2716123"
+   "US2720500"
+   "US2750395"],
   :term-years 20,
   :open-license :none}
  {:assignees [:union-carbide],
@@ -4255,6 +4290,33 @@
    "US2955958"],
   :term-years 20,
   :open-license :none}
+ {:assignees [:union-carbide],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3027357/en",
+  :title "Cross-linking carboxyl containing polymers",
+  :status :granted,
+  :id "US3027357",
+  :sourcing :authoritative,
+  :filing-year 1958,
+  :assignee :union-carbide,
+  :grant-year 1962,
+  :cites
+  ["FR881981A"
+   "US2500016"
+   "US2604457"
+   "US2604464"
+   "US2687404"
+   "US2750395"
+   "US2761870"
+   "US2772296"
+   "US2781333"
+   "US2826562"
+   "US2870170"
+   "US2890194"
+   "US2949441"],
+  :term-years 20,
+  :open-license :none}
  {:assignees [:fischer-and-porter],
   :jurisdiction :us,
   :field "UNKNOWN",
@@ -7136,6 +7198,20 @@
   :cites ["US3001539" "US3071154"],
   :term-years 20,
   :open-license :none}
+ {:assignees [:union-carbide],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3169945/en",
+  :title "Lactone polyesters",
+  :status :granted,
+  :id "US3169945",
+  :sourcing :authoritative,
+  :filing-year 1963,
+  :assignee :union-carbide,
+  :grant-year 1965,
+  :cites ["DE745312C" "DE861609C" "US2361036" "US2776951" "US2817646"],
+  :term-years 20,
+  :open-license :none}
  {:assignees [:monsanto],
   :jurisdiction :us,
   :field "UNKNOWN",
@@ -9746,109 +9822,5 @@
   :assignee :koppers,
   :grant-year 1967,
   :cites ["US2872428" "US2970130" "US3257347"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:ei-du-pont-de-nemours-and],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3306156/en",
-  :title "Method and apparatus for photometric analysis",
-  :status :granted,
-  :id "US3306156",
-  :sourcing :authoritative,
-  :filing-year 1957,
-  :assignee :ei-du-pont-de-nemours-and,
-  :grant-year 1967,
-  :cites
-  ["US2503165"
-   "US2620444"
-   "US2679185"
-   "US2694335"
-   "US2703844"
-   "US2718597"
-   "US2737591"
-   "US2775160"
-   "US2823800"
-   "US2849618"
-   "US2987182"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:eastman-kodak],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3306750/en",
-  :title "Polymeric hardeners for gelatin",
-  :status :granted,
-  :id "US3306750",
-  :sourcing :authoritative,
-  :filing-year 1966,
-  :assignee :eastman-kodak,
-  :grant-year 1967,
-  :term-years 20,
-  :open-license :none}
- {:assignees [:hitachi],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3311756/en",
-  :title "Electronic circuit having a fieldeffect transistor therein",
-  :status :granted,
-  :id "US3311756",
-  :sourcing :authoritative,
-  :filing-year 1964,
-  :assignee :hitachi,
-  :grant-year 1967,
-  :cites
-  ["US2980809"
-   "US3177100"
-   "US3183128"
-   "US3191061"
-   "US3202840"
-   "US3213299"
-   "US3229218"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:international-business-machines],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3315229/en",
-  :title "Blood cell recognizer",
-  :status :granted,
-  :id "US3315229",
-  :sourcing :authoritative,
-  :filing-year 1963,
-  :assignee :international-business-machines,
-  :grant-year 1967,
-  :cites
-  ["GB948498A"
-   "US2791150"
-   "US2875666"
-   "US2969708"
-   "US2978675"
-   "US2983822"
-   "US3064519"
-   "US3084286"
-   "US3149286"
-   "US3189873"],
-  :term-years 20,
-  :open-license :none}
- {:jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3315424/en",
-  :title "Building construction",
-  :status :granted,
-  :id "US3315424",
-  :sourcing :authoritative,
-  :filing-year 1963,
-  :assignee :unassigned,
-  :grant-year 1967,
-  :cites
-  ["US1510224"
-   "US2576073"
-   "US2595123"
-   "US2928360"
-   "US2995784"
-   "US3003199"
-   "US3085365"
-   "US951031"],
   :term-years 20,
   :open-license :none}]
