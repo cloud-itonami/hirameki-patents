@@ -1,4 +1,303 @@
-[{:assignees [:avco],
+[{:assignees [:beckman-instruments],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3787309/en",
+  :title "Specific ion electrode and method of making said electrode",
+  :status :granted,
+  :id "US3787309",
+  :sourcing :authoritative,
+  :filing-year 1972,
+  :assignee :beckman-instruments,
+  :grant-year 1974,
+  :cites ["FR1402343A" "FR1505744A"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:ford-motor],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3787521/en",
+  :title
+  "Method of preparing a powder coating composition containing glycidyl acrylate copolymers and dicarboxylic acid crosslinking agent",
+  :status :granted,
+  :id "US3787521",
+  :sourcing :authoritative,
+  :filing-year 1971,
+  :assignee :ford-motor,
+  :grant-year 1974,
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:bio-physics-systems],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3788744/en",
+  :title "Method and apparatus for photoanalysis",
+  :status :granted,
+  :id "US3788744",
+  :sourcing :authoritative,
+  :filing-year 1971,
+  :assignee :bio-physics-systems,
+  :grant-year 1974,
+  :cites ["US2816479" "US3361030" "US3413464" "US3497690" "US3566114"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:abbott-laboratories],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3789116/en",
+  :title "Fluorescent labeled antibody reagent",
+  :status :granted,
+  :id "US3789116",
+  :sourcing :authoritative,
+  :filing-year 1970,
+  :assignee :abbott-laboratories,
+  :grant-year 1974,
+  :cites ["FR1299171A" "GB1180957A" "US3551296"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:sherwood-medical-industries],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3790346/en",
+  :title "Heating system",
+  :status :granted,
+  :id "US3790346",
+  :sourcing :authoritative,
+  :filing-year 1971,
+  :assignee :sherwood-medical-industries,
+  :grant-year 1974,
+  :cites
+  ["US3004524"
+   "US3145055"
+   "US3267364"
+   "US3556731"
+   "US3605010"
+   "US3607099"
+   "US3622279"
+   "US3645690"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:us-department-of-health-and-human-services],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3790663/en",
+  :title
+  "Preparation of dry antiserum coated solid-phase for radioimmunoassay of antigens",
+  :status :granted,
+  :id "US3790663",
+  :sourcing :authoritative,
+  :filing-year 1970,
+  :assignee :us-department-of-health-and-human-services,
+  :grant-year 1974,
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:bio-physics-systems],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3791517/en",
+  :title "Digital fluidic amplifier particle sorter",
+  :status :granted,
+  :id "US3791517",
+  :sourcing :authoritative,
+  :filing-year 1973,
+  :assignee :bio-physics-systems,
+  :grant-year 1974,
+  :cites ["US3560754" "US3710933"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:akzona],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3791932/en",
+  :title
+  "Process for the demonstration and determination of reaction components having specific binding affinity for each other",
+  :status :granted,
+  :id "US3791932",
+  :sourcing :authoritative,
+  :filing-year 1972,
+  :assignee :akzona,
+  :grant-year 1974,
+  :cites ["US3654090"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:geomet],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3791933/en",
+  :title
+  "Rapid methods for assay of enzyme substrates and metabolites",
+  :status :granted,
+  :id "US3791933",
+  :sourcing :authoritative,
+  :filing-year 1971,
+  :assignee :geomet,
+  :grant-year 1974,
+  :cites ["US3367841" "US3526480" "US3663374"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:miles-laboratories],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3792039/en",
+  :title "Poly 2&#39;-fluoro-2&#39;-deoxyuridylic acid",
+  :status :granted,
+  :id "US3792039",
+  :sourcing :authoritative,
+  :filing-year 1971,
+  :assignee :miles-laboratories,
+  :grant-year 1974,
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:reliance-electric],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3792286/en",
+  :title "Combining inverters for harmonic reduction",
+  :status :granted,
+  :id "US3792286",
+  :sourcing :authoritative,
+  :filing-year 1971,
+  :assignee :reliance-electric,
+  :grant-year 1974,
+  :cites
+  ["SU190974A1"
+   "SU276231A1"
+   "US3477010"
+   "US3611085"
+   "US3628123"
+   "US3648149"
+   "US3657633"
+   "US3671846"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:bell-telephone-laboratories],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3793088/en",
+  :title "Compatible pnp and npn devices in an integrated circuit",
+  :status :granted,
+  :id "US3793088",
+  :sourcing :authoritative,
+  :filing-year 1972,
+  :assignee :bell-telephone-laboratories,
+  :grant-year 1974,
+  :cites
+  ["US3617824"
+   "US3648130"
+   "US3723199"
+   "US3729811"
+   "US3747203"
+   "US3748545"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:wisconsin-alumni-research-foundation],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3793445/en",
+  :title "Reagent for radioimmunoassay",
+  :status :granted,
+  :id "US3793445",
+  :sourcing :authoritative,
+  :filing-year 1970,
+  :assignee :wisconsin-alumni-research-foundation,
+  :grant-year 1974,
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:cities-service-oil],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3793886/en",
+  :title "Cell for collecting and mixing fluids",
+  :status :granted,
+  :id "US3793886",
+  :sourcing :authoritative,
+  :filing-year 1972,
+  :assignee :cities-service-oil,
+  :grant-year 1974,
+  :cites ["US3390580"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:ei-du-pont-de-nemours-and],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3794467/en",
+  :title
+  "Removing substances from a liquid by\nprecipitation in porous glass beads",
+  :status :granted,
+  :id "US3794467",
+  :sourcing :authoritative,
+  :filing-year 1971,
+  :assignee :ei-du-pont-de-nemours-and,
+  :grant-year 1974,
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:beecham-group],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3794630/en",
+  :title "Protein allergenic extracts reacted with dialdehydes",
+  :status :granted,
+  :id "US3794630",
+  :sourcing :authoritative,
+  :filing-year 1970,
+  :assignee :beecham-group,
+  :grant-year 1974,
+  :term-years 20,
+  :open-license :none}
+ {:jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3795792/en",
+  :title "Feature association in image analysis",
+  :status :granted,
+  :id "US3795792",
+  :sourcing :authoritative,
+  :filing-year 1972,
+  :assignee :unassigned,
+  :grant-year 1974,
+  :cites ["US2891722" "US3020033" "US3280692"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:united-states-department-of-commerce],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3795812/en",
+  :title "Sulfur dioxide pollution monitor",
+  :status :granted,
+  :id "US3795812",
+  :sourcing :authoritative,
+  :filing-year 1972,
+  :assignee :united-states-department-of-commerce,
+  :grant-year 1974,
+  :cites ["US3032654" "US3430041"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:howson-algraphy],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3796603/en",
+  :title
+  "Method of removing insolubilized light sensitized poly(vinyl alcohol) from a surface utilizing periodate ions",
+  :status :granted,
+  :id "US3796603",
+  :sourcing :authoritative,
+  :filing-year 1972,
+  :assignee :howson-algraphy,
+  :grant-year 1974,
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:us-department-of-health-and-human-services],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3796634/en",
+  :title "Insolubilized biologically active enzymes",
+  :status :granted,
+  :id "US3796634",
+  :sourcing :authoritative,
+  :filing-year 1970,
+  :assignee :us-department-of-health-and-human-services,
+  :grant-year 1974,
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:avco],
   :jurisdiction :us,
   :field "UNKNOWN",
   :source "https://patents.google.com/patent/US3796660/en",
@@ -3879,6 +4178,20 @@
    "US3821145"
    "US3850664"
    "US3850734"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:ciba-geigy],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3954712/en",
+  :title "Hot-curable mixtures based on epoxide resin",
+  :status :granted,
+  :id "US3954712",
+  :sourcing :authoritative,
+  :filing-year 1974,
+  :assignee :ciba-geigy,
+  :grant-year 1976,
+  :cites ["US2928809" "US3427255" "US3438909"],
   :term-years 20,
   :open-license :none}
  {:assignees [:ppg-industries],
@@ -9096,341 +9409,5 @@
    "US3932141"
    "US4052010"
    "US4053284"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:shin-etsu-chemical],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US4180642/en",
-  :title "Room temperature curable organopolysiloxane compositions",
-  :status :granted,
-  :id "US4180642",
-  :sourcing :authoritative,
-  :filing-year 1978,
-  :assignee :shin-etsu-chemical,
-  :grant-year 1979,
-  :cites ["US3819563" "US4020044"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:varian-associates],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US4180739/en",
-  :title "Thermostatable flow cell for fluorescence measurements",
-  :status :granted,
-  :id "US4180739",
-  :sourcing :authoritative,
-  :filing-year 1977,
-  :assignee :varian-associates,
-  :grant-year 1979,
-  :cites ["US3151204" "US3869215" "US4008397" "US4082459"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:airco],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US4180771/en",
-  :title "Chemical-sensitive field-effect transistor",
-  :status :granted,
-  :id "US4180771",
-  :sourcing :authoritative,
-  :filing-year 1977,
-  :assignee :airco,
-  :grant-year 1979,
-  :cites ["US3311756" "US3381432" "US3999122" "US4020830"],
-  :term-years 20,
-  :open-license :none}
- {:jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US4182750/en",
-  :title "Bloodcompatible functional polymers",
-  :status :granted,
-  :id "US4182750",
-  :sourcing :authoritative,
-  :filing-year 1977,
-  :assignee :unassigned,
-  :grant-year 1980,
-  :cites
-  ["US3434467"
-   "US3514438"
-   "US3673612"
-   "US3853987"
-   "US3938953"
-   "US3959079"
-   "US3995019"
-   "US4008047"
-   "US4010250"
-   "US4012317"
-   "US4031201"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:sandoz],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US4184917/en",
-  :title "Process for producing a structurally modified interferon",
-  :status :granted,
-  :id "US4184917",
-  :sourcing :authoritative,
-  :filing-year 1977,
-  :assignee :sandoz,
-  :grant-year 1980,
-  :term-years 20,
-  :open-license :none}
- {:assignees [:government-of-the-united-states-of-america],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US4184922/en",
-  :title
-  "Dual circuit, woven artificial capillary bundle for cell culture",
-  :status :granted,
-  :id "US4184922",
-  :sourcing :authoritative,
-  :filing-year 1977,
-  :assignee :government-of-the-united-states-of-america,
-  :grant-year 1980,
-  :cites
-  ["US3732149"
-   "US3740321"
-   "US3821087"
-   "US3827943"
-   "US3843454"
-   "US3847749"
-   "US3853712"
-   "US3883393"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:mochida-pharmaceutical],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US4185084/en",
-  :title
-  "Immunochemical measuring method using second antigenic substance",
-  :status :granted,
-  :id "US4185084",
-  :sourcing :authoritative,
-  :filing-year 1977,
-  :assignee :mochida-pharmaceutical,
-  :grant-year 1980,
-  :cites ["US3935074" "US3940475" "US3949064"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:rhone-poulenc-industries],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US4188313/en",
-  :title "Compositions intended for the flameproofing of plastics",
-  :status :granted,
-  :id "US4188313",
-  :sourcing :authoritative,
-  :filing-year 1976,
-  :assignee :rhone-poulenc-industries,
-  :grant-year 1980,
-  :cites ["US3477982" "US3883475"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:canon],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US4189232/en",
-  :title "Range detecting method and apparatus",
-  :status :granted,
-  :id "US4189232",
-  :sourcing :authoritative,
-  :filing-year 1978,
-  :assignee :canon,
-  :grant-year 1980,
-  :cites ["US3898676" "US3945023" "US4004852"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:research],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US4190495/en",
-  :title
-  "Modified microorganisms and method of preparing and using same",
-  :status :granted,
-  :id "US4190495",
-  :sourcing :authoritative,
-  :filing-year 1976,
-  :assignee :research,
-  :grant-year 1980,
-  :term-years 20,
-  :open-license :none}
- {:jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US4192748/en",
-  :title "Dialysis apparatus with selective chemical activity",
-  :status :granted,
-  :id "US4192748",
-  :sourcing :authoritative,
-  :filing-year 1976,
-  :assignee :unassigned,
-  :grant-year 1980,
-  :cites
-  ["US3503877"
-   "US3522346"
-   "US3579441"
-   "US3608729"
-   "US3619423"
-   "US3645852"
-   "US3703959"
-   "US3880760"
-   "US3888250"
-   "US4061141"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:institut-pasteur],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US4193982/en",
-  :title
-  "Process for coupling biological substances by covalent bonds",
-  :status :granted,
-  :id "US4193982",
-  :sourcing :authoritative,
-  :filing-year 1976,
-  :assignee :institut-pasteur,
-  :grant-year 1980,
-  :cites ["GB1257263A" "US3322634"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:syva],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US4193983/en",
-  :title
-  "Labeled liposome particle compositions and immunoassays therewith",
-  :status :granted,
-  :id "US4193983",
-  :sourcing :authoritative,
-  :filing-year 1978,
-  :assignee :syva,
-  :grant-year 1980,
-  :cites
-  ["US3849546"
-   "US3882224"
-   "US3887698"
-   "US3949065"
-   "US3996345"
-   "US4104029"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:wistar-institute-of-anatomy-and-biology],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US4196265/en",
-  :title "Method of producing antibodies",
-  :status :granted,
-  :id "US4196265",
-  :sourcing :authoritative,
-  :filing-year 1978,
-  :assignee :wistar-institute-of-anatomy-and-biology,
-  :grant-year 1980,
-  :cites ["GB1300391A" "US2768114"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:massachusetts-institute-of-technology],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US4197369/en",
-  :title "Method for measuring reactant concentrations and quantities",
-  :status :granted,
-  :id "US4197369",
-  :sourcing :authoritative,
-  :filing-year 1978,
-  :assignee :massachusetts-institute-of-technology,
-  :grant-year 1980,
-  :cites ["US3700562" "US3948731"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:raychem],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US4197380/en",
-  :title
-  "Hot melt adhesive comprising fluorocarbon elastomer, ethylene copolymer and tackifier",
-  :status :granted,
-  :id "US4197380",
-  :sourcing :authoritative,
-  :filing-year 1978,
-  :assignee :raychem,
-  :grant-year 1980,
-  :cites ["US3125547" "US3562195" "US3582518"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:snamprogetti-spa],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US4199498/en",
-  :title "Macromolecularized adenine derivatives",
-  :status :granted,
-  :id "US4199498",
-  :sourcing :authoritative,
-  :filing-year 1978,
-  :assignee :snamprogetti-spa,
-  :grant-year 1980,
-  :cites ["US4088639"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:syva],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US4199559/en",
-  :title
-  "Fluorescence quenching with immunological pairs in immunoassays",
-  :status :granted,
-  :id "US4199559",
-  :sourcing :authoritative,
-  :filing-year 1977,
-  :assignee :syva,
-  :grant-year 1980,
-  :cites ["US3899298" "US3996345"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:bard-laboratories],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US4199649/en",
-  :title "Amorphous monomolecular surface coatings",
-  :status :granted,
-  :id "US4199649",
-  :sourcing :authoritative,
-  :filing-year 1978,
-  :assignee :bard-laboratories,
-  :grant-year 1980,
-  :cites
-  ["US3115424"
-   "US3455736"
-   "US3628996"
-   "US3873499"
-   "US3896254"
-   "US3916035"
-   "US3942982"
-   "US4001870"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:government-of-the-united-states-of-america],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US4200110/en",
-  :title "Fiber optic pH probe",
-  :status :granted,
-  :id "US4200110",
-  :sourcing :authoritative,
-  :filing-year 1977,
-  :assignee :government-of-the-united-states-of-america,
-  :grant-year 1980,
-  :cites
-  ["GB770889A"
-   "US2084399"
-   "US3164663"
-   "US3183208"
-   "US3787119"
-   "US3814081"
-   "US4016133"
-   "US4016863"
-   "US4033330"
-   "US4041932"],
   :term-years 20,
   :open-license :none}]

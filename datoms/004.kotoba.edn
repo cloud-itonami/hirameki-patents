@@ -1,4 +1,45 @@
 [[":db/add"
+  "hirameki-patent:US2218249"
+  ":hirameki.obs/years-to-expiry"
+  -67]
+ [":db/add"
+  "hirameki-patent:US2218249"
+  ":hirameki/source"
+  "https://patents.google.com/patent/US2218249/en"]
+ [":db/add"
+  "hirameki-patent:US2218293"
+  ":hirameki.patent/title"
+  "Apparatus for wrapping articles"]
+ [":db/add"
+  "hirameki-patent:US2218293"
+  ":hirameki.patent/jurisdiction"
+  ":us"]
+ [":db/add"
+  "hirameki-patent:US2218293"
+  ":hirameki.patent/field"
+  "UNKNOWN"]
+ [":db/add"
+  "hirameki-patent:US2218293"
+  ":hirameki.patent/assignee"
+  ":unassigned"]
+ [":db/add"
+  "hirameki-patent:US2218293"
+  ":hirameki.patent/status"
+  ":granted"]
+ [":db/add"
+  "hirameki-patent:US2218293"
+  ":hirameki.patent/open-license"
+  ":none"]
+ [":db/add"
+  "hirameki-patent:US2218293"
+  ":hirameki.obs/release-status"
+  ":public-domain"]
+ [":db/add"
+  "hirameki-patent:US2218293"
+  ":hirameki/sourcing"
+  ":authoritative"]
+ [":db/add" "hirameki-patent:US2218293" ":hirameki/derived" true]
+ [":db/add"
   "hirameki-patent:US2218293"
   ":hirameki.obs/years-to-expiry"
   -67]
@@ -10400,45 +10441,4 @@
   "hirameki-patent:US2385931"
   ":hirameki/sourcing"
   ":authoritative"]
- [":db/add" "hirameki-patent:US2385931" ":hirameki/derived" true]
- [":db/add"
-  "hirameki-patent:US2385931"
-  ":hirameki.obs/years-to-expiry"
-  -65]
- [":db/add"
-  "hirameki-patent:US2385931"
-  ":hirameki/source"
-  "https://patents.google.com/patent/US2385931/en"]
- [":db/add"
-  "hirameki-patent:US2386167"
-  ":hirameki.patent/title"
-  "Photographic article of manufacture"]
- [":db/add"
-  "hirameki-patent:US2386167"
-  ":hirameki.patent/jurisdiction"
-  ":us"]
- [":db/add"
-  "hirameki-patent:US2386167"
-  ":hirameki.patent/field"
-  "UNKNOWN"]
- [":db/add"
-  "hirameki-patent:US2386167"
-  ":hirameki.patent/assignee"
-  ":ei-du-pont-de-nemours-and"]
- [":db/add"
-  "hirameki-patent:US2386167"
-  ":hirameki.patent/status"
-  ":granted"]
- [":db/add"
-  "hirameki-patent:US2386167"
-  ":hirameki.patent/open-license"
-  ":none"]
- [":db/add"
-  "hirameki-patent:US2386167"
-  ":hirameki.obs/release-status"
-  ":public-domain"]
- [":db/add"
-  "hirameki-patent:US2386167"
-  ":hirameki/sourcing"
-  ":authoritative"]
- [":db/add" "hirameki-patent:US2386167" ":hirameki/derived" true]]
+ [":db/add" "hirameki-patent:US2385931" ":hirameki/derived" true]]

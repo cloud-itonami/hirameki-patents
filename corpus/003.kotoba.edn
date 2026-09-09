@@ -1,4 +1,77 @@
-[{:jurisdiction :us,
+[{:assignees [:commw-mental-health-res-founda],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2829090/en",
+  :title "Glass electrode for measuring sodium ion",
+  :status :granted,
+  :id "US2829090",
+  :sourcing :authoritative,
+  :filing-year 1957,
+  :assignee :commw-mental-health-res-founda,
+  :grant-year 1958,
+  :cites
+  ["US1933739"
+   "US2108294"
+   "US2260749"
+   "US2383709"
+   "US2527693"
+   "US2571242"
+   "US2779136"],
+  :term-years 20,
+  :open-license :none}
+ {:jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2829555/en",
+  :title "Polarimetric method and apparatus",
+  :status :granted,
+  :id "US2829555",
+  :sourcing :authoritative,
+  :filing-year 1951,
+  :assignee :unassigned,
+  :grant-year 1958,
+  :cites
+  ["DE656389C"
+   "FR23617E"
+   "FR501330A"
+   "GB540876A"
+   "US1977359"
+   "US2078181"
+   "US2244362"
+   "US2351539"
+   "US2450761"
+   "US2503808"
+   "US2509068"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:bayer],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2830042/en",
+  :title "Monoazo dyestuffs",
+  :status :granted,
+  :id "US2830042",
+  :sourcing :authoritative,
+  :filing-year 1955,
+  :assignee :bayer,
+  :grant-year 1958,
+  :cites ["US2551056" "US2640825"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:jones-graphic-products],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2830899/en",
+  :title "Method for producing a printing plate",
+  :status :granted,
+  :id "US2830899",
+  :sourcing :authoritative,
+  :filing-year 1955,
+  :assignee :jones-graphic-products,
+  :grant-year 1958,
+  :cites ["US2174629" "US2184311" "US2702243"],
+  :term-years 20,
+  :open-license :none}
+ {:jurisdiction :us,
   :field "UNKNOWN",
   :source "https://patents.google.com/patent/US2831277/en",
   :title "Wire tab dispenser",
@@ -462,6 +535,21 @@
    "US2567109"
    "US2590775"
    "US2635048"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:ei-du-pont-de-nemours-and],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2857354/en",
+  :title
+  "Process of making glycidyl methacrylate polymer composition containing same, and product coated therewith",
+  :status :granted,
+  :id "US2857354",
+  :sourcing :authoritative,
+  :filing-year 1955,
+  :assignee :ei-du-pont-de-nemours-and,
+  :grant-year 1958,
+  :cites ["US2580901" "US2606810" "US2660563" "US2703765" "US2801232"],
   :term-years 20,
   :open-license :none}
  {:jurisdiction :us,
@@ -1165,6 +1253,26 @@
  {:assignees [:union-carbide],
   :jurisdiction :us,
   :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2890194/en",
+  :title "Compositions of epoxides and polycarboxylic acid compounds",
+  :status :granted,
+  :id "US2890194",
+  :sourcing :authoritative,
+  :filing-year 1956,
+  :assignee :union-carbide,
+  :grant-year 1959,
+  :cites
+  ["US2623023"
+   "US2712535"
+   "US2716123"
+   "US2720500"
+   "US2764575"
+   "US2768153"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:union-carbide],
+  :jurisdiction :us,
+  :field "UNKNOWN",
   :source "https://patents.google.com/patent/US2890197/en",
   :title
   "Composition comprising a diepoxide, a polycarboxylic acid and a polyhydric compound",
@@ -1196,6 +1304,26 @@
   :assignee :union-carbide,
   :grant-year 1959,
   :cites ["US2706181" "US2706182" "US2706189" "US2716123"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:union-carbide],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2890210/en",
+  :title "Compositions comprising epoxides and acid anhydrides",
+  :status :granted,
+  :id "US2890210",
+  :sourcing :authoritative,
+  :filing-year 1956,
+  :assignee :union-carbide,
+  :grant-year 1959,
+  :cites
+  ["US2623023"
+   "US2712535"
+   "US2716123"
+   "US2720500"
+   "US2764575"
+   "US2768153"],
   :term-years 20,
   :open-license :none}
  {:assignees [:ei-du-pont-de-nemours-and],
@@ -3873,6 +4001,21 @@
   :assignee :miles-laboratories,
   :grant-year 1961,
   :cites ["US2893843"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:union-carbide],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3008914/en",
+  :title
+  "Composition comprising an acrylic acid polymer and a polyglycidyl ether and products thereof",
+  :status :granted,
+  :id "US3008914",
+  :sourcing :authoritative,
+  :filing-year 1958,
+  :assignee :union-carbide,
+  :grant-year 1961,
+  :cites ["US2662870" "US2707177" "US2798861" "US2801989" "US2884339"],
   :term-years 20,
   :open-license :none}
  {:assignees [:dow-chemical],
@@ -7488,6 +7631,21 @@
   :cites ["US2710853" "US2867609"],
   :term-years 20,
   :open-license :none}
+ {:assignees [:canadian-industries],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3179714/en",
+  :title
+  "Stable coating compositions comprising polyepoxide, carboxyl-containing copolymer, and tertiary amine catalyst",
+  :status :granted,
+  :id "US3179714",
+  :sourcing :authoritative,
+  :filing-year 1961,
+  :assignee :canadian-industries,
+  :grant-year 1965,
+  :cites ["US2939859" "US2949438" "US2964492" "US2993920" "US3048552"],
+  :term-years 20,
+  :open-license :none}
  {:assignees [:upjohn],
   :jurisdiction :us,
   :field "UNKNOWN",
@@ -8125,6 +8283,21 @@
   :cites ["US3112292"],
   :term-years 20,
   :open-license :none}
+ {:assignees [:cook-paint-and-varnish],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3215756/en",
+  :title
+  "Coating compositions comprising carboxyl containing copolymer, epoxide and amino resin",
+  :status :granted,
+  :id "US3215756",
+  :sourcing :authoritative,
+  :filing-year 1960,
+  :assignee :cook-paint-and-varnish,
+  :grant-year 1965,
+  :cites ["US2787603" "US2931742" "US3014881"],
+  :term-years 20,
+  :open-license :none}
  {:assignees [:fisher-governor],
   :jurisdiction :us,
   :field "UNKNOWN",
@@ -8160,6 +8333,32 @@
   :assignee :unassigned,
   :grant-year 1965,
   :cites ["US3001539" "US3144309" "US3153934"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:archer-daniels-midland],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3218274/en",
+  :title
+  "Two-package coating system comprising a polyester having an acid number of at least 50 in one of the packages thereof",
+  :status :granted,
+  :id "US3218274",
+  :sourcing :authoritative,
+  :filing-year 1961,
+  :assignee :archer-daniels-midland,
+  :grant-year 1965,
+  :cites
+  ["CA569634A"
+   "GB806730A"
+   "US2720500"
+   "US2912409"
+   "US2959559"
+   "US3027357"
+   "US3031434"
+   "US3043717"
+   "US3050480"
+   "US3086949"
+   "US3098052"],
   :term-years 20,
   :open-license :none}
  {:jurisdiction :us,
@@ -9179,6 +9378,21 @@
   :cites ["CA672274A" "US3135666"],
   :term-years 20,
   :open-license :none}
+ {:assignees [:hysol],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3269975/en",
+  :title
+  "Tetracarboxylic acid hardeners for epoxy resins and powdered epoxy resin compositions including such hardeners",
+  :status :granted,
+  :id "US3269975",
+  :sourcing :authoritative,
+  :filing-year 1963,
+  :assignee :hysol,
+  :grant-year 1966,
+  :cites ["US2947717" "US3039987" "US3065186" "US3159595"],
+  :term-years 20,
+  :open-license :none}
  {:assignees [:milliken-research],
   :jurisdiction :us,
   :field "UNKNOWN",
@@ -9617,222 +9831,5 @@
   :assignee :hewlett-packard,
   :grant-year 1966,
   :cites ["US2554270" "US2952786" "US3164004" "US3209081"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:marconi],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3295022/en",
-  :title
-  "Apparatus for the detection of discharges in high-power transmission channels",
-  :status :granted,
-  :id "US3295022",
-  :sourcing :authoritative,
-  :filing-year 1963,
-  :assignee :marconi,
-  :grant-year 1966,
-  :term-years 20,
-  :open-license :none}
- {:jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3295283/en",
-  :title "Panel structure and frame member therefor",
-  :status :granted,
-  :id "US3295283",
-  :sourcing :authoritative,
-  :filing-year 1963,
-  :assignee :unassigned,
-  :grant-year 1967,
-  :cites ["CH281053A" "US2872713" "US3221453" "US3226903" "US834968"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:kimberly-clark],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3295967/en",
-  :title "Electrophotographic recording member",
-  :status :granted,
-  :id "US3295967",
-  :sourcing :authoritative,
-  :filing-year 1963,
-  :assignee :kimberly-clark,
-  :grant-year 1967,
-  :term-years 20,
-  :open-license :none}
- {:assignees [:union-carbide],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3296113/en",
-  :title "Gas-stream monitor",
-  :status :granted,
-  :id "US3296113",
-  :sourcing :authoritative,
-  :filing-year 1963,
-  :assignee :union-carbide,
-  :grant-year 1967,
-  :cites
-  ["US2616950"
-   "US2722658"
-   "US2758079"
-   "US2851654"
-   "US2938064"
-   "US2980749"
-   "US2991412"
-   "US3060374"
-   "US819355"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:american-cyanamid],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3297033/en",
-  :title "Surgical sutures",
-  :status :granted,
-  :id "US3297033",
-  :sourcing :authoritative,
-  :filing-year 1963,
-  :assignee :american-cyanamid,
-  :grant-year 1967,
-  :cites
-  ["US2615450"
-   "US2676945"
-   "US2764159"
-   "US2870906"
-   "US2909177"
-   "US3044942"],
-  :term-years 20,
-  :open-license :none}
- {:jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3297157/en",
-  :title "Fish egg sorting",
-  :status :granted,
-  :id "US3297157",
-  :sourcing :authoritative,
-  :filing-year 1965,
-  :assignee :unassigned,
-  :grant-year 1967,
-  :cites ["US2152758" "US3058588"],
-  :term-years 20,
-  :open-license :none}
- {:jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US329724/en",
-  :title "dieckmann",
-  :status :granted,
-  :id "US329724",
-  :sourcing :authoritative,
-  :assignee :unassigned,
-  :grant-year 1885,
-  :term-years 20,
-  :open-license :none}
- {:assignees [:bayer],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3297648/en",
-  :title
-  "Process for the chloromethylation of aromatic compounds of high molecular weight",
-  :status :granted,
-  :id "US3297648",
-  :sourcing :authoritative,
-  :filing-year 1964,
-  :assignee :bayer,
-  :grant-year 1967,
-  :cites ["GB778749A" "US2694702" "US2926202" "US3185667"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:miles-laboratories],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3298789/en",
-  :title "Test article for the detection of glucose",
-  :status :granted,
-  :id "US3298789",
-  :sourcing :authoritative,
-  :filing-year 1964,
-  :assignee :miles-laboratories,
-  :grant-year 1967,
-  :cites
-  ["US2872369"
-   "US2893844"
-   "US3008879"
-   "US3050373"
-   "US3066081"
-   "US3069330"
-   "US3092465"
-   "US3140256"
-   "US3145086"
-   "US3183173"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:hoechst],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3299043/en",
-  :title "Process for preparing polynucleotides",
-  :status :granted,
-  :id "US3299043",
-  :sourcing :authoritative,
-  :filing-year 1964,
-  :assignee :hoechst,
-  :grant-year 1967,
-  :cites ["US3079379" "US3118876"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:coulter-electronics],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3299354/en",
-  :title "Aperture tube structure for particle study apparatus",
-  :status :granted,
-  :id "US3299354",
-  :sourcing :authoritative,
-  :filing-year 1962,
-  :assignee :coulter-electronics,
-  :grant-year 1967,
-  :cites ["US2492768" "US2830945" "US2869078" "US2996917" "US3208926"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:american-cyanamid],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3300428/en",
-  :title
-  "Hammer finish from aqueous composition containing non-leafing aluminum particles",
-  :status :granted,
-  :id "US3300428",
-  :sourcing :authoritative,
-  :filing-year 1964,
-  :assignee :american-cyanamid,
-  :grant-year 1967,
-  :cites ["US2574659" "US2906724"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:upjohn],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3300478/en",
-  :title
-  "Arabinofuranosyl 2&#39;, 5&#39;-and 3&#39;-5&#39;-dinucleoside phosphates and process therefor",
-  :status :granted,
-  :id "US3300478",
-  :sourcing :authoritative,
-  :filing-year 1965,
-  :assignee :upjohn,
-  :grant-year 1967,
-  :term-years 20,
-  :open-license :none}
- {:assignees [:upjohn],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3300479/en",
-  :title
-  "Deazapurine riboside cyclic 3&#39;, 5&#39;-phosphates and process therefor",
-  :status :granted,
-  :id "US3300479",
-  :sourcing :authoritative,
-  :filing-year 1965,
-  :assignee :upjohn,
-  :grant-year 1967,
   :term-years 20,
   :open-license :none}]

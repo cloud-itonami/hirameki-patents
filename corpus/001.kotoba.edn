@@ -1,4 +1,29 @@
-[{:assignees [:asbestos-shingle-slate-&-sheat],
+[{:assignees [:nat-paper-can],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US1462443/en",
+  :title "Paper can or carton",
+  :status :granted,
+  :id "US1462443",
+  :sourcing :authoritative,
+  :filing-year 1916,
+  :assignee :nat-paper-can,
+  :grant-year 1923,
+  :term-years 20,
+  :open-license :none}
+ {:jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US1463841/en",
+  :title "Method of making concrete building boards or slabs",
+  :status :granted,
+  :id "US1463841",
+  :sourcing :authoritative,
+  :filing-year 1919,
+  :assignee :unassigned,
+  :grant-year 1923,
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:asbestos-shingle-slate-&-sheat],
   :jurisdiction :us,
   :field "UNKNOWN",
   :source "https://patents.google.com/patent/US1463961/en",
@@ -9228,52 +9253,5 @@
   :filing-year 1946,
   :assignee :minnesota-mining-and-manufacturing,
   :grant-year 1948,
-  :term-years 20,
-  :open-license :none}
- {:assignees [:kearney-james-r],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US2439164/en",
-  :title "Electrical switch",
-  :status :granted,
-  :id "US2439164",
-  :sourcing :authoritative,
-  :filing-year 1944,
-  :assignee :kearney-james-r,
-  :grant-year 1948,
-  :cites
-  ["US1850703"
-   "US1877986"
-   "US1971392"
-   "US2011503"
-   "US2179484"
-   "US860481"
-   "US884775"],
-  :term-years 20,
-  :open-license :none}
- {:jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US2439802/en",
-  :title "Apparatus for forming films and coatings",
-  :status :granted,
-  :id "US2439802",
-  :sourcing :authoritative,
-  :filing-year 1945,
-  :assignee :unassigned,
-  :grant-year 1948,
-  :cites
-  ["US1072705"
-   "US1174995"
-   "US1228225"
-   "US1258840"
-   "US1388353"
-   "US1680711"
-   "US1757636"
-   "US1805070"
-   "US2068253"
-   "US2128312"
-   "US2269150"
-   "US2329034"
-   "US414689"],
   :term-years 20,
   :open-license :none}]

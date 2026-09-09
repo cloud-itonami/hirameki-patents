@@ -1,4 +1,51 @@
-[{:assignees [:westinghouse-electric],
+[{:assignees [:kearney-james-r],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2439164/en",
+  :title "Electrical switch",
+  :status :granted,
+  :id "US2439164",
+  :sourcing :authoritative,
+  :filing-year 1944,
+  :assignee :kearney-james-r,
+  :grant-year 1948,
+  :cites
+  ["US1850703"
+   "US1877986"
+   "US1971392"
+   "US2011503"
+   "US2179484"
+   "US860481"
+   "US884775"],
+  :term-years 20,
+  :open-license :none}
+ {:jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2439802/en",
+  :title "Apparatus for forming films and coatings",
+  :status :granted,
+  :id "US2439802",
+  :sourcing :authoritative,
+  :filing-year 1945,
+  :assignee :unassigned,
+  :grant-year 1948,
+  :cites
+  ["US1072705"
+   "US1174995"
+   "US1228225"
+   "US1258840"
+   "US1388353"
+   "US1680711"
+   "US1757636"
+   "US1805070"
+   "US2068253"
+   "US2128312"
+   "US2269150"
+   "US2329034"
+   "US414689"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:westinghouse-electric],
   :jurisdiction :us,
   :field "UNKNOWN",
   :source "https://patents.google.com/patent/US2439929/en",
@@ -6039,6 +6086,20 @@
   :cites ["US2575558" "US2602785"],
   :term-years 20,
   :open-license :none}
+ {:assignees [:general-electric],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2683131/en",
+  :title "Acidic polyester-ethoxyline resinous compositions",
+  :status :granted,
+  :id "US2683131",
+  :sourcing :authoritative,
+  :filing-year 1951,
+  :assignee :general-electric,
+  :grant-year 1954,
+  :cites ["US2591539"],
+  :term-years 20,
+  :open-license :none}
  {:jurisdiction :us,
   :field "UNKNOWN",
   :source "https://patents.google.com/patent/US2683669/en",
@@ -7028,6 +7089,29 @@
    "US2466718"
    "US2499421"
    "US695041"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:ciba],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2712535/en",
+  :title
+  "Elastic infusible products from epoxy compounds and cross-linking agents",
+  :status :granted,
+  :id "US2712535",
+  :sourcing :authoritative,
+  :filing-year 1950,
+  :assignee :ciba,
+  :grant-year 1955,
+  :cites
+  ["US2324483"
+   "US2403343"
+   "US2494295"
+   "US2506486"
+   "US2510885"
+   "US2558949"
+   "US2591539"
+   "US2676162"],
   :term-years 20,
   :open-license :none}
  {:assignees [:ei-du-pont-de-nemours-and],
@@ -9876,78 +9960,5 @@
    "US2532011"
    "US2558548"
    "US2682484"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:commw-mental-health-res-founda],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US2829090/en",
-  :title "Glass electrode for measuring sodium ion",
-  :status :granted,
-  :id "US2829090",
-  :sourcing :authoritative,
-  :filing-year 1957,
-  :assignee :commw-mental-health-res-founda,
-  :grant-year 1958,
-  :cites
-  ["US1933739"
-   "US2108294"
-   "US2260749"
-   "US2383709"
-   "US2527693"
-   "US2571242"
-   "US2779136"],
-  :term-years 20,
-  :open-license :none}
- {:jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US2829555/en",
-  :title "Polarimetric method and apparatus",
-  :status :granted,
-  :id "US2829555",
-  :sourcing :authoritative,
-  :filing-year 1951,
-  :assignee :unassigned,
-  :grant-year 1958,
-  :cites
-  ["DE656389C"
-   "FR23617E"
-   "FR501330A"
-   "GB540876A"
-   "US1977359"
-   "US2078181"
-   "US2244362"
-   "US2351539"
-   "US2450761"
-   "US2503808"
-   "US2509068"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:bayer],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US2830042/en",
-  :title "Monoazo dyestuffs",
-  :status :granted,
-  :id "US2830042",
-  :sourcing :authoritative,
-  :filing-year 1955,
-  :assignee :bayer,
-  :grant-year 1958,
-  :cites ["US2551056" "US2640825"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:jones-graphic-products],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US2830899/en",
-  :title "Method for producing a printing plate",
-  :status :granted,
-  :id "US2830899",
-  :sourcing :authoritative,
-  :filing-year 1955,
-  :assignee :jones-graphic-products,
-  :grant-year 1958,
-  :cites ["US2174629" "US2184311" "US2702243"],
   :term-years 20,
   :open-license :none}]

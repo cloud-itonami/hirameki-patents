@@ -6310,6 +6310,47 @@
   ":hirameki/source"
   "https://patents.google.com/patent/GB993961A/en"]
  [":db/add"
+  "hirameki-patent:GB994907A"
+  ":hirameki.patent/title"
+  "Coating compositions"]
+ [":db/add"
+  "hirameki-patent:GB994907A"
+  ":hirameki.patent/jurisdiction"
+  ":gb"]
+ [":db/add"
+  "hirameki-patent:GB994907A"
+  ":hirameki.patent/field"
+  "UNKNOWN"]
+ [":db/add"
+  "hirameki-patent:GB994907A"
+  ":hirameki.patent/assignee"
+  ":shell-int-research"]
+ [":db/add"
+  "hirameki-patent:GB994907A"
+  ":hirameki.patent/status"
+  ":pending"]
+ [":db/add"
+  "hirameki-patent:GB994907A"
+  ":hirameki.patent/open-license"
+  ":none"]
+ [":db/add"
+  "hirameki-patent:GB994907A"
+  ":hirameki.obs/release-status"
+  ":pending"]
+ [":db/add"
+  "hirameki-patent:GB994907A"
+  ":hirameki/sourcing"
+  ":authoritative"]
+ [":db/add" "hirameki-patent:GB994907A" ":hirameki/derived" true]
+ [":db/add"
+  "hirameki-patent:GB994907A"
+  ":hirameki.obs/years-to-expiry"
+  -44]
+ [":db/add"
+  "hirameki-patent:GB994907A"
+  ":hirameki/source"
+  "https://patents.google.com/patent/GB994907A/en"]
+ [":db/add"
   "hirameki-patent:JP2000051780A"
   ":hirameki.patent/title"
   "Forming method of double-layered coating film"]
@@ -10002,41 +10043,4 @@
  [":db/add"
   "hirameki-patent:JP2004026958A"
   ":hirameki.patent/title"
-  "Aqueous blocked polyisocyanate composition"]
- [":db/add"
-  "hirameki-patent:JP2004026958A"
-  ":hirameki.patent/jurisdiction"
-  ":jp"]
- [":db/add"
-  "hirameki-patent:JP2004026958A"
-  ":hirameki.patent/field"
-  "UNKNOWN"]
- [":db/add"
-  "hirameki-patent:JP2004026958A"
-  ":hirameki.patent/assignee"
-  ":asahi-chemical"]
- [":db/add"
-  "hirameki-patent:JP2004026958A"
-  ":hirameki.patent/status"
-  ":pending"]
- [":db/add"
-  "hirameki-patent:JP2004026958A"
-  ":hirameki.patent/open-license"
-  ":none"]
- [":db/add"
-  "hirameki-patent:JP2004026958A"
-  ":hirameki.obs/release-status"
-  ":pending"]
- [":db/add"
-  "hirameki-patent:JP2004026958A"
-  ":hirameki/sourcing"
-  ":authoritative"]
- [":db/add" "hirameki-patent:JP2004026958A" ":hirameki/derived" true]
- [":db/add"
-  "hirameki-patent:JP2004026958A"
-  ":hirameki.obs/years-to-expiry"
-  -4]
- [":db/add"
-  "hirameki-patent:JP2004026958A"
-  ":hirameki/source"
-  "https://patents.google.com/patent/JP2004026958A/en"]]
+  "Aqueous blocked polyisocyanate composition"]]

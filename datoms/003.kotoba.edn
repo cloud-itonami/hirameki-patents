@@ -1,4 +1,45 @@
 [[":db/add"
+  "hirameki-patent:US1853451"
+  ":hirameki.patent/status"
+  ":granted"]
+ [":db/add"
+  "hirameki-patent:US1853451"
+  ":hirameki.patent/open-license"
+  ":none"]
+ [":db/add"
+  "hirameki-patent:US1853451"
+  ":hirameki.obs/release-status"
+  ":public-domain"]
+ [":db/add"
+  "hirameki-patent:US1853451"
+  ":hirameki/sourcing"
+  ":authoritative"]
+ [":db/add" "hirameki-patent:US1853451" ":hirameki/derived" true]
+ [":db/add"
+  "hirameki-patent:US1853451"
+  ":hirameki.obs/years-to-expiry"
+  -78]
+ [":db/add"
+  "hirameki-patent:US1853451"
+  ":hirameki/source"
+  "https://patents.google.com/patent/US1853451/en"]
+ [":db/add"
+  "hirameki-patent:US1853569"
+  ":hirameki.patent/title"
+  "Equalizer rod"]
+ [":db/add"
+  "hirameki-patent:US1853569"
+  ":hirameki.patent/jurisdiction"
+  ":us"]
+ [":db/add"
+  "hirameki-patent:US1853569"
+  ":hirameki.patent/field"
+  "UNKNOWN"]
+ [":db/add"
+  "hirameki-patent:US1853569"
+  ":hirameki.patent/assignee"
+  ":unassigned"]
+ [":db/add"
   "hirameki-patent:US1853569"
   ":hirameki.patent/status"
   ":granted"]
@@ -10400,45 +10441,4 @@
   "hirameki-patent:US2218249"
   ":hirameki/sourcing"
   ":authoritative"]
- [":db/add" "hirameki-patent:US2218249" ":hirameki/derived" true]
- [":db/add"
-  "hirameki-patent:US2218249"
-  ":hirameki.obs/years-to-expiry"
-  -67]
- [":db/add"
-  "hirameki-patent:US2218249"
-  ":hirameki/source"
-  "https://patents.google.com/patent/US2218249/en"]
- [":db/add"
-  "hirameki-patent:US2218293"
-  ":hirameki.patent/title"
-  "Apparatus for wrapping articles"]
- [":db/add"
-  "hirameki-patent:US2218293"
-  ":hirameki.patent/jurisdiction"
-  ":us"]
- [":db/add"
-  "hirameki-patent:US2218293"
-  ":hirameki.patent/field"
-  "UNKNOWN"]
- [":db/add"
-  "hirameki-patent:US2218293"
-  ":hirameki.patent/assignee"
-  ":unassigned"]
- [":db/add"
-  "hirameki-patent:US2218293"
-  ":hirameki.patent/status"
-  ":granted"]
- [":db/add"
-  "hirameki-patent:US2218293"
-  ":hirameki.patent/open-license"
-  ":none"]
- [":db/add"
-  "hirameki-patent:US2218293"
-  ":hirameki.obs/release-status"
-  ":public-domain"]
- [":db/add"
-  "hirameki-patent:US2218293"
-  ":hirameki/sourcing"
-  ":authoritative"]
- [":db/add" "hirameki-patent:US2218293" ":hirameki/derived" true]]
+ [":db/add" "hirameki-patent:US2218249" ":hirameki/derived" true]]
