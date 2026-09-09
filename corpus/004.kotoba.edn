@@ -1,5 +1,39 @@
 [{:jurisdiction :us,
   :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3275534/en",
+  :title
+  "Bioelectric method for the detection of anticholinester-ases",
+  :status :granted,
+  :id "US3275534",
+  :sourcing :authoritative,
+  :filing-year 1963,
+  :assignee :unassigned,
+  :grant-year 1966,
+  :cites ["US2757132" "US2926072" "US3049411"],
+  :term-years 20,
+  :open-license :none}
+ {:jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3275834/en",
+  :title
+  "Apparatus for analyzing the size and number of particles in suspension",
+  :status :granted,
+  :id "US3275834",
+  :sourcing :authoritative,
+  :filing-year 1963,
+  :assignee :unassigned,
+  :grant-year 1966,
+  :cites
+  ["FR1227526A"
+   "US2731202"
+   "US2850239"
+   "US2875666"
+   "US3084591"
+   "US3094625"],
+  :term-years 20,
+  :open-license :none}
+ {:jurisdiction :us,
+  :field "UNKNOWN",
   :source "https://patents.google.com/patent/US3276589/en",
   :title "Apparatus for maintenance and treatment of blood in vitro",
   :status :granted,
@@ -6460,6 +6494,27 @@
   :cites ["US2763266" "US3512517" "US3572315"],
   :term-years 20,
   :open-license :none}
+ {:assignees [:celanese-coatings],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3639147/en",
+  :title
+  "Article having multilayer coating and process for producing same",
+  :status :granted,
+  :id "US3639147",
+  :sourcing :authoritative,
+  :filing-year 1970,
+  :assignee :celanese-coatings,
+  :grant-year 1972,
+  :cites
+  ["US2141789"
+   "US2860110"
+   "US3025181"
+   "US3197325"
+   "US3210210"
+   "US3276905"],
+  :term-years 20,
+  :open-license :none}
  {:assignees [:shell-oil],
   :jurisdiction :us,
   :field "UNKNOWN",
@@ -9003,6 +9058,19 @@
    "US3571598"],
   :term-years 20,
   :open-license :none}
+ {:assignees [:whittaker],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3763079/en",
+  :title "Polyurethanes based on mixed aromatic aliphatic polyesters",
+  :status :granted,
+  :id "US3763079",
+  :sourcing :authoritative,
+  :filing-year 1971,
+  :assignee :whittaker,
+  :grant-year 1973,
+  :term-years 20,
+  :open-license :none}
  {:assignees [:us-atomic-energy-commission-aec],
   :jurisdiction :us,
   :field "UNKNOWN",
@@ -9067,66 +9135,5 @@
   :filing-year 1971,
   :assignee :f-hoffmann-la-roche,
   :grant-year 1973,
-  :term-years 20,
-  :open-license :none}
- {:assignees [:research],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3766167/en",
-  :title "Orally active anticoagulant",
-  :status :granted,
-  :id "US3766167",
-  :sourcing :authoritative,
-  :filing-year 1971,
-  :assignee :research,
-  :grant-year 1973,
-  :term-years 20,
-  :open-license :none}
- {:jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3767398/en",
-  :title "Solid photoresist comprising a polyene and a polythiol",
-  :status :granted,
-  :id "US3767398",
-  :sourcing :authoritative,
-  :filing-year 1971,
-  :assignee :unassigned,
-  :grant-year 1973,
-  :cites
-  ["US3376138"
-   "US3556793"
-   "US3615450"
-   "US3656951"
-   "US3660088"
-   "US3677920"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:agfa-gevaert],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3767412/en",
-  :title
-  "Polymeric colour couplers and their use in colour photography",
-  :status :granted,
-  :id "US3767412",
-  :sourcing :authoritative,
-  :filing-year 1971,
-  :assignee :agfa-gevaert,
-  :grant-year 1973,
-  :cites ["US2852381" "US3551157"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:international-business-machines],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3767490/en",
-  :title "Process for etching organic coating layers",
-  :status :granted,
-  :id "US3767490",
-  :sourcing :authoritative,
-  :filing-year 1971,
-  :assignee :international-business-machines,
-  :grant-year 1973,
-  :cites ["US2443373" "US3705055"],
   :term-years 20,
   :open-license :none}]

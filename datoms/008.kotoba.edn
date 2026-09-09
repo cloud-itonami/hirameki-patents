@@ -1,4 +1,53 @@
 [[":db/add"
+  "hirameki-patent:US2919194"
+  ":hirameki.patent/jurisdiction"
+  ":us"]
+ [":db/add"
+  "hirameki-patent:US2919194"
+  ":hirameki.patent/field"
+  "UNKNOWN"]
+ [":db/add"
+  "hirameki-patent:US2919194"
+  ":hirameki.patent/assignee"
+  ":standard-brands"]
+ [":db/add"
+  "hirameki-patent:US2919194"
+  ":hirameki.patent/status"
+  ":granted"]
+ [":db/add"
+  "hirameki-patent:US2919194"
+  ":hirameki.patent/open-license"
+  ":none"]
+ [":db/add"
+  "hirameki-patent:US2919194"
+  ":hirameki.obs/release-status"
+  ":public-domain"]
+ [":db/add"
+  "hirameki-patent:US2919194"
+  ":hirameki/sourcing"
+  ":authoritative"]
+ [":db/add" "hirameki-patent:US2919194" ":hirameki/derived" true]
+ [":db/add"
+  "hirameki-patent:US2919194"
+  ":hirameki.obs/years-to-expiry"
+  -49]
+ [":db/add"
+  "hirameki-patent:US2919194"
+  ":hirameki/source"
+  "https://patents.google.com/patent/US2919194/en"]
+ [":db/add"
+  "hirameki-patent:US2919205"
+  ":hirameki.patent/title"
+  "Process for finishing coated paper"]
+ [":db/add"
+  "hirameki-patent:US2919205"
+  ":hirameki.patent/jurisdiction"
+  ":us"]
+ [":db/add"
+  "hirameki-patent:US2919205"
+  ":hirameki.patent/field"
+  "UNKNOWN"]
+ [":db/add"
   "hirameki-patent:US2919205"
   ":hirameki.patent/assignee"
   ":warren-sd"]
@@ -10276,49 +10325,4 @@
  [":db/add"
   "hirameki-patent:US3118876"
   ":hirameki.patent/assignee"
-  ":takeda-pharmaceutical"]
- [":db/add"
-  "hirameki-patent:US3118876"
-  ":hirameki.patent/status"
-  ":granted"]
- [":db/add"
-  "hirameki-patent:US3118876"
-  ":hirameki.patent/open-license"
-  ":none"]
- [":db/add"
-  "hirameki-patent:US3118876"
-  ":hirameki.obs/release-status"
-  ":public-domain"]
- [":db/add"
-  "hirameki-patent:US3118876"
-  ":hirameki/sourcing"
-  ":authoritative"]
- [":db/add" "hirameki-patent:US3118876" ":hirameki/derived" true]
- [":db/add"
-  "hirameki-patent:US3118876"
-  ":hirameki.obs/years-to-expiry"
-  -47]
- [":db/add"
-  "hirameki-patent:US3118876"
-  ":hirameki/source"
-  "https://patents.google.com/patent/US3118876/en"]
- [":db/add"
-  "hirameki-patent:US3119785"
-  ":hirameki.patent/title"
-  "Reaction product of a graft polymer of acrolein"]
- [":db/add"
-  "hirameki-patent:US3119785"
-  ":hirameki.patent/jurisdiction"
-  ":us"]
- [":db/add"
-  "hirameki-patent:US3119785"
-  ":hirameki.patent/field"
-  "UNKNOWN"]
- [":db/add"
-  "hirameki-patent:US3119785"
-  ":hirameki.patent/assignee"
-  ":general-tire-and-rubber"]
- [":db/add"
-  "hirameki-patent:US3119785"
-  ":hirameki.patent/status"
-  ":granted"]]
+  ":takeda-pharmaceutical"]]

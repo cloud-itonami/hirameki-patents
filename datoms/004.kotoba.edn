@@ -1,4 +1,49 @@
 [[":db/add"
+  "hirameki-patent:US2212159"
+  ":hirameki.patent/title"
+  "Cylinder polisher"]
+ [":db/add"
+  "hirameki-patent:US2212159"
+  ":hirameki.patent/jurisdiction"
+  ":us"]
+ [":db/add"
+  "hirameki-patent:US2212159"
+  ":hirameki.patent/field"
+  "UNKNOWN"]
+ [":db/add"
+  "hirameki-patent:US2212159"
+  ":hirameki.patent/assignee"
+  ":unassigned"]
+ [":db/add"
+  "hirameki-patent:US2212159"
+  ":hirameki.patent/status"
+  ":granted"]
+ [":db/add"
+  "hirameki-patent:US2212159"
+  ":hirameki.patent/open-license"
+  ":none"]
+ [":db/add"
+  "hirameki-patent:US2212159"
+  ":hirameki.obs/release-status"
+  ":public-domain"]
+ [":db/add"
+  "hirameki-patent:US2212159"
+  ":hirameki/sourcing"
+  ":authoritative"]
+ [":db/add" "hirameki-patent:US2212159" ":hirameki/derived" true]
+ [":db/add"
+  "hirameki-patent:US2212159"
+  ":hirameki.obs/years-to-expiry"
+  -68]
+ [":db/add"
+  "hirameki-patent:US2212159"
+  ":hirameki/source"
+  "https://patents.google.com/patent/US2212159/en"]
+ [":db/add"
+  "hirameki-patent:US2212770"
+  ":hirameki.patent/title"
+  "Process for forming films from synthetic linear polymers"]
+ [":db/add"
   "hirameki-patent:US2212770"
   ":hirameki.patent/jurisdiction"
   ":us"]
@@ -10392,49 +10437,4 @@
  [":db/add"
   "hirameki-patent:US2377426"
   ":hirameki.obs/years-to-expiry"
-  -63]
- [":db/add"
-  "hirameki-patent:US2377426"
-  ":hirameki/source"
-  "https://patents.google.com/patent/US2377426/en"]
- [":db/add"
-  "hirameki-patent:US2377867"
-  ":hirameki.patent/title"
-  "Condensation products"]
- [":db/add"
-  "hirameki-patent:US2377867"
-  ":hirameki.patent/jurisdiction"
-  ":us"]
- [":db/add"
-  "hirameki-patent:US2377867"
-  ":hirameki.patent/field"
-  "UNKNOWN"]
- [":db/add"
-  "hirameki-patent:US2377867"
-  ":hirameki.patent/assignee"
-  ":general-electric"]
- [":db/add"
-  "hirameki-patent:US2377867"
-  ":hirameki.patent/status"
-  ":granted"]
- [":db/add"
-  "hirameki-patent:US2377867"
-  ":hirameki.patent/open-license"
-  ":none"]
- [":db/add"
-  "hirameki-patent:US2377867"
-  ":hirameki.obs/release-status"
-  ":public-domain"]
- [":db/add"
-  "hirameki-patent:US2377867"
-  ":hirameki/sourcing"
-  ":authoritative"]
- [":db/add" "hirameki-patent:US2377867" ":hirameki/derived" true]
- [":db/add"
-  "hirameki-patent:US2377867"
-  ":hirameki.obs/years-to-expiry"
-  -66]
- [":db/add"
-  "hirameki-patent:US2377867"
-  ":hirameki/source"
-  "https://patents.google.com/patent/US2377867/en"]]
+  -63]]

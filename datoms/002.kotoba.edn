@@ -1,4 +1,45 @@
 [[":db/add"
+  "hirameki-patent:JP2003027031A"
+  ":hirameki.patent/field"
+  "UNKNOWN"]
+ [":db/add"
+  "hirameki-patent:JP2003027031A"
+  ":hirameki.patent/assignee"
+  ":chuo-rika-kogyo"]
+ [":db/add"
+  "hirameki-patent:JP2003027031A"
+  ":hirameki.patent/status"
+  ":pending"]
+ [":db/add"
+  "hirameki-patent:JP2003027031A"
+  ":hirameki.patent/open-license"
+  ":none"]
+ [":db/add"
+  "hirameki-patent:JP2003027031A"
+  ":hirameki.obs/release-status"
+  ":pending"]
+ [":db/add"
+  "hirameki-patent:JP2003027031A"
+  ":hirameki/sourcing"
+  ":authoritative"]
+ [":db/add" "hirameki-patent:JP2003027031A" ":hirameki/derived" true]
+ [":db/add"
+  "hirameki-patent:JP2003027031A"
+  ":hirameki.obs/years-to-expiry"
+  -5]
+ [":db/add"
+  "hirameki-patent:JP2003027031A"
+  ":hirameki/source"
+  "https://patents.google.com/patent/JP2003027031A/en"]
+ [":db/add"
+  "hirameki-patent:JP2003053255A"
+  ":hirameki.patent/title"
+  "Aqueous metallic paint and method for forming multi- layered coating film"]
+ [":db/add"
+  "hirameki-patent:JP2003053255A"
+  ":hirameki.patent/jurisdiction"
+  ":jp"]
+ [":db/add"
   "hirameki-patent:JP2003053255A"
   ":hirameki.patent/field"
   "UNKNOWN"]
@@ -10114,49 +10155,4 @@
  [":db/add"
   "hirameki-patent:US1808795"
   ":hirameki.patent/assignee"
-  ":firm-universelle-cigarettenmas"]
- [":db/add"
-  "hirameki-patent:US1808795"
-  ":hirameki.patent/status"
-  ":granted"]
- [":db/add"
-  "hirameki-patent:US1808795"
-  ":hirameki.patent/open-license"
-  ":none"]
- [":db/add"
-  "hirameki-patent:US1808795"
-  ":hirameki.obs/release-status"
-  ":public-domain"]
- [":db/add"
-  "hirameki-patent:US1808795"
-  ":hirameki/sourcing"
-  ":authoritative"]
- [":db/add" "hirameki-patent:US1808795" ":hirameki/derived" true]
- [":db/add"
-  "hirameki-patent:US1808795"
-  ":hirameki.obs/years-to-expiry"
-  -77]
- [":db/add"
-  "hirameki-patent:US1808795"
-  ":hirameki/source"
-  "https://patents.google.com/patent/US1808795/en"]
- [":db/add"
-  "hirameki-patent:US180945"
-  ":hirameki.patent/title"
-  "Improvement in fertilizer-distributer attachments for seed-drills"]
- [":db/add"
-  "hirameki-patent:US180945"
-  ":hirameki.patent/jurisdiction"
-  ":us"]
- [":db/add"
-  "hirameki-patent:US180945"
-  ":hirameki.patent/field"
-  "UNKNOWN"]
- [":db/add"
-  "hirameki-patent:US180945"
-  ":hirameki.patent/assignee"
-  ":unassigned"]
- [":db/add"
-  "hirameki-patent:US180945"
-  ":hirameki.patent/status"
-  ":granted"]]
+  ":firm-universelle-cigarettenmas"]]

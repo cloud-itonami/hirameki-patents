@@ -1,4 +1,49 @@
 [[":db/add"
+  "hirameki-patent:US1808795"
+  ":hirameki.patent/status"
+  ":granted"]
+ [":db/add"
+  "hirameki-patent:US1808795"
+  ":hirameki.patent/open-license"
+  ":none"]
+ [":db/add"
+  "hirameki-patent:US1808795"
+  ":hirameki.obs/release-status"
+  ":public-domain"]
+ [":db/add"
+  "hirameki-patent:US1808795"
+  ":hirameki/sourcing"
+  ":authoritative"]
+ [":db/add" "hirameki-patent:US1808795" ":hirameki/derived" true]
+ [":db/add"
+  "hirameki-patent:US1808795"
+  ":hirameki.obs/years-to-expiry"
+  -77]
+ [":db/add"
+  "hirameki-patent:US1808795"
+  ":hirameki/source"
+  "https://patents.google.com/patent/US1808795/en"]
+ [":db/add"
+  "hirameki-patent:US180945"
+  ":hirameki.patent/title"
+  "Improvement in fertilizer-distributer attachments for seed-drills"]
+ [":db/add"
+  "hirameki-patent:US180945"
+  ":hirameki.patent/jurisdiction"
+  ":us"]
+ [":db/add"
+  "hirameki-patent:US180945"
+  ":hirameki.patent/field"
+  "UNKNOWN"]
+ [":db/add"
+  "hirameki-patent:US180945"
+  ":hirameki.patent/assignee"
+  ":unassigned"]
+ [":db/add"
+  "hirameki-patent:US180945"
+  ":hirameki.patent/status"
+  ":granted"]
+ [":db/add"
   "hirameki-patent:US180945"
   ":hirameki.patent/open-license"
   ":none"]
@@ -10392,49 +10437,4 @@
  [":db/add"
   "hirameki-patent:US2208236"
   ":hirameki/source"
-  "https://patents.google.com/patent/US2208236/en"]
- [":db/add"
-  "hirameki-patent:US2212159"
-  ":hirameki.patent/title"
-  "Cylinder polisher"]
- [":db/add"
-  "hirameki-patent:US2212159"
-  ":hirameki.patent/jurisdiction"
-  ":us"]
- [":db/add"
-  "hirameki-patent:US2212159"
-  ":hirameki.patent/field"
-  "UNKNOWN"]
- [":db/add"
-  "hirameki-patent:US2212159"
-  ":hirameki.patent/assignee"
-  ":unassigned"]
- [":db/add"
-  "hirameki-patent:US2212159"
-  ":hirameki.patent/status"
-  ":granted"]
- [":db/add"
-  "hirameki-patent:US2212159"
-  ":hirameki.patent/open-license"
-  ":none"]
- [":db/add"
-  "hirameki-patent:US2212159"
-  ":hirameki.obs/release-status"
-  ":public-domain"]
- [":db/add"
-  "hirameki-patent:US2212159"
-  ":hirameki/sourcing"
-  ":authoritative"]
- [":db/add" "hirameki-patent:US2212159" ":hirameki/derived" true]
- [":db/add"
-  "hirameki-patent:US2212159"
-  ":hirameki.obs/years-to-expiry"
-  -68]
- [":db/add"
-  "hirameki-patent:US2212159"
-  ":hirameki/source"
-  "https://patents.google.com/patent/US2212159/en"]
- [":db/add"
-  "hirameki-patent:US2212770"
-  ":hirameki.patent/title"
-  "Process for forming films from synthetic linear polymers"]]
+  "https://patents.google.com/patent/US2208236/en"]]

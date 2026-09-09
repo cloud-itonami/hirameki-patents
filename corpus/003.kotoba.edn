@@ -1,4 +1,32 @@
-[{:assignees [:dow-corning],
+[{:assignees [:warren-sd],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2819184/en",
+  :title "Production of cast surfaced coated paper",
+  :status :granted,
+  :id "US2819184",
+  :sourcing :authoritative,
+  :filing-year 1953,
+  :assignee :warren-sd,
+  :grant-year 1958,
+  :cites ["GB611317A" "US1719166" "US2331922" "US2524915" "US2656286"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:phillips-petroleum],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2819198/en",
+  :title "Cold-stable pesticide solutions",
+  :status :granted,
+  :id "US2819198",
+  :sourcing :authoritative,
+  :filing-year 1953,
+  :assignee :phillips-petroleum,
+  :grant-year 1958,
+  :cites ["US1817227" "US2416460" "US2543723" "US2543955" "US2658017"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:dow-corning],
   :jurisdiction :us,
   :field "UNKNOWN",
   :source "https://patents.google.com/patent/US2819236/en",
@@ -9785,39 +9813,5 @@
   :assignee :agfa,
   :grant-year 1966,
   :cites ["US2968994" "US3143588"],
-  :term-years 20,
-  :open-license :none}
- {:jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3275534/en",
-  :title
-  "Bioelectric method for the detection of anticholinester-ases",
-  :status :granted,
-  :id "US3275534",
-  :sourcing :authoritative,
-  :filing-year 1963,
-  :assignee :unassigned,
-  :grant-year 1966,
-  :cites ["US2757132" "US2926072" "US3049411"],
-  :term-years 20,
-  :open-license :none}
- {:jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3275834/en",
-  :title
-  "Apparatus for analyzing the size and number of particles in suspension",
-  :status :granted,
-  :id "US3275834",
-  :sourcing :authoritative,
-  :filing-year 1963,
-  :assignee :unassigned,
-  :grant-year 1966,
-  :cites
-  ["FR1227526A"
-   "US2731202"
-   "US2850239"
-   "US2875666"
-   "US3084591"
-   "US3094625"],
   :term-years 20,
   :open-license :none}]

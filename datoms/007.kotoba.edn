@@ -1,4 +1,49 @@
 [[":db/add"
+  "hirameki-patent:US2725107"
+  ":hirameki.patent/field"
+  "UNKNOWN"]
+ [":db/add"
+  "hirameki-patent:US2725107"
+  ":hirameki.patent/assignee"
+  ":exxon-research-and-engineering"]
+ [":db/add"
+  "hirameki-patent:US2725107"
+  ":hirameki.patent/status"
+  ":granted"]
+ [":db/add"
+  "hirameki-patent:US2725107"
+  ":hirameki.patent/open-license"
+  ":none"]
+ [":db/add"
+  "hirameki-patent:US2725107"
+  ":hirameki.obs/release-status"
+  ":public-domain"]
+ [":db/add"
+  "hirameki-patent:US2725107"
+  ":hirameki/sourcing"
+  ":authoritative"]
+ [":db/add" "hirameki-patent:US2725107" ":hirameki/derived" true]
+ [":db/add"
+  "hirameki-patent:US2725107"
+  ":hirameki.obs/years-to-expiry"
+  -52]
+ [":db/add"
+  "hirameki-patent:US2725107"
+  ":hirameki/source"
+  "https://patents.google.com/patent/US2725107/en"]
+ [":db/add"
+  "hirameki-patent:US2725307"
+  ":hirameki.patent/title"
+  "Process of finishing mineral-adhesive coated paper"]
+ [":db/add"
+  "hirameki-patent:US2725307"
+  ":hirameki.patent/jurisdiction"
+  ":us"]
+ [":db/add"
+  "hirameki-patent:US2725307"
+  ":hirameki.patent/field"
+  "UNKNOWN"]
+ [":db/add"
   "hirameki-patent:US2725307"
   ":hirameki.patent/assignee"
   ":gardner-board-and-carton"]
@@ -10215,53 +10260,4 @@
  [":db/add"
   "hirameki-patent:US2919194"
   ":hirameki.patent/title"
-  "Active dry yeast products and processes for producing the same"]
- [":db/add"
-  "hirameki-patent:US2919194"
-  ":hirameki.patent/jurisdiction"
-  ":us"]
- [":db/add"
-  "hirameki-patent:US2919194"
-  ":hirameki.patent/field"
-  "UNKNOWN"]
- [":db/add"
-  "hirameki-patent:US2919194"
-  ":hirameki.patent/assignee"
-  ":standard-brands"]
- [":db/add"
-  "hirameki-patent:US2919194"
-  ":hirameki.patent/status"
-  ":granted"]
- [":db/add"
-  "hirameki-patent:US2919194"
-  ":hirameki.patent/open-license"
-  ":none"]
- [":db/add"
-  "hirameki-patent:US2919194"
-  ":hirameki.obs/release-status"
-  ":public-domain"]
- [":db/add"
-  "hirameki-patent:US2919194"
-  ":hirameki/sourcing"
-  ":authoritative"]
- [":db/add" "hirameki-patent:US2919194" ":hirameki/derived" true]
- [":db/add"
-  "hirameki-patent:US2919194"
-  ":hirameki.obs/years-to-expiry"
-  -49]
- [":db/add"
-  "hirameki-patent:US2919194"
-  ":hirameki/source"
-  "https://patents.google.com/patent/US2919194/en"]
- [":db/add"
-  "hirameki-patent:US2919205"
-  ":hirameki.patent/title"
-  "Process for finishing coated paper"]
- [":db/add"
-  "hirameki-patent:US2919205"
-  ":hirameki.patent/jurisdiction"
-  ":us"]
- [":db/add"
-  "hirameki-patent:US2919205"
-  ":hirameki.patent/field"
-  "UNKNOWN"]]
+  "Active dry yeast products and processes for producing the same"]]

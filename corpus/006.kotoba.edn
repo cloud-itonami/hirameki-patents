@@ -1,4 +1,280 @@
-[{:assignees [:ppg-industries],
+[{:assignees [:union-carbide],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US4137279/en",
+  :title
+  "Copolymers of polycaprolactone derivatives and ethylenically unsaturated monomers",
+  :status :granted,
+  :id "US4137279",
+  :sourcing :authoritative,
+  :filing-year 1977,
+  :assignee :union-carbide,
+  :grant-year 1979,
+  :cites
+  ["US2890197"
+   "US3027357"
+   "US3169945"
+   "US3408421"
+   "US3511792"
+   "US3549586"
+   "US3583955"
+   "US3668178"
+   "US3784586"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:technicon-instruments],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US4138213/en",
+  :title "Agglutination immunoassay of immune complex with RF or Clq",
+  :status :granted,
+  :id "US4138213",
+  :sourcing :authoritative,
+  :filing-year 1977,
+  :assignee :technicon-instruments,
+  :grant-year 1979,
+  :cites ["US3658982" "US3689632"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:enzo-biochem],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US4139346/en",
+  :title "Nucleic acid and protein binding paper",
+  :status :granted,
+  :id "US4139346",
+  :sourcing :authoritative,
+  :filing-year 1977,
+  :assignee :enzo-biochem,
+  :grant-year 1979,
+  :cites ["US4069352"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:celanese-polymer-specialties],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US4139510/en",
+  :title
+  "Process for preparing cathodically depositable coating compositions",
+  :status :granted,
+  :id "US4139510",
+  :sourcing :authoritative,
+  :filing-year 1978,
+  :assignee :celanese-polymer-specialties,
+  :grant-year 1979,
+  :cites ["US2909448" "US3515698" "US3538184" "US3729435" "US3804786"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:becton-dickinson-and],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US4139604/en",
+  :title "Separation technique for assays",
+  :status :granted,
+  :id "US4139604",
+  :sourcing :authoritative,
+  :filing-year 1977,
+  :assignee :becton-dickinson-and,
+  :grant-year 1979,
+  :cites ["US3920580" "US3925020" "US3933997" "US4018564"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:toyo-soda-manufacturing],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US4140653/en",
+  :title "Solid support for liquid chromatography",
+  :status :granted,
+  :id "US4140653",
+  :sourcing :authoritative,
+  :filing-year 1977,
+  :assignee :toyo-soda-manufacturing,
+  :grant-year 1979,
+  :cites
+  ["US3488922"
+   "US3502217"
+   "US3577266"
+   "US3663263"
+   "US3722181"
+   "US3941718"
+   "US3956179"
+   "US4045353"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:technicon-instruments],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US4141687/en",
+  :title
+  "Automatic apparatus and method for the assay of fluid samples",
+  :status :granted,
+  :id "US4141687",
+  :sourcing :authoritative,
+  :filing-year 1977,
+  :assignee :technicon-instruments,
+  :grant-year 1979,
+  :cites ["US3933997"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:eastman-kodak],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US4142891/en",
+  :title
+  "Photographic products and processes employing nondiffusible azo dye-releasing compounds",
+  :status :granted,
+  :id "US4142891",
+  :sourcing :authoritative,
+  :filing-year 1977,
+  :assignee :eastman-kodak,
+  :grant-year 1979,
+  :cites
+  ["FR1124882A"
+   "FR1200358A"
+   "GB899758A"
+   "US2348417"
+   "US2495244"
+   "US2830042"
+   "US2938895"
+   "US3081167"
+   "US3097196"
+   "US3196014"
+   "US3563739"
+   "US3931144"
+   "US3980479"
+   "US4013635"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:technicon-instruments],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US4143124/en",
+  :title "Antigen-antibody analysis with solid phase rf and c1q",
+  :status :granted,
+  :id "US4143124",
+  :sourcing :authoritative,
+  :filing-year 1975,
+  :assignee :technicon-instruments,
+  :grant-year 1979,
+  :cites ["US3639558" "US3639559"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:international-radioimmune-systems],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US4144031/en",
+  :title "Cell test for detecting human chorionic gonadotropin",
+  :status :granted,
+  :id "US4144031",
+  :sourcing :authoritative,
+  :filing-year 1976,
+  :assignee :international-radioimmune-systems,
+  :grant-year 1979,
+  :cites
+  ["US3516794"
+   "US3654090"
+   "US3697638"
+   "US3720760"
+   "US3789116"
+   "US3868219"
+   "US3873683"
+   "US3901654"
+   "US3935074"
+   "US3992514"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:wisconsin-alumni-research-foundation],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US4144131/en",
+  :title "Immobilization of enzymes on human tissue or erythrocytes",
+  :status :granted,
+  :id "US4144131",
+  :sourcing :authoritative,
+  :filing-year 1974,
+  :assignee :wisconsin-alumni-research-foundation,
+  :grant-year 1979,
+  :cites ["US3639558" "US3654083" "US3691016" "US3806417" "US3843447"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:international-diagnostic-technologies],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US4144452/en",
+  :title "Fluorometric system, method and test article",
+  :status :granted,
+  :id "US4144452",
+  :sourcing :authoritative,
+  :filing-year 1977,
+  :assignee :international-diagnostic-technologies,
+  :grant-year 1979,
+  :cites ["US3992631" "US4056724"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:miles-laboratories],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US4145406/en",
+  :title "Specific binding - adsorbent assay method and test means",
+  :status :granted,
+  :id "US4145406",
+  :sourcing :authoritative,
+  :filing-year 1977,
+  :assignee :miles-laboratories,
+  :grant-year 1979,
+  :cites ["US4041146"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:bayer],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US4145512/en",
+  :title "Permanently stabilized polyurethanes",
+  :status :granted,
+  :id "US4145512",
+  :sourcing :authoritative,
+  :filing-year 1977,
+  :assignee :bayer,
+  :grant-year 1979,
+  :cites ["US2702797" "US2871227" "US3829404"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:research],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US4146603/en",
+  :title
+  "Tumor specific glycoproteins and method for detecting tumorigenic cancers",
+  :status :granted,
+  :id "US4146603",
+  :sourcing :authoritative,
+  :filing-year 1977,
+  :assignee :research,
+  :grant-year 1979,
+  :cites ["US4010251"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:mitsubishi-petrochemical],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US4147675/en",
+  :title "Oil-modified alkyd resin compositions",
+  :status :granted,
+  :id "US4147675",
+  :sourcing :authoritative,
+  :filing-year 1977,
+  :assignee :mitsubishi-petrochemical,
+  :grant-year 1979,
+  :cites
+  ["US1950468"
+   "US2381884"
+   "US2628209"
+   "US3380942"
+   "US3390205"
+   "US3894978"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:ppg-industries],
   :jurisdiction :us,
   :field "UNKNOWN",
   :source "https://patents.google.com/patent/US4148772/en",
@@ -1214,6 +1490,46 @@
   :cites ["US3996345" "US3998943" "US4036946"],
   :term-years 20,
   :open-license :none}
+ {:assignees [:ppg-industries],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US4208495/en",
+  :title "Composition useful in making extensible films",
+  :status :granted,
+  :id "US4208495",
+  :sourcing :authoritative,
+  :filing-year 1978,
+  :assignee :ppg-industries,
+  :grant-year 1980,
+  :cites
+  ["US3218280"
+   "US3297745"
+   "US3368988"
+   "US3384606"
+   "US3457324"
+   "US3509234"
+   "US3531364"
+   "US3532652"
+   "US3557043"
+   "US3624020"
+   "US3641199"
+   "US3642943"
+   "US3677920"
+   "US3690946"
+   "US3694415"
+   "US3719638"
+   "US3772404"
+   "US3779995"
+   "US3850770"
+   "US3891523"
+   "US3919351"
+   "US3947528"
+   "US3975457"
+   "US4034017"
+   "US4134935"
+   "US4137389"],
+  :term-years 20,
+  :open-license :none}
  {:assignees [:bonnierforetagen],
   :jurisdiction :us,
   :field "UNKNOWN",
@@ -2078,6 +2394,19 @@
   :cites ["US3945995" "US3951955" "US4008220"],
   :term-years 20,
   :open-license :none}
+ {:jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US4241112/en",
+  :title "Method for applying polymer coating composition",
+  :status :granted,
+  :id "US4241112",
+  :sourcing :authoritative,
+  :filing-year 1978,
+  :assignee :unassigned,
+  :grant-year 1980,
+  :cites ["US3168484" "US3790550" "US3925338" "US4035560" "US4076922"],
+  :term-years 20,
+  :open-license :none}
  {:assignees [:merck-and],
   :jurisdiction :us,
   :field "UNKNOWN",
@@ -2861,6 +3190,20 @@
   :grant-year 1981,
   :term-years 20,
   :open-license :none}
+ {:jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US4279962/en",
+  :title
+  "Protective coating for cathodically protected metal surfaces",
+  :status :granted,
+  :id "US4279962",
+  :sourcing :authoritative,
+  :filing-year 1979,
+  :assignee :unassigned,
+  :grant-year 1981,
+  :cites ["US3360391" "US3499783" "US3598659" "US3756845"],
+  :term-years 20,
+  :open-license :none}
  {:assignees [:dow-chemical],
   :jurisdiction :us,
   :field "UNKNOWN",
@@ -2952,6 +3295,35 @@
   :assignee :e-y-laboratories,
   :grant-year 1981,
   :cites ["US3555143" "US4053284" "US4098876"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:bayer],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US4289813/en",
+  :title "Process for coating solvent-free lacquers",
+  :status :granted,
+  :id "US4289813",
+  :sourcing :authoritative,
+  :filing-year 1980,
+  :assignee :bayer,
+  :grant-year 1981,
+  :cites
+  ["DE1571136A1"
+   "GB1042703A"
+   "GB1043673A"
+   "GB1305921A"
+   "GB1305922A"
+   "GB966338A"
+   "US2981712"
+   "US3028367"
+   "US3098755"
+   "US3183112"
+   "US3248370"
+   "US3437500"
+   "US3546148"
+   "US3647848"
+   "US4044171"],
   :term-years 20,
   :open-license :none}
  {:assignees [:dow-chemical],
@@ -4043,6 +4415,35 @@
   :cites ["US3231554" "US3429845" "US4151340" "US4230843"],
   :term-years 20,
   :open-license :none}
+ {:assignees [:ppg-industries],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US4346143/en",
+  :title "Method of applying zinc-rich primer and product",
+  :status :granted,
+  :id "US4346143",
+  :sourcing :authoritative,
+  :filing-year 1977,
+  :assignee :ppg-industries,
+  :grant-year 1982,
+  :cites
+  ["GB1007902A"
+   "GB191105811A"
+   "US2304069"
+   "US2704883"
+   "US2768103"
+   "US2915420"
+   "US2916458"
+   "US3228810"
+   "US3377193"
+   "US3468768"
+   "US3671331"
+   "US3698932"
+   "US3717509"
+   "US3849141"
+   "US3944712"],
+  :term-years 20,
+  :open-license :none}
  {:jurisdiction :us,
   :field "UNKNOWN",
   :source "https://patents.google.com/patent/US4348376/en",
@@ -4864,6 +5265,32 @@
   :assignee :medical-college-of-georgia-research-institute,
   :grant-year 1983,
   :cites ["US4298685"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:minnesota-mining-and-manufacturing],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US4396650/en",
+  :title
+  "Primed inorganic substrates overcoated with curable protective compositions",
+  :status :granted,
+  :id "US4396650",
+  :sourcing :authoritative,
+  :filing-year 1982,
+  :assignee :minnesota-mining-and-manufacturing,
+  :grant-year 1983,
+  :cites
+  ["US2721855"
+   "US3321350"
+   "US3687882"
+   "US3779991"
+   "US3794556"
+   "US3817905"
+   "US4042749"
+   "US4073967"
+   "US4084021"
+   "US4113895"
+   "US4118536"],
   :term-years 20,
   :open-license :none}
  {:assignees [:university-of-california-berkeley],
@@ -9503,469 +9930,5 @@
   :assignee :hoechst-celanese,
   :grant-year 1989,
   :cites ["US4689371" "US4775730"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:new-york-medical-college],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US4863849/en",
-  :title "Automatable process for sequencing nucleotide",
-  :status :granted,
-  :id "US4863849",
-  :sourcing :authoritative,
-  :filing-year 1985,
-  :assignee :new-york-medical-college,
-  :grant-year 1989,
-  :cites ["US4072574"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:fuji-photo-film],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US4865967/en",
-  :title "Autoradiographic gene-screening method",
-  :status :granted,
-  :id "US4865967",
-  :sourcing :authoritative,
-  :filing-year 1987,
-  :assignee :fuji-photo-film,
-  :grant-year 1989,
-  :cites
-  ["EP0056638A1" "US4239968" "US4297587" "US4302671" "US4389670"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:salk-institute-for-biological-studies],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US4865968/en",
-  :title "DNA sequencing",
-  :status :granted,
-  :id "US4865968",
-  :sourcing :authoritative,
-  :filing-year 1985,
-  :assignee :salk-institute-for-biological-studies,
-  :grant-year 1989,
-  :cites ["EP0115777A2"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:syntex-usa],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US4868104/en",
-  :title "Homogeneous assay for specific polynucleotides",
-  :status :granted,
-  :id "US4868104",
-  :sourcing :authoritative,
-  :filing-year 1985,
-  :assignee :syntex-usa,
-  :grant-year 1989,
-  :cites
-  ["EP0070685A2"
-   "EP0079139A1"
-   "EP0130515A2"
-   "EP0139489A2"
-   "EP0153873A2"
-   "EP0154505A2"
-   "US4193983"
-   "US4313734"
-   "US4522922"
-   "US4563417"
-   "US4563419"
-   "US4623627"
-   "US4749647"
-   "US4751177"
-   "WO1985002628A1"
-   "WO1986003227A1"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:sherwin-williams],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US4871806/en",
-  :title
-  "Reactive coatings comprising an acid-functional compound, an anhydride-functional compound, an epoxy-functional compound and a hydroxy-functional compound",
-  :status :granted,
-  :id "US4871806",
-  :sourcing :authoritative,
-  :filing-year 1987,
-  :assignee :sherwin-williams,
-  :grant-year 1989,
-  :cites
-  ["EP0123793A1"
-   "EP0134691A2"
-   "GB1583316A"
-   "GB994907A"
-   "US2712535"
-   "US2884408"
-   "US2890194"
-   "US2890210"
-   "US3027279"
-   "US3215756"
-   "US3218274"
-   "US3242142"
-   "US3247144"
-   "US3247283"
-   "US3280077"
-   "US3427255"
-   "US3523143"
-   "US3557035"
-   "US3624180"
-   "US3639345"
-   "US3897514"
-   "US3925507"
-   "US3932367"
-   "US3953644"
-   "US3954712"
-   "US3975314"
-   "US3978026"
-   "US3979477"
-   "US4046727"
-   "US4069275"
-   "US4076674"
-   "US4086293"
-   "US4086294"
-   "US4156700"
-   "US4176143"
-   "US4226755"
-   "US4261871"
-   "US4294939"
-   "US4322325"
-   "US4327200"
-   "US4346144"
-   "US4391965"
-   "US4403091"
-   "US4403093"
-   "US4415697"
-   "US4418182"
-   "US4452948"
-   "US4465815"
-   "US4471025"
-   "US4507411"
-   "US4511682"
-   "US4535148"
-   "US4548963"
-   "US4620994"
-   "US4650718"
-   "US4681811"
-   "US4703101"
-   "US4732790"
-   "US4732791"
-   "US4798745"
-   "US4798746"
-   "WO1984000770A1"
-   "WO1984000771A1"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:shin-etsu-chemical],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US4876298/en",
-  :title "Epoxy resin composition",
-  :status :granted,
-  :id "US4876298",
-  :sourcing :authoritative,
-  :filing-year 1988,
-  :assignee :shin-etsu-chemical,
-  :grant-year 1989,
-  :cites ["US4376174" "US4720515"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:applied-biosystems],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US4883750/en",
-  :title "Detection of specific sequences in nucleic acids",
-  :status :granted,
-  :id "US4883750",
-  :sourcing :authoritative,
-  :filing-year 1984,
-  :assignee :applied-biosystems,
-  :grant-year 1989,
-  :cites
-  ["EP0070685A2"
-   "EP0154505A2"
-   "US4358535"
-   "US4395486"
-   "US4486539"
-   "US4563419"
-   "US4710465"
-   "WO1985004902A1"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:microprobe],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US4886741/en",
-  :title
-  "Use of volume exclusion agents for the enhancement of in situ hybridization",
-  :status :granted,
-  :id "US4886741",
-  :sourcing :authoritative,
-  :filing-year 1987,
-  :assignee :microprobe,
-  :grant-year 1989,
-  :cites ["EP0098373A2" "WO1986005816A1"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:umass-memorial-medical-center],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US4888278/en",
-  :title
-  "In-situ hybridization to detect nucleic acid sequences in morphologically intact cells",
-  :status :granted,
-  :id "US4888278",
-  :sourcing :authoritative,
-  :filing-year 1988,
-  :assignee :umass-memorial-medical-center,
-  :grant-year 1989,
-  :cites ["US4419446" "US4652517"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:cetus],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US4889818/en",
-  :title "Purified thermostable enzyme",
-  :status :granted,
-  :id "US4889818",
-  :sourcing :authoritative,
-  :filing-year 1987,
-  :assignee :cetus,
-  :grant-year 1989,
-  :cites ["US4683194" "US4683195" "US4683202"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:varian-associates],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US4895809/en",
-  :title "Immobilized antigen-antibody displacement process",
-  :status :granted,
-  :id "US4895809",
-  :sourcing :authoritative,
-  :filing-year 1984,
-  :assignee :varian-associates,
-  :grant-year 1990,
-  :cites
-  ["US4036946"
-   "US4108603"
-   "US4251360"
-   "US4264327"
-   "US4277560"
-   "US4456689"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:hoechst-celanese],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US4898916/en",
-  :title
-  "Process for the preparation of poly(vinylphenol) from poly(acetoxystyrene) by acid catalyzed transesterification",
-  :status :granted,
-  :id "US4898916",
-  :sourcing :authoritative,
-  :filing-year 1988,
-  :assignee :hoechst-celanese,
-  :grant-year 1990,
-  :cites ["US3970534" "US4129617" "US4678843" "US4689371"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:bresatac],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US4898951/en",
-  :title
-  "Compounds used as intermediates in the preparations of non-radioactive biological probes",
-  :status :granted,
-  :id "US4898951",
-  :sourcing :authoritative,
-  :filing-year 1988,
-  :assignee :bresatac,
-  :grant-year 1990,
-  :cites
-  ["EP0119448A1"
-   "EP0127438B1"
-   "US4282287"
-   "US4487838"
-   "WO1983002277A1"
-   "WO1984003285A1"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:ei-du-pont-de-nemours-and],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US4906677/en",
-  :title
-  "Multi-component coating composition comprising an anhydride containing polymer, a glycidyl component and a phosphonium catalyst",
-  :status :granted,
-  :id "US4906677",
-  :sourcing :authoritative,
-  :filing-year 1988,
-  :assignee :ei-du-pont-de-nemours-and,
-  :grant-year 1990,
-  :cites
-  ["EP0123793A1"
-   "GB994881A"
-   "US3136736"
-   "US3591533"
-   "US4452948"
-   "US4507411"
-   "US4732791"
-   "US4816500"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:harvard-university],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US4921794/en",
-  :title "T7 DNA polymerase",
-  :status :granted,
-  :id "US4921794",
-  :sourcing :authoritative,
-  :filing-year 1988,
-  :assignee :harvard-university,
-  :grant-year 1990,
-  :cites
-  ["EP0258017A2"
-   "US4224408"
-   "US4331589"
-   "US4394443"
-   "US4395486"
-   "US4555486"
-   "US4663290"
-   "US4683195"
-   "US4683202"
-   "US4767708"
-   "US4786600"
-   "US4795699"
-   "US4800159"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:millipore],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US4923901/en",
-  :title "Membranes with bound oligonucleotides and peptides",
-  :status :granted,
-  :id "US4923901",
-  :sourcing :authoritative,
-  :filing-year 1987,
-  :assignee :millipore,
-  :grant-year 1990,
-  :cites
-  ["US4415732"
-   "US4458066"
-   "US4500707"
-   "US4591614"
-   "US4667025"
-   "US4668777"
-   "US4689405"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:harvard-university],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US4942130/en",
-  :title "T7 DNA polymerase",
-  :status :granted,
-  :id "US4942130",
-  :sourcing :authoritative,
-  :filing-year 1987,
-  :assignee :harvard-university,
-  :grant-year 1990,
-  :cites
-  ["EP0258017A2"
-   "US3444041"
-   "US3444042"
-   "US3661893"
-   "US4072574"
-   "US4224408"
-   "US4331589"
-   "US4363877"
-   "US4394443"
-   "US4395486"
-   "US4483920"
-   "US4483922"
-   "US4486539"
-   "US4521509"
-   "US4555486"
-   "US4556643"
-   "US4563419"
-   "US4591565"
-   "US4656127"
-   "US4663283"
-   "US4663290"
-   "US4670379"
-   "US4675283"
-   "US4683195"
-   "US4683202"
-   "US4707235"
-   "US4729947"
-   "US4767708"
-   "US4786600"
-   "US4795699"
-   "US4795700"
-   "US4800159"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:harvard-university],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US4946786/en",
-  :title "T7 DNA polymerase",
-  :status :granted,
-  :id "US4946786",
-  :sourcing :authoritative,
-  :filing-year 1990,
-  :assignee :harvard-university,
-  :grant-year 1990,
-  :cites
-  ["EP0258017A2"
-   "US3444041"
-   "US3444042"
-   "US3661893"
-   "US4072574"
-   "US4224408"
-   "US4331589"
-   "US4363877"
-   "US4394443"
-   "US4395486"
-   "US4483920"
-   "US4483922"
-   "US4486539"
-   "US4521509"
-   "US4555486"
-   "US4556643"
-   "US4563419"
-   "US4591565"
-   "US4656127"
-   "US4663283"
-   "US4663290"
-   "US4670379"
-   "US4675283"
-   "US4683195"
-   "US4683202"
-   "US4707235"
-   "US4729947"
-   "US4767708"
-   "US4786600"
-   "US4795699"
-   "US4795700"
-   "US4800159"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:leybold],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US4956196/en",
-  :title
-  "Method for producing a corrosion-resistant coating on the surface of lacquered workpieces",
-  :status :granted,
-  :id "US4956196",
-  :sourcing :authoritative,
-  :filing-year 1989,
-  :assignee :leybold,
-  :grant-year 1990,
   :term-years 20,
   :open-license :none}]

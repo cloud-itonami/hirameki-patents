@@ -1,4 +1,49 @@
 [[":db/add"
+  "hirameki-patent:US3330904"
+  ":hirameki.patent/open-license"
+  ":none"]
+ [":db/add"
+  "hirameki-patent:US3330904"
+  ":hirameki.obs/release-status"
+  ":public-domain"]
+ [":db/add"
+  "hirameki-patent:US3330904"
+  ":hirameki/sourcing"
+  ":authoritative"]
+ [":db/add" "hirameki-patent:US3330904" ":hirameki/derived" true]
+ [":db/add"
+  "hirameki-patent:US3330904"
+  ":hirameki.obs/years-to-expiry"
+  -41]
+ [":db/add"
+  "hirameki-patent:US3330904"
+  ":hirameki/source"
+  "https://patents.google.com/patent/US3330904/en"]
+ [":db/add"
+  "hirameki-patent:US3332935"
+  ":hirameki.patent/title"
+  "Preparation of guanosine and intermediates therein"]
+ [":db/add"
+  "hirameki-patent:US3332935"
+  ":hirameki.patent/jurisdiction"
+  ":us"]
+ [":db/add"
+  "hirameki-patent:US3332935"
+  ":hirameki.patent/field"
+  "UNKNOWN"]
+ [":db/add"
+  "hirameki-patent:US3332935"
+  ":hirameki.patent/assignee"
+  ":ajinomoto"]
+ [":db/add"
+  "hirameki-patent:US3332935"
+  ":hirameki.patent/status"
+  ":granted"]
+ [":db/add"
+  "hirameki-patent:US3332935"
+  ":hirameki.patent/open-license"
+  ":none"]
+ [":db/add"
   "hirameki-patent:US3332935"
   ":hirameki.obs/release-status"
   ":public-domain"]
@@ -10166,49 +10211,4 @@
   "hirameki-patent:US3558595"
   ":hirameki/sourcing"
   ":authoritative"]
- [":db/add" "hirameki-patent:US3558595" ":hirameki/derived" true]
- [":db/add"
-  "hirameki-patent:US3558595"
-  ":hirameki.obs/years-to-expiry"
-  -37]
- [":db/add"
-  "hirameki-patent:US3558595"
-  ":hirameki/source"
-  "https://patents.google.com/patent/US3558595/en"]
- [":db/add"
-  "hirameki-patent:US3559736"
-  ":hirameki.patent/title"
-  "Well completion method"]
- [":db/add"
-  "hirameki-patent:US3559736"
-  ":hirameki.patent/jurisdiction"
-  ":us"]
- [":db/add"
-  "hirameki-patent:US3559736"
-  ":hirameki.patent/field"
-  "UNKNOWN"]
- [":db/add"
-  "hirameki-patent:US3559736"
-  ":hirameki.patent/assignee"
-  ":exxon-production-research"]
- [":db/add"
-  "hirameki-patent:US3559736"
-  ":hirameki.patent/status"
-  ":granted"]
- [":db/add"
-  "hirameki-patent:US3559736"
-  ":hirameki.patent/open-license"
-  ":none"]
- [":db/add"
-  "hirameki-patent:US3559736"
-  ":hirameki.obs/release-status"
-  ":public-domain"]
- [":db/add"
-  "hirameki-patent:US3559736"
-  ":hirameki/sourcing"
-  ":authoritative"]
- [":db/add" "hirameki-patent:US3559736" ":hirameki/derived" true]
- [":db/add"
-  "hirameki-patent:US3559736"
-  ":hirameki.obs/years-to-expiry"
-  -37]]
+ [":db/add" "hirameki-patent:US3558595" ":hirameki/derived" true]]
