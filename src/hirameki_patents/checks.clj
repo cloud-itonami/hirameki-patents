@@ -54,7 +54,15 @@
                 (add! (str file ": " actual-bytes " bytes exceeds the raw-block limit"))
                 (not= cid actual-cid)
                 (add! (str file ": CID mismatch " cid " vs " actual-cid)))))))
-      (let [read-back (reduce + 0 (map #(count (edn/read-string (slurp (io/file dir (:file %))))) parts))]
+      ;; Only the shards that are actually there. A missing shard is already
+      ;; reported above; reading every part unconditionally made this function
+      ;; THROW on the way to returning that report, so the one failure most
+      ;; likely in a published corpus — a shard that never got uploaded — came
+      ;; out as a stack trace instead of the line naming the file. A crash is
+      ;; not a refusal: the caller cannot tell it from the checker itself being
+      ;; broken. The shortfall is still reported, by the row count below.
+      (let [present (filter #(.exists (io/file dir (:file %))) parts)
+            read-back (reduce + 0 (map #(count (edn/read-string (slurp (io/file dir (:file %))))) present))]
         (when-not (= rows read-back)
           (add! (str (name kind) ": manifest claims " rows " items but the shards hold " read-back)))))
     @problems))
