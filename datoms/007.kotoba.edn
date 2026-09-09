@@ -1,4 +1,78 @@
 [[":db/add"
+  "hirameki-patent:US2743233"
+  ":hirameki.patent/assignee"
+  ":phillips-petroleum"]
+ [":db/add"
+  "hirameki-patent:US2743233"
+  ":hirameki.patent/status"
+  ":granted"]
+ [":db/add"
+  "hirameki-patent:US2743233"
+  ":hirameki.patent/open-license"
+  ":none"]
+ [":db/add"
+  "hirameki-patent:US2743233"
+  ":hirameki.obs/release-status"
+  ":public-domain"]
+ [":db/add"
+  "hirameki-patent:US2743233"
+  ":hirameki/sourcing"
+  ":authoritative"]
+ [":db/add" "hirameki-patent:US2743233" ":hirameki/derived" true]
+ [":db/add"
+  "hirameki-patent:US2743233"
+  ":hirameki.obs/years-to-expiry"
+  -54]
+ [":db/add"
+  "hirameki-patent:US2743233"
+  ":hirameki/source"
+  "https://patents.google.com/patent/US2743233/en"]
+ [":db/add"
+  "hirameki-patent:US2744079"
+  ":hirameki.patent/title"
+  "Adhesive composition containing polysiloxane rubber, polysiloxane oil and reinforcing pigment"]
+ [":db/add"
+  "hirameki-patent:US2744079"
+  ":hirameki.patent/jurisdiction"
+  ":us"]
+ [":db/add"
+  "hirameki-patent:US2744079"
+  ":hirameki.patent/field"
+  "UNKNOWN"]
+ [":db/add"
+  "hirameki-patent:US2744079"
+  ":hirameki.patent/assignee"
+  ":connecticut-hard-rubber"]
+ [":db/add"
+  "hirameki-patent:US2744079"
+  ":hirameki.patent/status"
+  ":granted"]
+ [":db/add"
+  "hirameki-patent:US2744079"
+  ":hirameki.patent/open-license"
+  ":none"]
+ [":db/add"
+  "hirameki-patent:US2744079"
+  ":hirameki.obs/release-status"
+  ":public-domain"]
+ [":db/add"
+  "hirameki-patent:US2744079"
+  ":hirameki/sourcing"
+  ":authoritative"]
+ [":db/add" "hirameki-patent:US2744079" ":hirameki/derived" true]
+ [":db/add"
+  "hirameki-patent:US2744079"
+  ":hirameki.obs/years-to-expiry"
+  -54]
+ [":db/add"
+  "hirameki-patent:US2744079"
+  ":hirameki/source"
+  "https://patents.google.com/patent/US2744079/en"]
+ [":db/add"
+  "hirameki-patent:US2744116"
+  ":hirameki.patent/title"
+  "Bis-(aminotriazolyl-)-hydrocarbons"]
+ [":db/add"
   "hirameki-patent:US2744116"
   ":hirameki.patent/jurisdiction"
   ":us"]
@@ -10190,82 +10264,4 @@
  [":db/add"
   "hirameki-patent:US2937066"
   ":hirameki.obs/years-to-expiry"
-  -51]
- [":db/add"
-  "hirameki-patent:US2937066"
-  ":hirameki/source"
-  "https://patents.google.com/patent/US2937066/en"]
- [":db/add"
-  "hirameki-patent:US2937353"
-  ":hirameki.patent/title"
-  "Photoconductive devices"]
- [":db/add"
-  "hirameki-patent:US2937353"
-  ":hirameki.patent/jurisdiction"
-  ":us"]
- [":db/add"
-  "hirameki-patent:US2937353"
-  ":hirameki.patent/field"
-  "UNKNOWN"]
- [":db/add"
-  "hirameki-patent:US2937353"
-  ":hirameki.patent/assignee"
-  ":sylvania-electric-products"]
- [":db/add"
-  "hirameki-patent:US2937353"
-  ":hirameki.patent/status"
-  ":granted"]
- [":db/add"
-  "hirameki-patent:US2937353"
-  ":hirameki.patent/open-license"
-  ":none"]
- [":db/add"
-  "hirameki-patent:US2937353"
-  ":hirameki.obs/release-status"
-  ":public-domain"]
- [":db/add"
-  "hirameki-patent:US2937353"
-  ":hirameki/sourcing"
-  ":authoritative"]
- [":db/add" "hirameki-patent:US2937353" ":hirameki/derived" true]
- [":db/add"
-  "hirameki-patent:US2937353"
-  ":hirameki.obs/years-to-expiry"
-  -47]
- [":db/add"
-  "hirameki-patent:US2937353"
-  ":hirameki/source"
-  "https://patents.google.com/patent/US2937353/en"]
- [":db/add"
-  "hirameki-patent:US2938064"
-  ":hirameki.patent/title"
-  "Air-depolarized cell"]
- [":db/add"
-  "hirameki-patent:US2938064"
-  ":hirameki.patent/jurisdiction"
-  ":us"]
- [":db/add"
-  "hirameki-patent:US2938064"
-  ":hirameki.patent/field"
-  "UNKNOWN"]
- [":db/add"
-  "hirameki-patent:US2938064"
-  ":hirameki.patent/assignee"
-  ":union-carbide"]
- [":db/add"
-  "hirameki-patent:US2938064"
-  ":hirameki.patent/status"
-  ":granted"]
- [":db/add"
-  "hirameki-patent:US2938064"
-  ":hirameki.patent/open-license"
-  ":none"]
- [":db/add"
-  "hirameki-patent:US2938064"
-  ":hirameki.obs/release-status"
-  ":public-domain"]
- [":db/add"
-  "hirameki-patent:US2938064"
-  ":hirameki/sourcing"
-  ":authoritative"]
- [":db/add" "hirameki-patent:US2938064" ":hirameki/derived" true]]
+  -51]]

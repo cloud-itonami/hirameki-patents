@@ -1,4 +1,100 @@
-[{:assignees [:kaiser-aerospace-and-electronics],
+[{:assignees [:avco],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3796660/en",
+  :title "Separation of liquid-liquid multiphase mixtures",
+  :status :granted,
+  :id "US3796660",
+  :sourcing :authoritative,
+  :filing-year 1971,
+  :assignee :avco,
+  :grant-year 1974,
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:pasadena-foundation-for-medica],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3798131/en",
+  :title
+  "Assay for polymeric dna as a method for detecting malignancy",
+  :status :granted,
+  :id "US3798131",
+  :sourcing :authoritative,
+  :filing-year 1972,
+  :assignee :pasadena-foundation-for-medica,
+  :grant-year 1974,
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:us-atomic-energy-commission-aec],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3798459/en",
+  :title
+  "Compact dynamic multistation photometer utilizing disposable cuvette rotor",
+  :status :granted,
+  :id "US3798459",
+  :sourcing :authoritative,
+  :filing-year 1972,
+  :assignee :us-atomic-energy-commission-aec,
+  :grant-year 1974,
+  :cites ["US3215849" "US3555284" "US3576441"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:mallinckrodt-chemical-works],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3799740/en",
+  :title "Clinical competitive-binding test methods",
+  :status :granted,
+  :id "US3799740",
+  :sourcing :authoritative,
+  :filing-year 1971,
+  :assignee :mallinckrodt-chemical-works,
+  :grant-year 1974,
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:wtc-chemical],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3799741/en",
+  :title "Pharmaceutical screening test composition",
+  :status :granted,
+  :id "US3799741",
+  :sourcing :authoritative,
+  :filing-year 1972,
+  :assignee :wtc-chemical,
+  :grant-year 1974,
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:us-atomic-energy-commission-aec],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3804533/en",
+  :title
+  "Rotor for fluorometric measurements in fast analyzer of rotary",
+  :status :granted,
+  :id "US3804533",
+  :sourcing :authoritative,
+  :filing-year 1972,
+  :assignee :us-atomic-energy-commission-aec,
+  :grant-year 1974,
+  :cites ["US3547547" "US3555284" "US3576441" "US3669551"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:merck-patent],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3804826/en",
+  :title "Thiopyrimidine derivatives",
+  :status :granted,
+  :id "US3804826",
+  :sourcing :authoritative,
+  :filing-year 1971,
+  :assignee :merck-patent,
+  :grant-year 1974,
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:kaiser-aerospace-and-electronics],
   :jurisdiction :us,
   :field "UNKNOWN",
   :source "https://patents.google.com/patent/US3804976/en",
@@ -4299,6 +4395,27 @@
   :cites ["US3753861" "US3761357"],
   :term-years 20,
   :open-license :none}
+ {:assignees [:maruzen-oil],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3970534/en",
+  :title "Graft copolymer and process for preparation thereof",
+  :status :granted,
+  :id "US3970534",
+  :sourcing :authoritative,
+  :filing-year 1975,
+  :assignee :maruzen-oil,
+  :grant-year 1976,
+  :cites
+  ["US3073667"
+   "US3162696"
+   "US3304272"
+   "US3634218"
+   "US3639516"
+   "US3700609"
+   "US3847840"],
+  :term-years 20,
+  :open-license :none}
  {:jurisdiction :us,
   :field "UNKNOWN",
   :source "https://patents.google.com/patent/US3970597/en",
@@ -6675,6 +6792,20 @@
    "US3865548"],
   :term-years 20,
   :open-license :none}
+ {:assignees [:scm],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US4066523/en",
+  :title "Dual cure cathodic electrocoating composition",
+  :status :granted,
+  :id "US4066523",
+  :sourcing :authoritative,
+  :filing-year 1977,
+  :assignee :scm,
+  :grant-year 1978,
+  :cites ["US3959106" "US3975251" "US4037018" "US4039414"],
+  :term-years 20,
+  :open-license :none}
  {:assignees [:toyo-soda-manufacturing],
   :jurisdiction :us,
   :field "UNKNOWN",
@@ -6737,6 +6868,30 @@
    "US3980764"
    "US3995019"
    "US4012494"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:ford-motor],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US4069364/en",
+  :title
+  "Radiation polymerized coated article and method of making same",
+  :status :granted,
+  :id "US4069364",
+  :sourcing :authoritative,
+  :filing-year 1975,
+  :assignee :ford-motor,
+  :grant-year 1978,
+  :cites
+  ["US2046886"
+   "US3869341"
+   "US3895171"
+   "US3897295"
+   "US3935330"
+   "US3953643"
+   "US3956535"
+   "US3987127"
+   "US4000349"],
   :term-years 20,
   :open-license :none}
  {:jurisdiction :us,
@@ -7838,6 +7993,21 @@
    "US3582754"
    "US3596165"
    "US4017784"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:japan-atomic-energy-research-institute :maruzen-oil],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US4129617/en",
+  :title
+  "Fluoro carbon graft copolymer and process for the production thereof",
+  :status :granted,
+  :id "US4129617",
+  :sourcing :authoritative,
+  :filing-year 1977,
+  :assignee :japan-atomic-energy-research-institute,
+  :grant-year 1978,
+  :cites ["US3700609"],
   :term-years 20,
   :open-license :none}
  {:assignees [:syva],
@@ -9262,174 +9432,5 @@
    "US4016863"
    "US4033330"
    "US4041932"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:mochida-pharmaceutical],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US4200436/en",
-  :title "Immunochemical measuring process",
-  :status :granted,
-  :id "US4200436",
-  :sourcing :authoritative,
-  :filing-year 1977,
-  :assignee :mochida-pharmaceutical,
-  :grant-year 1980,
-  :cites ["US3654090" "US3992516" "US4002532" "US4067959"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:becton-dickinson-and],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US4200625/en",
-  :title "Immobilized binder for automated assay",
-  :status :granted,
-  :id "US4200625",
-  :sourcing :authoritative,
-  :filing-year 1978,
-  :assignee :becton-dickinson-and,
-  :grant-year 1980,
-  :cites ["US3896217" "US4039652" "US4125375" "US4128628"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:millipore],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US4200690/en",
-  :title "Immunoassay with membrane immobilized antibody",
-  :status :granted,
-  :id "US4200690",
-  :sourcing :authoritative,
-  :filing-year 1978,
-  :assignee :millipore,
-  :grant-year 1980,
-  :cites ["US3839153" "US3951748" "US4066512"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:ohio-state-university],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US4201770/en",
-  :title "Antigenic modification of polypeptides",
-  :status :granted,
-  :id "US4201770",
-  :sourcing :authoritative,
-  :filing-year 1978,
-  :assignee :ohio-state-university,
-  :grant-year 1980,
-  :term-years 20,
-  :open-license :none}
- {:assignees [:monsanto],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US4201845/en",
-  :title "Cell culture reactor",
-  :status :granted,
-  :id "US4201845",
-  :sourcing :authoritative,
-  :filing-year 1978,
-  :assignee :monsanto,
-  :grant-year 1980,
-  :cites
-  ["US3342729"
-   "US3746175"
-   "US3821087"
-   "US3843454"
-   "US3883393"
-   "US3997396"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:wisconsin-alumni-research-foundation],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US4201881/en",
-  :title "24,24-Difluoro-1α,25-dihydroxycholecalciferol",
-  :status :granted,
-  :id "US4201881",
-  :sourcing :authoritative,
-  :filing-year 1979,
-  :assignee :wisconsin-alumni-research-foundation,
-  :grant-year 1980,
-  :cites ["DE2259661A1"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:leybold-heraeus],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US4204117/en",
-  :title "Sample analyzer",
-  :status :granted,
-  :id "US4204117",
-  :sourcing :authoritative,
-  :filing-year 1978,
-  :assignee :leybold-heraeus,
-  :grant-year 1980,
-  :cites ["US3782823" "US3972616" "US4018530"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:toyo-soda-manufacturing],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US4205134/en",
-  :title "Carrier for liquid chromatography",
-  :status :granted,
-  :id "US4205134",
-  :sourcing :authoritative,
-  :filing-year 1978,
-  :assignee :toyo-soda-manufacturing,
-  :grant-year 1980,
-  :cites ["US3645996" "US3970603" "US4038469" "US4128706"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:technion-research-and-development-foundation],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US4205952/en",
-  :title "Specific binding assay method and reagent means",
-  :status :granted,
-  :id "US4205952",
-  :sourcing :authoritative,
-  :filing-year 1977,
-  :assignee :technion-research-and-development-foundation,
-  :grant-year 1980,
-  :cites ["US3899298" "US3966556" "US4022876" "US4036823"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:gte-laboratories],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US4208242/en",
-  :title
-  "Method for color television picture tube aperture mask production employing PVA and removing the PVA by partial carmelizing and washing",
-  :status :granted,
-  :id "US4208242",
-  :sourcing :authoritative,
-  :filing-year 1978,
-  :assignee :gte-laboratories,
-  :grant-year 1980,
-  :cites
-  ["US3081203"
-   "US3175907"
-   "US3415648"
-   "US3672893"
-   "US3767490"
-   "US3770434"
-   "US3796603"
-   "US3980587"
-   "US4018627"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:honda-motor :shinto-paint],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US4208262/en",
-  :title "Electrodeposition coating",
-  :status :granted,
-  :id "US4208262",
-  :sourcing :authoritative,
-  :filing-year 1979,
-  :assignee :honda-motor,
-  :grant-year 1980,
-  :cites ["US3681224" "US4136070"],
   :term-years 20,
   :open-license :none}]

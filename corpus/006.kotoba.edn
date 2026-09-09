@@ -1,4 +1,195 @@
-[{:assignees [:radiochemical-centre],
+[{:assignees [:mochida-pharmaceutical],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US4200436/en",
+  :title "Immunochemical measuring process",
+  :status :granted,
+  :id "US4200436",
+  :sourcing :authoritative,
+  :filing-year 1977,
+  :assignee :mochida-pharmaceutical,
+  :grant-year 1980,
+  :cites ["US3654090" "US3992516" "US4002532" "US4067959"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:becton-dickinson-and],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US4200625/en",
+  :title "Immobilized binder for automated assay",
+  :status :granted,
+  :id "US4200625",
+  :sourcing :authoritative,
+  :filing-year 1978,
+  :assignee :becton-dickinson-and,
+  :grant-year 1980,
+  :cites ["US3896217" "US4039652" "US4125375" "US4128628"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:millipore],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US4200690/en",
+  :title "Immunoassay with membrane immobilized antibody",
+  :status :granted,
+  :id "US4200690",
+  :sourcing :authoritative,
+  :filing-year 1978,
+  :assignee :millipore,
+  :grant-year 1980,
+  :cites ["US3839153" "US3951748" "US4066512"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:ohio-state-university],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US4201770/en",
+  :title "Antigenic modification of polypeptides",
+  :status :granted,
+  :id "US4201770",
+  :sourcing :authoritative,
+  :filing-year 1978,
+  :assignee :ohio-state-university,
+  :grant-year 1980,
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:monsanto],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US4201845/en",
+  :title "Cell culture reactor",
+  :status :granted,
+  :id "US4201845",
+  :sourcing :authoritative,
+  :filing-year 1978,
+  :assignee :monsanto,
+  :grant-year 1980,
+  :cites
+  ["US3342729"
+   "US3746175"
+   "US3821087"
+   "US3843454"
+   "US3883393"
+   "US3997396"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:wisconsin-alumni-research-foundation],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US4201881/en",
+  :title "24,24-Difluoro-1α,25-dihydroxycholecalciferol",
+  :status :granted,
+  :id "US4201881",
+  :sourcing :authoritative,
+  :filing-year 1979,
+  :assignee :wisconsin-alumni-research-foundation,
+  :grant-year 1980,
+  :cites ["DE2259661A1"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:leybold-heraeus],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US4204117/en",
+  :title "Sample analyzer",
+  :status :granted,
+  :id "US4204117",
+  :sourcing :authoritative,
+  :filing-year 1978,
+  :assignee :leybold-heraeus,
+  :grant-year 1980,
+  :cites ["US3782823" "US3972616" "US4018530"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:ppg-industries],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US4205115/en",
+  :title "Polyester coating composition",
+  :status :granted,
+  :id "US4205115",
+  :sourcing :authoritative,
+  :filing-year 1978,
+  :assignee :ppg-industries,
+  :grant-year 1980,
+  :cites
+  ["US2852491"
+   "US2925405"
+   "US2970986"
+   "US3427267"
+   "US3691258"
+   "US3893976"
+   "US3959228"
+   "US3970687"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:toyo-soda-manufacturing],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US4205134/en",
+  :title "Carrier for liquid chromatography",
+  :status :granted,
+  :id "US4205134",
+  :sourcing :authoritative,
+  :filing-year 1978,
+  :assignee :toyo-soda-manufacturing,
+  :grant-year 1980,
+  :cites ["US3645996" "US3970603" "US4038469" "US4128706"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:technion-research-and-development-foundation],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US4205952/en",
+  :title "Specific binding assay method and reagent means",
+  :status :granted,
+  :id "US4205952",
+  :sourcing :authoritative,
+  :filing-year 1977,
+  :assignee :technion-research-and-development-foundation,
+  :grant-year 1980,
+  :cites ["US3899298" "US3966556" "US4022876" "US4036823"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:gte-laboratories],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US4208242/en",
+  :title
+  "Method for color television picture tube aperture mask production employing PVA and removing the PVA by partial carmelizing and washing",
+  :status :granted,
+  :id "US4208242",
+  :sourcing :authoritative,
+  :filing-year 1978,
+  :assignee :gte-laboratories,
+  :grant-year 1980,
+  :cites
+  ["US3081203"
+   "US3175907"
+   "US3415648"
+   "US3672893"
+   "US3767490"
+   "US3770434"
+   "US3796603"
+   "US3980587"
+   "US4018627"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:honda-motor :shinto-paint],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US4208262/en",
+  :title "Electrodeposition coating",
+  :status :granted,
+  :id "US4208262",
+  :sourcing :authoritative,
+  :filing-year 1979,
+  :assignee :honda-motor,
+  :grant-year 1980,
+  :cites ["US3681224" "US4136070"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:radiochemical-centre],
   :jurisdiction :us,
   :field "UNKNOWN",
   :source "https://patents.google.com/patent/US4208400/en",
@@ -2460,6 +2651,30 @@
   :cites ["US3927193" "US4036945" "US4146603" "US4234561"],
   :term-years 20,
   :open-license :none}
+ {:assignees [:ashland-oil],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US4331782/en",
+  :title
+  "Hydroxybenzoic acid-epoxy adduct capping agents for polyester resins",
+  :status :granted,
+  :id "US4331782",
+  :sourcing :authoritative,
+  :filing-year 1981,
+  :assignee :ashland-oil,
+  :grant-year 1982,
+  :cites
+  ["GB1369351A"
+   "US3409579"
+   "US3429848"
+   "US3676392"
+   "US3789044"
+   "US3804805"
+   "US3822226"
+   "US3836491"
+   "US3890256"],
+  :term-years 20,
+  :open-license :none}
  {:assignees [:harvard-university],
   :jurisdiction :us,
   :field "UNKNOWN",
@@ -4232,6 +4447,20 @@
   :cites ["US3932807" "US3999122" "US4103227" "US4180771"],
   :term-years 20,
   :open-license :none}
+ {:assignees [:monsanto],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US4444980/en",
+  :title "Liquid crystal copolyesters",
+  :status :granted,
+  :id "US4444980",
+  :sourcing :authoritative,
+  :filing-year 1983,
+  :assignee :monsanto,
+  :grant-year 1984,
+  :cites ["US4377681"],
+  :term-years 20,
+  :open-license :none}
  {:assignees [:life-technologies],
   :jurisdiction :us,
   :field "UNKNOWN",
@@ -5253,6 +5482,20 @@
    "US4308184"],
   :term-years 20,
   :open-license :none}
+ {:assignees [:dow-chemical],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US4544704/en",
+  :title "Polymeric cyanate compositions",
+  :status :granted,
+  :id "US4544704",
+  :sourcing :authoritative,
+  :filing-year 1984,
+  :assignee :dow-chemical,
+  :grant-year 1985,
+  :cites ["US4477629"],
+  :term-years 20,
+  :open-license :none}
  {:assignees [:takeda-chemical-industries],
   :jurisdiction :us,
   :field "UNKNOWN",
@@ -5900,6 +6143,32 @@
    "US4444923"],
   :term-years 20,
   :open-license :none}
+ {:assignees [:wr-grace-and],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US4605465/en",
+  :title
+  "UV and thermally curable, thermoplastic-containing compositions",
+  :status :granted,
+  :id "US4605465",
+  :sourcing :authoritative,
+  :filing-year 1984,
+  :assignee :wr-grace-and,
+  :grant-year 1986,
+  :cites
+  ["GB2046269A"
+   "US3616040"
+   "US3652733"
+   "US3840448"
+   "US3850675"
+   "US3989610"
+   "US4020233"
+   "US4288527"
+   "US4309331"
+   "US4339474"
+   "US4444806"],
+  :term-years 20,
+  :open-license :none}
  {:assignees [:uniroyal-chemical],
   :jurisdiction :us,
   :field "UNKNOWN",
@@ -6121,6 +6390,31 @@
    "US2834767"
    "US2905660"
    "US3025269"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:ppg-industries],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US4634602/en",
+  :title "Primer composition",
+  :status :granted,
+  :id "US4634602",
+  :sourcing :authoritative,
+  :filing-year 1986,
+  :assignee :ppg-industries,
+  :grant-year 1987,
+  :cites
+  ["US3876432"
+   "US3899611"
+   "US4025407"
+   "US4128600"
+   "US4169732"
+   "US4205018"
+   "US4295947"
+   "US4342793"
+   "US4374963"
+   "US4391855"
+   "US4425207"],
   :term-years 20,
   :open-license :none}
  {:assignees [:dontech],
@@ -6533,6 +6827,27 @@
   :assignee :integrated-genetics,
   :grant-year 1987,
   :cites ["US4139346" "US4302204" "US4358535" "US4359535" "US4486539"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:celanese],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US4689371/en",
+  :title
+  "Process for the preparation of poly (vinylphenol) from poly (acetoxystyrene)",
+  :status :granted,
+  :id "US4689371",
+  :sourcing :authoritative,
+  :filing-year 1986,
+  :assignee :celanese,
+  :grant-year 1987,
+  :cites
+  ["US2276138"
+   "US3547858"
+   "US3963862"
+   "US3970534"
+   "US4129617"
+   "US4544704"],
   :term-years 20,
   :open-license :none}
  {:assignees [:helmholtz-zentrum-fuer-infektionsforschung-hzi],
@@ -7256,6 +7571,30 @@
    "US3697496"
    "US4245079"
    "US4652618"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:hoechst-celanese],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US4775730/en",
+  :title
+  "Copolymers of p-acetoxystyrene with any of certain polyunsaturated compounds",
+  :status :granted,
+  :id "US4775730",
+  :sourcing :authoritative,
+  :filing-year 1987,
+  :assignee :hoechst-celanese,
+  :grant-year 1988,
+  :cites
+  ["CA603164A"
+   "US2980658"
+   "US4096009"
+   "US4211824"
+   "US4283511"
+   "US4433015"
+   "US4480034"
+   "US4522999"
+   "US4535059"],
   :term-years 20,
   :open-license :none}
  {:assignees [:national-distillers-and-chemical],
@@ -9690,349 +10029,5 @@
   :filing-year 1901,
   :assignee :unassigned,
   :grant-year 1902,
-  :term-years 20,
-  :open-license :none}
- {:assignees [:pure-food],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US704977/en",
-  :title "Apparatus for desiccating eggs.",
-  :status :granted,
-  :id "US704977",
-  :sourcing :authoritative,
-  :filing-year 1899,
-  :assignee :pure-food,
-  :grant-year 1902,
-  :term-years 20,
-  :open-license :none}
- {:jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US7226/en",
-  :title "Improved method of dressing cut tobacco",
-  :status :granted,
-  :id "US7226",
-  :sourcing :authoritative,
-  :assignee :unassigned,
-  :grant-year 1850,
-  :term-years 20,
-  :open-license :none}
- {:jurisdiction :us,
-  :essentiality 0.8,
-  :field "H01L",
-  :title "Method of fabricating a FinFET device",
-  :status :granted,
-  :id "US7654321B2",
-  :sourcing :representative,
-  :filing-year 2007,
-  :assignee :tsmc,
-  :grant-year 2010,
-  :term-years 20,
-  :open-license :none}
- {:assignees [:agc-seimi-chemical],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US7709148/en",
-  :title
-  "Lithium-containing composite oxide and its production process",
-  :status :granted,
-  :id "US7709148",
-  :sourcing :authoritative,
-  :filing-year 2007,
-  :assignee :agc-seimi-chemical,
-  :grant-year 2010,
-  :cites
-  ["JP2001028265A"
-   "JP2002060225A"
-   "JP2005044743A"
-   "JP2005310744A"
-   "JP2006036545A"
-   "JP3201368B2"
-   "US20060154146A1"
-   "US20060210879A1"
-   "US20070026314A1"
-   "US5742070"
-   "US5780181"
-   "US6749965"
-   "WO2005112152A1"],
-  :term-years 20,
-  :open-license :none}
- {:jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US781659/en",
-  :title "Gumming-machine.",
-  :status :granted,
-  :id "US781659",
-  :sourcing :authoritative,
-  :filing-year 1904,
-  :assignee :unassigned,
-  :grant-year 1905,
-  :term-years 20,
-  :open-license :none}
- {:jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US792620/en",
-  :title "Seed-dropping mechanism.",
-  :status :granted,
-  :id "US792620",
-  :sourcing :authoritative,
-  :filing-year 1905,
-  :assignee :unassigned,
-  :grant-year 1905,
-  :term-years 20,
-  :open-license :none}
- {:jurisdiction :us,
-  :essentiality 0.4,
-  :field "A61B",
-  :title "Visual prosthesis apparatus",
-  :status :granted,
-  :id "US8000000B2",
-  :sourcing :representative,
-  :filing-year 2009,
-  :assignee :medtronic,
-  :grant-year 2011,
-  :term-years 20,
-  :open-license :none}
- {:jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US809375/en",
-  :title "Copying-press.",
-  :status :granted,
-  :id "US809375",
-  :sourcing :authoritative,
-  :filing-year 1905,
-  :assignee :unassigned,
-  :grant-year 1906,
-  :term-years 20,
-  :open-license :none}
- {:jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US813171/en",
-  :title "Process for the production of artificial-stone plates.",
-  :status :granted,
-  :id "US813171",
-  :sourcing :authoritative,
-  :filing-year 1905,
-  :assignee :unassigned,
-  :grant-year 1906,
-  :term-years 20,
-  :open-license :none}
- {:jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US814060/en",
-  :title "Variable-speed gear.",
-  :status :granted,
-  :id "US814060",
-  :sourcing :authoritative,
-  :filing-year 1903,
-  :assignee :unassigned,
-  :grant-year 1906,
-  :term-years 20,
-  :open-license :none}
- {:assignees [:leeds-and-northrup],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US819355/en",
-  :title "Potentiometer.",
-  :status :granted,
-  :id "US819355",
-  :sourcing :authoritative,
-  :filing-year 1905,
-  :assignee :leeds-and-northrup,
-  :grant-year 1906,
-  :term-years 20,
-  :open-license :none}
- {:assignees [:american-tobacco],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US819730/en",
-  :title "Cigarette-machine.",
-  :status :granted,
-  :id "US819730",
-  :sourcing :authoritative,
-  :filing-year 1896,
-  :assignee :american-tobacco,
-  :grant-year 1906,
-  :term-years 20,
-  :open-license :none}
- {:jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US823677/en",
-  :title "Acetylene-generator.",
-  :status :granted,
-  :id "US823677",
-  :sourcing :authoritative,
-  :filing-year 1905,
-  :assignee :unassigned,
-  :grant-year 1906,
-  :term-years 20,
-  :open-license :none}
- {:jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US844783/en",
-  :title "Paper-cigarette machine.",
-  :status :granted,
-  :id "US844783",
-  :sourcing :authoritative,
-  :filing-year 1904,
-  :assignee :unassigned,
-  :grant-year 1907,
-  :term-years 20,
-  :open-license :none}
- {:jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US862403/en",
-  :title "Strap, band, and the like.",
-  :status :granted,
-  :id "US862403",
-  :sourcing :authoritative,
-  :filing-year 1905,
-  :assignee :unassigned,
-  :grant-year 1907,
-  :term-years 20,
-  :open-license :none}
- {:assignees [:broad-institute :massachusetts-institute-of-technology],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US8697359B1/en",
-  :title
-  "CRISPR-Cas systems and methods for altering expression of gene products",
-  :status :granted,
-  :id "US8697359B1",
-  :sourcing :authoritative,
-  :filing-year 2013,
-  :assignee :broad-institute,
-  :grant-year 2014,
-  :cites
-  ["US20100076057A1"
-   "US20110189776A1"
-   "US20110223638A1"
-   "US20130130248A1"
-   "WO2008108989A2"
-   "WO2010054108A2"
-   "WO2012164565A1"
-   "WO2013098244A1"
-   "WO2013176772A1"],
-  :term-years 20,
-  :open-license :none}
- {:jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US885276/en",
-  :title "Shoe-polisher.",
-  :status :granted,
-  :id "US885276",
-  :sourcing :authoritative,
-  :filing-year 1906,
-  :assignee :unassigned,
-  :grant-year 1908,
-  :term-years 20,
-  :open-license :none}
- {:jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US888464/en",
-  :title "Scaling-machine.",
-  :status :granted,
-  :id "US888464",
-  :sourcing :authoritative,
-  :filing-year 1907,
-  :assignee :unassigned,
-  :grant-year 1908,
-  :term-years 20,
-  :open-license :none}
- {:jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US890018/en",
-  :title "Dose-stopper.",
-  :status :granted,
-  :id "US890018",
-  :sourcing :authoritative,
-  :filing-year 1906,
-  :assignee :unassigned,
-  :grant-year 1908,
-  :term-years 20,
-  :open-license :none}
- {:jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US908035/en",
-  :title "Apparatus for finishing sized fabrics.",
-  :status :granted,
-  :id "US908035",
-  :sourcing :authoritative,
-  :filing-year 1907,
-  :assignee :unassigned,
-  :grant-year 1908,
-  :term-years 20,
-  :open-license :none}
- {:assignees [:crystallized-milk],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US927169/en",
-  :title "Desiccating apparatus.",
-  :status :granted,
-  :id "US927169",
-  :sourcing :authoritative,
-  :filing-year 1908,
-  :assignee :crystallized-milk,
-  :grant-year 1909,
-  :term-years 20,
-  :open-license :none}
- {:jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US931434/en",
-  :title "Device for feeding cans to operating mechanisms.",
-  :status :granted,
-  :id "US931434",
-  :sourcing :authoritative,
-  :filing-year 1908,
-  :assignee :unassigned,
-  :grant-year 1909,
-  :term-years 20,
-  :open-license :none}
- {:jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US940449/en",
-  :title "Apparatus for manufacture of composition board.",
-  :status :granted,
-  :id "US940449",
-  :sourcing :authoritative,
-  :filing-year 1907,
-  :assignee :unassigned,
-  :grant-year 1909,
-  :term-years 20,
-  :open-license :none}
- {:jurisdiction :us,
-  :essentiality 0.7,
-  :field "H04W",
-  :title "Royalty-free standardized video coding tool",
-  :status :granted,
-  :id "US9500000B2",
-  :sourcing :representative,
-  :filing-year 2013,
-  :assignee :google,
-  :grant-year 2016,
-  :term-years 20,
-  :open-license :royalty-free-standard}
- {:assignees [:noah-w-workman],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US961741/en",
-  :title "Measuring and filling machine.",
-  :status :granted,
-  :id "US961741",
-  :sourcing :authoritative,
-  :filing-year 1909,
-  :assignee :noah-w-workman,
-  :grant-year 1910,
-  :term-years 20,
-  :open-license :none}
- {:jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US969992/en",
-  :title "Method of making cigar-bunches.",
-  :status :granted,
-  :id "US969992",
-  :sourcing :authoritative,
-  :filing-year 1910,
-  :assignee :unassigned,
-  :grant-year 1910,
   :term-years 20,
   :open-license :none}]

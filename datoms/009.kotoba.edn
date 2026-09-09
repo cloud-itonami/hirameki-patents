@@ -1,4 +1,77 @@
 [[":db/add"
+  "hirameki-patent:US3144498"
+  ":hirameki.obs/years-to-expiry"
+  -45]
+ [":db/add"
+  "hirameki-patent:US3144498"
+  ":hirameki/source"
+  "https://patents.google.com/patent/US3144498/en"]
+ [":db/add"
+  "hirameki-patent:US3144926"
+  ":hirameki.patent/title"
+  "Installation for selectively dispatching articles"]
+ [":db/add"
+  "hirameki-patent:US3144926"
+  ":hirameki.patent/jurisdiction"
+  ":us"]
+ [":db/add"
+  "hirameki-patent:US3144926"
+  ":hirameki.patent/field"
+  "UNKNOWN"]
+ [":db/add"
+  "hirameki-patent:US3144926"
+  ":hirameki.patent/assignee"
+  ":unassigned"]
+ [":db/add"
+  "hirameki-patent:US3144926"
+  ":hirameki.patent/status"
+  ":granted"]
+ [":db/add"
+  "hirameki-patent:US3144926"
+  ":hirameki.patent/open-license"
+  ":none"]
+ [":db/add"
+  "hirameki-patent:US3144926"
+  ":hirameki.obs/release-status"
+  ":public-domain"]
+ [":db/add"
+  "hirameki-patent:US3144926"
+  ":hirameki/sourcing"
+  ":authoritative"]
+ [":db/add" "hirameki-patent:US3144926" ":hirameki/derived" true]
+ [":db/add"
+  "hirameki-patent:US3144926"
+  ":hirameki.obs/years-to-expiry"
+  -45]
+ [":db/add"
+  "hirameki-patent:US3144926"
+  ":hirameki/source"
+  "https://patents.google.com/patent/US3144926/en"]
+ [":db/add"
+  "hirameki-patent:US3146159"
+  ":hirameki.patent/title"
+  "Method of coating paper with high solids high viscosity coating in the wet end of the paper making machine"]
+ [":db/add"
+  "hirameki-patent:US3146159"
+  ":hirameki.patent/jurisdiction"
+  ":us"]
+ [":db/add"
+  "hirameki-patent:US3146159"
+  ":hirameki.patent/field"
+  "UNKNOWN"]
+ [":db/add"
+  "hirameki-patent:US3146159"
+  ":hirameki.patent/assignee"
+  ":combined-locks-paper"]
+ [":db/add"
+  "hirameki-patent:US3146159"
+  ":hirameki.patent/status"
+  ":granted"]
+ [":db/add"
+  "hirameki-patent:US3146159"
+  ":hirameki.patent/open-license"
+  ":none"]
+ [":db/add"
   "hirameki-patent:US3146159"
   ":hirameki.obs/release-status"
   ":public-domain"]
@@ -10178,78 +10251,4 @@
  [":db/add"
   "hirameki-patent:US3370952"
   ":hirameki.patent/field"
-  "UNKNOWN"]
- [":db/add"
-  "hirameki-patent:US3370952"
-  ":hirameki.patent/assignee"
-  ":ei-du-pont-de-nemours-and"]
- [":db/add"
-  "hirameki-patent:US3370952"
-  ":hirameki.patent/status"
-  ":granted"]
- [":db/add"
-  "hirameki-patent:US3370952"
-  ":hirameki.patent/open-license"
-  ":none"]
- [":db/add"
-  "hirameki-patent:US3370952"
-  ":hirameki.obs/release-status"
-  ":public-domain"]
- [":db/add"
-  "hirameki-patent:US3370952"
-  ":hirameki/sourcing"
-  ":authoritative"]
- [":db/add" "hirameki-patent:US3370952" ":hirameki/derived" true]
- [":db/add"
-  "hirameki-patent:US3370952"
-  ":hirameki.obs/years-to-expiry"
-  -42]
- [":db/add"
-  "hirameki-patent:US3370952"
-  ":hirameki/source"
-  "https://patents.google.com/patent/US3370952/en"]
- [":db/add"
-  "hirameki-patent:US3372992"
-  ":hirameki.patent/title"
-  "Method for determining blood serum iron-binding capacity"]
- [":db/add"
-  "hirameki-patent:US3372992"
-  ":hirameki.patent/jurisdiction"
-  ":us"]
- [":db/add"
-  "hirameki-patent:US3372992"
-  ":hirameki.patent/field"
-  "UNKNOWN"]
- [":db/add"
-  "hirameki-patent:US3372992"
-  ":hirameki.patent/assignee"
-  ":abbott-laboratories"]
- [":db/add"
-  "hirameki-patent:US3372992"
-  ":hirameki.patent/status"
-  ":granted"]
- [":db/add"
-  "hirameki-patent:US3372992"
-  ":hirameki.patent/open-license"
-  ":none"]
- [":db/add"
-  "hirameki-patent:US3372992"
-  ":hirameki.obs/release-status"
-  ":public-domain"]
- [":db/add"
-  "hirameki-patent:US3372992"
-  ":hirameki/sourcing"
-  ":authoritative"]
- [":db/add" "hirameki-patent:US3372992" ":hirameki/derived" true]
- [":db/add"
-  "hirameki-patent:US3372992"
-  ":hirameki.obs/years-to-expiry"
-  -42]
- [":db/add"
-  "hirameki-patent:US3372992"
-  ":hirameki/source"
-  "https://patents.google.com/patent/US3372992/en"]
- [":db/add"
-  "hirameki-patent:US3373141"
-  ":hirameki.patent/title"
-  "Photoconductive copolymers of styrene and acrolein derivatized with aryl amines"]]
+  "UNKNOWN"]]

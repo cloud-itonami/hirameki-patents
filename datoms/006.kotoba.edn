@@ -1,4 +1,82 @@
 [[":db/add"
+  "hirameki-patent:US2571171"
+  ":hirameki/sourcing"
+  ":authoritative"]
+ [":db/add" "hirameki-patent:US2571171" ":hirameki/derived" true]
+ [":db/add"
+  "hirameki-patent:US2571171"
+  ":hirameki.obs/years-to-expiry"
+  -61]
+ [":db/add"
+  "hirameki-patent:US2571171"
+  ":hirameki/source"
+  "https://patents.google.com/patent/US2571171/en"]
+ [":db/add"
+  "hirameki-patent:US2571238"
+  ":hirameki.patent/title"
+  "Biotin intermediate"]
+ [":db/add"
+  "hirameki-patent:US2571238"
+  ":hirameki.patent/jurisdiction"
+  ":us"]
+ [":db/add"
+  "hirameki-patent:US2571238"
+  ":hirameki.patent/field"
+  "UNKNOWN"]
+ [":db/add"
+  "hirameki-patent:US2571238"
+  ":hirameki.patent/assignee"
+  ":merck-and"]
+ [":db/add"
+  "hirameki-patent:US2571238"
+  ":hirameki.patent/status"
+  ":granted"]
+ [":db/add"
+  "hirameki-patent:US2571238"
+  ":hirameki.patent/open-license"
+  ":none"]
+ [":db/add"
+  "hirameki-patent:US2571238"
+  ":hirameki.obs/release-status"
+  ":public-domain"]
+ [":db/add"
+  "hirameki-patent:US2571238"
+  ":hirameki/sourcing"
+  ":authoritative"]
+ [":db/add" "hirameki-patent:US2571238" ":hirameki/derived" true]
+ [":db/add"
+  "hirameki-patent:US2571238"
+  ":hirameki.obs/years-to-expiry"
+  -61]
+ [":db/add"
+  "hirameki-patent:US2571238"
+  ":hirameki/source"
+  "https://patents.google.com/patent/US2571238/en"]
+ [":db/add"
+  "hirameki-patent:US2571242"
+  ":hirameki.patent/title"
+  "Opal glass and method of controlling fire thereof"]
+ [":db/add"
+  "hirameki-patent:US2571242"
+  ":hirameki.patent/jurisdiction"
+  ":us"]
+ [":db/add"
+  "hirameki-patent:US2571242"
+  ":hirameki.patent/field"
+  "UNKNOWN"]
+ [":db/add"
+  "hirameki-patent:US2571242"
+  ":hirameki.patent/assignee"
+  ":corning-glass-works"]
+ [":db/add"
+  "hirameki-patent:US2571242"
+  ":hirameki.patent/status"
+  ":granted"]
+ [":db/add"
+  "hirameki-patent:US2571242"
+  ":hirameki.patent/open-license"
+  ":none"]
+ [":db/add"
   "hirameki-patent:US2571242"
   ":hirameki.obs/release-status"
   ":public-domain"]
@@ -10236,78 +10314,4 @@
  [":db/add"
   "hirameki-patent:US2743233"
   ":hirameki.patent/field"
-  "UNKNOWN"]
- [":db/add"
-  "hirameki-patent:US2743233"
-  ":hirameki.patent/assignee"
-  ":phillips-petroleum"]
- [":db/add"
-  "hirameki-patent:US2743233"
-  ":hirameki.patent/status"
-  ":granted"]
- [":db/add"
-  "hirameki-patent:US2743233"
-  ":hirameki.patent/open-license"
-  ":none"]
- [":db/add"
-  "hirameki-patent:US2743233"
-  ":hirameki.obs/release-status"
-  ":public-domain"]
- [":db/add"
-  "hirameki-patent:US2743233"
-  ":hirameki/sourcing"
-  ":authoritative"]
- [":db/add" "hirameki-patent:US2743233" ":hirameki/derived" true]
- [":db/add"
-  "hirameki-patent:US2743233"
-  ":hirameki.obs/years-to-expiry"
-  -54]
- [":db/add"
-  "hirameki-patent:US2743233"
-  ":hirameki/source"
-  "https://patents.google.com/patent/US2743233/en"]
- [":db/add"
-  "hirameki-patent:US2744079"
-  ":hirameki.patent/title"
-  "Adhesive composition containing polysiloxane rubber, polysiloxane oil and reinforcing pigment"]
- [":db/add"
-  "hirameki-patent:US2744079"
-  ":hirameki.patent/jurisdiction"
-  ":us"]
- [":db/add"
-  "hirameki-patent:US2744079"
-  ":hirameki.patent/field"
-  "UNKNOWN"]
- [":db/add"
-  "hirameki-patent:US2744079"
-  ":hirameki.patent/assignee"
-  ":connecticut-hard-rubber"]
- [":db/add"
-  "hirameki-patent:US2744079"
-  ":hirameki.patent/status"
-  ":granted"]
- [":db/add"
-  "hirameki-patent:US2744079"
-  ":hirameki.patent/open-license"
-  ":none"]
- [":db/add"
-  "hirameki-patent:US2744079"
-  ":hirameki.obs/release-status"
-  ":public-domain"]
- [":db/add"
-  "hirameki-patent:US2744079"
-  ":hirameki/sourcing"
-  ":authoritative"]
- [":db/add" "hirameki-patent:US2744079" ":hirameki/derived" true]
- [":db/add"
-  "hirameki-patent:US2744079"
-  ":hirameki.obs/years-to-expiry"
-  -54]
- [":db/add"
-  "hirameki-patent:US2744079"
-  ":hirameki/source"
-  "https://patents.google.com/patent/US2744079/en"]
- [":db/add"
-  "hirameki-patent:US2744116"
-  ":hirameki.patent/title"
-  "Bis-(aminotriazolyl-)-hydrocarbons"]]
+  "UNKNOWN"]]
