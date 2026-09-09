@@ -1,4 +1,74 @@
-[{:assignees [:commw-mental-health-res-founda],
+[{:assignees [:thomas-electronics],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2827390/en",
+  :title "Production of kinescope targets",
+  :status :granted,
+  :id "US2827390",
+  :sourcing :authoritative,
+  :filing-year 1955,
+  :assignee :thomas-electronics,
+  :grant-year 1958,
+  :cites
+  ["GB713908A"
+   "US2404953"
+   "US2528969"
+   "US2685530"
+   "US2687360"
+   "US2769733"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:us-philips],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2827391/en",
+  :title
+  "Method of coating the inside of a curved tube with fluorescent material",
+  :status :granted,
+  :id "US2827391",
+  :sourcing :authoritative,
+  :filing-year 1955,
+  :assignee :us-philips,
+  :grant-year 1958,
+  :cites ["US2634510" "US2643956"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:rohm-and-haas],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2828221/en",
+  :title
+  "Method of coating leather with polymers containing cyclic t-amino groups and the resulting article",
+  :status :granted,
+  :id "US2828221",
+  :sourcing :authoritative,
+  :filing-year 1955,
+  :assignee :rohm-and-haas,
+  :grant-year 1958,
+  :cites ["US2204520" "US2430479" "US2615826" "US2694688" "US2702763"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:adhesive-tapes],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2829073/en",
+  :title "Anti-stick coating",
+  :status :granted,
+  :id "US2829073",
+  :sourcing :authoritative,
+  :filing-year 1955,
+  :assignee :adhesive-tapes,
+  :grant-year 1958,
+  :cites
+  ["US2118864"
+   "US2381063"
+   "US2496349"
+   "US2532011"
+   "US2558548"
+   "US2682484"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:commw-mental-health-res-founda],
   :jurisdiction :us,
   :field "UNKNOWN",
   :source "https://patents.google.com/patent/US2829090/en",
@@ -2222,6 +2292,21 @@
   :assignee :dow-chemical,
   :grant-year 1960,
   :cites ["US2400720" "US2548853" "US2832696"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:bf-goodrich],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2937164/en",
+  :title
+  "Composition consisting of the reaction product of a linear synthetic polymer and a monocarbodiimide and process for crosslinking",
+  :status :granted,
+  :id "US2937164",
+  :sourcing :authoritative,
+  :filing-year 1957,
+  :assignee :bf-goodrich,
+  :grant-year 1960,
+  :cites ["US2654680"],
   :term-years 20,
   :open-license :none}
  {:assignees [:sylvania-electric-products],
@@ -7983,6 +8068,54 @@
   :cites ["US2624656" "US3081158" "US3098719"],
   :term-years 20,
   :open-license :none}
+ {:assignees [:bayer],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3193522/en",
+  :title "Stabilization of polyesters with polycarbodiimide",
+  :status :granted,
+  :id "US3193522",
+  :sourcing :authoritative,
+  :filing-year 1961,
+  :assignee :bayer,
+  :grant-year 1965,
+  :cites ["US2941983"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:bayer],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3193523/en",
+  :title "Stabilization of polyesters with substituted carbodiimides",
+  :status :granted,
+  :id "US3193523",
+  :sourcing :authoritative,
+  :filing-year 1961,
+  :assignee :bayer,
+  :grant-year 1965,
+  :cites ["US2415043" "US2654680" "US2853473" "US2937164"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:bayer :mobay],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3193524/en",
+  :title "Polyester plastics stabilized with carbodiimides",
+  :status :granted,
+  :id "US3193524",
+  :sourcing :authoritative,
+  :filing-year 1962,
+  :assignee :bayer,
+  :grant-year 1965,
+  :cites
+  ["US2415043"
+   "US2430479"
+   "US2654680"
+   "US2853473"
+   "US2877193"
+   "US2917486"],
+  :term-years 20,
+  :open-license :none}
  {:assignees [:general-precision],
   :jurisdiction :us,
   :field "UNKNOWN",
@@ -9684,147 +9817,5 @@
   :assignee :asahi-chemical-industry,
   :grant-year 1966,
   :cites ["DE1119278B" "US2482069" "US2645637"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:roche-palo-alto],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3282921/en",
-  :title
-  "Halo-deoxynucleosides and processes for the preparation thereof",
-  :status :granted,
-  :id "US3282921",
-  :sourcing :authoritative,
-  :filing-year 1964,
-  :assignee :roche-palo-alto,
-  :grant-year 1966,
-  :term-years 20,
-  :open-license :none}
- {:assignees [:kansas-state-university],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3284434/en",
-  :title "Protein isolation and preparations",
-  :status :granted,
-  :id "US3284434",
-  :sourcing :authoritative,
-  :filing-year 1960,
-  :assignee :kansas-state-university,
-  :grant-year 1966,
-  :cites ["US2454752"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:merck-and],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3284440/en",
-  :title
-  "Phosphate esters of cytosine arabinoide and process for preparing same",
-  :status :granted,
-  :id "US3284440",
-  :sourcing :authoritative,
-  :filing-year 1964,
-  :assignee :merck-and,
-  :grant-year 1966,
-  :cites ["US2844514" "US3116282" "US3201389"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:emi],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3284566/en",
-  :title "Colour television camera arrangements",
-  :status :granted,
-  :id "US3284566",
-  :sourcing :authoritative,
-  :filing-year 1963,
-  :assignee :emi,
-  :grant-year 1966,
-  :cites ["US2909097" "US2969424" "US3196205"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:upjohn],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3287352/en",
-  :title "Nu6-(2-hydroxyethyl) tubercidin and process therefor",
-  :status :granted,
-  :id "US3287352",
-  :sourcing :authoritative,
-  :filing-year 1964,
-  :assignee :upjohn,
-  :grant-year 1966,
-  :term-years 20,
-  :open-license :none}
- {:assignees [:consolidated-papers],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3288632/en",
-  :title "Production of coated paper",
-  :status :granted,
-  :id "US3288632",
-  :sourcing :authoritative,
-  :filing-year 1962,
-  :assignee :consolidated-papers,
-  :grant-year 1966,
-  :cites
-  ["US2177580"
-   "US2746878"
-   "US2795564"
-   "US2949382"
-   "US3005727"
-   "US3044896"
-   "US3222209"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:ajinomoto],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3288780/en",
-  :title "Process for preparing 5&#39;-ribonucleotides",
-  :status :granted,
-  :id "US3288780",
-  :sourcing :authoritative,
-  :filing-year 1964,
-  :assignee :ajinomoto,
-  :grant-year 1966,
-  :cites ["DE1119278B" "GB621094A" "US2482069" "US2645637"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:glidden],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3290235/en",
-  :title
-  "Electrodeposition of acidic resin with subsequent anodic electrolysis in dispersioncontaining metal treating oxyanions",
-  :status :granted,
-  :id "US3290235",
-  :sourcing :authoritative,
-  :filing-year 1965,
-  :assignee :glidden,
-  :grant-year 1966,
-  :cites
-  ["US2868705"
-   "US3097978"
-   "US3132055"
-   "US3133838"
-   "US3154438"
-   "US3175964"
-   "US3185596"
-   "US3210219"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:asahi-chemical-industry],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3290285/en",
-  :title "Method of production of 5&#39;-guanylic acid",
-  :status :granted,
-  :id "US3290285",
-  :sourcing :authoritative,
-  :filing-year 1964,
-  :assignee :asahi-chemical-industry,
-  :grant-year 1966,
-  :cites ["US2891945" "US3079379" "US3157635" "US3157636" "US3157637"],
   :term-years 20,
   :open-license :none}]

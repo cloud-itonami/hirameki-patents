@@ -1,4 +1,77 @@
-[{:assignees [:kearney-james-r],
+[{:assignees [:nat-biscuit],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2437114/en",
+  :title "Container",
+  :status :granted,
+  :id "US2437114",
+  :sourcing :authoritative,
+  :filing-year 1942,
+  :assignee :nat-biscuit,
+  :grant-year 1948,
+  :cites
+  ["US1084298"
+   "US1414236"
+   "US1461024"
+   "US1468229"
+   "US1527796"
+   "US1552212"
+   "US1812666"
+   "US1940559"
+   "US1962213"
+   "US2056956"
+   "US2106739"
+   "US2140835"
+   "US2157212"
+   "US2157732"
+   "US2160072"
+   "US2162769"
+   "US2172550"
+   "US2176166"
+   "US2200276"
+   "US2220388"
+   "US2229356"
+   "US2237809"
+   "US2244282"
+   "US2261621"
+   "US2290185"
+   "US2303322"
+   "US2306046"
+   "US2311675"
+   "US2341845"
+   "US2357092"
+   "US2386787"
+   "US349165"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:buckbee-mears],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2437228/en",
+  :title "Reticle",
+  :status :granted,
+  :id "US2437228",
+  :sourcing :authoritative,
+  :filing-year 1944,
+  :assignee :buckbee-mears,
+  :grant-year 1948,
+  :cites ["US1380333" "US1958456" "US2177094" "US2339723" "US378423"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:minnesota-mining-and-manufacturing],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2438195/en",
+  :title "Pressure-sensitive adhesive tape",
+  :status :granted,
+  :id "US2438195",
+  :sourcing :authoritative,
+  :filing-year 1946,
+  :assignee :minnesota-mining-and-manufacturing,
+  :grant-year 1948,
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:kearney-james-r],
   :jurisdiction :us,
   :field "UNKNOWN",
   :source "https://patents.google.com/patent/US2439164/en",
@@ -9890,75 +9963,5 @@
    "US2635059"
    "US2694695"
    "US2719072"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:thomas-electronics],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US2827390/en",
-  :title "Production of kinescope targets",
-  :status :granted,
-  :id "US2827390",
-  :sourcing :authoritative,
-  :filing-year 1955,
-  :assignee :thomas-electronics,
-  :grant-year 1958,
-  :cites
-  ["GB713908A"
-   "US2404953"
-   "US2528969"
-   "US2685530"
-   "US2687360"
-   "US2769733"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:us-philips],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US2827391/en",
-  :title
-  "Method of coating the inside of a curved tube with fluorescent material",
-  :status :granted,
-  :id "US2827391",
-  :sourcing :authoritative,
-  :filing-year 1955,
-  :assignee :us-philips,
-  :grant-year 1958,
-  :cites ["US2634510" "US2643956"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:rohm-and-haas],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US2828221/en",
-  :title
-  "Method of coating leather with polymers containing cyclic t-amino groups and the resulting article",
-  :status :granted,
-  :id "US2828221",
-  :sourcing :authoritative,
-  :filing-year 1955,
-  :assignee :rohm-and-haas,
-  :grant-year 1958,
-  :cites ["US2204520" "US2430479" "US2615826" "US2694688" "US2702763"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:adhesive-tapes],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US2829073/en",
-  :title "Anti-stick coating",
-  :status :granted,
-  :id "US2829073",
-  :sourcing :authoritative,
-  :filing-year 1955,
-  :assignee :adhesive-tapes,
-  :grant-year 1958,
-  :cites
-  ["US2118864"
-   "US2381063"
-   "US2496349"
-   "US2532011"
-   "US2558548"
-   "US2682484"],
   :term-years 20,
   :open-license :none}]

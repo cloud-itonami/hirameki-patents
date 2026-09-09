@@ -1,4 +1,170 @@
-[{:assignees [:produits-chimiques-pechiney-saint-gobain],
+[{:jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3773514/en",
+  :title "Light-sensitive structure",
+  :status :granted,
+  :id "US3773514",
+  :sourcing :authoritative,
+  :filing-year 1971,
+  :assignee :unassigned,
+  :grant-year 1973,
+  :cites ["US3136637" "US3458311"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:united-states-department-of-the-army],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3773625/en",
+  :title "Soluble antigen-antibody complexes",
+  :status :granted,
+  :id "US3773625",
+  :sourcing :authoritative,
+  :filing-year 1971,
+  :assignee :united-states-department-of-the-army,
+  :grant-year 1973,
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:ei-du-pont-de-nemours-and],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3773919/en",
+  :title "Polylactide-drug mixtures",
+  :status :granted,
+  :id "US3773919",
+  :sourcing :authoritative,
+  :filing-year 1970,
+  :assignee :ei-du-pont-de-nemours-and,
+  :grant-year 1973,
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:f-hoffmann-la-roche],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3775536/en",
+  :title "Opium alkaloid antigens and antibodies specific therefor",
+  :status :granted,
+  :id "US3775536",
+  :sourcing :authoritative,
+  :filing-year 1972,
+  :assignee :f-hoffmann-la-roche,
+  :grant-year 1973,
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:mitsubishi-electric],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3776627/en",
+  :title
+  "Electrophotographic apparatus using photosensitive member with electrically high insulating layer",
+  :status :granted,
+  :id "US3776627",
+  :sourcing :authoritative,
+  :filing-year 1972,
+  :assignee :mitsubishi-electric,
+  :grant-year 1973,
+  :cites ["US3536483" "US3575500" "US3630608"],
+  :term-years 20,
+  :open-license :none}
+ {:jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3776817/en",
+  :title "Method and apparatus for determining bacterial growth",
+  :status :granted,
+  :id "US3776817",
+  :sourcing :authoritative,
+  :filing-year 1971,
+  :assignee :unassigned,
+  :grant-year 1973,
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:monsanto],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3776819/en",
+  :title "Urea determination and electrode therefor",
+  :status :granted,
+  :id "US3776819",
+  :sourcing :authoritative,
+  :filing-year 1969,
+  :assignee :monsanto,
+  :grant-year 1973,
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:international-business-machines],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3779806/en",
+  :title "Electron beam sensitive polymer t-butyl methacrylate resist",
+  :status :granted,
+  :id "US3779806",
+  :sourcing :authoritative,
+  :filing-year 1972,
+  :assignee :international-business-machines,
+  :grant-year 1973,
+  :cites
+  ["US3392051"
+   "US3436468"
+   "US3535137"
+   "US3607382"
+   "US3650796"
+   "US3696742"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:ernst-leitz-wetzlar],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3781110/en",
+  :title "Optical range finding system",
+  :status :granted,
+  :id "US3781110",
+  :sourcing :authoritative,
+  :filing-year 1972,
+  :assignee :ernst-leitz-wetzlar,
+  :grant-year 1973,
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:ford-motor],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3781380/en",
+  :title
+  "Powder coating compositions containing glycidyl ester copolymers,carboxy terminated polymeric crosslinking agents,and flow control agents",
+  :status :granted,
+  :id "US3781380",
+  :sourcing :authoritative,
+  :filing-year 1971,
+  :assignee :ford-motor,
+  :grant-year 1973,
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:american-optical],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3782823/en",
+  :title "Laser microprobe",
+  :status :granted,
+  :id "US3782823",
+  :sourcing :authoritative,
+  :filing-year 1972,
+  :assignee :american-optical,
+  :grant-year 1974,
+  :cites ["US3348547" "US3463594"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:sinclair-koppers],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3784498/en",
+  :title "Process for preparing low emulsifier synthetic latex",
+  :status :granted,
+  :id "US3784498",
+  :sourcing :authoritative,
+  :filing-year 1972,
+  :assignee :sinclair-koppers,
+  :grant-year 1974,
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:produits-chimiques-pechiney-saint-gobain],
   :jurisdiction :us,
   :field "UNKNOWN",
   :source "https://patents.google.com/patent/US3784586/en",
@@ -9199,208 +9365,5 @@
    "US3669942"
    "US3784501"
    "US3790513"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:ebauches],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US4165394/en",
-  :title
-  "Method of preparation of a substrate made of plastic material for its subsequent metallization",
-  :status :granted,
-  :id "US4165394",
-  :sourcing :authoritative,
-  :filing-year 1978,
-  :assignee :ebauches,
-  :grant-year 1979,
-  :cites
-  ["US3317339"
-   "US3362841"
-   "US3471320"
-   "US3686018"
-   "US3874877"
-   "US3954570"
-   "US4002778"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:block-engineering],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US4166105/en",
-  :title "Dye tagged reagent",
-  :status :granted,
-  :id "US4166105",
-  :sourcing :authoritative,
-  :filing-year 1974,
-  :assignee :block-engineering,
-  :grant-year 1979,
-  :cites
-  ["US3553310"
-   "US3636023"
-   "US3641235"
-   "US3789116"
-   "US3796634"
-   "US3816492"
-   "US3853987"
-   "US3970597"
-   "US4016149"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:kabi],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US4168146/en",
-  :title "Immunoassay with test strip having antibodies bound thereto",
-  :status :granted,
-  :id "US4168146",
-  :sourcing :authoritative,
-  :filing-year 1976,
-  :assignee :kabi,
-  :grant-year 1979,
-  :cites
-  ["US3432424"
-   "US3645852"
-   "US3654090"
-   "US3666421"
-   "US3770383"
-   "US3789116"
-   "US3790663"
-   "US3791933"
-   "US3843450"
-   "US3859430"
-   "US3868219"
-   "US3876504"
-   "US4036946"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:kabi],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US4168300/en",
-  :title "Method of removal of hepatitis virus",
-  :status :granted,
-  :id "US4168300",
-  :sourcing :authoritative,
-  :filing-year 1976,
-  :assignee :kabi,
-  :grant-year 1979,
-  :cites
-  ["US3425962"
-   "US3636191"
-   "US3836433"
-   "US3852157"
-   "US3951937"
-   "US3976767"
-   "US3991018"
-   "US3992517"
-   "US3994870"
-   "US4000098"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:block-engineering],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US4169137/en",
-  :title "Antigen detecting reagents",
-  :status :granted,
-  :id "US4169137",
-  :sourcing :authoritative,
-  :filing-year 1974,
-  :assignee :block-engineering,
-  :grant-year 1979,
-  :cites
-  ["US3553310"
-   "US3639558"
-   "US3641235"
-   "US3789116"
-   "US3796634"
-   "US3853987"
-   "US3970597"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:american-hospital-supply],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US4170043/en",
-  :title "Coated intraocular lens and surgical tool",
-  :status :granted,
-  :id "US4170043",
-  :sourcing :authoritative,
-  :filing-year 1977,
-  :assignee :american-hospital-supply,
-  :grant-year 1979,
-  :cites ["US3996626" "US4047532" "US4113088" "US4127903" "US4136406"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:massachusetts-institute-of-technology],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US4170512/en",
-  :title "Method of manufacture of a soft-X-ray mask",
-  :status :granted,
-  :id "US4170512",
-  :sourcing :authoritative,
-  :filing-year 1977,
-  :assignee :massachusetts-institute-of-technology,
-  :grant-year 1979,
-  :cites
-  ["US3179634"
-   "US3607997"
-   "US3742230"
-   "US3767494"
-   "US3873824"
-   "US3892973"
-   "US3930914"
-   "US4037111"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:becton-dickinson-and],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US4172227/en",
-  :title "Flow microfluorometer",
-  :status :granted,
-  :id "US4172227",
-  :sourcing :authoritative,
-  :filing-year 1978,
-  :assignee :becton-dickinson-and,
-  :grant-year 1979,
-  :cites
-  ["US3470373"
-   "US3497690"
-   "US3586859"
-   "US3864571"
-   "US3885879"
-   "US3916197"
-   "US3918812"
-   "US3973129"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:asahi-kasei-kogyo],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US4172937/en",
-  :title "Process for preparing polyimines",
-  :status :granted,
-  :id "US4172937",
-  :sourcing :authoritative,
-  :filing-year 1978,
-  :assignee :asahi-kasei-kogyo,
-  :grant-year 1979,
-  :cites ["BE622556A" "US3503739" "US3516971"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:merck-and],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US4173571/en",
-  :title "13-Halo and 13-deoxy derivatives of C-076 compounds",
-  :status :granted,
-  :id "US4173571",
-  :sourcing :authoritative,
-  :filing-year 1977,
-  :assignee :merck-and,
-  :grant-year 1979,
-  :cites ["US3950360"],
   :term-years 20,
   :open-license :none}]
