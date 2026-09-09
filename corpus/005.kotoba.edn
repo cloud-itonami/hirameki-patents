@@ -1,4 +1,162 @@
-[{:jurisdiction :us,
+[{:assignees [:tokyo-shibaura-electric],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3767494/en",
+  :title
+  "Method for manufacturing a semiconductor photosensitive device",
+  :status :granted,
+  :id "US3767494",
+  :sourcing :authoritative,
+  :filing-year 1971,
+  :assignee :tokyo-shibaura-electric,
+  :grant-year 1973,
+  :cites ["US3616345" "US3616348"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:wacker-chemie],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3769251/en",
+  :title
+  "Process for the preparation of aqueous styrene/acrylic acid ester copolymer dispersions",
+  :status :granted,
+  :id "US3769251",
+  :sourcing :authoritative,
+  :filing-year 1971,
+  :assignee :wacker-chemie,
+  :grant-year 1973,
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:united-states-department-of-the-army],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3770380/en",
+  :title "Article and method for multiple immune adherence assay",
+  :status :granted,
+  :id "US3770380",
+  :sourcing :authoritative,
+  :filing-year 1971,
+  :assignee :united-states-department-of-the-army,
+  :grant-year 1973,
+  :cites ["US3415361" "US3502437" "US3666421"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:ei-du-pont-de-nemours-and],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3770382/en",
+  :title "Automatic clinical analyzer",
+  :status :granted,
+  :id "US3770382",
+  :sourcing :authoritative,
+  :filing-year 1971,
+  :assignee :ei-du-pont-de-nemours-and,
+  :grant-year 1973,
+  :cites
+  ["US3476515"
+   "US3497320"
+   "US3504376"
+   "US3532469"
+   "US3540858"
+   "US3556731"
+   "US3589867"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:akzona],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3770383/en",
+  :title "Diagnostic test slide",
+  :status :granted,
+  :id "US3770383",
+  :sourcing :authoritative,
+  :filing-year 1971,
+  :assignee :akzona,
+  :grant-year 1973,
+  :cites
+  ["GB953414A"
+   "US3502437"
+   "US3549328"
+   "US3616251"
+   "US3672845"
+   "US3697227"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:rca],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3770434/en",
+  :title
+  "Method for making an image screen structure for an apertured-mask cathode-ray tube using a mask having temporary apertures",
+  :status :granted,
+  :id "US3770434",
+  :sourcing :authoritative,
+  :filing-year 1971,
+  :assignee :rca,
+  :grant-year 1973,
+  :cites
+  ["US2750524"
+   "US2961314"
+   "US2971117"
+   "US3070441"
+   "US3231380"
+   "US3574013"
+   "US3600213"
+   "US3653901"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:basf-se],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3770491/en",
+  :title "System hardenable by ionizing radiation",
+  :status :granted,
+  :id "US3770491",
+  :sourcing :authoritative,
+  :filing-year 1971,
+  :assignee :basf-se,
+  :grant-year 1973,
+  :cites ["US3425977" "US3448089" "US3542587" "US3650978"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:lewis-engineering],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3770965/en",
+  :title
+  "Photosensitive control apparatus with movable light control member",
+  :status :granted,
+  :id "US3770965",
+  :sourcing :authoritative,
+  :filing-year 1972,
+  :assignee :lewis-engineering,
+  :grant-year 1973,
+  :cites
+  ["US1880020"
+   "US2199071"
+   "US2216472"
+   "US2524807"
+   "US2753487"
+   "US3155830"
+   "US3651324"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:technicon-instruments],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3772154/en",
+  :title
+  "Method and apparatus for automated antibiotic susceptibility analysis of bacteria samples",
+  :status :granted,
+  :id "US3772154",
+  :sourcing :authoritative,
+  :filing-year 1971,
+  :assignee :technicon-instruments,
+  :grant-year 1973,
+  :cites ["US3014848" "US3437447" "US3511573"],
+  :term-years 20,
+  :open-license :none}
+ {:jurisdiction :us,
   :field "UNKNOWN",
   :source "https://patents.google.com/patent/US3773514/en",
   :title "Light-sensitive structure",
@@ -2537,6 +2695,32 @@
    "US3703570"],
   :term-years 20,
   :open-license :none}
+ {:assignees [:mitsubishi-petrochemical],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3878183/en",
+  :title "Fibrous polyolefin particles and production thereof",
+  :status :granted,
+  :id "US3878183",
+  :sourcing :authoritative,
+  :filing-year 1971,
+  :assignee :mitsubishi-petrochemical,
+  :grant-year 1975,
+  :cites
+  ["US2919267"
+   "US2939846"
+   "US3008943"
+   "US3047551"
+   "US3055880"
+   "US3063798"
+   "US3121698"
+   "US3216982"
+   "US3503785"
+   "US3574138"
+   "US3635935"
+   "US3681256"],
+  :term-years 20,
+  :open-license :none}
  {:assignees [:syva],
   :jurisdiction :us,
   :field "UNKNOWN",
@@ -3847,6 +4031,21 @@
   :assignee :bf-goodrich,
   :grant-year 1975,
   :cites ["US3149998" "US3485778" "US3538046" "US3773722"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:upjohn],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3929733/en",
+  :title
+  "Polycarbodiimides from 4,4{40 -methylenebis(phenyl isocyanate) and certain carbocyclic monoisocyanates",
+  :status :granted,
+  :id "US3929733",
+  :sourcing :authoritative,
+  :filing-year 1974,
+  :assignee :upjohn,
+  :grant-year 1975,
+  :cites ["US2853473" "US3450562" "US3502722" "US3755242"],
   :term-years 20,
   :open-license :none}
  {:assignees [:fujikura],
@@ -6996,6 +7195,21 @@
   :cites ["US3659586" "US3795239" "US3810460" "US3825342" "US3848580"],
   :term-years 20,
   :open-license :none}
+ {:assignees [:bayer],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US4042558/en",
+  :title
+  "Filled polymerization products based on carbodiimide copolymers",
+  :status :granted,
+  :id "US4042558",
+  :sourcing :authoritative,
+  :filing-year 1976,
+  :assignee :bayer,
+  :grant-year 1977,
+  :cites ["US3748289" "US3929733" "US3968089" "US3974053"],
+  :term-years 20,
+  :open-license :none}
  {:assignees [:ortho-pharmaceutical],
   :jurisdiction :us,
   :field "UNKNOWN",
@@ -9136,234 +9350,5 @@
   :assignee :research,
   :grant-year 1979,
   :cites ["US4010251"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:ppg-industries],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US4148772/en",
-  :title
-  "Amine acid salt-containing polymers for cationic electrodeposition",
-  :status :granted,
-  :id "US4148772",
-  :sourcing :authoritative,
-  :filing-year 1977,
-  :assignee :ppg-industries,
-  :grant-year 1979,
-  :cites
-  ["US2640037"
-   "US3169945"
-   "US3335105"
-   "US3336253"
-   "US3449281"
-   "US3617458"
-   "US3640926"
-   "US3663389"
-   "US3839252"
-   "US3935087"
-   "US3947338"
-   "US3947339"
-   "US3959106"
-   "US3962165"
-   "US3962499"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:baxter-travenol-laboratories],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US4148869/en",
-  :title "Immunological reagent and method of using same",
-  :status :granted,
-  :id "US4148869",
-  :sourcing :authoritative,
-  :filing-year 1975,
-  :assignee :baxter-travenol-laboratories,
-  :grant-year 1979,
-  :cites
-  ["US3489688"
-   "US3492396"
-   "US3624197"
-   "US3770380"
-   "US3880989"
-   "US3897357"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:pharmacia-fine-chemicals],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US4149003/en",
-  :title "Pyridine disulfide compounds",
-  :status :granted,
-  :id "US4149003",
-  :sourcing :authoritative,
-  :filing-year 1978,
-  :assignee :pharmacia-fine-chemicals,
-  :grant-year 1979,
-  :cites ["US2872450" "US3950348"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:beecham-group],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US4152210/en",
-  :title
-  "Biologically active materials attached to a ferromagnetic support",
-  :status :granted,
-  :id "US4152210",
-  :sourcing :authoritative,
-  :filing-year 1975,
-  :assignee :beecham-group,
-  :grant-year 1979,
-  :cites ["US3351203" "US3470067" "US3519538" "US3705084" "US3796634"],
-  :term-years 20,
-  :open-license :none}
- {:jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US4153416/en",
-  :title
-  "Process and apparatus for pulse labelling protein material in the Edman degradation process",
-  :status :granted,
-  :id "US4153416",
-  :sourcing :authoritative,
-  :filing-year 1977,
-  :assignee :unassigned,
-  :grant-year 1979,
-  :cites ["US3531258" "US3557077" "US3647390" "US3725010"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:eastman-kodak],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US4155889/en",
-  :title
-  "Process for substantially increasing the flexibility of a polyester",
-  :status :granted,
-  :id "US4155889",
-  :sourcing :authoritative,
-  :filing-year 1978,
-  :assignee :eastman-kodak,
-  :grant-year 1979,
-  :cites
-  ["US2615784"
-   "US3030173"
-   "US3275732"
-   "US3330709"
-   "US3634580"
-   "US3669931"
-   "US3739056"
-   "US4045431"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:cordis],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US4157280/en",
-  :title
-  "Test set for detecting the presence of antigens associated with hepatitis",
-  :status :granted,
-  :id "US4157280",
-  :sourcing :authoritative,
-  :filing-year 1975,
-  :assignee :cordis,
-  :grant-year 1979,
-  :cites
-  ["US3646346"
-   "US3654090"
-   "US3700609"
-   "US3826619"
-   "US3876504"
-   "US4016043"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:nuclear-international],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US4157895/en",
-  :title "RIA reagents and processes",
-  :status :granted,
-  :id "US4157895",
-  :sourcing :authoritative,
-  :filing-year 1977,
-  :assignee :nuclear-international,
-  :grant-year 1979,
-  :cites ["US3477817" "US3615222" "US3953172" "US3964865" "US4007008"],
-  :term-years 20,
-  :open-license :none}
- {:jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US4160018/en",
-  :title
-  "Stabilized cancer associated polypeptide antigen and preparation thereof",
-  :status :granted,
-  :id "US4160018",
-  :sourcing :authoritative,
-  :filing-year 1976,
-  :assignee :unassigned,
-  :grant-year 1979,
-  :cites ["US3010875" "US3551555" "US3823126" "US3968827"],
-  :term-years 20,
-  :open-license :none}
- {:jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US4160019/en",
-  :title
-  "Detection of cancer associated polypeptide antigen and preparation of antibodies thereto",
-  :status :granted,
-  :id "US4160019",
-  :sourcing :authoritative,
-  :filing-year 1976,
-  :assignee :unassigned,
-  :grant-year 1979,
-  :cites ["US3823126" "US3968827"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:research],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US4160817/en",
-  :title
-  "Application of protein-protein interaction as an assay for the detection of cancer",
-  :status :granted,
-  :id "US4160817",
-  :sourcing :authoritative,
-  :filing-year 1976,
-  :assignee :research,
-  :grant-year 1979,
-  :term-years 20,
-  :open-license :none}
- {:assignees [:syva],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US4161515/en",
-  :title "Double receptor fluorescent immunoassay",
-  :status :granted,
-  :id "US4161515",
-  :sourcing :authoritative,
-  :filing-year 1976,
-  :assignee :syva,
-  :grant-year 1979,
-  :cites ["US3641235" "US3720760" "US3901654" "US3998943"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:ei-du-pont-de-nemours-and],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US4164488/en",
-  :title "Aqueous thermosetting acrylic enamel",
-  :status :granted,
-  :id "US4164488",
-  :sourcing :authoritative,
-  :filing-year 1978,
-  :assignee :ei-du-pont-de-nemours-and,
-  :grant-year 1979,
-  :cites
-  ["GB1087623A"
-   "US3107227"
-   "US3245932"
-   "US3637546"
-   "US3661827"
-   "US3669942"
-   "US3784501"
-   "US3790513"],
   :term-years 20,
   :open-license :none}]

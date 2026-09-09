@@ -1,4 +1,140 @@
-[{:assignees [:nat-biscuit],
+[{:assignees [:american-cyanamid],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2434190/en",
+  :title "Purification of fluids with silvered resins",
+  :status :granted,
+  :id "US2434190",
+  :sourcing :authoritative,
+  :filing-year 1942,
+  :assignee :american-cyanamid,
+  :grant-year 1948,
+  :cites
+  ["GB427199A"
+   "US1642089"
+   "US1978447"
+   "US1988246"
+   "US2008131"
+   "US2066271"
+   "US2198378"
+   "US2251234"
+   "US2285750"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:westfield-river-paper],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2434795/en",
+  :title "Method and machine for laminating",
+  :status :granted,
+  :id "US2434795",
+  :sourcing :authoritative,
+  :filing-year 1944,
+  :assignee :westfield-river-paper,
+  :grant-year 1948,
+  :cites
+  ["US1095757"
+   "US1693934"
+   "US1902713"
+   "US2047372"
+   "US2050382"
+   "US2068893"
+   "US2207073"
+   "US2334485"
+   "US302938"
+   "US318910"
+   "US444821"
+   "US601317"
+   "US695239"
+   "US809375"
+   "US814060"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:joe-a-stone],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2435239/en",
+  :title "Process for removing resin coating from copper wire",
+  :status :granted,
+  :id "US2435239",
+  :sourcing :authoritative,
+  :filing-year 1945,
+  :assignee :joe-a-stone,
+  :grant-year 1948,
+  :cites ["US1813636" "US2318559" "US2360308"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:firestone-tire-and-rubber],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2435464/en",
+  :title "Moistureproof polyvinyl films",
+  :status :granted,
+  :id "US2435464",
+  :sourcing :authoritative,
+  :filing-year 1944,
+  :assignee :firestone-tire-and-rubber,
+  :grant-year 1948,
+  :cites ["GB497001A" "US2034020" "US2098535" "US2147629"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:ei-du-pont-de-nemours-and],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2436222/en",
+  :title "Adhesive cement compositions",
+  :status :granted,
+  :id "US2436222",
+  :sourcing :authoritative,
+  :filing-year 1943,
+  :assignee :ei-du-pont-de-nemours-and,
+  :grant-year 1948,
+  :cites ["US2277083" "US2313945" "US2356005"],
+  :term-years 20,
+  :open-license :none}
+ {:jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2436252/en",
+  :title "Grinding apparatus and process",
+  :status :granted,
+  :id "US2436252",
+  :sourcing :authoritative,
+  :filing-year 1946,
+  :assignee :unassigned,
+  :grant-year 1948,
+  :cites
+  ["GB311931A"
+   "US1757612"
+   "US1850054"
+   "US2032901"
+   "US2091655"
+   "US2386623"
+   "US344777"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:johns-manville],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2436262/en",
+  :title "Apparatus for measuring turbidity photoelectrically",
+  :status :granted,
+  :id "US2436262",
+  :sourcing :authoritative,
+  :filing-year 1944,
+  :assignee :johns-manville,
+  :grant-year 1948,
+  :cites
+  ["FR852120A"
+   "US1864092"
+   "US1971443"
+   "US2045124"
+   "US2165054"
+   "US2254782"
+   "US2263938"
+   "US2301367"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:nat-biscuit],
   :jurisdiction :us,
   :field "UNKNOWN",
   :source "https://patents.google.com/patent/US2437114/en",
@@ -9850,118 +9986,5 @@
   :assignee :phillips-petroleum,
   :grant-year 1958,
   :cites ["US1817227" "US2416460" "US2543723" "US2543955" "US2658017"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:dow-corning],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US2819236/en",
-  :title "Low durometer siloxane elastomers",
-  :status :granted,
-  :id "US2819236",
-  :sourcing :authoritative,
-  :filing-year 1954,
-  :assignee :dow-corning,
-  :grant-year 1958,
-  :cites ["US2442196" "US2645628" "US2714099"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:ei-du-pont-de-nemours-and],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US2819984/en",
-  :title
-  "Regenerated cellulose packaging materials and process of making same",
-  :status :granted,
-  :id "US2819984",
-  :sourcing :authoritative,
-  :filing-year 1954,
-  :assignee :ei-du-pont-de-nemours-and,
-  :grant-year 1958,
-  :cites ["CA500178A" "US2698240"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:wilson-and-toomer-fertilizer],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US2821500/en",
-  :title
-  "Coated dustless, granular insecticide for flies, their larvae, and other insects",
-  :status :granted,
-  :id "US2821500",
-  :sourcing :authoritative,
-  :filing-year 1956,
-  :assignee :wilson-and-toomer-fertilizer,
-  :grant-year 1958,
-  :cites ["GB708155A" "US1450128" "US2263827"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:stamford-engineered-products-c],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US2822476/en",
-  :title "Sterilizer",
-  :status :granted,
-  :id "US2822476",
-  :sourcing :authoritative,
-  :filing-year 1952,
-  :assignee :stamford-engineered-products-c,
-  :grant-year 1958,
-  :cites
-  ["US2146688"
-   "US2245762"
-   "US2273449"
-   "US2484559"
-   "US2536613"
-   "US2554156"
-   "US2596219"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:boyce-thompson-institute-for-plant-research],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US2823984/en",
-  :title "Fluoride ion indicator and process of development",
-  :status :granted,
-  :id "US2823984",
-  :sourcing :authoritative,
-  :filing-year 1955,
-  :assignee :boyce-thompson-institute-for-plant-research,
-  :grant-year 1958,
-  :cites ["GB566389A" "US2606102" "US691249"],
-  :term-years 20,
-  :open-license :none}
- {:jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US2824235/en",
-  :title "Infra-red radiation detector",
-  :status :granted,
-  :id "US2824235",
-  :sourcing :authoritative,
-  :filing-year 1954,
-  :assignee :unassigned,
-  :grant-year 1958,
-  :cites ["US2678400" "US2705758" "US2706792"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:rohm-and-haas],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US2824816/en",
-  :title "Method for treating leather",
-  :status :granted,
-  :id "US2824816",
-  :sourcing :authoritative,
-  :filing-year 1954,
-  :assignee :rohm-and-haas,
-  :grant-year 1958,
-  :cites
-  ["US2015943"
-   "US2126321"
-   "US2204520"
-   "US2635055"
-   "US2635059"
-   "US2694695"
-   "US2719072"],
   :term-years 20,
   :open-license :none}]

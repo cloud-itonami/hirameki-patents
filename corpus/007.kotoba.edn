@@ -1,4 +1,280 @@
-[{:assignees [:mitsubishi-rayon],
+[{:assignees [:asahi-glass],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US4960827/en",
+  :title "Curable resin composition",
+  :status :granted,
+  :id "US4960827",
+  :sourcing :authoritative,
+  :filing-year 1988,
+  :assignee :asahi-glass,
+  :grant-year 1990,
+  :cites
+  ["FR2424936A1"
+   "GB2081727A"
+   "US4250278"
+   "US4281092"
+   "US4413094"
+   "US4530969"
+   "US4530970"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:government-of-the-united-states-of-america],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US4962037/en",
+  :title "Method for rapid base sequencing in DNA and RNA",
+  :status :granted,
+  :id "US4962037",
+  :sourcing :authoritative,
+  :filing-year 1987,
+  :assignee :government-of-the-united-states-of-america,
+  :grant-year 1990,
+  :cites ["EP0251575A1" "US3730844" "US4521509"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:cetus],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US4965188/en",
+  :title
+  "Process for amplifying, detecting, and/or cloning nucleic acid sequences using a thermostable enzyme",
+  :status :granted,
+  :id "US4965188",
+  :sourcing :authoritative,
+  :filing-year 1987,
+  :assignee :cetus,
+  :grant-year 1990,
+  :cites
+  ["EP0086548A2"
+   "EP0138242A1"
+   "EP0200362B1"
+   "EP0201184B1"
+   "EP0258017A2"
+   "US4351901"
+   "US4683194"
+   "US4683195"
+   "US4683202"
+   "US4800159"
+   "US4889818"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:bio-metric-systems],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US4973493/en",
+  :title "Method of improving the biocompatibility of solid surfaces",
+  :status :granted,
+  :id "US4973493",
+  :sourcing :authoritative,
+  :filing-year 1987,
+  :assignee :bio-metric-systems,
+  :grant-year 1990,
+  :cites
+  ["US3808113"
+   "US3826678"
+   "US3955012"
+   "US3959078"
+   "US4007089"
+   "US4240163"
+   "US4311573"
+   "US4378224"
+   "US4378435"
+   "US4419444"
+   "US4434150"
+   "US4451568"
+   "US4500676"
+   "US4526714"
+   "US4526909"
+   "US4530974"
+   "US4536179"
+   "US4589881"
+   "US4589964"
+   "US4595632"
+   "US4605413"
+   "US4663233"
+   "US4687808"
+   "US4715858"
+   "US4716122"
+   "US4722906"
+   "US4828563"],
+  :term-years 20,
+  :open-license :none}
+ {:jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US4975305/en",
+  :title "Process and apparatus for metal spraying of articles",
+  :status :granted,
+  :id "US4975305",
+  :sourcing :authoritative,
+  :filing-year 1989,
+  :assignee :unassigned,
+  :grant-year 1990,
+  :cites ["US3861989"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:union-carbide-chemicals-and-plastics-technology],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US4977219/en",
+  :title "Low temperature crosslinking of water-borne resins",
+  :status :granted,
+  :id "US4977219",
+  :sourcing :authoritative,
+  :filing-year 1986,
+  :assignee :union-carbide-chemicals-and-plastics-technology,
+  :grant-year 1990,
+  :cites
+  ["GB1056202A"
+   "GB851936A"
+   "US2937164"
+   "US3193522"
+   "US3193523"
+   "US3193524"
+   "US3296190"
+   "US3639353"
+   "US3929733"
+   "US4042558"
+   "US4096125"
+   "US4148844"
+   "US4373078"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:montefiore-medical-center],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US4981783/en",
+  :title "Method for detecting pathological conditions",
+  :status :granted,
+  :id "US4981783",
+  :sourcing :authoritative,
+  :filing-year 1986,
+  :assignee :montefiore-medical-center,
+  :grant-year 1991,
+  :cites ["US4699877"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:consejo-superior-de-investigaciones-cientificas-csic],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US5001050/en",
+  :title "PHφ29 DNA polymerase",
+  :status :granted,
+  :id "US5001050",
+  :sourcing :authoritative,
+  :filing-year 1989,
+  :assignee :consejo-superior-de-investigaciones-cientificas-csic,
+  :grant-year 1991,
+  :cites ["US4795699" "US4921794" "US4942130" "US4946786"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:university-of-california-san-diego-ucsd],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US5001051/en",
+  :title
+  "Dose critical in-vivo detection of anti-cancer drug levels in blood",
+  :status :granted,
+  :id "US5001051",
+  :sourcing :authoritative,
+  :filing-year 1986,
+  :assignee :university-of-california-san-diego-ucsd,
+  :grant-year 1991,
+  :cites
+  ["US4419340"
+   "US4488814"
+   "US4559299"
+   "US4577109"
+   "US4610869"
+   "US4822746"],
+  :term-years 20,
+  :open-license :none}
+ {:jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US5002867/en",
+  :title
+  "Nucleic acid sequence determination by multiple mixed oligonucleotide probes",
+  :status :granted,
+  :id "US5002867",
+  :sourcing :authoritative,
+  :filing-year 1988,
+  :assignee :unassigned,
+  :grant-year 1991,
+  :cites ["US4865968"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:kansai-paint],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US5026793/en",
+  :title "Resin compositions and a method of curing the same",
+  :status :granted,
+  :id "US5026793",
+  :sourcing :authoritative,
+  :filing-year 1989,
+  :assignee :kansai-paint,
+  :grant-year 1991,
+  :cites ["US4657986" "US4889768" "US4923945"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:molecular-diagnostics],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US5026840/en",
+  :title
+  "Photochemical nucleic acid-labeling reagent having a polyalklamine spacer",
+  :status :granted,
+  :id "US5026840",
+  :sourcing :authoritative,
+  :filing-year 1990,
+  :assignee :molecular-diagnostics,
+  :grant-year 1991,
+  :cites
+  ["EP0124221A1"
+   "EP0130515A2"
+   "EP0131830A1"
+   "EP0138357A2"
+   "EP0156287A2"
+   "US4582789"
+   "US4599303"
+   "US4617261"
+   "US4737454"
+   "WO1985002628A1"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:basf-se],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US5049599/en",
+  :title
+  "Flameproofed thermoplastic molding compositions based on phlegmatized red phosphorus",
+  :status :granted,
+  :id "US5049599",
+  :sourcing :authoritative,
+  :filing-year 1990,
+  :assignee :basf-se,
+  :grant-year 1991,
+  :cites
+  ["DE2408488A1"
+   "DE2625674A1"
+   "DE2703052A1"
+   "DE2745076A1"
+   "EP0071788A1"
+   "GB1543511A"
+   "GB1592813A"
+   "US4105735"
+   "US4188313"
+   "US4229340"
+   "US4430484"
+   "US4554320"
+   "US4772642"
+   "US4788249"
+   "US4849476"
+   "US4879067"
+   "US4923924"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:mitsubishi-rayon],
   :jurisdiction :us,
   :field "UNKNOWN",
   :source "https://patents.google.com/patent/US5064695/en",
@@ -449,6 +725,20 @@
    "US5008340"],
   :term-years 20,
   :open-license :none}
+ {:assignees [:stahl-holland-bv],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US5258481/en",
+  :title "Multifunctional water-dispersible crosslinking agents",
+  :status :granted,
+  :id "US5258481",
+  :sourcing :authoritative,
+  :filing-year 1992,
+  :assignee :stahl-holland-bv,
+  :grant-year 1993,
+  :cites ["EP0241805A2" "EP0274402A2" "EP0277361A1"],
+  :term-years 20,
+  :open-license :none}
  {:assignees [:nippon-paint],
   :jurisdiction :us,
   :field "UNKNOWN",
@@ -462,6 +752,29 @@
   :assignee :nippon-paint,
   :grant-year 1993,
   :cites ["US3399109" "US3900440" "US4288493" "US5073602"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:basf],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US5276096/en",
+  :title
+  "Two package coating composition comprising a polycarbodimide with improved rheology control",
+  :status :granted,
+  :id "US5276096",
+  :sourcing :authoritative,
+  :filing-year 1992,
+  :assignee :basf,
+  :grant-year 1994,
+  :cites
+  ["DE2749691A1"
+   "DE3634780A1"
+   "US4321394"
+   "US4487964"
+   "US4503175"
+   "US4522972"
+   "US4587301"
+   "US4966984"],
   :term-years 20,
   :open-license :none}
  {:assignees [:beckman-instruments],
@@ -814,6 +1127,59 @@
    "WO1990015070A1"
    "WO1991006678A1"
    "WO1991007087A1"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:rohm-and-haas],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US5574083/en",
+  :title "Aromatic polycarbodiimide crosslinkers",
+  :status :granted,
+  :id "US5574083",
+  :sourcing :authoritative,
+  :filing-year 1994,
+  :assignee :rohm-and-haas,
+  :grant-year 1996,
+  :cites
+  ["EP0241805A2"
+   "EP0277361A1"
+   "EP0507407A1"
+   "GB1056202A"
+   "US2853473"
+   "US2941983"
+   "US3226368"
+   "US3267137"
+   "US3450562"
+   "US3909333"
+   "US3929733"
+   "US4048128"
+   "US4076945"
+   "US4612054"
+   "US4910339"
+   "US4977219"
+   "US5104928"
+   "US5117059"
+   "US5126422"
+   "US5173528"
+   "US5246993"
+   "US5258481"
+   "US5264518"
+   "US5357021"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:herberts],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US5614584/en",
+  :title
+  "Process for the manufacture of aqueous coating agents, the coating agents and their use",
+  :status :granted,
+  :id "US5614584",
+  :sourcing :authoritative,
+  :filing-year 1996,
+  :assignee :herberts,
+  :grant-year 1997,
+  :cites ["EP0358979A2" "US4066591" "US5194487" "US5280062"],
   :term-years 20,
   :open-license :none}
  {:assignees [:kansai-paint],

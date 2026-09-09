@@ -1,5 +1,153 @@
 [{:jurisdiction :us,
   :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US1348010/en",
+  :title "Furnace",
+  :status :granted,
+  :id "US1348010",
+  :sourcing :authoritative,
+  :assignee :unassigned,
+  :grant-year 1920,
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:gamse-&-bro-h],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US1354018/en",
+  :title "Bronzing-machine",
+  :status :granted,
+  :id "US1354018",
+  :sourcing :authoritative,
+  :filing-year 1919,
+  :assignee :gamse-&-bro-h,
+  :grant-year 1920,
+  :term-years 20,
+  :open-license :none}
+ {:jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US1356890/en",
+  :title "Belt",
+  :status :granted,
+  :id "US1356890",
+  :sourcing :authoritative,
+  :filing-year 1919,
+  :assignee :unassigned,
+  :grant-year 1920,
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:westinghouse-electric],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US1361970/en",
+  :title "Composite-plate-curing machine",
+  :status :granted,
+  :id "US1361970",
+  :sourcing :authoritative,
+  :filing-year 1919,
+  :assignee :westinghouse-electric,
+  :grant-year 1920,
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:firestone-tire-and-rubber],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US1382207/en",
+  :title "Rubber extruding, cooling, and cutting apparatus",
+  :status :granted,
+  :id "US1382207",
+  :sourcing :authoritative,
+  :filing-year 1919,
+  :assignee :firestone-tire-and-rubber,
+  :grant-year 1921,
+  :term-years 20,
+  :open-license :none}
+ {:jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US1383270/en",
+  :title
+  "Means for cooling internal-combustion engines and other machinery",
+  :status :granted,
+  :id "US1383270",
+  :sourcing :authoritative,
+  :filing-year 1918,
+  :assignee :unassigned,
+  :grant-year 1921,
+  :term-years 20,
+  :open-license :none}
+ {:jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US1384457/en",
+  :title "Baggage-tag",
+  :status :granted,
+  :id "US1384457",
+  :sourcing :authoritative,
+  :filing-year 1917,
+  :assignee :unassigned,
+  :grant-year 1921,
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:said-beckwith],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US1391932/en",
+  :title "Shoe-stiffener",
+  :status :granted,
+  :id "US1391932",
+  :sourcing :authoritative,
+  :filing-year 1919,
+  :assignee :said-beckwith,
+  :grant-year 1921,
+  :term-years 20,
+  :open-license :none}
+ {:jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US140693/en",
+  :title "Improvement in self-cleaning tobacco-cutters",
+  :status :granted,
+  :id "US140693",
+  :sourcing :authoritative,
+  :assignee :unassigned,
+  :grant-year 1873,
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:aluminum-seal],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US1422229/en",
+  :title "Feeding mechanism",
+  :status :granted,
+  :id "US1422229",
+  :sourcing :authoritative,
+  :filing-year 1921,
+  :assignee :aluminum-seal,
+  :grant-year 1922,
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:ernest-l-dayton],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US1422545/en",
+  :title "Coating apparatus",
+  :status :granted,
+  :id "US1422545",
+  :sourcing :authoritative,
+  :filing-year 1920,
+  :assignee :ernest-l-dayton,
+  :grant-year 1922,
+  :term-years 20,
+  :open-license :none}
+ {:jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US143122/en",
+  :title "Improvement in fabrics prepared to imitate leather",
+  :status :granted,
+  :id "US143122",
+  :sourcing :authoritative,
+  :assignee :unassigned,
+  :grant-year 1873,
+  :term-years 20,
+  :open-license :none}
+ {:jurisdiction :us,
+  :field "UNKNOWN",
   :source "https://patents.google.com/patent/US1432732/en",
   :title "Drying machine,",
   :status :granted,
@@ -9092,141 +9240,5 @@
   :grant-year 1947,
   :cites
   ["GB191406857A" "US1230095" "US1989879" "US2121205" "US2348686"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:american-cyanamid],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US2434190/en",
-  :title "Purification of fluids with silvered resins",
-  :status :granted,
-  :id "US2434190",
-  :sourcing :authoritative,
-  :filing-year 1942,
-  :assignee :american-cyanamid,
-  :grant-year 1948,
-  :cites
-  ["GB427199A"
-   "US1642089"
-   "US1978447"
-   "US1988246"
-   "US2008131"
-   "US2066271"
-   "US2198378"
-   "US2251234"
-   "US2285750"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:westfield-river-paper],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US2434795/en",
-  :title "Method and machine for laminating",
-  :status :granted,
-  :id "US2434795",
-  :sourcing :authoritative,
-  :filing-year 1944,
-  :assignee :westfield-river-paper,
-  :grant-year 1948,
-  :cites
-  ["US1095757"
-   "US1693934"
-   "US1902713"
-   "US2047372"
-   "US2050382"
-   "US2068893"
-   "US2207073"
-   "US2334485"
-   "US302938"
-   "US318910"
-   "US444821"
-   "US601317"
-   "US695239"
-   "US809375"
-   "US814060"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:joe-a-stone],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US2435239/en",
-  :title "Process for removing resin coating from copper wire",
-  :status :granted,
-  :id "US2435239",
-  :sourcing :authoritative,
-  :filing-year 1945,
-  :assignee :joe-a-stone,
-  :grant-year 1948,
-  :cites ["US1813636" "US2318559" "US2360308"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:firestone-tire-and-rubber],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US2435464/en",
-  :title "Moistureproof polyvinyl films",
-  :status :granted,
-  :id "US2435464",
-  :sourcing :authoritative,
-  :filing-year 1944,
-  :assignee :firestone-tire-and-rubber,
-  :grant-year 1948,
-  :cites ["GB497001A" "US2034020" "US2098535" "US2147629"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:ei-du-pont-de-nemours-and],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US2436222/en",
-  :title "Adhesive cement compositions",
-  :status :granted,
-  :id "US2436222",
-  :sourcing :authoritative,
-  :filing-year 1943,
-  :assignee :ei-du-pont-de-nemours-and,
-  :grant-year 1948,
-  :cites ["US2277083" "US2313945" "US2356005"],
-  :term-years 20,
-  :open-license :none}
- {:jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US2436252/en",
-  :title "Grinding apparatus and process",
-  :status :granted,
-  :id "US2436252",
-  :sourcing :authoritative,
-  :filing-year 1946,
-  :assignee :unassigned,
-  :grant-year 1948,
-  :cites
-  ["GB311931A"
-   "US1757612"
-   "US1850054"
-   "US2032901"
-   "US2091655"
-   "US2386623"
-   "US344777"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:johns-manville],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US2436262/en",
-  :title "Apparatus for measuring turbidity photoelectrically",
-  :status :granted,
-  :id "US2436262",
-  :sourcing :authoritative,
-  :filing-year 1944,
-  :assignee :johns-manville,
-  :grant-year 1948,
-  :cites
-  ["FR852120A"
-   "US1864092"
-   "US1971443"
-   "US2045124"
-   "US2165054"
-   "US2254782"
-   "US2263938"
-   "US2301367"],
   :term-years 20,
   :open-license :none}]

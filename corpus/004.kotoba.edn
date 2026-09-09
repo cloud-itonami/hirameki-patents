@@ -1,4 +1,139 @@
-[{:assignees [:roche-palo-alto],
+[{:jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3276589/en",
+  :title "Apparatus for maintenance and treatment of blood in vitro",
+  :status :granted,
+  :id "US3276589",
+  :sourcing :authoritative,
+  :filing-year 1961,
+  :assignee :unassigned,
+  :grant-year 1966,
+  :cites
+  ["US2969150"
+   "US2982416"
+   "US3002887"
+   "US3003918"
+   "US3052238"
+   "US3064647"
+   "US3110308"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:yeda-research-and-development],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3278392/en",
+  :title "Water insoluble enzymes",
+  :status :granted,
+  :id "US3278392",
+  :sourcing :authoritative,
+  :filing-year 1963,
+  :assignee :yeda-research-and-development,
+  :grant-year 1966,
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:roche-palo-alto],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3280104/en",
+  :title
+  "2&#39;, 3&#39;-dideoxyribonucleoside and 2&#39;, 3&#39;-dideoxyribonucleotide derivatives",
+  :status :granted,
+  :id "US3280104",
+  :sourcing :authoritative,
+  :filing-year 1964,
+  :assignee :roche-palo-alto,
+  :grant-year 1966,
+  :cites ["US3079379" "US3155646" "US3171833"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:dow-chemical],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3281307/en",
+  :title "Packing",
+  :status :granted,
+  :id "US3281307",
+  :sourcing :authoritative,
+  :filing-year 1962,
+  :assignee :dow-chemical,
+  :grant-year 1966,
+  :cites ["GB157332A" "US1908389" "US1967026" "US752775"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:telefunken-patentverwertungs],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3281628/en",
+  :title "Automated semiconductor device method and structure",
+  :status :granted,
+  :id "US3281628",
+  :sourcing :authoritative,
+  :filing-year 1965,
+  :assignee :telefunken-patentverwertungs,
+  :grant-year 1966,
+  :cites
+  ["US2434967"
+   "US2750654"
+   "US3025439"
+   "US3118016"
+   "US3171187"
+   "US3184658"],
+  :term-years 20,
+  :open-license :none}
+ {:jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3282726/en",
+  :title "Method of impregnating leather and resultant article",
+  :status :granted,
+  :id "US3282726",
+  :sourcing :authoritative,
+  :filing-year 1963,
+  :assignee :unassigned,
+  :grant-year 1966,
+  :cites ["US1203303" "US2159704" "US2933418" "US3027276" "US3178310"],
+  :term-years 20,
+  :open-license :none}
+ {:jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3282761/en",
+  :title "Molding method, apparatus and product",
+  :status :granted,
+  :id "US3282761",
+  :sourcing :authoritative,
+  :filing-year 1963,
+  :assignee :unassigned,
+  :grant-year 1966,
+  :cites
+  ["US1277845"
+   "US1322034"
+   "US1463841"
+   "US2417586"
+   "US2420488"
+   "US2809415"
+   "US2811408"
+   "US2815309"
+   "US2868684"
+   "US2905579"
+   "US2956292"
+   "US3070817"
+   "US3083665"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:asahi-chemical-industry],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3282920/en",
+  :title "Method for producing 5&#39;-nucleotides",
+  :status :granted,
+  :id "US3282920",
+  :sourcing :authoritative,
+  :filing-year 1964,
+  :assignee :asahi-chemical-industry,
+  :grant-year 1966,
+  :cites ["DE1119278B" "US2482069" "US2645637"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:roche-palo-alto],
   :jurisdiction :us,
   :field "UNKNOWN",
   :source "https://patents.google.com/patent/US3282921/en",
@@ -5006,6 +5141,19 @@
   :grant-year 1971,
   :term-years 20,
   :open-license :none}
+ {:assignees [:imperial-chemical-industries],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3560254/en",
+  :title "Grafting polymers on glass and like siliceous materials",
+  :status :granted,
+  :id "US3560254",
+  :sourcing :authoritative,
+  :filing-year 1966,
+  :assignee :imperial-chemical-industries,
+  :grant-year 1971,
+  :term-years 20,
+  :open-license :none}
  {:assignees [:motorola],
   :jurisdiction :us,
   :field "UNKNOWN",
@@ -8980,163 +9128,5 @@
   :assignee :international-business-machines,
   :grant-year 1973,
   :cites ["US2443373" "US3705055"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:tokyo-shibaura-electric],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3767494/en",
-  :title
-  "Method for manufacturing a semiconductor photosensitive device",
-  :status :granted,
-  :id "US3767494",
-  :sourcing :authoritative,
-  :filing-year 1971,
-  :assignee :tokyo-shibaura-electric,
-  :grant-year 1973,
-  :cites ["US3616345" "US3616348"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:wacker-chemie],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3769251/en",
-  :title
-  "Process for the preparation of aqueous styrene/acrylic acid ester copolymer dispersions",
-  :status :granted,
-  :id "US3769251",
-  :sourcing :authoritative,
-  :filing-year 1971,
-  :assignee :wacker-chemie,
-  :grant-year 1973,
-  :term-years 20,
-  :open-license :none}
- {:assignees [:united-states-department-of-the-army],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3770380/en",
-  :title "Article and method for multiple immune adherence assay",
-  :status :granted,
-  :id "US3770380",
-  :sourcing :authoritative,
-  :filing-year 1971,
-  :assignee :united-states-department-of-the-army,
-  :grant-year 1973,
-  :cites ["US3415361" "US3502437" "US3666421"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:ei-du-pont-de-nemours-and],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3770382/en",
-  :title "Automatic clinical analyzer",
-  :status :granted,
-  :id "US3770382",
-  :sourcing :authoritative,
-  :filing-year 1971,
-  :assignee :ei-du-pont-de-nemours-and,
-  :grant-year 1973,
-  :cites
-  ["US3476515"
-   "US3497320"
-   "US3504376"
-   "US3532469"
-   "US3540858"
-   "US3556731"
-   "US3589867"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:akzona],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3770383/en",
-  :title "Diagnostic test slide",
-  :status :granted,
-  :id "US3770383",
-  :sourcing :authoritative,
-  :filing-year 1971,
-  :assignee :akzona,
-  :grant-year 1973,
-  :cites
-  ["GB953414A"
-   "US3502437"
-   "US3549328"
-   "US3616251"
-   "US3672845"
-   "US3697227"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:rca],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3770434/en",
-  :title
-  "Method for making an image screen structure for an apertured-mask cathode-ray tube using a mask having temporary apertures",
-  :status :granted,
-  :id "US3770434",
-  :sourcing :authoritative,
-  :filing-year 1971,
-  :assignee :rca,
-  :grant-year 1973,
-  :cites
-  ["US2750524"
-   "US2961314"
-   "US2971117"
-   "US3070441"
-   "US3231380"
-   "US3574013"
-   "US3600213"
-   "US3653901"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:basf-se],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3770491/en",
-  :title "System hardenable by ionizing radiation",
-  :status :granted,
-  :id "US3770491",
-  :sourcing :authoritative,
-  :filing-year 1971,
-  :assignee :basf-se,
-  :grant-year 1973,
-  :cites ["US3425977" "US3448089" "US3542587" "US3650978"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:lewis-engineering],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3770965/en",
-  :title
-  "Photosensitive control apparatus with movable light control member",
-  :status :granted,
-  :id "US3770965",
-  :sourcing :authoritative,
-  :filing-year 1972,
-  :assignee :lewis-engineering,
-  :grant-year 1973,
-  :cites
-  ["US1880020"
-   "US2199071"
-   "US2216472"
-   "US2524807"
-   "US2753487"
-   "US3155830"
-   "US3651324"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:technicon-instruments],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3772154/en",
-  :title
-  "Method and apparatus for automated antibiotic susceptibility analysis of bacteria samples",
-  :status :granted,
-  :id "US3772154",
-  :sourcing :authoritative,
-  :filing-year 1971,
-  :assignee :technicon-instruments,
-  :grant-year 1973,
-  :cites ["US3014848" "US3437447" "US3511573"],
   :term-years 20,
   :open-license :none}]
