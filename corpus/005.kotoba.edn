@@ -1,4 +1,105 @@
-[{:assignees [:beckman-instruments],
+[{:assignees [:produits-chimiques-pechiney-saint-gobain],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3784586/en",
+  :title
+  "Copolymerizable composition of oligo-esters having maleic acid end groups and vinyl monomers",
+  :status :granted,
+  :id "US3784586",
+  :sourcing :authoritative,
+  :filing-year 1970,
+  :assignee :produits-chimiques-pechiney-saint-gobain,
+  :grant-year 1974,
+  :term-years 20,
+  :open-license :none}
+ {:jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3785635/en",
+  :title "Workpiece hold-down jaws with constant dimension",
+  :status :granted,
+  :id "US3785635",
+  :sourcing :authoritative,
+  :filing-year 1971,
+  :assignee :unassigned,
+  :grant-year 1974,
+  :cites ["FR1277203A" "US2274428" "US2861492" "US3514092"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:blowitz-m :magnor :pastin-m],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3785772/en",
+  :title "Blood analyzer",
+  :status :granted,
+  :id "US3785772",
+  :sourcing :authoritative,
+  :filing-year 1971,
+  :assignee :blowitz-m,
+  :grant-year 1974,
+  :cites ["US3130156" "US3211645" "US3591493" "US3660037" "US3682596"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:sci-systems],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3786681/en",
+  :title
+  "Electromagnetic wave modulation and measurement system and method",
+  :status :granted,
+  :id "US3786681",
+  :sourcing :authoritative,
+  :filing-year 1971,
+  :assignee :sci-systems,
+  :grant-year 1974,
+  :cites ["US3463924" "US3473031" "US3506362" "US3517560" "US3625589"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:caen-faculte-des-sciences-university-of],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3787119/en",
+  :title
+  "Catheterizable multiple photometer usable in any penetrable medium",
+  :status :granted,
+  :id "US3787119",
+  :sourcing :authoritative,
+  :filing-year 1972,
+  :assignee :caen-faculte-des-sciences-university-of,
+  :grant-year 1974,
+  :cites
+  ["FR1526973A"
+   "US3068742"
+   "US3123066"
+   "US3300385"
+   "US3437747"
+   "US3461856"],
+  :term-years 20,
+  :open-license :none}
+ {:jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3787290/en",
+  :title
+  "Method and means for assaying biological factors demonstrating quantal response",
+  :status :granted,
+  :id "US3787290",
+  :sourcing :authoritative,
+  :filing-year 1972,
+  :assignee :unassigned,
+  :grant-year 1974,
+  :cites
+  ["US2129754"
+   "US2771398"
+   "US2904474"
+   "US2956931"
+   "US3001914"
+   "US3043669"
+   "US3107204"
+   "US3389966"
+   "US3480400"
+   "US3509026"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:beckman-instruments],
   :jurisdiction :us,
   :field "UNKNOWN",
   :source "https://patents.google.com/patent/US3787309/en",
@@ -22,6 +123,20 @@
   :id "US3787521",
   :sourcing :authoritative,
   :filing-year 1971,
+  :assignee :ford-motor,
+  :grant-year 1974,
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:ford-motor],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3787522/en",
+  :title
+  "Acrylate polymer particles comprising a core,an outer shell,and an intermediate layer",
+  :status :granted,
+  :id "US3787522",
+  :sourcing :authoritative,
+  :filing-year 1972,
   :assignee :ford-motor,
   :grant-year 1974,
   :term-years 20,
@@ -3126,6 +3241,21 @@
   :cites ["US3037955" "US3234303" "US3703402"],
   :term-years 20,
   :open-license :none}
+ {:assignees [:toray-industries],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3914472/en",
+  :title
+  "Process for metallizing the surface of a polyamide resin molded article",
+  :status :granted,
+  :id "US3914472",
+  :sourcing :authoritative,
+  :filing-year 1974,
+  :assignee :toray-industries,
+  :grant-year 1975,
+  :cites ["US3393087" "US3646749" "US3678128"],
+  :term-years 20,
+  :open-license :none}
  {:assignees [:icn-pharmaceuticals],
   :jurisdiction :us,
   :field "UNKNOWN",
@@ -3345,6 +3475,29 @@
   :assignee :texas-instruments,
   :grant-year 1975,
   :cites ["US3602781" "US3756861" "US3793088" "US3853634"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:hoechst],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3925507/en",
+  :title
+  "Heat-curable pulverulent coating agent consisting of a mixture of copolymers containing glycidyl groups, dicarboxylic acid anhydrides and curing accelerators",
+  :status :granted,
+  :id "US3925507",
+  :sourcing :authoritative,
+  :filing-year 1974,
+  :assignee :hoechst,
+  :grant-year 1975,
+  :cites
+  ["US3541055"
+   "US3730930"
+   "US3752870"
+   "US3758632"
+   "US3770848"
+   "US3781379"
+   "US3781380"
+   "US3787521"],
   :term-years 20,
   :open-license :none}
  {:assignees [:bell-telephone-laboratories],
@@ -5119,6 +5272,20 @@
   :cites ["DE1959169A1"],
   :term-years 20,
   :open-license :none}
+ {:assignees [:rohm-and-haas],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3985703/en",
+  :title "Process for manufacture of acrylic core/shell polymers",
+  :status :granted,
+  :id "US3985703",
+  :sourcing :authoritative,
+  :filing-year 1975,
+  :assignee :rohm-and-haas,
+  :grant-year 1976,
+  :cites ["GB723315A" "GB901167A" "US3678133"],
+  :term-years 20,
+  :open-license :none}
  {:jurisdiction :us,
   :field "UNKNOWN",
   :source "https://patents.google.com/patent/US3988115/en",
@@ -5146,6 +5313,20 @@
   :assignee :american-cyanamid,
   :grant-year 1976,
   :cites ["US3297033" "US3773919" "US3887699"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:ford-motor],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3992477/en",
+  :title "Protective coating composition",
+  :status :granted,
+  :id "US3992477",
+  :sourcing :authoritative,
+  :filing-year 1974,
+  :assignee :ford-motor,
+  :grant-year 1976,
+  :cites ["US2934555" "US3030347" "US3437514" "US3542586"],
   :term-years 20,
   :open-license :none}
  {:assignees [:istituto-farmacologico-serono-spa],
@@ -7718,6 +7899,33 @@
   :cites ["US3860672" "US3939049"],
   :term-years 20,
   :open-license :none}
+ {:assignees [:avery-international],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US4101698/en",
+  :title "Elastomeric reflective metal surfaces",
+  :status :granted,
+  :id "US4101698",
+  :sourcing :authoritative,
+  :filing-year 1975,
+  :assignee :avery-international,
+  :grant-year 1978,
+  :cites
+  ["US2039372"
+   "US2680695"
+   "US3076727"
+   "US3152950"
+   "US3223554"
+   "US3493257"
+   "US3590768"
+   "US3687792"
+   "US3720567"
+   "US3744835"
+   "US3770545"
+   "US3843475"
+   "US3915809"],
+  :term-years 20,
+  :open-license :none}
  {:assignees [:merck-and],
   :jurisdiction :us,
   :field "UNKNOWN",
@@ -8336,6 +8544,20 @@
   :assignee :syva,
   :grant-year 1978,
   :cites ["US3935074"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:airco],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US4131530/en",
+  :title "Sputtered chromium-alloy coating for plastic",
+  :status :granted,
+  :id "US4131530",
+  :sourcing :authoritative,
+  :filing-year 1977,
+  :assignee :airco,
+  :grant-year 1978,
+  :cites ["SU264102A1" "US2993806" "US4022947" "US4028206"],
   :term-years 20,
   :open-license :none}
  {:assignees [:ei-du-pont-de-nemours-and],
@@ -9180,234 +9402,5 @@
   :assignee :merck-and,
   :grant-year 1979,
   :cites ["US3950360"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:mitsui-petrochemical-industries],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US4174335/en",
-  :title
-  "Aqueous dispersions of olefinic resin compositions and process for preparation thereof",
-  :status :granted,
-  :id "US4174335",
-  :sourcing :authoritative,
-  :filing-year 1976,
-  :assignee :mitsui-petrochemical-industries,
-  :grant-year 1979,
-  :cites
-  ["US2496989"
-   "US3356629"
-   "US3475369"
-   "US3483276"
-   "US3485785"
-   "US3658948"
-   "US3689445"
-   "US3769151"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:syva],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US4174384/en",
-  :title
-  "Fluorescence quenching with immunological pairs in immunoassays",
-  :status :granted,
-  :id "US4174384",
-  :sourcing :authoritative,
-  :filing-year 1976,
-  :assignee :syva,
-  :grant-year 1979,
-  :cites ["US3992631" "US3996345" "US3998943"],
-  :term-years 20,
-  :open-license :none}
- {:jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US4174385/en",
-  :title
-  "Method of identification of surface proteins of cancer cells, clinical test and method of immunization",
-  :status :granted,
-  :id "US4174385",
-  :sourcing :authoritative,
-  :filing-year 1976,
-  :assignee :unassigned,
-  :grant-year 1979,
-  :cites ["US4041023"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:ppg-industries],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US4175018/en",
-  :title "Method of electrocoating",
-  :status :granted,
-  :id "US4175018",
-  :sourcing :authoritative,
-  :filing-year 1977,
-  :assignee :ppg-industries,
-  :grant-year 1979,
-  :cites ["US3340172" "US3663383"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:pharmacia-fine-chemicals],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US4175073/en",
-  :title "Reactive derivatives of HS-group-containing polymers",
-  :status :granted,
-  :id "US4175073",
-  :sourcing :authoritative,
-  :filing-year 1978,
-  :assignee :pharmacia-fine-chemicals,
-  :grant-year 1979,
-  :cites ["US3666739" "US3947352"],
-  :term-years 20,
-  :open-license :none}
- {:jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US4175662/en",
-  :title
-  "Method and device for sorting particles suspended in an electrolyte",
-  :status :granted,
-  :id "US4175662",
-  :sourcing :authoritative,
-  :filing-year 1978,
-  :assignee :unassigned,
-  :grant-year 1979,
-  :cites
-  ["US3514217"
-   "US3560754"
-   "US3791517"
-   "US3826364"
-   "US3827555"
-   "US4009782"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:burroughs-wellcome-usa],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US4176174/en",
-  :title "Viral antibody diagnostic test system",
-  :status :granted,
-  :id "US4176174",
-  :sourcing :authoritative,
-  :filing-year 1978,
-  :assignee :burroughs-wellcome-usa,
-  :grant-year 1979,
-  :cites ["US3715427" "US3843777"],
-  :term-years 20,
-  :open-license :none}
- {:assignees
-  [:max-planck-gesellschaft-zur-foerderung-der-wissenschaften-ev],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US4177038/en",
-  :title
-  "Method for the production of a vehicle substance which is capable of covalent bonding with biologically active matter",
-  :status :granted,
-  :id "US4177038",
-  :sourcing :authoritative,
-  :filing-year 1977,
-  :assignee
-  :max-planck-gesellschaft-zur-foerderung-der-wissenschaften-ev,
-  :grant-year 1979,
-  :cites
-  ["US3574062"
-   "US3672955"
-   "US3705084"
-   "US3905923"
-   "US3929574"
-   "US3947352"
-   "US3950222"
-   "US4063017"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:imperial-chemical-industries],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US4177253/en",
-  :title "Magnetic particles for immunoassay",
-  :status :granted,
-  :id "US4177253",
-  :sourcing :authoritative,
-  :filing-year 1977,
-  :assignee :imperial-chemical-industries,
-  :grant-year 1979,
-  :cites
-  ["US2939804"
-   "US3175935"
-   "US3505785"
-   "US3622367"
-   "US3700499"
-   "US3853987"
-   "US3977984"
-   "US4001288"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:bayer],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US4178279/en",
-  :title "Permanently stabilized polyurethanes",
-  :status :granted,
-  :id "US4178279",
-  :sourcing :authoritative,
-  :filing-year 1977,
-  :assignee :bayer,
-  :grant-year 1979,
-  :cites ["US2871226" "US2917486" "US3684765"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:behringwerke],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US4178368/en",
-  :title "Method for the treatment of thromboembolism",
-  :status :granted,
-  :id "US4178368",
-  :sourcing :authoritative,
-  :filing-year 1978,
-  :assignee :behringwerke,
-  :grant-year 1979,
-  :term-years 20,
-  :open-license :none}
- {:assignees [:electric-power-research-institute],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US4179927/en",
-  :title "Temperature sensing device",
-  :status :granted,
-  :id "US4179927",
-  :sourcing :authoritative,
-  :filing-year 1977,
-  :assignee :electric-power-research-institute,
-  :grant-year 1979,
-  :cites
-  ["US3513704"
-   "US3591810"
-   "US3672221"
-   "US3770965"
-   "US3863067"
-   "US3960017"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:becton-dickinson-and],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US4180383/en",
-  :title "Chamber holder for immobilized immunoadsorbent",
-  :status :granted,
-  :id "US4180383",
-  :sourcing :authoritative,
-  :filing-year 1977,
-  :assignee :becton-dickinson-and,
-  :grant-year 1979,
-  :cites
-  ["US3492396"
-   "US3652761"
-   "US3843444"
-   "US3849830"
-   "US3932141"
-   "US4052010"
-   "US4053284"],
   :term-years 20,
   :open-license :none}]

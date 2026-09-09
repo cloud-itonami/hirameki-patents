@@ -1,4 +1,46 @@
-[[":db/add"
+[[":db/add" "hirameki-patent:US2217049" ":hirameki/derived" true]
+ [":db/add"
+  "hirameki-patent:US2217049"
+  ":hirameki.obs/years-to-expiry"
+  -68]
+ [":db/add"
+  "hirameki-patent:US2217049"
+  ":hirameki/source"
+  "https://patents.google.com/patent/US2217049/en"]
+ [":db/add"
+  "hirameki-patent:US2218249"
+  ":hirameki.patent/title"
+  "Production of pigmented film"]
+ [":db/add"
+  "hirameki-patent:US2218249"
+  ":hirameki.patent/jurisdiction"
+  ":us"]
+ [":db/add"
+  "hirameki-patent:US2218249"
+  ":hirameki.patent/field"
+  "UNKNOWN"]
+ [":db/add"
+  "hirameki-patent:US2218249"
+  ":hirameki.patent/assignee"
+  ":eastman-kodak"]
+ [":db/add"
+  "hirameki-patent:US2218249"
+  ":hirameki.patent/status"
+  ":granted"]
+ [":db/add"
+  "hirameki-patent:US2218249"
+  ":hirameki.patent/open-license"
+  ":none"]
+ [":db/add"
+  "hirameki-patent:US2218249"
+  ":hirameki.obs/release-status"
+  ":public-domain"]
+ [":db/add"
+  "hirameki-patent:US2218249"
+  ":hirameki/sourcing"
+  ":authoritative"]
+ [":db/add" "hirameki-patent:US2218249" ":hirameki/derived" true]
+ [":db/add"
   "hirameki-patent:US2218249"
   ":hirameki.obs/years-to-expiry"
   -67]
@@ -10399,46 +10441,4 @@
  [":db/add"
   "hirameki-patent:US2385366"
   ":hirameki/sourcing"
-  ":authoritative"]
- [":db/add" "hirameki-patent:US2385366" ":hirameki/derived" true]
- [":db/add"
-  "hirameki-patent:US2385366"
-  ":hirameki.obs/years-to-expiry"
-  -67]
- [":db/add"
-  "hirameki-patent:US2385366"
-  ":hirameki/source"
-  "https://patents.google.com/patent/US2385366/en"]
- [":db/add"
-  "hirameki-patent:US2385931"
-  ":hirameki.patent/title"
-  "Unsaturated esters and polymers thereof"]
- [":db/add"
-  "hirameki-patent:US2385931"
-  ":hirameki.patent/jurisdiction"
-  ":us"]
- [":db/add"
-  "hirameki-patent:US2385931"
-  ":hirameki.patent/field"
-  "UNKNOWN"]
- [":db/add"
-  "hirameki-patent:US2385931"
-  ":hirameki.patent/assignee"
-  ":pittsburgh-plate-glass"]
- [":db/add"
-  "hirameki-patent:US2385931"
-  ":hirameki.patent/status"
-  ":granted"]
- [":db/add"
-  "hirameki-patent:US2385931"
-  ":hirameki.patent/open-license"
-  ":none"]
- [":db/add"
-  "hirameki-patent:US2385931"
-  ":hirameki.obs/release-status"
-  ":public-domain"]
- [":db/add"
-  "hirameki-patent:US2385931"
-  ":hirameki/sourcing"
-  ":authoritative"]
- [":db/add" "hirameki-patent:US2385931" ":hirameki/derived" true]]
+  ":authoritative"]]

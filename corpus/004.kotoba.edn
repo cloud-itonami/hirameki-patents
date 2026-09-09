@@ -1,4 +1,80 @@
-[{:assignees [:marconi],
+[{:assignees [:molins-machine],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3291137/en",
+  :title "Tobacco manipulating machinery",
+  :status :granted,
+  :id "US3291137",
+  :sourcing :authoritative,
+  :filing-year 1965,
+  :assignee :molins-machine,
+  :grant-year 1966,
+  :cites
+  ["FR1179992A"
+   "GB764551A"
+   "US1808795"
+   "US2467248"
+   "US2617426"
+   "US2932300"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:rca],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3291600/en",
+  :title "Electrophotographic recording element and method of making",
+  :status :granted,
+  :id "US3291600",
+  :sourcing :authoritative,
+  :filing-year 1963,
+  :assignee :rca,
+  :grant-year 1966,
+  :cites
+  ["US2413973"
+   "US2453770"
+   "US2484529"
+   "US3036930"
+   "US3050413"
+   "US3060024"
+   "US3061458"
+   "US3073953"
+   "US3089953"
+   "US3094619"
+   "US3097096"
+   "US3100702"
+   "US3104983"
+   "US3140948"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:continental-oil],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3294652/en",
+  :title "Measurement of sulfuric acid and oleum concentration",
+  :status :granted,
+  :id "US3294652",
+  :sourcing :authoritative,
+  :filing-year 1963,
+  :assignee :continental-oil,
+  :grant-year 1966,
+  :cites ["US2912367" "US2930967"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:hewlett-packard],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3294988/en",
+  :title "Transducers",
+  :status :granted,
+  :id "US3294988",
+  :sourcing :authoritative,
+  :filing-year 1964,
+  :assignee :hewlett-packard,
+  :grant-year 1966,
+  :cites ["US2554270" "US2952786" "US3164004" "US3209081"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:marconi],
   :jurisdiction :us,
   :field "UNKNOWN",
   :source "https://patents.google.com/patent/US3295022/en",
@@ -1773,6 +1849,20 @@
  {:assignees [:monsanto],
   :jurisdiction :us,
   :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3401134/en",
+  :title "Polymer latices of high viscosity",
+  :status :granted,
+  :id "US3401134",
+  :sourcing :authoritative,
+  :filing-year 1964,
+  :assignee :monsanto,
+  :grant-year 1968,
+  :cites ["US2767153" "US2859201" "US2962465" "US3073791" "US3296175"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:monsanto],
+  :jurisdiction :us,
+  :field "UNKNOWN",
   :source "https://patents.google.com/patent/US3401213/en",
   :title
   "Graft copolymers of diene rubber substrate and hydroxylic polymer superstrate",
@@ -2796,6 +2886,21 @@
   :assignee :hercules,
   :grant-year 1969,
   :cites ["US3069382"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:imperial-chemical-industries],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3458603/en",
+  :title
+  "Polymeric styrene or alkyl methacrylate copolymers made by 3-stage granular polymerization process",
+  :status :granted,
+  :id "US3458603",
+  :sourcing :authoritative,
+  :filing-year 1966,
+  :assignee :imperial-chemical-industries,
+  :grant-year 1969,
+  :cites ["GB986865A" "US3251904" "US3290265"],
   :term-years 20,
   :open-license :none}
  {:assignees [:schlumberger-technology],
@@ -5717,6 +5822,20 @@
    "US3266298"
    "US3368872"
    "US3476515"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:borg-warner],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3620804/en",
+  :title "Metal plating of thermoplastics",
+  :status :granted,
+  :id "US3620804",
+  :sourcing :authoritative,
+  :filing-year 1969,
+  :assignee :borg-warner,
+  :grant-year 1971,
+  :cites ["US2668134" "US3112199" "US3286009" "US3317339" "US3471313"],
   :term-years 20,
   :open-license :none}
  {:assignees [:formica],
@@ -9015,106 +9134,5 @@
   :filing-year 1972,
   :assignee :sinclair-koppers,
   :grant-year 1974,
-  :term-years 20,
-  :open-license :none}
- {:assignees [:produits-chimiques-pechiney-saint-gobain],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3784586/en",
-  :title
-  "Copolymerizable composition of oligo-esters having maleic acid end groups and vinyl monomers",
-  :status :granted,
-  :id "US3784586",
-  :sourcing :authoritative,
-  :filing-year 1970,
-  :assignee :produits-chimiques-pechiney-saint-gobain,
-  :grant-year 1974,
-  :term-years 20,
-  :open-license :none}
- {:jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3785635/en",
-  :title "Workpiece hold-down jaws with constant dimension",
-  :status :granted,
-  :id "US3785635",
-  :sourcing :authoritative,
-  :filing-year 1971,
-  :assignee :unassigned,
-  :grant-year 1974,
-  :cites ["FR1277203A" "US2274428" "US2861492" "US3514092"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:blowitz-m :magnor :pastin-m],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3785772/en",
-  :title "Blood analyzer",
-  :status :granted,
-  :id "US3785772",
-  :sourcing :authoritative,
-  :filing-year 1971,
-  :assignee :blowitz-m,
-  :grant-year 1974,
-  :cites ["US3130156" "US3211645" "US3591493" "US3660037" "US3682596"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:sci-systems],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3786681/en",
-  :title
-  "Electromagnetic wave modulation and measurement system and method",
-  :status :granted,
-  :id "US3786681",
-  :sourcing :authoritative,
-  :filing-year 1971,
-  :assignee :sci-systems,
-  :grant-year 1974,
-  :cites ["US3463924" "US3473031" "US3506362" "US3517560" "US3625589"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:caen-faculte-des-sciences-university-of],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3787119/en",
-  :title
-  "Catheterizable multiple photometer usable in any penetrable medium",
-  :status :granted,
-  :id "US3787119",
-  :sourcing :authoritative,
-  :filing-year 1972,
-  :assignee :caen-faculte-des-sciences-university-of,
-  :grant-year 1974,
-  :cites
-  ["FR1526973A"
-   "US3068742"
-   "US3123066"
-   "US3300385"
-   "US3437747"
-   "US3461856"],
-  :term-years 20,
-  :open-license :none}
- {:jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3787290/en",
-  :title
-  "Method and means for assaying biological factors demonstrating quantal response",
-  :status :granted,
-  :id "US3787290",
-  :sourcing :authoritative,
-  :filing-year 1972,
-  :assignee :unassigned,
-  :grant-year 1974,
-  :cites
-  ["US2129754"
-   "US2771398"
-   "US2904474"
-   "US2956931"
-   "US3001914"
-   "US3043669"
-   "US3107204"
-   "US3389966"
-   "US3480400"
-   "US3509026"],
   :term-years 20,
   :open-license :none}]

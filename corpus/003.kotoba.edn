@@ -2238,6 +2238,20 @@
   :cites ["US2843914" "US2844640" "US2876202" "US2879182" "US2879362"],
   :term-years 20,
   :open-license :none}
+ {:assignees [:eltex-chemical],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2937940/en",
+  :title "Selective stripping of electroplated metals",
+  :status :granted,
+  :id "US2937940",
+  :sourcing :authoritative,
+  :filing-year 1957,
+  :assignee :eltex-chemical,
+  :grant-year 1960,
+  :cites ["US2033444" "US2132511" "US2649361" "US2698781"],
+  :term-years 20,
+  :open-license :none}
  {:assignees [:union-carbide],
   :jurisdiction :us,
   :field "UNKNOWN",
@@ -3657,6 +3671,43 @@
    "US2540674"
    "US2662211"
    "US2759038"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:j-bocuze-&-cie-soc],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2992125/en",
+  :title "Sheet material having a decorative appearance",
+  :status :granted,
+  :id "US2992125",
+  :sourcing :authoritative,
+  :filing-year 1958,
+  :assignee :j-bocuze-&-cie-soc,
+  :grant-year 1961,
+  :cites ["US2689802" "US2740732" "US2776598" "US2865787" "US2930106"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:general-tire-and-rubber],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2993806/en",
+  :title "Metal coating of plastics",
+  :status :granted,
+  :id "US2993806",
+  :sourcing :authoritative,
+  :filing-year 1956,
+  :assignee :general-tire-and-rubber,
+  :grant-year 1961,
+  :cites
+  ["US2234621"
+   "US2714569"
+   "US2728703"
+   "US2742391"
+   "US2776225"
+   "US2776598"
+   "US2823156"
+   "US2834724"
+   "US2872366"],
   :term-years 20,
   :open-license :none}
  {:assignees [:general-electric],
@@ -6334,6 +6385,26 @@
   :assignee :upjohn,
   :grant-year 1963,
   :cites ["US2815342" "US3002965"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:minnesota-mining-and-manufacturing],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3118781/en",
+  :title "Laminate and method of making",
+  :status :granted,
+  :id "US3118781",
+  :sourcing :authoritative,
+  :filing-year 1960,
+  :assignee :minnesota-mining-and-manufacturing,
+  :grant-year 1964,
+  :cites
+  ["DE1060751B"
+   "US2671734"
+   "US2703772"
+   "US2893900"
+   "US2923640"
+   "US2937955"],
   :term-years 20,
   :open-license :none}
  {:assignees [:general-electric],
@@ -9755,81 +9826,5 @@
   :assignee :asahi-chemical-industry,
   :grant-year 1966,
   :cites ["US2891945" "US3079379" "US3157635" "US3157636" "US3157637"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:molins-machine],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3291137/en",
-  :title "Tobacco manipulating machinery",
-  :status :granted,
-  :id "US3291137",
-  :sourcing :authoritative,
-  :filing-year 1965,
-  :assignee :molins-machine,
-  :grant-year 1966,
-  :cites
-  ["FR1179992A"
-   "GB764551A"
-   "US1808795"
-   "US2467248"
-   "US2617426"
-   "US2932300"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:rca],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3291600/en",
-  :title "Electrophotographic recording element and method of making",
-  :status :granted,
-  :id "US3291600",
-  :sourcing :authoritative,
-  :filing-year 1963,
-  :assignee :rca,
-  :grant-year 1966,
-  :cites
-  ["US2413973"
-   "US2453770"
-   "US2484529"
-   "US3036930"
-   "US3050413"
-   "US3060024"
-   "US3061458"
-   "US3073953"
-   "US3089953"
-   "US3094619"
-   "US3097096"
-   "US3100702"
-   "US3104983"
-   "US3140948"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:continental-oil],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3294652/en",
-  :title "Measurement of sulfuric acid and oleum concentration",
-  :status :granted,
-  :id "US3294652",
-  :sourcing :authoritative,
-  :filing-year 1963,
-  :assignee :continental-oil,
-  :grant-year 1966,
-  :cites ["US2912367" "US2930967"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:hewlett-packard],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3294988/en",
-  :title "Transducers",
-  :status :granted,
-  :id "US3294988",
-  :sourcing :authoritative,
-  :filing-year 1964,
-  :assignee :hewlett-packard,
-  :grant-year 1966,
-  :cites ["US2554270" "US2952786" "US3164004" "US3209081"],
   :term-years 20,
   :open-license :none}]

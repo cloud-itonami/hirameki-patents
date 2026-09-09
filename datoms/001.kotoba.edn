@@ -1,4 +1,41 @@
 [[":db/add"
+  "hirameki-patent:FR333561A"
+  ":hirameki.obs/release-status"
+  ":public-domain"]
+ [":db/add"
+  "hirameki-patent:FR333561A"
+  ":hirameki/sourcing"
+  ":authoritative"]
+ [":db/add" "hirameki-patent:FR333561A" ":hirameki/derived" true]
+ [":db/add"
+  "hirameki-patent:FR333561A"
+  ":hirameki.obs/years-to-expiry"
+  -103]
+ [":db/add"
+  "hirameki-patent:FR333561A"
+  ":hirameki/source"
+  "https://patents.google.com/patent/FR333561A/en"]
+ [":db/add"
+  "hirameki-patent:FR501330A"
+  ":hirameki.patent/title"
+  "Method of analysis by differential measurement of the magnetic optical rotation of substances and apparatus for its application for the industrial preparation of pure substances"]
+ [":db/add"
+  "hirameki-patent:FR501330A"
+  ":hirameki.patent/jurisdiction"
+  ":fr"]
+ [":db/add"
+  "hirameki-patent:FR501330A"
+  ":hirameki.patent/field"
+  "UNKNOWN"]
+ [":db/add"
+  "hirameki-patent:FR501330A"
+  ":hirameki.patent/assignee"
+  ":unassigned"]
+ [":db/add"
+  "hirameki-patent:FR501330A"
+  ":hirameki.patent/status"
+  ":granted"]
+ [":db/add"
   "hirameki-patent:FR501330A"
   ":hirameki.patent/open-license"
   ":none"]
@@ -10002,45 +10039,4 @@
  [":db/add"
   "hirameki-patent:JP2004018659A"
   ":hirameki.patent/title"
-  "Aqueous resin dispersion composition and method for producing the same"]
- [":db/add"
-  "hirameki-patent:JP2004018659A"
-  ":hirameki.patent/jurisdiction"
-  ":jp"]
- [":db/add"
-  "hirameki-patent:JP2004018659A"
-  ":hirameki.patent/field"
-  "UNKNOWN"]
- [":db/add"
-  "hirameki-patent:JP2004018659A"
-  ":hirameki.patent/assignee"
-  ":toyo-kasei-kogyo"]
- [":db/add"
-  "hirameki-patent:JP2004018659A"
-  ":hirameki.patent/status"
-  ":pending"]
- [":db/add"
-  "hirameki-patent:JP2004018659A"
-  ":hirameki.patent/open-license"
-  ":none"]
- [":db/add"
-  "hirameki-patent:JP2004018659A"
-  ":hirameki.obs/release-status"
-  ":pending"]
- [":db/add"
-  "hirameki-patent:JP2004018659A"
-  ":hirameki/sourcing"
-  ":authoritative"]
- [":db/add" "hirameki-patent:JP2004018659A" ":hirameki/derived" true]
- [":db/add"
-  "hirameki-patent:JP2004018659A"
-  ":hirameki.obs/years-to-expiry"
-  -4]
- [":db/add"
-  "hirameki-patent:JP2004018659A"
-  ":hirameki/source"
-  "https://patents.google.com/patent/JP2004018659A/en"]
- [":db/add"
-  "hirameki-patent:JP2004026958A"
-  ":hirameki.patent/title"
-  "Aqueous blocked polyisocyanate composition"]]
+  "Aqueous resin dispersion composition and method for producing the same"]]

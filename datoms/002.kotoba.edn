@@ -1,4 +1,45 @@
 [[":db/add"
+  "hirameki-patent:JP2004018659A"
+  ":hirameki.patent/jurisdiction"
+  ":jp"]
+ [":db/add"
+  "hirameki-patent:JP2004018659A"
+  ":hirameki.patent/field"
+  "UNKNOWN"]
+ [":db/add"
+  "hirameki-patent:JP2004018659A"
+  ":hirameki.patent/assignee"
+  ":toyo-kasei-kogyo"]
+ [":db/add"
+  "hirameki-patent:JP2004018659A"
+  ":hirameki.patent/status"
+  ":pending"]
+ [":db/add"
+  "hirameki-patent:JP2004018659A"
+  ":hirameki.patent/open-license"
+  ":none"]
+ [":db/add"
+  "hirameki-patent:JP2004018659A"
+  ":hirameki.obs/release-status"
+  ":pending"]
+ [":db/add"
+  "hirameki-patent:JP2004018659A"
+  ":hirameki/sourcing"
+  ":authoritative"]
+ [":db/add" "hirameki-patent:JP2004018659A" ":hirameki/derived" true]
+ [":db/add"
+  "hirameki-patent:JP2004018659A"
+  ":hirameki.obs/years-to-expiry"
+  -4]
+ [":db/add"
+  "hirameki-patent:JP2004018659A"
+  ":hirameki/source"
+  "https://patents.google.com/patent/JP2004018659A/en"]
+ [":db/add"
+  "hirameki-patent:JP2004026958A"
+  ":hirameki.patent/title"
+  "Aqueous blocked polyisocyanate composition"]
+ [":db/add"
   "hirameki-patent:JP2004026958A"
   ":hirameki.patent/jurisdiction"
   ":jp"]
@@ -10143,49 +10184,4 @@
  [":db/add"
   "hirameki-patent:US1852964"
   ":hirameki.patent/field"
-  "UNKNOWN"]
- [":db/add"
-  "hirameki-patent:US1852964"
-  ":hirameki.patent/assignee"
-  ":buttonless-tire-cover"]
- [":db/add"
-  "hirameki-patent:US1852964"
-  ":hirameki.patent/status"
-  ":granted"]
- [":db/add"
-  "hirameki-patent:US1852964"
-  ":hirameki.patent/open-license"
-  ":none"]
- [":db/add"
-  "hirameki-patent:US1852964"
-  ":hirameki.obs/release-status"
-  ":public-domain"]
- [":db/add"
-  "hirameki-patent:US1852964"
-  ":hirameki/sourcing"
-  ":authoritative"]
- [":db/add" "hirameki-patent:US1852964" ":hirameki/derived" true]
- [":db/add"
-  "hirameki-patent:US1852964"
-  ":hirameki.obs/years-to-expiry"
-  -77]
- [":db/add"
-  "hirameki-patent:US1852964"
-  ":hirameki/source"
-  "https://patents.google.com/patent/US1852964/en"]
- [":db/add"
-  "hirameki-patent:US1853451"
-  ":hirameki.patent/title"
-  "Dry milk machine"]
- [":db/add"
-  "hirameki-patent:US1853451"
-  ":hirameki.patent/jurisdiction"
-  ":us"]
- [":db/add"
-  "hirameki-patent:US1853451"
-  ":hirameki.patent/field"
-  "UNKNOWN"]
- [":db/add"
-  "hirameki-patent:US1853451"
-  ":hirameki.patent/assignee"
-  ":unassigned"]]
+  "UNKNOWN"]]

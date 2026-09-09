@@ -1,4 +1,46 @@
-[[":db/add"
+[[":db/add" "hirameki-patent:US2385366" ":hirameki/derived" true]
+ [":db/add"
+  "hirameki-patent:US2385366"
+  ":hirameki.obs/years-to-expiry"
+  -67]
+ [":db/add"
+  "hirameki-patent:US2385366"
+  ":hirameki/source"
+  "https://patents.google.com/patent/US2385366/en"]
+ [":db/add"
+  "hirameki-patent:US2385931"
+  ":hirameki.patent/title"
+  "Unsaturated esters and polymers thereof"]
+ [":db/add"
+  "hirameki-patent:US2385931"
+  ":hirameki.patent/jurisdiction"
+  ":us"]
+ [":db/add"
+  "hirameki-patent:US2385931"
+  ":hirameki.patent/field"
+  "UNKNOWN"]
+ [":db/add"
+  "hirameki-patent:US2385931"
+  ":hirameki.patent/assignee"
+  ":pittsburgh-plate-glass"]
+ [":db/add"
+  "hirameki-patent:US2385931"
+  ":hirameki.patent/status"
+  ":granted"]
+ [":db/add"
+  "hirameki-patent:US2385931"
+  ":hirameki.patent/open-license"
+  ":none"]
+ [":db/add"
+  "hirameki-patent:US2385931"
+  ":hirameki.obs/release-status"
+  ":public-domain"]
+ [":db/add"
+  "hirameki-patent:US2385931"
+  ":hirameki/sourcing"
+  ":authoritative"]
+ [":db/add" "hirameki-patent:US2385931" ":hirameki/derived" true]
+ [":db/add"
   "hirameki-patent:US2385931"
   ":hirameki.obs/years-to-expiry"
   -65]
@@ -10308,46 +10350,4 @@
  [":db/add"
   "hirameki-patent:US2570478"
   ":hirameki.patent/assignee"
-  ":ei-du-pont-de-nemours-and"]
- [":db/add"
-  "hirameki-patent:US2570478"
-  ":hirameki.patent/status"
-  ":granted"]
- [":db/add"
-  "hirameki-patent:US2570478"
-  ":hirameki.patent/open-license"
-  ":none"]
- [":db/add"
-  "hirameki-patent:US2570478"
-  ":hirameki.obs/release-status"
-  ":public-domain"]
- [":db/add"
-  "hirameki-patent:US2570478"
-  ":hirameki/sourcing"
-  ":authoritative"]
- [":db/add" "hirameki-patent:US2570478" ":hirameki/derived" true]
- [":db/add"
-  "hirameki-patent:US2570478"
-  ":hirameki.obs/years-to-expiry"
-  -58]
- [":db/add"
-  "hirameki-patent:US2570478"
-  ":hirameki/source"
-  "https://patents.google.com/patent/US2570478/en"]
- [":db/add" "hirameki-patent:US2571039" ":hirameki.patent/title" ""]
- [":db/add"
-  "hirameki-patent:US2571039"
-  ":hirameki.patent/jurisdiction"
-  ":us"]
- [":db/add"
-  "hirameki-patent:US2571039"
-  ":hirameki.patent/field"
-  "UNKNOWN"]
- [":db/add"
-  "hirameki-patent:US2571039"
-  ":hirameki.patent/assignee"
-  ":unassigned"]
- [":db/add"
-  "hirameki-patent:US2571039"
-  ":hirameki.patent/status"
-  ":granted"]]
+  ":ei-du-pont-de-nemours-and"]]

@@ -4430,6 +4430,47 @@
   ":hirameki/source"
   "https://patents.google.com/patent/EP0063879A2/en"]
  [":db/add"
+  "hirameki-patent:EP0064228A1"
+  ":hirameki.patent/title"
+  "Binder for hardly inflammable coatings, paints and plasters"]
+ [":db/add"
+  "hirameki-patent:EP0064228A1"
+  ":hirameki.patent/jurisdiction"
+  ":ep"]
+ [":db/add"
+  "hirameki-patent:EP0064228A1"
+  ":hirameki.patent/field"
+  "UNKNOWN"]
+ [":db/add"
+  "hirameki-patent:EP0064228A1"
+  ":hirameki.patent/assignee"
+  ":basf-se"]
+ [":db/add"
+  "hirameki-patent:EP0064228A1"
+  ":hirameki.patent/status"
+  ":pending"]
+ [":db/add"
+  "hirameki-patent:EP0064228A1"
+  ":hirameki.patent/open-license"
+  ":none"]
+ [":db/add"
+  "hirameki-patent:EP0064228A1"
+  ":hirameki.obs/release-status"
+  ":pending"]
+ [":db/add"
+  "hirameki-patent:EP0064228A1"
+  ":hirameki/sourcing"
+  ":authoritative"]
+ [":db/add" "hirameki-patent:EP0064228A1" ":hirameki/derived" true]
+ [":db/add"
+  "hirameki-patent:EP0064228A1"
+  ":hirameki.obs/years-to-expiry"
+  -24]
+ [":db/add"
+  "hirameki-patent:EP0064228A1"
+  ":hirameki/source"
+  "https://patents.google.com/patent/EP0064228A1/en"]
+ [":db/add"
   "hirameki-patent:EP0068875A2"
   ":hirameki.patent/title"
   "Fluorescent chelates and labeled specific binding reagents prepared therefrom"]
@@ -9889,41 +9930,4 @@
  [":db/add"
   "hirameki-patent:FR333561A"
   ":hirameki.patent/open-license"
-  ":none"]
- [":db/add"
-  "hirameki-patent:FR333561A"
-  ":hirameki.obs/release-status"
-  ":public-domain"]
- [":db/add"
-  "hirameki-patent:FR333561A"
-  ":hirameki/sourcing"
-  ":authoritative"]
- [":db/add" "hirameki-patent:FR333561A" ":hirameki/derived" true]
- [":db/add"
-  "hirameki-patent:FR333561A"
-  ":hirameki.obs/years-to-expiry"
-  -103]
- [":db/add"
-  "hirameki-patent:FR333561A"
-  ":hirameki/source"
-  "https://patents.google.com/patent/FR333561A/en"]
- [":db/add"
-  "hirameki-patent:FR501330A"
-  ":hirameki.patent/title"
-  "Method of analysis by differential measurement of the magnetic optical rotation of substances and apparatus for its application for the industrial preparation of pure substances"]
- [":db/add"
-  "hirameki-patent:FR501330A"
-  ":hirameki.patent/jurisdiction"
-  ":fr"]
- [":db/add"
-  "hirameki-patent:FR501330A"
-  ":hirameki.patent/field"
-  "UNKNOWN"]
- [":db/add"
-  "hirameki-patent:FR501330A"
-  ":hirameki.patent/assignee"
-  ":unassigned"]
- [":db/add"
-  "hirameki-patent:FR501330A"
-  ":hirameki.patent/status"
-  ":granted"]]
+  ":none"]]

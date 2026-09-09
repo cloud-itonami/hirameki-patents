@@ -1,4 +1,49 @@
 [[":db/add"
+  "hirameki-patent:US1852964"
+  ":hirameki.patent/assignee"
+  ":buttonless-tire-cover"]
+ [":db/add"
+  "hirameki-patent:US1852964"
+  ":hirameki.patent/status"
+  ":granted"]
+ [":db/add"
+  "hirameki-patent:US1852964"
+  ":hirameki.patent/open-license"
+  ":none"]
+ [":db/add"
+  "hirameki-patent:US1852964"
+  ":hirameki.obs/release-status"
+  ":public-domain"]
+ [":db/add"
+  "hirameki-patent:US1852964"
+  ":hirameki/sourcing"
+  ":authoritative"]
+ [":db/add" "hirameki-patent:US1852964" ":hirameki/derived" true]
+ [":db/add"
+  "hirameki-patent:US1852964"
+  ":hirameki.obs/years-to-expiry"
+  -77]
+ [":db/add"
+  "hirameki-patent:US1852964"
+  ":hirameki/source"
+  "https://patents.google.com/patent/US1852964/en"]
+ [":db/add"
+  "hirameki-patent:US1853451"
+  ":hirameki.patent/title"
+  "Dry milk machine"]
+ [":db/add"
+  "hirameki-patent:US1853451"
+  ":hirameki.patent/jurisdiction"
+  ":us"]
+ [":db/add"
+  "hirameki-patent:US1853451"
+  ":hirameki.patent/field"
+  "UNKNOWN"]
+ [":db/add"
+  "hirameki-patent:US1853451"
+  ":hirameki.patent/assignee"
+  ":unassigned"]
+ [":db/add"
   "hirameki-patent:US1853451"
   ":hirameki.patent/status"
   ":granted"]
@@ -10399,46 +10444,4 @@
  [":db/add"
   "hirameki-patent:US2217049"
   ":hirameki/sourcing"
-  ":authoritative"]
- [":db/add" "hirameki-patent:US2217049" ":hirameki/derived" true]
- [":db/add"
-  "hirameki-patent:US2217049"
-  ":hirameki.obs/years-to-expiry"
-  -68]
- [":db/add"
-  "hirameki-patent:US2217049"
-  ":hirameki/source"
-  "https://patents.google.com/patent/US2217049/en"]
- [":db/add"
-  "hirameki-patent:US2218249"
-  ":hirameki.patent/title"
-  "Production of pigmented film"]
- [":db/add"
-  "hirameki-patent:US2218249"
-  ":hirameki.patent/jurisdiction"
-  ":us"]
- [":db/add"
-  "hirameki-patent:US2218249"
-  ":hirameki.patent/field"
-  "UNKNOWN"]
- [":db/add"
-  "hirameki-patent:US2218249"
-  ":hirameki.patent/assignee"
-  ":eastman-kodak"]
- [":db/add"
-  "hirameki-patent:US2218249"
-  ":hirameki.patent/status"
-  ":granted"]
- [":db/add"
-  "hirameki-patent:US2218249"
-  ":hirameki.patent/open-license"
-  ":none"]
- [":db/add"
-  "hirameki-patent:US2218249"
-  ":hirameki.obs/release-status"
-  ":public-domain"]
- [":db/add"
-  "hirameki-patent:US2218249"
-  ":hirameki/sourcing"
-  ":authoritative"]
- [":db/add" "hirameki-patent:US2218249" ":hirameki/derived" true]]
+  ":authoritative"]]
