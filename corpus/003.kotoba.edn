@@ -1,4 +1,137 @@
-[{:assignees [:commonwealth-engineering-company-of-ohio],
+[{:assignees [:eastman-kodak],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2801171/en",
+  :title "Photographic color former dispersions",
+  :status :granted,
+  :id "US2801171",
+  :sourcing :authoritative,
+  :filing-year 1954,
+  :assignee :eastman-kodak,
+  :grant-year 1957,
+  :cites ["US2322027" "US2478400" "US2699794"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:allied-chemical-and-dye],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2801198/en",
+  :title
+  "Decorative core stock laminating varnishes and phenolic resin core and decorative laminates produced therefrom",
+  :status :granted,
+  :id "US2801198",
+  :sourcing :authoritative,
+  :filing-year 1955,
+  :assignee :allied-chemical-and-dye,
+  :grant-year 1957,
+  :cites ["US2110073" "US2351716" "US2439929" "US2489228" "US2694028"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:bell-telephone-laboratories],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2802760/en",
+  :title
+  "Oxidation of semiconductive surfaces for controlled diffusion",
+  :status :granted,
+  :id "US2802760",
+  :sourcing :authoritative,
+  :filing-year 1955,
+  :assignee :bell-telephone-laboratories,
+  :grant-year 1957,
+  :cites ["US2485069" "US2583681" "US2683676"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:firestone-tire-and-rubber],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2802808/en",
+  :title
+  "Compositions of a styrene-acrylonitrile resin, a graft of styrene and acrylonitrile upon a diene rubber and a diene rubber",
+  :status :granted,
+  :id "US2802808",
+  :sourcing :authoritative,
+  :filing-year 1953,
+  :assignee :firestone-tire-and-rubber,
+  :grant-year 1957,
+  :cites ["US2550139"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:crown-zellerbach],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2804418/en",
+  :title "Overlaid woody material and method of making the same",
+  :status :granted,
+  :id "US2804418",
+  :sourcing :authoritative,
+  :filing-year 1955,
+  :assignee :crown-zellerbach,
+  :grant-year 1957,
+  :cites ["US2319267" "US2343740" "US2497712" "US2656296" "US2666726"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:monsanto-chemicals],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2804441/en",
+  :title
+  "Compositions of methyl ethers of polymethylol melamine and a catalyst",
+  :status :granted,
+  :id "US2804441",
+  :sourcing :authoritative,
+  :filing-year 1954,
+  :assignee :monsanto-chemicals,
+  :grant-year 1957,
+  :cites
+  ["FR1047928A"
+   "GB480339A"
+   "US2197357"
+   "US2582961"
+   "US2645625"
+   "US2684346"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:international-nickel],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2805191/en",
+  :title "Oxygen analysis of gases",
+  :status :granted,
+  :id "US2805191",
+  :sourcing :authoritative,
+  :filing-year 1954,
+  :assignee :international-nickel,
+  :grant-year 1957,
+  :cites ["US2069562" "US2430895" "US2508238" "US2651612"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:exxon-research-and-engineering],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2805718/en",
+  :title "Method for running a tubular member in a well",
+  :status :granted,
+  :id "US2805718",
+  :sourcing :authoritative,
+  :filing-year 1954,
+  :assignee :exxon-research-and-engineering,
+  :grant-year 1957,
+  :cites
+  ["US2058825"
+   "US2171416"
+   "US2179017"
+   "US2352744"
+   "US2571478"
+   "US2636563"
+   "US2656151"
+   "US2673614"
+   "US2690123"
+   "US2698056"
+   "US2749989"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:commonwealth-engineering-company-of-ohio],
   :jurisdiction :us,
   :field "UNKNOWN",
   :source "https://patents.google.com/patent/US2807416/en",
@@ -5941,6 +6074,26 @@
   :cites ["US2802760"],
   :term-years 20,
   :open-license :none}
+ {:assignees [:american-cyanamid],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3066079/en",
+  :title "Methods for purifying plasminogen",
+  :status :granted,
+  :id "US3066079",
+  :sourcing :authoritative,
+  :filing-year 1959,
+  :assignee :american-cyanamid,
+  :grant-year 1962,
+  :cites
+  ["US2897123"
+   "US2923665"
+   "US2939817"
+   "US2985560"
+   "US2996428"
+   "US3003918"],
+  :term-years 20,
+  :open-license :none}
  {:assignees [:ei-du-pont-de-nemours-and],
   :jurisdiction :us,
   :field "UNKNOWN",
@@ -7412,6 +7565,28 @@
    "US2844489"
    "US2974060"
    "US3015640"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:rohm-and-haas],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3136736/en",
+  :title
+  "Compositions comprising polyepoxides and maleic anhydride copolymers",
+  :status :granted,
+  :id "US3136736",
+  :sourcing :authoritative,
+  :filing-year 1959,
+  :assignee :rohm-and-haas,
+  :grant-year 1964,
+  :cites
+  ["BE557752A"
+   "US2604464"
+   "US2607761"
+   "US2662870"
+   "US2768153"
+   "US2798861"
+   "US2880116"],
   :term-years 20,
   :open-license :none}
  {:assignees [:entpr-paint-manufacturing],
@@ -9619,185 +9794,5 @@
   :assignee :celanese-coatings,
   :grant-year 1966,
   :cites ["US3046246"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:union-carbide],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3247283/en",
-  :title
-  "Curable compositions comprising dicyclopentadiene dioxide, diglycidyl ether of a polyhydric phenol, polycarboxylic acid anhydride and organic polyol and resins made therefrom",
-  :status :granted,
-  :id "US3247283",
-  :sourcing :authoritative,
-  :filing-year 1961,
-  :assignee :union-carbide,
-  :grant-year 1966,
-  :cites ["US2830031" "US2934521" "US2947717" "US2985616"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:gevaert-photo-producten],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3249431/en",
-  :title "Production of color photographic images",
-  :status :granted,
-  :id "US3249431",
-  :sourcing :authoritative,
-  :filing-year 1961,
-  :assignee :gevaert-photo-producten,
-  :grant-year 1966,
-  :cites
-  ["US2276254"
-   "US2419975"
-   "US2498418"
-   "US2518739"
-   "US2823998"
-   "US3012884"
-   "US3013879"
-   "US3028237"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:electro-organics],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3249830/en",
-  :title
-  "Organic semi-conductor materials and contact rectifier employing the same",
-  :status :granted,
-  :id "US3249830",
-  :sourcing :authoritative,
-  :filing-year 1962,
-  :assignee :electro-organics,
-  :grant-year 1966,
-  :cites
-  ["US2745973"
-   "US2789240"
-   "US2847585"
-   "US2876368"
-   "US2998550"
-   "US837616"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:farrand-optical],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3250174/en",
-  :title
-  "Method and apparatus for comparing radiation in one spectral region with radiation in another spectral region",
-  :status :granted,
-  :id "US3250174",
-  :sourcing :authoritative,
-  :filing-year 1961,
-  :assignee :farrand-optical,
-  :grant-year 1966,
-  :cites ["US2517554"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:boehringer-mannheim],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3250596/en",
-  :title
-  "Method for determining the virus adsorptive capacity of aluminum oxide",
-  :status :granted,
-  :id "US3250596",
-  :sourcing :authoritative,
-  :filing-year 1963,
-  :assignee :boehringer-mannheim,
-  :grant-year 1966,
-  :cites ["US2712986"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:phillips-petroleum],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3251905/en",
-  :title
-  "Method of preparing block copolymers of conjugated dienes and vinyl-substituted aromatic compounds using dilithio catalysts and diluent mixture of hydrocarbon and ether",
-  :status :granted,
-  :id "US3251905",
-  :sourcing :authoritative,
-  :filing-year 1963,
-  :assignee :phillips-petroleum,
-  :grant-year 1966,
-  :cites
-  ["BE553720A"
-   "US2181771"
-   "US2338741"
-   "US2694692"
-   "US2913444"
-   "US3069380"
-   "US3070574"
-   "US3140278"
-   "US3149182"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:vare-ind],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3251933/en",
-  :title "Three-dimensional television system",
-  :status :granted,
-  :id "US3251933",
-  :sourcing :authoritative,
-  :filing-year 1962,
-  :assignee :vare-ind,
-  :grant-year 1966,
-  :cites ["US1841487" "US2508920" "US2571612" "US2578970" "US2665335"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:chemische-werke-huels],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3253000/en",
-  :title "Preparation of liquid epoxides from polydiolefins",
-  :status :granted,
-  :id "US3253000",
-  :sourcing :authoritative,
-  :filing-year 1963,
-  :assignee :chemische-werke-huels,
-  :grant-year 1966,
-  :cites ["US2949441" "US3030336"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:tung-sol-electric],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3255005/en",
-  :title "Masking process for semiconductor elements",
-  :status :granted,
-  :id "US3255005",
-  :sourcing :authoritative,
-  :filing-year 1962,
-  :assignee :tung-sol-electric,
-  :grant-year 1966,
-  :cites
-  ["US2515940"
-   "US2802760"
-   "US2935781"
-   "US2937353"
-   "US2981877"
-   "US3025589"
-   "US3036006"
-   "US3055776"
-   "US3066052"
-   "US3104991"
-   "US3122817"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:hoechst],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3255276/en",
-  :title
-  "Process for the manufacture of hydrocarbons modified with vinyl phosphonic acid",
-  :status :granted,
-  :id "US3255276",
-  :sourcing :authoritative,
-  :filing-year 1962,
-  :assignee :hoechst,
-  :grant-year 1966,
-  :cites ["DE1023033B" "US2854434" "US2888434" "US3043821"],
   :term-years 20,
   :open-license :none}]

@@ -1215,6 +1215,40 @@
   "hirameki-patent:CH257649A"
   ":hirameki/source"
   "https://patents.google.com/patent/CH257649A/en"]
+ [":db/add" "hirameki-patent:DD15977A" ":hirameki.patent/title" ""]
+ [":db/add"
+  "hirameki-patent:DD15977A"
+  ":hirameki.patent/jurisdiction"
+  ":dd"]
+ [":db/add"
+  "hirameki-patent:DD15977A"
+  ":hirameki.patent/field"
+  "UNKNOWN"]
+ [":db/add"
+  "hirameki-patent:DD15977A"
+  ":hirameki.patent/assignee"
+  ":unassigned"]
+ [":db/add"
+  "hirameki-patent:DD15977A"
+  ":hirameki.patent/status"
+  ":pending"]
+ [":db/add"
+  "hirameki-patent:DD15977A"
+  ":hirameki.patent/open-license"
+  ":none"]
+ [":db/add"
+  "hirameki-patent:DD15977A"
+  ":hirameki.obs/release-status"
+  ":pending"]
+ [":db/add"
+  "hirameki-patent:DD15977A"
+  ":hirameki/sourcing"
+  ":authoritative"]
+ [":db/add" "hirameki-patent:DD15977A" ":hirameki/derived" true]
+ [":db/add"
+  "hirameki-patent:DD15977A"
+  ":hirameki/source"
+  "https://patents.google.com/patent/DD15977A/en"]
  [":db/add"
   "hirameki-patent:DE1083607B"
   ":hirameki.patent/title"
@@ -6025,6 +6059,47 @@
   ":hirameki/source"
   "https://patents.google.com/patent/EP0123513A1/en"]
  [":db/add"
+  "hirameki-patent:EP0123793A1"
+  ":hirameki.patent/title"
+  "Room temperature-curable resin composition"]
+ [":db/add"
+  "hirameki-patent:EP0123793A1"
+  ":hirameki.patent/jurisdiction"
+  ":ep"]
+ [":db/add"
+  "hirameki-patent:EP0123793A1"
+  ":hirameki.patent/field"
+  "UNKNOWN"]
+ [":db/add"
+  "hirameki-patent:EP0123793A1"
+  ":hirameki.patent/assignee"
+  ":dainippon-ink-and-chemicals"]
+ [":db/add"
+  "hirameki-patent:EP0123793A1"
+  ":hirameki.patent/status"
+  ":pending"]
+ [":db/add"
+  "hirameki-patent:EP0123793A1"
+  ":hirameki.patent/open-license"
+  ":none"]
+ [":db/add"
+  "hirameki-patent:EP0123793A1"
+  ":hirameki.obs/release-status"
+  ":pending"]
+ [":db/add"
+  "hirameki-patent:EP0123793A1"
+  ":hirameki/sourcing"
+  ":authoritative"]
+ [":db/add" "hirameki-patent:EP0123793A1" ":hirameki/derived" true]
+ [":db/add"
+  "hirameki-patent:EP0123793A1"
+  ":hirameki.obs/years-to-expiry"
+  -22]
+ [":db/add"
+  "hirameki-patent:EP0123793A1"
+  ":hirameki/source"
+  "https://patents.google.com/patent/EP0123793A1/en"]
+ [":db/add"
   "hirameki-patent:EP0124221A1"
   ":hirameki.patent/title"
   "Method of detecting a polynucleotide sequence and labelled polynucleotides useful therein"]
@@ -9860,74 +9935,4 @@
  [":db/add"
   "hirameki-patent:FR1132506A"
   ":hirameki.obs/release-status"
-  ":public-domain"]
- [":db/add"
-  "hirameki-patent:FR1132506A"
-  ":hirameki/sourcing"
-  ":authoritative"]
- [":db/add" "hirameki-patent:FR1132506A" ":hirameki/derived" true]
- [":db/add"
-  "hirameki-patent:FR1132506A"
-  ":hirameki.obs/years-to-expiry"
-  -51]
- [":db/add"
-  "hirameki-patent:FR1132506A"
-  ":hirameki/source"
-  "https://patents.google.com/patent/FR1132506A/en"]
- [":db/add"
-  "hirameki-patent:FR1179992A"
-  ":hirameki.patent/title"
-  "Process for making a tobacco rod of uniform size and density in cigarette or other machines"]
- [":db/add"
-  "hirameki-patent:FR1179992A"
-  ":hirameki.patent/jurisdiction"
-  ":fr"]
- [":db/add"
-  "hirameki-patent:FR1179992A"
-  ":hirameki.patent/field"
-  "UNKNOWN"]
- [":db/add"
-  "hirameki-patent:FR1179992A"
-  ":hirameki.patent/assignee"
-  ":usines-decoufle"]
- [":db/add"
-  "hirameki-patent:FR1179992A"
-  ":hirameki.patent/status"
-  ":granted"]
- [":db/add"
-  "hirameki-patent:FR1179992A"
-  ":hirameki.patent/open-license"
-  ":none"]
- [":db/add"
-  "hirameki-patent:FR1179992A"
-  ":hirameki.obs/release-status"
-  ":public-domain"]
- [":db/add"
-  "hirameki-patent:FR1179992A"
-  ":hirameki/sourcing"
-  ":authoritative"]
- [":db/add" "hirameki-patent:FR1179992A" ":hirameki/derived" true]
- [":db/add"
-  "hirameki-patent:FR1179992A"
-  ":hirameki.obs/years-to-expiry"
-  -50]
- [":db/add"
-  "hirameki-patent:FR1179992A"
-  ":hirameki/source"
-  "https://patents.google.com/patent/FR1179992A/en"]
- [":db/add"
-  "hirameki-patent:FR1200358A"
-  ":hirameki.patent/title"
-  "New metallizable and metalliferous azo dyes; dye application"]
- [":db/add"
-  "hirameki-patent:FR1200358A"
-  ":hirameki.patent/jurisdiction"
-  ":fr"]
- [":db/add"
-  "hirameki-patent:FR1200358A"
-  ":hirameki.patent/field"
-  "UNKNOWN"]
- [":db/add"
-  "hirameki-patent:FR1200358A"
-  ":hirameki.patent/assignee"
-  ":compagnie-francaise-des-matieres-colorantes-sarl"]]
+  ":public-domain"]]

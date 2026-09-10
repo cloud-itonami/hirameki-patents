@@ -1,4 +1,151 @@
-[{:assignees [:united-states-rubber],
+[{:assignees [:british-celanese],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2424284/en",
+  :title "Fixation of finely divided substances",
+  :status :granted,
+  :id "US2424284",
+  :sourcing :authoritative,
+  :filing-year 1943,
+  :assignee :british-celanese,
+  :grant-year 1947,
+  :cites
+  ["GB467480A"
+   "US1905999"
+   "US2119150"
+   "US2123152"
+   "US2191362"
+   "US2202200"
+   "US2219375"
+   "US2249069"
+   "US2342641"
+   "US2350139"],
+  :term-years 20,
+  :open-license :none}
+ {:jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2424323/en",
+  :title "Roller paint-coating device",
+  :status :granted,
+  :id "US2424323",
+  :sourcing :authoritative,
+  :filing-year 1944,
+  :assignee :unassigned,
+  :grant-year 1947,
+  :cites ["US1270410" "US1817683" "US2118719" "US2252903"],
+  :term-years 20,
+  :open-license :none}
+ {:jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2426300/en",
+  :title "Method and composition for waterproofing",
+  :status :granted,
+  :id "US2426300",
+  :sourcing :authoritative,
+  :filing-year 1944,
+  :assignee :unassigned,
+  :grant-year 1947,
+  :cites
+  ["US1251237"
+   "US1986341"
+   "US2127650"
+   "US2298147"
+   "US2308664"
+   "US2322427"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:american-cyanamid],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2426379/en",
+  :title "Cellulose acetate coating compositions",
+  :status :granted,
+  :id "US2426379",
+  :sourcing :authoritative,
+  :filing-year 1940,
+  :assignee :american-cyanamid,
+  :grant-year 1947,
+  :cites ["US1815444" "US1963142" "US1977642" "US2197357" "US2218474"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:ei-du-pont-de-nemours-and],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2426766/en",
+  :title "Stabilization of organic substances",
+  :status :granted,
+  :id "US2426766",
+  :sourcing :authoritative,
+  :filing-year 1941,
+  :assignee :ei-du-pont-de-nemours-and,
+  :grant-year 1947,
+  :cites ["US2249602" "US2282936"],
+  :term-years 20,
+  :open-license :none}
+ {:jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2427790/en",
+  :title "Light beam comparator",
+  :status :granted,
+  :id "US2427790",
+  :sourcing :authoritative,
+  :filing-year 1945,
+  :assignee :unassigned,
+  :grant-year 1947,
+  :cites
+  ["FR548488A"
+   "FR712909A"
+   "US1675967"
+   "US2045124"
+   "US2068301"
+   "US2193437"
+   "US2227881"
+   "US2341810"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:owens-corning-fiberglas],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2428654/en",
+  :title "Reinforced plastic",
+  :status :granted,
+  :id "US2428654",
+  :sourcing :authoritative,
+  :filing-year 1944,
+  :assignee :owens-corning-fiberglas,
+  :grant-year 1947,
+  :cites
+  ["US1726634"
+   "US1759976"
+   "US2053123"
+   "US2176837"
+   "US2217049"
+   "US2230271"
+   "US2261264"
+   "US2311613"
+   "US2314701"
+   "US2328577"
+   "US2344733"
+   "US2351174"
+   "US2354110"
+   "US2377867"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:imperial-chemical-industries],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2428716/en",
+  :title "Method of coating fabric with polyvinyl chloride",
+  :status :granted,
+  :id "US2428716",
+  :sourcing :authoritative,
+  :filing-year 1942,
+  :assignee :imperial-chemical-industries,
+  :grant-year 1947,
+  :cites ["US1933052" "US1950662" "US2171389" "US2204520" "US2302557"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:united-states-rubber],
   :jurisdiction :us,
   :field "UNKNOWN",
   :source "https://patents.google.com/patent/US2429080/en",
@@ -9878,138 +10025,5 @@
   :assignee :eastman-kodak,
   :grant-year 1957,
   :cites ["US2322027" "US2478400"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:eastman-kodak],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US2801171/en",
-  :title "Photographic color former dispersions",
-  :status :granted,
-  :id "US2801171",
-  :sourcing :authoritative,
-  :filing-year 1954,
-  :assignee :eastman-kodak,
-  :grant-year 1957,
-  :cites ["US2322027" "US2478400" "US2699794"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:allied-chemical-and-dye],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US2801198/en",
-  :title
-  "Decorative core stock laminating varnishes and phenolic resin core and decorative laminates produced therefrom",
-  :status :granted,
-  :id "US2801198",
-  :sourcing :authoritative,
-  :filing-year 1955,
-  :assignee :allied-chemical-and-dye,
-  :grant-year 1957,
-  :cites ["US2110073" "US2351716" "US2439929" "US2489228" "US2694028"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:bell-telephone-laboratories],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US2802760/en",
-  :title
-  "Oxidation of semiconductive surfaces for controlled diffusion",
-  :status :granted,
-  :id "US2802760",
-  :sourcing :authoritative,
-  :filing-year 1955,
-  :assignee :bell-telephone-laboratories,
-  :grant-year 1957,
-  :cites ["US2485069" "US2583681" "US2683676"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:firestone-tire-and-rubber],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US2802808/en",
-  :title
-  "Compositions of a styrene-acrylonitrile resin, a graft of styrene and acrylonitrile upon a diene rubber and a diene rubber",
-  :status :granted,
-  :id "US2802808",
-  :sourcing :authoritative,
-  :filing-year 1953,
-  :assignee :firestone-tire-and-rubber,
-  :grant-year 1957,
-  :cites ["US2550139"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:crown-zellerbach],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US2804418/en",
-  :title "Overlaid woody material and method of making the same",
-  :status :granted,
-  :id "US2804418",
-  :sourcing :authoritative,
-  :filing-year 1955,
-  :assignee :crown-zellerbach,
-  :grant-year 1957,
-  :cites ["US2319267" "US2343740" "US2497712" "US2656296" "US2666726"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:monsanto-chemicals],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US2804441/en",
-  :title
-  "Compositions of methyl ethers of polymethylol melamine and a catalyst",
-  :status :granted,
-  :id "US2804441",
-  :sourcing :authoritative,
-  :filing-year 1954,
-  :assignee :monsanto-chemicals,
-  :grant-year 1957,
-  :cites
-  ["FR1047928A"
-   "GB480339A"
-   "US2197357"
-   "US2582961"
-   "US2645625"
-   "US2684346"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:international-nickel],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US2805191/en",
-  :title "Oxygen analysis of gases",
-  :status :granted,
-  :id "US2805191",
-  :sourcing :authoritative,
-  :filing-year 1954,
-  :assignee :international-nickel,
-  :grant-year 1957,
-  :cites ["US2069562" "US2430895" "US2508238" "US2651612"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:exxon-research-and-engineering],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US2805718/en",
-  :title "Method for running a tubular member in a well",
-  :status :granted,
-  :id "US2805718",
-  :sourcing :authoritative,
-  :filing-year 1954,
-  :assignee :exxon-research-and-engineering,
-  :grant-year 1957,
-  :cites
-  ["US2058825"
-   "US2171416"
-   "US2179017"
-   "US2352744"
-   "US2571478"
-   "US2636563"
-   "US2656151"
-   "US2673614"
-   "US2690123"
-   "US2698056"
-   "US2749989"],
   :term-years 20,
   :open-license :none}]
