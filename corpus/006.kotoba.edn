@@ -1,4 +1,263 @@
-[{:assignees [:hoechst],
+[{:assignees [:mobil-oil-as],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US4096163/en",
+  :title "Conversion of synthesis gas to hydrocarbon mixtures",
+  :status :granted,
+  :id "US4096163",
+  :sourcing :authoritative,
+  :filing-year 1976,
+  :assignee :mobil-oil-as,
+  :grant-year 1978,
+  :cites
+  ["BE828228A"
+   "DE1036837B"
+   "GB293185A"
+   "GB378943A"
+   "US1834621"
+   "US1840450"
+   "US1925389"
+   "US2754314"
+   "US3013984"
+   "US3013990"
+   "US3254023"
+   "US3579438"
+   "US3597494"
+   "US3702886"
+   "US3709979"
+   "US3871993"
+   "US3932552"
+   "US3972958"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:corning-glass-works],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US4098876/en",
+  :title "Reverse sandwich immunoassay",
+  :status :granted,
+  :id "US4098876",
+  :sourcing :authoritative,
+  :filing-year 1976,
+  :assignee :corning-glass-works,
+  :grant-year 1978,
+  :cites ["US3850752" "US3896217" "US3975511" "US3995019"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:akzo],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US4098928/en",
+  :title "Method of coating underwater metal surfaces",
+  :status :granted,
+  :id "US4098928",
+  :sourcing :authoritative,
+  :filing-year 1976,
+  :assignee :akzo,
+  :grant-year 1978,
+  :cites ["GB1177554A" "GB986064A"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:high-voltage-engineering],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US4099859/en",
+  :title
+  "Contact lens having a smooth surface layer of a hydrophilic polymer",
+  :status :granted,
+  :id "US4099859",
+  :sourcing :authoritative,
+  :filing-year 1976,
+  :assignee :high-voltage-engineering,
+  :grant-year 1978,
+  :cites ["US3621079" "US3700573" "US3700761" "US3745042" "US3916033"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:baxter-travenol-laboratories],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US4099920/en",
+  :title
+  "Temperature control and stirring apparatus for luminescence measuring photometer",
+  :status :granted,
+  :id "US4099920",
+  :sourcing :authoritative,
+  :filing-year 1977,
+  :assignee :baxter-travenol-laboratories,
+  :grant-year 1978,
+  :cites ["US2878106" "US3764214" "US3790346" "US3917404"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:ortho-diagnostic-systems],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US4100267/en",
+  :title "Method of detecting hepatitis B core antigen and antibody",
+  :status :granted,
+  :id "US4100267",
+  :sourcing :authoritative,
+  :filing-year 1975,
+  :assignee :ortho-diagnostic-systems,
+  :grant-year 1978,
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:technam],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US4100268/en",
+  :title
+  "Preparation of gentamicin sensitized particles for agglutination tests",
+  :status :granted,
+  :id "US4100268",
+  :sourcing :authoritative,
+  :filing-year 1976,
+  :assignee :technam,
+  :grant-year 1978,
+  :cites
+  ["GB1402427A" "US3639558" "US3652761" "US3775536" "US3951748"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:biosearch-medical-products],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US4100309/en",
+  :title
+  "Coated substrate having a low coefficient of friction hydrophilic coating and a method of making the same",
+  :status :granted,
+  :id "US4100309",
+  :sourcing :authoritative,
+  :filing-year 1977,
+  :assignee :biosearch-medical-products,
+  :grant-year 1978,
+  :cites ["US3860672" "US3939049"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:avery-international],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US4101698/en",
+  :title "Elastomeric reflective metal surfaces",
+  :status :granted,
+  :id "US4101698",
+  :sourcing :authoritative,
+  :filing-year 1975,
+  :assignee :avery-international,
+  :grant-year 1978,
+  :cites
+  ["US2039372"
+   "US2680695"
+   "US3076727"
+   "US3152950"
+   "US3223554"
+   "US3493257"
+   "US3590768"
+   "US3687792"
+   "US3720567"
+   "US3744835"
+   "US3770545"
+   "US3843475"
+   "US3915809"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:merck-and],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US4102996/en",
+  :title "Method of preparing hepatitis B core antigen",
+  :status :granted,
+  :id "US4102996",
+  :sourcing :authoritative,
+  :filing-year 1977,
+  :assignee :merck-and,
+  :grant-year 1978,
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:dios],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US4103064/en",
+  :title
+  "Microdevice substrate and method for making micropattern devices",
+  :status :granted,
+  :id "US4103064",
+  :sourcing :authoritative,
+  :filing-year 1976,
+  :assignee :dios,
+  :grant-year 1978,
+  :cites
+  ["US2051603"
+   "US3535137"
+   "US3635853"
+   "US3746564"
+   "US3779806"
+   "US3883352"
+   "US3914462"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:dios],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US4103073/en",
+  :title "Microsubstrates and method for making micropattern devices",
+  :status :granted,
+  :id "US4103073",
+  :sourcing :authoritative,
+  :filing-year 1976,
+  :assignee :dios,
+  :grant-year 1978,
+  :cites ["US3575733" "US3885060" "US3914462"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:university-of-pennsylvania-penn],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US4103227/en",
+  :title "Ion-controlled diode",
+  :status :granted,
+  :id "US4103227",
+  :sourcing :authoritative,
+  :filing-year 1977,
+  :assignee :university-of-pennsylvania-penn,
+  :grant-year 1978,
+  :cites ["US2711511" "US3295022" "US3428892" "US3831432"],
+  :term-years 20,
+  :open-license :none}
+ {:jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US4104029/en",
+  :title
+  "Procedure for the assay of pharmacologically immunologically and biochemically active compounds in biological fluids",
+  :status :granted,
+  :id "US4104029",
+  :sourcing :authoritative,
+  :filing-year 1977,
+  :assignee :unassigned,
+  :grant-year 1978,
+  :cites
+  ["US3575812"
+   "US3660240"
+   "US3852157"
+   "US3966897"
+   "US3981982"
+   "US4000252"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:ppg-industries],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US4104147/en",
+  :title
+  "Process for cationic electrodeposition of amine acid salt-containing polymers",
+  :status :granted,
+  :id "US4104147",
+  :sourcing :authoritative,
+  :filing-year 1977,
+  :assignee :ppg-industries,
+  :grant-year 1978,
+  :cites ["US3336253" "US3947338" "US3962499"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:hoechst],
   :jurisdiction :us,
   :field "UNKNOWN",
   :source "https://patents.google.com/patent/US4105735/en",
@@ -901,6 +1160,26 @@
   :assignee :international-diagnostic-technologies,
   :grant-year 1979,
   :cites ["US3992631" "US4056724"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:desoto],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US4145323/en",
+  :title "Aqueous coatings based on epoxy ester copolymers",
+  :status :granted,
+  :id "US4145323",
+  :sourcing :authoritative,
+  :filing-year 1977,
+  :assignee :desoto,
+  :grant-year 1979,
+  :cites
+  ["US2596737"
+   "US2877195"
+   "US3293201"
+   "US3563929"
+   "US3567668"
+   "US3663487"],
   :term-years 20,
   :open-license :none}
  {:assignees [:miles-laboratories],
@@ -2360,6 +2639,30 @@
    "US3939024"
    "US3949139"
    "US3997703"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:scm],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US4212781/en",
+  :title
+  "Modified epoxy resins, processes for making and using same and substrates coated therewith",
+  :status :granted,
+  :id "US4212781",
+  :sourcing :authoritative,
+  :filing-year 1977,
+  :assignee :scm,
+  :grant-year 1980,
+  :cites
+  ["GB1250734A"
+   "GB956556A"
+   "US3028359"
+   "US3107226"
+   "US3110695"
+   "US3378601"
+   "US3707516"
+   "US3816557"
+   "US3943187"],
   :term-years 20,
   :open-license :none}
  {:assignees
@@ -4102,6 +4405,27 @@
    "US4095013"],
   :term-years 20,
   :open-license :none}
+ {:assignees [:ppg-industries],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US4289674/en",
+  :title
+  "Base-solubilized acrylic polymers and aqueous resinous dispersions of acrylic polymers and epoxy resins",
+  :status :granted,
+  :id "US4289674",
+  :sourcing :authoritative,
+  :filing-year 1979,
+  :assignee :ppg-industries,
+  :grant-year 1981,
+  :cites
+  ["US3943187"
+   "US3945963"
+   "US4065415"
+   "US4065416"
+   "US4097438"
+   "US4129544"],
+  :term-years 20,
+  :open-license :none}
  {:assignees [:e-y-laboratories],
   :jurisdiction :us,
   :field "UNKNOWN",
@@ -4510,6 +4834,32 @@
   :filing-year 1980,
   :assignee :unassigned,
   :grant-year 1981,
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:scm],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US4308185/en",
+  :title
+  "Graft polymer compositions of terminated epoxy resin, processes for making and using same, and substrates coated therewith",
+  :status :granted,
+  :id "US4308185",
+  :sourcing :authoritative,
+  :filing-year 1979,
+  :assignee :scm,
+  :grant-year 1981,
+  :cites
+  ["GB1250734A"
+   "GB956556A"
+   "US3028359"
+   "US3070564"
+   "US3107226"
+   "US3110695"
+   "US3336253"
+   "US3697619"
+   "US3816557"
+   "US3943187"
+   "US4049744"],
   :term-years 20,
   :open-license :none}
  {:assignees [:basf-se],
@@ -4963,6 +5313,31 @@
   :filing-year 1980,
   :assignee :harvard-university,
   :grant-year 1982,
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:ppg-industries],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US4335829/en",
+  :title
+  "Coated metal surfaces and method of coating metal surfaces with aqueous resinous dispersions of epoxy resins and acrylic polymers",
+  :status :granted,
+  :id "US4335829",
+  :sourcing :authoritative,
+  :filing-year 1978,
+  :assignee :ppg-industries,
+  :grant-year 1982,
+  :cites
+  ["CA694853A"
+   "US2992132"
+   "US3008914"
+   "US3198850"
+   "US3215756"
+   "US3492252"
+   "US3509086"
+   "US3908049"
+   "US3943187"
+   "US3997694"],
   :term-years 20,
   :open-license :none}
  {:assignees [:snamprogetti-spa],
@@ -9449,385 +9824,5 @@
    "US4440801"
    "US4568562"
    "US4574095"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:genentech],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US4663283/en",
-  :title "Method of altering double-stranded DNA",
-  :status :granted,
-  :id "US4663283",
-  :sourcing :authoritative,
-  :filing-year 1983,
-  :assignee :genentech,
-  :grant-year 1987,
-  :cites ["US4351901"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:molecular-genetics],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US4663290/en",
-  :title "Production of reverse transcriptase",
-  :status :granted,
-  :id "US4663290",
-  :sourcing :authoritative,
-  :filing-year 1982,
-  :assignee :molecular-genetics,
-  :grant-year 1987,
-  :cites ["US4332892" "US4338397" "US4356270"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:university-of-massachusetts-system],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US4663446/en",
-  :title
-  "N2 (phenyl substituted) deoxy guanosine containing compounds",
-  :status :granted,
-  :id "US4663446",
-  :sourcing :authoritative,
-  :filing-year 1983,
-  :assignee :university-of-massachusetts-system,
-  :grant-year 1987,
-  :cites ["US3480613" "US3936439" "US4267171"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:wakunaga-pharmaceutical],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US4667025/en",
-  :title "Oligonucleotide derivatives",
-  :status :granted,
-  :id "US4667025",
-  :sourcing :authoritative,
-  :filing-year 1985,
-  :assignee :wakunaga-pharmaceutical,
-  :grant-year 1987,
-  :cites ["US3873521" "US4024249" "US4401796"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:university-patents],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US4668777/en",
-  :title "Phosphoramidite nucleoside compounds",
-  :status :granted,
-  :id "US4668777",
-  :sourcing :authoritative,
-  :filing-year 1984,
-  :assignee :university-patents,
-  :grant-year 1987,
-  :cites ["US3534017"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:ei-du-pont-de-nemours-and],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US4670379/en",
-  :title
-  "Polynucleotide hydridization assays employing catalyzed luminescence",
-  :status :granted,
-  :id "US4670379",
-  :sourcing :authoritative,
-  :filing-year 1984,
-  :assignee :ei-du-pont-de-nemours-and,
-  :grant-year 1987,
-  :cites
-  ["EP0063879A2"
-   "EP0070685A2"
-   "EP0070687A2"
-   "EP0079139A1"
-   "EP0097373B1"
-   "EP0110682A2"
-   "EP0117440A1"
-   "EP0122614A2"
-   "EP0124221A1"
-   "EP0127327A1"
-   "EP0128018A2"
-   "EP0128042A2"
-   "GB2019408A"
-   "GB2125964A"
-   "US4238565"
-   "US4358535"
-   "US4366243"
-   "WO1983002277A1"
-   "WO1983002286A1"
-   "WO1984001174A1"
-   "WO1984002721A1"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:advanced-magnetics],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US4672040/en",
-  :title "Magnetic particles for use in separations",
-  :status :granted,
-  :id "US4672040",
-  :sourcing :authoritative,
-  :filing-year 1985,
-  :assignee :advanced-magnetics,
-  :grant-year 1987,
-  :cites
-  ["EP0113452A2"
-   "GB2011424A"
-   "GB2014727A"
-   "US30360"
-   "US3470067"
-   "US3650698"
-   "US3652761"
-   "US3700555"
-   "US3796660"
-   "US3806449"
-   "US3933997"
-   "US3970518"
-   "US3985649"
-   "US4018886"
-   "US4115534"
-   "US4115535"
-   "US4123396"
-   "US4138383"
-   "US4141687"
-   "US4152210"
-   "US4157323"
-   "US4169804"
-   "US4177253"
-   "US4193866"
-   "US4197220"
-   "US4206094"
-   "US4219411"
-   "US4230685"
-   "US4241176"
-   "US4267234"
-   "US4267235"
-   "US4297337"
-   "US4343901"
-   "US4358535"
-   "US4369226"
-   "US4452773"
-   "US4454234"
-   "WO1983002669A1"
-   "WO1983003426A1"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:massachusetts-institute-of-technology],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US4675283/en",
-  :title
-  "Detection and isolation of homologous, repeated and amplified nucleic acid sequences",
-  :status :granted,
-  :id "US4675283",
-  :sourcing :authoritative,
-  :filing-year 1984,
-  :assignee :massachusetts-institute-of-technology,
-  :grant-year 1987,
-  :cites ["US4358535" "US4395486" "US4399216" "US4532220"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:celanese],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US4678843/en",
-  :title
-  "Process for the ammonium hydroxide hydrolysis of polymers of acetoxystyrene to polymers of vinylphenol",
-  :status :granted,
-  :id "US4678843",
-  :sourcing :authoritative,
-  :filing-year 1986,
-  :assignee :celanese,
-  :grant-year 1987,
-  :cites
-  ["US2276138"
-   "US3547858"
-   "US3963662"
-   "US3970534"
-   "US4129617"
-   "US4544704"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:cetus],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US4683194/en",
-  :title
-  "Method for detection of polymorphic restriction sites and nucleic acid sequences",
-  :status :granted,
-  :id "US4683194",
-  :sourcing :authoritative,
-  :filing-year 1985,
-  :assignee :cetus,
-  :grant-year 1987,
-  :cites ["EP0142299A2" "US4395486" "US4477577" "US4535058"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:cetus],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US4683195/en",
-  :title
-  "Process for amplifying, detecting, and/or-cloning nucleic acid sequences",
-  :status :granted,
-  :id "US4683195",
-  :sourcing :authoritative,
-  :filing-year 1986,
-  :assignee :cetus,
-  :grant-year 1987,
-  :cites ["US4395486"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:cetus],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US4683202/en",
-  :title "Process for amplifying nucleic acid sequences",
-  :status :granted,
-  :id "US4683202",
-  :sourcing :authoritative,
-  :filing-year 1985,
-  :assignee :cetus,
-  :grant-year 1987,
-  :term-years 20,
-  :open-license :none}
- {:assignees [:biospecific-technologies],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US4687808/en",
-  :title
-  "Activation of biocompatible polymers with biologicals whose binding complements are pathological effectors",
-  :status :granted,
-  :id "US4687808",
-  :sourcing :authoritative,
-  :filing-year 1983,
-  :assignee :biospecific-technologies,
-  :grant-year 1987,
-  :cites
-  ["CA1104110A"
-   "EP0082345A1"
-   "US3826678"
-   "US4059685"
-   "US4061141"
-   "US4182750"
-   "US4192748"
-   "US4222907"
-   "US4239743"
-   "US4272549"
-   "US4292296"
-   "US4305926"
-   "US4357311"
-   "US4362155"
-   "US4430229"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:integrated-genetics],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US4689295/en",
-  :title "Test for Salmonella",
-  :status :granted,
-  :id "US4689295",
-  :sourcing :authoritative,
-  :filing-year 1983,
-  :assignee :integrated-genetics,
-  :grant-year 1987,
-  :cites ["US4139346" "US4302204" "US4358535" "US4359535" "US4486539"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:celanese],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US4689371/en",
-  :title
-  "Process for the preparation of poly (vinylphenol) from poly (acetoxystyrene)",
-  :status :granted,
-  :id "US4689371",
-  :sourcing :authoritative,
-  :filing-year 1986,
-  :assignee :celanese,
-  :grant-year 1987,
-  :cites
-  ["US2276138"
-   "US3547858"
-   "US3963862"
-   "US3970534"
-   "US4129617"
-   "US4544704"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:helmholtz-zentrum-fuer-infektionsforschung-hzi],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US4689405/en",
-  :title
-  "Process for the simultaneous synthesis of several oligonucleotides on a solid phase",
-  :status :granted,
-  :id "US4689405",
-  :sourcing :authoritative,
-  :filing-year 1984,
-  :assignee :helmholtz-zentrum-fuer-infektionsforschung-hzi,
-  :grant-year 1987,
-  :cites
-  ["US3280104"
-   "US4373071"
-   "US4401796"
-   "US4404368"
-   "US4458066"
-   "US4500707"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:ciba-geigy],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US4691015/en",
-  :title "Hydroxylamines derived from hindered amines",
-  :status :granted,
-  :id "US4691015",
-  :sourcing :authoritative,
-  :filing-year 1985,
-  :assignee :ciba-geigy,
-  :grant-year 1987,
-  :cites
-  ["CH577011A5"
-   "GB1316341A"
-   "US3640928"
-   "US3644278"
-   "US3853890"
-   "US3936456"
-   "US3941744"
-   "US3994857"
-   "US4055536"
-   "US4064102"
-   "US4102858"
-   "US4104248"
-   "US4108829"
-   "US4198334"
-   "US4239891"
-   "US4292240"
-   "US4369274"
-   "US4396735"
-   "US4404302"
-   "US4472547"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:fuji-photo-film],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US4698308/en",
-  :title
-  "Device for measuring the number of bacteria in superpure water",
-  :status :granted,
-  :id "US4698308",
-  :sourcing :authoritative,
-  :filing-year 1986,
-  :assignee :fuji-photo-film,
-  :grant-year 1987,
-  :cites
-  ["US3912929"
-   "US3916197"
-   "US4283490"
-   "US4467032"
-   "US4563331"
-   "US4603256"],
   :term-years 20,
   :open-license :none}]

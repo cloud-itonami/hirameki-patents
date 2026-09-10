@@ -9303,6 +9303,47 @@
   ":hirameki/source"
   "https://patents.google.com/patent/US2884340/en"]
  [":db/add"
+  "hirameki-patent:US2884408"
+  ":hirameki.patent/title"
+  "Compositions of polyepoxides and polycarboxylic acid anhydrides"]
+ [":db/add"
+  "hirameki-patent:US2884408"
+  ":hirameki.patent/jurisdiction"
+  ":us"]
+ [":db/add"
+  "hirameki-patent:US2884408"
+  ":hirameki.patent/field"
+  "UNKNOWN"]
+ [":db/add"
+  "hirameki-patent:US2884408"
+  ":hirameki.patent/assignee"
+  ":union-carbide"]
+ [":db/add"
+  "hirameki-patent:US2884408"
+  ":hirameki.patent/status"
+  ":granted"]
+ [":db/add"
+  "hirameki-patent:US2884408"
+  ":hirameki.patent/open-license"
+  ":none"]
+ [":db/add"
+  "hirameki-patent:US2884408"
+  ":hirameki.obs/release-status"
+  ":public-domain"]
+ [":db/add"
+  "hirameki-patent:US2884408"
+  ":hirameki/sourcing"
+  ":authoritative"]
+ [":db/add" "hirameki-patent:US2884408" ":hirameki/derived" true]
+ [":db/add"
+  "hirameki-patent:US2884408"
+  ":hirameki.obs/years-to-expiry"
+  -50]
+ [":db/add"
+  "hirameki-patent:US2884408"
+  ":hirameki/source"
+  "https://patents.google.com/patent/US2884408/en"]
+ [":db/add"
   "hirameki-patent:US2885074"
   ":hirameki.patent/title"
   "Packaging rubber"]
@@ -10230,46 +10271,5 @@
   ":none"]
  [":db/add"
   "hirameki-patent:US2901348"
-  ":hirameki.obs/release-status"
-  ":public-domain"]
- [":db/add"
-  "hirameki-patent:US2901348"
-  ":hirameki/sourcing"
-  ":authoritative"]
- [":db/add" "hirameki-patent:US2901348" ":hirameki/derived" true]
- [":db/add"
-  "hirameki-patent:US2901348"
-  ":hirameki.obs/years-to-expiry"
-  -53]
- [":db/add"
-  "hirameki-patent:US2901348"
-  ":hirameki/source"
-  "https://patents.google.com/patent/US2901348/en"]
- [":db/add"
-  "hirameki-patent:US2901467"
-  ":hirameki.patent/title"
-  "Polyurethane coating compositions"]
- [":db/add"
-  "hirameki-patent:US2901467"
-  ":hirameki.patent/jurisdiction"
-  ":us"]
- [":db/add"
-  "hirameki-patent:US2901467"
-  ":hirameki.patent/field"
-  "UNKNOWN"]
- [":db/add"
-  "hirameki-patent:US2901467"
-  ":hirameki.patent/assignee"
-  ":ei-du-pont-de-nemours-and"]
- [":db/add"
-  "hirameki-patent:US2901467"
-  ":hirameki.patent/status"
-  ":granted"]
- [":db/add"
-  "hirameki-patent:US2901467"
-  ":hirameki.patent/open-license"
-  ":none"]
- [":db/add"
-  "hirameki-patent:US2901467"
   ":hirameki.obs/release-status"
   ":public-domain"]]

@@ -1,4 +1,45 @@
 [[":db/add"
+  "hirameki-patent:US2901348"
+  ":hirameki/sourcing"
+  ":authoritative"]
+ [":db/add" "hirameki-patent:US2901348" ":hirameki/derived" true]
+ [":db/add"
+  "hirameki-patent:US2901348"
+  ":hirameki.obs/years-to-expiry"
+  -53]
+ [":db/add"
+  "hirameki-patent:US2901348"
+  ":hirameki/source"
+  "https://patents.google.com/patent/US2901348/en"]
+ [":db/add"
+  "hirameki-patent:US2901467"
+  ":hirameki.patent/title"
+  "Polyurethane coating compositions"]
+ [":db/add"
+  "hirameki-patent:US2901467"
+  ":hirameki.patent/jurisdiction"
+  ":us"]
+ [":db/add"
+  "hirameki-patent:US2901467"
+  ":hirameki.patent/field"
+  "UNKNOWN"]
+ [":db/add"
+  "hirameki-patent:US2901467"
+  ":hirameki.patent/assignee"
+  ":ei-du-pont-de-nemours-and"]
+ [":db/add"
+  "hirameki-patent:US2901467"
+  ":hirameki.patent/status"
+  ":granted"]
+ [":db/add"
+  "hirameki-patent:US2901467"
+  ":hirameki.patent/open-license"
+  ":none"]
+ [":db/add"
+  "hirameki-patent:US2901467"
+  ":hirameki.obs/release-status"
+  ":public-domain"]
+ [":db/add"
   "hirameki-patent:US2901467"
   ":hirameki/sourcing"
   ":authoritative"]
@@ -6732,6 +6773,47 @@
   ":hirameki/source"
   "https://patents.google.com/patent/US3027276/en"]
  [":db/add"
+  "hirameki-patent:US3027279"
+  ":hirameki.patent/title"
+  "Electrical insulating resin"]
+ [":db/add"
+  "hirameki-patent:US3027279"
+  ":hirameki.patent/jurisdiction"
+  ":us"]
+ [":db/add"
+  "hirameki-patent:US3027279"
+  ":hirameki.patent/field"
+  "UNKNOWN"]
+ [":db/add"
+  "hirameki-patent:US3027279"
+  ":hirameki.patent/assignee"
+  ":minnesota-mining-and-manufacturing"]
+ [":db/add"
+  "hirameki-patent:US3027279"
+  ":hirameki.patent/status"
+  ":granted"]
+ [":db/add"
+  "hirameki-patent:US3027279"
+  ":hirameki.patent/open-license"
+  ":none"]
+ [":db/add"
+  "hirameki-patent:US3027279"
+  ":hirameki.obs/release-status"
+  ":public-domain"]
+ [":db/add"
+  "hirameki-patent:US3027279"
+  ":hirameki/sourcing"
+  ":authoritative"]
+ [":db/add" "hirameki-patent:US3027279" ":hirameki/derived" true]
+ [":db/add"
+  "hirameki-patent:US3027279"
+  ":hirameki.obs/years-to-expiry"
+  -47]
+ [":db/add"
+  "hirameki-patent:US3027279"
+  ":hirameki/source"
+  "https://patents.google.com/patent/US3027279/en"]
+ [":db/add"
   "hirameki-patent:US3027357"
   ":hirameki.patent/title"
   "Cross-linking carboxyl containing polymers"]
@@ -10227,82 +10309,4 @@
  [":db/add"
   "hirameki-patent:US3094432"
   ":hirameki.patent/open-license"
-  ":none"]
- [":db/add"
-  "hirameki-patent:US3094432"
-  ":hirameki.obs/release-status"
-  ":public-domain"]
- [":db/add"
-  "hirameki-patent:US3094432"
-  ":hirameki/sourcing"
-  ":authoritative"]
- [":db/add" "hirameki-patent:US3094432" ":hirameki/derived" true]
- [":db/add"
-  "hirameki-patent:US3094432"
-  ":hirameki.obs/years-to-expiry"
-  -46]
- [":db/add"
-  "hirameki-patent:US3094432"
-  ":hirameki/source"
-  "https://patents.google.com/patent/US3094432/en"]
- [":db/add"
-  "hirameki-patent:US3096250"
-  ":hirameki.patent/title"
-  "Novel particulate antigens and process"]
- [":db/add"
-  "hirameki-patent:US3096250"
-  ":hirameki.patent/jurisdiction"
-  ":us"]
- [":db/add"
-  "hirameki-patent:US3096250"
-  ":hirameki.patent/field"
-  "UNKNOWN"]
- [":db/add"
-  "hirameki-patent:US3096250"
-  ":hirameki.patent/assignee"
-  ":indiana-university-foundation"]
- [":db/add"
-  "hirameki-patent:US3096250"
-  ":hirameki.patent/status"
-  ":granted"]
- [":db/add"
-  "hirameki-patent:US3096250"
-  ":hirameki.patent/open-license"
-  ":none"]
- [":db/add"
-  "hirameki-patent:US3096250"
-  ":hirameki.obs/release-status"
-  ":public-domain"]
- [":db/add"
-  "hirameki-patent:US3096250"
-  ":hirameki/sourcing"
-  ":authoritative"]
- [":db/add" "hirameki-patent:US3096250" ":hirameki/derived" true]
- [":db/add"
-  "hirameki-patent:US3096250"
-  ":hirameki.obs/years-to-expiry"
-  -47]
- [":db/add"
-  "hirameki-patent:US3096250"
-  ":hirameki/source"
-  "https://patents.google.com/patent/US3096250/en"]
- [":db/add"
-  "hirameki-patent:US3098719"
-  ":hirameki.patent/title"
-  "Fluid processing system with continuous filter apparatus"]
- [":db/add"
-  "hirameki-patent:US3098719"
-  ":hirameki.patent/jurisdiction"
-  ":us"]
- [":db/add"
-  "hirameki-patent:US3098719"
-  ":hirameki.patent/field"
-  "UNKNOWN"]
- [":db/add"
-  "hirameki-patent:US3098719"
-  ":hirameki.patent/assignee"
-  ":technicon-instruments"]
- [":db/add"
-  "hirameki-patent:US3098719"
-  ":hirameki.patent/status"
-  ":granted"]]
+  ":none"]]

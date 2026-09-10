@@ -1569,6 +1569,29 @@
    "US2763577"],
   :term-years 20,
   :open-license :none}
+ {:assignees [:union-carbide],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2884408/en",
+  :title
+  "Compositions of polyepoxides and polycarboxylic acid anhydrides",
+  :status :granted,
+  :id "US2884408",
+  :sourcing :authoritative,
+  :filing-year 1956,
+  :assignee :union-carbide,
+  :grant-year 1959,
+  :cites
+  ["US2527806"
+   "US2607761"
+   "US2623023"
+   "US2712535"
+   "US2720500"
+   "US2745847"
+   "US2764575"
+   "US2768153"],
+  :term-years 20,
+  :open-license :none}
  {:assignees [:crown-zellerbach],
   :jurisdiction :us,
   :field "UNKNOWN",
@@ -5057,6 +5080,20 @@
    "US2884340"
    "US2901467"
    "US2955958"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:minnesota-mining-and-manufacturing],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3027279/en",
+  :title "Electrical insulating resin",
+  :status :granted,
+  :id "US3027279",
+  :sourcing :authoritative,
+  :filing-year 1959,
+  :assignee :minnesota-mining-and-manufacturing,
+  :grant-year 1962,
+  :cites ["GB629490A" "GB758433A" "US2683131" "US2720500"],
   :term-years 20,
   :open-license :none}
  {:assignees [:union-carbide],
@@ -9438,6 +9475,20 @@
    "US3080789"],
   :term-years 20,
   :open-license :none}
+ {:assignees [:ei-du-pont-de-nemours-and],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3242142/en",
+  :title "Process for curing epoxy resins",
+  :status :granted,
+  :id "US3242142",
+  :sourcing :authoritative,
+  :filing-year 1962,
+  :assignee :ei-du-pont-de-nemours-and,
+  :grant-year 1966,
+  :cites ["US2947717"],
+  :term-years 20,
+  :open-license :none}
  {:assignees [:azoplate],
   :jurisdiction :us,
   :field "UNKNOWN",
@@ -9553,6 +9604,36 @@
   :assignee :union-carbide,
   :grant-year 1966,
   :cites ["US2970948" "US3046201"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:celanese-coatings],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3247144/en",
+  :title
+  "Carboxy copolymers prepared in carboxylic acids and/or anhydrides",
+  :status :granted,
+  :id "US3247144",
+  :sourcing :authoritative,
+  :filing-year 1962,
+  :assignee :celanese-coatings,
+  :grant-year 1966,
+  :cites ["US3046246"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:union-carbide],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3247283/en",
+  :title
+  "Curable compositions comprising dicyclopentadiene dioxide, diglycidyl ether of a polyhydric phenol, polycarboxylic acid anhydride and organic polyol and resins made therefrom",
+  :status :granted,
+  :id "US3247283",
+  :sourcing :authoritative,
+  :filing-year 1961,
+  :assignee :union-carbide,
+  :grant-year 1966,
+  :cites ["US2830031" "US2934521" "US2947717" "US2985616"],
   :term-years 20,
   :open-license :none}
  {:assignees [:gevaert-photo-producten],
@@ -9718,90 +9799,5 @@
   :assignee :hoechst,
   :grant-year 1966,
   :cites ["DE1023033B" "US2854434" "US2888434" "US3043821"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:energy-conversion-devices],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3255324/en",
-  :title "Moisture responsive resistance device",
-  :status :granted,
-  :id "US3255324",
-  :sourcing :authoritative,
-  :filing-year 1962,
-  :assignee :energy-conversion-devices,
-  :grant-year 1966,
-  :cites
-  ["US2127538"
-   "US2454584"
-   "US2458348"
-   "US2510018"
-   "US2715667"
-   "US2870306"
-   "US3056935"
-   "US3058079"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:ajinomoto],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3258408/en",
-  :title "Method of producing xanthosine",
-  :status :granted,
-  :id "US3258408",
-  :sourcing :authoritative,
-  :filing-year 1963,
-  :assignee :ajinomoto,
-  :grant-year 1966,
-  :cites ["US3085946" "US3102079" "US3111459" "US3118820" "US3135666"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:scientific-industries],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3260413/en",
-  :title "Automatic chemical analyzer",
-  :status :granted,
-  :id "US3260413",
-  :sourcing :authoritative,
-  :filing-year 1964,
-  :assignee :scientific-industries,
-  :grant-year 1966,
-  :cites
-  ["US1383270"
-   "US2423969"
-   "US2642212"
-   "US2763417"
-   "US2967644"
-   "US3036893"
-   "US678699"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:siemens-schuckertwerke],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3260978/en",
-  :title "Interleaved winding arrangement for electrical apparatus",
-  :status :granted,
-  :id "US3260978",
-  :sourcing :authoritative,
-  :filing-year 1963,
-  :assignee :siemens-schuckertwerke,
-  :grant-year 1966,
-  :cites ["FR1222757A" "FR1244867A" "NL99508C"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:scientific-industries],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3261668/en",
-  :title "Chemical analyzer tape",
-  :status :granted,
-  :id "US3261668",
-  :sourcing :authoritative,
-  :filing-year 1962,
-  :assignee :scientific-industries,
-  :grant-year 1966,
-  :cites ["US2129754" "US2249867" "US2692830" "US2918033" "US3036893"],
   :term-years 20,
   :open-license :none}]
