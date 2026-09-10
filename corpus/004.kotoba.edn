@@ -1,4 +1,102 @@
-[{:assignees [:rohm-and-haas],
+[{:assignees [:technicon-instruments],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3266298/en",
+  :title
+  "Means and method for the identification of samples for blood typing",
+  :status :granted,
+  :id "US3266298",
+  :sourcing :authoritative,
+  :filing-year 1963,
+  :assignee :technicon-instruments,
+  :grant-year 1966,
+  :cites
+  ["US1384457"
+   "US2725782"
+   "US2780225"
+   "US2878574"
+   "US2896619"
+   "US2950716"
+   "US3080746"
+   "US3127892"
+   "US3166929"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:technicon-instruments],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3266322/en",
+  :title
+  "Automatic liquid sample supply and wash apparatus for automatic analysis system",
+  :status :granted,
+  :id "US3266322",
+  :sourcing :authoritative,
+  :filing-year 1964,
+  :assignee :technicon-instruments,
+  :grant-year 1966,
+  :cites ["US3134263"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:general-mills],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3267080/en",
+  :title
+  "Reaction product of an organic diisocyanate with a polymeric fat aciddialkanolamine condensate",
+  :status :granted,
+  :id "US3267080",
+  :sourcing :authoritative,
+  :filing-year 1965,
+  :assignee :general-mills,
+  :grant-year 1966,
+  :cites ["US3139437" "US3206416"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:ionics],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3268441/en",
+  :title "Water recovery by electrodialysis",
+  :status :granted,
+  :id "US3268441",
+  :sourcing :authoritative,
+  :filing-year 1963,
+  :assignee :ionics,
+  :grant-year 1966,
+  :cites ["US3127243"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:general-electric],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3269419/en",
+  :title "Fluid amplifiers",
+  :status :granted,
+  :id "US3269419",
+  :sourcing :authoritative,
+  :filing-year 1963,
+  :assignee :general-electric,
+  :grant-year 1966,
+  :cites
+  ["DE1083607B"
+   "US1477645"
+   "US1549196"
+   "US1628723"
+   "US2132961"
+   "US3001539"
+   "US3122062"
+   "US3122165"
+   "US3123900"
+   "US3144037"
+   "US3144208"
+   "US3159208"
+   "US3168897"
+   "US3182674"
+   "US3182686"
+   "US3187762"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:rohm-and-haas],
   :jurisdiction :us,
   :field "UNKNOWN",
   :source "https://patents.google.com/patent/US3269911/en",
@@ -1608,6 +1706,21 @@
    "US2965219"
    "US3057510"
    "US3097070"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:dow-chemical],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3356629/en",
+  :title
+  "Method for preparing aqueous dispersions of high molecular weight olefin polymers",
+  :status :granted,
+  :id "US3356629",
+  :sourcing :authoritative,
+  :filing-year 1964,
+  :assignee :dow-chemical,
+  :grant-year 1967,
+  :cites ["CA487995A" "US2313144" "US2951054"],
   :term-years 20,
   :open-license :none}
  {:assignees [:ei-du-pont-de-nemours-and],
@@ -3557,6 +3670,28 @@
   :cites ["US2957079" "US3059112"],
   :term-years 20,
   :open-license :none}
+ {:assignees [:hercules],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3475369/en",
+  :title "Colloidally dispersible alpha-olefin copolymers",
+  :status :granted,
+  :id "US3475369",
+  :sourcing :authoritative,
+  :filing-year 1967,
+  :assignee :hercules,
+  :grant-year 1969,
+  :cites
+  ["GB979123A"
+   "US2996459"
+   "US3152088"
+   "US3168506"
+   "US3210332"
+   "US3272788"
+   "US3282906"
+   "US3325461"],
+  :term-years 20,
+  :open-license :none}
  {:assignees [:boehringer-mannheim],
   :jurisdiction :us,
   :field "UNKNOWN",
@@ -3778,6 +3913,35 @@
    "US3101292"
    "US3306769"
    "US3328198"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:hercules],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3483276/en",
+  :title "Blends of modified and unmodified polypropylene",
+  :status :granted,
+  :id "US3483276",
+  :sourcing :authoritative,
+  :filing-year 1964,
+  :assignee :hercules,
+  :grant-year 1969,
+  :cites
+  ["FR1268469A" "US2662874" "US2838437" "US2973344" "US3284380"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:harry-d-anspon],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3485785/en",
+  :title "Ethylene interpolymer compositions and processes",
+  :status :granted,
+  :id "US3485785",
+  :sourcing :authoritative,
+  :filing-year 1968,
+  :assignee :harry-d-anspon,
+  :grant-year 1969,
+  :cites ["US3337488"],
   :term-years 20,
   :open-license :none}
  {:assignees [:us-philips],
@@ -7753,6 +7917,19 @@
   :grant-year 1972,
   :term-years 20,
   :open-license :none}
+ {:assignees [:dulux-australia],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3689445/en",
+  :title "Thickened aqueous latices",
+  :status :granted,
+  :id "US3689445",
+  :sourcing :authoritative,
+  :filing-year 1968,
+  :assignee :dulux-australia,
+  :grant-year 1972,
+  :term-years 20,
+  :open-license :none}
  {:assignees [:syva],
   :jurisdiction :us,
   :field "UNKNOWN",
@@ -8983,154 +9160,5 @@
   :assignee :coulter-electronics,
   :grant-year 1973,
   :cites ["US3299354" "US3583209"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:phillips-petroleum],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3749593/en",
-  :title "Laminated materials and method of preparation",
-  :status :granted,
-  :id "US3749593",
-  :sourcing :authoritative,
-  :filing-year 1971,
-  :assignee :phillips-petroleum,
-  :grant-year 1973,
-  :term-years 20,
-  :open-license :none}
- {:assignees [:takeda-chemical-industries],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3751412/en",
-  :title "2-amino-1,5-benzodiazocine derivatives",
-  :status :granted,
-  :id "US3751412",
-  :sourcing :authoritative,
-  :filing-year 1971,
-  :assignee :takeda-chemical-industries,
-  :grant-year 1973,
-  :term-years 20,
-  :open-license :none}
- {:assignees [:university-of-sydney],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3752805/en",
-  :title "2-loweralkylthioadenosines",
-  :status :granted,
-  :id "US3752805",
-  :sourcing :authoritative,
-  :filing-year 1970,
-  :assignee :university-of-sydney,
-  :grant-year 1973,
-  :term-years 20,
-  :open-license :none}
- {:assignees [:wr-grace-and],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3753720/en",
-  :title "Solder resistant photopolymer compositions",
-  :status :granted,
-  :id "US3753720",
-  :sourcing :authoritative,
-  :filing-year 1972,
-  :assignee :wr-grace-and,
-  :grant-year 1973,
-  :cites ["US3537853" "US3619393" "US3701721" "US3708413"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:bjorksten-research-laboratories],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3754867/en",
-  :title "Carbon dioxide sensing system",
-  :status :granted,
-  :id "US3754867",
-  :sourcing :authoritative,
-  :filing-year 1971,
-  :assignee :bjorksten-research-laboratories,
-  :grant-year 1973,
-  :term-years 20,
-  :open-license :none}
- {:assignees [:f-hoffmann-la-roche],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3755086/en",
-  :title
-  "Diagnostic method utilizing synthetic deoxyrilionucleotide oligomer template",
-  :status :granted,
-  :id "US3755086",
-  :sourcing :authoritative,
-  :filing-year 1971,
-  :assignee :f-hoffmann-la-roche,
-  :grant-year 1973,
-  :cites ["US3597318"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:baxter-laboratories],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3757955/en",
-  :title "Multi-layer membrane type mass transfer device and process",
-  :status :granted,
-  :id "US3757955",
-  :sourcing :authoritative,
-  :filing-year 1971,
-  :assignee :baxter-laboratories,
-  :grant-year 1973,
-  :cites ["US3266223" "US3370710" "US3396849" "US3442388"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:research],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3758396/en",
-  :title
-  "Ition preparation of immobilized enzymemembrane complexes by electrocodepos",
-  :status :granted,
-  :id "US3758396",
-  :sourcing :authoritative,
-  :filing-year 1971,
-  :assignee :research,
-  :grant-year 1973,
-  :term-years 20,
-  :open-license :none}
- {:assignees [:union-carbide],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3759666/en",
-  :title "Analytical process",
-  :status :granted,
-  :id "US3759666",
-  :sourcing :authoritative,
-  :filing-year 1971,
-  :assignee :union-carbide,
-  :grant-year 1973,
-  :term-years 20,
-  :open-license :none}
- {:assignees [:millipore],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3759773/en",
-  :title "Laminated sheet for electrophoresis",
-  :status :granted,
-  :id "US3759773",
-  :sourcing :authoritative,
-  :filing-year 1970,
-  :assignee :millipore,
-  :grant-year 1973,
-  :term-years 20,
-  :open-license :none}
- {:assignees [:ashland-oil],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3759873/en",
-  :title
-  "Boxy polyols water dispersible polyurethanes based on polyesters prepared from car",
-  :status :granted,
-  :id "US3759873",
-  :sourcing :authoritative,
-  :filing-year 1971,
-  :assignee :ashland-oil,
-  :grant-year 1973,
   :term-years 20,
   :open-license :none}]

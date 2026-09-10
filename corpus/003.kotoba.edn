@@ -1,4 +1,80 @@
-[{:assignees [:ganahl-de],
+[{:jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2809147/en",
+  :title
+  "Insecticidal film-forming composition and method of making same",
+  :status :granted,
+  :id "US2809147",
+  :sourcing :authoritative,
+  :filing-year 1954,
+  :assignee :unassigned,
+  :grant-year 1957,
+  :cites ["GB578206A" "GB592670A" "US2517930" "US2572864" "US2621163"],
+  :term-years 20,
+  :open-license :none}
+ {:jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2809415/en",
+  :title "Molding of building elements of elongated shape",
+  :status :granted,
+  :id "US2809415",
+  :sourcing :authoritative,
+  :filing-year 1955,
+  :assignee :unassigned,
+  :grant-year 1957,
+  :cites ["US1313893" "US2296352" "US2677165" "US992782"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:dow-corning],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2811408/en",
+  :title "Method of molding plastic articles",
+  :status :granted,
+  :id "US2811408",
+  :sourcing :authoritative,
+  :filing-year 1954,
+  :assignee :dow-corning,
+  :grant-year 1957,
+  :cites ["GB652557A" "US2478165" "US2588367"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:phillips-petroleum],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2813809/en",
+  :title "Wire covered with a hydrogenated rubbery butadiene polymer",
+  :status :granted,
+  :id "US2813809",
+  :sourcing :authoritative,
+  :filing-year 1954,
+  :assignee :phillips-petroleum,
+  :grant-year 1957,
+  :cites
+  ["US2046160"
+   "US2046257"
+   "US2109495"
+   "US2312024"
+   "US2693461"
+   "US2743233"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:dow-corning],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2814601/en",
+  :title
+  "Organopolysiloxane adhesive and pressure-sensitive adhesive tape containing same",
+  :status :granted,
+  :id "US2814601",
+  :sourcing :authoritative,
+  :filing-year 1954,
+  :assignee :dow-corning,
+  :grant-year 1957,
+  :cites ["US2442196" "US2607792" "US2666035" "US2673843" "US2676182"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:ganahl-de],
   :jurisdiction :us,
   :field "UNKNOWN",
   :source "https://patents.google.com/patent/US2815309/en",
@@ -9723,103 +9799,5 @@
    "US3041310"
    "US3078254"
    "US3149182"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:technicon-instruments],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3266298/en",
-  :title
-  "Means and method for the identification of samples for blood typing",
-  :status :granted,
-  :id "US3266298",
-  :sourcing :authoritative,
-  :filing-year 1963,
-  :assignee :technicon-instruments,
-  :grant-year 1966,
-  :cites
-  ["US1384457"
-   "US2725782"
-   "US2780225"
-   "US2878574"
-   "US2896619"
-   "US2950716"
-   "US3080746"
-   "US3127892"
-   "US3166929"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:technicon-instruments],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3266322/en",
-  :title
-  "Automatic liquid sample supply and wash apparatus for automatic analysis system",
-  :status :granted,
-  :id "US3266322",
-  :sourcing :authoritative,
-  :filing-year 1964,
-  :assignee :technicon-instruments,
-  :grant-year 1966,
-  :cites ["US3134263"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:general-mills],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3267080/en",
-  :title
-  "Reaction product of an organic diisocyanate with a polymeric fat aciddialkanolamine condensate",
-  :status :granted,
-  :id "US3267080",
-  :sourcing :authoritative,
-  :filing-year 1965,
-  :assignee :general-mills,
-  :grant-year 1966,
-  :cites ["US3139437" "US3206416"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:ionics],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3268441/en",
-  :title "Water recovery by electrodialysis",
-  :status :granted,
-  :id "US3268441",
-  :sourcing :authoritative,
-  :filing-year 1963,
-  :assignee :ionics,
-  :grant-year 1966,
-  :cites ["US3127243"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:general-electric],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3269419/en",
-  :title "Fluid amplifiers",
-  :status :granted,
-  :id "US3269419",
-  :sourcing :authoritative,
-  :filing-year 1963,
-  :assignee :general-electric,
-  :grant-year 1966,
-  :cites
-  ["DE1083607B"
-   "US1477645"
-   "US1549196"
-   "US1628723"
-   "US2132961"
-   "US3001539"
-   "US3122062"
-   "US3122165"
-   "US3123900"
-   "US3144037"
-   "US3144208"
-   "US3159208"
-   "US3168897"
-   "US3182674"
-   "US3182686"
-   "US3187762"],
   :term-years 20,
   :open-license :none}]

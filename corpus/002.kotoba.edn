@@ -1,4 +1,52 @@
-[{:assignees [:bf-goodrich],
+[{:assignees [:ei-du-pont-de-nemours-and],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2430479/en",
+  :title "Bonding of laminates by means of isocyanates",
+  :status :granted,
+  :id "US2430479",
+  :sourcing :authoritative,
+  :filing-year 1941,
+  :assignee :ei-du-pont-de-nemours-and,
+  :grant-year 1947,
+  :cites ["US2046378" "US2047226" "US2241321" "US2282827" "US2284896"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:ei-du-pont-de-nemours-and],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2430860/en",
+  :title "Polyamide-formaldehyde reactions and products thereof",
+  :status :granted,
+  :id "US2430860",
+  :sourcing :authoritative,
+  :filing-year 1944,
+  :assignee :ei-du-pont-de-nemours-and,
+  :grant-year 1947,
+  :cites
+  ["US2141169"
+   "US2145242"
+   "US2173005"
+   "US2191957"
+   "US2244184"
+   "US2317181"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:ei-du-pont-de-nemours-and],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2430866/en",
+  :title "Granular n-substituted polyamides",
+  :status :granted,
+  :id "US2430866",
+  :sourcing :authoritative,
+  :filing-year 1944,
+  :assignee :ei-du-pont-de-nemours-and,
+  :grant-year 1947,
+  :cites ["GB542128A" "US2173005" "US2244184"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:bf-goodrich],
   :jurisdiction :us,
   :field "UNKNOWN",
   :source "https://patents.google.com/patent/US2431745/en",
@@ -1602,6 +1650,21 @@
    "US2367670"
    "US2402631"
    "US2429177"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:ei-du-pont-de-nemours-and],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2496989/en",
+  :title
+  "Aqueous dispersion of ethylene polymers containing a salt of a polymeric amic acid",
+  :status :granted,
+  :id "US2496989",
+  :sourcing :authoritative,
+  :filing-year 1946,
+  :assignee :ei-du-pont-de-nemours-and,
+  :grant-year 1950,
+  :cites ["US1976679" "US2386674"],
   :term-years 20,
   :open-license :none}
  {:assignees [:paper-patents],
@@ -9931,81 +9994,5 @@
   :assignee :burgess-battery,
   :grant-year 1957,
   :cites ["US2037749" "US2200363" "US2441945" "US2463452" "US882770"],
-  :term-years 20,
-  :open-license :none}
- {:jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US2809147/en",
-  :title
-  "Insecticidal film-forming composition and method of making same",
-  :status :granted,
-  :id "US2809147",
-  :sourcing :authoritative,
-  :filing-year 1954,
-  :assignee :unassigned,
-  :grant-year 1957,
-  :cites ["GB578206A" "GB592670A" "US2517930" "US2572864" "US2621163"],
-  :term-years 20,
-  :open-license :none}
- {:jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US2809415/en",
-  :title "Molding of building elements of elongated shape",
-  :status :granted,
-  :id "US2809415",
-  :sourcing :authoritative,
-  :filing-year 1955,
-  :assignee :unassigned,
-  :grant-year 1957,
-  :cites ["US1313893" "US2296352" "US2677165" "US992782"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:dow-corning],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US2811408/en",
-  :title "Method of molding plastic articles",
-  :status :granted,
-  :id "US2811408",
-  :sourcing :authoritative,
-  :filing-year 1954,
-  :assignee :dow-corning,
-  :grant-year 1957,
-  :cites ["GB652557A" "US2478165" "US2588367"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:phillips-petroleum],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US2813809/en",
-  :title "Wire covered with a hydrogenated rubbery butadiene polymer",
-  :status :granted,
-  :id "US2813809",
-  :sourcing :authoritative,
-  :filing-year 1954,
-  :assignee :phillips-petroleum,
-  :grant-year 1957,
-  :cites
-  ["US2046160"
-   "US2046257"
-   "US2109495"
-   "US2312024"
-   "US2693461"
-   "US2743233"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:dow-corning],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US2814601/en",
-  :title
-  "Organopolysiloxane adhesive and pressure-sensitive adhesive tape containing same",
-  :status :granted,
-  :id "US2814601",
-  :sourcing :authoritative,
-  :filing-year 1954,
-  :assignee :dow-corning,
-  :grant-year 1957,
-  :cites ["US2442196" "US2607792" "US2666035" "US2673843" "US2676182"],
   :term-years 20,
   :open-license :none}]

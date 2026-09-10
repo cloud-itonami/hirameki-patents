@@ -1,4 +1,170 @@
-[{:assignees [:syva],
+[{:assignees [:dulux-australia],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US4120768/en",
+  :title
+  "Process for electrocoating aqueous coating composition comprising dispersion in water of ionizable salt of epoxy amine adduct",
+  :status :granted,
+  :id "US4120768",
+  :sourcing :authoritative,
+  :filing-year 1977,
+  :assignee :dulux-australia,
+  :grant-year 1978,
+  :cites ["GB1129005A" "GB1307585A" "US3617458" "US3869366"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:becton-dickinson-and],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US4120945/en",
+  :title
+  "Substrate coated with receptor and labeled ligand for assays",
+  :status :granted,
+  :id "US4120945",
+  :sourcing :authoritative,
+  :filing-year 1976,
+  :assignee :becton-dickinson-and,
+  :grant-year 1978,
+  :cites ["US3646346" "US3790663" "US3867517" "US4012494" "US4017597"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:hoffmann-la-roche],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US4124598/en",
+  :title "Psoralens",
+  :status :granted,
+  :id "US4124598",
+  :sourcing :authoritative,
+  :filing-year 1976,
+  :assignee :hoffmann-la-roche,
+  :grant-year 1978,
+  :cites ["US3201421"],
+  :term-years 20,
+  :open-license :none}
+ {:jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US4125492/en",
+  :title
+  "Affinity chromatography of vibrio cholerae enterotoxin-ganglioside polysaccharide and the biological effects of ganglioside-containing soluble polymers",
+  :status :granted,
+  :id "US4125492",
+  :sourcing :authoritative,
+  :filing-year 1976,
+  :assignee :unassigned,
+  :grant-year 1978,
+  :cites ["US3278392"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:agfa-gevaert],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US4128427/en",
+  :title "Silver halide emulsions containing polymeric color couplers",
+  :status :granted,
+  :id "US4128427",
+  :sourcing :authoritative,
+  :filing-year 1977,
+  :assignee :agfa-gevaert,
+  :grant-year 1978,
+  :cites ["DE2044992A1" "US3580722" "US3912513" "US3926436"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:fuji-photo-film],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US4128470/en",
+  :title
+  "Supports for electrophoresis and process for the production of the same",
+  :status :granted,
+  :id "US4128470",
+  :sourcing :authoritative,
+  :filing-year 1978,
+  :assignee :fuji-photo-film,
+  :grant-year 1978,
+  :cites
+  ["US1421341"
+   "US2944017"
+   "US3439074"
+   "US3556992"
+   "US3592953"
+   "US3594263"
+   "US3808118"
+   "US3857778"
+   "US3960499"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:university-of-virginia-patent-foundation],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US4128628/en",
+  :title "Automated immunoassay",
+  :status :granted,
+  :id "US4128628",
+  :sourcing :authoritative,
+  :filing-year 1977,
+  :assignee :university-of-virginia-patent-foundation,
+  :grant-year 1978,
+  :cites
+  ["US3896217"
+   "US3940475"
+   "US3950134"
+   "US3950643"
+   "US3989383"
+   "US4009005"
+   "US4022577"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:toyo-soda-manufacturing],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US4128706/en",
+  :title "Carrier for liquid chromatography",
+  :status :granted,
+  :id "US4128706",
+  :sourcing :authoritative,
+  :filing-year 1977,
+  :assignee :toyo-soda-manufacturing,
+  :grant-year 1978,
+  :cites ["US3645996" "US3970603" "US4038469"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:rca],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US4128868/en",
+  :title "D-C converter using pulsed resonant circuit",
+  :status :granted,
+  :id "US4128868",
+  :sourcing :authoritative,
+  :filing-year 1977,
+  :assignee :rca,
+  :grant-year 1978,
+  :cites
+  ["US2965856"
+   "US3332001"
+   "US3373334"
+   "US3582754"
+   "US3596165"
+   "US4017784"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:japan-atomic-energy-research-institute :maruzen-oil],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US4129617/en",
+  :title
+  "Fluoro carbon graft copolymer and process for the production thereof",
+  :status :granted,
+  :id "US4129617",
+  :sourcing :authoritative,
+  :filing-year 1977,
+  :assignee :japan-atomic-energy-research-institute,
+  :grant-year 1978,
+  :cites ["US3700609"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:syva],
   :jurisdiction :us,
   :field "UNKNOWN",
   :source "https://patents.google.com/patent/US4130462/en",
@@ -3371,6 +3537,20 @@
    "US4230633"],
   :term-years 20,
   :open-license :none}
+ {:assignees [:scm],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US4277385/en",
+  :title "High PVC latex paint",
+  :status :granted,
+  :id "US4277385",
+  :sourcing :authoritative,
+  :filing-year 1980,
+  :assignee :scm,
+  :grant-year 1981,
+  :cites ["US3423351" "US4069186"],
+  :term-years 20,
+  :open-license :none}
  {:assignees [:fujifilm-ri-pharma],
   :jurisdiction :us,
   :field "UNKNOWN",
@@ -3490,6 +3670,20 @@
   :assignee :unassigned,
   :grant-year 1981,
   :cites ["US4132528" "US4134792" "US4168300"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:scm],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US4283320/en",
+  :title "Semi-gloss latex paint",
+  :status :granted,
+  :id "US4283320",
+  :sourcing :authoritative,
+  :filing-year 1979,
+  :assignee :scm,
+  :grant-year 1981,
+  :cites ["US2889236" "US3423351" "US3819542" "US3891591" "US4069186"],
   :term-years 20,
   :open-license :none}
  {:assignees [:olympus-optical],
@@ -6874,6 +7068,21 @@
    "US4272506"],
   :term-years 20,
   :open-license :none}
+ {:assignees [:rohm-and-haas],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US4469825/en",
+  :title
+  "Sequential heteropolymer dispersion and a particulate material obtainable therefrom, useful in coating compositions as an opacifying agent",
+  :status :granted,
+  :id "US4469825",
+  :sourcing :authoritative,
+  :filing-year 1983,
+  :assignee :rohm-and-haas,
+  :grant-year 1984,
+  :cites ["EP0022633B1" "US4304703"],
+  :term-years 20,
+  :open-license :none}
  {:assignees [:dow-chemical],
   :jurisdiction :us,
   :field "UNKNOWN",
@@ -7071,6 +7280,21 @@
    "US3246559"
    "US3699348"
    "US3838926"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:basf-farben-und-fasern],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US4489135/en",
+  :title
+  "Water-dilutable coating agent for preparing the base layer of a multilayer coating",
+  :status :granted,
+  :id "US4489135",
+  :sourcing :authoritative,
+  :filing-year 1983,
+  :assignee :basf-farben-und-fasern,
+  :grant-year 1984,
+  :cites ["US4092286" "US4132686" "US4254168" "US4375498" "US4382114"],
   :term-years 20,
   :open-license :none}
  {:assignees [:nippon-paint],
@@ -7318,6 +7542,28 @@
    "US4298592"
    "US4343896"
    "US4353982"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:scm],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US4522961/en",
+  :title "Aqueous self-curing polymeric blends",
+  :status :granted,
+  :id "US4522961",
+  :sourcing :authoritative,
+  :filing-year 1984,
+  :assignee :scm,
+  :grant-year 1985,
+  :cites
+  ["US3991216"
+   "US4097438"
+   "US4169086"
+   "US4212781"
+   "US4289812"
+   "US4305859"
+   "US4316922"
+   "US4397970"],
   :term-years 20,
   :open-license :none}
  {:assignees [:energy-conversion-devices],
@@ -8620,6 +8866,35 @@
    "WO1980000188A1"],
   :term-years 20,
   :open-license :none}
+ {:assignees [:nippon-paint],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US4624973/en",
+  :title "Aqueous coating composition",
+  :status :granted,
+  :id "US4624973",
+  :sourcing :authoritative,
+  :filing-year 1984,
+  :assignee :nippon-paint,
+  :grant-year 1986,
+  :cites
+  ["US3876578"
+   "US3969560"
+   "US4069186"
+   "US4116903"
+   "US4254004"
+   "US4294735"
+   "US4383055"
+   "US4384056"
+   "US4395500"
+   "US4419465"
+   "US4426482"
+   "US4427819"
+   "US4442247"
+   "US4460732"
+   "US4474860"],
+  :term-years 20,
+  :open-license :none}
  {:assignees [:allied],
   :jurisdiction :us,
   :field "UNKNOWN",
@@ -9581,347 +9856,5 @@
    "US4481239"
    "US4508767"
    "US4548963"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:ppg-industries],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US4732791/en",
-  :title
-  "Color plus clear application of thermosetting high solids coating composition of epoxies, polyols and anhydrides",
-  :status :granted,
-  :id "US4732791",
-  :sourcing :authoritative,
-  :filing-year 1986,
-  :assignee :ppg-industries,
-  :grant-year 1988,
-  :cites
-  ["GB994907A"
-   "US2683131"
-   "US2712535"
-   "US2857354"
-   "US2890194"
-   "US2890210"
-   "US3008914"
-   "US3179714"
-   "US3215756"
-   "US3218274"
-   "US3269975"
-   "US3408215"
-   "US3523143"
-   "US3528935"
-   "US3781380"
-   "US3785635"
-   "US3787521"
-   "US3925507"
-   "US3932367"
-   "US3953644"
-   "US3954712"
-   "US3975314"
-   "US4046727"
-   "US4076676"
-   "US4102942"
-   "US4220679"
-   "US4226755"
-   "US4291137"
-   "US4322456"
-   "US4346144"
-   "US4350790"
-   "US4352842"
-   "US4359554"
-   "US4403003"
-   "US4403093"
-   "US4418182"
-   "US4452948"
-   "US4465815"
-   "US4471025"
-   "US4481239"
-   "US4508767"
-   "US4548963"
-   "WO1984000768A1"
-   "WO1984000770A1"
-   "WO1984000771A1"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:molecular-diagnostics],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US4737454/en",
-  :title
-  "Fast photochemical method of labelling nucleic acids for detection purposes in hybridization assays",
-  :status :granted,
-  :id "US4737454",
-  :sourcing :authoritative,
-  :filing-year 1984,
-  :assignee :molecular-diagnostics,
-  :grant-year 1988,
-  :cites
-  ["EP0156287A2"
-   "GB2019408A"
-   "US4218539"
-   "US4358535"
-   "US4486539"
-   "US4582789"
-   "US4617261"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:genetic-systems],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US4749647/en",
-  :title
-  "Polymerization-induced separation assay using recognition pairs",
-  :status :granted,
-  :id "US4749647",
-  :sourcing :authoritative,
-  :filing-year 1984,
-  :assignee :genetic-systems,
-  :grant-year 1988,
-  :cites
-  ["EP0044988A2"
-   "US3969287"
-   "US4292296"
-   "US4373071"
-   "US4469796"
-   "US4474892"
-   "US4486539"
-   "US4506009"
-   "US4511478"
-   "US4522922"
-   "US4530900"
-   "US4609707"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:amgen],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US4751177/en",
-  :title
-  "Methods and kits for performing nucleic acid hybridization assays",
-  :status :granted,
-  :id "US4751177",
-  :sourcing :authoritative,
-  :filing-year 1985,
-  :assignee :amgen,
-  :grant-year 1988,
-  :cites
-  ["EP0062286A1"
-   "EP0130515A2"
-   "EP0153873A2"
-   "US4358535"
-   "US4415732"
-   "US4486539"
-   "US4522922"
-   "WO1984003520A1"
-   "WO1985004674A1"],
-  :term-years 20,
-  :open-license :none}
- {:jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US475535/en",
-  :title "Machine for",
-  :status :granted,
-  :id "US475535",
-  :sourcing :authoritative,
-  :assignee :unassigned,
-  :grant-year 1892,
-  :term-years 20,
-  :open-license :none}
- {:assignees [:kansai-paint],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US4759961/en",
-  :title
-  "Coating method with crosslinked coatings from two coat-one bake systems",
-  :status :granted,
-  :id "US4759961",
-  :sourcing :authoritative,
-  :filing-year 1987,
-  :assignee :kansai-paint,
-  :grant-year 1988,
-  :cites
-  ["US3619398"
-   "US3676383"
-   "US3998716"
-   "US4315959"
-   "US4382114"
-   "US4463038"
-   "US4514445"
-   "US4529632"
-   "US4533703"
-   "US4536558"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:kansai-paint],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US4761212/en",
-  :title "Multiple coating method",
-  :status :granted,
-  :id "US4761212",
-  :sourcing :authoritative,
-  :filing-year 1986,
-  :assignee :kansai-paint,
-  :grant-year 1988,
-  :cites
-  ["US3619398"
-   "US3676383"
-   "US3998716"
-   "US4375498"
-   "US4463038"
-   "US4529632"
-   "US4536558"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:uniroyal-plastics],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US4762880/en",
-  :title "Water-based thermoforming adhesives",
-  :status :granted,
-  :id "US4762880",
-  :sourcing :authoritative,
-  :filing-year 1987,
-  :assignee :uniroyal-plastics,
-  :grant-year 1988,
-  :cites
-  ["US3948708"
-   "US4084996"
-   "US4225372"
-   "US4465534"
-   "US4465537"
-   "US4507413"
-   "US4526828"
-   "US4543144"
-   "US4643785"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:allied :genetics-institute],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US4766062/en",
-  :title
-  "Displacement polynucleotide assay method and polynucleotide complex reagent therefor",
-  :status :granted,
-  :id "US4766062",
-  :sourcing :authoritative,
-  :filing-year 1984,
-  :assignee :allied,
-  :grant-year 1988,
-  :cites
-  ["EP0063879A2"
-   "EP0070687B1"
-   "EP0097373B1"
-   "EP0124221A1"
-   "EP0127327A1"
-   "EP0133288A2"
-   "EP0139489A2"
-   "GB2125964A"
-   "US4205952"
-   "US4358535"
-   "US4388295"
-   "US4395486"
-   "US4434236"
-   "US4486539"
-   "US4568649"
-   "US4629689"
-   "WO1983001459A1"
-   "WO1983002277A1"
-   "WO1984002721A1"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:carnegie-mellon-university],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US4767708/en",
-  :title "Enzyme amplification and purification",
-  :status :granted,
-  :id "US4767708",
-  :sourcing :authoritative,
-  :filing-year 1984,
-  :assignee :carnegie-mellon-university,
-  :grant-year 1988,
-  :term-years 20,
-  :open-license :none}
- {:jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US4770992/en",
-  :title "Detection of specific DNA sequences by flow cytometry",
-  :status :granted,
-  :id "US4770992",
-  :sourcing :authoritative,
-  :filing-year 1985,
-  :assignee :unassigned,
-  :grant-year 1988,
-  :cites ["US4585736"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:kansai-paint],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US4772672/en",
-  :title "Curable compositions and method of curing same",
-  :status :granted,
-  :id "US4772672",
-  :sourcing :authoritative,
-  :filing-year 1987,
-  :assignee :kansai-paint,
-  :grant-year 1988,
-  :cites
-  ["GB1060469A"
-   "GB2086914A"
-   "GB932817A"
-   "US3187018"
-   "US3242145"
-   "US3277036"
-   "US3532642"
-   "US3697496"
-   "US4245079"
-   "US4652618"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:hoechst-celanese],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US4775730/en",
-  :title
-  "Copolymers of p-acetoxystyrene with any of certain polyunsaturated compounds",
-  :status :granted,
-  :id "US4775730",
-  :sourcing :authoritative,
-  :filing-year 1987,
-  :assignee :hoechst-celanese,
-  :grant-year 1988,
-  :cites
-  ["CA603164A"
-   "US2980658"
-   "US4096009"
-   "US4211824"
-   "US4283511"
-   "US4433015"
-   "US4480034"
-   "US4522999"
-   "US4535059"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:national-distillers-and-chemical],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US4775745/en",
-  :title
-  "Diazonium compounds useful as components for nucleic acid probes",
-  :status :granted,
-  :id "US4775745",
-  :sourcing :authoritative,
-  :filing-year 1986,
-  :assignee :national-distillers-and-chemical,
-  :grant-year 1988,
-  :cites
-  ["US2744116"
-   "US3637672"
-   "US3715872"
-   "US4539148"
-   "US4556513"
-   "US4617621"],
   :term-years 20,
   :open-license :none}]
