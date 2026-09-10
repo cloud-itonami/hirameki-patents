@@ -1,4 +1,114 @@
-[{:assignees [:general-foods],
+[{:assignees [:bf-goodrich],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2431745/en",
+  :title "Coating fabrics",
+  :status :granted,
+  :id "US2431745",
+  :sourcing :authoritative,
+  :filing-year 1945,
+  :assignee :bf-goodrich,
+  :grant-year 1947,
+  :cites
+  ["US1967863"
+   "US2204520"
+   "US2247064"
+   "US2340298"
+   "US2354574"
+   "US2373347"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:monsanto-chemicals],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2431873/en",
+  :title "Method of coating thermoplastics with silica",
+  :status :granted,
+  :id "US2431873",
+  :sourcing :authoritative,
+  :filing-year 1944,
+  :assignee :monsanto-chemicals,
+  :grant-year 1947,
+  :cites
+  ["GB317936A"
+   "GB466482A"
+   "GB492985A"
+   "GB502978A"
+   "GB505502A"
+   "US2008815"
+   "US2027931"
+   "US2329632"
+   "US2386259"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:general-aniline-and-film],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2431996/en",
+  :title
+  "Production of color negative film containing integral masking images for color correction",
+  :status :granted,
+  :id "US2431996",
+  :sourcing :authoritative,
+  :filing-year 1944,
+  :assignee :general-aniline-and-film,
+  :grant-year 1947,
+  :cites
+  ["US1229546"
+   "US1308538"
+   "US2193931"
+   "US2203656"
+   "US2221025"
+   "US2340656"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:molins-machine],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2432938/en",
+  :title "Rod forming mechanism",
+  :status :granted,
+  :id "US2432938",
+  :sourcing :authoritative,
+  :filing-year 1942,
+  :assignee :molins-machine,
+  :grant-year 1947,
+  :cites
+  ["US1723942"
+   "US1787551"
+   "US1875991"
+   "US2149924"
+   "US2209139"
+   "US2251518"
+   "US671417"
+   "US779430"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:continental-can],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2433062/en",
+  :title "Lacquers containing vinyl resins and phenolic resins",
+  :status :granted,
+  :id "US2433062",
+  :sourcing :authoritative,
+  :filing-year 1941,
+  :assignee :continental-can,
+  :grant-year 1947,
+  :cites
+  ["GB492906A"
+   "US2052093"
+   "US2057690"
+   "US2069983"
+   "US2195254"
+   "US2270662"
+   "US2293413"
+   "US2302557"
+   "US2310889"
+   "US2321783"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:general-foods],
   :jurisdiction :us,
   :field "UNKNOWN",
   :source "https://patents.google.com/patent/US2433478/en",
@@ -9897,95 +10007,5 @@
   :assignee :dow-corning,
   :grant-year 1957,
   :cites ["US2442196" "US2607792" "US2666035" "US2673843" "US2676182"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:ganahl-de],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US2815309/en",
-  :title "Method of making molded plastic articles",
-  :status :granted,
-  :id "US2815309",
-  :sourcing :authoritative,
-  :filing-year 1955,
-  :assignee :ganahl-de,
-  :grant-year 1957,
-  :cites ["US2222003" "US2370322" "US2531218" "US2591539" "US2682515"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:baker-oil-tools],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US2815817/en",
-  :title "Well packer and setting apparatus therefor",
-  :status :granted,
-  :id "US2815817",
-  :sourcing :authoritative,
-  :filing-year 1950,
-  :assignee :baker-oil-tools,
-  :grant-year 1957,
-  :cites
-  ["US1342927"
-   "US1850218"
-   "US2177601"
-   "US2189937"
-   "US2201096"
-   "US2202173"
-   "US2222750"
-   "US2228243"
-   "US2338369"
-   "US2467801"
-   "US2492212"
-   "US2618344"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:shawinigan-resins],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US2816655/en",
-  :title "Low adhesion coatings on adhesive tapes and liners",
-  :status :granted,
-  :id "US2816655",
-  :sourcing :authoritative,
-  :filing-year 1954,
-  :assignee :shawinigan-resins,
-  :grant-year 1957,
-  :cites ["US2168535"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:rca],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US2817265/en",
-  :title "Light dividing apparatus",
-  :status :granted,
-  :id "US2817265",
-  :sourcing :authoritative,
-  :filing-year 1953,
-  :assignee :rca,
-  :grant-year 1957,
-  :cites
-  ["DE435706C"
-   "US2415191"
-   "US2443722"
-   "US2494441"
-   "US2560351"
-   "US2648250"
-   "US2661902"
-   "US2724737"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:ei-du-pont-de-nemours-and],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US2818404/en",
-  :title "Curing of polyurethanes with a di(isocyanatoaryl) urea",
-  :status :granted,
-  :id "US2818404",
-  :sourcing :authoritative,
-  :filing-year 1954,
-  :assignee :ei-du-pont-de-nemours-and,
-  :grant-year 1957,
-  :cites ["US2597025" "US2621166" "US2692874"],
   :term-years 20,
   :open-license :none}]

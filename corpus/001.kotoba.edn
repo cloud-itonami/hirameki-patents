@@ -1,5 +1,97 @@
 [{:jurisdiction :us,
   :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US1308111/en",
+  :title "Vulcanizing-machine",
+  :status :granted,
+  :id "US1308111",
+  :sourcing :authoritative,
+  :assignee :unassigned,
+  :grant-year 1919,
+  :term-years 20,
+  :open-license :none}
+ {:jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US1310818/en",
+  :title "Frederick p",
+  :status :granted,
+  :id "US1310818",
+  :sourcing :authoritative,
+  :assignee :unassigned,
+  :grant-year 1919,
+  :term-years 20,
+  :open-license :none}
+ {:jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US1311491/en",
+  :title "Method of and apparatus for",
+  :status :granted,
+  :id "US1311491",
+  :sourcing :authoritative,
+  :assignee :unassigned,
+  :grant-year 1919,
+  :term-years 20,
+  :open-license :none}
+ {:jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US1312034/en",
+  :title "Of rochester",
+  :status :granted,
+  :id "US1312034",
+  :sourcing :authoritative,
+  :assignee :unassigned,
+  :grant-year 1919,
+  :term-years 20,
+  :open-license :none}
+ {:jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US1313626/en",
+  :title "Planoorapii co",
+  :status :granted,
+  :id "US1313626",
+  :sourcing :authoritative,
+  :assignee :unassigned,
+  :grant-year 1919,
+  :term-years 20,
+  :open-license :none}
+ {:jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US1322034/en",
+  :title "mcleod",
+  :status :granted,
+  :id "US1322034",
+  :sourcing :authoritative,
+  :assignee :unassigned,
+  :grant-year 1919,
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:ball-brothers-glass-manufacturing],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US1325527/en",
+  :title "Glassware-transferring machine.",
+  :status :granted,
+  :id "US1325527",
+  :sourcing :authoritative,
+  :filing-year 1918,
+  :assignee :ball-brothers-glass-manufacturing,
+  :grant-year 1919,
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:crandon-manufacturing],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US1340649/en",
+  :title "Process for regulating the acidity of sulfite liquor",
+  :status :granted,
+  :id "US1340649",
+  :sourcing :authoritative,
+  :filing-year 1917,
+  :assignee :crandon-manufacturing,
+  :grant-year 1920,
+  :term-years 20,
+  :open-license :none}
+ {:jurisdiction :us,
+  :field "UNKNOWN",
   :source "https://patents.google.com/patent/US1342192/en",
   :title "Apparatus for the molding of plastic materials",
   :status :granted,
@@ -9125,115 +9217,5 @@
   :assignee :ei-du-pont-de-nemours-and,
   :grant-year 1947,
   :cites ["GB542128A" "US2173005" "US2244184"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:bf-goodrich],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US2431745/en",
-  :title "Coating fabrics",
-  :status :granted,
-  :id "US2431745",
-  :sourcing :authoritative,
-  :filing-year 1945,
-  :assignee :bf-goodrich,
-  :grant-year 1947,
-  :cites
-  ["US1967863"
-   "US2204520"
-   "US2247064"
-   "US2340298"
-   "US2354574"
-   "US2373347"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:monsanto-chemicals],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US2431873/en",
-  :title "Method of coating thermoplastics with silica",
-  :status :granted,
-  :id "US2431873",
-  :sourcing :authoritative,
-  :filing-year 1944,
-  :assignee :monsanto-chemicals,
-  :grant-year 1947,
-  :cites
-  ["GB317936A"
-   "GB466482A"
-   "GB492985A"
-   "GB502978A"
-   "GB505502A"
-   "US2008815"
-   "US2027931"
-   "US2329632"
-   "US2386259"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:general-aniline-and-film],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US2431996/en",
-  :title
-  "Production of color negative film containing integral masking images for color correction",
-  :status :granted,
-  :id "US2431996",
-  :sourcing :authoritative,
-  :filing-year 1944,
-  :assignee :general-aniline-and-film,
-  :grant-year 1947,
-  :cites
-  ["US1229546"
-   "US1308538"
-   "US2193931"
-   "US2203656"
-   "US2221025"
-   "US2340656"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:molins-machine],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US2432938/en",
-  :title "Rod forming mechanism",
-  :status :granted,
-  :id "US2432938",
-  :sourcing :authoritative,
-  :filing-year 1942,
-  :assignee :molins-machine,
-  :grant-year 1947,
-  :cites
-  ["US1723942"
-   "US1787551"
-   "US1875991"
-   "US2149924"
-   "US2209139"
-   "US2251518"
-   "US671417"
-   "US779430"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:continental-can],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US2433062/en",
-  :title "Lacquers containing vinyl resins and phenolic resins",
-  :status :granted,
-  :id "US2433062",
-  :sourcing :authoritative,
-  :filing-year 1941,
-  :assignee :continental-can,
-  :grant-year 1947,
-  :cites
-  ["GB492906A"
-   "US2052093"
-   "US2057690"
-   "US2069983"
-   "US2195254"
-   "US2270662"
-   "US2293413"
-   "US2302557"
-   "US2310889"
-   "US2321783"],
   :term-years 20,
   :open-license :none}]

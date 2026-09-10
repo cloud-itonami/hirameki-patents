@@ -1,4 +1,118 @@
-[{:assignees [:research],
+[{:assignees [:koch-light-laboratories],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3761357/en",
+  :title "Bonding of enzymes to polymeric materials",
+  :status :granted,
+  :id "US3761357",
+  :sourcing :authoritative,
+  :filing-year 1971,
+  :assignee :koch-light-laboratories,
+  :grant-year 1973,
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:minolta],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3762294/en",
+  :title "Focusing apparatus",
+  :status :granted,
+  :id "US3762294",
+  :sourcing :authoritative,
+  :filing-year 1971,
+  :assignee :minolta,
+  :grant-year 1973,
+  :cites
+  ["US3274913"
+   "US3336851"
+   "US3511155"
+   "US3532045"
+   "US3542475"
+   "US3555280"
+   "US3562785"
+   "US3571598"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:whittaker],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3763079/en",
+  :title "Polyurethanes based on mixed aromatic aliphatic polyesters",
+  :status :granted,
+  :id "US3763079",
+  :sourcing :authoritative,
+  :filing-year 1971,
+  :assignee :whittaker,
+  :grant-year 1973,
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:us-atomic-energy-commission-aec],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3763374/en",
+  :title "Dynamic multistation photometer-fluorometer",
+  :status :granted,
+  :id "US3763374",
+  :sourcing :authoritative,
+  :filing-year 1972,
+  :assignee :us-atomic-energy-commission-aec,
+  :grant-year 1973,
+  :cites ["US3547547" "US3649833"],
+  :term-years 20,
+  :open-license :none}
+ {:jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US376350/en",
+  :title "Wall-covering",
+  :status :granted,
+  :id "US376350",
+  :sourcing :authoritative,
+  :assignee :unassigned,
+  :grant-year 1888,
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:baxter-laboratories],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3764214/en",
+  :title "Photometer apparatus",
+  :status :granted,
+  :id "US3764214",
+  :sourcing :authoritative,
+  :filing-year 1972,
+  :assignee :baxter-laboratories,
+  :grant-year 1973,
+  :cites ["US3319512"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:roehm-darmstadt],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3764477/en",
+  :title
+  "Resin bound protein like active agents prepared by reacting a proteinwith a water insoluble polymer of acrylic or methacrylic acid anhydride",
+  :status :granted,
+  :id "US3764477",
+  :sourcing :authoritative,
+  :filing-year 1971,
+  :assignee :roehm-darmstadt,
+  :grant-year 1973,
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:f-hoffmann-la-roche],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3766162/en",
+  :title "Barbituric acid antigens and antibodies specific therefor",
+  :status :granted,
+  :id "US3766162",
+  :sourcing :authoritative,
+  :filing-year 1971,
+  :assignee :f-hoffmann-la-roche,
+  :grant-year 1973,
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:research],
   :jurisdiction :us,
   :field "UNKNOWN",
   :source "https://patents.google.com/patent/US3766167/en",
@@ -1312,6 +1426,19 @@
   :sourcing :authoritative,
   :filing-year 1972,
   :assignee :unassigned,
+  :grant-year 1974,
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:ei-du-pont-de-nemours-and],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3823205/en",
+  :title "Lacquers based on acrylic polymer blends",
+  :status :granted,
+  :id "US3823205",
+  :sourcing :authoritative,
+  :filing-year 1972,
+  :assignee :ei-du-pont-de-nemours-and,
   :grant-year 1974,
   :term-years 20,
   :open-license :none}
@@ -3337,6 +3464,30 @@
    "US3389966"
    "US3415361"
    "US3554039"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:betz-laboratories],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3898037/en",
+  :title "Acrylamido-sulfonic acid polymers and their use",
+  :status :granted,
+  :id "US3898037",
+  :sourcing :authoritative,
+  :filing-year 1973,
+  :assignee :betz-laboratories,
+  :grant-year 1975,
+  :cites
+  ["US2692673"
+   "US2983712"
+   "US3284187"
+   "US3332904"
+   "US3344174"
+   "US3506707"
+   "US3544597"
+   "US3547899"
+   "US3709816"
+   "US3772142"],
   :term-years 20,
   :open-license :none}
  {:assignees [:er-squibb-and-sons],
@@ -6026,6 +6177,32 @@
    "US3822240"],
   :term-years 20,
   :open-license :none}
+ {:assignees [:ei-du-pont-de-nemours-and],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3998768/en",
+  :title
+  "Thermosetting powder coating composition of a blend of acrylic polymers having different glass transition temperatures and a blocked polyisocyanate cross-linking agent",
+  :status :granted,
+  :id "US3998768",
+  :sourcing :authoritative,
+  :filing-year 1974,
+  :assignee :ei-du-pont-de-nemours-and,
+  :grant-year 1976,
+  :cites
+  ["GB1265634A"
+   "GB1320657A"
+   "US2649382"
+   "US3676405"
+   "US3694389"
+   "US3770848"
+   "US3784501"
+   "US3823205"
+   "US3853822"
+   "US3857818"
+   "US3931117"],
+  :term-years 20,
+  :open-license :none}
  {:assignees [:syntex-usa],
   :jurisdiction :us,
   :field "UNKNOWN",
@@ -6358,6 +6535,28 @@
    "US3839743"
    "US3865615"
    "US3878109"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:ppg-industries],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US4008293/en",
+  :title
+  "Crosslinkable coating compositions and method of using the same",
+  :status :granted,
+  :id "US4008293",
+  :sourcing :authoritative,
+  :filing-year 1974,
+  :assignee :ppg-industries,
+  :grant-year 1977,
+  :cites
+  ["FR1225955A"
+   "FR2236897A1"
+   "US3377249"
+   "US3405003"
+   "US3711449"
+   "US3717687"
+   "US3798193"],
   :term-years 20,
   :open-license :none}
  {:assignees [:snamprogetti-spa],
@@ -9184,190 +9383,5 @@
   :assignee :japan-atomic-energy-research-institute,
   :grant-year 1978,
   :cites ["US3700609"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:syva],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US4130462/en",
-  :title
-  "Receptor steric hindrance immunoassay for receptor determination",
-  :status :granted,
-  :id "US4130462",
-  :sourcing :authoritative,
-  :filing-year 1976,
-  :assignee :syva,
-  :grant-year 1978,
-  :cites ["US3935074"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:airco],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US4131530/en",
-  :title "Sputtered chromium-alloy coating for plastic",
-  :status :granted,
-  :id "US4131530",
-  :sourcing :authoritative,
-  :filing-year 1977,
-  :assignee :airco,
-  :grant-year 1978,
-  :cites ["SU264102A1" "US2993806" "US4022947" "US4028206"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:ei-du-pont-de-nemours-and],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US4131571/en",
-  :title "Polyurethane metallic enamel",
-  :status :granted,
-  :id "US4131571",
-  :sourcing :authoritative,
-  :filing-year 1977,
-  :assignee :ei-du-pont-de-nemours-and,
-  :grant-year 1978,
-  :cites
-  ["US3271352"
-   "US3558564"
-   "US3622651"
-   "US3637546"
-   "US3657001"
-   "US3790513"
-   "US3844993"
-   "US3846368"
-   "US3939114"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:american-gas-association],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US4132672/en",
-  :title "Methanation catalyst",
-  :status :granted,
-  :id "US4132672",
-  :sourcing :authoritative,
-  :filing-year 1977,
-  :assignee :american-gas-association,
-  :grant-year 1979,
-  :cites ["US3271325" "US3361535" "US3930812" "US3953363" "US3988334"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:shinto-paint],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US4132686/en",
-  :title
-  "Process for coating employing a two-pack type aqueous paint composition",
-  :status :granted,
-  :id "US4132686",
-  :sourcing :authoritative,
-  :filing-year 1977,
-  :assignee :shinto-paint,
-  :grant-year 1979,
-  :cites
-  ["GB1040828A"
-   "US2048778"
-   "US2059791"
-   "US2511627"
-   "US2864722"
-   "US3077459"
-   "US3135625"
-   "US3179341"
-   "US3224992"
-   "US3349049"
-   "US3474060"
-   "US3527721"
-   "US3527729"
-   "US3631136"
-   "US3953644"
-   "US3957709"
-   "US3960789"
-   "US3972845"
-   "US4025474"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:fuji-photo-film],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US4132888/en",
-  :title "Device for automatically focusing image",
-  :status :granted,
-  :id "US4132888",
-  :sourcing :authoritative,
-  :filing-year 1977,
-  :assignee :fuji-photo-film,
-  :grant-year 1979,
-  :cites ["US3054898" "US3682071" "US3844658" "US3953729" "US4047022"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:miles-laboratories],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US4134792/en",
-  :title
-  "Specific binding assay with an enzyme modulator as a labeling substance",
-  :status :granted,
-  :id "US4134792",
-  :sourcing :authoritative,
-  :filing-year 1976,
-  :assignee :miles-laboratories,
-  :grant-year 1979,
-  :cites ["US3817837" "US3850752" "US3880934" "US3975342" "US4003792"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:desoto],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US4134873/en",
-  :title "Polyurethane topcoat composition",
-  :status :granted,
-  :id "US4134873",
-  :sourcing :authoritative,
-  :filing-year 1977,
-  :assignee :desoto,
-  :grant-year 1979,
-  :cites ["US3889036"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:international-standard-electric],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US4135781/en",
-  :title "Optical fiber termination",
-  :status :granted,
-  :id "US4135781",
-  :sourcing :authoritative,
-  :filing-year 1977,
-  :assignee :international-standard-electric,
-  :grant-year 1979,
-  :cites ["US3767910" "US3861781" "US4015894" "US4026633"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:university-of-utah],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US4136566/en",
-  :title "Semiconductor temperature sensor",
-  :status :granted,
-  :id "US4136566",
-  :sourcing :authoritative,
-  :filing-year 1977,
-  :assignee :university-of-utah,
-  :grant-year 1979,
-  :cites ["US2824235" "US3960017" "US4016761"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:celanese-polymer-specialties],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US4137140/en",
-  :title "Cathodic electrocoating",
-  :status :granted,
-  :id "US4137140",
-  :sourcing :authoritative,
-  :filing-year 1978,
-  :assignee :celanese-polymer-specialties,
-  :grant-year 1979,
-  :cites ["US2909448" "US3640926"],
   :term-years 20,
   :open-license :none}]

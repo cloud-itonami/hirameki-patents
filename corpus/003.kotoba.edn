@@ -1,4 +1,94 @@
-[{:assignees [:warren-sd],
+[{:assignees [:ganahl-de],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2815309/en",
+  :title "Method of making molded plastic articles",
+  :status :granted,
+  :id "US2815309",
+  :sourcing :authoritative,
+  :filing-year 1955,
+  :assignee :ganahl-de,
+  :grant-year 1957,
+  :cites ["US2222003" "US2370322" "US2531218" "US2591539" "US2682515"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:baker-oil-tools],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2815817/en",
+  :title "Well packer and setting apparatus therefor",
+  :status :granted,
+  :id "US2815817",
+  :sourcing :authoritative,
+  :filing-year 1950,
+  :assignee :baker-oil-tools,
+  :grant-year 1957,
+  :cites
+  ["US1342927"
+   "US1850218"
+   "US2177601"
+   "US2189937"
+   "US2201096"
+   "US2202173"
+   "US2222750"
+   "US2228243"
+   "US2338369"
+   "US2467801"
+   "US2492212"
+   "US2618344"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:shawinigan-resins],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2816655/en",
+  :title "Low adhesion coatings on adhesive tapes and liners",
+  :status :granted,
+  :id "US2816655",
+  :sourcing :authoritative,
+  :filing-year 1954,
+  :assignee :shawinigan-resins,
+  :grant-year 1957,
+  :cites ["US2168535"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:rca],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2817265/en",
+  :title "Light dividing apparatus",
+  :status :granted,
+  :id "US2817265",
+  :sourcing :authoritative,
+  :filing-year 1953,
+  :assignee :rca,
+  :grant-year 1957,
+  :cites
+  ["DE435706C"
+   "US2415191"
+   "US2443722"
+   "US2494441"
+   "US2560351"
+   "US2648250"
+   "US2661902"
+   "US2724737"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:ei-du-pont-de-nemours-and],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2818404/en",
+  :title "Curing of polyurethanes with a di(isocyanatoaryl) urea",
+  :status :granted,
+  :id "US2818404",
+  :sourcing :authoritative,
+  :filing-year 1954,
+  :assignee :ei-du-pont-de-nemours-and,
+  :grant-year 1957,
+  :cites ["US2597025" "US2621166" "US2692874"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:warren-sd],
   :jurisdiction :us,
   :field "UNKNOWN",
   :source "https://patents.google.com/patent/US2819184/en",
@@ -1991,6 +2081,21 @@
   :assignee :bf-goodrich,
   :grant-year 1959,
   :cites ["US1058056" "US2377779" "US2506857" "US2699457"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:dow-chemical],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2914499/en",
+  :title
+  "Emulsion polymerization with acrylictype acid esters of hydroxysulfonic acids and composition therefrom",
+  :status :granted,
+  :id "US2914499",
+  :sourcing :authoritative,
+  :filing-year 1957,
+  :assignee :dow-chemical,
+  :grant-year 1959,
+  :cites ["US1881172"],
   :term-years 20,
   :open-license :none}
  {:assignees [:american-viscose],
@@ -9716,102 +9821,5 @@
    "US3182674"
    "US3182686"
    "US3187762"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:rohm-and-haas],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3269911/en",
-  :title
-  "Restoration of blood to biochemical normalcy by treatment with ion exchange resins",
-  :status :granted,
-  :id "US3269911",
-  :sourcing :authoritative,
-  :filing-year 1962,
-  :assignee :rohm-and-haas,
-  :grant-year 1966,
-  :cites ["GB636172A" "US2673827" "US2684321" "US2833691" "US2879166"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:takeda-chemical-industries],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3269917/en",
-  :title "Process for producing purine-nucleosides",
-  :status :granted,
-  :id "US3269917",
-  :sourcing :authoritative,
-  :filing-year 1964,
-  :assignee :takeda-chemical-industries,
-  :grant-year 1966,
-  :cites ["CA672274A" "US3135666"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:hysol],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3269975/en",
-  :title
-  "Tetracarboxylic acid hardeners for epoxy resins and powdered epoxy resin compositions including such hardeners",
-  :status :granted,
-  :id "US3269975",
-  :sourcing :authoritative,
-  :filing-year 1963,
-  :assignee :hysol,
-  :grant-year 1966,
-  :cites ["US2947717" "US3039987" "US3065186" "US3159595"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:milliken-research],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3271342/en",
-  :title
-  "Composition comprising a salt of a styrene-maleic acid copolymer and a polyurethane",
-  :status :granted,
-  :id "US3271342",
-  :sourcing :authoritative,
-  :filing-year 1963,
-  :assignee :milliken-research,
-  :grant-year 1966,
-  :cites ["GB744027A" "US2490489" "US3044898" "US3061470"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:dow-chemical],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3272772/en",
-  :title "Filled polymer compositions",
-  :status :granted,
-  :id "US3272772",
-  :sourcing :authoritative,
-  :filing-year 1961,
-  :assignee :dow-chemical,
-  :grant-year 1966,
-  :cites
-  ["GB584620A"
-   "GB750809A"
-   "US2728732"
-   "US2749248"
-   "US2841504"
-   "US2913432"
-   "US2934512"
-   "US2948632"
-   "US3022185"
-   "US3023180"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:agfa],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3274914/en",
-  :title "Camera focusing devices",
-  :status :granted,
-  :id "US3274914",
-  :sourcing :authoritative,
-  :filing-year 1964,
-  :assignee :agfa,
-  :grant-year 1966,
-  :cites ["US2968994" "US3143588"],
   :term-years 20,
   :open-license :none}]
