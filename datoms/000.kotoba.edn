@@ -904,6 +904,43 @@
   ":hirameki/source"
   "https://patents.google.com/patent/CA583572A/en"]
  [":db/add"
+  "hirameki-patent:CA594400A"
+  ":hirameki.patent/title"
+  "Thermosetting resin with hollow beads and metal powder"]
+ [":db/add"
+  "hirameki-patent:CA594400A"
+  ":hirameki.patent/jurisdiction"
+  ":ca"]
+ [":db/add"
+  "hirameki-patent:CA594400A"
+  ":hirameki.patent/field"
+  "UNKNOWN"]
+ [":db/add"
+  "hirameki-patent:CA594400A"
+  ":hirameki.patent/assignee"
+  ":goodyear-tire-and-rubber"]
+ [":db/add"
+  "hirameki-patent:CA594400A"
+  ":hirameki.patent/status"
+  ":granted"]
+ [":db/add"
+  "hirameki-patent:CA594400A"
+  ":hirameki.patent/open-license"
+  ":none"]
+ [":db/add"
+  "hirameki-patent:CA594400A"
+  ":hirameki.obs/release-status"
+  ":in-force"]
+ [":db/add"
+  "hirameki-patent:CA594400A"
+  ":hirameki/sourcing"
+  ":authoritative"]
+ [":db/add" "hirameki-patent:CA594400A" ":hirameki/derived" true]
+ [":db/add"
+  "hirameki-patent:CA594400A"
+  ":hirameki/source"
+  "https://patents.google.com/patent/CA594400A/en"]
+ [":db/add"
   "hirameki-patent:CA659059A"
   ":hirameki.patent/title"
   "Shaped structures for biological processes"]
@@ -9898,41 +9935,4 @@
  [":db/add"
   "hirameki-patent:FR1124882A"
   ":hirameki/sourcing"
-  ":authoritative"]
- [":db/add" "hirameki-patent:FR1124882A" ":hirameki/derived" true]
- [":db/add"
-  "hirameki-patent:FR1124882A"
-  ":hirameki.obs/years-to-expiry"
-  -51]
- [":db/add"
-  "hirameki-patent:FR1124882A"
-  ":hirameki/source"
-  "https://patents.google.com/patent/FR1124882A/en"]
- [":db/add"
-  "hirameki-patent:FR1132506A"
-  ":hirameki.patent/title"
-  "Process for the polymerization of ethylene"]
- [":db/add"
-  "hirameki-patent:FR1132506A"
-  ":hirameki.patent/jurisdiction"
-  ":fr"]
- [":db/add"
-  "hirameki-patent:FR1132506A"
-  ":hirameki.patent/field"
-  "UNKNOWN"]
- [":db/add"
-  "hirameki-patent:FR1132506A"
-  ":hirameki.patent/assignee"
-  ":bayer"]
- [":db/add"
-  "hirameki-patent:FR1132506A"
-  ":hirameki.patent/status"
-  ":granted"]
- [":db/add"
-  "hirameki-patent:FR1132506A"
-  ":hirameki.patent/open-license"
-  ":none"]
- [":db/add"
-  "hirameki-patent:FR1132506A"
-  ":hirameki.obs/release-status"
-  ":public-domain"]]
+  ":authoritative"]]

@@ -1,4 +1,68 @@
-[{:assignees [:british-celanese],
+[{:assignees [:dow-chemical],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2423457/en",
+  :title "Preparation of parasiticidal mixtures",
+  :status :granted,
+  :id "US2423457",
+  :sourcing :authoritative,
+  :filing-year 1944,
+  :assignee :dow-chemical,
+  :grant-year 1947,
+  :cites ["US1617255" "US2161462" "US2217358" "US2330227" "US2330234"],
+  :term-years 20,
+  :open-license :none}
+ {:jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2423554/en",
+  :title "Method of and means for making mouthpiece cigarettes",
+  :status :granted,
+  :id "US2423554",
+  :sourcing :authoritative,
+  :filing-year 1940,
+  :assignee :unassigned,
+  :grant-year 1947,
+  :cites
+  ["GB389499A"
+   "GB428549A"
+   "US1712017"
+   "US1967154"
+   "US2066460"
+   "US2093051"
+   "US2133341"
+   "US2160201"
+   "US2172804"
+   "US2178820"
+   "US2197072"
+   "US2218588"
+   "US2236579"
+   "US314639"
+   "US587827"
+   "US711986"
+   "US945651"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:arco],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2423969/en",
+  :title "Dispensing apparatus",
+  :status :granted,
+  :id "US2423969",
+  :sourcing :authoritative,
+  :filing-year 1944,
+  :assignee :arco,
+  :grant-year 1947,
+  :cites
+  ["US1678735"
+   "US1842939"
+   "US2065440"
+   "US2094702"
+   "US2131662"
+   "US2218808"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:british-celanese],
   :jurisdiction :us,
   :field "UNKNOWN",
   :source "https://patents.google.com/patent/US2424284/en",
@@ -5314,6 +5378,19 @@
   :cites ["GB605517A"],
   :term-years 20,
   :open-license :none}
+ {:jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2639769/en",
+  :title "Screen insert for storm windows",
+  :status :granted,
+  :id "US2639769",
+  :sourcing :authoritative,
+  :filing-year 1947,
+  :assignee :unassigned,
+  :grant-year 1953,
+  :cites ["US1248858" "US1772780" "US2101349" "US2335361" "US956239"],
+  :term-years 20,
+  :open-license :none}
  {:assignees [:diamond-alkali],
   :jurisdiction :us,
   :field "UNKNOWN",
@@ -8150,6 +8227,20 @@
   :cites ["US1450467"],
   :term-years 20,
   :open-license :none}
+ {:assignees [:jasco-aluminum-products],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2730776/en",
+  :title "Window sash mounting and locking arrangement",
+  :status :granted,
+  :id "US2730776",
+  :sourcing :authoritative,
+  :filing-year 1953,
+  :assignee :jasco-aluminum-products,
+  :grant-year 1956,
+  :cites ["US2113959" "US2595016"],
+  :term-years 20,
+  :open-license :none}
  {:assignees [:ei-du-pont-de-nemours-and],
   :jurisdiction :us,
   :field "UNKNOWN",
@@ -9722,6 +9813,26 @@
   :open-license :none}
  {:jurisdiction :us,
   :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2788297/en",
+  :title
+  "Process of impact coating solid insulators with transparent conductive coatings",
+  :status :granted,
+  :id "US2788297",
+  :sourcing :authoritative,
+  :filing-year 1951,
+  :assignee :unassigned,
+  :grant-year 1957,
+  :cites
+  ["GB534888A"
+   "US2075518"
+   "US2345940"
+   "US2551957"
+   "US2554723"
+   "US439031"],
+  :term-years 20,
+  :open-license :none}
+ {:jurisdiction :us,
+  :field "UNKNOWN",
   :source "https://patents.google.com/patent/US2788336/en",
   :title
   "Carboxymethyl protein as a stabilizer for a butadiene-styrene latex emulsion paint",
@@ -9927,103 +10038,5 @@
   :assignee :permacel-tape,
   :grant-year 1957,
   :cites ["US2236567" "US2383569" "US2388905"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:rohm-and-haas],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US2795564/en",
-  :title
-  "Aqueous paint bases and water-base paints and process for preparing them",
-  :status :granted,
-  :id "US2795564",
-  :sourcing :authoritative,
-  :filing-year 1953,
-  :assignee :rohm-and-haas,
-  :grant-year 1957,
-  :cites ["US2536018" "US2536470" "US2570253"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:bf-goodrich],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US2798053/en",
-  :title "Carboxylic polymers",
-  :status :granted,
-  :id "US2798053",
-  :sourcing :authoritative,
-  :filing-year 1952,
-  :assignee :bf-goodrich,
-  :grant-year 1957,
-  :cites
-  ["US2336985"
-   "US2409633"
-   "US2541142"
-   "US2562537"
-   "US2606881"
-   "US2623864"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:servo-of-america],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US2798961/en",
-  :title "Total-radiation pyrometer",
-  :status :granted,
-  :id "US2798961",
-  :sourcing :authoritative,
-  :filing-year 1956,
-  :assignee :servo-of-america,
-  :grant-year 1957,
-  :cites ["US2612610" "US2679010"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:permacel-tape],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US2799596/en",
-  :title "Pressure sensitive adhesive tape",
-  :status :granted,
-  :id "US2799596",
-  :sourcing :authoritative,
-  :filing-year 1953,
-  :assignee :permacel-tape,
-  :grant-year 1957,
-  :cites ["US2484416" "US2495008"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:nat-res-dev],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US2800559/en",
-  :title
-  "Electrical semi-conductors comprising organo metallic compounds and process of producing same",
-  :status :granted,
-  :id "US2800559",
-  :sourcing :authoritative,
-  :filing-year 1953,
-  :assignee :nat-res-dev,
-  :grant-year 1957,
-  :cites
-  ["US2027000"
-   "US2108277"
-   "US2164595"
-   "US2239642"
-   "US2451739"
-   "US2454082"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:eastman-kodak],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US2801170/en",
-  :title "Preparation of color former dispersions",
-  :status :granted,
-  :id "US2801170",
-  :sourcing :authoritative,
-  :filing-year 1954,
-  :assignee :eastman-kodak,
-  :grant-year 1957,
-  :cites ["US2322027" "US2478400"],
   :term-years 20,
   :open-license :none}]

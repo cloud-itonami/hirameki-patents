@@ -1,4 +1,102 @@
-[{:assignees [:eastman-kodak],
+[{:assignees [:rohm-and-haas],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2795564/en",
+  :title
+  "Aqueous paint bases and water-base paints and process for preparing them",
+  :status :granted,
+  :id "US2795564",
+  :sourcing :authoritative,
+  :filing-year 1953,
+  :assignee :rohm-and-haas,
+  :grant-year 1957,
+  :cites ["US2536018" "US2536470" "US2570253"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:bf-goodrich],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2798053/en",
+  :title "Carboxylic polymers",
+  :status :granted,
+  :id "US2798053",
+  :sourcing :authoritative,
+  :filing-year 1952,
+  :assignee :bf-goodrich,
+  :grant-year 1957,
+  :cites
+  ["US2336985"
+   "US2409633"
+   "US2541142"
+   "US2562537"
+   "US2606881"
+   "US2623864"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:servo-of-america],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2798961/en",
+  :title "Total-radiation pyrometer",
+  :status :granted,
+  :id "US2798961",
+  :sourcing :authoritative,
+  :filing-year 1956,
+  :assignee :servo-of-america,
+  :grant-year 1957,
+  :cites ["US2612610" "US2679010"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:permacel-tape],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2799596/en",
+  :title "Pressure sensitive adhesive tape",
+  :status :granted,
+  :id "US2799596",
+  :sourcing :authoritative,
+  :filing-year 1953,
+  :assignee :permacel-tape,
+  :grant-year 1957,
+  :cites ["US2484416" "US2495008"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:nat-res-dev],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2800559/en",
+  :title
+  "Electrical semi-conductors comprising organo metallic compounds and process of producing same",
+  :status :granted,
+  :id "US2800559",
+  :sourcing :authoritative,
+  :filing-year 1953,
+  :assignee :nat-res-dev,
+  :grant-year 1957,
+  :cites
+  ["US2027000"
+   "US2108277"
+   "US2164595"
+   "US2239642"
+   "US2451739"
+   "US2454082"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:eastman-kodak],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2801170/en",
+  :title "Preparation of color former dispersions",
+  :status :granted,
+  :id "US2801170",
+  :sourcing :authoritative,
+  :filing-year 1954,
+  :assignee :eastman-kodak,
+  :grant-year 1957,
+  :cites ["US2322027" "US2478400"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:eastman-kodak],
   :jurisdiction :us,
   :field "UNKNOWN",
   :source "https://patents.google.com/patent/US2801171/en",
@@ -4701,6 +4799,20 @@
    "US2745484"],
   :term-years 20,
   :open-license :none}
+ {:assignees [:consolidated-electrodynamics],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3005514/en",
+  :title "Fluid treating columns",
+  :status :granted,
+  :id "US3005514",
+  :sourcing :authoritative,
+  :filing-year 1959,
+  :assignee :consolidated-electrodynamics,
+  :grant-year 1961,
+  :cites ["US1081573" "US1988478" "US2149133" "US2297248"],
+  :term-years 20,
+  :open-license :none}
  {:assignees [:time],
   :jurisdiction :us,
   :field "UNKNOWN",
@@ -4867,6 +4979,20 @@
   :assignee :general-foods,
   :grant-year 1961,
   :cites ["US2242711" "US2360415" "US2400390" "US2777601" "US2951765"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:us-philips],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3014815/en",
+  :title "Method of providing articles with metal oxide layers",
+  :status :granted,
+  :id "US3014815",
+  :sourcing :authoritative,
+  :filing-year 1958,
+  :assignee :us-philips,
+  :grant-year 1961,
+  :cites ["DE941687C" "US2272342" "US2651585" "US2860598" "US933324"],
   :term-years 20,
   :open-license :none}
  {:assignees [:technicon-instruments],
@@ -5759,6 +5885,18 @@
    "US2854351"
    "US2934510"
    "US2938876"],
+  :term-years 20,
+  :open-license :none}
+ {:jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3048029/en",
+  :title "Gas chromatographic analysis of inorganic materials",
+  :status :granted,
+  :id "US3048029",
+  :sourcing :authoritative,
+  :filing-year 1959,
+  :assignee :unassigned,
+  :grant-year 1962,
   :term-years 20,
   :open-license :none}
  {:assignees [:beckman-instruments],
@@ -9553,6 +9691,30 @@
    "US3001915"],
   :term-years 20,
   :open-license :none}
+ {:assignees [:owens-corning-fiberglas],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3232782/en",
+  :title
+  "High temperature resistant vitreous material and method of producing same",
+  :status :granted,
+  :id "US3232782",
+  :sourcing :authoritative,
+  :filing-year 1960,
+  :assignee :owens-corning-fiberglas,
+  :grant-year 1966,
+  :cites
+  ["US2303756"
+   "US2355746"
+   "US2639247"
+   "US2839424"
+   "US2860951"
+   "US2901379"
+   "US3017318"
+   "US3092531"
+   "US3113008"],
+  :term-years 20,
+  :open-license :none}
  {:assignees [:purac],
   :jurisdiction :us,
   :field "UNKNOWN",
@@ -9621,178 +9783,5 @@
   :assignee :shell-oil,
   :grant-year 1966,
   :cites ["US2648650" "US2784165" "US2993874" "US3149182"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:lars-ljungberg-and],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3240110/en",
-  :title
-  "Apparatus for determining the losses of blood in surgical operations and deliveries",
-  :status :granted,
-  :id "US3240110",
-  :sourcing :authoritative,
-  :filing-year 1962,
-  :assignee :lars-ljungberg-and,
-  :grant-year 1966,
-  :cites
-  ["GB761980A"
-   "US2051317"
-   "US2261557"
-   "US2295366"
-   "US2386878"
-   "US264573"
-   "US2724304"
-   "US2797149"
-   "US2844066"
-   "US2980142"
-   "US3028225"
-   "US3080789"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:ei-du-pont-de-nemours-and],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3242142/en",
-  :title "Process for curing epoxy resins",
-  :status :granted,
-  :id "US3242142",
-  :sourcing :authoritative,
-  :filing-year 1962,
-  :assignee :ei-du-pont-de-nemours-and,
-  :grant-year 1966,
-  :cites ["US2947717"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:azoplate],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3244517/en",
-  :title "Electrophotographic process",
-  :status :granted,
-  :id "US3244517",
-  :sourcing :authoritative,
-  :filing-year 1961,
-  :assignee :azoplate,
-  :grant-year 1966,
-  :cites
-  ["BE562336A"
-   "US1587269"
-   "US1587272"
-   "US1587273"
-   "US1587274"
-   "US1777140"
-   "US1939691"
-   "US2997387"
-   "US3041165"
-   "US3081165"
-   "US3163531"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:aluminum-company-of-america],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3244542/en",
-  :title
-  "Water-dispersible metallic flake pigments and ready-mixed coating formulations containing the same",
-  :status :granted,
-  :id "US3244542",
-  :sourcing :authoritative,
-  :filing-year 1962,
-  :assignee :aluminum-company-of-america,
-  :grant-year 1966,
-  :cites ["US2848344"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:barnes-engineering],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3244885/en",
-  :title "High resolution frequency modulated tracker",
-  :status :granted,
-  :id "US3244885",
-  :sourcing :authoritative,
-  :filing-year 1962,
-  :assignee :barnes-engineering,
-  :grant-year 1966,
-  :cites
-  ["US2490052"
-   "US2961545"
-   "US2997539"
-   "US3061730"
-   "US3091690"
-   "US3099748"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:mct-enterprises],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3245198/en",
-  :title "Method for packaging articles with transparent film",
-  :status :granted,
-  :id "US3245198",
-  :sourcing :authoritative,
-  :filing-year 1964,
-  :assignee :mct-enterprises,
-  :grant-year 1966,
-  :cites ["US1597528" "US2218293" "US2439164" "US2718107" "US3134679"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:eastman-kodak],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3245833/en",
-  :title "Electrically conductive coatings",
-  :status :granted,
-  :id "US3245833",
-  :sourcing :authoritative,
-  :filing-year 1964,
-  :assignee :eastman-kodak,
-  :grant-year 1966,
-  :cites ["GB586322A" "US2463282"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:beckman-instruments],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3246559/en",
-  :title "Force feed cuvette",
-  :status :granted,
-  :id "US3246559",
-  :sourcing :authoritative,
-  :filing-year 1961,
-  :assignee :beckman-instruments,
-  :grant-year 1966,
-  :cites ["US2660342" "US2940448" "US3053138" "US890018"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:union-carbide],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3247078/en",
-  :title
-  "Process for the propagation of microorganisms using a matrix of poly",
-  :status :granted,
-  :id "US3247078",
-  :sourcing :authoritative,
-  :filing-year 1963,
-  :assignee :union-carbide,
-  :grant-year 1966,
-  :cites ["US2970948" "US3046201"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:celanese-coatings],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3247144/en",
-  :title
-  "Carboxy copolymers prepared in carboxylic acids and/or anhydrides",
-  :status :granted,
-  :id "US3247144",
-  :sourcing :authoritative,
-  :filing-year 1962,
-  :assignee :celanese-coatings,
-  :grant-year 1966,
-  :cites ["US3046246"],
   :term-years 20,
   :open-license :none}]

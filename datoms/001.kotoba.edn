@@ -1,4 +1,41 @@
-[[":db/add"
+[[":db/add" "hirameki-patent:FR1124882A" ":hirameki/derived" true]
+ [":db/add"
+  "hirameki-patent:FR1124882A"
+  ":hirameki.obs/years-to-expiry"
+  -51]
+ [":db/add"
+  "hirameki-patent:FR1124882A"
+  ":hirameki/source"
+  "https://patents.google.com/patent/FR1124882A/en"]
+ [":db/add"
+  "hirameki-patent:FR1132506A"
+  ":hirameki.patent/title"
+  "Process for the polymerization of ethylene"]
+ [":db/add"
+  "hirameki-patent:FR1132506A"
+  ":hirameki.patent/jurisdiction"
+  ":fr"]
+ [":db/add"
+  "hirameki-patent:FR1132506A"
+  ":hirameki.patent/field"
+  "UNKNOWN"]
+ [":db/add"
+  "hirameki-patent:FR1132506A"
+  ":hirameki.patent/assignee"
+  ":bayer"]
+ [":db/add"
+  "hirameki-patent:FR1132506A"
+  ":hirameki.patent/status"
+  ":granted"]
+ [":db/add"
+  "hirameki-patent:FR1132506A"
+  ":hirameki.patent/open-license"
+  ":none"]
+ [":db/add"
+  "hirameki-patent:FR1132506A"
+  ":hirameki.obs/release-status"
+  ":public-domain"]
+ [":db/add"
   "hirameki-patent:FR1132506A"
   ":hirameki/sourcing"
   ":authoritative"]
@@ -10023,41 +10060,4 @@
  [":db/add"
   "hirameki-patent:JP2002121472A"
   ":hirameki.patent/title"
-  "Resin composition for colored paint and method of laminating coating"]
- [":db/add"
-  "hirameki-patent:JP2002121472A"
-  ":hirameki.patent/jurisdiction"
-  ":jp"]
- [":db/add"
-  "hirameki-patent:JP2002121472A"
-  ":hirameki.patent/field"
-  "UNKNOWN"]
- [":db/add"
-  "hirameki-patent:JP2002121472A"
-  ":hirameki.patent/assignee"
-  ":dainippon-ink-and-chemicals"]
- [":db/add"
-  "hirameki-patent:JP2002121472A"
-  ":hirameki.patent/status"
-  ":pending"]
- [":db/add"
-  "hirameki-patent:JP2002121472A"
-  ":hirameki.patent/open-license"
-  ":none"]
- [":db/add"
-  "hirameki-patent:JP2002121472A"
-  ":hirameki.obs/release-status"
-  ":pending"]
- [":db/add"
-  "hirameki-patent:JP2002121472A"
-  ":hirameki/sourcing"
-  ":authoritative"]
- [":db/add" "hirameki-patent:JP2002121472A" ":hirameki/derived" true]
- [":db/add"
-  "hirameki-patent:JP2002121472A"
-  ":hirameki.obs/years-to-expiry"
-  -6]
- [":db/add"
-  "hirameki-patent:JP2002121472A"
-  ":hirameki/source"
-  "https://patents.google.com/patent/JP2002121472A/en"]]
+  "Resin composition for colored paint and method of laminating coating"]]

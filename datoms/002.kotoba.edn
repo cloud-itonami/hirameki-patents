@@ -1,4 +1,41 @@
 [[":db/add"
+  "hirameki-patent:JP2002121472A"
+  ":hirameki.patent/jurisdiction"
+  ":jp"]
+ [":db/add"
+  "hirameki-patent:JP2002121472A"
+  ":hirameki.patent/field"
+  "UNKNOWN"]
+ [":db/add"
+  "hirameki-patent:JP2002121472A"
+  ":hirameki.patent/assignee"
+  ":dainippon-ink-and-chemicals"]
+ [":db/add"
+  "hirameki-patent:JP2002121472A"
+  ":hirameki.patent/status"
+  ":pending"]
+ [":db/add"
+  "hirameki-patent:JP2002121472A"
+  ":hirameki.patent/open-license"
+  ":none"]
+ [":db/add"
+  "hirameki-patent:JP2002121472A"
+  ":hirameki.obs/release-status"
+  ":pending"]
+ [":db/add"
+  "hirameki-patent:JP2002121472A"
+  ":hirameki/sourcing"
+  ":authoritative"]
+ [":db/add" "hirameki-patent:JP2002121472A" ":hirameki/derived" true]
+ [":db/add"
+  "hirameki-patent:JP2002121472A"
+  ":hirameki.obs/years-to-expiry"
+  -6]
+ [":db/add"
+  "hirameki-patent:JP2002121472A"
+  ":hirameki/source"
+  "https://patents.google.com/patent/JP2002121472A/en"]
+ [":db/add"
   "hirameki-patent:JP2002126631A"
   ":hirameki.patent/title"
   "Bright coating film forming method and painted object"]
@@ -10055,46 +10092,5 @@
   ":granted"]
  [":db/add"
   "hirameki-patent:US1721117"
-  ":hirameki.patent/open-license"
-  ":none"]
- [":db/add"
-  "hirameki-patent:US1721117"
-  ":hirameki.obs/release-status"
-  ":public-domain"]
- [":db/add"
-  "hirameki-patent:US1721117"
-  ":hirameki/sourcing"
-  ":authoritative"]
- [":db/add" "hirameki-patent:US1721117" ":hirameki/derived" true]
- [":db/add"
-  "hirameki-patent:US1721117"
-  ":hirameki.obs/years-to-expiry"
-  -81]
- [":db/add"
-  "hirameki-patent:US1721117"
-  ":hirameki/source"
-  "https://patents.google.com/patent/US1721117/en"]
- [":db/add"
-  "hirameki-patent:US1722160"
-  ":hirameki.patent/title"
-  "Automatic water-discharge device for oil tanks"]
- [":db/add"
-  "hirameki-patent:US1722160"
-  ":hirameki.patent/jurisdiction"
-  ":us"]
- [":db/add"
-  "hirameki-patent:US1722160"
-  ":hirameki.patent/field"
-  "UNKNOWN"]
- [":db/add"
-  "hirameki-patent:US1722160"
-  ":hirameki.patent/assignee"
-  ":unassigned"]
- [":db/add"
-  "hirameki-patent:US1722160"
-  ":hirameki.patent/status"
-  ":granted"]
- [":db/add"
-  "hirameki-patent:US1722160"
   ":hirameki.patent/open-license"
   ":none"]]

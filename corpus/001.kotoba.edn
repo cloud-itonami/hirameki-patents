@@ -1,4 +1,17 @@
-[{:jurisdiction :us,
+[{:assignees [:international-precipitation],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US1168227/en",
+  :title "Method and means for indicating suspended matter in gases.",
+  :status :granted,
+  :id "US1168227",
+  :sourcing :authoritative,
+  :filing-year 1913,
+  :assignee :international-precipitation,
+  :grant-year 1916,
+  :term-years 20,
+  :open-license :none}
+ {:jurisdiction :us,
   :field "UNKNOWN",
   :source "https://patents.google.com/patent/US1202165/en",
   :title "Film cleaning and oiling machine.",
@@ -3488,6 +3501,19 @@
   :grant-year 1937,
   :term-years 20,
   :open-license :none}
+ {:assignees [:commw-trust],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2101349/en",
+  :title "Joining lengths of metal",
+  :status :granted,
+  :id "US2101349",
+  :sourcing :authoritative,
+  :filing-year 1934,
+  :assignee :commw-trust,
+  :grant-year 1937,
+  :term-years 20,
+  :open-license :none}
  {:assignees [:consolidated-water-power-and-paper],
   :jurisdiction :us,
   :field "UNKNOWN",
@@ -3550,6 +3576,19 @@
   :sourcing :authoritative,
   :filing-year 1936,
   :assignee :molins-machine,
+  :grant-year 1938,
+  :term-years 20,
+  :open-license :none}
+ {:jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2111976/en",
+  :title
+  "Test for syphilis and the process of preparing the reagent used in performing the test",
+  :status :granted,
+  :id "US2111976",
+  :sourcing :authoritative,
+  :filing-year 1936,
+  :assignee :unassigned,
   :grant-year 1938,
   :term-years 20,
   :open-license :none}
@@ -6304,6 +6343,18 @@
   :sourcing :authoritative,
   :filing-year 1938,
   :assignee :parke-davis-and,
+  :grant-year 1942,
+  :term-years 20,
+  :open-license :none}
+ {:jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2301717/en",
+  :title "Colored bacterial antigen",
+  :status :granted,
+  :id "US2301717",
+  :sourcing :authoritative,
+  :filing-year 1939,
+  :assignee :unassigned,
   :grant-year 1942,
   :term-years 20,
   :open-license :none}
@@ -9133,69 +9184,5 @@
    "US2275063"
    "US2282258"
    "US2297375"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:dow-chemical],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US2423457/en",
-  :title "Preparation of parasiticidal mixtures",
-  :status :granted,
-  :id "US2423457",
-  :sourcing :authoritative,
-  :filing-year 1944,
-  :assignee :dow-chemical,
-  :grant-year 1947,
-  :cites ["US1617255" "US2161462" "US2217358" "US2330227" "US2330234"],
-  :term-years 20,
-  :open-license :none}
- {:jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US2423554/en",
-  :title "Method of and means for making mouthpiece cigarettes",
-  :status :granted,
-  :id "US2423554",
-  :sourcing :authoritative,
-  :filing-year 1940,
-  :assignee :unassigned,
-  :grant-year 1947,
-  :cites
-  ["GB389499A"
-   "GB428549A"
-   "US1712017"
-   "US1967154"
-   "US2066460"
-   "US2093051"
-   "US2133341"
-   "US2160201"
-   "US2172804"
-   "US2178820"
-   "US2197072"
-   "US2218588"
-   "US2236579"
-   "US314639"
-   "US587827"
-   "US711986"
-   "US945651"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:arco],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US2423969/en",
-  :title "Dispensing apparatus",
-  :status :granted,
-  :id "US2423969",
-  :sourcing :authoritative,
-  :filing-year 1944,
-  :assignee :arco,
-  :grant-year 1947,
-  :cites
-  ["US1678735"
-   "US1842939"
-   "US2065440"
-   "US2094702"
-   "US2131662"
-   "US2218808"],
   :term-years 20,
   :open-license :none}]
