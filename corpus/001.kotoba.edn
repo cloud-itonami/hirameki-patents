@@ -1,5 +1,67 @@
 [{:jurisdiction :us,
   :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US1223516/en",
+  :title
+  "Coöperating blank feeding and gumming mechanism for blank-gumming machines.",
+  :status :granted,
+  :id "US1223516",
+  :sourcing :authoritative,
+  :filing-year 1915,
+  :assignee :unassigned,
+  :grant-year 1917,
+  :term-years 20,
+  :open-license :none}
+ {:jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US1226278/en",
+  :title "Salt-shaker pulverizer.",
+  :status :granted,
+  :id "US1226278",
+  :sourcing :authoritative,
+  :filing-year 1914,
+  :assignee :unassigned,
+  :grant-year 1917,
+  :term-years 20,
+  :open-license :none}
+ {:jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US1240589/en",
+  :title "Paper-making machine.",
+  :status :granted,
+  :id "US1240589",
+  :sourcing :authoritative,
+  :filing-year 1917,
+  :assignee :unassigned,
+  :grant-year 1917,
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:feculose-of-america],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US1258840/en",
+  :title "Apparatus for sizing paper.",
+  :status :granted,
+  :id "US1258840",
+  :sourcing :authoritative,
+  :filing-year 1916,
+  :assignee :feculose-of-america,
+  :grant-year 1918,
+  :term-years 20,
+  :open-license :none}
+ {:jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US1261748/en",
+  :title "Photographic-film cartridge or pack.",
+  :status :granted,
+  :id "US1261748",
+  :sourcing :authoritative,
+  :filing-year 1918,
+  :assignee :unassigned,
+  :grant-year 1918,
+  :term-years 20,
+  :open-license :none}
+ {:jurisdiction :us,
+  :field "UNKNOWN",
   :source "https://patents.google.com/patent/US1263485/en",
   :title "Jar-transferring machine.",
   :status :granted,
@@ -9145,90 +9207,5 @@
   :assignee :imperial-chemical-industries,
   :grant-year 1947,
   :cites ["US1933052" "US1950662" "US2171389" "US2204520" "US2302557"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:united-states-rubber],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US2429080/en",
-  :title
-  "Reducing the curing rate of buta-diene-styrene copolymer rubber",
-  :status :granted,
-  :id "US2429080",
-  :sourcing :authoritative,
-  :filing-year 1944,
-  :assignee :united-states-rubber,
-  :grant-year 1947,
-  :cites ["US1918328" "US2234204"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:wingfoot],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US2429177/en",
-  :title "Stretching and laminating film",
-  :status :granted,
-  :id "US2429177",
-  :sourcing :authoritative,
-  :filing-year 1940,
-  :assignee :wingfoot,
-  :grant-year 1947,
-  :cites
-  ["GB497788A"
-   "US1126753"
-   "US1784758"
-   "US1894467"
-   "US2047497"
-   "US2074285"
-   "US2109382"
-   "US2123155"
-   "US2256159"
-   "US2259347"
-   "US2273466"
-   "US2335190"
-   "US671213"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:electronized-chemicals],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US2429217/en",
-  :title "Device for treatment of matters with high-speed electrons",
-  :status :granted,
-  :id "US2429217",
-  :sourcing :authoritative,
-  :filing-year 1942,
-  :assignee :electronized-chemicals,
-  :grant-year 1947,
-  :cites
-  ["DE532773C"
-   "US1559714"
-   "US1779402"
-   "US1907507"
-   "US1961715"
-   "US1971277"
-   "US1991236"
-   "US2007765"
-   "US2018599"
-   "US2043733"
-   "US2144518"
-   "US2145727"
-   "US2161985"
-   "US2206710"
-   "US2254994"
-   "US2256191"],
-  :term-years 20,
-  :open-license :none}
- {:jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US2429219/en",
-  :title "Process of making linear superpolyesters",
-  :status :granted,
-  :id "US2429219",
-  :sourcing :authoritative,
-  :filing-year 1944,
-  :assignee :unassigned,
-  :grant-year 1947,
-  :cites ["GB428864A" "US2111427" "US2325040" "US2347562"],
   :term-years 20,
   :open-license :none}]

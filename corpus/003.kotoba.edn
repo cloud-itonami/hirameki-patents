@@ -1,4 +1,86 @@
-[{:jurisdiction :us,
+[{:assignees [:commonwealth-engineering-company-of-ohio],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2807416/en",
+  :title "Device for automatically counting blood cells",
+  :status :granted,
+  :id "US2807416",
+  :sourcing :authoritative,
+  :filing-year 1954,
+  :assignee :commonwealth-engineering-company-of-ohio,
+  :grant-year 1957,
+  :cites ["US1974522" "US2369577" "US2480312" "US2584082" "US2661902"],
+  :term-years 20,
+  :open-license :none}
+ {:jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2807550/en",
+  :title "Pre-cooked food package and method of preparing the same",
+  :status :granted,
+  :id "US2807550",
+  :sourcing :authoritative,
+  :filing-year 1955,
+  :assignee :unassigned,
+  :grant-year 1957,
+  :cites ["US1711372" "US2465841" "US2609301"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:dow-corning],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2807601/en",
+  :title
+  "Compositions for treating organic fabrics and a method of applying them",
+  :status :granted,
+  :id "US2807601",
+  :sourcing :authoritative,
+  :filing-year 1954,
+  :assignee :dow-corning,
+  :grant-year 1957,
+  :cites ["US2482276" "US2588365" "US2588393" "US2607792" "US2612482"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:john-t-raisin],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2808192/en",
+  :title "Food container",
+  :status :granted,
+  :id "US2808192",
+  :sourcing :authoritative,
+  :filing-year 1953,
+  :assignee :john-t-raisin,
+  :grant-year 1957,
+  :cites
+  ["US1704175"
+   "US2106663"
+   "US2120902"
+   "US2131438"
+   "US2260230"
+   "US2378324"
+   "US2442936"
+   "US2470465"
+   "US2571340"
+   "US2621129"
+   "US2674536"
+   "US2691259"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:burgess-battery],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2808352/en",
+  :title "Electrically conductive adhesive tape",
+  :status :granted,
+  :id "US2808352",
+  :sourcing :authoritative,
+  :filing-year 1951,
+  :assignee :burgess-battery,
+  :grant-year 1957,
+  :cites ["US2037749" "US2200363" "US2441945" "US2463452" "US882770"],
+  :term-years 20,
+  :open-license :none}
+ {:jurisdiction :us,
   :field "UNKNOWN",
   :source "https://patents.google.com/patent/US2809147/en",
   :title
@@ -1736,6 +1818,27 @@
   :filing-year 1957,
   :assignee :general-electric,
   :grant-year 1959,
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:bradley-and-vrooman],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2895930/en",
+  :title
+  "Water emulsion of polymerizable epoxide group containing oil modified alkyd and formaldehyde condensation resins",
+  :status :granted,
+  :id "US2895930",
+  :sourcing :authoritative,
+  :filing-year 1955,
+  :assignee :bradley-and-vrooman,
+  :grant-year 1959,
+  :cites
+  ["US2538072"
+   "US2581464"
+   "US2591539"
+   "US2604463"
+   "US2681322"
+   "US2684345"],
   :term-years 20,
   :open-license :none}
  {:jurisdiction :us,
@@ -4082,6 +4185,20 @@
    "US2645628"
    "US2649396"
    "US2716638"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:jr-geigy],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2991260/en",
+  :title "Textile pigment printing compositions",
+  :status :granted,
+  :id "US2991260",
+  :sourcing :authoritative,
+  :filing-year 1959,
+  :assignee :jr-geigy,
+  :grant-year 1961,
+  :cites ["US2681322" "US2865871" "US2900354"],
   :term-years 20,
   :open-license :none}
  {:assignees [:union-carbide],
@@ -9686,118 +9803,5 @@
   :assignee :scientific-industries,
   :grant-year 1966,
   :cites ["US2129754" "US2249867" "US2692830" "US2918033" "US3036893"],
-  :term-years 20,
-  :open-license :none}
- {:jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3262787/en",
-  :title "Process of preparing packaged cooked foods",
-  :status :granted,
-  :id "US3262787",
-  :sourcing :authoritative,
-  :filing-year 1962,
-  :assignee :unassigned,
-  :grant-year 1966,
-  :cites ["US2380134" "US2687961"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:dow-corning],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3262830/en",
-  :title
-  "Organosilicon molding compositions containing orthotitanate catalysts",
-  :status :granted,
-  :id "US3262830",
-  :sourcing :authoritative,
-  :filing-year 1961,
-  :assignee :dow-corning,
-  :grant-year 1966,
-  :cites ["US2486162" "US2718483" "US2970126" "US2993809"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:ei-du-pont-de-nemours-and],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3264272/en",
-  :title "Ionic hydrocarbon polymers",
-  :status :granted,
-  :id "US3264272",
-  :sourcing :authoritative,
-  :filing-year 1963,
-  :assignee :ei-du-pont-de-nemours-and,
-  :grant-year 1966,
-  :cites ["US2599123" "US2646425" "US2798053" "US2854357" "US3132120"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:american-instr],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3264474/en",
-  :title "Phosphorimeter attachment for fluorometer",
-  :status :granted,
-  :id "US3264474",
-  :sourcing :authoritative,
-  :filing-year 1963,
-  :assignee :american-instr,
-  :grant-year 1966,
-  :cites ["US2948127" "US3049620" "US3092722" "US3092974"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:renker-belipa-fa],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3265497/en",
-  :title "Electrophotographic material",
-  :status :granted,
-  :id "US3265497",
-  :sourcing :authoritative,
-  :filing-year 1962,
-  :assignee :renker-belipa-fa,
-  :grant-year 1966,
-  :cites
-  ["BE562336A"
-   "DE1060259B"
-   "DE1060713B"
-   "DE1105713B"
-   "US2710274"
-   "US3025160"
-   "US3155503"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:nat-lead],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3265644/en",
-  :title "Particle-polymer compositions and process for making same",
-  :status :granted,
-  :id "US3265644",
-  :sourcing :authoritative,
-  :filing-year 1963,
-  :assignee :nat-lead,
-  :grant-year 1966,
-  :cites ["US2399259" "US3092438" "US3102050"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:shell-oil],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3265765/en",
-  :title
-  "Block polymers of monovinyl aromatic hydrocarbons and conjugated dienes",
-  :status :granted,
-  :id "US3265765",
-  :sourcing :authoritative,
-  :filing-year 1962,
-  :assignee :shell-oil,
-  :grant-year 1966,
-  :cites
-  ["FR1270016A"
-   "GB838996A"
-   "GB856581A"
-   "US2666042"
-   "US3041310"
-   "US3078254"
-   "US3149182"],
   :term-years 20,
   :open-license :none}]

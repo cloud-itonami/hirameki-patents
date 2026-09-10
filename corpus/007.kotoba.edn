@@ -1,6 +1,397 @@
 [{:assignees [:ppg-industries],
   :jurisdiction :us,
   :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US4699814/en",
+  :title
+  "Color plus clear application of high solids thermosetting coating compositions containing epoxy-functional polyurethanes",
+  :status :granted,
+  :id "US4699814",
+  :sourcing :authoritative,
+  :filing-year 1986,
+  :assignee :ppg-industries,
+  :grant-year 1987,
+  :cites ["US4220679" "US4508767" "US4514445" "US4542070" "US4650718"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:university-of-california-san-diego-ucsd],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US4699877/en",
+  :title "Methods and compositions for detecting human tumors",
+  :status :granted,
+  :id "US4699877",
+  :sourcing :authoritative,
+  :filing-year 1984,
+  :assignee :university-of-california-san-diego-ucsd,
+  :grant-year 1987,
+  :cites
+  ["GB2034323A"
+   "US4331647"
+   "US4348376"
+   "US4358535"
+   "US4361544"
+   "US4535058"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:ciba-geigy],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US4703073/en",
+  :title
+  "Alkylated N,N-dibenzylhydroxylamines and polyolefin compositions stabilized therewith",
+  :status :granted,
+  :id "US4703073",
+  :sourcing :authoritative,
+  :filing-year 1986,
+  :assignee :ciba-geigy,
+  :grant-year 1987,
+  :cites
+  ["DE2160170A1"
+   "US3148225"
+   "US3219701"
+   "US3408422"
+   "US3432578"
+   "US3644278"
+   "US3778464"
+   "US3867445"
+   "US3926909"
+   "US4242224"
+   "US4316996"
+   "US4386224"
+   "US4547532"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:pharmacia],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US4707235/en",
+  :title
+  "Electrophoresis method and apparatus having continuous detection means",
+  :status :granted,
+  :id "US4707235",
+  :sourcing :authoritative,
+  :filing-year 1985,
+  :assignee :pharmacia,
+  :grant-year 1987,
+  :cites
+  ["US2502683"
+   "US3432414"
+   "US3969218"
+   "US4019057"
+   "US4035377"
+   "US4198389"
+   "US4207166"
+   "US4305799"
+   "US4311908"
+   "US4456513"
+   "US4534647"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:pfizer],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US4709044/en",
+  :title "Biotin intermediates",
+  :status :granted,
+  :id "US4709044",
+  :sourcing :authoritative,
+  :filing-year 1984,
+  :assignee :pfizer,
+  :grant-year 1987,
+  :cites ["GB1419927A" "US3960884"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:yale-university],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US4710465/en",
+  :title "Junction-fragment DNA probes and probe clusters",
+  :status :granted,
+  :id "US4710465",
+  :sourcing :authoritative,
+  :filing-year 1984,
+  :assignee :yale-university,
+  :grant-year 1987,
+  :cites ["US4394443" "US4395486" "US4528266" "US4530901"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:yale-university],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US4711955/en",
+  :title
+  "Modified nucleotides and methods of preparing and using same",
+  :status :granted,
+  :id "US4711955",
+  :sourcing :authoritative,
+  :filing-year 1983,
+  :assignee :yale-university,
+  :grant-year 1987,
+  :cites
+  ["DE2618419A1"
+   "DE2618511A1"
+   "DE3045375A1"
+   "EP0070685A2"
+   "EP0070687B1"
+   "GB1548741A"
+   "GB1552607A"
+   "GB2019408A"
+   "GB2026690A"
+   "GB2034323A"
+   "GB2041922A"
+   "GB2045239A"
+   "GB2125964A"
+   "US3328389"
+   "US3337530"
+   "US3338882"
+   "US3804826"
+   "US3893998"
+   "US3915958"
+   "US3917583"
+   "US3960840"
+   "US3968101"
+   "US4008363"
+   "US4038480"
+   "US4048307"
+   "US4086417"
+   "US4088639"
+   "US4096324"
+   "US4134792"
+   "US4151349"
+   "US4171432"
+   "US4213893"
+   "US4228237"
+   "US4230698"
+   "US4230797"
+   "US4247544"
+   "US4261893"
+   "US4267171"
+   "US4302204"
+   "US4318980"
+   "US4318981"
+   "US4318982"
+   "US4355165"
+   "US4358535"
+   "US4363759"
+   "US4374925"
+   "US4380580"
+   "US4383031"
+   "US4446231"
+   "US4469863"
+   "WO1983002276A1"
+   "WO1983002277A1"
+   "WO1983002286A1"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:davidson-textron],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US4713143/en",
+  :title "Etching of vacuum metallized indium",
+  :status :granted,
+  :id "US4713143",
+  :sourcing :authoritative,
+  :filing-year 1987,
+  :assignee :davidson-textron,
+  :grant-year 1987,
+  :cites
+  ["US2937940"
+   "US2992125"
+   "US2993806"
+   "US3118781"
+   "US3620804"
+   "US3914472"
+   "US4101698"
+   "US4131530"
+   "US4211822"
+   "US4215170"
+   "US4216246"
+   "US4431711"
+   "US4610755"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:molecular-diagnostics],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US4713326/en",
+  :title
+  "Coupling of nucleic acids to solid support by photochemical methods",
+  :status :granted,
+  :id "US4713326",
+  :sourcing :authoritative,
+  :filing-year 1984,
+  :assignee :molecular-diagnostics,
+  :grant-year 1987,
+  :cites ["EP0131830A1" "US4542102" "US4582789" "US4592998"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:fuji-photo-film],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US4720786/en",
+  :title
+  "Method of compensating for offset distortion in rows of electrophoretic patterns",
+  :status :granted,
+  :id "US4720786",
+  :sourcing :authoritative,
+  :filing-year 1986,
+  :assignee :fuji-photo-film,
+  :grant-year 1988,
+  :cites ["EP0113672A2" "EP0141382A2" "EP0157280A2" "WO1986005817A1"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:bio-metric-systems],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US4722906/en",
+  :title "Binding reagents and methods",
+  :status :granted,
+  :id "US4722906",
+  :sourcing :authoritative,
+  :filing-year 1982,
+  :assignee :bio-metric-systems,
+  :grant-year 1988,
+  :cites ["US3959078" "US4007089" "US4434150"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:boston-university :university-of-colorado-foundation],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US4728591/en",
+  :title
+  "Self-assembled nanometer lithographic masks and templates and method for parallel fabrication of nanometer scale multi-device structures",
+  :status :granted,
+  :id "US4728591",
+  :sourcing :authoritative,
+  :filing-year 1986,
+  :assignee :boston-university,
+  :grant-year 1988,
+  :cites ["US4103064" "US4103073" "US4170512" "US4254174"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:university-of-nebraska-system],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US4729947/en",
+  :title "DNA sequencing",
+  :status :granted,
+  :id "US4729947",
+  :sourcing :authoritative,
+  :filing-year 1984,
+  :assignee :university-of-nebraska-system,
+  :grant-year 1988,
+  :cites
+  ["DE3022527A1"
+   "US4133873"
+   "US4198567"
+   "US4239612"
+   "US4375401"
+   "US4503035"
+   "US4534647"
+   "US4545888"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:ei-du-pont-de-nemours-and],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US4731290/en",
+  :title "Process for improving the appearance of a multilayer finish",
+  :status :granted,
+  :id "US4731290",
+  :sourcing :authoritative,
+  :filing-year 1986,
+  :assignee :ei-du-pont-de-nemours-and,
+  :grant-year 1988,
+  :cites
+  ["US3839254"
+   "US3862071"
+   "US4098740"
+   "US4140836"
+   "US4187258"
+   "US4191624"
+   "US4232090"
+   "US4303581"
+   "US4403003"
+   "US4404248"
+   "US4508767"
+   "US4620994"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:central-glass],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US4731417/en",
+  :title
+  "Multicomponent resin composition variable in light transmittance with temperature",
+  :status :granted,
+  :id "US4731417",
+  :sourcing :authoritative,
+  :filing-year 1986,
+  :assignee :central-glass,
+  :grant-year 1988,
+  :cites ["US3342778" "US4319002" "US4546149"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:ppg-industries],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US4732790/en",
+  :title
+  "Color plus clear application of thermosetting high solids coating composition of hydroxy-functional epoxies and anhydrides",
+  :status :granted,
+  :id "US4732790",
+  :sourcing :authoritative,
+  :filing-year 1986,
+  :assignee :ppg-industries,
+  :grant-year 1988,
+  :cites
+  ["GB994907A"
+   "US2683131"
+   "US2712535"
+   "US2857354"
+   "US2890194"
+   "US2890210"
+   "US3008914"
+   "US3179714"
+   "US3215756"
+   "US3218274"
+   "US3269975"
+   "US3408215"
+   "US3523143"
+   "US3528935"
+   "US3781380"
+   "US3785635"
+   "US3787521"
+   "US3925507"
+   "US3932367"
+   "US3953644"
+   "US3954712"
+   "US3975314"
+   "US4046727"
+   "US4076676"
+   "US4102942"
+   "US4220679"
+   "US4226755"
+   "US4291137"
+   "US4322456"
+   "US4346144"
+   "US4350790"
+   "US4352842"
+   "US4359554"
+   "US4403003"
+   "US4403093"
+   "US4418182"
+   "US4452948"
+   "US4465815"
+   "US4471025"
+   "US4481239"
+   "US4508767"
+   "US4548963"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:ppg-industries],
+  :jurisdiction :us,
+  :field "UNKNOWN",
   :source "https://patents.google.com/patent/US4732791/en",
   :title
   "Color plus clear application of thermosetting high solids coating composition of epoxies, polyols and anhydrides",
@@ -4078,6 +4469,18 @@
   :filing-year 1993,
   :assignee :ei-du-pont-de-nemours-and,
   :cites ["EP0263429A2" "EP0275138A2" "US4732790" "US4732791"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:nippon-paint],
+  :jurisdiction :wo,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/WO1996021703A1/en",
+  :title "Coloring paint composition",
+  :status :pending,
+  :id "WO1996021703A1",
+  :sourcing :authoritative,
+  :filing-year 1995,
+  :assignee :nippon-paint,
   :term-years 20,
   :open-license :none}
  {:assignees [:basf-lacke-und-farben :nippon-oil-and-fats],

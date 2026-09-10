@@ -1,4 +1,117 @@
-[{:assignees [:technicon-instruments],
+[{:jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3262787/en",
+  :title "Process of preparing packaged cooked foods",
+  :status :granted,
+  :id "US3262787",
+  :sourcing :authoritative,
+  :filing-year 1962,
+  :assignee :unassigned,
+  :grant-year 1966,
+  :cites ["US2380134" "US2687961"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:dow-corning],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3262830/en",
+  :title
+  "Organosilicon molding compositions containing orthotitanate catalysts",
+  :status :granted,
+  :id "US3262830",
+  :sourcing :authoritative,
+  :filing-year 1961,
+  :assignee :dow-corning,
+  :grant-year 1966,
+  :cites ["US2486162" "US2718483" "US2970126" "US2993809"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:ei-du-pont-de-nemours-and],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3264272/en",
+  :title "Ionic hydrocarbon polymers",
+  :status :granted,
+  :id "US3264272",
+  :sourcing :authoritative,
+  :filing-year 1963,
+  :assignee :ei-du-pont-de-nemours-and,
+  :grant-year 1966,
+  :cites ["US2599123" "US2646425" "US2798053" "US2854357" "US3132120"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:american-instr],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3264474/en",
+  :title "Phosphorimeter attachment for fluorometer",
+  :status :granted,
+  :id "US3264474",
+  :sourcing :authoritative,
+  :filing-year 1963,
+  :assignee :american-instr,
+  :grant-year 1966,
+  :cites ["US2948127" "US3049620" "US3092722" "US3092974"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:renker-belipa-fa],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3265497/en",
+  :title "Electrophotographic material",
+  :status :granted,
+  :id "US3265497",
+  :sourcing :authoritative,
+  :filing-year 1962,
+  :assignee :renker-belipa-fa,
+  :grant-year 1966,
+  :cites
+  ["BE562336A"
+   "DE1060259B"
+   "DE1060713B"
+   "DE1105713B"
+   "US2710274"
+   "US3025160"
+   "US3155503"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:nat-lead],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3265644/en",
+  :title "Particle-polymer compositions and process for making same",
+  :status :granted,
+  :id "US3265644",
+  :sourcing :authoritative,
+  :filing-year 1963,
+  :assignee :nat-lead,
+  :grant-year 1966,
+  :cites ["US2399259" "US3092438" "US3102050"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:shell-oil],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3265765/en",
+  :title
+  "Block polymers of monovinyl aromatic hydrocarbons and conjugated dienes",
+  :status :granted,
+  :id "US3265765",
+  :sourcing :authoritative,
+  :filing-year 1962,
+  :assignee :shell-oil,
+  :grant-year 1966,
+  :cites
+  ["FR1270016A"
+   "GB838996A"
+   "GB856581A"
+   "US2666042"
+   "US3041310"
+   "US3078254"
+   "US3149182"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:technicon-instruments],
   :jurisdiction :us,
   :field "UNKNOWN",
   :source "https://patents.google.com/patent/US3266298/en",
@@ -1456,6 +1569,28 @@
   :grant-year 1967,
   :term-years 20,
   :open-license :none}
+ {:assignees [:ei-du-pont-de-nemours-and],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3338860/en",
+  :title
+  "Coating compositions containing an interpolymer having reactive hydroxybutyl and carboxylic acid moieties",
+  :status :granted,
+  :id "US3338860",
+  :sourcing :authoritative,
+  :filing-year 1962,
+  :assignee :ei-du-pont-de-nemours-and,
+  :grant-year 1967,
+  :cites
+  ["US2662870"
+   "US2842519"
+   "US2848433"
+   "US2961424"
+   "US3002959"
+   "US3014881"
+   "US3056764"],
+  :term-years 20,
+  :open-license :none}
  {:assignees [:upjohn],
   :jurisdiction :us,
   :field "UNKNOWN",
@@ -2459,6 +2594,29 @@
   :assignee :trw,
   :grant-year 1968,
   :cites ["US2898282" "US2913386" "US3022241" "US3058894"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:ppg-industries],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3403088/en",
+  :title "Electrodeposition of water-dispersed acrylic interpolymers",
+  :status :granted,
+  :id "US3403088",
+  :sourcing :authoritative,
+  :filing-year 1964,
+  :assignee :ppg-industries,
+  :grant-year 1968,
+  :cites
+  ["US2530366"
+   "US2787603"
+   "US2895930"
+   "US2918391"
+   "US2952564"
+   "US2991260"
+   "US3107227"
+   "US3200057"
+   "US3230162"],
   :term-years 20,
   :open-license :none}
  {:assignees [:bell-telephone-laboratories],
@@ -3596,6 +3754,21 @@
    "US3355401"
    "US3366563"
    "US3413322"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:nalco-chemical],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3468816/en",
+  :title
+  "Method of purifying an impure quaternary ammonium salt by addition of an epoxide",
+  :status :granted,
+  :id "US3468816",
+  :sourcing :authoritative,
+  :filing-year 1964,
+  :assignee :nalco-chemical,
+  :grant-year 1969,
+  :cites ["US2127476" "US2676166"],
   :term-years 20,
   :open-license :none}
  {:assignees [:union-carbide],
@@ -5409,6 +5582,20 @@
   :grant-year 1971,
   :term-years 20,
   :open-license :none}
+ {:assignees [:ei-du-pont-de-nemours-and],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3558564/en",
+  :title
+  "Thermosetting coating composition of an organic polyisocyanate and a polymer having pendant hydroxyl containing ester groups",
+  :status :granted,
+  :id "US3558564",
+  :sourcing :authoritative,
+  :filing-year 1969,
+  :assignee :ei-du-pont-de-nemours-and,
+  :grant-year 1971,
+  :term-years 20,
+  :open-license :none}
  {:assignees [:roche-palo-alto],
   :jurisdiction :us,
   :field "UNKNOWN",
@@ -6453,6 +6640,28 @@
   :cites ["US2804418" "US3067085" "US3166435"],
   :term-years 20,
   :open-license :none}
+ {:assignees [:ei-du-pont-de-nemours-and],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3622651/en",
+  :title
+  "Novel polymer having pendent ester groups for low temperature bake coatings",
+  :status :granted,
+  :id "US3622651",
+  :sourcing :authoritative,
+  :filing-year 1969,
+  :assignee :ei-du-pont-de-nemours-and,
+  :grant-year 1971,
+  :cites
+  ["US3002959"
+   "US3330814"
+   "US3366706"
+   "US3367992"
+   "US3376271"
+   "US3376272"
+   "US3427291"],
+  :term-years 20,
+  :open-license :none}
  {:assignees [:coulter-electronics],
   :jurisdiction :us,
   :field "UNKNOWN",
@@ -6727,6 +6936,20 @@
    "US3377169"
    "US3386823"
    "US3440046"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:ei-du-pont-de-nemours-and],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3637546/en",
+  :title
+  "Thermosetting acrylic enamel containing cellulose acetate butyrate",
+  :status :granted,
+  :id "US3637546",
+  :sourcing :authoritative,
+  :filing-year 1970,
+  :assignee :ei-du-pont-de-nemours-and,
+  :grant-year 1972,
   :term-years 20,
   :open-license :none}
  {:assignees [:nippon-kayaku :osaka-seika-kogyo],
@@ -7258,6 +7481,20 @@
   :sourcing :authoritative,
   :filing-year 1969,
   :assignee :hercules,
+  :grant-year 1972,
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:eastman-kodak],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3658948/en",
+  :title
+  "Hot melt composition comprising maleated polyethylene and polyolefin",
+  :status :granted,
+  :id "US3658948",
+  :sourcing :authoritative,
+  :filing-year 1970,
+  :assignee :eastman-kodak,
   :grant-year 1972,
   :term-years 20,
   :open-license :none}
@@ -8935,230 +9172,5 @@
   :assignee :takeda-chemical-industries,
   :grant-year 1973,
   :cites ["FR1419914A" "GB1145952A"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:farmitalla-soc],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3732149/en",
-  :title "Apparatus for the large scale growth of living cells",
-  :status :granted,
-  :id "US3732149",
-  :sourcing :authoritative,
-  :filing-year 1970,
-  :assignee :farmitalla-soc,
-  :grant-year 1973,
-  :term-years 20,
-  :open-license :none}
- {:assignees [:agfa-gevaert],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3733989/en",
-  :title "Automatic focusing arrangement",
-  :status :granted,
-  :id "US3733989",
-  :sourcing :authoritative,
-  :filing-year 1971,
-  :assignee :agfa-gevaert,
-  :grant-year 1973,
-  :term-years 20,
-  :open-license :none}
- {:assignees [:technicon-instruments],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3734622/en",
-  :title
-  "Apparatus for photometrically analyzing a droplet of a sample liquid",
-  :status :granted,
-  :id "US3734622",
-  :sourcing :authoritative,
-  :filing-year 1971,
-  :assignee :technicon-instruments,
-  :grant-year 1973,
-  :cites ["US1939088" "US2176618" "US3263553" "US3432275" "US3520609"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:us-atomic-energy-commission-aec],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3735001/en",
-  :title "Technetium bone scanning medium",
-  :status :granted,
-  :id "US3735001",
-  :sourcing :authoritative,
-  :filing-year 1972,
-  :assignee :us-atomic-energy-commission-aec,
-  :grant-year 1973,
-  :term-years 20,
-  :open-license :none}
- {:assignees [:western-electric],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3738752/en",
-  :title
-  "Intensity spatial filter having non-uniformly spaced filter elements",
-  :status :granted,
-  :id "US3738752",
-  :sourcing :authoritative,
-  :filing-year 1972,
-  :assignee :western-electric,
-  :grant-year 1973,
-  :cites ["US3414875" "US3614232" "US3630596" "US3658420"],
-  :term-years 20,
-  :open-license :none}
- {:jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3738813/en",
-  :title "Mass transfer device and method of making same",
-  :status :granted,
-  :id "US3738813",
-  :sourcing :authoritative,
-  :filing-year 1971,
-  :assignee :unassigned,
-  :grant-year 1973,
-  :term-years 20,
-  :open-license :none}
- {:assignees [:smith-kline-&-french-laboratories],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3740321/en",
-  :title "Cell propagator",
-  :status :granted,
-  :id "US3740321",
-  :sourcing :authoritative,
-  :filing-year 1970,
-  :assignee :smith-kline-&-french-laboratories,
-  :grant-year 1973,
-  :term-years 20,
-  :open-license :none}
- {:assignees [:avco],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3740665/en",
-  :title "Transverse flowing liquid laser",
-  :status :granted,
-  :id "US3740665",
-  :sourcing :authoritative,
-  :filing-year 1972,
-  :assignee :avco,
-  :grant-year 1973,
-  :cites ["US3663891" "US3675990" "US3684979"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:massachusetts-institute-of-technology],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3742230/en",
-  :title "Soft x-ray mask support substrate",
-  :status :granted,
-  :id "US3742230",
-  :sourcing :authoritative,
-  :filing-year 1972,
-  :assignee :massachusetts-institute-of-technology,
-  :grant-year 1973,
-  :cites ["US3637380"],
-  :term-years 20,
-  :open-license :none}
- {:jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3743090/en",
-  :title
-  "Method and apparatus for selectively removing pre-identified articles from a conveyor system",
-  :status :granted,
-  :id "US3743090",
-  :sourcing :authoritative,
-  :filing-year 1971,
-  :assignee :unassigned,
-  :grant-year 1973,
-  :cites ["US3144926" "US3460673" "US3463566" "US3516654" "US3612250"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:massachusetts-institute-of-technology],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3743842/en",
-  :title "Soft x-ray lithographic apparatus and process",
-  :status :granted,
-  :id "US3743842",
-  :sourcing :authoritative,
-  :filing-year 1972,
-  :assignee :massachusetts-institute-of-technology,
-  :grant-year 1973,
-  :cites
-  ["US1933652"
-   "US2382674"
-   "US3118786"
-   "US3447924"
-   "US3518083"
-   "US3637380"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:gaalen-n-van],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3746166/en",
-  :title
-  "Fish egg sorting apparatus for separating small eggs from larger eggs",
-  :status :granted,
-  :id "US3746166",
-  :sourcing :authoritative,
-  :filing-year 1972,
-  :assignee :gaalen-n-van,
-  :grant-year 1973,
-  :cites ["US1443524" "US1907448" "US3613884"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:us-atomic-energy-commission-aec],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3746175/en",
-  :title "Compact dialyzer",
-  :status :granted,
-  :id "US3746175",
-  :sourcing :authoritative,
-  :filing-year 1971,
-  :assignee :us-atomic-energy-commission-aec,
-  :grant-year 1973,
-  :cites ["US2982416" "US3342729" "US3557962"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:eastman-kodak],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3746564/en",
-  :title "Photographic diffusion transfer product and process",
-  :status :granted,
-  :id "US3746564",
-  :sourcing :authoritative,
-  :filing-year 1970,
-  :assignee :eastman-kodak,
-  :grant-year 1973,
-  :term-years 20,
-  :open-license :none}
- {:assignees [:us-department-of-navy],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3746624/en",
-  :title "48-hour test for streptococcus mut ans in plaque",
-  :status :granted,
-  :id "US3746624",
-  :sourcing :authoritative,
-  :filing-year 1972,
-  :assignee :us-department-of-navy,
-  :grant-year 1973,
-  :term-years 20,
-  :open-license :none}
- {:assignees [:coulter-electronics],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3746976/en",
-  :title "Self-cleaning aperture tube for coulter study apparatus",
-  :status :granted,
-  :id "US3746976",
-  :sourcing :authoritative,
-  :filing-year 1971,
-  :assignee :coulter-electronics,
-  :grant-year 1973,
-  :cites ["US3299354" "US3583209"],
   :term-years 20,
   :open-license :none}]

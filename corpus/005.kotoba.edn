@@ -1,4 +1,229 @@
-[{:assignees [:phillips-petroleum],
+[{:assignees [:farmitalla-soc],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3732149/en",
+  :title "Apparatus for the large scale growth of living cells",
+  :status :granted,
+  :id "US3732149",
+  :sourcing :authoritative,
+  :filing-year 1970,
+  :assignee :farmitalla-soc,
+  :grant-year 1973,
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:agfa-gevaert],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3733989/en",
+  :title "Automatic focusing arrangement",
+  :status :granted,
+  :id "US3733989",
+  :sourcing :authoritative,
+  :filing-year 1971,
+  :assignee :agfa-gevaert,
+  :grant-year 1973,
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:technicon-instruments],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3734622/en",
+  :title
+  "Apparatus for photometrically analyzing a droplet of a sample liquid",
+  :status :granted,
+  :id "US3734622",
+  :sourcing :authoritative,
+  :filing-year 1971,
+  :assignee :technicon-instruments,
+  :grant-year 1973,
+  :cites ["US1939088" "US2176618" "US3263553" "US3432275" "US3520609"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:us-atomic-energy-commission-aec],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3735001/en",
+  :title "Technetium bone scanning medium",
+  :status :granted,
+  :id "US3735001",
+  :sourcing :authoritative,
+  :filing-year 1972,
+  :assignee :us-atomic-energy-commission-aec,
+  :grant-year 1973,
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:western-electric],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3738752/en",
+  :title
+  "Intensity spatial filter having non-uniformly spaced filter elements",
+  :status :granted,
+  :id "US3738752",
+  :sourcing :authoritative,
+  :filing-year 1972,
+  :assignee :western-electric,
+  :grant-year 1973,
+  :cites ["US3414875" "US3614232" "US3630596" "US3658420"],
+  :term-years 20,
+  :open-license :none}
+ {:jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3738813/en",
+  :title "Mass transfer device and method of making same",
+  :status :granted,
+  :id "US3738813",
+  :sourcing :authoritative,
+  :filing-year 1971,
+  :assignee :unassigned,
+  :grant-year 1973,
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:smith-kline-&-french-laboratories],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3740321/en",
+  :title "Cell propagator",
+  :status :granted,
+  :id "US3740321",
+  :sourcing :authoritative,
+  :filing-year 1970,
+  :assignee :smith-kline-&-french-laboratories,
+  :grant-year 1973,
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:avco],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3740665/en",
+  :title "Transverse flowing liquid laser",
+  :status :granted,
+  :id "US3740665",
+  :sourcing :authoritative,
+  :filing-year 1972,
+  :assignee :avco,
+  :grant-year 1973,
+  :cites ["US3663891" "US3675990" "US3684979"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:massachusetts-institute-of-technology],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3742230/en",
+  :title "Soft x-ray mask support substrate",
+  :status :granted,
+  :id "US3742230",
+  :sourcing :authoritative,
+  :filing-year 1972,
+  :assignee :massachusetts-institute-of-technology,
+  :grant-year 1973,
+  :cites ["US3637380"],
+  :term-years 20,
+  :open-license :none}
+ {:jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3743090/en",
+  :title
+  "Method and apparatus for selectively removing pre-identified articles from a conveyor system",
+  :status :granted,
+  :id "US3743090",
+  :sourcing :authoritative,
+  :filing-year 1971,
+  :assignee :unassigned,
+  :grant-year 1973,
+  :cites ["US3144926" "US3460673" "US3463566" "US3516654" "US3612250"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:massachusetts-institute-of-technology],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3743842/en",
+  :title "Soft x-ray lithographic apparatus and process",
+  :status :granted,
+  :id "US3743842",
+  :sourcing :authoritative,
+  :filing-year 1972,
+  :assignee :massachusetts-institute-of-technology,
+  :grant-year 1973,
+  :cites
+  ["US1933652"
+   "US2382674"
+   "US3118786"
+   "US3447924"
+   "US3518083"
+   "US3637380"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:gaalen-n-van],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3746166/en",
+  :title
+  "Fish egg sorting apparatus for separating small eggs from larger eggs",
+  :status :granted,
+  :id "US3746166",
+  :sourcing :authoritative,
+  :filing-year 1972,
+  :assignee :gaalen-n-van,
+  :grant-year 1973,
+  :cites ["US1443524" "US1907448" "US3613884"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:us-atomic-energy-commission-aec],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3746175/en",
+  :title "Compact dialyzer",
+  :status :granted,
+  :id "US3746175",
+  :sourcing :authoritative,
+  :filing-year 1971,
+  :assignee :us-atomic-energy-commission-aec,
+  :grant-year 1973,
+  :cites ["US2982416" "US3342729" "US3557962"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:eastman-kodak],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3746564/en",
+  :title "Photographic diffusion transfer product and process",
+  :status :granted,
+  :id "US3746564",
+  :sourcing :authoritative,
+  :filing-year 1970,
+  :assignee :eastman-kodak,
+  :grant-year 1973,
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:us-department-of-navy],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3746624/en",
+  :title "48-hour test for streptococcus mut ans in plaque",
+  :status :granted,
+  :id "US3746624",
+  :sourcing :authoritative,
+  :filing-year 1972,
+  :assignee :us-department-of-navy,
+  :grant-year 1973,
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:coulter-electronics],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3746976/en",
+  :title "Self-cleaning aperture tube for coulter study apparatus",
+  :status :granted,
+  :id "US3746976",
+  :sourcing :authoritative,
+  :filing-year 1971,
+  :assignee :coulter-electronics,
+  :grant-year 1973,
+  :cites ["US3299354" "US3583209"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:phillips-petroleum],
   :jurisdiction :us,
   :field "UNKNOWN",
   :source "https://patents.google.com/patent/US3749593/en",
@@ -335,6 +560,27 @@
   :assignee :tokyo-shibaura-electric,
   :grant-year 1973,
   :cites ["US3616345" "US3616348"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:union-oil-company-of-california],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3769151/en",
+  :title "Adhesive composition and method of preparation",
+  :status :granted,
+  :id "US3769151",
+  :sourcing :authoritative,
+  :filing-year 1972,
+  :assignee :union-oil-company-of-california,
+  :grant-year 1973,
+  :cites
+  ["GB1117711A"
+   "US3265654"
+   "US3296170"
+   "US3355322"
+   "US3578618"
+   "US3585175"
+   "US3661696"],
   :term-years 20,
   :open-license :none}
  {:assignees [:wacker-chemie],
@@ -2460,6 +2706,52 @@
   :assignee :allied-chemical,
   :grant-year 1975,
   :cites ["US2597741" "US3639163"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:ei-du-pont-de-nemours-and],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3862062/en",
+  :title
+  "Thermosetting acrylic powder of an acrylic polymer having low glass transition temperature, cellulose acetate butyrate and a cross-linking agent",
+  :status :granted,
+  :id "US3862062",
+  :sourcing :authoritative,
+  :filing-year 1972,
+  :assignee :ei-du-pont-de-nemours-and,
+  :grant-year 1975,
+  :cites
+  ["US3058951"
+   "US3265645"
+   "US3429840"
+   "US3491037"
+   "US3657001"
+   "US3713872"
+   "US3758635"
+   "US3784501"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:ei-du-pont-de-nemours-and],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3862063/en",
+  :title
+  "Thermosetting acrylic powder of an acrylic polymer having a high glass transition temperature, cellulose acetate butyrate, a reactive plasticizer and a cross-linking agent",
+  :status :granted,
+  :id "US3862063",
+  :sourcing :authoritative,
+  :filing-year 1973,
+  :assignee :ei-du-pont-de-nemours-and,
+  :grant-year 1975,
+  :cites
+  ["US3058951"
+   "US3265645"
+   "US3429840"
+   "US3491037"
+   "US3657001"
+   "US3713872"
+   "US3758635"
+   "US3784501"],
   :term-years 20,
   :open-license :none}
  {:jurisdiction :us,
@@ -9047,346 +9339,5 @@
   :assignee :ppg-industries,
   :grant-year 1978,
   :cites ["US3336253" "US3947338" "US3962499"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:hoechst],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US4105735/en",
-  :title "Process for flameproofing plastics",
-  :status :granted,
-  :id "US4105735",
-  :sourcing :authoritative,
-  :filing-year 1976,
-  :assignee :hoechst,
-  :grant-year 1978,
-  :cites ["US3488711" "US3663174" "US3951908"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:bp-north-america],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US4106920/en",
-  :title
-  "Method of making a semi-permeable, essentially water-insoluble, hydrophilic nylon membrane and resultant product",
-  :status :granted,
-  :id "US4106920",
-  :sourcing :authoritative,
-  :filing-year 1974,
-  :assignee :bp-north-america,
-  :grant-year 1978,
-  :cites
-  ["US2846727"
-   "US3228877"
-   "US3276996"
-   "US3332894"
-   "US3520960"
-   "US3542908"
-   "US3711583"
-   "US3719590"
-   "US3758605"
-   "US3770842"
-   "US3878109"
-   "US3899309"],
-  :term-years 20,
-  :open-license :none}
- {:jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US4107284/en",
-  :title "Radioimmunoassay procedure using a stabilized complex",
-  :status :granted,
-  :id "US4107284",
-  :sourcing :authoritative,
-  :filing-year 1975,
-  :assignee :unassigned,
-  :grant-year 1978,
-  :cites ["US3911096" "US3928553"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:purdue-research-foundation],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US4108603/en",
-  :title
-  "Method for rapid analysis of hemoglobin variants by high speed liquid chromatography",
-  :status :granted,
-  :id "US4108603",
-  :sourcing :authoritative,
-  :filing-year 1977,
-  :assignee :purdue-research-foundation,
-  :grant-year 1978,
-  :term-years 20,
-  :open-license :none}
- {:jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US4108972/en",
-  :title
-  "Immunological reagent employing radioactive and other tracers",
-  :status :granted,
-  :id "US4108972",
-  :sourcing :authoritative,
-  :filing-year 1975,
-  :assignee :unassigned,
-  :grant-year 1978,
-  :cites ["US3853987" "US3904367"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:international-telephone-and-telegraph],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US4109994/en",
-  :title "Single optical fiber connector",
-  :status :granted,
-  :id "US4109994",
-  :sourcing :authoritative,
-  :filing-year 1977,
-  :assignee :international-telephone-and-telegraph,
-  :grant-year 1978,
-  :cites
-  ["GB1429843A"
-   "US3950075"
-   "US3960531"
-   "US3989567"
-   "US4049414"
-   "US4050783"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:eastman-kodak],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US4111838/en",
-  :title "Composition for chromatography",
-  :status :granted,
-  :id "US4111838",
-  :sourcing :authoritative,
-  :filing-year 1977,
-  :assignee :eastman-kodak,
-  :grant-year 1978,
-  :cites ["DE2319495A1" "US3491086" "US3983299" "US4006059"],
-  :term-years 20,
-  :open-license :none}
- {:assignees
-  [:agency-of-industrial-science-and-technology :daikin-kogyo],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US4111866/en",
-  :title "Method of making a chemical-resistant diaphragm thereof",
-  :status :granted,
-  :id "US4111866",
-  :sourcing :authoritative,
-  :filing-year 1977,
-  :assignee :agency-of-industrial-science-and-technology,
-  :grant-year 1978,
-  :cites ["US3929950" "US4049589"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:mitsui-toatsu-chemicals],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US4115338/en",
-  :title "Metallic tone coating composition",
-  :status :granted,
-  :id "US4115338",
-  :sourcing :authoritative,
-  :filing-year 1976,
-  :assignee :mitsui-toatsu-chemicals,
-  :grant-year 1978,
-  :cites
-  ["US2302361"
-   "US2876133"
-   "US3265644"
-   "US3272772"
-   "US3393165"
-   "US3661620"
-   "US3806464"
-   "US3971753"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:ppg-industries],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US4115472/en",
-  :title "Urethane coating compositions",
-  :status :granted,
-  :id "US4115472",
-  :sourcing :authoritative,
-  :filing-year 1977,
-  :assignee :ppg-industries,
-  :grant-year 1978,
-  :cites ["US3317635" "US3538185" "US3702836" "US3751412" "US3888945"],
-  :term-years 20,
-  :open-license :none}
- {:jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US411596/en",
-  :title "Percolator",
-  :status :granted,
-  :id "US411596",
-  :sourcing :authoritative,
-  :assignee :unassigned,
-  :grant-year 1889,
-  :term-years 20,
-  :open-license :none}
- {:assignees [:warner-lambert],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US4116638/en",
-  :title "Immunoassay device",
-  :status :granted,
-  :id "US4116638",
-  :sourcing :authoritative,
-  :filing-year 1977,
-  :assignee :warner-lambert,
-  :grant-year 1978,
-  :cites
-  ["US3464798"
-   "US3492396"
-   "US3712465"
-   "US3843444"
-   "US3849830"
-   "US3873682"
-   "US4012200"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:celanese-polymer-specialties],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US4116900/en",
-  :title
-  "Cathodic electrocoating resin system from polyepoxide, polyamine, and monoepoxide",
-  :status :granted,
-  :id "US4116900",
-  :sourcing :authoritative,
-  :filing-year 1978,
-  :assignee :celanese-polymer-specialties,
-  :grant-year 1978,
-  :cites
-  ["US2872428"
-   "US2909448"
-   "US2970971"
-   "US3449278"
-   "US3462383"
-   "US3635842"
-   "US3673558"
-   "US3702351"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:mcdonnell-douglas],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US4118280/en",
-  :title "Automated microbial analyzer",
-  :status :granted,
-  :id "US4118280",
-  :sourcing :authoritative,
-  :filing-year 1976,
-  :assignee :mcdonnell-douglas,
-  :grant-year 1978,
-  :cites
-  ["US2375706"
-   "US2949815"
-   "US3152509"
-   "US3179007"
-   "US3193684"
-   "US3554639"
-   "US3704953"
-   "US3776817"
-   "US3851972"
-   "US3902799"
-   "US3928140"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:calgon],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US4118316/en",
-  :title
-  "Quaternized siliceous supports for gel permeation chromatography",
-  :status :granted,
-  :id "US4118316",
-  :sourcing :authoritative,
-  :filing-year 1976,
-  :assignee :calgon,
-  :grant-year 1978,
-  :cites
-  ["US3326875"
-   "US3514925"
-   "US3577266"
-   "US3666530"
-   "US3722181"
-   "US3962206"
-   "US3983299"
-   "US3993443"
-   "US4029583"
-   "US4039463"
-   "US4488922"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:deutsch-electronic-components-division],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US4119362/en",
-  :title "Optical fiber connector utilizing opposed lenses",
-  :status :granted,
-  :id "US4119362",
-  :sourcing :authoritative,
-  :filing-year 1977,
-  :assignee :deutsch-electronic-components-division,
-  :grant-year 1978,
-  :cites
-  ["DE1946693A1"
-   "GB1429843A"
-   "US3405992"
-   "US3832030"
-   "US3864019"
-   "US3944328"
-   "US4015894"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:rhone-poulenc-industries],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US4119494/en",
-  :title "Immobilization of enzymes in an anhydrous medium",
-  :status :granted,
-  :id "US4119494",
-  :sourcing :authoritative,
-  :filing-year 1976,
-  :assignee :rhone-poulenc-industries,
-  :grant-year 1978,
-  :cites ["US3691016" "US3766013" "US3847743"],
-  :term-years 20,
-  :open-license :none}
- {:jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US4119709/en",
-  :title "Diagnostic test",
-  :status :granted,
-  :id "US4119709",
-  :sourcing :authoritative,
-  :filing-year 1976,
-  :assignee :unassigned,
-  :grant-year 1978,
-  :cites
-  ["GB697060A"
-   "US3666854"
-   "US3768979"
-   "US3775615"
-   "US3776698"
-   "US3901654"
-   "US3960492"],
-  :term-years 20,
-  :open-license :none}
- {:jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US4120649/en",
-  :title "Transplants",
-  :status :granted,
-  :id "US4120649",
-  :sourcing :authoritative,
-  :filing-year 1976,
-  :assignee :unassigned,
-  :grant-year 1978,
-  :cites ["US3057775" "US3974526" "US3988782"],
   :term-years 20,
   :open-license :none}]

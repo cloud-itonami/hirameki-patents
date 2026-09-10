@@ -1,4 +1,89 @@
-[{:assignees [:ei-du-pont-de-nemours-and],
+[{:assignees [:united-states-rubber],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2429080/en",
+  :title
+  "Reducing the curing rate of buta-diene-styrene copolymer rubber",
+  :status :granted,
+  :id "US2429080",
+  :sourcing :authoritative,
+  :filing-year 1944,
+  :assignee :united-states-rubber,
+  :grant-year 1947,
+  :cites ["US1918328" "US2234204"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:wingfoot],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2429177/en",
+  :title "Stretching and laminating film",
+  :status :granted,
+  :id "US2429177",
+  :sourcing :authoritative,
+  :filing-year 1940,
+  :assignee :wingfoot,
+  :grant-year 1947,
+  :cites
+  ["GB497788A"
+   "US1126753"
+   "US1784758"
+   "US1894467"
+   "US2047497"
+   "US2074285"
+   "US2109382"
+   "US2123155"
+   "US2256159"
+   "US2259347"
+   "US2273466"
+   "US2335190"
+   "US671213"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:electronized-chemicals],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2429217/en",
+  :title "Device for treatment of matters with high-speed electrons",
+  :status :granted,
+  :id "US2429217",
+  :sourcing :authoritative,
+  :filing-year 1942,
+  :assignee :electronized-chemicals,
+  :grant-year 1947,
+  :cites
+  ["DE532773C"
+   "US1559714"
+   "US1779402"
+   "US1907507"
+   "US1961715"
+   "US1971277"
+   "US1991236"
+   "US2007765"
+   "US2018599"
+   "US2043733"
+   "US2144518"
+   "US2145727"
+   "US2161985"
+   "US2206710"
+   "US2254994"
+   "US2256191"],
+  :term-years 20,
+  :open-license :none}
+ {:jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2429219/en",
+  :title "Process of making linear superpolyesters",
+  :status :granted,
+  :id "US2429219",
+  :sourcing :authoritative,
+  :filing-year 1944,
+  :assignee :unassigned,
+  :grant-year 1947,
+  :cites ["GB428864A" "US2111427" "US2325040" "US2347562"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:ei-du-pont-de-nemours-and],
   :jurisdiction :us,
   :field "UNKNOWN",
   :source "https://patents.google.com/patent/US2430479/en",
@@ -6163,6 +6248,20 @@
    "US2395992"],
   :term-years 20,
   :open-license :none}
+ {:assignees [:ei-du-pont-de-nemours-and],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2676166/en",
+  :title "Polymeric quaternary ammonium compounds",
+  :status :granted,
+  :id "US2676166",
+  :sourcing :authoritative,
+  :filing-year 1952,
+  :assignee :ei-du-pont-de-nemours-and,
+  :grant-year 1954,
+  :cites ["US2173069" "US2556075" "US2562897" "US2581392"],
+  :term-years 20,
+  :open-license :none}
  {:assignees [:champion-paper-and-fibre],
   :jurisdiction :us,
   :field "UNKNOWN",
@@ -9912,87 +10011,5 @@
    "US2690123"
    "US2698056"
    "US2749989"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:commonwealth-engineering-company-of-ohio],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US2807416/en",
-  :title "Device for automatically counting blood cells",
-  :status :granted,
-  :id "US2807416",
-  :sourcing :authoritative,
-  :filing-year 1954,
-  :assignee :commonwealth-engineering-company-of-ohio,
-  :grant-year 1957,
-  :cites ["US1974522" "US2369577" "US2480312" "US2584082" "US2661902"],
-  :term-years 20,
-  :open-license :none}
- {:jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US2807550/en",
-  :title "Pre-cooked food package and method of preparing the same",
-  :status :granted,
-  :id "US2807550",
-  :sourcing :authoritative,
-  :filing-year 1955,
-  :assignee :unassigned,
-  :grant-year 1957,
-  :cites ["US1711372" "US2465841" "US2609301"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:dow-corning],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US2807601/en",
-  :title
-  "Compositions for treating organic fabrics and a method of applying them",
-  :status :granted,
-  :id "US2807601",
-  :sourcing :authoritative,
-  :filing-year 1954,
-  :assignee :dow-corning,
-  :grant-year 1957,
-  :cites ["US2482276" "US2588365" "US2588393" "US2607792" "US2612482"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:john-t-raisin],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US2808192/en",
-  :title "Food container",
-  :status :granted,
-  :id "US2808192",
-  :sourcing :authoritative,
-  :filing-year 1953,
-  :assignee :john-t-raisin,
-  :grant-year 1957,
-  :cites
-  ["US1704175"
-   "US2106663"
-   "US2120902"
-   "US2131438"
-   "US2260230"
-   "US2378324"
-   "US2442936"
-   "US2470465"
-   "US2571340"
-   "US2621129"
-   "US2674536"
-   "US2691259"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:burgess-battery],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US2808352/en",
-  :title "Electrically conductive adhesive tape",
-  :status :granted,
-  :id "US2808352",
-  :sourcing :authoritative,
-  :filing-year 1951,
-  :assignee :burgess-battery,
-  :grant-year 1957,
-  :cites ["US2037749" "US2200363" "US2441945" "US2463452" "US882770"],
   :term-years 20,
   :open-license :none}]

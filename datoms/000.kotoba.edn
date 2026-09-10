@@ -1015,6 +1015,43 @@
   ":hirameki/source"
   "https://patents.google.com/patent/CA729581A/en"]
  [":db/add"
+  "hirameki-patent:CA732653A"
+  ":hirameki.patent/title"
+  "Coating compositions"]
+ [":db/add"
+  "hirameki-patent:CA732653A"
+  ":hirameki.patent/jurisdiction"
+  ":ca"]
+ [":db/add"
+  "hirameki-patent:CA732653A"
+  ":hirameki.patent/field"
+  "UNKNOWN"]
+ [":db/add"
+  "hirameki-patent:CA732653A"
+  ":hirameki.patent/assignee"
+  ":dow-chemical"]
+ [":db/add"
+  "hirameki-patent:CA732653A"
+  ":hirameki.patent/status"
+  ":granted"]
+ [":db/add"
+  "hirameki-patent:CA732653A"
+  ":hirameki.patent/open-license"
+  ":none"]
+ [":db/add"
+  "hirameki-patent:CA732653A"
+  ":hirameki.obs/release-status"
+  ":in-force"]
+ [":db/add"
+  "hirameki-patent:CA732653A"
+  ":hirameki/sourcing"
+  ":authoritative"]
+ [":db/add" "hirameki-patent:CA732653A" ":hirameki/derived" true]
+ [":db/add"
+  "hirameki-patent:CA732653A"
+  ":hirameki/source"
+  "https://patents.google.com/patent/CA732653A/en"]
+ [":db/add"
   "hirameki-patent:CA977681A"
   ":hirameki.patent/title"
   "Process of viral diagnosis and reagent"]
@@ -3285,6 +3322,47 @@
   "hirameki-patent:DE4410557A1"
   ":hirameki/source"
   "https://patents.google.com/patent/DE4410557A1/en"]
+ [":db/add"
+  "hirameki-patent:DE4414032A1"
+  ":hirameki.patent/title"
+  "Polyurethanes suitable as coating agents"]
+ [":db/add"
+  "hirameki-patent:DE4414032A1"
+  ":hirameki.patent/jurisdiction"
+  ":de"]
+ [":db/add"
+  "hirameki-patent:DE4414032A1"
+  ":hirameki.patent/field"
+  "UNKNOWN"]
+ [":db/add"
+  "hirameki-patent:DE4414032A1"
+  ":hirameki.patent/assignee"
+  ":basf-se"]
+ [":db/add"
+  "hirameki-patent:DE4414032A1"
+  ":hirameki.patent/status"
+  ":pending"]
+ [":db/add"
+  "hirameki-patent:DE4414032A1"
+  ":hirameki.patent/open-license"
+  ":none"]
+ [":db/add"
+  "hirameki-patent:DE4414032A1"
+  ":hirameki.obs/release-status"
+  ":pending"]
+ [":db/add"
+  "hirameki-patent:DE4414032A1"
+  ":hirameki/sourcing"
+  ":authoritative"]
+ [":db/add" "hirameki-patent:DE4414032A1" ":hirameki/derived" true]
+ [":db/add"
+  "hirameki-patent:DE4414032A1"
+  ":hirameki.obs/years-to-expiry"
+  -12]
+ [":db/add"
+  "hirameki-patent:DE4414032A1"
+  ":hirameki/source"
+  "https://patents.google.com/patent/DE4414032A1/en"]
  [":db/add"
   "hirameki-patent:DE485041C"
   ":hirameki.patent/title"
@@ -9852,78 +9930,4 @@
  [":db/add"
   "hirameki-patent:FR1200358A"
   ":hirameki.patent/assignee"
-  ":compagnie-francaise-des-matieres-colorantes-sarl"]
- [":db/add"
-  "hirameki-patent:FR1200358A"
-  ":hirameki.patent/status"
-  ":granted"]
- [":db/add"
-  "hirameki-patent:FR1200358A"
-  ":hirameki.patent/open-license"
-  ":none"]
- [":db/add"
-  "hirameki-patent:FR1200358A"
-  ":hirameki.obs/release-status"
-  ":public-domain"]
- [":db/add"
-  "hirameki-patent:FR1200358A"
-  ":hirameki/sourcing"
-  ":authoritative"]
- [":db/add" "hirameki-patent:FR1200358A" ":hirameki/derived" true]
- [":db/add"
-  "hirameki-patent:FR1200358A"
-  ":hirameki.obs/years-to-expiry"
-  -48]
- [":db/add"
-  "hirameki-patent:FR1200358A"
-  ":hirameki/source"
-  "https://patents.google.com/patent/FR1200358A/en"]
- [":db/add"
-  "hirameki-patent:FR1299171A"
-  ":hirameki.patent/title"
-  "Method for the qualitative and quantitative determination of gonadotropic hormone"]
- [":db/add"
-  "hirameki-patent:FR1299171A"
-  ":hirameki.patent/jurisdiction"
-  ":fr"]
- [":db/add"
-  "hirameki-patent:FR1299171A"
-  ":hirameki.patent/field"
-  "UNKNOWN"]
- [":db/add"
-  "hirameki-patent:FR1299171A"
-  ":hirameki.patent/assignee"
-  ":organon"]
- [":db/add"
-  "hirameki-patent:FR1299171A"
-  ":hirameki.patent/status"
-  ":granted"]
- [":db/add"
-  "hirameki-patent:FR1299171A"
-  ":hirameki.patent/open-license"
-  ":none"]
- [":db/add"
-  "hirameki-patent:FR1299171A"
-  ":hirameki.obs/release-status"
-  ":public-domain"]
- [":db/add"
-  "hirameki-patent:FR1299171A"
-  ":hirameki/sourcing"
-  ":authoritative"]
- [":db/add" "hirameki-patent:FR1299171A" ":hirameki/derived" true]
- [":db/add"
-  "hirameki-patent:FR1299171A"
-  ":hirameki.obs/years-to-expiry"
-  -45]
- [":db/add"
-  "hirameki-patent:FR1299171A"
-  ":hirameki/source"
-  "https://patents.google.com/patent/FR1299171A/en"]
- [":db/add"
-  "hirameki-patent:FR1308186A"
-  ":hirameki.patent/title"
-  "Method for applying a coating or the like to a strip of paper or the like"]
- [":db/add"
-  "hirameki-patent:FR1308186A"
-  ":hirameki.patent/jurisdiction"
-  ":fr"]]
+  ":compagnie-francaise-des-matieres-colorantes-sarl"]]
