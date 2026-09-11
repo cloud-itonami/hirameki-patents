@@ -14,7 +14,7 @@ stale the first time the corpus grows, and a stale hash beside a live file is
 worse than no hash at all. Read the manifest:
 
 ```bash
-clojure -M:query verify.cljk        # re-derives every CID from the bytes on disk
+kbb -M:query verify.cljk        # re-derives every CID from the bytes on disk
 ```
 
 It checks four things, and fails with exit 1 on any of them:
@@ -46,7 +46,7 @@ stay inside one block. `write!` refuses to publish an over-limit shard.
 ## The CIDs are verifiable, not fetchable
 
 ```bash
-clojure -M:query verify.cljk    # re-derives every CID from the bytes on disk
+kbb -M:query verify.cljk    # re-derives every CID from the bytes on disk
 ```
 
 That works, needs no daemon and no network, and is checked in both directions.
@@ -77,7 +77,7 @@ The journal is the input; `corpus/` and `datoms/` are derived from it and can be
 rebuilt at any time:
 
 ```bash
-clojure -M -m hirameki.methods.dataset --dataset <this repo> --as-of <date>   # in cloud-itonami/hirameki
+kbb -M -m hirameki.methods.dataset --dataset <this repo> --as-of <date>   # in cloud-itonami/hirameki
 ```
 
 ---

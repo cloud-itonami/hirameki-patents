@@ -55,7 +55,7 @@ operator key. That is recorded as `:operator-step-not-yet-run`, not as coverage.
 
 ```bash
 # from a cloud-itonami/hirameki checkout
-clojure -M -m hirameki.methods.dataset --dataset ../hirameki-patents --as-of 2026-08-10
+kbb -M -m hirameki.methods.dataset --dataset ../hirameki-patents --as-of 2026-08-10
 ```
 
 ## Verify
@@ -63,8 +63,8 @@ clojure -M -m hirameki.methods.dataset --dataset ../hirameki-patents --as-of 202
 Two gates, because they check different claims.
 
 ```bash
-clojure -M:query verify.cljk          # the bytes are what the manifest says
-clojure -M:query query-check.cljk  # the corpus actually answers questions
+kbb -M:query verify.cljk          # the bytes are what the manifest says
+kbb -M:query query-check.cljk  # the corpus actually answers questions
 ```
 
 `verify.cljk` re-derives every shard's CIDv1/raw/sha2-256 from the bytes on disk.
@@ -83,7 +83,7 @@ Confirmed both directions: renaming the assignee attribute across all shards
 exits 1, and so does introducing an inventor attribute.
 
 **Both checks also run on the murakumo fleet** as a `:jvm-test` gate
-(`clojure -M:test`, registered in `scripts/fleet-ci/gates.edn`). That matters
+(`kbb -M:test`, registered in `scripts/fleet-ci/gates.edn`). That matters
 for a reason beyond redundancy: until now the machine that WROTE the corpus was
 also the only thing that ever checked it. A fleet node has the git tree and
 nothing else, so the writer and the verifier are finally different. Confirmed
@@ -141,7 +141,7 @@ remote, and no special remote is configured.
 
 ### About the CIDs
 
-They are **verifiable, not fetchable**. `clojure -M:query verify.cljk` re-derives every
+They are **verifiable, not fetchable**. `kbb -M:query verify.cljk` re-derives every
 shard's CIDv1 from bytes you already hold, with no daemon and no network — that
 works and is checked. But nothing has been `ipfs add`ed for real, so fetching
 `https://ipfs.io/ipfs/<cid>` returns nothing. Measured: ipfs.io timed out,
