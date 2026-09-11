@@ -32,7 +32,7 @@
 
  ;; Every published shard stays under the 256 KiB IPFS chunker limit, so a
  ;; CIDv1/raw CID is exactly what `ipfs add --cid-version=1 --raw-leaves`
- ;; produces and `clojure -M verify.cljk` can check it with no daemon.
+ ;; produces and `kbb -M verify.cljk` can check it with no daemon.
  :dataset/shard-limit-bytes 262144
 
  ;; 実測 2026-08-10。**宣言と実体を分けて書く。**

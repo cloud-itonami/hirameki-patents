@@ -1,6 +1,6 @@
 ;; query-check.cljk — prove the published corpus is QUERYABLE, not just intact.
 ;;
-;;   clojure -M:query query-check.cljk
+;;   kbb -M:query query-check.cljk
 ;;
 ;; A thin wrapper over `src/hirameki_patents/checks.cljk` (see verify.cljk).
 ;;
