@@ -1,8 +1,8 @@
-;; verify.clj — trustless verification of the published corpus.
+;; verify.cljk — trustless verification of the published corpus.
 ;;
-;;   clojure -M:query verify.clj
+;;   clojure -M:query verify.cljk
 ;;
-;; A thin wrapper. The checks live in `src/hirameki_patents/checks.clj` so that
+;; A thin wrapper. The checks live in `src/hirameki_patents/checks.cljk` so that
 ;; the murakumo fleet can run them as a `:jvm-test` gate — a node with the git
 ;; tree and nothing else becomes the verifier, instead of the machine that wrote
 ;; the corpus checking its own work.

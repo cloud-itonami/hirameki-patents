@@ -1,7 +1,7 @@
 (ns hirameki-patents.checks
   "The corpus's two checks, as functions that RETURN problems.
 
-  `verify.clj` and `query-check.clj` were top-level scripts with side effects,
+  `verify.cljk` and `query-check.cljk` were top-level scripts with side effects,
   which meant the only way to run them was to be a shell. The murakumo fleet
   runs `:jvm-test` gates (deps.edn `:test` alias, cognitect test-runner), so the
   checks had to become callable to be runnable by anything other than the
