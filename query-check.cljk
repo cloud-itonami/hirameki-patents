@@ -1,10 +1,10 @@
-;; query-check.clj — prove the published corpus is QUERYABLE, not just intact.
+;; query-check.cljk — prove the published corpus is QUERYABLE, not just intact.
 ;;
-;;   clojure -M:query query-check.clj
+;;   clojure -M:query query-check.cljk
 ;;
-;; A thin wrapper over `src/hirameki_patents/checks.clj` (see verify.clj).
+;; A thin wrapper over `src/hirameki_patents/checks.cljk` (see verify.cljk).
 ;;
-;; verify.clj proves the bytes are what the manifest says. That is a different
+;; verify.cljk proves the bytes are what the manifest says. That is a different
 ;; claim from "you can ask this corpus a question": a set of shards can hash
 ;; perfectly and still transact into a shape where the attribute you wanted to
 ;; join on is not there. This transacts every datoms/ shard into DataScript and

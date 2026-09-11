@@ -63,16 +63,16 @@ clojure -M -m hirameki.methods.dataset --dataset ../hirameki-patents --as-of 202
 Two gates, because they check different claims.
 
 ```bash
-clojure -M:query verify.clj          # the bytes are what the manifest says
-clojure -M:query query-check.clj  # the corpus actually answers questions
+clojure -M:query verify.cljk          # the bytes are what the manifest says
+clojure -M:query query-check.cljk  # the corpus actually answers questions
 ```
 
-`verify.clj` re-derives every shard's CIDv1/raw/sha2-256 from the bytes on disk.
+`verify.cljk` re-derives every shard's CIDv1/raw/sha2-256 from the bytes on disk.
 No daemon, no network. It also checks that the shards' item counts add up — a
 CID proves a shard is intact, never that the set of shards is complete. Details
 and the reason the artifacts are sharded at all are in [`PUBLISH.md`](PUBLISH.md).
 
-`query-check.clj` transacts every `datoms/` shard into DataScript and runs real
+`query-check.cljk` transacts every `datoms/` shard into DataScript and runs real
 queries — count by holder, roll up by jurisdiction, join a holder to its
 patents, compare the release clock numerically — and asserts the published
 artifact carries no verdict, no `imposes`, and no inventor attribute (G1/G2/G6
@@ -116,7 +116,7 @@ was never a content-addressed store, it was a second custodian.
 
 Putting a file somewhere is not a backup. `com.gftd.hirameki-mirror` uploads,
 then **downloads it back, compares sha256, clones from it, checks HEAD matches,
-and runs `verify.clj` inside the restored clone** — and only then records
+and runs `verify.cljk` inside the restored clone** — and only then records
 success. A run that uploads but cannot restore is written to the ledger as
 `:mirror/restored false`, which is the honest name for it.
 
@@ -141,7 +141,7 @@ remote, and no special remote is configured.
 
 ### About the CIDs
 
-They are **verifiable, not fetchable**. `clojure -M:query verify.clj` re-derives every
+They are **verifiable, not fetchable**. `clojure -M:query verify.cljk` re-derives every
 shard's CIDv1 from bytes you already hold, with no daemon and no network — that
 works and is checked. But nothing has been `ipfs add`ed for real, so fetching
 `https://ipfs.io/ipfs/<cid>` returns nothing. Measured: ipfs.io timed out,

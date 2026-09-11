@@ -1,6 +1,6 @@
 {:paths ["." "src"]
  :aliases
- {;; query-check.clj — the corpus is not just bytes, it has to answer questions
+ {;; query-check.cljk — the corpus is not just bytes, it has to answer questions
   :query {:extra-deps {datascript/datascript {:mvn/version "1.7.3"}}}
 
   ;; The murakumo fleet runs :jvm-test gates. Putting the corpus checks here is

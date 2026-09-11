@@ -32,7 +32,7 @@
 
  ;; Every published shard stays under the 256 KiB IPFS chunker limit, so a
  ;; CIDv1/raw CID is exactly what `ipfs add --cid-version=1 --raw-leaves`
- ;; produces and `clojure -M verify.clj` can check it with no daemon.
+ ;; produces and `clojure -M verify.cljk` can check it with no daemon.
  :dataset/shard-limit-bytes 262144
 
  ;; 実測 2026-08-10。**宣言と実体を分けて書く。**
@@ -68,7 +68,7 @@ node は inbound を待ち受けない設定。第 2 の custodian にするに�
   :numcopies 2
   :fsck-schedule :none
   ;; **毎回のミラーが復元ドリルを兼ねる。** 置いたあと B2 から取り直し →
-  ;; sha256 一致 → clone → HEAD 一致 → verify.clj 通過、まで確かめて初めて成功と呼ぶ。
+  ;; sha256 一致 → clone → HEAD 一致 → verify.cljk 通過、まで確かめて初めて成功と呼ぶ。
   ;; 復元したことのないバックアップはバックアップではなく、バックアップの主張である。
   :recovery-drill {:runs-every-mirror true
                    :first-verified "2026-08-10"
