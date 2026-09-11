@@ -1,4 +1,26 @@
-[{:assignees [:dow-chemical],
+[{:assignees [:shellmar-products],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2422725/en",
+  :title "Container and seam construction",
+  :status :granted,
+  :id "US2422725",
+  :sourcing :authoritative,
+  :filing-year 1942,
+  :assignee :shellmar-products,
+  :grant-year 1947,
+  :cites
+  ["US2149030"
+   "US2200289"
+   "US2203591"
+   "US2232062"
+   "US2232640"
+   "US2275063"
+   "US2282258"
+   "US2297375"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:dow-chemical],
   :jurisdiction :us,
   :field "UNKNOWN",
   :source "https://patents.google.com/patent/US2423457/en",
@@ -9551,6 +9573,26 @@
    "US2652117"],
   :term-years 20,
   :open-license :none}
+ {:jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2775797/en",
+  :title "Locking mechanism",
+  :status :granted,
+  :id "US2775797",
+  :sourcing :authoritative,
+  :filing-year 1955,
+  :assignee :unassigned,
+  :grant-year 1957,
+  :cites
+  ["US1248785"
+   "US1405829"
+   "US2547315"
+   "US2595016"
+   "US452098"
+   "US528769"
+   "US532935"],
+  :term-years 20,
+  :open-license :none}
  {:assignees [:eastman-kodak],
   :jurisdiction :us,
   :field "UNKNOWN",
@@ -9659,6 +9701,20 @@
    "US2493922"
    "US2612160"
    "US529762"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:challenger-products],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2781112/en",
+  :title "Window sashes",
+  :status :granted,
+  :id "US2781112",
+  :sourcing :authoritative,
+  :filing-year 1955,
+  :assignee :challenger-products,
+  :grant-year 1957,
+  :cites ["US2114617" "US2636580"],
   :term-years 20,
   :open-license :none}
  {:jurisdiction :us,
@@ -9809,6 +9865,27 @@
   :assignee :canadian-ingersoll-rand,
   :grant-year 1957,
   :cites ["US2571334" "US2702261"],
+  :term-years 20,
+  :open-license :none}
+ {:jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2788097/en",
+  :title "Closure construction for buildings",
+  :status :granted,
+  :id "US2788097",
+  :sourcing :authoritative,
+  :filing-year 1953,
+  :assignee :unassigned,
+  :grant-year 1957,
+  :cites
+  ["DE872847C"
+   "US1569602"
+   "US2169865"
+   "US2607453"
+   "US2636580"
+   "US2663917"
+   "US2666508"
+   "US2680269"],
   :term-years 20,
   :open-license :none}
  {:jurisdiction :us,
@@ -9982,61 +10059,5 @@
    "US2462823"
    "US2466696"
    "US2666583"],
-  :term-years 20,
-  :open-license :none}
- {:jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US2792791/en",
-  :title "Running gear for rail vehicles",
-  :status :granted,
-  :id "US2792791",
-  :sourcing :authoritative,
-  :filing-year 1955,
-  :assignee :unassigned,
-  :grant-year 1957,
-  :term-years 20,
-  :open-license :none}
- {:assignees [:general-electric],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US2792871/en",
-  :title
-  "Electrical insulating structure and method of making the same",
-  :status :granted,
-  :id "US2792871",
-  :sourcing :authoritative,
-  :filing-year 1955,
-  :assignee :general-electric,
-  :grant-year 1957,
-  :cites ["US2443739" "US2443741" "US2530983" "US2542819" "US2581862"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:ei-du-pont-de-nemours-and],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US2794010/en",
-  :title
-  "Polymeric blends of a water-insoluble, water-dispersible, non-electrolyte film-forming polymer and a watersoluble, anionic polyelectrolyte epoxy polyemer and preparationof shaped articles therefrom",
-  :status :granted,
-  :id "US2794010",
-  :sourcing :authoritative,
-  :filing-year 1953,
-  :assignee :ei-du-pont-de-nemours-and,
-  :grant-year 1957,
-  :cites ["US2510885" "US2558949" "US2607754" "US2723971"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:permacel-tape],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US2795515/en",
-  :title "Pressure sensitive adhesive tape and method of making same",
-  :status :granted,
-  :id "US2795515",
-  :sourcing :authoritative,
-  :filing-year 1953,
-  :assignee :permacel-tape,
-  :grant-year 1957,
-  :cites ["US2236567" "US2383569" "US2388905"],
   :term-years 20,
   :open-license :none}]

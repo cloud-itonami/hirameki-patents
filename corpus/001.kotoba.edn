@@ -1,4 +1,29 @@
-[{:assignees [:international-precipitation],
+[{:jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US1146855/en",
+  :title "Imitation stained glass.",
+  :status :granted,
+  :id "US1146855",
+  :sourcing :authoritative,
+  :filing-year 1914,
+  :assignee :unassigned,
+  :grant-year 1915,
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:gen-bakelite-company],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US1160365/en",
+  :title "Paper-like product and method of making the same.",
+  :status :granted,
+  :id "US1160365",
+  :sourcing :authoritative,
+  :filing-year 1915,
+  :assignee :gen-bakelite-company,
+  :grant-year 1915,
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:international-precipitation],
   :jurisdiction :us,
   :field "UNKNOWN",
   :source "https://patents.google.com/patent/US1168227/en",
@@ -9162,27 +9187,5 @@
   :assignee :lilienfeld-patents,
   :grant-year 1947,
   :cites ["US1950664" "US2087237" "US2157530" "US837122"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:shellmar-products],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US2422725/en",
-  :title "Container and seam construction",
-  :status :granted,
-  :id "US2422725",
-  :sourcing :authoritative,
-  :filing-year 1942,
-  :assignee :shellmar-products,
-  :grant-year 1947,
-  :cites
-  ["US2149030"
-   "US2200289"
-   "US2203591"
-   "US2232062"
-   "US2232640"
-   "US2275063"
-   "US2282258"
-   "US2297375"],
   :term-years 20,
   :open-license :none}]

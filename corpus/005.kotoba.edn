@@ -1,4 +1,270 @@
-[{:assignees [:avco],
+[{:jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3695999/en",
+  :title
+  "Isolation of enzymes from aqueous media by means of polyanions",
+  :status :granted,
+  :id "US3695999",
+  :sourcing :authoritative,
+  :filing-year 1970,
+  :assignee :unassigned,
+  :grant-year 1972,
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:daniel-e-weber :lionel-d-mcintosh],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3696247/en",
+  :title "Vehicle exhaust emissions analyzer",
+  :status :granted,
+  :id "US3696247",
+  :sourcing :authoritative,
+  :filing-year 1970,
+  :assignee :daniel-e-weber,
+  :grant-year 1972,
+  :cites
+  ["US2829275"
+   "US3171882"
+   "US3519816"
+   "US3562522"
+   "US3569696"
+   "US3588496"
+   "US3593023"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:monsanto-research],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3696742/en",
+  :title
+  "Method of making a stencil for screen-printing using a laser beam",
+  :status :granted,
+  :id "US3696742",
+  :sourcing :authoritative,
+  :filing-year 1969,
+  :assignee :monsanto-research,
+  :grant-year 1972,
+  :cites
+  ["US2682687"
+   "US2860576"
+   "US2924520"
+   "US3112850"
+   "US3170792"
+   "US3314073"
+   "US3371190"
+   "US3374311"
+   "US3379656"
+   "US3410203"
+   "US3410979"
+   "US3455239"
+   "US3549733"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:westinghouse-electric],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3697227/en",
+  :title "Chemical constituent sampler",
+  :status :granted,
+  :id "US3697227",
+  :sourcing :authoritative,
+  :filing-year 1966,
+  :assignee :westinghouse-electric,
+  :grant-year 1972,
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:f-hoffmann-la-roche],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3697638/en",
+  :title "Antigens",
+  :status :granted,
+  :id "US3697638",
+  :sourcing :authoritative,
+  :filing-year 1971,
+  :assignee :f-hoffmann-la-roche,
+  :grant-year 1972,
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:celanese],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3699038/en",
+  :title
+  "Production of improved semipermeable polybenzimidazole membranes",
+  :status :granted,
+  :id "US3699038",
+  :sourcing :authoritative,
+  :filing-year 1970,
+  :assignee :celanese,
+  :grant-year 1972,
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:nat-res-dev],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3699222/en",
+  :title "Production of viral interfering substances",
+  :status :granted,
+  :id "US3699222",
+  :sourcing :authoritative,
+  :filing-year 1968,
+  :assignee :nat-res-dev,
+  :grant-year 1972,
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:hycel],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3699336/en",
+  :title "Biological cell analyzing system",
+  :status :granted,
+  :id "US3699336",
+  :sourcing :authoritative,
+  :filing-year 1969,
+  :assignee :hycel,
+  :grant-year 1972,
+  :cites ["US2875666" "US3413464" "US3497690" "US3523756"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:carl-zeiss],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3699348/en",
+  :title
+  "Radiation sensitive device for the successive investigation of several samples",
+  :status :granted,
+  :id "US3699348",
+  :sourcing :authoritative,
+  :filing-year 1971,
+  :assignee :carl-zeiss,
+  :grant-year 1972,
+  :cites ["US3246559" "US3266322" "US3418080" "US3607094"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:shiney],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3699803/en",
+  :title
+  "Semiconductor element for detecting gases and meter for measuring component concentration of a gas mixture",
+  :status :granted,
+  :id "US3699803",
+  :sourcing :authoritative,
+  :filing-year 1971,
+  :assignee :shiney,
+  :grant-year 1972,
+  :cites ["DE2005497A1" "US3039053" "US3507145"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:eastman-kodak],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3700335/en",
+  :title
+  "Process and apparatus for sensitometrically testing a liquid,photosensitive emulsion",
+  :status :granted,
+  :id "US3700335",
+  :sourcing :authoritative,
+  :filing-year 1971,
+  :assignee :eastman-kodak,
+  :grant-year 1972,
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:rca],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3700497/en",
+  :title
+  "Method of making a semiconductor device including a polyimide resist film",
+  :status :granted,
+  :id "US3700497",
+  :sourcing :authoritative,
+  :filing-year 1970,
+  :assignee :rca,
+  :grant-year 1972,
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:technicon-instruments],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3700555/en",
+  :title "Method and apparatus for lymphocyte separation from blood",
+  :status :granted,
+  :id "US3700555",
+  :sourcing :authoritative,
+  :filing-year 1970,
+  :assignee :technicon-instruments,
+  :grant-year 1972,
+  :term-years 20,
+  :open-license :none}
+ {:jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3700573/en",
+  :title
+  "Method of preparation of hydrophilic silicones by radiochemical grafting",
+  :status :granted,
+  :id "US3700573",
+  :sourcing :authoritative,
+  :filing-year 1969,
+  :assignee :unassigned,
+  :grant-year 1972,
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:ici-australia],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3700609/en",
+  :title "Graft copolymers",
+  :status :granted,
+  :id "US3700609",
+  :sourcing :authoritative,
+  :filing-year 1971,
+  :assignee :ici-australia,
+  :grant-year 1972,
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:wr-grace-and],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3701721/en",
+  :title
+  "Curable liquid polyene-polythiol compositions containing polyacrylic acid and derivatives thereof",
+  :status :granted,
+  :id "US3701721",
+  :sourcing :authoritative,
+  :filing-year 1971,
+  :assignee :wr-grace-and,
+  :grant-year 1972,
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:yamasa-shoyu],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3701772/en",
+  :title "Production of nucleotide anhydrides",
+  :status :granted,
+  :id "US3701772",
+  :sourcing :authoritative,
+  :filing-year 1970,
+  :assignee :yamasa-shoyu,
+  :grant-year 1972,
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:imperial-chemical-industries],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3702836/en",
+  :title "Polymer dispersions",
+  :status :granted,
+  :id "US3702836",
+  :sourcing :authoritative,
+  :filing-year 1970,
+  :assignee :imperial-chemical-industries,
+  :grant-year 1972,
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:avco],
   :jurisdiction :us,
   :field "UNKNOWN",
   :source "https://patents.google.com/patent/US3702973/en",
@@ -9022,273 +9288,5 @@
   :assignee :geometric-data,
   :grant-year 1977,
   :cites ["US3315229" "US3819913" "US3824393" "US3827804" "US3873974"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:gd-searle-and],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US4046722/en",
-  :title "Immunological materials",
-  :status :granted,
-  :id "US4046722",
-  :sourcing :authoritative,
-  :filing-year 1976,
-  :assignee :gd-searle-and,
-  :grant-year 1977,
-  :term-years 20,
-  :open-license :none}
- {:assignees [:corning-glass-works],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US4046870/en",
-  :title "Assay for free thyroid hormones",
-  :status :granted,
-  :id "US4046870",
-  :sourcing :authoritative,
-  :filing-year 1976,
-  :assignee :corning-glass-works,
-  :grant-year 1977,
-  :cites ["US3745211" "US3911096" "US3928553" "US3961894" "US3962039"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:canon],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US4047187/en",
-  :title
-  "System for exposure measurement and/or focus detection by means of image senser",
-  :status :granted,
-  :id "US4047187",
-  :sourcing :authoritative,
-  :filing-year 1975,
-  :assignee :canon,
-  :grant-year 1977,
-  :cites
-  ["US3713371"
-   "US3717077"
-   "US3786263"
-   "US3824608"
-   "US3856989"
-   "US3872483"
-   "US3898676"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:jm-huber],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US4048038/en",
-  :title "Electroflocculation cell",
-  :status :granted,
-  :id "US4048038",
-  :sourcing :authoritative,
-  :filing-year 1976,
-  :assignee :jm-huber,
-  :grant-year 1977,
-  :cites ["US1229203" "US1366456" "US1435886" "US3642605"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:rohm-and-haas],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US4048298/en",
-  :title "Solid phase double-antibody radioimmunoassay procedure",
-  :status :granted,
-  :id "US4048298",
-  :sourcing :authoritative,
-  :filing-year 1975,
-  :assignee :rohm-and-haas,
-  :grant-year 1977,
-  :cites ["US3790663" "US3857931" "US3904367"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:hancock-jaffe-laboratories],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US4050893/en",
-  :title "Arrangement for preparing natural tissue for implantation",
-  :status :granted,
-  :id "US4050893",
-  :sourcing :authoritative,
-  :filing-year 1976,
-  :assignee :hancock-jaffe-laboratories,
-  :grant-year 1977,
-  :cites
-  ["FR2064151B1"
-   "FR2077641A6"
-   "FR2151092B1"
-   "GB1325667A"
-   "US2900644"
-   "US3988782"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:corning-glass-works],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US4052010/en",
-  :title "Suspendable porous glass particles",
-  :status :granted,
-  :id "US4052010",
-  :sourcing :authoritative,
-  :filing-year 1974,
-  :assignee :corning-glass-works,
-  :grant-year 1977,
-  :cites ["US2214717" "US3361680" "US3519538" "US3652761"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:corning-glass-works],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US4052504/en",
-  :title "Assay for thyroxine binding globulin",
-  :status :granted,
-  :id "US4052504",
-  :sourcing :authoritative,
-  :filing-year 1976,
-  :assignee :corning-glass-works,
-  :grant-year 1977,
-  :cites ["US3799740" "US3929981" "US3960492"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:akzona],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US4053284/en",
-  :title "Continuous flow apparatus for biological testing",
-  :status :granted,
-  :id "US4053284",
-  :sourcing :authoritative,
-  :filing-year 1976,
-  :assignee :akzona,
-  :grant-year 1977,
-  :cites ["US3492396" "US3837376" "US3843444" "US3849830" "US3873682"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:ppg-industries],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US4055607/en",
-  :title "Acrylic coating compositions",
-  :status :granted,
-  :id "US4055607",
-  :sourcing :authoritative,
-  :filing-year 1975,
-  :assignee :ppg-industries,
-  :grant-year 1977,
-  :cites
-  ["GB967051A"
-   "US3365414"
-   "US3652472"
-   "US3666710"
-   "US3702836"
-   "US3745137"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:perkin-elmer],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US4056307/en",
-  :title "Anamorphic scanner lens system",
-  :status :granted,
-  :id "US4056307",
-  :sourcing :authoritative,
-  :filing-year 1976,
-  :assignee :perkin-elmer,
-  :grant-year 1977,
-  :cites ["US2719457" "US2720813"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:international-diagnostic-technologies],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US4056724/en",
-  :title "Fluorometric system, method and test article",
-  :status :granted,
-  :id "US4056724",
-  :sourcing :authoritative,
-  :filing-year 1976,
-  :assignee :international-diagnostic-technologies,
-  :grant-year 1977,
-  :cites
-  ["US2549574"
-   "US2551542"
-   "US2883547"
-   "US3101411"
-   "US3109094"
-   "US3427273"
-   "US3666421"
-   "US3790663"
-   "US3806256"
-   "US3826619"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:siemens],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US4057659/en",
-  :title "Semiconductor device and a method of producing such device",
-  :status :granted,
-  :id "US4057659",
-  :sourcing :authoritative,
-  :filing-year 1975,
-  :assignee :siemens,
-  :grant-year 1977,
-  :cites ["GB985280A" "US3700497" "US3710205"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:analytical-radiation],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US4058732/en",
-  :title
-  "Method and apparatus for improved analytical fluorescent spectroscopy",
-  :status :granted,
-  :id "US4058732",
-  :sourcing :authoritative,
-  :filing-year 1975,
-  :assignee :analytical-radiation,
-  :grant-year 1977,
-  :cites ["US3842264" "US3886363" "US4006360"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:summa],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US4059685/en",
-  :title "Immobilized immunoadsorbent",
-  :status :granted,
-  :id "US4059685",
-  :sourcing :authoritative,
-  :filing-year 1975,
-  :assignee :summa,
-  :grant-year 1977,
-  :cites
-  ["DE2412833A1"
-   "GB1257263A"
-   "US3505785"
-   "US3639558"
-   "US3652761"
-   "US3700609"
-   "US3796634"
-   "US3975511"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:asahi-dow],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US4060657/en",
-  :title "Coating compositions",
-  :status :granted,
-  :id "US4060657",
-  :sourcing :authoritative,
-  :filing-year 1976,
-  :assignee :asahi-dow,
-  :grant-year 1977,
-  :cites
-  ["US3361696"
-   "US3488215"
-   "US3597384"
-   "US3865619"
-   "US3968311"
-   "US3970628"],
   :term-years 20,
   :open-license :none}]

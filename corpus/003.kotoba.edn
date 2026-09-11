@@ -1,4 +1,60 @@
-[{:assignees [:rohm-and-haas],
+[{:jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2792791/en",
+  :title "Running gear for rail vehicles",
+  :status :granted,
+  :id "US2792791",
+  :sourcing :authoritative,
+  :filing-year 1955,
+  :assignee :unassigned,
+  :grant-year 1957,
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:general-electric],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2792871/en",
+  :title
+  "Electrical insulating structure and method of making the same",
+  :status :granted,
+  :id "US2792871",
+  :sourcing :authoritative,
+  :filing-year 1955,
+  :assignee :general-electric,
+  :grant-year 1957,
+  :cites ["US2443739" "US2443741" "US2530983" "US2542819" "US2581862"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:ei-du-pont-de-nemours-and],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2794010/en",
+  :title
+  "Polymeric blends of a water-insoluble, water-dispersible, non-electrolyte film-forming polymer and a watersoluble, anionic polyelectrolyte epoxy polyemer and preparationof shaped articles therefrom",
+  :status :granted,
+  :id "US2794010",
+  :sourcing :authoritative,
+  :filing-year 1953,
+  :assignee :ei-du-pont-de-nemours-and,
+  :grant-year 1957,
+  :cites ["US2510885" "US2558949" "US2607754" "US2723971"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:permacel-tape],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2795515/en",
+  :title "Pressure sensitive adhesive tape and method of making same",
+  :status :granted,
+  :id "US2795515",
+  :sourcing :authoritative,
+  :filing-year 1953,
+  :assignee :permacel-tape,
+  :grant-year 1957,
+  :cites ["US2236567" "US2383569" "US2388905"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:rohm-and-haas],
   :jurisdiction :us,
   :field "UNKNOWN",
   :source "https://patents.google.com/patent/US2795564/en",
@@ -155,6 +211,30 @@
   :cites ["US2550139"],
   :term-years 20,
   :open-license :none}
+ {:jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2804181/en",
+  :title "Sliding sash with lubricated bearings",
+  :status :granted,
+  :id "US2804181",
+  :sourcing :authoritative,
+  :filing-year 1954,
+  :assignee :unassigned,
+  :grant-year 1957,
+  :cites
+  ["US174029"
+   "US2116754"
+   "US2200548"
+   "US2250723"
+   "US2375553"
+   "US2619205"
+   "US2638189"
+   "US2654114"
+   "US2767005"
+   "US2781112"
+   "US479324"],
+  :term-years 20,
+  :open-license :none}
  {:assignees [:crown-zellerbach],
   :jurisdiction :us,
   :field "UNKNOWN",
@@ -188,6 +268,19 @@
    "US2582961"
    "US2645625"
    "US2684346"],
+  :term-years 20,
+  :open-license :none}
+ {:jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2804952/en",
+  :title "Window frame corner clip",
+  :status :granted,
+  :id "US2804952",
+  :sourcing :authoritative,
+  :filing-year 1955,
+  :assignee :unassigned,
+  :grant-year 1957,
+  :cites ["US2101349" "US2632535" "US364973"],
   :term-years 20,
   :open-license :none}
  {:assignees [:international-nickel],
@@ -475,6 +568,20 @@
   :assignee :ei-du-pont-de-nemours-and,
   :grant-year 1957,
   :cites ["US2597025" "US2621166" "US2692874"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:air-master],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2818610/en",
+  :title "Storm windows",
+  :status :granted,
+  :id "US2818610",
+  :sourcing :authoritative,
+  :filing-year 1954,
+  :assignee :air-master,
+  :grant-year 1958,
+  :cites ["US2629466" "US2699825" "US2703776" "US825616"],
   :term-years 20,
   :open-license :none}
  {:assignees [:warren-sd],
@@ -1324,6 +1431,20 @@
   :cites ["US2263575" "US2632714"],
   :term-years 20,
   :open-license :none}
+ {:assignees [:adlake],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2861659/en",
+  :title "Corner joint",
+  :status :granted,
+  :id "US2861659",
+  :sourcing :authoritative,
+  :filing-year 1956,
+  :assignee :adlake,
+  :grant-year 1958,
+  :cites ["US2081722" "US2101349" "US2733788"],
+  :term-years 20,
+  :open-license :none}
  {:jurisdiction :us,
   :field "UNKNOWN",
   :source "https://patents.google.com/patent/US2865719/en",
@@ -1475,6 +1596,28 @@
   :assignee :ankh-lab,
   :grant-year 1959,
   :cites ["US2533089" "US2672432" "US2677646"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:window-products],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US2872713/en",
+  :title "Insulated metal-framed window sash",
+  :status :granted,
+  :id "US2872713",
+  :sourcing :authoritative,
+  :filing-year 1956,
+  :assignee :window-products,
+  :grant-year 1959,
+  :cites
+  ["FR1079389A"
+   "US2213315"
+   "US2214222"
+   "US2492566"
+   "US2684266"
+   "US2701041"
+   "US2720419"
+   "US2722043"],
   :term-years 20,
   :open-license :none}
  {:assignees [:hyland-laboratories],
@@ -4691,6 +4834,27 @@
    "US2930106"],
   :term-years 20,
   :open-license :none}
+ {:assignees [:fenestra],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3001245/en",
+  :title "Building structure",
+  :status :granted,
+  :id "US3001245",
+  :sourcing :authoritative,
+  :filing-year 1958,
+  :assignee :fenestra,
+  :grant-year 1961,
+  :cites
+  ["US1589560"
+   "US2701041"
+   "US2706541"
+   "US2769657"
+   "US2852113"
+   "US2918706"
+   "US897372"],
+  :term-years 20,
+  :open-license :none}
  {:jurisdiction :us,
   :field "UNKNOWN",
   :source "https://patents.google.com/patent/US3001348/en",
@@ -5020,6 +5184,19 @@
   :grant-year 1884,
   :term-years 20,
   :open-license :none}
+ {:jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3016993/en",
+  :title "Building framing unit",
+  :status :granted,
+  :id "US3016993",
+  :sourcing :authoritative,
+  :filing-year 1959,
+  :assignee :unassigned,
+  :grant-year 1962,
+  :cites ["US2765057" "US2844233" "US2867856"],
+  :term-years 20,
+  :open-license :none}
  {:assignees [:eastman-kodak],
   :jurisdiction :us,
   :field "UNKNOWN",
@@ -5065,6 +5242,27 @@
    "US2934867"
    "US2934869"
    "US2972216"],
+  :term-years 20,
+  :open-license :none}
+ {:jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3018859/en",
+  :title "Interlocking extrusions",
+  :status :granted,
+  :id "US3018859",
+  :sourcing :authoritative,
+  :filing-year 1959,
+  :assignee :unassigned,
+  :grant-year 1962,
+  :cites
+  ["US1265990"
+   "US1284758"
+   "US1669382"
+   "US2023047"
+   "US2616531"
+   "US2624428"
+   "US2910154"
+   "US2963131"],
   :term-years 20,
   :open-license :none}
  {:assignees [:bb-chemical],
@@ -6035,6 +6233,25 @@
   :cites ["US1648197" "US2937524"],
   :term-years 20,
   :open-license :none}
+ {:jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3057444/en",
+  :title "Tubular mullion snapon assembly",
+  :status :granted,
+  :id "US3057444",
+  :sourcing :authoritative,
+  :filing-year 1958,
+  :assignee :unassigned,
+  :grant-year 1962,
+  :cites
+  ["CH330392A"
+   "US1962826"
+   "US2569896"
+   "US2736403"
+   "US2822898"
+   "US2914145"],
+  :term-years 20,
+  :open-license :none}
  {:assignees [:ei-du-pont-de-nemours-and],
   :jurisdiction :us,
   :field "UNKNOWN",
@@ -6363,6 +6580,28 @@
   :cites ["US2621171" "US2658058" "US2920065"],
   :term-years 20,
   :open-license :none}
+ {:jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3071215/en",
+  :title "Curtain wall",
+  :status :granted,
+  :id "US3071215",
+  :sourcing :authoritative,
+  :filing-year 1957,
+  :assignee :unassigned,
+  :grant-year 1963,
+  :cites
+  ["GB600173A"
+   "US1939809"
+   "US1962826"
+   "US2377427"
+   "US2424547"
+   "US2632534"
+   "US2800983"
+   "US2843233"
+   "US2885040"],
+  :term-years 20,
+  :open-license :none}
  {:assignees [:universal-match],
   :jurisdiction :us,
   :field "UNKNOWN",
@@ -6555,6 +6794,20 @@
   :cites ["US2732318"],
   :term-years 20,
   :open-license :none}
+ {:assignees [:engineering-metal-products],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3077962/en",
+  :title "Curtain wall metal window frame",
+  :status :granted,
+  :id "US3077962",
+  :sourcing :authoritative,
+  :filing-year 1960,
+  :assignee :engineering-metal-products,
+  :grant-year 1963,
+  :cites ["US2351127" "US2679305" "US2736403" "US668720"],
+  :term-years 20,
+  :open-license :none}
  {:assignees [:culligan],
   :jurisdiction :us,
   :field "UNKNOWN",
@@ -6698,6 +6951,19 @@
    "US2709666"
    "US2737465"
    "US2925332"],
+  :term-years 20,
+  :open-license :none}
+ {:jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3081852/en",
+  :title "Window frame for storm sash",
+  :status :granted,
+  :id "US3081852",
+  :sourcing :authoritative,
+  :filing-year 1961,
+  :assignee :unassigned,
+  :grant-year 1963,
+  :cites ["US2701396" "US2780328" "US2852113" "US2952883"],
   :term-years 20,
   :open-license :none}
  {:assignees [:american-cyanamid],
@@ -7031,6 +7297,30 @@
   :assignee :miles-laboratories,
   :grant-year 1963,
   :cites ["US2848308"],
+  :term-years 20,
+  :open-license :none}
+ {:assignees [:reynolds-metals],
+  :jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3100556/en",
+  :title "Interlocking metallic structural members",
+  :status :granted,
+  :id "US3100556",
+  :sourcing :authoritative,
+  :filing-year 1959,
+  :assignee :reynolds-metals,
+  :grant-year 1963,
+  :cites
+  ["US1798897"
+   "US1913342"
+   "US1988603"
+   "US2007354"
+   "US2164681"
+   "US2449292"
+   "US2644552"
+   "US2682938"
+   "US2717060"
+   "US2786556"],
   :term-years 20,
   :open-license :none}
  {:jurisdiction :us,
@@ -9424,6 +9714,19 @@
    "US3021239"],
   :term-years 20,
   :open-license :none}
+ {:jurisdiction :us,
+  :field "UNKNOWN",
+  :source "https://patents.google.com/patent/US3221453/en",
+  :title "Wall system",
+  :status :granted,
+  :id "US3221453",
+  :sourcing :authoritative,
+  :filing-year 1962,
+  :assignee :unassigned,
+  :grant-year 1965,
+  :cites ["US2914145" "US2963126" "US2985262" "US3016993"],
+  :term-years 20,
+  :open-license :none}
  {:assignees [:west-virginia-pulp-and-paper],
   :jurisdiction :us,
   :field "UNKNOWN",
@@ -9500,288 +9803,5 @@
   :assignee :unassigned,
   :grant-year 1965,
   :cites ["US2852505" "US3014900"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:warner-lambert-pharmaceutical],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3225645/en",
-  :title "Cuvette and supply system therefor",
-  :status :granted,
-  :id "US3225645",
-  :sourcing :authoritative,
-  :filing-year 1962,
-  :assignee :warner-lambert-pharmaceutical,
-  :grant-year 1965,
-  :cites
-  ["GB685624A"
-   "US1984296"
-   "US2806148"
-   "US2992077"
-   "US3084592"
-   "US3142719"
-   "US95061"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:wr-grace-and],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3225766/en",
-  :title
-  "Method of making absorbable surgical sutures from poly beta hydroxy acids",
-  :status :granted,
-  :id "US3225766",
-  :sourcing :authoritative,
-  :filing-year 1962,
-  :assignee :wr-grace-and,
-  :grant-year 1965,
-  :cites
-  ["US2072302"
-   "US2127903"
-   "US2428918"
-   "US2487885"
-   "US3021310"
-   "US3036959"
-   "US3044942"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:organo-cerams],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3227589/en",
-  :title "Method of chemically milling a metallic workpiece",
-  :status :granted,
-  :id "US3227589",
-  :sourcing :authoritative,
-  :filing-year 1963,
-  :assignee :organo-cerams,
-  :grant-year 1966,
-  :cites
-  ["US2430987"
-   "US2610162"
-   "US2838463"
-   "US3014883"
-   "US3029223"
-   "US3079352"
-   "US3128202"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:trw],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3228799/en",
-  :title "Biological electrical power generation",
-  :status :granted,
-  :id "US3228799",
-  :sourcing :authoritative,
-  :filing-year 1960,
-  :assignee :trw,
-  :grant-year 1966,
-  :cites ["US2497852" "US329724"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:rca],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3229218/en",
-  :title "Field-effect transistor circuit",
-  :status :granted,
-  :id "US3229218",
-  :sourcing :authoritative,
-  :filing-year 1963,
-  :assignee :rca,
-  :grant-year 1966,
-  :cites ["US2021920" "US2879344" "US2939916" "US3056888" "US3117287"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:harris-intertype],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3230088/en",
-  :title
-  "Process for preparing printing plates from photosensitized polyvinyl alcohol compositions",
-  :status :granted,
-  :id "US3230088",
-  :sourcing :authoritative,
-  :filing-year 1961,
-  :assignee :harris-intertype,
-  :grant-year 1966,
-  :cites
-  ["US1751909"
-   "US2249514"
-   "US2393821"
-   "US2604388"
-   "US2827390"
-   "US2830899"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:wacker-chemie],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3230289/en",
-  :title "Silicone treatment for paper",
-  :status :granted,
-  :id "US3230289",
-  :sourcing :authoritative,
-  :filing-year 1962,
-  :assignee :wacker-chemie,
-  :grant-year 1966,
-  :cites ["US2588367" "US2768906" "US2869722" "US3061567"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:rca],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3231380/en",
-  :title "Art of making electron-optical reticles",
-  :status :granted,
-  :id "US3231380",
-  :sourcing :authoritative,
-  :filing-year 1960,
-  :assignee :rca,
-  :grant-year 1966,
-  :cites ["FR866065A" "GB634217A" "US2539442" "US2961313" "US3070441"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:combined-locks-paper],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3231418/en",
-  :title
-  "Coating a moving paper web with a coating roller having lower peripheral speed than web",
-  :status :granted,
-  :id "US3231418",
-  :sourcing :authoritative,
-  :filing-year 1964,
-  :assignee :combined-locks-paper,
-  :grant-year 1966,
-  :cites
-  ["US1838358"
-   "US1987183"
-   "US2009631"
-   "US2257373"
-   "US2316202"
-   "US2582407"
-   "US2712508"
-   "US2772604"
-   "US2946307"
-   "US3146159"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:boehringer-mannheim],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3232710/en",
-  :title "Indicator and method for manufacturing the same",
-  :status :granted,
-  :id "US3232710",
-  :sourcing :authoritative,
-  :filing-year 1963,
-  :assignee :boehringer-mannheim,
-  :grant-year 1966,
-  :cites
-  ["GB831894A"
-   "US2229155"
-   "US2379459"
-   "US2567445"
-   "US2823984"
-   "US2838377"
-   "US2981606"
-   "US2998306"
-   "US3001915"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:owens-corning-fiberglas],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3232782/en",
-  :title
-  "High temperature resistant vitreous material and method of producing same",
-  :status :granted,
-  :id "US3232782",
-  :sourcing :authoritative,
-  :filing-year 1960,
-  :assignee :owens-corning-fiberglas,
-  :grant-year 1966,
-  :cites
-  ["US2303756"
-   "US2355746"
-   "US2639247"
-   "US2839424"
-   "US2860951"
-   "US2901379"
-   "US3017318"
-   "US3092531"
-   "US3113008"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:purac],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3233964/en",
-  :title "Means for sterilizing liquid",
-  :status :granted,
-  :id "US3233964",
-  :sourcing :authoritative,
-  :filing-year 1962,
-  :assignee :purac,
-  :grant-year 1966,
-  :cites ["GB356783A" "US2138839" "US2219348" "US2585103"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:ortho-pharmaceutical],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3234096/en",
-  :title "Compositions and method for performing pregnancy tests",
-  :status :granted,
-  :id "US3234096",
-  :sourcing :authoritative,
-  :filing-year 1961,
-  :assignee :ortho-pharmaceutical,
-  :grant-year 1966,
-  :term-years 20,
-  :open-license :none}
- {:assignees [:imperial-chemical-industries],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3234303/en",
-  :title
-  "Continuous process for the production of methacrylate polymers",
-  :status :granted,
-  :id "US3234303",
-  :sourcing :authoritative,
-  :filing-year 1963,
-  :assignee :imperial-chemical-industries,
-  :grant-year 1966,
-  :cites ["US2426476" "US2745824" "US2769804" "US2931793"],
-  :term-years 20,
-  :open-license :none}
- {:jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3236732/en",
-  :title "Pregnancy test method and immunological indicator therefor",
-  :status :granted,
-  :id "US3236732",
-  :sourcing :authoritative,
-  :filing-year 1962,
-  :assignee :unassigned,
-  :grant-year 1966,
-  :cites ["US3088875"],
-  :term-years 20,
-  :open-license :none}
- {:assignees [:shell-oil],
-  :jurisdiction :us,
-  :field "UNKNOWN",
-  :source "https://patents.google.com/patent/US3239478/en",
-  :title
-  "Block copolymer adhesive compositions and articles prepared therefrom",
-  :status :granted,
-  :id "US3239478",
-  :sourcing :authoritative,
-  :filing-year 1963,
-  :assignee :shell-oil,
-  :grant-year 1966,
-  :cites ["US2648650" "US2784165" "US2993874" "US3149182"],
   :term-years 20,
   :open-license :none}]

@@ -1,4 +1,86 @@
 [[":db/add"
+  "hirameki-patent:US2176240"
+  ":hirameki.patent/assignee"
+  ":unassigned"]
+ [":db/add"
+  "hirameki-patent:US2176240"
+  ":hirameki.patent/status"
+  ":granted"]
+ [":db/add"
+  "hirameki-patent:US2176240"
+  ":hirameki.patent/open-license"
+  ":none"]
+ [":db/add"
+  "hirameki-patent:US2176240"
+  ":hirameki.obs/release-status"
+  ":public-domain"]
+ [":db/add"
+  "hirameki-patent:US2176240"
+  ":hirameki/sourcing"
+  ":authoritative"]
+ [":db/add" "hirameki-patent:US2176240" ":hirameki/derived" true]
+ [":db/add"
+  "hirameki-patent:US2176240"
+  ":hirameki.obs/years-to-expiry"
+  -70]
+ [":db/add"
+  "hirameki-patent:US2176240"
+  ":hirameki/source"
+  "https://patents.google.com/patent/US2176240/en"]
+ [":db/add"
+  "hirameki-patent:US2176375"
+  ":hirameki.patent/title"
+  "Side wall sampler"]
+ [":db/add"
+  "hirameki-patent:US2176375"
+  ":hirameki.patent/jurisdiction"
+  ":us"]
+ [":db/add"
+  "hirameki-patent:US2176375"
+  ":hirameki.patent/field"
+  "UNKNOWN"]
+ [":db/add"
+  "hirameki-patent:US2176375"
+  ":hirameki.patent/assignee"
+  ":unassigned"]
+ [":db/add"
+  "hirameki-patent:US2176375"
+  ":hirameki.patent/status"
+  ":granted"]
+ [":db/add"
+  "hirameki-patent:US2176375"
+  ":hirameki.patent/open-license"
+  ":none"]
+ [":db/add"
+  "hirameki-patent:US2176375"
+  ":hirameki.obs/release-status"
+  ":public-domain"]
+ [":db/add"
+  "hirameki-patent:US2176375"
+  ":hirameki/sourcing"
+  ":authoritative"]
+ [":db/add" "hirameki-patent:US2176375" ":hirameki/derived" true]
+ [":db/add"
+  "hirameki-patent:US2176375"
+  ":hirameki.obs/years-to-expiry"
+  -68]
+ [":db/add"
+  "hirameki-patent:US2176375"
+  ":hirameki/source"
+  "https://patents.google.com/patent/US2176375/en"]
+ [":db/add"
+  "hirameki-patent:US2176418"
+  ":hirameki.patent/title"
+  "Coating machine"]
+ [":db/add"
+  "hirameki-patent:US2176418"
+  ":hirameki.patent/jurisdiction"
+  ":us"]
+ [":db/add"
+  "hirameki-patent:US2176418"
+  ":hirameki.patent/field"
+  "UNKNOWN"]
+ [":db/add"
   "hirameki-patent:US2176418"
   ":hirameki.patent/assignee"
   ":chas-e-francis"]
@@ -10354,87 +10436,5 @@
   "Adhesive sheet"]
  [":db/add"
   "hirameki-patent:US2359314"
-  ":hirameki.patent/jurisdiction"
-  ":us"]
- [":db/add"
-  "hirameki-patent:US2359314"
-  ":hirameki.patent/field"
-  "UNKNOWN"]
- [":db/add"
-  "hirameki-patent:US2359314"
-  ":hirameki.patent/assignee"
-  ":beutex"]
- [":db/add"
-  "hirameki-patent:US2359314"
-  ":hirameki.patent/status"
-  ":granted"]
- [":db/add"
-  "hirameki-patent:US2359314"
-  ":hirameki.patent/open-license"
-  ":none"]
- [":db/add"
-  "hirameki-patent:US2359314"
-  ":hirameki.obs/release-status"
-  ":public-domain"]
- [":db/add"
-  "hirameki-patent:US2359314"
-  ":hirameki/sourcing"
-  ":authoritative"]
- [":db/add" "hirameki-patent:US2359314" ":hirameki/derived" true]
- [":db/add"
-  "hirameki-patent:US2359314"
-  ":hirameki.obs/years-to-expiry"
-  -67]
- [":db/add"
-  "hirameki-patent:US2359314"
-  ":hirameki/source"
-  "https://patents.google.com/patent/US2359314/en"]
- [":db/add"
-  "hirameki-patent:US2360216"
-  ":hirameki.patent/title"
-  "Subbing photographic paper supports"]
- [":db/add"
-  "hirameki-patent:US2360216"
-  ":hirameki.patent/jurisdiction"
-  ":us"]
- [":db/add"
-  "hirameki-patent:US2360216"
-  ":hirameki.patent/field"
-  "UNKNOWN"]
- [":db/add"
-  "hirameki-patent:US2360216"
-  ":hirameki.patent/assignee"
-  ":eastman-kodak"]
- [":db/add"
-  "hirameki-patent:US2360216"
-  ":hirameki.patent/status"
-  ":granted"]
- [":db/add"
-  "hirameki-patent:US2360216"
-  ":hirameki.patent/open-license"
-  ":none"]
- [":db/add"
-  "hirameki-patent:US2360216"
-  ":hirameki.obs/release-status"
-  ":public-domain"]
- [":db/add"
-  "hirameki-patent:US2360216"
-  ":hirameki/sourcing"
-  ":authoritative"]
- [":db/add" "hirameki-patent:US2360216" ":hirameki/derived" true]
- [":db/add"
-  "hirameki-patent:US2360216"
-  ":hirameki.obs/years-to-expiry"
-  -63]
- [":db/add"
-  "hirameki-patent:US2360216"
-  ":hirameki/source"
-  "https://patents.google.com/patent/US2360216/en"]
- [":db/add"
-  "hirameki-patent:US2360290"
-  ":hirameki.patent/title"
-  "Preventing formation of color fog in emulsions"]
- [":db/add"
-  "hirameki-patent:US2360290"
   ":hirameki.patent/jurisdiction"
   ":us"]]
