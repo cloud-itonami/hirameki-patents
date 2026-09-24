@@ -23,7 +23,7 @@
   do not match their manifest, and shards over the block limit. The published
   corpus cannot hold either without the repo being broken, so the only way to
   watch the refusal fire is to hand it something wrong on purpose."
-  (:require [clojure.test :refer [deftest is testing]]
+  (:require [kotoba.test :refer [deftest is testing]]
             [clojure.edn :as edn]
             [clojure.java.io :as io]
             [datascript.core]
