@@ -5,7 +5,7 @@
   alias so a fleet node — which has the git tree and nothing else — can be the
   verifier. Until now the machine that WROTE the corpus was also the only thing
   that ever checked it."
-  (:require [kotoba.lang.text] [clojure.test :refer [deftest is testing]]
+  (:require [kotoba.lang.text] [kotoba.test :refer [deftest is testing]]
             [hirameki-patents.checks :as checks]))
 
 (def dir ".")
