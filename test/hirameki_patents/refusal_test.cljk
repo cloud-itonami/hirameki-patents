@@ -23,20 +23,18 @@
   do not match their manifest, and shards over the block limit. The published
   corpus cannot hold either without the repo being broken, so the only way to
   watch the refusal fire is to hand it something wrong on purpose."
-  (:require [kotoba.test :refer [deftest is testing]]
+  (:require [kotoba.bytes :as kbytes] [kotoba.io :as kio] [kotoba.test :refer [deftest is testing]]
             [kotoba.lang.edn :as edn]
             [clojure.java.io :as io]
             [datascript.core]
             [kotoba.lang.text]
             [multiformats.core :as mf]
-            [hirameki-patents.checks :as checks])
-  (:import (java.nio.file Files)
-           (java.nio.file.attribute FileAttribute)))
+            [hirameki-patents.checks :as checks]))
 
 ;; ---------------------------------------------------------------- fixtures
 
 (defn- tmpdir []
-  (.toFile (Files/createTempDirectory "hirameki-refusal" (into-array FileAttribute []))))
+  (kio/temp-dir "hirameki-refusal"))
 
 (defn- delete-tree! [f]
   (when (.isDirectory f) (run! delete-tree! (.listFiles f)))
@@ -54,7 +52,7 @@
   is ever wrong."
   [dir rel text]
   (let [f (io/file dir rel)
-        raw (.getBytes ^String text "UTF-8")]
+        raw (kbytes/utf8-bytes ^String text)]
     (io/make-parents f)
     (spit f text)
     {:file rel :bytes (alength raw) :cid (mf/cidv1-raw raw)}))
@@ -94,7 +92,7 @@
 (deftest refuses-a-cid-that-does-not-match-the-bytes
   (testing "a shard whose declared CID belongs to different bytes — the one
             thing the manifest exists to make checkable"
-    (let [wrong (mf/cidv1-raw (.getBytes "not this shard" "UTF-8"))
+    (let [wrong (mf/cidv1-raw (kbytes/utf8-bytes "not this shard"))
           problems (verify-problems
                     (assoc-in (clean-corpus!) [:artifacts :corpus :parts 0 :cid] wrong))]
       (is (seq problems))
