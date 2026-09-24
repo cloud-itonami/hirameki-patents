@@ -15,7 +15,7 @@
   Both functions return a vector of problem strings — empty means clean. No
   printing, no exit codes; the CLI wrappers and the test namespace each decide
   what to do with them."
-  (:require [clojure.edn :as edn]
+  (:require [kotoba.lang.edn :as edn]
             [clojure.java.io :as io]
             [kotoba.lang.text :as str]
             [datascript.core :as d]
