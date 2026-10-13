@@ -24,7 +24,9 @@ def install(node):
         path = home + '/Library/LaunchAgents/' + label + '.plist'
         ssh(node, ['tee', path], input=body)
         uid = ssh(node, ['id', '-u']).decode().strip()
-        ssh(node, ['launchctl', 'bootstrap', 'gui/' + uid, path])
+        loaded = ssh(node, ['launchctl', 'print', 'gui/' + uid + '/' + label])
+        if label.encode() not in loaded:
+            ssh(node, ['launchctl', 'bootstrap', 'gui/' + uid, path])
     else:
         service = '[Unit]\nDescription=Bounded public EPO collector and IPFS custodian\nAfter=network-online.target\n[Service]\nType=oneshot\nExecStart=' + shlex.join(argv) + '\nWorkingDirectory=' + root + '\n'
         timer = '[Unit]\nDescription=Independent six-hour EPO collection\n[Timer]\nOnBootSec=10min\nOnUnitActiveSec=6h\nPersistent=true\n[Install]\nWantedBy=timers.target\n'

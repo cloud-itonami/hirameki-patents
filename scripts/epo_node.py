@@ -11,7 +11,6 @@ from pathlib import Path
 import re
 import subprocess
 import tempfile
-from urllib.request import urlopen
 
 LIMIT = 262144
 BASE = 'https://data.epo.org/linked-data/data/publication/EP.json'
@@ -99,8 +98,9 @@ def collect(args):
         page = previous['nextPage']
         url = BASE + f'?_pageSize=10&_view=all&_page={page}'
         now = dt.datetime.now(dt.timezone.utc).isoformat()
-        with urlopen(url, timeout=45) as response:
-            raw = response.read(2 * 1024 * 1024 + 1)
+        # Overall wall-clock deadline includes DNS/TLS and slow response bodies.
+        raw = subprocess.check_output(['curl', '--fail', '--silent', '--show-error',
+            '--connect-timeout', '10', '--max-time', '45', '--max-filesize', '2097152', url], timeout=55)
         if len(raw) > 2 * 1024 * 1024:
             raise ValueError('oversized EPO response')
         payload = json.loads(raw)
