@@ -11,6 +11,7 @@ parser = argparse.ArgumentParser(description=__doc__)
 parser.add_argument('--runtime', required=True)
 parser.add_argument('--nodes', required=True)
 parser.add_argument('--commit', required=True)
+parser.add_argument('--monitor-only', action='store_true')
 args = parser.parse_args()
 root = Path(args.runtime).resolve()
 scripts = root / 'scripts'
@@ -29,8 +30,19 @@ body = {'Label': label, 'ProgramArguments': [sys.executable, str(scripts / 'epo_
     'EnvironmentVariables': {'PATH': '/opt/homebrew/bin:/usr/bin:/bin:/usr/sbin:/sbin'},
     'StandardOutPath': str(root / 'logs/out.log'), 'StandardErrorPath': str(root / 'logs/err.log')}
 path = Path.home() / 'Library/LaunchAgents' / (label + '.plist')
-if path.exists():
+if path.exists() and not args.monitor_only:
     raise RuntimeError('existing projector definition; preserve and reconcile explicitly')
-path.write_bytes(plistlib.dumps(body))
-subprocess.run(['launchctl', 'bootstrap', f'gui/{__import__("os").getuid()}', str(path)], check=True)
-print(str(path))
+if not args.monitor_only:
+    path.write_bytes(plistlib.dumps(body))
+    subprocess.run(['launchctl', 'bootstrap', f'gui/{__import__("os").getuid()}', str(path)], check=True)
+    print(str(path))
+monitor_label = 'com.cloud-itonami.epo-monitor'
+monitor = dict(body, Label=monitor_label, StartInterval=300,
+    ProgramArguments=[sys.executable, str(scripts / 'epo_monitor.py'), '--nodes', str(nodes), '--state', str(root / 'state')],
+    StandardOutPath=str(root / 'logs/monitor-out.log'), StandardErrorPath=str(root / 'logs/monitor-err.log'))
+monitor_path = Path.home() / 'Library/LaunchAgents' / (monitor_label + '.plist')
+if monitor_path.exists():
+    raise RuntimeError('existing monitor definition; preserve and reconcile explicitly')
+monitor_path.write_bytes(plistlib.dumps(monitor))
+subprocess.run(['launchctl', 'bootstrap', f'gui/{__import__("os").getuid()}', str(monitor_path)], check=True)
+print(str(monitor_path))
