@@ -41,6 +41,13 @@ def install(nodes):
             'Addresses.Announce': [f'/ip4/{host}/tcp/4003'],
             'Bootstrap': [], 'Routing.Type': 'none', 'Provide.Enabled': False,
             'Discovery.MDNS.Enabled': False,
+            'AutoTLS.Enabled': False,
+            'Swarm.Transports.Network.TCP': True,
+            'Swarm.Transports.Network.Websocket': False,
+            'Swarm.Transports.Network.QUIC': False,
+            'Swarm.Transports.Network.Relay': False,
+            'Swarm.Transports.Network.WebTransport': False,
+            'Swarm.Transports.Network.WebRTCDirect': False,
             'Peering.Peers': [{'ID': other['peerId'], 'Addrs': [f'/ip4/{tailnet_host(other)}/tcp/4003']}
                              for other in nodes if other['name'] != node['name']],
         }
