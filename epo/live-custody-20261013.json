@@ -1,0 +1,129 @@
+{
+  "at": "2026-10-13T10:02:02.415410+00:00",
+  "publicRelease": "https://github.com/cloud-itonami/hirameki-patents/releases/tag/epo-af3475b8504f0ddf4c605e62",
+  "manifestSha256": "af3475b8504f0ddf4c605e623650608b7e4e56b963f6eb3214b333302316148f",
+  "shards": [
+    {
+      "assetRelease": "epo-shards-202610",
+      "bytes": 7881,
+      "cid": "bafkreidat2uqpqu2to7c4hhfccvevvzvz7v7z6ixm5fcnjmi5n5qr4sxxu",
+      "page": 0,
+      "records": 10,
+      "retrievedAt": "2026-10-13T09:59:22.223567+00:00",
+      "sha256": "609ea907c29a9bbe2e1ce510aa4ad735cfebfcf917674a26a588eb7b08f257bd",
+      "source": "https://data.epo.org/linked-data/data/publication/EP.json?_pageSize=10&_view=all&_page=0"
+    },
+    {
+      "assetRelease": "epo-shards-202610",
+      "bytes": 6989,
+      "cid": "bafkreidgxox5zpdpv4wdh5l5wb3orrxgn5btk5p34ntgarmsnpeotkishe",
+      "page": 1,
+      "records": 10,
+      "retrievedAt": "2026-10-13T10:00:52.310237+00:00",
+      "sha256": "66bbafdcbc6faf2c33f57db076e8c6e66f433575fbe3666045926bc8e9a91239",
+      "source": "https://data.epo.org/linked-data/data/publication/EP.json?_pageSize=10&_view=all&_page=1"
+    },
+    {
+      "assetRelease": "epo-shards-202610",
+      "bytes": 7881,
+      "cid": "bafkreidlor7geiyrgt425ojn6zf7hd5oh2p3ylgcpswxd4x7a7ldplbr5u",
+      "page": 0,
+      "records": 10,
+      "retrievedAt": "2026-10-13T09:59:15.238673+00:00",
+      "sha256": "6b747e62231134f9aeb92df64bf38fae3e9fbc2cc27cad71f2ff07d637ac31ed",
+      "source": "https://data.epo.org/linked-data/data/publication/EP.json?_pageSize=10&_view=all&_page=0"
+    }
+  ],
+  "replicaReceipts": [
+    {
+      "bytes": 7881,
+      "cid": "bafkreidat2uqpqu2to7c4hhfccvevvzvz7v7z6ixm5fcnjmi5n5qr4sxxu",
+      "node": "jacob",
+      "sha256": "609ea907c29a9bbe2e1ce510aa4ad735cfebfcf917674a26a588eb7b08f257bd",
+      "status": "pinned-and-readback"
+    },
+    {
+      "bytes": 7881,
+      "cid": "bafkreidat2uqpqu2to7c4hhfccvevvzvz7v7z6ixm5fcnjmi5n5qr4sxxu",
+      "node": "xavier",
+      "sha256": "609ea907c29a9bbe2e1ce510aa4ad735cfebfcf917674a26a588eb7b08f257bd",
+      "status": "pinned-and-readback"
+    },
+    {
+      "bytes": 6989,
+      "cid": "bafkreidgxox5zpdpv4wdh5l5wb3orrxgn5btk5p34ntgarmsnpeotkishe",
+      "node": "jacob",
+      "sha256": "66bbafdcbc6faf2c33f57db076e8c6e66f433575fbe3666045926bc8e9a91239",
+      "status": "pinned-and-readback"
+    },
+    {
+      "bytes": 6989,
+      "cid": "bafkreidgxox5zpdpv4wdh5l5wb3orrxgn5btk5p34ntgarmsnpeotkishe",
+      "node": "xavier",
+      "sha256": "66bbafdcbc6faf2c33f57db076e8c6e66f433575fbe3666045926bc8e9a91239",
+      "status": "pinned-and-readback"
+    },
+    {
+      "bytes": 7881,
+      "cid": "bafkreidlor7geiyrgt425ojn6zf7hd5oh2p3ylgcpswxd4x7a7ldplbr5u",
+      "node": "jacob",
+      "sha256": "6b747e62231134f9aeb92df64bf38fae3e9fbc2cc27cad71f2ff07d637ac31ed",
+      "status": "pinned-and-readback"
+    },
+    {
+      "bytes": 7881,
+      "cid": "bafkreidlor7geiyrgt425ojn6zf7hd5oh2p3ylgcpswxd4x7a7ldplbr5u",
+      "node": "xavier",
+      "sha256": "6b747e62231134f9aeb92df64bf38fae3e9fbc2cc27cad71f2ff07d637ac31ed",
+      "status": "pinned-and-readback"
+    }
+  ],
+  "storageMode": "isolated offline IPFS repositories; existing authenticated node transport; no new public listening ports",
+  "pilot": {
+    "publicRelease": "https://github.com/cloud-itonami/hirameki-patents/releases/tag/epo-hyakka-pilot-20261013",
+    "publications": 11,
+    "claims": 98,
+    "receipts": [
+      {
+        "status": "pinned-and-readback",
+        "node": "jacob",
+        "cid": "bafkreidonuihlxvdshaymvixtwjddzo3whdl4wm73vff5tfdcr3y3k3c2a",
+        "sha256": "6e6d1075dea391c18655179d9231e5dbb1c6be599fdd4a5ecca314778dab62d0",
+        "bytes": 164922
+      },
+      {
+        "status": "pinned-and-readback",
+        "node": "xavier",
+        "cid": "bafkreidonuihlxvdshaymvixtwjddzo3whdl4wm73vff5tfdcr3y3k3c2a",
+        "sha256": "6e6d1075dea391c18655179d9231e5dbb1c6be599fdd4a5ecca314778dab62d0",
+        "bytes": 164922
+      }
+    ]
+  },
+  "collectorFault": {
+    "fault": "Jacob collector timer stopped; host and stored data retained",
+    "survivor": {
+      "status": "collected-and-pinned",
+      "node": "xavier",
+      "cid": "bafkreidgxox5zpdpv4wdh5l5wb3orrxgn5btk5p34ntgarmsnpeotkishe",
+      "sha256": "66bbafdcbc6faf2c33f57db076e8c6e66f433575fbe3666045926bc8e9a91239",
+      "bytes": 6989,
+      "records": 10,
+      "page": 1,
+      "source": "https://data.epo.org/linked-data/data/publication/EP.json?_pageSize=10&_view=all&_page=1",
+      "retrievedAt": "2026-10-13T10:00:52.310237+00:00"
+    },
+    "restored": "Jacob timer reloaded with offline custody configuration"
+  },
+  "promotionFault": {
+    "oneCustodianUnreachable": true,
+    "nonzeroExit": true,
+    "lastPublishedPreserved": true
+  },
+  "limits": [
+    "EP only; not worldwide complete",
+    "GitHub projection depends on operator Mac",
+    "public IPFS gateway retrieval not qualified",
+    "six-hour collector timer not yet observed over a full interval"
+  ]
+}

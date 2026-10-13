@@ -32,9 +32,11 @@ and read path; collection does not use GitHub Actions.
 Runtime entry points:
 
 ```
-python3 -m unittest discover -s test -p test_epo_node.py
+python3 -m unittest discover -s test -p 'test_epo*.py'
 python3 scripts/install_epo_nodes.py --nodes <private-node-inventory>
 python3 scripts/epo_publish.py --nodes <private-node-inventory> --state <scratch-state> --commit <merged-full-SHA>
+python3 scripts/install_epo_projector.py --nodes <private-node-inventory> --runtime <operator-workspace> --commit <merged-full-SHA>
+python3 scripts/epo_monitor.py --nodes <private-node-inventory> --state <operator-workspace>/state
 ```
 
 The GitHub projector uses the operator Mac's existing `gh` authentication.
