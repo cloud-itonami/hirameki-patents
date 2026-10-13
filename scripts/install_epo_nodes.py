@@ -15,12 +15,13 @@ def install(node):
     run(['scp', '-q', str(ROOT / 'scripts/epo_node.py'), node['ssh'] + ':' + root + '/epo_node.py'])
     argv = [node['python'], root + '/epo_node.py', 'collect', '--node', node['name'], '--state', root + '/state',
             '--ipfs-bin', node['ipfsBin'], '--ipfs-path', node['ipfsPath'], '--api', node['api']]
-    if node['name'] == 'jacob':
+    if ssh(node, ['uname', '-s']).decode().strip() == 'Darwin':
         label = 'com.cloud-itonami.epo-collector'
         body = plistlib.dumps({'Label': label, 'ProgramArguments': argv,
             'WorkingDirectory': root, 'StartInterval': 21600, 'RunAtLoad': False,
             'StandardOutPath': root + '/logs/out.log', 'StandardErrorPath': root + '/logs/err.log'})
-        path = '/Users/junkawasaki/Library/LaunchAgents/' + label + '.plist'
+        home = ssh(node, [node['python'], '-c', 'from pathlib import Path; print(Path.home())']).decode().strip()
+        path = home + '/Library/LaunchAgents/' + label + '.plist'
         ssh(node, ['tee', path], input=body)
         uid = ssh(node, ['id', '-u']).decode().strip()
         ssh(node, ['launchctl', 'bootstrap', 'gui/' + uid, path])
