@@ -34,7 +34,10 @@ def install(node):
         ssh(node, ['tee', '/etc/systemd/system/epo-collector.timer'], input=timer.encode())
         ssh(node, ['systemctl', 'daemon-reload'])
         ssh(node, ['systemctl', 'enable', '--now', 'epo-collector.timer'])
-    print(ssh(node, argv, timeout=180).decode().strip())
+    result = json.loads(ssh(node, argv, timeout=180))
+    if result.get('status') != 'collected-and-pinned' or result.get('node') != node['name']:
+        raise ValueError('collector did not return a positive node-specific receipt')
+    print(json.dumps(result), flush=True)
 
 
 if __name__ == '__main__':
