@@ -11,6 +11,8 @@ from pathlib import Path
 import re
 import subprocess
 import tempfile
+import time
+from contextlib import contextmanager
 
 LIMIT = 262144
 BASE = 'https://data.epo.org/linked-data/data/publication/EP.json'
@@ -90,11 +92,26 @@ def store(args, data):
     return {'cid': expected, 'sha256': hashlib.sha256(data).hexdigest(), 'bytes': len(data)}
 
 
+@contextmanager
+def custody_lock(state):
+    state.mkdir(parents=True, exist_ok=True)
+    with (state / 'lock').open('a+') as lock:
+        deadline = time.monotonic() + 60
+        while True:
+            try:
+                fcntl.flock(lock, fcntl.LOCK_EX | fcntl.LOCK_NB)
+                break
+            except BlockingIOError:
+                if time.monotonic() >= deadline:
+                    raise RuntimeError('custody repository busy beyond deadline')
+                time.sleep(0.2)
+        yield
+
+
 def collect(args):
     state = Path(args.state)
     state.mkdir(parents=True, exist_ok=True)
-    with (state / 'lock').open('a+') as lock:
-        fcntl.flock(lock, fcntl.LOCK_EX | fcntl.LOCK_NB)
+    with custody_lock(state):
         previous = json.loads((state / 'current.json').read_text()) if (state / 'current.json').exists() else {'nextPage': 0, 'shards': []}
         page = previous['nextPage']
         url = BASE + f'?_pageSize=10&_view=all&_page={page}'
@@ -141,7 +158,8 @@ def main():
             obj = json.loads(data)
             if not isinstance(obj, dict):
                 raise ValueError('expected JSON patent object')
-            print(json.dumps({'status': 'pinned-and-readback', 'node': args.node, **store(args, data)}))
+            with custody_lock(Path(args.state)):
+                print(json.dumps({'status': 'pinned-and-readback', 'node': args.node, **store(args, data)}))
     except Exception as error:
         if args.command == 'collect':
             atomic(Path(args.state) / 'health.json', canonical({'status': 'failed', 'node': args.node,

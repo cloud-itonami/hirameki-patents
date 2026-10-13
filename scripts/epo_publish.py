@@ -78,7 +78,7 @@ def publish(args):
                     run(['scp', '-q', str(path), node['ssh'] + ':' + target])
                     r = json.loads(ssh(node, [node['python'], node['root'] + '/epo_node.py', 'pin',
                         '--file', target, '--node', node['name'], '--state', node['root'] + '/state',
-                        '--ipfs-bin', node['ipfsBin'], '--ipfs-path', node['ipfsPath'], '--api', node['api']]))
+                        '--ipfs-bin', node['ipfsBin'], '--ipfs-path', node['ipfsPath'], '--api', node['api']], timeout=300))
                     if r['cid'] != identity or r['status'] != 'pinned-and-readback':
                         raise ValueError('replica receipt differs')
                     receipts.append(r)

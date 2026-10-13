@@ -44,6 +44,10 @@ Credentials are not sent to either collector. This is a remaining publication
 dependency: collector and IPFS storage survive loss of the Mac, but new GitHub
 Releases wait until its projector resumes. Two collectors are not distributed
 consensus, and IPFS pins alone do not establish public-gateway availability.
+The projector runs hourly; a separate five-minute monitor checks fresh collector
+health and anonymously reads actual public manifest/shard bytes. It records a
+durable failed health result and exits nonzero on an unavailable/stale read. The
+Hyakka source-scout monitor also calls this check before its daily agent run.
 The public Hyakka Worker currently remains the separate initial pilot view.
 The operator inventory may select `api: offline` for dedicated IPFS repositories:
 this opens no new listening port. Such custody is recoverable over the existing

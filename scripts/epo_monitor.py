@@ -7,6 +7,7 @@ import json
 from pathlib import Path
 import subprocess
 from epo_publish import ssh, validate, REPO
+from epo_node import atomic, canonical
 
 
 def check(state, nodes):
@@ -43,4 +44,13 @@ if __name__ == '__main__':
     p.add_argument('--state', required=True)
     p.add_argument('--nodes', required=True)
     args = p.parse_args()
-    print(json.dumps(check(Path(args.state), json.loads(Path(args.nodes).read_text()))))
+    state = Path(args.state)
+    try:
+        result = check(state, json.loads(Path(args.nodes).read_text()))
+        result['at'] = dt.datetime.now(dt.timezone.utc).isoformat()
+        atomic(state / 'monitor-health.json', canonical(result))
+        print(json.dumps(result))
+    except Exception as error:
+        atomic(state / 'monitor-health.json', canonical({'status': 'failed',
+            'at': dt.datetime.now(dt.timezone.utc).isoformat(), 'error': str(error)[:300]}))
+        raise
