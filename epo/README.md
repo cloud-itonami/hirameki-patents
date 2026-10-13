@@ -43,4 +43,7 @@ dependency: collector and IPFS storage survive loss of the Mac, but new GitHub
 Releases wait until its projector resumes. Two collectors are not distributed
 consensus, and IPFS pins alone do not establish public-gateway availability.
 The public Hyakka Worker currently remains the separate initial pilot view.
+The operator inventory may select `api: offline` for dedicated IPFS repositories:
+this opens no new listening port. Such custody is recoverable over the existing
+authenticated node transport, but is not a public IPFS gateway claim.
 See `live-custody-20261013.json` for measured receipts, not a configuration claim.

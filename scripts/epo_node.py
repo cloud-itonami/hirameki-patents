@@ -74,7 +74,8 @@ def parse(payload, source, fetched):
 
 def ipfs(args, *command):
     env = dict(os.environ, IPFS_PATH=args.ipfs_path)
-    return subprocess.check_output([args.ipfs_bin, '--api', args.api, *command], env=env, timeout=90)
+    mode = ['--offline'] if args.api == 'offline' else ['--api', args.api]
+    return subprocess.check_output([args.ipfs_bin, *mode, *command], env=env, timeout=90)
 
 
 def store(args, data):
