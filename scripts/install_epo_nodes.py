@@ -1,0 +1,38 @@
+#!/usr/bin/env python3
+"""Install only the patent collector on existing Kubo hosts; preserve other jobs."""
+import json
+from pathlib import Path
+import plistlib
+import shlex
+import subprocess
+from epo_publish import ROOT, run, ssh
+
+
+def install(node):
+    root = node['root']
+    ssh(node, ['mkdir', '-p', root + '/state', root + '/logs'])
+    run(['scp', '-q', str(ROOT / 'scripts/epo_node.py'), node['ssh'] + ':' + root + '/epo_node.py'])
+    argv = [node['python'], root + '/epo_node.py', 'collect', '--node', node['name'], '--state', root + '/state',
+            '--ipfs-bin', node['ipfsBin'], '--ipfs-path', node['ipfsPath'], '--api', node['api']]
+    if node['name'] == 'jacob':
+        label = 'com.cloud-itonami.epo-collector'
+        body = plistlib.dumps({'Label': label, 'ProgramArguments': argv,
+            'WorkingDirectory': root, 'StartInterval': 21600, 'RunAtLoad': False,
+            'StandardOutPath': root + '/logs/out.log', 'StandardErrorPath': root + '/logs/err.log'})
+        path = '/Users/junkawasaki/Library/LaunchAgents/' + label + '.plist'
+        ssh(node, ['tee', path], input=body)
+        uid = ssh(node, ['id', '-u']).decode().strip()
+        ssh(node, ['launchctl', 'bootstrap', 'gui/' + uid, path])
+    else:
+        service = '[Unit]\nDescription=Bounded public EPO collector and IPFS custodian\nAfter=network-online.target\n[Service]\nType=oneshot\nExecStart=' + shlex.join(argv) + '\nWorkingDirectory=' + root + '\n'
+        timer = '[Unit]\nDescription=Independent six-hour EPO collection\n[Timer]\nOnBootSec=10min\nOnUnitActiveSec=6h\nPersistent=true\n[Install]\nWantedBy=timers.target\n'
+        ssh(node, ['tee', '/etc/systemd/system/epo-collector.service'], input=service.encode())
+        ssh(node, ['tee', '/etc/systemd/system/epo-collector.timer'], input=timer.encode())
+        ssh(node, ['systemctl', 'daemon-reload'])
+        ssh(node, ['systemctl', 'enable', '--now', 'epo-collector.timer'])
+    print(ssh(node, argv, timeout=180).decode().strip())
+
+
+if __name__ == '__main__':
+    for node in json.loads((ROOT / 'epo/nodes.json').read_text()):
+        install(node)
