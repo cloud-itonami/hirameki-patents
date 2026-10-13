@@ -63,7 +63,7 @@ def publish(args):
                     data = ssh(node, ['cat', node['root'] + '/state/objects/' + row['cid'] + '.json'])
                     validate(data, row)
                     gathered[row['cid']] = data
-                    inventory[row['cid']] = row
+                    inventory[row['cid']] = dict(row, assetRelease='epo-shards-' + row['retrievedAt'][:7].replace('-', ''))
             nodes_status.append({'node': node['name'], 'collectedAt': current['collectedAt'], 'nextPage': current['nextPage']})
         if not gathered or len(gathered) > 900:
             raise ValueError('empty or oversized release; rotate release epoch')
@@ -90,18 +90,31 @@ def publish(args):
             path = directory / 'manifest.json'
             path.write_bytes(body)
             tag = 'epo-' + hashlib.sha256(body).hexdigest()[:24]
+            for bucket in sorted({r['assetRelease'] for r in inventory.values()}):
+                view = subprocess.run(['gh', 'release', 'view', bucket, '--repo', REPO, '--json', 'assets'], capture_output=True, timeout=45)
+                if view.returncode:
+                    run(['gh', 'release', 'create', bucket, '--repo', REPO, '--target', args.commit,
+                        '--title', 'Immutable content-addressed EPO shards ' + bucket, '--notes', 'CC BY 4.0 European Patent Office. Assets are append-only and never overwritten.', '--latest=false'])
+                    known = set()
+                else:
+                    known = {a['name'] for a in json.loads(view.stdout)['assets']}
+                additions = [directory / (k + '.json') for k, r in inventory.items() if r['assetRelease'] == bucket and k + '.json' not in known]
+                if additions:
+                    run(['gh', 'release', 'upload', bucket, '--repo', REPO, *map(str, additions)], timeout=300)
             found = subprocess.run(['gh', 'release', 'view', tag, '--repo', REPO], capture_output=True, timeout=45)
             if found.returncode:
                 run(['gh', 'release', 'create', tag, '--repo', REPO, '--target', args.commit,
                     '--title', 'EPO public bibliographic observations ' + tag,
                     '--notes', 'Bounded EP backfill, not worldwide completeness. CC BY 4.0 European Patent Office. Inventor/person and legal-validity fields excluded. Every shard is raw-CID verified on Jacob and Xavier.',
-                    '--latest=false', *map(str, sorted(directory.glob('*.json')))], timeout=300)
+                    '--latest=false', str(path)], timeout=300)
             restore = directory / 'restore'
             restore.mkdir()
             run(['gh', 'release', 'download', tag, '--repo', REPO, '--dir', str(restore)], timeout=300)
             if (restore / 'manifest.json').read_bytes() != body:
                 raise ValueError('GitHub manifest readback differs')
             for identity in gathered:
+                run(['gh', 'release', 'download', inventory[identity]['assetRelease'], '--repo', REPO,
+                    '--pattern', identity + '.json', '--dir', str(restore)], timeout=120)
                 validate((restore / (identity + '.json')).read_bytes(), inventory[identity])
             result = {'status': 'published-and-restored', 'at': dt.datetime.now(dt.timezone.utc).isoformat(),
                 'release': f'https://github.com/{REPO}/releases/tag/{tag}', 'manifestSha256': hashlib.sha256(body).hexdigest(),

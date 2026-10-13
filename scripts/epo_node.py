@@ -53,11 +53,19 @@ def parse(payload, source, fetched):
         titles = row.get('titleOfInvention', [])
         if isinstance(titles, str):
             titles = [titles]
+        application = row.get('application', {})
+        application_number = application.get('applicationNumber') if isinstance(application, dict) else None
+        if isinstance(application, str):
+            application_match = re.fullmatch(r'http://data\.epo\.org/linked-data/id/application/EP/(\d+)', application)
+            application_number = application_match.group(1) if application_match else None
+        ipc = row.get('classificationIPCInventive', [])
+        if isinstance(ipc, dict):
+            ipc = [ipc]
         values = {'id': f'{office}-{number}-{kind}', 'authority': office,
                   'title': [v for v in titles if isinstance(v, str)],
                   'publicationDate': row.get('publicationDate'),
-                  'applicationNumber': row.get('application', {}).get('applicationNumber'),
-                  'ipc': [v['label'] for v in row.get('classificationIPCInventive', []) if isinstance(v.get('label'), str)]}
+                  'applicationNumber': application_number,
+                  'ipc': [v['label'] for v in ipc if isinstance(v, dict) and isinstance(v.get('label'), str)]}
         if not values['title']:
             raise ValueError('publication without title')
         output.append({'publication': values, 'provenance': {'url': source, 'retrievedAt': fetched,
@@ -100,9 +108,15 @@ def collect(args):
         data = canonical({'schema': 'epo-bibliography.v1', 'complete': False, 'observations': observations})
         shard = store(args, data)
         shard.update({'records': len(observations), 'page': page, 'source': url, 'retrievedAt': now})
+        shards = previous['shards']
+        if previous.get('epoch') and previous['epoch'] != now[:7]:
+            archive = canonical(previous)
+            store(args, archive)
+            atomic(state / 'inventories' / (previous['epoch'] + '.json'), archive)
+            shards = []
         result = {'schema': 'epo-node.v1', 'node': args.node, 'collectedAt': now,
                   'nextPage': page + 1 if payload['result'].get('next') else 0,
-                  'complete': False, 'shards': previous['shards'] + [shard]}
+                  'complete': False, 'epoch': now[:7], 'shards': shards + [shard]}
         atomic(state / 'current.json', canonical(result))
         atomic(state / 'health.json', canonical({'status': 'ok', 'node': args.node, 'at': now, 'lastShard': shard}))
         print(json.dumps({'status': 'collected-and-pinned', 'node': args.node, **shard}))

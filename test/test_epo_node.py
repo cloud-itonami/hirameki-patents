@@ -29,6 +29,14 @@ class ParseTest(unittest.TestCase):
         with self.assertRaisesRegex(ValueError, 'contradictory EP identity'):
             mod.parse({'format': 'linked-data-api', 'result': {'items': [row]}}, mod.BASE, 'now')
 
+    def test_live_uri_and_single_classification(self):
+        row = self.row()
+        row['application'] = 'http://data.epo.org/linked-data/id/application/EP/99402631'
+        row['classificationIPCInventive'] = {'label': 'G03B 21/00'}
+        out = mod.parse({'format': 'linked-data-api', 'result': {'items': [row]}}, mod.BASE, 'now')[0]['publication']
+        self.assertEqual('99402631', out['applicationNumber'])
+        self.assertEqual(['G03B 21/00'], out['ipc'])
+
     def test_shard_bound(self):
         with self.assertRaisesRegex(ValueError, 'oversized shard'):
             mod.store(None, b'x' * (mod.LIMIT + 1))

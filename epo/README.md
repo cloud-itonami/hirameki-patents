@@ -23,8 +23,10 @@ custodian refuses promotion and leaves the previous release available.
 
 Git contains small bibliographic data and manifests. Growing snapshots use
 GitHub Releases with small assets, rather than accumulating large binary history
-or using paid Git LFS. Each release is limited here to 900 shards; rotate the
-release epoch before reaching that bound. GitHub is a public storage/projection
+or using paid Git LFS. Immutable assets are stored once per monthly shard release;
+snapshot releases hold manifests that reference those assets. Node inventories
+rotate monthly while retaining and pinning the previous inventory. Each epoch
+is limited to 900 shards. GitHub is a public storage/projection
 and read path; collection does not use GitHub Actions.
 
 Runtime entry points:
