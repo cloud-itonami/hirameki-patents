@@ -1,0 +1,63 @@
+{
+  "at": "2026-10-13T13:09:08.150590+00:00",
+  "scope": "Tailnet-only direct IPFS peers; public DHT disabled",
+  "nodes": [
+    {
+      "node": "jacob",
+      "tailnetOnlyListenVerified": true,
+      "localhostAdminAndGatewayVerified": true,
+      "privatePeerConnected": true
+    },
+    {
+      "node": "xavier",
+      "tailnetOnlyListenVerified": true,
+      "localhostAdminAndGatewayVerified": true,
+      "privatePeerConnected": true
+    }
+  ],
+  "peerFetch": {
+    "source": "jacob",
+    "receiver": "xavier",
+    "wasAbsentLocally": true,
+    "cid": "bafkreibylb6lrjq777vff3f6or3ziuhpxb2uwho7qr52n7u7aocvlxxcay",
+    "bytes": 7537,
+    "sha256": "38587cb8a61fffea52ecbe74779450efb8754b1ddf847ba6fe9f038555dee206",
+    "verifiedAndPinned": true
+  },
+  "faultDrill": {
+    "at": "2026-10-13T13:10:24.068493+00:00",
+    "fault": "only Jacob patent Kubo stopped; other Kubo services and host retained",
+    "readFailover": {
+      "status": "verified-peer-read",
+      "node": "xavier",
+      "cid": "bafkreibylb6lrjq777vff3f6or3ziuhpxb2uwho7qr52n7u7aocvlxxcay",
+      "sha256": "38587cb8a61fffea52ecbe74779450efb8754b1ddf847ba6fe9f038555dee206",
+      "bytes": 7537,
+      "failedPeers": [
+        "jacob"
+      ]
+    },
+    "survivingCollection": {
+      "status": "collected-and-pinned",
+      "node": "xavier",
+      "cid": "bafkreifsn76raz3l4d2mf7b7tbzmwrvezukptjyodjtgk5fgy4mbv3wmh4",
+      "sha256": "b26ffd10676be0f4c2fc3f9872cb46a4cd14f9a70e1a666574a6c7181aeecc3f",
+      "bytes": 7339,
+      "records": 10,
+      "page": 3,
+      "source": "https://data.epo.org/linked-data/data/publication/EP.json?_pageSize=10&_view=all&_page=3",
+      "retrievedAt": "2026-10-13T13:10:27.217290+00:00"
+    },
+    "restartRequested": true,
+    "recoveryPeerFetch": {
+      "source": "xavier",
+      "receiver": "jacob",
+      "cid": "bafkreifsn76raz3l4d2mf7b7tbzmwrvezukptjyodjtgk5fgy4mbv3wmh4",
+      "wasAbsentLocally": true,
+      "verifiedAndPinned": true
+    }
+  },
+  "publicGatewayQualification": false,
+  "publications": "EP bounded backfill; not worldwide completeness",
+  "githubProjection": "operator Mac hourly job; separate remaining dependency"
+}

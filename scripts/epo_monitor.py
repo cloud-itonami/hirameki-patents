@@ -23,6 +23,22 @@ def check(state, nodes):
             raise ValueError('node collection failed')
         if (dt.datetime.now(dt.timezone.utc) - dt.datetime.fromisoformat(current['at'])).total_seconds() > 25200:
             raise ValueError('node collection older than seven hours')
+        if node.get('api') != 'offline':
+            if node.get('api') != '/ip4/127.0.0.1/tcp/5003':
+                raise ValueError('unexpected patent Kubo API scope')
+            identity = json.loads(ssh(node, ['curl', '-fsS', '--max-time', '10', '-X', 'POST',
+                'http://127.0.0.1:5003/api/v0/id']))
+            if identity.get('ID') != node.get('peerId'):
+                raise ValueError('patent Kubo identity differs')
+            listeners = json.loads(ssh(node, ['curl', '-fsS', '--max-time', '10', '-X', 'POST',
+                'http://127.0.0.1:5003/api/v0/swarm/addrs/listen']))
+            if listeners.get('Strings') != ['/ip4/' + node['ssh'].rsplit('@',1)[-1] + '/tcp/4003']:
+                raise ValueError('patent Swarm listener scope differs')
+            peers = json.loads(ssh(node, ['curl', '-fsS', '--max-time', '10', '-X', 'POST',
+                'http://127.0.0.1:5003/api/v0/swarm/peers']))
+            expected = {n['peerId'] for n in nodes if n['name'] != node['name']}
+            if not expected.issubset({p['Peer'] for p in peers.get('Peers',[])}):
+                raise ValueError('patent direct peer disconnected')
     tag = success['release'].rsplit('/', 1)[-1]
     def public_bytes(url):
         return subprocess.check_output(['curl', '--fail', '--silent', '--show-error', '--location',

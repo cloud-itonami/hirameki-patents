@@ -53,3 +53,24 @@ The operator inventory may select `api: offline` for dedicated IPFS repositories
 this opens no new listening port. Such custody is recoverable over the existing
 authenticated node transport, but is not a public IPFS gateway claim.
 See `live-custody-20261013.json` for measured receipts, not a configuration claim.
+
+## Tailnet peer distribution, enabled after explicit approval
+
+The existing patent repositories now have dedicated persistent Kubo services on
+Jacob and Xavier. Swarm listens on each Tailnet interface's TCP 4003 only;
+management API and gateway remain localhost. Public DHT/provider announcements,
+mDNS, relay, AutoTLS/WebSocket and UDP transports are disabled. Persisted direct
+peering reconnects after restart. Other Kubo services were not restarted.
+
+`live-tailnet-custody-20261013.json` records an absent-local-CID fetch from Jacob
+to Xavier, a read fallback and continued collection while only Jacob's patent
+Kubo was stopped, and the reverse missing-CID fetch after recovery. Every read
+is checked against expected bytes, SHA-256 and raw CID. This qualifies private
+peer distribution; it does not expose a public IPFS gateway or remove the Mac's
+GitHub projection dependency.
+
+The five-minute monitor also checks actual dedicated peer identity, the exact
+Swarm listener and direct peer connection. `scripts/fetch_patent_peer.py` reads
+through the existing authenticated SSH transport to either localhost gateway,
+falling back on timeout, unavailability or integrity mismatch; zero peers fails.
+Node addresses and custody configuration remain in the private inventory.
